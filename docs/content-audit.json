@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1232,
-    "distinctAnswers": 526,
-    "distinctAnswerCluePairs": 612,
-    "distinctIntroductions": 40,
-    "numberedTitles": 60,
-    "editedEditions": 25
+    "clueEntries": 1225,
+    "distinctAnswers": 556,
+    "distinctAnswerCluePairs": 648,
+    "distinctIntroductions": 44,
+    "numberedTitles": 56,
+    "editedEditions": 30
   },
   "refinedSeries": [
     {
@@ -159,6 +159,36 @@
         "A Comfortable Hotel Stay",
         "Postcards & Travel Memories"
       ]
+    },
+    {
+      "id": "cozy-at-home",
+      "name": "Home",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "cozy-at-home",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "In the Living Room",
+        "Tools at the Kitchen Counter",
+        "Laundry Day Words",
+        "At the Front Door",
+        "A Place for Everything"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -201,16 +231,6 @@
         "by-the-sea-3",
         "by-the-sea-4",
         "by-the-sea-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "cozy-at-home",
-        "cozy-at-home-2",
-        "cozy-at-home-3",
-        "cozy-at-home-4",
-        "cozy-at-home-5"
       ]
     },
     {
@@ -321,16 +341,6 @@
       "occurrences": 5
     },
     {
-      "answer": "CLOCK",
-      "clue": "An object that tells the time",
-      "occurrences": 5
-    },
-    {
-      "answer": "CLOSET",
-      "clue": "A small space for storing clothes",
-      "occurrences": 5
-    },
-    {
       "answer": "DEW",
       "clue": "Drops of water that form on grass overnight",
       "occurrences": 5
@@ -414,6 +424,16 @@
       "answer": "BOAT",
       "clue": "A vessel used to travel on water",
       "occurrences": 4
+    },
+    {
+      "answer": "BOWL",
+      "clue": "A round dish for pet food",
+      "occurrences": 4
+    },
+    {
+      "answer": "BREAD",
+      "clue": "A food baked in a loaf",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
@@ -434,13 +454,6 @@
     {
       "first": "a-stitch-in-time",
       "second": "a-stitch-in-time-2",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "cozy-at-home",
-      "second": "cozy-at-home-5",
       "sharedClues": 9,
       "jaccard": 0.563,
       "sameSeries": true
@@ -516,13 +529,6 @@
       "sameSeries": true
     },
     {
-      "first": "cozy-at-home-3",
-      "second": "cozy-at-home-4",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
       "first": "flower-favorites-2",
       "second": "flower-favorites-3",
       "sharedClues": 9,
@@ -553,6 +559,20 @@
     {
       "first": "a-day-at-the-farm-3",
       "second": "a-day-at-the-farm-4",
+      "sharedClues": 9,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "in-the-workshop",
+      "second": "in-the-workshop-5",
+      "sharedClues": 9,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "sunday-baking-4",
+      "second": "sunday-baking-5",
       "sharedClues": 9,
       "jaccard": 0.5,
       "sameSeries": true
@@ -606,23 +626,6 @@
         "LACE",
         "PIN",
         "HEM"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "cozy-at-home",
-      "second": "cozy-at-home-5",
-      "sharedAnswers": [
-        "PILLOW",
-        "CLOSET",
-        "TOWEL",
-        "FRAME",
-        "CLOCK",
-        "ROOM",
-        "DESK",
-        "BED",
-        "RUG"
       ],
       "jaccard": 0.563,
       "sameSeries": true
@@ -796,23 +799,6 @@
       "sameSeries": true
     },
     {
-      "first": "cozy-at-home-3",
-      "second": "cozy-at-home-4",
-      "sharedAnswers": [
-        "CLOSET",
-        "CLOCK",
-        "CHAIR",
-        "TABLE",
-        "WALL",
-        "DESK",
-        "BOOK",
-        "RUG",
-        "KEY"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
       "first": "flower-favorites-2",
       "second": "flower-favorites-3",
       "sharedAnswers": [
@@ -893,6 +879,40 @@
         "SILO",
         "HAY",
         "EGG"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "in-the-workshop",
+      "second": "in-the-workshop-5",
+      "sharedAnswers": [
+        "PLIERS",
+        "PAINT",
+        "RULER",
+        "LEVEL",
+        "SCREW",
+        "TAPE",
+        "BOLT",
+        "NAIL",
+        "SAW"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "sunday-baking-4",
+      "second": "sunday-baking-5",
+      "sharedAnswers": [
+        "COOKIE",
+        "TIMER",
+        "YEAST",
+        "DOUGH",
+        "ICING",
+        "OATS",
+        "EGG",
+        "PAN",
+        "PIE"
       ],
       "jaccard": 0.5,
       "sameSeries": true
@@ -998,14 +1018,14 @@
     {
       "id": "cozy-at-home",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "autumn-walk",

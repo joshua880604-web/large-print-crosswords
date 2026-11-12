@@ -1,0 +1,497 @@
+[
+  {
+    "id": "cozy-at-home",
+    "title": "In the Living Room",
+    "subtheme": "Living Room Comforts",
+    "cardDescription": "Seats, soft furnishings, and familiar living-room objects.",
+    "description": "Make yourself comfortable with a crossword about the seats, soft furnishings, and everyday objects found in a living room.",
+    "focus": "This puzzle looks at furniture and furnishings around a sitting area. Clues distinguish the whole item from one of its parts or a smaller accessory. Some familiar words have other meanings elsewhere, so the living-room setting helps point to the intended answer.",
+    "solvingTip": "Look for the object's job: supporting a person, protecting a table from a glass, displaying flowers, or covering a window. A furnishing and its small accessory can have different names. Start with a familiar short object to help cross into a longer furniture word.",
+    "words": [
+      [
+        "SOFA",
+        "Long upholstered seat for more than one person"
+      ],
+      [
+        "CHAIR",
+        "A seat designed for one person"
+      ],
+      [
+        "CUSHION",
+        "Soft padded support placed on a seat"
+      ],
+      [
+        "LAMP",
+        "A movable light used for reading or lighting a room"
+      ],
+      [
+        "RUG",
+        "A floor covering that does not usually cover the entire room"
+      ],
+      [
+        "CURTAIN",
+        "Fabric panel hung at a window"
+      ],
+      [
+        "BLIND",
+        "Window covering with slats or a roll-up surface"
+      ],
+      [
+        "DRAPE",
+        "A hanging fabric window covering, often heavier than a sheer panel"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top supported above the floor"
+      ],
+      [
+        "COASTER",
+        "Small mat placed beneath a drinking glass"
+      ],
+      [
+        "OTTOMAN",
+        "Padded footrest that may also provide extra seating"
+      ],
+      [
+        "FOOTSTOOL",
+        "Low piece of furniture used to support the feet"
+      ],
+      [
+        "REMOTE",
+        "Handheld control used to change a television channel"
+      ],
+      [
+        "SCREEN",
+        "Surface on which a television picture appears"
+      ],
+      [
+        "CLOCK",
+        "An object that displays the time of day"
+      ],
+      [
+        "VASE",
+        "Container used to display cut flowers"
+      ],
+      [
+        "MANTEL",
+        "Shelf-like structure above a fireplace"
+      ],
+      [
+        "HEARTH",
+        "Floor area at the base of a fireplace"
+      ],
+      [
+        "FIREPLACE",
+        "Built-in place in a room where a contained fire may burn"
+      ],
+      [
+        "FRAME",
+        "Bordered holder around a photograph or picture"
+      ]
+    ],
+    "answerNotes": {
+      "COASTER": "Coaster means the small protective mat under a drink here. It can also name an amusement-park ride, but the reference to a glass fixes the household meaning.",
+      "OTTOMAN": "An ottoman is a padded footrest or low seat. Some versions have storage inside, but that extra feature is not required by the clue.",
+      "MANTEL": "Mantel names the structure above a fireplace. Mantle is a different spelling with other meanings, so the location and ending letters both help.",
+      "HEARTH": "The hearth is at the base of a fireplace, while the mantel is above it. The positional word in the clue distinguishes two related features.",
+      "LAMP": "A lamp is the lighting device, not just the bulb inside it. The clue describes a movable room light rather than the electrical part alone.",
+      "RUG": "A rug commonly covers part of a floor. Carpet often describes a larger installed covering, although everyday use of the words can overlap."
+    }
+  },
+  {
+    "id": "cozy-at-home-2",
+    "title": "Tools at the Kitchen Counter",
+    "subtheme": "Kitchen Utensils",
+    "cardDescription": "Utensils for mixing, serving, peeling, and draining.",
+    "description": "Find familiar kitchen utensils through clear clues about everyday jobs, from peeling a vegetable to serving soup.",
+    "focus": "The answers name utensils and cookware rather than foods or recipe quantities. Most clues describe the task an item performs, while partial phrases identify familiar kitchen tools. Similar-looking tools can have different jobs, so pay attention to the action in each clue.",
+    "solvingTip": "Identify the job before choosing a tool: mixing, lifting, peeling, or separating. A deep serving tool is different from a wire-loop mixing tool. Short cookware names can give you a foothold among the longer utensil names.",
+    "words": [
+      [
+        "KNIFE",
+        "Cutting utensil with a sharpened blade"
+      ],
+      [
+        "SPOON",
+        "Eating or stirring utensil with a small rounded bowl"
+      ],
+      [
+        "FORK",
+        "Eating utensil with several pointed tines"
+      ],
+      [
+        "WHISK",
+        "Wire-loop tool used to beat eggs or blend ingredients"
+      ],
+      [
+        "LADLE",
+        "Deep-bowled utensil used to serve soup"
+      ],
+      [
+        "SPATULA",
+        "Flat tool commonly used to lift or turn food in a pan"
+      ],
+      [
+        "TONGS",
+        "Paired gripping arms used to lift or hold food"
+      ],
+      [
+        "PEELER",
+        "Tool used to remove the thin outer skin of a vegetable"
+      ],
+      [
+        "GRATER",
+        "Perforated tool used to shred cheese or vegetables"
+      ],
+      [
+        "COLANDER",
+        "Bowl with drainage holes, often used for pasta"
+      ],
+      [
+        "STRAINER",
+        "Tea ___: a mesh tool that catches loose leaves"
+      ],
+      [
+        "BOARD",
+        "Cutting ___: a surface used for chopping food"
+      ],
+      [
+        "APRON",
+        "Protective covering tied over clothing while cooking"
+      ],
+      [
+        "MITT",
+        "Oven ___: padded hand covering for handling hot cookware"
+      ],
+      [
+        "PAN",
+        "Shallow cooking vessel often used for frying"
+      ],
+      [
+        "POT",
+        "Deep cooking vessel commonly used for soup or boiling water"
+      ],
+      [
+        "BOWL",
+        "Rounded open container used for mixing or serving"
+      ],
+      [
+        "LID",
+        "Removable cover for a cooking vessel"
+      ],
+      [
+        "SIEVE",
+        "Fine-mesh tool used to sift flour or separate small particles"
+      ],
+      [
+        "MASHER",
+        "Potato ___: a handled tool for crushing cooked potatoes"
+      ]
+    ],
+    "answerNotes": {
+      "LADLE": "A ladle has a deep bowl for transferring liquids such as soup. That shape separates it from the flatter tool described by a turning or lifting clue.",
+      "COLANDER": "A colander is usually a bowl-shaped draining vessel with holes. A fine-mesh strainer or sieve may catch smaller particles, so the clue's shape and task matter.",
+      "SPATULA": "Spatula is used for several kitchen tools. Here, the clue describes the flat lifting or turning kind rather than a flexible scraper for the side of a bowl.",
+      "TONGS": "Tongs grip food between two arms. The plural-looking word names one utensil, which is why the clue describes paired arms rather than two separate tools.",
+      "SIEVE": "A sieve uses a screen or mesh to separate material by particle size. The flour-sifting example helps distinguish its task from draining a large pot of pasta.",
+      "PEELER": "A peeler removes a thin outer layer. A grater makes shreds, so the two tools are not interchangeable in the wording of these clues."
+    }
+  },
+  {
+    "id": "cozy-at-home-3",
+    "title": "Laundry Day Words",
+    "subtheme": "Clothes & Laundry",
+    "cardDescription": "Clothing, wash-cycle words, and familiar laundry equipment.",
+    "description": "Work through a gentle crossword about clothing and the familiar words used around a washer, dryer, and laundry basket.",
+    "focus": "This puzzle combines laundry objects with the words for common stages of washing and finishing clothes. Some answers name equipment, some describe an action, and others identify a fabric item or something removed from it. The clues explain the intended everyday meaning.",
+    "solvingTip": "Decide whether the clue asks for a machine, an action, or a piece of clothing. A complete program and one rinsing or spinning stage have different names. Short action words can help you cross into the longer equipment names.",
+    "words": [
+      [
+        "WASHER",
+        "Machine that cleans clothing in water"
+      ],
+      [
+        "DRYER",
+        "Machine that removes moisture from laundry"
+      ],
+      [
+        "BASKET",
+        "Open container used to carry a load of laundry"
+      ],
+      [
+        "HAMPER",
+        "Laundry container whose name also means hinder"
+      ],
+      [
+        "DETERGENT",
+        "Cleaning product commonly added to a washing machine"
+      ],
+      [
+        "SOAP",
+        "Cleaning material traditionally made from fats and an alkali"
+      ],
+      [
+        "RINSE",
+        "Wash away remaining cleaning product with water"
+      ],
+      [
+        "SPIN",
+        "Turn rapidly to extract water in a washing-machine stage"
+      ],
+      [
+        "CYCLE",
+        "A complete programmed sequence of washing-machine stages"
+      ],
+      [
+        "LINT",
+        "Small loose fibers shed from fabrics"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth used for drying the body or hands"
+      ],
+      [
+        "SHEET",
+        "Large piece of fabric used as a covering on a bed"
+      ],
+      [
+        "SOCK",
+        "A foot covering worn inside a shoe"
+      ],
+      [
+        "SHIRT",
+        "An upper-body garment commonly having sleeves"
+      ],
+      [
+        "STAIN",
+        "A discolored mark left on fabric"
+      ],
+      [
+        "CLOTHESPIN",
+        "Clip used to hold washing on a line"
+      ],
+      [
+        "IRON",
+        "Heated appliance used to smooth wrinkles in fabric"
+      ],
+      [
+        "STEAM",
+        "Water vapor that may come from a clothes-pressing appliance"
+      ],
+      [
+        "BLEACH",
+        "Whitening agent sometimes used in laundering"
+      ],
+      [
+        "FOLD",
+        "Bend fabric over itself to make a neater, smaller shape"
+      ]
+    ],
+    "answerNotes": {
+      "LINT": "Lint consists of small fibers released from fabric. A stain is a mark or discoloration, so the clue's description of fibers points to a different answer.",
+      "RINSE": "Rinse names the stage that uses water to remove remaining cleaning product. Spin names a different action, using rapid rotation to help remove water.",
+      "CYCLE": "A cycle is the whole programmed sequence. An individual rinse or spin stage can be part of that sequence rather than another name for the entire cycle.",
+      "IRON": "Iron is the appliance in this household context. The word can also name a metal, but the reference to pressing fabric selects the appliance meaning.",
+      "HAMPER": "Hamper is a container in this clue. It also has a verb meaning to hinder, which does not fit the reference to collecting clothes.",
+      "CLOTHESPIN": "Clothespin is the familiar American word for the clip that holds washing on a line. Clothes peg is common in British English for the same object."
+    }
+  },
+  {
+    "id": "cozy-at-home-4",
+    "title": "At the Front Door",
+    "subtheme": "Entrance & Porch",
+    "cardDescription": "Doors, steps, and the familiar details of a home's entrance.",
+    "description": "Picture an entrance and solve familiar clues about door fittings, porch features, and the path that leads up to a home.",
+    "focus": "The answers concern the entrance area and nearby fittings. Clues distinguish an opening from its hardware and a walking surface from a support beside it. Several short household words have other meanings elsewhere, so the location described is part of the clue.",
+    "solvingTip": "Notice whether the clue describes an opening, a signal, a place to stand, or something held for support. A door panel and the key used with its lock have different jobs. Short partial phrases can help connect the longer entrance-area words.",
+    "words": [
+      [
+        "DOOR",
+        "Movable panel used to close an entrance to a room or building"
+      ],
+      [
+        "KEY",
+        "Small item cut to fit and operate a particular lock"
+      ],
+      [
+        "LOCK",
+        "Mechanism that secures a door and may be opened with a key"
+      ],
+      [
+        "LATCH",
+        "Door fastener whose name rhymes with catch"
+      ],
+      [
+        "KNOB",
+        "Rounded door handle turned by hand"
+      ],
+      [
+        "HANDLE",
+        "Part grasped to pull or push a door"
+      ],
+      [
+        "HINGE",
+        "Joint that lets a door swing open or closed"
+      ],
+      [
+        "DOORBELL",
+        "Device pressed by a visitor to sound a signal inside a home"
+      ],
+      [
+        "PORCH",
+        "Covered outdoor space attached to a house, often near its entrance"
+      ],
+      [
+        "STOOP",
+        "Small platform or group of steps just outside an entrance"
+      ],
+      [
+        "MAT",
+        "Door ___: a covering on which shoes can be wiped"
+      ],
+      [
+        "STEP",
+        "One level foothold in a flight of stairs"
+      ],
+      [
+        "STAIR",
+        "One of the ascending steps connecting building levels"
+      ],
+      [
+        "RAIL",
+        "Hand___: a support grasped beside steps"
+      ],
+      [
+        "MAILBOX",
+        "Container where a household receives delivered letters"
+      ],
+      [
+        "SLOT",
+        "Narrow opening through which letters can be pushed"
+      ],
+      [
+        "GATE",
+        "Movable opening panel in a fence"
+      ],
+      [
+        "PATH",
+        "A narrow way leading toward a doorway"
+      ],
+      [
+        "UMBRELLA",
+        "Foldable canopy carried to keep rain off a person"
+      ],
+      [
+        "CHIME",
+        "A ringing tone that may announce a visitor"
+      ]
+    ],
+    "answerNotes": {
+      "STOOP": "Stoop can name the platform or steps outside an entrance. It also means to bend the body, but the doorway context selects the structure.",
+      "HINGE": "A hinge allows the door to pivot. A handle is grasped, and a latch holds the door closed; the different jobs help distinguish these hardware terms.",
+      "GATE": "Gate here means an opening panel in a fence. At an airport the word can name a boarding area, but the home-entrance clue specifies the fence meaning.",
+      "RAIL": "Handrail is often written as one word, but the partial phrase supplies hand and asks you to fill the remaining part. The intended object is a support beside steps.",
+      "LATCH": "Latch rhymes with catch, which supplies a spelling hint alongside the door-fastener meaning. The clue does not ask for the key-operated security mechanism.",
+      "KNOB": "A knob is a rounded kind of handle. Other handles may have levers or pulls, so the clue uses the shape to narrow the intended word."
+    }
+  },
+  {
+    "id": "cozy-at-home-5",
+    "title": "A Place for Everything",
+    "subtheme": "Closets & Storage",
+    "cardDescription": "Shelves, drawers, and the parts of everyday storage.",
+    "description": "Enjoy a small organizing-themed crossword about storage furniture, compartments, and the containers that keep belongings together.",
+    "focus": "This puzzle follows where household objects are kept and how they are grouped. A whole cabinet, a pull-out compartment, and a single horizontal support are different answers. One short action word describes putting things away, while the object clues describe the storage itself.",
+    "solvingTip": "Notice whether a clue names the whole storage unit, a pull-out part, or a lining. A paired set and a bundle describe groups of items, while a container is the object holding them. The word indicating an action asks you to put things away.",
+    "words": [
+      [
+        "SHELF",
+        "Horizontal board used to support stored or displayed objects"
+      ],
+      [
+        "DRAWER",
+        "Pull-out compartment in a piece of furniture"
+      ],
+      [
+        "CABINET",
+        "Storage furniture with doors and enclosed compartments"
+      ],
+      [
+        "CLOSET",
+        "Small built-in space used to store clothing or household items"
+      ],
+      [
+        "HANGER",
+        "Shaped support on which a garment is hung"
+      ],
+      [
+        "BIN",
+        "Open container used to hold or sort objects"
+      ],
+      [
+        "BOX",
+        "Container commonly made of cardboard with flat sides"
+      ],
+      [
+        "CHEST",
+        "Storage container often opened by lifting a hinged top"
+      ],
+      [
+        "CUBBY",
+        "Small open compartment for storing personal belongings"
+      ],
+      [
+        "DIVIDER",
+        "Partition used to keep groups of objects apart"
+      ],
+      [
+        "LABEL",
+        "Tag or marking that identifies the contents of a container"
+      ],
+      [
+        "LINER",
+        "Material placed inside a drawer to cover its bottom"
+      ],
+      [
+        "STACK",
+        "Place objects one above another"
+      ],
+      [
+        "SORT",
+        "Arrange items into groups by type or another shared feature"
+      ],
+      [
+        "PAIR",
+        "A matched set of two, such as two shoes"
+      ],
+      [
+        "SPACE",
+        "Room available for storing something"
+      ],
+      [
+        "FOLDER",
+        "Folded cover used to keep papers together"
+      ],
+      [
+        "FILE",
+        "A collection of papers kept together for reference"
+      ],
+      [
+        "BUNDLE",
+        "A group of items tied or wrapped together"
+      ],
+      [
+        "STOW",
+        "Put items away in a suitable storage place"
+      ]
+    ],
+    "answerNotes": {
+      "DRAWER": "A drawer is the sliding compartment, not the entire cabinet or dresser. The pull-out movement in the clue identifies that particular part.",
+      "SHELF": "A shelf is one horizontal support. Shelving or a cabinet can include several of them, so a clue asking for one board takes the singular answer.",
+      "LINER": "A liner covers the inside surface of something. In this clue it is material at the bottom of a drawer, not a person or a whole storage container.",
+      "PAIR": "Pair names two things considered together. It sounds like pear, the fruit, but the reference to matching shoes selects the quantity meaning.",
+      "CLOSET": "A closet is an enclosed storage space, often built into a room. A cabinet is a piece of storage furniture; the clue's reference to a built-in space helps distinguish them.",
+      "SORT": "Sort is used as a verb meaning to arrange things by a shared feature. It does not mean a type or kind, which is another everyday use of the word."
+    }
+  }
+]

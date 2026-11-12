@@ -1,0 +1,569 @@
+[
+  {
+    "id": "cozy-at-home",
+    "title": "Cozy at Home",
+    "theme": "Food & Home",
+    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "PILLOW",
+        "clue": "A soft support for your head in bed",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CLOSET",
+        "clue": "A small space for storing clothes",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MIRROR",
+        "clue": "A surface that shows your reflection",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "TOWEL",
+        "clue": "A cloth used to dry your hands",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "QUILT",
+        "clue": "A warm bed covering made from layers of fabric",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FRAME",
+        "clue": "A border that holds a photograph",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CLOCK",
+        "clue": "An object that tells the time",
+        "row": 4,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "ROOM",
+        "clue": "One separate space inside a house",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "WALL",
+        "clue": "A vertical structure dividing rooms",
+        "row": 9,
+        "col": 6,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "DOOR",
+        "clue": "An entrance that opens and closes",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DESK",
+        "clue": "A table used for writing or working",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BED",
+        "clue": "Furniture used for sleeping",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "RUG",
+        "clue": "A covering for part of a floor",
+        "row": 10,
+        "col": 1,
+        "direction": "across",
+        "number": 12
+      }
+    ]
+  },
+  {
+    "id": "cozy-at-home-2",
+    "title": "Cozy at Home \u2014 No. 2",
+    "theme": "Food & Home",
+    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "PILLOW",
+        "clue": "A soft support for your head in bed",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CLOSET",
+        "clue": "A small space for storing clothes",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MIRROR",
+        "clue": "A surface that shows your reflection",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CHAIR",
+        "clue": "A piece of furniture for one person to sit on",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "TABLE",
+        "clue": "Furniture with a flat top for meals",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TOWEL",
+        "clue": "A cloth used to dry your hands",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FRAME",
+        "clue": "A border that holds a photograph",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CLOCK",
+        "clue": "An object that tells the time",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DOOR",
+        "clue": "An entrance that opens and closes",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ROOM",
+        "clue": "One separate space inside a house",
+        "row": 9,
+        "col": 2,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "ROOF",
+        "clue": "The top covering of a house",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "BOOK",
+        "clue": "Pages bound together for reading",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LAMP",
+        "clue": "An electric light for a desk or bedside",
+        "row": 11,
+        "col": 9,
+        "direction": "across",
+        "number": 13
+      }
+    ]
+  },
+  {
+    "id": "cozy-at-home-3",
+    "title": "Cozy at Home \u2014 No. 3",
+    "theme": "Food & Home",
+    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CLOSET",
+        "clue": "A small space for storing clothes",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CLOCK",
+        "clue": "An object that tells the time",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CHAIR",
+        "clue": "A piece of furniture for one person to sit on",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TABLE",
+        "clue": "Furniture with a flat top for meals",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "QUILT",
+        "clue": "A warm bed covering made from layers of fabric",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "TOWEL",
+        "clue": "A cloth used to dry your hands",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "WALL",
+        "clue": "A vertical structure dividing rooms",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "VASE",
+        "clue": "A container for cut flowers",
+        "row": 8,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "DESK",
+        "clue": "A table used for writing or working",
+        "row": 11,
+        "col": 5,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "DOOR",
+        "clue": "An entrance that opens and closes",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BOOK",
+        "clue": "Pages bound together for reading",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "RUG",
+        "clue": "A covering for part of a floor",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "KEY",
+        "clue": "A small metal item used to unlock a door",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      }
+    ]
+  },
+  {
+    "id": "cozy-at-home-4",
+    "title": "Cozy at Home \u2014 No. 4",
+    "theme": "Food & Home",
+    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CLOSET",
+        "clue": "A small space for storing clothes",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PILLOW",
+        "clue": "A soft support for your head in bed",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "FRAME",
+        "clue": "A border that holds a photograph",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CLOCK",
+        "clue": "An object that tells the time",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TABLE",
+        "clue": "Furniture with a flat top for meals",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SHELF",
+        "clue": "A board that holds books or other objects",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "CHAIR",
+        "clue": "A piece of furniture for one person to sit on",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "BOOK",
+        "clue": "Pages bound together for reading",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "WALL",
+        "clue": "A vertical structure dividing rooms",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "DESK",
+        "clue": "A table used for writing or working",
+        "row": 3,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "RUG",
+        "clue": "A covering for part of a floor",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "BED",
+        "clue": "Furniture used for sleeping",
+        "row": 4,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "KEY",
+        "clue": "A small metal item used to unlock a door",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "cozy-at-home-5",
+    "title": "Cozy at Home \u2014 No. 5",
+    "theme": "Food & Home",
+    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "difficulty": "Easy",
+    "rows": 9,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "CLOSET",
+        "clue": "A small space for storing clothes",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PILLOW",
+        "clue": "A soft support for your head in bed",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "TOWEL",
+        "clue": "A cloth used to dry your hands",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FRAME",
+        "clue": "A border that holds a photograph",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CLOCK",
+        "clue": "An object that tells the time",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "VASE",
+        "clue": "A container for cut flowers",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "ROOM",
+        "clue": "One separate space inside a house",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DESK",
+        "clue": "A table used for writing or working",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "LAMP",
+        "clue": "An electric light for a desk or bedside",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BED",
+        "clue": "Furniture used for sleeping",
+        "row": 6,
+        "col": 9,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "KEY",
+        "clue": "A small metal item used to unlock a door",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "RUG",
+        "clue": "A covering for part of a floor",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      }
+    ]
+  }
+]

@@ -82,3 +82,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 26 Playwright tests passed, including all twenty-five note sections and archive routes, independent old/new progress in all five edited families, and search discovery under the original travel series name.
 - All five new travel print sheets exported as single US Letter pages in Chromium. Hotel reader notes visually inspected. Static HTML output now totals 334 pages, while the canonical sitemap remains at 108 URLs.
 - Local verification does not establish Cloudflare deployment completion, target-user difficulty, physical printer results, professional review, or Google indexing/ranking.
+
+## Home editorial batch — 2026-11-12
+
+- Changed only the five current cozy-at-home puzzles. The other 95 puzzle objects, including all twenty-five previously edited editions, remain unchanged.
+- Subjects: In the Living Room, Tools at the Kitchen Counter, Laundry Day Words, At the Front Door, and A Place for Everything. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Aligned guidance with the placed vocabulary, including kitchen utensil purposes, a complete laundry cycle versus its individual stages, porch features, and storage containers and parts. Laundry reader notes were visually inspected.
+- Home series: 64 entries / 21 distinct answer-clue pairs before; 57 entries / 57 distinct pairs after. The collection remains 100 current puzzles with 1,225 entries, 648 distinct answer-clue pairs, 44 introductions, and 30 edited editions. Seventy current puzzles remain in the editorial queue.
+- Full regeneration reproduced all 100 current puzzles exactly and preserved all thirty original layouts. Stable IDs, separate edition progress, and the noindex previous-edition routes retain access to saved original games.
+- Build, content/SEO audits, TypeScript and 27 Playwright tests passed, including all thirty reader-note sections and archive routes, saved-game isolation for all six edited families, and discovery under the original home series name.
+- All five changed print sheets exported as single US Letter pages in Chromium. Static output totals 339 HTML pages; the canonical sitemap remains at 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.

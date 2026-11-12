@@ -945,118 +945,124 @@
   },
   {
     "id": "cozy-at-home",
-    "title": "Cozy at Home",
+    "title": "In the Living Room",
     "theme": "Food & Home",
-    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "subtheme": "Living Room Comforts",
+    "series": "cozy-at-home",
+    "description": "Make yourself comfortable with a crossword about the seats, soft furnishings, and everyday objects found in a living room.",
+    "cardDescription": "Seats, soft furnishings, and familiar living-room objects.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 9,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "PILLOW",
-        "clue": "A soft support for your head in bed",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "CLOSET",
-        "clue": "A small space for storing clothes",
-        "row": 4,
-        "col": 4,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "MIRROR",
-        "clue": "A surface that shows your reflection",
+        "answer": "FOOTSTOOL",
+        "clue": "Low piece of furniture used to support the feet",
         "row": 5,
-        "col": 1,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "TOWEL",
-        "clue": "A cloth used to dry your hands",
-        "row": 9,
-        "col": 4,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "QUILT",
-        "clue": "A warm bed covering made from layers of fabric",
-        "row": 6,
-        "col": 8,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "FRAME",
-        "clue": "A border that holds a photograph",
-        "row": 8,
         "col": 0,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "CLOCK",
-        "clue": "An object that tells the time",
-        "row": 4,
-        "col": 4,
         "direction": "across",
         "number": 5
       },
       {
-        "answer": "ROOM",
-        "clue": "One separate space inside a house",
-        "row": 2,
+        "answer": "CUSHION",
+        "clue": "Soft padded support placed on a seat",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "COASTER",
+        "clue": "Small mat placed beneath a drinking glass",
+        "row": 4,
         "col": 6,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "WALL",
-        "clue": "A vertical structure dividing rooms",
-        "row": 9,
-        "col": 6,
-        "direction": "down",
-        "number": 11
+        "answer": "HEARTH",
+        "clue": "Floor area at the base of a fireplace",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 8
       },
       {
-        "answer": "DOOR",
-        "clue": "An entrance that opens and closes",
+        "answer": "TABLE",
+        "clue": "Furniture with a flat top supported above the floor",
         "row": 2,
-        "col": 3,
-        "direction": "across",
+        "col": 8,
+        "direction": "down",
         "number": 3
       },
       {
-        "answer": "DESK",
-        "clue": "A table used for writing or working",
-        "row": 1,
-        "col": 8,
+        "answer": "FRAME",
+        "clue": "Bordered holder around a photograph or picture",
+        "row": 5,
+        "col": 0,
         "direction": "down",
-        "number": 2
+        "number": 5
       },
       {
-        "answer": "BED",
-        "clue": "Furniture used for sleeping",
+        "answer": "DRAPE",
+        "clue": "A hanging fabric window covering, often heavier than a sheer panel",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CHAIR",
+        "clue": "A seat designed for one person",
         "row": 0,
-        "col": 3,
-        "direction": "down",
+        "col": 2,
+        "direction": "across",
         "number": 1
       },
       {
+        "answer": "VASE",
+        "clue": "Container used to display cut flowers",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SOFA",
+        "clue": "Long upholstered seat for more than one person",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
         "answer": "RUG",
-        "clue": "A covering for part of a floor",
-        "row": 10,
-        "col": 1,
-        "direction": "across",
-        "number": 12
+        "clue": "A floor covering that does not usually cover the entire room",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at furniture and furnishings around a sitting area. Clues distinguish the whole item from one of its parts or a smaller accessory. Some familiar words have other meanings elsewhere, so the living-room setting helps point to the intended answer.",
+      "solvingTip": "Look for the object's job: supporting a person, protecting a table from a glass, displaying flowers, or covering a window. A furnishing and its small accessory can have different names. Start with a familiar short object to help cross into a longer furniture word.",
+      "answerNotes": [
+        {
+          "answer": "COASTER",
+          "text": "Coaster means the small protective mat under a drink here. It can also name an amusement-park ride, but the reference to a glass fixes the household meaning."
+        },
+        {
+          "answer": "HEARTH",
+          "text": "The hearth is at the base of a fireplace, while the mantel is above it. The positional word in the clue distinguishes two related features."
+        },
+        {
+          "answer": "RUG",
+          "text": "A rug commonly covers part of a floor. Carpet often describes a larger installed covering, although everyday use of the words can overlap."
+        }
+      ]
+    }
   },
   {
     "id": "autumn-walk",
@@ -3243,118 +3249,132 @@
   },
   {
     "id": "cozy-at-home-2",
-    "title": "Cozy at Home \u2014 No. 2",
+    "title": "Tools at the Kitchen Counter",
     "theme": "Food & Home",
-    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "subtheme": "Kitchen Utensils",
+    "series": "cozy-at-home",
+    "description": "Find familiar kitchen utensils through clear clues about everyday jobs, from peeling a vegetable to serving soup.",
+    "cardDescription": "Utensils for mixing, serving, peeling, and draining.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 13,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "PILLOW",
-        "clue": "A soft support for your head in bed",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "CLOSET",
-        "clue": "A small space for storing clothes",
+        "answer": "STRAINER",
+        "clue": "Tea ___: a mesh tool that catches loose leaves",
         "row": 5,
-        "col": 5,
-        "direction": "down",
+        "col": 1,
+        "direction": "across",
         "number": 5
       },
       {
-        "answer": "MIRROR",
-        "clue": "A surface that shows your reflection",
-        "row": 2,
-        "col": 7,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "CHAIR",
-        "clue": "A piece of furniture for one person to sit on",
-        "row": 3,
-        "col": 4,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "TABLE",
-        "clue": "Furniture with a flat top for meals",
-        "row": 10,
-        "col": 5,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "TOWEL",
-        "clue": "A cloth used to dry your hands",
-        "row": 7,
-        "col": 9,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "FRAME",
-        "clue": "A border that holds a photograph",
-        "row": 9,
-        "col": 1,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "CLOCK",
-        "clue": "An object that tells the time",
+        "answer": "PEELER",
+        "clue": "Tool used to remove the thin outer skin of a vegetable",
         "row": 0,
-        "col": 4,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "DOOR",
-        "clue": "An entrance that opens and closes",
-        "row": 8,
-        "col": 8,
+        "answer": "TONGS",
+        "clue": "Paired gripping arms used to lift or hold food",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WHISK",
+        "clue": "Wire-loop tool used to beat eggs or blend ingredients",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "LADLE",
+        "clue": "Deep-bowled utensil used to serve soup",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "KNIFE",
+        "clue": "Cutting utensil with a sharpened blade",
+        "row": 7,
+        "col": 5,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "ROOM",
-        "clue": "One separate space inside a house",
+        "answer": "SIEVE",
+        "clue": "Fine-mesh tool used to sift flour or separate small particles",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SPOON",
+        "clue": "Eating or stirring utensil with a small rounded bowl",
         "row": 9,
         "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "FORK",
+        "clue": "Eating utensil with several pointed tines",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "POT",
+        "clue": "Deep cooking vessel commonly used for soup or boiling water",
+        "row": 8,
+        "col": 4,
         "direction": "down",
         "number": 10
       },
       {
-        "answer": "ROOF",
-        "clue": "The top covering of a house",
-        "row": 11,
+        "answer": "LID",
+        "clue": "Removable cover for a cooking vessel",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PAN",
+        "clue": "Shallow cooking vessel often used for frying",
+        "row": 7,
         "col": 0,
         "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "BOOK",
-        "clue": "Pages bound together for reading",
-        "row": 4,
-        "col": 1,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "LAMP",
-        "clue": "An electric light for a desk or bedside",
-        "row": 11,
-        "col": 9,
-        "direction": "across",
-        "number": 13
+        "number": 7
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers name utensils and cookware rather than foods or recipe quantities. Most clues describe the task an item performs, while partial phrases identify familiar kitchen tools. Similar-looking tools can have different jobs, so pay attention to the action in each clue.",
+      "solvingTip": "Identify the job before choosing a tool: mixing, lifting, peeling, or separating. A deep serving tool is different from a wire-loop mixing tool. Short cookware names can give you a foothold among the longer utensil names.",
+      "answerNotes": [
+        {
+          "answer": "PEELER",
+          "text": "A peeler removes a thin outer layer. A grater makes shreds, so the two tools are not interchangeable in the wording of these clues."
+        },
+        {
+          "answer": "TONGS",
+          "text": "Tongs grip food between two arms. The plural-looking word names one utensil, which is why the clue describes paired arms rather than two separate tools."
+        },
+        {
+          "answer": "LADLE",
+          "text": "A ladle has a deep bowl for transferring liquids such as soup. That shape separates it from the flatter tool described by a turning or lifting clue."
+        }
+      ]
+    }
   },
   {
     "id": "autumn-walk-2",
@@ -5549,118 +5569,124 @@
   },
   {
     "id": "cozy-at-home-3",
-    "title": "Cozy at Home \u2014 No. 3",
+    "title": "Laundry Day Words",
     "theme": "Food & Home",
-    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "subtheme": "Clothes & Laundry",
+    "series": "cozy-at-home",
+    "description": "Work through a gentle crossword about clothing and the familiar words used around a washer, dryer, and laundry basket.",
+    "cardDescription": "Clothing, wash-cycle words, and familiar laundry equipment.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 11,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "CLOSET",
-        "clue": "A small space for storing clothes",
+        "answer": "CLOTHESPIN",
+        "clue": "Clip used to hold washing on a line",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
-        "number": 7
+        "number": 6
       },
       {
-        "answer": "CLOCK",
-        "clue": "An object that tells the time",
-        "row": 3,
+        "answer": "DETERGENT",
+        "clue": "Cleaning product commonly added to a washing machine",
+        "row": 2,
         "col": 5,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "CHAIR",
-        "clue": "A piece of furniture for one person to sit on",
-        "row": 5,
-        "col": 3,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "TABLE",
-        "clue": "Furniture with a flat top for meals",
-        "row": 1,
-        "col": 7,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "QUILT",
-        "clue": "A warm bed covering made from layers of fabric",
-        "row": 1,
-        "col": 3,
+        "answer": "SHIRT",
+        "clue": "An upper-body garment commonly having sleeves",
+        "row": 10,
+        "col": 1,
         "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "TOWEL",
-        "clue": "A cloth used to dry your hands",
-        "row": 5,
-        "col": 8,
-        "direction": "down",
         "number": 8
       },
       {
-        "answer": "WALL",
-        "clue": "A vertical structure dividing rooms",
-        "row": 9,
-        "col": 5,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "VASE",
-        "clue": "A container for cut flowers",
-        "row": 8,
-        "col": 6,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "DESK",
-        "clue": "A table used for writing or working",
-        "row": 11,
-        "col": 5,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "DOOR",
-        "clue": "An entrance that opens and closes",
-        "row": 9,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "BOOK",
-        "clue": "Pages bound together for reading",
+        "answer": "RINSE",
+        "clue": "Wash away remaining cleaning product with water",
         "row": 3,
-        "col": 7,
+        "col": 1,
         "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "DRYER",
+        "clue": "Machine that removes moisture from laundry",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SHEET",
+        "clue": "Large piece of fabric used as a covering on a bed",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CYCLE",
+        "clue": "A complete programmed sequence of washing-machine stages",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "LINT",
+        "clue": "Small loose fibers shed from fabrics",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
         "number": 5
       },
       {
-        "answer": "RUG",
-        "clue": "A covering for part of a floor",
+        "answer": "SPIN",
+        "clue": "Turn rapidly to extract water in a washing-machine stage",
         "row": 0,
-        "col": 4,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "KEY",
-        "clue": "A small metal item used to unlock a door",
-        "row": 3,
-        "col": 10,
-        "direction": "down",
-        "number": 6
+        "answer": "SOCK",
+        "clue": "A foot covering worn inside a shoe",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SOAP",
+        "clue": "Cleaning material traditionally made from fats and an alkali",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle combines laundry objects with the words for common stages of washing and finishing clothes. Some answers name equipment, some describe an action, and others identify a fabric item or something removed from it. The clues explain the intended everyday meaning.",
+      "solvingTip": "Decide whether the clue asks for a machine, an action, or a piece of clothing. A complete program and one rinsing or spinning stage have different names. Short action words can help you cross into the longer equipment names.",
+      "answerNotes": [
+        {
+          "answer": "CLOTHESPIN",
+          "text": "Clothespin is the familiar American word for the clip that holds washing on a line. Clothes peg is common in British English for the same object."
+        },
+        {
+          "answer": "RINSE",
+          "text": "Rinse names the stage that uses water to remove remaining cleaning product. Spin names a different action, using rapid rotation to help remove water."
+        },
+        {
+          "answer": "CYCLE",
+          "text": "A cycle is the whole programmed sequence. An individual rinse or spin stage can be part of that sequence rather than another name for the entire cycle."
+        }
+      ]
+    }
   },
   {
     "id": "autumn-walk-3",
@@ -7847,118 +7873,124 @@
   },
   {
     "id": "cozy-at-home-4",
-    "title": "Cozy at Home \u2014 No. 4",
+    "title": "At the Front Door",
     "theme": "Food & Home",
-    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "subtheme": "Entrance & Porch",
+    "series": "cozy-at-home",
+    "description": "Picture an entrance and solve familiar clues about door fittings, porch features, and the path that leads up to a home.",
+    "cardDescription": "Doors, steps, and the familiar details of a home's entrance.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 11,
+    "revision": 2,
+    "rows": 9,
+    "cols": 10,
     "entries": [
       {
-        "answer": "CLOSET",
-        "clue": "A small space for storing clothes",
-        "row": 4,
+        "answer": "DOORBELL",
+        "clue": "Device pressed by a visitor to sound a signal inside a home",
+        "row": 5,
         "col": 1,
         "direction": "across",
-        "number": 6
+        "number": 7
       },
       {
-        "answer": "PILLOW",
-        "clue": "A soft support for your head in bed",
-        "row": 2,
-        "col": 2,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "FRAME",
-        "clue": "A border that holds a photograph",
+        "answer": "UMBRELLA",
+        "clue": "Foldable canopy carried to keep rain off a person",
         "row": 0,
-        "col": 5,
+        "col": 7,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "CLOCK",
-        "clue": "An object that tells the time",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
-        "number": 9
+        "answer": "STOOP",
+        "clue": "Small platform or group of steps just outside an entrance",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
       },
       {
-        "answer": "TABLE",
-        "clue": "Furniture with a flat top for meals",
-        "row": 4,
-        "col": 6,
+        "answer": "PORCH",
+        "clue": "Covered outdoor space attached to a house, often near its entrance",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SLOT",
+        "clue": "Narrow opening through which letters can be pushed",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "DOOR",
+        "clue": "Movable panel used to close an entrance to a room or building",
+        "row": 5,
+        "col": 1,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "SHELF",
-        "clue": "A board that holds books or other objects",
-        "row": 0,
-        "col": 1,
+        "answer": "GATE",
+        "clue": "Movable opening panel in a fence",
+        "row": 7,
+        "col": 6,
         "direction": "across",
-        "number": 1
-      },
-      {
-        "answer": "CHAIR",
-        "clue": "A piece of furniture for one person to sit on",
-        "row": 6,
-        "col": 0,
-        "direction": "down",
         "number": 9
       },
       {
-        "answer": "BOOK",
-        "clue": "Pages bound together for reading",
-        "row": 6,
-        "col": 6,
+        "answer": "RAIL",
+        "clue": "Hand___: a support grasped beside steps",
+        "row": 8,
+        "col": 1,
         "direction": "across",
-        "number": 11
+        "number": 10
       },
       {
-        "answer": "WALL",
-        "clue": "A vertical structure dividing rooms",
-        "row": 2,
-        "col": 4,
-        "direction": "across",
-        "number": 4
+        "answer": "STEP",
+        "clue": "One level foothold in a flight of stairs",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
       },
       {
-        "answer": "DESK",
-        "clue": "A table used for writing or working",
-        "row": 3,
+        "answer": "PATH",
+        "clue": "A narrow way leading toward a doorway",
+        "row": 0,
         "col": 9,
         "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "RUG",
-        "clue": "A covering for part of a floor",
-        "row": 10,
-        "col": 0,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "BED",
-        "clue": "Furniture used for sleeping",
-        "row": 4,
-        "col": 8,
-        "direction": "across",
-        "number": 8
+        "number": 3
       },
       {
         "answer": "KEY",
-        "clue": "A small metal item used to unlock a door",
+        "clue": "Small item cut to fit and operate a particular lock",
         "row": 6,
-        "col": 4,
+        "col": 9,
         "direction": "down",
-        "number": 10
+        "number": 8
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers concern the entrance area and nearby fittings. Clues distinguish an opening from its hardware and a walking surface from a support beside it. Several short household words have other meanings elsewhere, so the location described is part of the clue.",
+      "solvingTip": "Notice whether the clue describes an opening, a signal, a place to stand, or something held for support. A door panel and the key used with its lock have different jobs. Short partial phrases can help connect the longer entrance-area words.",
+      "answerNotes": [
+        {
+          "answer": "STOOP",
+          "text": "Stoop can name the platform or steps outside an entrance. It also means to bend the body, but the doorway context selects the structure."
+        },
+        {
+          "answer": "GATE",
+          "text": "Gate here means an opening panel in a fence. At an airport the word can name a boarding area, but the home-entrance clue specifies the fence meaning."
+        },
+        {
+          "answer": "RAIL",
+          "text": "Handrail is often written as one word, but the partial phrase supplies hand and asks you to fill the remaining part. The intended object is a support beside steps."
+        }
+      ]
+    }
   },
   {
     "id": "autumn-walk-4",
@@ -10153,110 +10185,132 @@
   },
   {
     "id": "cozy-at-home-5",
-    "title": "Cozy at Home \u2014 No. 5",
+    "title": "A Place for Everything",
     "theme": "Food & Home",
-    "description": "There is no place quite like home. Enjoy a few familiar comforts.",
+    "subtheme": "Closets & Storage",
+    "series": "cozy-at-home",
+    "description": "Enjoy a small organizing-themed crossword about storage furniture, compartments, and the containers that keep belongings together.",
+    "cardDescription": "Shelves, drawers, and the parts of everyday storage.",
     "difficulty": "Easy",
-    "rows": 9,
-    "cols": 12,
+    "revision": 2,
+    "rows": 11,
+    "cols": 11,
     "entries": [
       {
-        "answer": "CLOSET",
-        "clue": "A small space for storing clothes",
-        "row": 4,
+        "answer": "CABINET",
+        "clue": "Storage furniture with doors and enclosed compartments",
+        "row": 5,
         "col": 2,
         "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "PILLOW",
-        "clue": "A soft support for your head in bed",
-        "row": 2,
-        "col": 3,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "TOWEL",
-        "clue": "A cloth used to dry your hands",
-        "row": 4,
-        "col": 7,
-        "direction": "down",
         "number": 7
       },
       {
-        "answer": "FRAME",
-        "clue": "A border that holds a photograph",
+        "answer": "DIVIDER",
+        "clue": "Partition used to keep groups of objects apart",
         "row": 0,
-        "col": 6,
+        "col": 7,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "CLOCK",
-        "clue": "An object that tells the time",
-        "row": 8,
-        "col": 6,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "VASE",
-        "clue": "A container for cut flowers",
-        "row": 2,
-        "col": 5,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "ROOM",
-        "clue": "One separate space inside a house",
-        "row": 6,
-        "col": 1,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "DESK",
-        "clue": "A table used for writing or working",
+        "answer": "BUNDLE",
+        "clue": "A group of items tied or wrapped together",
         "row": 5,
-        "col": 10,
+        "col": 4,
         "direction": "down",
         "number": 8
       },
       {
-        "answer": "LAMP",
-        "clue": "An electric light for a desk or bedside",
-        "row": 2,
+        "answer": "FOLDER",
+        "clue": "Folded cover used to keep papers together",
+        "row": 10,
         "col": 0,
         "direction": "across",
-        "number": 3
+        "number": 11
       },
       {
-        "answer": "BED",
-        "clue": "Furniture used for sleeping",
-        "row": 6,
-        "col": 9,
+        "answer": "DRAWER",
+        "clue": "Pull-out compartment in a piece of furniture",
+        "row": 8,
+        "col": 4,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "KEY",
-        "clue": "A small metal item used to unlock a door",
-        "row": 1,
-        "col": 8,
+        "answer": "LINER",
+        "clue": "Material placed inside a drawer to cover its bottom",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SHELF",
+        "clue": "Horizontal board used to support stored or displayed objects",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SPACE",
+        "clue": "Room available for storing something",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "STOW",
+        "clue": "Put items away in a suitable storage place",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PAIR",
+        "clue": "A matched set of two, such as two shoes",
+        "row": 0,
+        "col": 10,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "RUG",
-        "clue": "A covering for part of a floor",
-        "row": 6,
-        "col": 1,
+        "answer": "BOX",
+        "clue": "Container commonly made of cardboard with flat sides",
+        "row": 1,
+        "col": 4,
         "direction": "down",
-        "number": 9
+        "number": 3
+      },
+      {
+        "answer": "BIN",
+        "clue": "Open container used to hold or sort objects",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows where household objects are kept and how they are grouped. A whole cabinet, a pull-out compartment, and a single horizontal support are different answers. One short action word describes putting things away, while the object clues describe the storage itself.",
+      "solvingTip": "Notice whether a clue names the whole storage unit, a pull-out part, or a lining. A paired set and a bundle describe groups of items, while a container is the object holding them. The word indicating an action asks you to put things away.",
+      "answerNotes": [
+        {
+          "answer": "DRAWER",
+          "text": "A drawer is the sliding compartment, not the entire cabinet or dresser. The pull-out movement in the clue identifies that particular part."
+        },
+        {
+          "answer": "LINER",
+          "text": "A liner covers the inside surface of something. In this clue it is material at the bottom of a drawer, not a person or a whole storage container."
+        },
+        {
+          "answer": "SHELF",
+          "text": "A shelf is one horizontal support. Shelving or a cabinet can include several of them, so a clue asking for one board takes the singular answer."
+        }
+      ]
+    }
   },
   {
     "id": "autumn-walk-5",
