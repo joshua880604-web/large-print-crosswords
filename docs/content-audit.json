@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1210,
-    "distinctAnswers": 611,
-    "distinctAnswerCluePairs": 718,
-    "distinctIntroductions": 52,
-    "numberedTitles": 48,
-    "editedEditions": 40
+    "clueEntries": 1203,
+    "distinctAnswers": 637,
+    "distinctAnswerCluePairs": 753,
+    "distinctIntroductions": 56,
+    "numberedTitles": 44,
+    "editedEditions": 45
   },
   "refinedSeries": [
     {
@@ -249,6 +249,36 @@
         "A Tray of Cookies",
         "A Cake to Share"
       ]
+    },
+    {
+      "id": "a-stitch-in-time",
+      "name": "Crafts",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "a-stitch-in-time",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Inside the Sewing Box",
+        "A Basket of Knitting",
+        "With a Crochet Hook",
+        "Piecing a Patchwork Quilt",
+        "Mending Everyday Clothes"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -326,16 +356,6 @@
     {
       "pages": 5,
       "puzzles": [
-        "a-stitch-in-time",
-        "a-stitch-in-time-2",
-        "a-stitch-in-time-3",
-        "a-stitch-in-time-4",
-        "a-stitch-in-time-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
         "weather-watching",
         "weather-watching-2",
         "weather-watching-3",
@@ -386,11 +406,6 @@
       "occurrences": 5
     },
     {
-      "answer": "LACE",
-      "clue": "A delicate fabric with an open pattern",
-      "occurrences": 5
-    },
-    {
       "answer": "LIBRARY",
       "clue": "A place where books can be borrowed",
       "occurrences": 5
@@ -418,11 +433,6 @@
     {
       "answer": "THANKS",
       "clue": "An expression of gratitude",
-      "occurrences": 5
-    },
-    {
-      "answer": "THIMBLE",
-      "clue": "A small finger guard used when sewing",
       "occurrences": 5
     },
     {
@@ -474,16 +484,19 @@
       "answer": "CLUB",
       "clue": "A card suit with a three-leaf symbol",
       "occurrences": 4
+    },
+    {
+      "answer": "COFFEE",
+      "clue": "A drink brewed from roasted beans",
+      "occurrences": 4
+    },
+    {
+      "answer": "COLLAR",
+      "clue": "A band worn around a pet's neck",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
-    {
-      "first": "a-stitch-in-time",
-      "second": "a-stitch-in-time-2",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
     {
       "first": "flower-favorites",
       "second": "flower-favorites-3",
@@ -522,13 +535,6 @@
     {
       "first": "a-good-book-3",
       "second": "a-good-book-4",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "a-stitch-in-time",
-      "second": "a-stitch-in-time-5",
       "sharedClues": 9,
       "jaccard": 0.529,
       "sameSeries": true
@@ -616,26 +622,23 @@
       "sharedClues": 8,
       "jaccard": 0.471,
       "sameSeries": true
+    },
+    {
+      "first": "flower-favorites",
+      "second": "flower-favorites-2",
+      "sharedClues": 8,
+      "jaccard": 0.471,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites",
+      "second": "flower-favorites-5",
+      "sharedClues": 8,
+      "jaccard": 0.471,
+      "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "a-stitch-in-time",
-      "second": "a-stitch-in-time-2",
-      "sharedAnswers": [
-        "THIMBLE",
-        "ZIPPER",
-        "COTTON",
-        "SKEIN",
-        "PATCH",
-        "YARN",
-        "LACE",
-        "PIN",
-        "HEM"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
     {
       "first": "flower-favorites",
       "second": "flower-favorites-3",
@@ -732,23 +735,6 @@
         "LINE",
         "READ",
         "INK"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "a-stitch-in-time",
-      "second": "a-stitch-in-time-5",
-      "sharedAnswers": [
-        "THIMBLE",
-        "STITCH",
-        "COTTON",
-        "PATCH",
-        "CUFF",
-        "KNIT",
-        "LACE",
-        "SILK",
-        "PIN"
       ],
       "jaccard": 0.529,
       "sameSeries": true
@@ -950,6 +936,38 @@
       ],
       "jaccard": 0.471,
       "sameSeries": true
+    },
+    {
+      "first": "flower-favorites",
+      "second": "flower-favorites-2",
+      "sharedAnswers": [
+        "VIOLET",
+        "PEONY",
+        "PANSY",
+        "DAISY",
+        "PETAL",
+        "STEM",
+        "SEED",
+        "BUD"
+      ],
+      "jaccard": 0.471,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites",
+      "second": "flower-favorites-5",
+      "sharedAnswers": [
+        "NECTAR",
+        "VIOLET",
+        "PEONY",
+        "PETAL",
+        "VASE",
+        "STEM",
+        "SEED",
+        "BUD"
+      ],
+      "jaccard": 0.471,
+      "sameSeries": true
     }
   ],
   "series": [
@@ -1112,14 +1130,14 @@
     {
       "id": "a-stitch-in-time",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 57,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
     },
     {
       "id": "weather-watching",

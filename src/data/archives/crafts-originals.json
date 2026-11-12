@@ -1,0 +1,569 @@
+[
+  {
+    "id": "a-stitch-in-time",
+    "title": "A Stitch in Time",
+    "theme": "Crafts",
+    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "THIMBLE",
+        "clue": "A small finger guard used when sewing",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ZIPPER",
+        "clue": "A fastening with interlocking teeth",
+        "row": 2,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "STITCH",
+        "clue": "One loop of thread made by a needle",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "COTTON",
+        "clue": "A soft plant fiber used to make cloth",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SKEIN",
+        "clue": "A loosely coiled bundle of yarn",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PATCH",
+        "clue": "A piece of fabric used to cover a hole",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CUFF",
+        "clue": "The end of a shirt sleeve",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "YARN",
+        "clue": "Spun fibers used for knitting",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "KNIT",
+        "clue": "Make fabric by looping yarn with needles",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LACE",
+        "clue": "A delicate fabric with an open pattern",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SILK",
+        "clue": "A smooth fiber produced by silkworms",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PIN",
+        "clue": "A small pointed fastener used to hold fabric",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "HEM",
+        "clue": "A folded and stitched edge of a garment",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 13
+      }
+    ]
+  },
+  {
+    "id": "a-stitch-in-time-2",
+    "title": "A Stitch in Time \u2014 No. 2",
+    "theme": "Crafts",
+    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "THIMBLE",
+        "clue": "A small finger guard used when sewing",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "ZIPPER",
+        "clue": "A fastening with interlocking teeth",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "COTTON",
+        "clue": "A soft plant fiber used to make cloth",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "NEEDLE",
+        "clue": "A slender tool with an eye for thread",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SKEIN",
+        "clue": "A loosely coiled bundle of yarn",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SPOOL",
+        "clue": "A cylinder around which thread is wound",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PATCH",
+        "clue": "A piece of fabric used to cover a hole",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "LACE",
+        "clue": "A delicate fabric with an open pattern",
+        "row": 5,
+        "col": 9,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "YARN",
+        "clue": "Spun fibers used for knitting",
+        "row": 0,
+        "col": 11,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SEAM",
+        "clue": "The line where two pieces of fabric are sewn together",
+        "row": 4,
+        "col": 12,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "HEM",
+        "clue": "A folded and stitched edge of a garment",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "PIN",
+        "clue": "A small pointed fastener used to hold fabric",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      }
+    ]
+  },
+  {
+    "id": "a-stitch-in-time-3",
+    "title": "A Stitch in Time \u2014 No. 3",
+    "theme": "Crafts",
+    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "THIMBLE",
+        "clue": "A small finger guard used when sewing",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "BUTTON",
+        "clue": "A small fastener that fits through a hole",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ZIPPER",
+        "clue": "A fastening with interlocking teeth",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "NEEDLE",
+        "clue": "A slender tool with an eye for thread",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SPOOL",
+        "clue": "A cylinder around which thread is wound",
+        "row": 3,
+        "col": 8,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "QUILT",
+        "clue": "A bed covering stitched from layers of fabric",
+        "row": 0,
+        "col": 12,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SKEIN",
+        "clue": "A loosely coiled bundle of yarn",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "KNIT",
+        "clue": "Make fabric by looping yarn with needles",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LACE",
+        "clue": "A delicate fabric with an open pattern",
+        "row": 8,
+        "col": 7,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "YARN",
+        "clue": "Spun fibers used for knitting",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CUFF",
+        "clue": "The end of a shirt sleeve",
+        "row": 10,
+        "col": 7,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SEW",
+        "clue": "Join fabric using a needle and thread",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      }
+    ]
+  },
+  {
+    "id": "a-stitch-in-time-4",
+    "title": "A Stitch in Time \u2014 No. 4",
+    "theme": "Crafts",
+    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "THIMBLE",
+        "clue": "A small finger guard used when sewing",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BUTTON",
+        "clue": "A small fastener that fits through a hole",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "STITCH",
+        "clue": "One loop of thread made by a needle",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "NEEDLE",
+        "clue": "A slender tool with an eye for thread",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "ZIPPER",
+        "clue": "A fastening with interlocking teeth",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PLEAT",
+        "clue": "A fold sewn into a piece of cloth",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SKEIN",
+        "clue": "A loosely coiled bundle of yarn",
+        "row": 7,
+        "col": 4,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "QUILT",
+        "clue": "A bed covering stitched from layers of fabric",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "YARN",
+        "clue": "Spun fibers used for knitting",
+        "row": 11,
+        "col": 1,
+        "direction": "across",
+        "number": 13
+      },
+      {
+        "answer": "WOOL",
+        "clue": "Fiber taken from a sheep's fleece",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SILK",
+        "clue": "A smooth fiber produced by silkworms",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "LACE",
+        "clue": "A delicate fabric with an open pattern",
+        "row": 4,
+        "col": 9,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SEAM",
+        "clue": "The line where two pieces of fabric are sewn together",
+        "row": 3,
+        "col": 12,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PIN",
+        "clue": "A small pointed fastener used to hold fabric",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "a-stitch-in-time-5",
+    "title": "A Stitch in Time \u2014 No. 5",
+    "theme": "Crafts",
+    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "THIMBLE",
+        "clue": "A small finger guard used when sewing",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "THREAD",
+        "clue": "A thin strand used for sewing",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "STITCH",
+        "clue": "One loop of thread made by a needle",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "NEEDLE",
+        "clue": "A slender tool with an eye for thread",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "COTTON",
+        "clue": "A soft plant fiber used to make cloth",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SPOOL",
+        "clue": "A cylinder around which thread is wound",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "QUILT",
+        "clue": "A bed covering stitched from layers of fabric",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "PATCH",
+        "clue": "A piece of fabric used to cover a hole",
+        "row": 3,
+        "col": 8,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "KNIT",
+        "clue": "Make fabric by looping yarn with needles",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LACE",
+        "clue": "A delicate fabric with an open pattern",
+        "row": 8,
+        "col": 5,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SILK",
+        "clue": "A smooth fiber produced by silkworms",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "CUFF",
+        "clue": "The end of a shirt sleeve",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PIN",
+        "clue": "A small pointed fastener used to hold fabric",
+        "row": 9,
+        "col": 0,
+        "direction": "down",
+        "number": 10
+      }
+    ]
+  }
+]

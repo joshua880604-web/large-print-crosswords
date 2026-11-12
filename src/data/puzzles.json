@@ -1508,118 +1508,124 @@
   },
   {
     "id": "a-stitch-in-time",
-    "title": "A Stitch in Time",
+    "title": "Inside the Sewing Box",
     "theme": "Crafts",
-    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "subtheme": "Sewing Tools and Supplies",
+    "series": "a-stitch-in-time",
+    "description": "Open the sewing box for a crossword about familiar tools, small supplies, and the everyday words used at a sewing table.",
+    "cardDescription": "Familiar sewing tools, small supplies, and the parts that make them useful.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 11,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "THIMBLE",
-        "clue": "A small finger guard used when sewing",
-        "row": 6,
-        "col": 3,
+        "answer": "SCISSORS",
+        "clue": "Two-bladed cutting tool with finger loops",
+        "row": 5,
+        "col": 0,
         "direction": "across",
-        "number": 9
+        "number": 7
       },
       {
-        "answer": "ZIPPER",
-        "clue": "A fastening with interlocking teeth",
-        "row": 2,
+        "answer": "THIMBLE",
+        "clue": "Small finger cover that helps push a sewing needle",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "NEEDLE",
+        "clue": "Slender pointed sewing tool with a hole for thread",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "THREAD",
+        "clue": "Fine strand passed through fabric to make stitches",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "NOTION",
+        "clue": "Small sewing supply, such as a button or snap",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SHEARS",
+        "clue": "Large scissors designed for cutting fabric",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "POINT",
+        "clue": "Sharp end of a sewing needle",
+        "row": 0,
         "col": 9,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "STITCH",
-        "clue": "One loop of thread made by a needle",
-        "row": 4,
+        "answer": "SEAM",
+        "clue": "Line where pieces of fabric are joined by stitches",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "CASE",
+        "clue": "Small container that holds sewing tools",
+        "row": 7,
         "col": 5,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "COTTON",
-        "clue": "A soft plant fiber used to make cloth",
-        "row": 3,
-        "col": 3,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "SKEIN",
-        "clue": "A loosely coiled bundle of yarn",
-        "row": 3,
-        "col": 6,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "PATCH",
-        "clue": "A piece of fabric used to cover a hole",
-        "row": 3,
-        "col": 0,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "CUFF",
-        "clue": "The end of a shirt sleeve",
-        "row": 8,
-        "col": 5,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "YARN",
-        "clue": "Spun fibers used for knitting",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "KNIT",
-        "clue": "Make fabric by looping yarn with needles",
-        "row": 5,
-        "col": 0,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "LACE",
-        "clue": "A delicate fabric with an open pattern",
-        "row": 7,
-        "col": 1,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "SILK",
-        "clue": "A smooth fiber produced by silkworms",
+        "answer": "SNIP",
+        "clue": "To make a short quick cut with scissors",
         "row": 0,
-        "col": 7,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "PIN",
-        "clue": "A small pointed fastener used to hold fabric",
-        "row": 1,
         "col": 6,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "HEM",
-        "clue": "A folded and stitched edge of a garment",
-        "row": 10,
-        "col": 0,
-        "direction": "across",
-        "number": 13
+        "answer": "EYE",
+        "clue": "Hole at the blunt end of a hand-sewing needle",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 9
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at the contents of a sewing box and what each item does. Some clues name a whole tool, while others name one of its parts or a small supply. The definitions describe their purpose without requiring a sewing pattern.",
+      "solvingTip": "Ask whether the clue describes something that cuts, carries thread, protects a finger, or holds supplies. A small part of a tool has its own name. Use short answers for those parts to help cross longer tool names.",
+      "answerNotes": [
+        {
+          "answer": "THIMBLE",
+          "text": "A thimble covers a fingertip used to push a needle. It is a protective pushing aid rather than a cutting tool."
+        },
+        {
+          "answer": "NOTION",
+          "text": "Notion has a sewing meaning: a small supply or accessory. It does not mean an idea in this clue."
+        },
+        {
+          "answer": "SHEARS",
+          "text": "Sewing shears are larger cutting tools intended for fabric. Scissors and shears can overlap in everyday speech, so the clue includes their size and purpose."
+        }
+      ]
+    }
   },
   {
     "id": "weather-watching",
@@ -3864,110 +3870,132 @@
   },
   {
     "id": "a-stitch-in-time-2",
-    "title": "A Stitch in Time \u2014 No. 2",
+    "title": "A Basket of Knitting",
     "theme": "Crafts",
-    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "subtheme": "Yarn and Knitting",
+    "series": "a-stitch-in-time",
+    "description": "Settle beside a yarn basket with a crossword about knitting words, the material on the needles, and familiar things made from it.",
+    "cardDescription": "Yarn, simple knitting vocabulary, and familiar knitted items.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 11,
-    "cols": 13,
+    "cols": 11,
     "entries": [
       {
-        "answer": "THIMBLE",
-        "clue": "A small finger guard used when sewing",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "ZIPPER",
-        "clue": "A fastening with interlocking teeth",
+        "answer": "KNITTER",
+        "clue": "Person who makes fabric using yarn and needles",
         "row": 5,
-        "col": 5,
-        "direction": "down",
-        "number": 9
+        "col": 2,
+        "direction": "across",
+        "number": 7
       },
       {
-        "answer": "COTTON",
-        "clue": "A soft plant fiber used to make cloth",
-        "row": 3,
-        "col": 3,
+        "answer": "SWEATER",
+        "clue": "Knitted upper-body garment with sleeves",
+        "row": 1,
+        "col": 5,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "NEEDLE",
-        "clue": "A slender tool with an eye for thread",
+        "answer": "TENSION",
+        "clue": "How tightly or loosely a worker holds the knitting yarn",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "STITCH",
+        "clue": "A single loop forming part of knitted fabric",
         "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "MITTEN",
+        "clue": "Hand covering with one thumb section and a shared finger section",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "NEEDLE",
+        "clue": "Long slender knitting tool that holds live stitches",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CABLE",
+        "clue": "Twisted-looking knitting pattern made by crossing groups of stitches",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SCARF",
+        "clue": "Long narrow knitted garment worn around the neck",
+        "row": 0,
         "col": 9,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "SKEIN",
-        "clue": "A loosely coiled bundle of yarn",
-        "row": 3,
-        "col": 7,
+        "answer": "WOOL",
+        "clue": "Fiber from sheep commonly spun into knitting yarn",
+        "row": 9,
+        "col": 6,
         "direction": "across",
-        "number": 5
+        "number": 11
       },
       {
-        "answer": "SPOOL",
-        "clue": "A cylinder around which thread is wound",
-        "row": 4,
-        "col": 0,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "PATCH",
-        "clue": "A piece of fabric used to cover a hole",
-        "row": 4,
-        "col": 1,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "LACE",
-        "clue": "A delicate fabric with an open pattern",
-        "row": 5,
-        "col": 9,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "YARN",
-        "clue": "Spun fibers used for knitting",
+        "answer": "KNIT",
+        "clue": "To form fabric by working interlocking yarn loops with needles",
         "row": 0,
-        "col": 11,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "SEAM",
-        "clue": "The line where two pieces of fabric are sewn together",
-        "row": 4,
-        "col": 12,
+        "answer": "BALL",
+        "clue": "Rounded bundle of wound knitting yarn",
+        "row": 7,
+        "col": 9,
         "direction": "down",
-        "number": 8
+        "number": 9
       },
       {
-        "answer": "HEM",
-        "clue": "A folded and stitched edge of a garment",
-        "row": 9,
-        "col": 4,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "PIN",
-        "clue": "A small pointed fastener used to hold fabric",
-        "row": 1,
+        "answer": "RIB",
+        "clue": "Raised vertical ridge in a stretchy knit-and-purl pattern",
+        "row": 0,
         "col": 7,
-        "direction": "across",
+        "direction": "down",
         "number": 2
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues combine knitting actions and textures with yarn terms and finished garments. Some familiar words take a craft meaning here. The clues give direct definitions, so reading knitting abbreviations or following a chart is not required.",
+      "solvingTip": "Look for whether the clue asks for a material, a tool, a fabric texture, or a finished item. A word for a yarn bundle differs from a word for a loop in the fabric. Use the garment clues to cross the more specialized knitting vocabulary.",
+      "answerNotes": [
+        {
+          "answer": "TENSION",
+          "text": "Tension describes how tightly or loosely the yarn is held. It can affect stitch size and therefore the measured gauge."
+        },
+        {
+          "answer": "MITTEN",
+          "text": "A mitten groups the fingers together and has a separate thumb section. A glove gives each finger its own section."
+        },
+        {
+          "answer": "CABLE",
+          "text": "A knitted cable looks twisted because groups of stitches cross over one another. It is a fabric pattern rather than an electrical wire."
+        }
+      ]
+    }
   },
   {
     "id": "weather-watching-2",
@@ -6188,110 +6216,132 @@
   },
   {
     "id": "a-stitch-in-time-3",
-    "title": "A Stitch in Time \u2014 No. 3",
+    "title": "With a Crochet Hook",
     "theme": "Crafts",
-    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "subtheme": "Crochet Shapes and Projects",
+    "series": "a-stitch-in-time",
+    "description": "Pick up a crochet-themed crossword about a hook and yarn, the shapes they form, and familiar handmade projects.",
+    "cardDescription": "A crochet hook, linked loops, and familiar decorative projects.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 13,
+    "revision": 2,
+    "rows": 11,
+    "cols": 9,
     "entries": [
       {
-        "answer": "THIMBLE",
-        "clue": "A small finger guard used when sewing",
+        "answer": "SQUARE",
+        "clue": "Four-equal-sided shape used in a familiar granny-style crochet unit",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "BUTTON",
-        "clue": "A small fastener that fits through a hole",
-        "row": 3,
-        "col": 3,
-        "direction": "down",
         "number": 5
       },
       {
-        "answer": "ZIPPER",
-        "clue": "A fastening with interlocking teeth",
-        "row": 1,
-        "col": 9,
+        "answer": "HANDLE",
+        "clue": "Part of a crochet hook held in the hand",
+        "row": 0,
+        "col": 5,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "NEEDLE",
-        "clue": "A slender tool with an eye for thread",
+        "answer": "FRINGE",
+        "clue": "Loose hanging yarn strands used as decoration",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "ROUND",
+        "clue": "Circular course of crochet stitches",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DOILY",
+        "clue": "Small decorative openwork mat for a table",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "CHAIN",
+        "clue": "Series of linked loops often used to begin crochet",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "JOIN",
+        "clue": "To connect two crocheted pieces",
         "row": 8,
-        "col": 3,
+        "col": 1,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "SPOOL",
-        "clue": "A cylinder around which thread is wound",
-        "row": 3,
-        "col": 8,
+        "answer": "LACE",
+        "clue": "Delicate openwork fabric that can be made with a crochet hook",
+        "row": 4,
+        "col": 5,
         "direction": "across",
-        "number": 6
+        "number": 4
       },
       {
-        "answer": "QUILT",
-        "clue": "A bed covering stitched from layers of fabric",
+        "answer": "YARN",
+        "clue": "Strand pulled through loops with a crochet hook",
         "row": 0,
-        "col": 12,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "SKEIN",
-        "clue": "A loosely coiled bundle of yarn",
-        "row": 2,
-        "col": 5,
+        "answer": "LOOP",
+        "clue": "Ringlike bend of yarn caught by a crochet hook",
+        "row": 7,
+        "col": 2,
         "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "KNIT",
-        "clue": "Make fabric by looping yarn with needles",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
         "number": 8
       },
       {
-        "answer": "LACE",
-        "clue": "A delicate fabric with an open pattern",
-        "row": 8,
-        "col": 7,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "YARN",
-        "clue": "Spun fibers used for knitting",
-        "row": 3,
-        "col": 1,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "CUFF",
-        "clue": "The end of a shirt sleeve",
-        "row": 10,
-        "col": 7,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "SEW",
-        "clue": "Join fabric using a needle and thread",
-        "row": 2,
+        "answer": "HOOK",
+        "clue": "Tool with a curved tip used to pull yarn through crochet loops",
+        "row": 0,
         "col": 5,
         "direction": "across",
-        "number": 3
+        "number": 2
+      },
+      {
+        "answer": "TIP",
+        "clue": "End of a crochet hook that catches the yarn",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows basic crochet tools, shapes, and project words. Clues describe an item's shape or purpose rather than using abbreviated stitch instructions. Some answers are ordinary words with a particular craft meaning.",
+      "solvingTip": "Check whether the clue asks for a tool part, a shape, an action, or a finished piece. A line of linked loops and a circular course of stitches are different structures. Crossing letters can help with longer decorative words.",
+      "answerNotes": [
+        {
+          "answer": "FRINGE",
+          "text": "Fringe consists of loose strands along an edge. It differs from a solid stitched border, even though both can decorate a project."
+        },
+        {
+          "answer": "ROUND",
+          "text": "Round names a circular course of stitches here. It differs from a straight row worked back and forth."
+        },
+        {
+          "answer": "DOILY",
+          "text": "A doily is a small decorative mat, often made with openwork. It is usually displayed on a surface rather than worn as clothing."
+        }
+      ]
+    }
   },
   {
     "id": "weather-watching-3",
@@ -8520,126 +8570,124 @@
   },
   {
     "id": "a-stitch-in-time-4",
-    "title": "A Stitch in Time \u2014 No. 4",
+    "title": "Piecing a Patchwork Quilt",
     "theme": "Crafts",
-    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "subtheme": "Patchwork Pieces and Edges",
+    "series": "a-stitch-in-time",
+    "description": "Explore patchwork through a crossword about fabric pieces, joined seams, and finishing the edges of a quilt.",
+    "cardDescription": "Fabric pieces, joined seams, and finished patchwork edges.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 13,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "THIMBLE",
-        "clue": "A small finger guard used when sewing",
+        "answer": "BINDING",
+        "clue": "Fabric strip that encloses a quilt's outer edges",
         "row": 5,
-        "col": 3,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "BUTTON",
-        "clue": "A small fastener that fits through a hole",
-        "row": 5,
-        "col": 7,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "STITCH",
-        "clue": "One loop of thread made by a needle",
-        "row": 7,
-        "col": 4,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "NEEDLE",
-        "clue": "A slender tool with an eye for thread",
-        "row": 0,
-        "col": 9,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "ZIPPER",
-        "clue": "A fastening with interlocking teeth",
-        "row": 1,
-        "col": 5,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "PLEAT",
-        "clue": "A fold sewn into a piece of cloth",
-        "row": 1,
-        "col": 3,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "SKEIN",
-        "clue": "A loosely coiled bundle of yarn",
-        "row": 7,
-        "col": 4,
-        "direction": "down",
-        "number": 11
-      },
-      {
-        "answer": "QUILT",
-        "clue": "A bed covering stitched from layers of fabric",
-        "row": 3,
-        "col": 5,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "YARN",
-        "clue": "Spun fibers used for knitting",
-        "row": 11,
-        "col": 1,
-        "direction": "across",
-        "number": 13
-      },
-      {
-        "answer": "WOOL",
-        "clue": "Fiber taken from a sheep's fleece",
-        "row": 2,
-        "col": 0,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "SILK",
-        "clue": "A smooth fiber produced by silkworms",
-        "row": 8,
-        "col": 1,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "LACE",
-        "clue": "A delicate fabric with an open pattern",
-        "row": 4,
-        "col": 9,
+        "col": 2,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "SEAM",
-        "clue": "The line where two pieces of fabric are sewn together",
-        "row": 3,
-        "col": 12,
+        "answer": "SASHING",
+        "clue": "Fabric strips that separate quilt blocks",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "COTTON",
+        "clue": "Common plant-based fabric used for patchwork",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BASTE",
+        "clue": "To hold quilt layers temporarily with loose stitches",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PIECE",
+        "clue": "To sew small fabric sections together into a quilt top",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SCRAP",
+        "clue": "Small leftover piece of sewing fabric",
+        "row": 5,
+        "col": 0,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "PIN",
-        "clue": "A small pointed fastener used to hold fabric",
-        "row": 1,
-        "col": 7,
-        "direction": "down",
+        "answer": "PATCH",
+        "clue": "Small fabric piece used in a patchwork design",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "STRIP",
+        "clue": "Long narrow piece of quilting fabric",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "QUILT",
+        "clue": "Bedcover made from layers held together by stitching or ties",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
         "number": 4
+      },
+      {
+        "answer": "PRINT",
+        "clue": "Fabric with a repeated pictured or colored design",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SEAM",
+        "clue": "Stitched join between two patchwork pieces",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues move from small fabric pieces to a finished quilt. Some answers name strips or edge finishes, while others describe fabric, a stitched join, or a sewing action. Direct definitions explain the craft terms.",
+      "solvingTip": "Look at where a fabric strip goes: between blocks or around the outside. Clues asking for an action may involve joining pieces or holding layers temporarily. Short fabric and sewing words can provide useful crossings.",
+      "answerNotes": [
+        {
+          "answer": "BINDING",
+          "text": "Binding encloses the outer raw edges of a quilt. It differs from the strips used between blocks in the middle of the design."
+        },
+        {
+          "answer": "SASHING",
+          "text": "Sashing consists of strips between quilt blocks. Not every quilt has it, so the clue describes its position rather than calling it essential."
+        },
+        {
+          "answer": "BASTE",
+          "text": "Basting holds layers temporarily while later work is done. The clue specifies loose stitches, although quilters also use other basting methods."
+        }
+      ]
+    }
   },
   {
     "id": "weather-watching-4",
@@ -10844,118 +10892,124 @@
   },
   {
     "id": "a-stitch-in-time-5",
-    "title": "A Stitch in Time \u2014 No. 5",
+    "title": "Mending Everyday Clothes",
     "theme": "Crafts",
-    "description": "Thread a few familiar words together with this sewing and knitting puzzle.",
+    "subtheme": "Clothing Repairs and Fastenings",
+    "series": "a-stitch-in-time",
+    "description": "Give a favorite garment another turn through a crossword about small repairs, familiar fasteners, and places where clothing wears.",
+    "cardDescription": "Small clothing repairs, worn areas, and everyday fasteners.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 13,
+    "revision": 2,
+    "rows": 9,
+    "cols": 11,
     "entries": [
       {
-        "answer": "THIMBLE",
-        "clue": "A small finger guard used when sewing",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "THREAD",
-        "clue": "A thin strand used for sewing",
-        "row": 6,
-        "col": 3,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "STITCH",
-        "clue": "One loop of thread made by a needle",
-        "row": 1,
-        "col": 4,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "NEEDLE",
-        "clue": "A slender tool with an eye for thread",
-        "row": 11,
-        "col": 0,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "COTTON",
-        "clue": "A soft plant fiber used to make cloth",
-        "row": 2,
-        "col": 1,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "SPOOL",
-        "clue": "A cylinder around which thread is wound",
-        "row": 2,
-        "col": 8,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "QUILT",
-        "clue": "A bed covering stitched from layers of fabric",
-        "row": 4,
-        "col": 0,
+        "answer": "LINING",
+        "clue": "Inner fabric layer sewn inside a coat or jacket",
+        "row": 5,
+        "col": 2,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "PATCH",
-        "clue": "A piece of fabric used to cover a hole",
-        "row": 3,
-        "col": 8,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "KNIT",
-        "clue": "Make fabric by looping yarn with needles",
+        "answer": "BUTTON",
+        "clue": "Small disk sewn onto clothing to fasten it through a hole",
         "row": 0,
-        "col": 10,
+        "col": 6,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "LACE",
-        "clue": "A delicate fabric with an open pattern",
-        "row": 8,
-        "col": 5,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "SILK",
-        "clue": "A smooth fiber produced by silkworms",
+        "answer": "FASTEN",
+        "clue": "To secure a garment with a closure",
         "row": 0,
-        "col": 7,
-        "direction": "across",
+        "col": 4,
+        "direction": "down",
         "number": 1
       },
       {
-        "answer": "CUFF",
-        "clue": "The end of a shirt sleeve",
-        "row": 10,
-        "col": 5,
+        "answer": "PRESS",
+        "clue": "To smooth fabric by applying an iron",
+        "row": 2,
+        "col": 0,
         "direction": "across",
-        "number": 11
+        "number": 5
       },
       {
-        "answer": "PIN",
-        "clue": "A small pointed fastener used to hold fabric",
-        "row": 9,
+        "answer": "PATCH",
+        "clue": "Separate piece of fabric sewn over a damaged area",
+        "row": 2,
         "col": 0,
         "direction": "down",
-        "number": 10
+        "number": 5
+      },
+      {
+        "answer": "LOOP",
+        "clue": "Small ring of thread or fabric that can hold a button",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "HOLE",
+        "clue": "An open gap worn through a piece of clothing",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TEAR",
+        "clue": "A rip in clothing caused by pulled-apart fabric",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SNAP",
+        "clue": "Clothing fastener with two parts that press together",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "HEM",
+        "clue": "Folded and stitched lower edge of a garment",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SEW",
+        "clue": "To join or repair fabric with a needle and thread",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at everyday mending vocabulary. Some clues name a repair action, while others describe a damaged area, part of a garment, or a fastening. The definitions focus on familiar words rather than step-by-step repair instructions.",
+      "solvingTip": "Look for whether the clue describes damage, a way to fix it, or a part that holds clothing closed. A fabric piece added over damage differs from the inner layer sewn inside a garment. Short edge and fastening clues can help with longer answers.",
+      "answerNotes": [
+        {
+          "answer": "BUTTON",
+          "text": "A button passes through a hole or loop to fasten clothing. A snap closes by pressing two matching parts together."
+        },
+        {
+          "answer": "PRESS",
+          "text": "Press means smooth with an iron in this clothing context. It does not mean push a button or squeeze two fastening parts together."
+        },
+        {
+          "answer": "PATCH",
+          "text": "Patch is a noun here for a separate piece of repair fabric. It differs from the thread woven across a hole when darning."
+        }
+      ]
+    }
   },
   {
     "id": "weather-watching-5",

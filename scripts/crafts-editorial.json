@@ -1,0 +1,512 @@
+[
+  {
+    "id": "a-stitch-in-time",
+    "title": "Inside the Sewing Box",
+    "subtheme": "Sewing Tools and Supplies",
+    "cardDescription": "Familiar sewing tools, small supplies, and the parts that make them useful.",
+    "description": "Open the sewing box for a crossword about familiar tools, small supplies, and the everyday words used at a sewing table.",
+    "focus": "This puzzle looks at the contents of a sewing box and what each item does. Some clues name a whole tool, while others name one of its parts or a small supply. The definitions describe their purpose without requiring a sewing pattern.",
+    "solvingTip": "Ask whether the clue describes something that cuts, carries thread, protects a finger, or holds supplies. A small part of a tool has its own name. Use short answers for those parts to help cross longer tool names.",
+    "words": [
+      [
+        "NEEDLE",
+        "Slender pointed sewing tool with a hole for thread"
+      ],
+      [
+        "THREAD",
+        "Fine strand passed through fabric to make stitches"
+      ],
+      [
+        "THIMBLE",
+        "Small finger cover that helps push a sewing needle"
+      ],
+      [
+        "PIN",
+        "Small pointed fastener that holds fabric temporarily"
+      ],
+      [
+        "SHEARS",
+        "Large scissors designed for cutting fabric"
+      ],
+      [
+        "SCISSORS",
+        "Two-bladed cutting tool with finger loops"
+      ],
+      [
+        "BOBBIN",
+        "Small spool supplying the lower thread in many sewing machines"
+      ],
+      [
+        "SPOOL",
+        "Cylinder around which sewing thread is wound"
+      ],
+      [
+        "TAPE",
+        "Flexible measuring strip used by a dressmaker"
+      ],
+      [
+        "RULER",
+        "Straight measuring tool marked with units"
+      ],
+      [
+        "CHALK",
+        "Temporary marking material used by a tailor"
+      ],
+      [
+        "RIPPER",
+        "Seam ___: small tool that removes unwanted stitches"
+      ],
+      [
+        "EYE",
+        "Hole at the blunt end of a hand-sewing needle"
+      ],
+      [
+        "POINT",
+        "Sharp end of a sewing needle"
+      ],
+      [
+        "SEAM",
+        "Line where pieces of fabric are joined by stitches"
+      ],
+      [
+        "FABRIC",
+        "Material cut and sewn to make clothing"
+      ],
+      [
+        "STITCH",
+        "One complete pass of thread through fabric"
+      ],
+      [
+        "NOTION",
+        "Small sewing supply, such as a button or snap"
+      ],
+      [
+        "CASE",
+        "Small container that holds sewing tools"
+      ],
+      [
+        "SNIP",
+        "To make a short quick cut with scissors"
+      ]
+    ],
+    "answerNotes": {
+      "THIMBLE": "A thimble covers a fingertip used to push a needle. It is a protective pushing aid rather than a cutting tool.",
+      "SHEARS": "Sewing shears are larger cutting tools intended for fabric. Scissors and shears can overlap in everyday speech, so the clue includes their size and purpose.",
+      "BOBBIN": "In many sewing machines, the bobbin supplies the lower thread. A separate upper thread passes through the needle.",
+      "SPOOL": "A spool holds wound thread. Bobbins are also small spools, but the machine-related clue gives bobbin a more specific role.",
+      "TAPE": "Tape means a flexible measuring strip here. It does not refer to an adhesive strip used to stick things together.",
+      "EYE": "Eye names the opening through which thread passes. The same word names a body part, but the needle setting identifies the tool part.",
+      "RIPPER": "Seam ripper is the complete tool name. Ripper fills the blank; the tool removes stitches rather than cutting out a new fabric piece.",
+      "NOTION": "Notion has a sewing meaning: a small supply or accessory. It does not mean an idea in this clue."
+    }
+  },
+  {
+    "id": "a-stitch-in-time-2",
+    "title": "A Basket of Knitting",
+    "subtheme": "Yarn and Knitting",
+    "cardDescription": "Yarn, simple knitting vocabulary, and familiar knitted items.",
+    "description": "Settle beside a yarn basket with a crossword about knitting words, the material on the needles, and familiar things made from it.",
+    "focus": "The clues combine knitting actions and textures with yarn terms and finished garments. Some familiar words take a craft meaning here. The clues give direct definitions, so reading knitting abbreviations or following a chart is not required.",
+    "solvingTip": "Look for whether the clue asks for a material, a tool, a fabric texture, or a finished item. A word for a yarn bundle differs from a word for a loop in the fabric. Use the garment clues to cross the more specialized knitting vocabulary.",
+    "words": [
+      [
+        "KNIT",
+        "To form fabric by working interlocking yarn loops with needles"
+      ],
+      [
+        "PURL",
+        "Knitting stitch that shows a small bump on the side facing the worker"
+      ],
+      [
+        "NEEDLE",
+        "Long slender knitting tool that holds live stitches"
+      ],
+      [
+        "YARN",
+        "Continuous strand worked into knitted fabric"
+      ],
+      [
+        "SKEIN",
+        "A loosely coiled bundle of yarn"
+      ],
+      [
+        "BALL",
+        "Rounded bundle of wound knitting yarn"
+      ],
+      [
+        "STITCH",
+        "A single loop forming part of knitted fabric"
+      ],
+      [
+        "ROW",
+        "One horizontal line of knitting stitches"
+      ],
+      [
+        "RIB",
+        "Raised vertical ridge in a stretchy knit-and-purl pattern"
+      ],
+      [
+        "CABLE",
+        "Twisted-looking knitting pattern made by crossing groups of stitches"
+      ],
+      [
+        "GAUGE",
+        "Number of knitting stitches or rows over a measured distance"
+      ],
+      [
+        "KNITTER",
+        "Person who makes fabric using yarn and needles"
+      ],
+      [
+        "SCARF",
+        "Long narrow knitted garment worn around the neck"
+      ],
+      [
+        "MITTEN",
+        "Hand covering with one thumb section and a shared finger section"
+      ],
+      [
+        "SOCK",
+        "Knitted foot covering worn inside a shoe"
+      ],
+      [
+        "SWEATER",
+        "Knitted upper-body garment with sleeves"
+      ],
+      [
+        "WOOL",
+        "Fiber from sheep commonly spun into knitting yarn"
+      ],
+      [
+        "TENSION",
+        "How tightly or loosely a worker holds the knitting yarn"
+      ],
+      [
+        "CUFF",
+        "Close-fitting knitted band at a sleeve's end"
+      ],
+      [
+        "LOOP",
+        "Curved length of yarn that forms a knitting stitch"
+      ]
+    ],
+    "answerNotes": {
+      "PURL": "A purl stitch shows a small bump on the side being worked. It is the reverse appearance of a knit stitch viewed from the other side.",
+      "SKEIN": "Skein names a loosely coiled yarn bundle. Yarn can also be wound into balls or other forms, so the shape in the clue matters.",
+      "ROW": "A row is a horizontal line of stitches. A single stitch is one unit within the fabric rather than the whole line.",
+      "RIB": "Ribbing uses alternating knit and purl sections to make raised vertical ridges. The word rib here refers to the fabric texture.",
+      "CABLE": "A knitted cable looks twisted because groups of stitches cross over one another. It is a fabric pattern rather than an electrical wire.",
+      "GAUGE": "Knitting gauge counts stitches or rows within a measured distance. It is related to, but different from, how tightly someone holds the yarn.",
+      "MITTEN": "A mitten groups the fingers together and has a separate thumb section. A glove gives each finger its own section.",
+      "TENSION": "Tension describes how tightly or loosely the yarn is held. It can affect stitch size and therefore the measured gauge.",
+      "CUFF": "A cuff is a band at a sleeve's end. In a knitted garment it may use a stretchy texture, but its position is what the clue identifies."
+    }
+  },
+  {
+    "id": "a-stitch-in-time-3",
+    "title": "With a Crochet Hook",
+    "subtheme": "Crochet Shapes and Projects",
+    "cardDescription": "A crochet hook, linked loops, and familiar decorative projects.",
+    "description": "Pick up a crochet-themed crossword about a hook and yarn, the shapes they form, and familiar handmade projects.",
+    "focus": "This puzzle follows basic crochet tools, shapes, and project words. Clues describe an item's shape or purpose rather than using abbreviated stitch instructions. Some answers are ordinary words with a particular craft meaning.",
+    "solvingTip": "Check whether the clue asks for a tool part, a shape, an action, or a finished piece. A line of linked loops and a circular course of stitches are different structures. Crossing letters can help with longer decorative words.",
+    "words": [
+      [
+        "HOOK",
+        "Tool with a curved tip used to pull yarn through crochet loops"
+      ],
+      [
+        "YARN",
+        "Strand pulled through loops with a crochet hook"
+      ],
+      [
+        "CHAIN",
+        "Series of linked loops often used to begin crochet"
+      ],
+      [
+        "LOOP",
+        "Ringlike bend of yarn caught by a crochet hook"
+      ],
+      [
+        "MOTIF",
+        "Small decorative unit that can be repeated in a crochet project"
+      ],
+      [
+        "SQUARE",
+        "Four-equal-sided shape used in a familiar granny-style crochet unit"
+      ],
+      [
+        "ROUND",
+        "Circular course of crochet stitches"
+      ],
+      [
+        "TURN",
+        "To reverse the direction of work at the end of a crochet row"
+      ],
+      [
+        "TAIL",
+        "Loose yarn end left at the beginning or end of a project"
+      ],
+      [
+        "JOIN",
+        "To connect two crocheted pieces"
+      ],
+      [
+        "MARKER",
+        "Small clip or ring used to identify a crochet stitch"
+      ],
+      [
+        "BORDER",
+        "Decorative edging added around a crocheted piece"
+      ],
+      [
+        "FRINGE",
+        "Loose hanging yarn strands used as decoration"
+      ],
+      [
+        "DOILY",
+        "Small decorative openwork mat for a table"
+      ],
+      [
+        "AFGHAN",
+        "Crocheted or knitted blanket often used as a throw"
+      ],
+      [
+        "HANDLE",
+        "Part of a crochet hook held in the hand"
+      ],
+      [
+        "TIP",
+        "End of a crochet hook that catches the yarn"
+      ],
+      [
+        "SHAWL",
+        "Wrap worn over the shoulders, sometimes crocheted"
+      ],
+      [
+        "COTTON",
+        "Plant fiber often used for crocheted dishcloths"
+      ],
+      [
+        "LACE",
+        "Delicate openwork fabric that can be made with a crochet hook"
+      ]
+    ],
+    "answerNotes": {
+      "HOOK": "A crochet hook catches yarn and draws it through loops. Knitting commonly uses two or more needles instead, although both crafts can use yarn.",
+      "CHAIN": "A crochet chain is a series of linked loops. The word names a yarn structure here rather than a line of metal links.",
+      "MOTIF": "A motif is a design unit that can repeat in a larger project. It may be a square or another shape; the word does not require one fixed outline.",
+      "ROUND": "Round names a circular course of stitches here. It differs from a straight row worked back and forth.",
+      "TAIL": "Tail means a loose end of yarn in this craft setting. It is not a part of an animal in the clue.",
+      "MARKER": "A stitch marker identifies a location in the work. The word marker here refers to that small clip or ring rather than an ink pen.",
+      "FRINGE": "Fringe consists of loose strands along an edge. It differs from a solid stitched border, even though both can decorate a project.",
+      "DOILY": "A doily is a small decorative mat, often made with openwork. It is usually displayed on a surface rather than worn as clothing.",
+      "AFGHAN": "Afghan has a textile meaning: a knitted or crocheted blanket. The clue asks for that household item."
+    }
+  },
+  {
+    "id": "a-stitch-in-time-4",
+    "title": "Piecing a Patchwork Quilt",
+    "subtheme": "Patchwork Pieces and Edges",
+    "cardDescription": "Fabric pieces, joined seams, and finished patchwork edges.",
+    "description": "Explore patchwork through a crossword about fabric pieces, joined seams, and finishing the edges of a quilt.",
+    "focus": "The clues move from small fabric pieces to a finished quilt. Some answers name strips or edge finishes, while others describe fabric, a stitched join, or a sewing action. Direct definitions explain the craft terms.",
+    "solvingTip": "Look at where a fabric strip goes: between blocks or around the outside. Clues asking for an action may involve joining pieces or holding layers temporarily. Short fabric and sewing words can provide useful crossings.",
+    "words": [
+      [
+        "QUILT",
+        "Bedcover made from layers held together by stitching or ties"
+      ],
+      [
+        "PATCH",
+        "Small fabric piece used in a patchwork design"
+      ],
+      [
+        "BLOCK",
+        "Design unit made from fabric pieces and repeated in a quilt top"
+      ],
+      [
+        "BATTING",
+        "Soft filling placed between a quilt's top and back"
+      ],
+      [
+        "BACKING",
+        "Fabric forming the underside of a quilt"
+      ],
+      [
+        "BINDING",
+        "Fabric strip that encloses a quilt's outer edges"
+      ],
+      [
+        "SEAM",
+        "Stitched join between two patchwork pieces"
+      ],
+      [
+        "SASHING",
+        "Fabric strips that separate quilt blocks"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece of quilting fabric"
+      ],
+      [
+        "SQUARE",
+        "Patchwork shape with four equal sides and four right angles"
+      ],
+      [
+        "TRIANGLE",
+        "Three-sided shape often cut for patchwork"
+      ],
+      [
+        "SCRAP",
+        "Small leftover piece of sewing fabric"
+      ],
+      [
+        "COTTON",
+        "Common plant-based fabric used for patchwork"
+      ],
+      [
+        "PRINT",
+        "Fabric with a repeated pictured or colored design"
+      ],
+      [
+        "SOLID",
+        "Fabric with one uniform color and no printed pattern"
+      ],
+      [
+        "PIECE",
+        "To sew small fabric sections together into a quilt top"
+      ],
+      [
+        "LAYER",
+        "One sheet or thickness within a quilt's construction"
+      ],
+      [
+        "BASTE",
+        "To hold quilt layers temporarily with loose stitches"
+      ],
+      [
+        "TIE",
+        "To secure quilt layers at points with knotted thread or yarn"
+      ],
+      [
+        "QUILTER",
+        "Person who makes stitched or tied layered bedcovers"
+      ]
+    ],
+    "answerNotes": {
+      "BLOCK": "A quilt block is a design unit in the top. Multiple blocks may be joined to create a larger pattern; it is not a wooden cube here.",
+      "BATTING": "Batting is the soft filling between the top and backing. It is a separate layer from the decorative fabric surface.",
+      "BACKING": "Backing is the fabric on the underside of a quilt. Batting is inside, while backing forms an outer surface.",
+      "BINDING": "Binding encloses the outer raw edges of a quilt. It differs from the strips used between blocks in the middle of the design.",
+      "SASHING": "Sashing consists of strips between quilt blocks. Not every quilt has it, so the clue describes its position rather than calling it essential.",
+      "PRINT": "Print names patterned fabric in this clue. It contrasts with a solid fabric, which has one uniform color rather than a printed design.",
+      "PIECE": "Piece is a verb here: sew fabric sections together. The clue asks for an action rather than one individual section of fabric.",
+      "BASTE": "Basting holds layers temporarily while later work is done. The clue specifies loose stitches, although quilters also use other basting methods.",
+      "TIE": "A tied quilt secures its layers at individual points with knots. The word tie describes that method rather than a garment worn at the neck."
+    }
+  },
+  {
+    "id": "a-stitch-in-time-5",
+    "title": "Mending Everyday Clothes",
+    "subtheme": "Clothing Repairs and Fastenings",
+    "cardDescription": "Small clothing repairs, worn areas, and everyday fasteners.",
+    "description": "Give a favorite garment another turn through a crossword about small repairs, familiar fasteners, and places where clothing wears.",
+    "focus": "This puzzle looks at everyday mending vocabulary. Some clues name a repair action, while others describe a damaged area, part of a garment, or a fastening. The definitions focus on familiar words rather than step-by-step repair instructions.",
+    "solvingTip": "Look for whether the clue describes damage, a way to fix it, or a part that holds clothing closed. A fabric piece added over damage differs from the inner layer sewn inside a garment. Short edge and fastening clues can help with longer answers.",
+    "words": [
+      [
+        "MEND",
+        "To fix a small damaged area of clothing"
+      ],
+      [
+        "DARN",
+        "To repair a fabric hole by weaving thread across it"
+      ],
+      [
+        "PATCH",
+        "Separate piece of fabric sewn over a damaged area"
+      ],
+      [
+        "HEM",
+        "Folded and stitched lower edge of a garment"
+      ],
+      [
+        "BUTTON",
+        "Small disk sewn onto clothing to fasten it through a hole"
+      ],
+      [
+        "SNAP",
+        "Clothing fastener with two parts that press together"
+      ],
+      [
+        "ZIPPER",
+        "Fastener with interlocking teeth closed by a sliding pull"
+      ],
+      [
+        "HOLE",
+        "An open gap worn through a piece of clothing"
+      ],
+      [
+        "TEAR",
+        "A rip in clothing caused by pulled-apart fabric"
+      ],
+      [
+        "FRAY",
+        "To unravel into loose threads along a fabric edge"
+      ],
+      [
+        "SEW",
+        "To join or repair fabric with a needle and thread"
+      ],
+      [
+        "REPAIR",
+        "To restore a damaged garment to usable condition"
+      ],
+      [
+        "CUFF",
+        "Band at a shirt sleeve's wrist opening"
+      ],
+      [
+        "ELBOW",
+        "Bent-arm area where a jacket may need a reinforcement patch"
+      ],
+      [
+        "KNEE",
+        "Leg-joint area where trousers often wear thin"
+      ],
+      [
+        "LINING",
+        "Inner fabric layer sewn inside a coat or jacket"
+      ],
+      [
+        "LOOP",
+        "Small ring of thread or fabric that can hold a button"
+      ],
+      [
+        "HOOK",
+        "Curved metal clothing fastener paired with an eye"
+      ],
+      [
+        "FASTEN",
+        "To secure a garment with a closure"
+      ],
+      [
+        "PRESS",
+        "To smooth fabric by applying an iron"
+      ]
+    ],
+    "answerNotes": {
+      "DARN": "Darning rebuilds a small damaged area with interwoven thread. A patch instead adds a separate piece of fabric over or around the damage.",
+      "PATCH": "Patch is a noun here for a separate piece of repair fabric. It differs from the thread woven across a hole when darning.",
+      "HEM": "A hem is the folded and stitched edge of a garment. It is an edge finish rather than a fastener used to hold an opening closed.",
+      "BUTTON": "A button passes through a hole or loop to fasten clothing. A snap closes by pressing two matching parts together.",
+      "SNAP": "Snap is the American name for this press-together clothing fastener. Press stud is another name commonly used in British English.",
+      "ZIPPER": "A zipper closes with interlocking teeth and a moving slider. The clue describes the mechanism rather than a button or a snap.",
+      "TEAR": "Tear means a rip in fabric here and rhymes with hair. The spelling is also used for a drop from the eye, pronounced differently.",
+      "FRAY": "Fray describes an edge unraveling into loose threads. A clean cut or a single hole can be a different kind of damage.",
+      "HOOK": "Hook refers to one half of a hook-and-eye closure here. A crochet hook shares the curved shape but serves a different purpose.",
+      "PRESS": "Press means smooth with an iron in this clothing context. It does not mean push a button or squeeze two fastening parts together."
+    }
+  }
+]

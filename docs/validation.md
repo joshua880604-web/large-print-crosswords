@@ -115,3 +115,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 29 Playwright tests passed, including all forty reader-note sections and archive routes, original/current saved-progress isolation for all eight edited families, and discovery using the original baking series name.
 - All five changed print sheets exported as single US Letter pages in Chromium. Static output totals 349 HTML pages; the canonical sitemap remains at 108 URLs.
 - These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
+
+## Crafts editorial batch — 2026-11-12
+
+- Changed only the five current a-stitch-in-time editions. All other 95 current puzzle objects, including the forty previously edited editions, remain unchanged.
+- Subjects: Inside the Sewing Box, A Basket of Knitting, With a Crochet Hook, Piecing a Patchwork Quilt, and Mending Everyday Clothes. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Reviewed selected definitions and aligned guidance with the actual tools, fabric textures, crochet shapes, patchwork edges, and clothing fastenings. Patchwork notes were visually inspected. The clues give direct definitions and do not require reading craft-pattern abbreviations.
+- Crafts series: 64 entries / 22 distinct answer-clue pairs before; 57 entries / 57 distinct pairs after. Collection totals are 100 current puzzles, 1,203 entries, 753 distinct answer-clue pairs, 56 introductions, and 45 edited editions. Fifty-five current puzzles remain in the editorial queue.
+- The five original crafts objects match the previous release exactly. Full regeneration reproduced all 100 current puzzles byte-for-byte and preserved all forty-five archived layouts. Existing series seeds and results were retained.
+- Build, content/SEO audits, TypeScript and 30 Playwright tests passed, including all forty-five reader-note sections and archive routes, original/current saved-progress isolation for all nine edited families, and discovery using the original crafts series name.
+- All five updated print sheets exported as single US Letter pages in Chromium. Static output totals 354 HTML pages; the canonical sitemap remains at 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
