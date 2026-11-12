@@ -1,0 +1,367 @@
+[
+  {
+    "title": "A Spring Cleaning Shelf",
+    "description": "Find familiar household words for cleaning objects, small containers, and tidying actions.",
+    "cardDescription": "Find familiar household words for cleaning objects, small containers, and tidying actions.",
+    "focus": "The clues identify supplies by their purpose. Some answers name a tool, while others name an ordinary action.",
+    "solvingTip": "Look for something that wipes, sweeps, holds, or arranges.",
+    "words": [
+      [
+        "BUCKET",
+        "Handled container carrying cleaning water"
+      ],
+      [
+        "MOP",
+        "Long-handled tool used to wash a floor"
+      ],
+      [
+        "BROOM",
+        "Bristled tool used to sweep loose dirt"
+      ],
+      [
+        "CLOTH",
+        "Piece of fabric used for wiping a surface"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles for loosening dirt"
+      ],
+      [
+        "DUSTER",
+        "Soft tool used to remove loose surface dust"
+      ],
+      [
+        "SPONGE",
+        "Porous absorbent object used for wiping"
+      ],
+      [
+        "SOAP",
+        "Cleaning substance that can form a lather in water"
+      ],
+      [
+        "WATER",
+        "Liquid used to rinse household surfaces"
+      ],
+      [
+        "RINSE",
+        "To wash away remaining soap with clean liquid"
+      ],
+      [
+        "POLISH",
+        "To rub a surface to improve its shine"
+      ],
+      [
+        "SORT",
+        "To put household items into groups"
+      ],
+      [
+        "AIR",
+        "To expose a room or fabric to fresh moving atmosphere"
+      ],
+      [
+        "TIDY",
+        "To arrange things neatly"
+      ]
+    ],
+    "answerNotes": {
+      "DUSTER": "A duster removes loose dust. It is separate from the container holding water for washing.",
+      "SPONGE": "A sponge is absorbent and porous. The clue identifies the wiping object rather than a named fabric.",
+      "RINSE": "Rinsing removes remaining cleaning material. The word names an action rather than a product.",
+      "POLISH": "Polish is a verb about improving shine here. It does not name a nationality in this clue."
+    },
+    "id": "spring-at-home",
+    "subtheme": "Spring Days"
+  },
+  {
+    "title": "Opening the Garden Gate",
+    "description": "Walk into a spring garden through familiar entrance features, supports, and path materials.",
+    "cardDescription": "Walk into a spring garden through familiar entrance features, supports, and path materials.",
+    "focus": "The clues describe the structures around a garden boundary. Position and purpose distinguish the small parts.",
+    "solvingTip": "Check whether a clue asks for a movable part, a support, or a route feature.",
+    "words": [
+      [
+        "GATE",
+        "Movable entrance panel in a garden fence"
+      ],
+      [
+        "LATCH",
+        "Small fastening holding a gate shut"
+      ],
+      [
+        "HINGE",
+        "Jointed hardware allowing a gate to swing"
+      ],
+      [
+        "POST",
+        "Upright support for a fence or gate"
+      ],
+      [
+        "FENCE",
+        "Barrier enclosing a garden"
+      ],
+      [
+        "PATH",
+        "Walking route leading from a garden entrance"
+      ],
+      [
+        "BED",
+        "Prepared area where plants grow"
+      ],
+      [
+        "BORDER",
+        "Narrow planted area along a garden\u2019s edge"
+      ],
+      [
+        "ARCH",
+        "Curved overhead structure above a path"
+      ],
+      [
+        "TRELLIS",
+        "Open framework supporting climbing plants"
+      ],
+      [
+        "HEDGE",
+        "Row of shrubs forming a garden boundary"
+      ],
+      [
+        "GRAVEL",
+        "Small stones spread on a garden path"
+      ],
+      [
+        "BENCH",
+        "Long outdoor seat placed beside a path"
+      ],
+      [
+        "STEP",
+        "Raised level climbed at a garden entrance"
+      ]
+    ],
+    "answerNotes": {
+      "LATCH": "A latch holds the gate closed. A hinge allows it to move, so the two pieces have different jobs.",
+      "TRELLIS": "A trellis is an open support for plants. It differs from a solid fence panel.",
+      "BED": "Bed is a planting area here. The clue does not mean furniture for sleeping.",
+      "HEDGE": "A hedge is formed from growing plants. Its material distinguishes it from a built fence."
+    },
+    "id": "spring-at-home-2",
+    "subtheme": "Spring Days"
+  },
+  {
+    "title": "The Umbrella Stand",
+    "description": "Look over a familiar spring umbrella through its parts, shapes, and the objects around an entrance.",
+    "cardDescription": "Look over a familiar spring umbrella through its parts, shapes, and the objects around an entrance.",
+    "focus": "The clues focus on the umbrella as an everyday object. A whole canopy and the smaller supports beneath it have distinct names.",
+    "solvingTip": "Look for an outer covering, a supporting part, or a place for storing the item.",
+    "words": [
+      [
+        "UMBRELLA",
+        "Handheld canopy opened to keep off spring rain"
+      ],
+      [
+        "CANOPY",
+        "Fabric covering spread above an umbrella\u2019s frame"
+      ],
+      [
+        "RIB",
+        "Slender support holding an umbrella\u2019s fabric open"
+      ],
+      [
+        "SHAFT",
+        "Central long support of an umbrella"
+      ],
+      [
+        "HANDLE",
+        "Part grasped while holding an umbrella"
+      ],
+      [
+        "TIP",
+        "Small outer end of an umbrella rib"
+      ],
+      [
+        "STRAP",
+        "Band holding a folded umbrella closed"
+      ],
+      [
+        "FOLD",
+        "To close fabric into a compact arrangement"
+      ],
+      [
+        "STAND",
+        "Holder where umbrellas are placed near a door"
+      ],
+      [
+        "HOOK",
+        "Curved support used to hang an umbrella"
+      ],
+      [
+        "DRIP",
+        "Small drop of water falling from a wet object"
+      ],
+      [
+        "WET",
+        "Covered with moisture after a shower"
+      ],
+      [
+        "DOOR",
+        "Movable entrance beside an umbrella holder"
+      ],
+      [
+        "MAT",
+        "Floor covering that may catch water near an entrance"
+      ]
+    ],
+    "answerNotes": {
+      "CANOPY": "The canopy is the fabric shelter. The ribs are the supports beneath it.",
+      "SHAFT": "The shaft is the umbrella\u2019s central support. It differs from the shorter ribs spreading outward.",
+      "RIB": "Rib names a structural support in this clue. It does not refer to a bone in the body.",
+      "STAND": "Stand is a storage holder here. The clue asks for an object rather than the action of rising."
+    },
+    "id": "spring-at-home-3",
+    "subtheme": "Spring Days"
+  },
+  {
+    "title": "A Backyard Nest Box",
+    "description": "Explore a spring birdhouse through familiar building parts and nesting words.",
+    "cardDescription": "Explore a spring birdhouse through familiar building parts and nesting words.",
+    "focus": "The clues combine a small outdoor structure with the animals and materials around it. Direct definitions distinguish the house from its contents.",
+    "solvingTip": "Check whether a clue asks for a building part, a nest material, or a bird feature.",
+    "words": [
+      [
+        "BIRDHOUSE",
+        "Small built shelter intended for nesting birds"
+      ],
+      [
+        "HOLE",
+        "Round entrance opening in a nest box"
+      ],
+      [
+        "ROOF",
+        "Upper covering protecting a birdhouse"
+      ],
+      [
+        "WALL",
+        "Upright side of a small built shelter"
+      ],
+      [
+        "NEST",
+        "Structure holding a bird\u2019s eggs or young"
+      ],
+      [
+        "TWIG",
+        "Small woody piece used in some nests"
+      ],
+      [
+        "GRASS",
+        "Narrow plant blades used as nest material by some birds"
+      ],
+      [
+        "FEATHER",
+        "Light body covering sometimes found near a nest"
+      ],
+      [
+        "WREN",
+        "Small songbird that may use a nest box"
+      ],
+      [
+        "CHICK",
+        "Young bird newly hatched from an egg"
+      ],
+      [
+        "EGG",
+        "Shell-covered structure from which a chick develops"
+      ],
+      [
+        "BEAK",
+        "Hard mouthpart used by a bird"
+      ],
+      [
+        "PERCH",
+        "Resting support near a bird\u2019s shelter"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ]
+    ],
+    "answerNotes": {
+      "BIRDHOUSE": "Birdhouse names the built shelter. The nest is the structure a bird may place inside or elsewhere.",
+      "TWIG": "A twig is a small woody branch. It is one possible nest material rather than a whole nest.",
+      "CHICK": "Chick names a young bird. The clue does not require one particular species.",
+      "PERCH": "A perch is a resting support. It does not refer to a fish in this birdhouse context."
+    },
+    "id": "spring-at-home-4",
+    "subtheme": "Spring Days"
+  },
+  {
+    "title": "A Park Bench in Spring",
+    "description": "Take a park visit through familiar water birds, flowering growth, and places to walk or sit.",
+    "cardDescription": "Take a park visit through familiar water birds, flowering growth, and places to walk or sit.",
+    "focus": "The clues describe a small outdoor scene. Living things and built objects offer different ways into the grid.",
+    "solvingTip": "Look for a plant, a bird, a place, or a gentle movement.",
+    "words": [
+      [
+        "PARK",
+        "Public outdoor area with paths and places to sit"
+      ],
+      [
+        "BENCH",
+        "Long seat placed beside a park path"
+      ],
+      [
+        "PATH",
+        "Route followed by walkers through a park"
+      ],
+      [
+        "POND",
+        "Small body of still water in a park"
+      ],
+      [
+        "DUCK",
+        "Water bird commonly seen swimming on a park pond"
+      ],
+      [
+        "SWAN",
+        "Large long-necked water bird"
+      ],
+      [
+        "REED",
+        "Tall waterside plant with a slender stem"
+      ],
+      [
+        "WILLOW",
+        "Tree often associated with flexible branches beside water"
+      ],
+      [
+        "BUD",
+        "Unopened plant growth seen on spring branches"
+      ],
+      [
+        "BLOSSOM",
+        "Flower appearing on a spring tree"
+      ],
+      [
+        "BRIDGE",
+        "Structure carrying a path over a stream"
+      ],
+      [
+        "LAWN",
+        "Area of closely cut grass"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sunlight beneath a tree"
+      ],
+      [
+        "STROLL",
+        "To walk in an unhurried way"
+      ]
+    ],
+    "answerNotes": {
+      "BLOSSOM": "Blossom names a flower here. It can also be a verb meaning develop or come into flower.",
+      "REED": "Reed names a plant in this clue. It does not mean the vibrating part of a wind instrument.",
+      "WILLOW": "Willows are familiar waterside trees with flexible branches. The clue uses that association rather than one leaf color.",
+      "STROLL": "A stroll is an unhurried walk. The clue asks for the action rather than the route called a path."
+    },
+    "id": "spring-at-home-5",
+    "subtheme": "Spring Days"
+  }
+]

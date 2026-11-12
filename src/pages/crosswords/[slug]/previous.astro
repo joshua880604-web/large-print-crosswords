@@ -7,7 +7,8 @@ type OriginalPuzzle=(typeof gardeningOriginals)[number];
 import puzzles from '../../../data/puzzles.json';
 export function getStaticPaths(){
  const modules=import.meta.glob<OriginalPuzzle[]>('../../../data/archives/*-originals.json',{eager:true,import:'default'});
- const originals=editorialSeries.flatMap(series=>{
+ const originals=editorialSeries.filter(series=>'archive' in series).flatMap(series=>{
+  if(!('archive' in series))throw new Error('Archived series needs an archive file');
   const data=modules[`../../../data/archives/${series.archive}`];
   if(!data)throw new Error(`Missing original editions: ${series.archive}`);
   return data;

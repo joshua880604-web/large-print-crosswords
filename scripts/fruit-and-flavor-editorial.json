@@ -1,0 +1,375 @@
+[
+  {
+    "title": "A Bowl of Citrus",
+    "description": "Explore citrus names and the familiar parts that distinguish a peel, a segment, and a wedge.",
+    "cardDescription": "Explore citrus names and the familiar parts that distinguish a peel, a segment, and a wedge.",
+    "focus": "The clues describe fruit parts and tastes. Color is used as a familiar association rather than a rule for every variety.",
+    "solvingTip": "Look for a whole fruit, an outer layer, or a cut portion.",
+    "words": [
+      [
+        "LEMON",
+        "Yellow citrus fruit commonly used for a sharp juice"
+      ],
+      [
+        "LIME",
+        "Citrus fruit often green-skinned and used for a tart flavor"
+      ],
+      [
+        "ORANGE",
+        "Citrus fruit whose name also identifies a color"
+      ],
+      [
+        "GRAPEFRUIT",
+        "Large citrus fruit often cut in half for serving"
+      ],
+      [
+        "TANGERINE",
+        "Small easy-peeling citrus related to the mandarin"
+      ],
+      [
+        "PEEL",
+        "Outer skin removed from a citrus fruit"
+      ],
+      [
+        "RIND",
+        "Outer covering around a citrus fruit"
+      ],
+      [
+        "ZEST",
+        "Colored outermost citrus skin used for flavor"
+      ],
+      [
+        "PITH",
+        "Pale layer beneath the colored citrus skin"
+      ],
+      [
+        "SEGMENT",
+        "One natural section inside a citrus fruit"
+      ],
+      [
+        "JUICE",
+        "Liquid released when citrus fruit is squeezed"
+      ],
+      [
+        "SEED",
+        "Plant structure sometimes found inside a citrus segment"
+      ],
+      [
+        "TART",
+        "Sharp and sour in taste"
+      ],
+      [
+        "WEDGE",
+        "Thick pointed piece cut from a citrus fruit"
+      ]
+    ],
+    "answerNotes": {
+      "PITH": "Pith is the pale layer beneath the colored skin. Zest refers to the colored outermost part instead.",
+      "SEGMENT": "A segment is a natural section. A wedge is a cut shape that may contain more than one segment.",
+      "ZEST": "Zest names a flavorful outer skin layer here. The word can also describe lively enthusiasm.",
+      "ORANGE": "Orange names both a fruit and a color. The food setting determines the noun meaning in this clue."
+    },
+    "id": "fruit-and-flavor",
+    "subtheme": "Fruit and Flavor"
+  },
+  {
+    "title": "A Basket of Berries",
+    "description": "Browse familiar berry names, their small parts, and the words describing gathering and preserving them.",
+    "cardDescription": "Browse familiar berry names, their small parts, and the words describing gathering and preserving them.",
+    "focus": "The clues identify ordinary food names. The kitchen meaning of berry is used rather than a technical botanical classification.",
+    "solvingTip": "Use short fruit-part and action words to cross the longer berry names.",
+    "words": [
+      [
+        "STRAWBERRY",
+        "Red fruit commonly pictured with tiny seedlike structures outside"
+      ],
+      [
+        "BLUEBERRY",
+        "Small round fruit often blue when ripe"
+      ],
+      [
+        "RASPBERRY",
+        "Soft fruit made of clustered juicy units around a hollow center"
+      ],
+      [
+        "BLACKBERRY",
+        "Dark clustered fruit retaining a solid central core"
+      ],
+      [
+        "CRANBERRY",
+        "Tart red fruit commonly made into a holiday sauce"
+      ],
+      [
+        "BERRY",
+        "Common kitchen word for a small juicy fruit"
+      ],
+      [
+        "STEM",
+        "Small plant support remaining on a picked fruit"
+      ],
+      [
+        "SEED",
+        "Tiny plant structure associated with many fruits"
+      ],
+      [
+        "LEAF",
+        "Flat green plant part sometimes found in a picked basket"
+      ],
+      [
+        "JUICE",
+        "Liquid released from a soft fruit"
+      ],
+      [
+        "JAM",
+        "Fruit preserve usually containing pulp"
+      ],
+      [
+        "TART",
+        "Sharp rather than sugary in flavor"
+      ],
+      [
+        "SWEET",
+        "Having a sugary fruit flavor"
+      ],
+      [
+        "BASKET",
+        "Woven container used to gather small fruits"
+      ],
+      [
+        "RIPE",
+        "Mature and ready for eating, as fruit"
+      ],
+      [
+        "PICK",
+        "To remove fruit from a plant for gathering"
+      ]
+    ],
+    "answerNotes": {
+      "RASPBERRY": "A picked raspberry usually has a hollow center. A blackberry retains its central core.",
+      "STRAWBERRY": "The small structures outside a strawberry are fruits called achenes, each containing a seed. The clue uses their familiar appearance.",
+      "JAM": "Jam commonly retains fruit pulp. It differs from a clear jelly made from strained juice.",
+      "PICK": "Pick is a gathering action here. It does not name a small tool used to pluck a string."
+    },
+    "id": "fruit-and-flavor-2",
+    "subtheme": "Fruit and Flavor"
+  },
+  {
+    "title": "On the Spice Shelf",
+    "description": "Open familiar spice jars through names, plant sources, and the words for powders and aromas.",
+    "cardDescription": "Open familiar spice jars through names, plant sources, and the words for powders and aromas.",
+    "focus": "The clues identify flavorings by their source or familiar use. Containers and forms provide shorter everyday answers.",
+    "solvingTip": "Look for a spice, the way it is prepared, or the container holding it.",
+    "words": [
+      [
+        "CINNAMON",
+        "Warm aromatic spice made from tree bark"
+      ],
+      [
+        "CLOVE",
+        "Strong spice consisting of a dried flower bud"
+      ],
+      [
+        "NUTMEG",
+        "Seed spice commonly grated into sweet or savory food"
+      ],
+      [
+        "GINGER",
+        "Aromatic rhizome used fresh or dried as a spice"
+      ],
+      [
+        "PEPPER",
+        "Spice commonly ground from dried peppercorns"
+      ],
+      [
+        "PAPRIKA",
+        "Red powder made from dried peppers"
+      ],
+      [
+        "CUMIN",
+        "Aromatic seed spice used in many savory dishes"
+      ],
+      [
+        "ANISE",
+        "Seed spice associated with a licorice-like flavor"
+      ],
+      [
+        "VANILLA",
+        "Flavoring traditionally obtained from cured orchid pods"
+      ],
+      [
+        "SPICE",
+        "Aromatic plant material used to flavor food"
+      ],
+      [
+        "JAR",
+        "Rigid container holding a small quantity of spice"
+      ],
+      [
+        "LID",
+        "Removable top closing a spice jar"
+      ],
+      [
+        "POWDER",
+        "Fine dry form of a ground spice"
+      ],
+      [
+        "AROMA",
+        "Noticeable smell from an opened spice jar"
+      ]
+    ],
+    "answerNotes": {
+      "CLOVE": "A spice clove is a flower bud. It is not one division of a garlic bulb.",
+      "NUTMEG": "Nutmeg is a seed used as a spice. Mace is a different spice from its surrounding covering.",
+      "ANISE": "Anise is associated with a licorice-like taste. It is a different plant from true licorice.",
+      "POWDER": "Powder describes the fine physical form. It does not name one particular spice."
+    },
+    "id": "fruit-and-flavor-3",
+    "subtheme": "Fruit and Flavor"
+  },
+  {
+    "title": "Herbs at the Kitchen Window",
+    "description": "Explore familiar herbs and the small plant parts gathered around a kitchen windowsill.",
+    "cardDescription": "Explore familiar herbs and the small plant parts gathered around a kitchen windowsill.",
+    "focus": "The clues name plants, their parts, and small quantities used in cooking vocabulary. They do not prescribe a recipe.",
+    "solvingTip": "Check whether the clue asks for a whole herb, one plant part, or a quantity word.",
+    "words": [
+      [
+        "BASIL",
+        "Aromatic herb commonly paired with tomatoes"
+      ],
+      [
+        "THYME",
+        "Small-leaved herb whose name sounds like time"
+      ],
+      [
+        "SAGE",
+        "Gray-green aromatic herb often used in savory stuffing"
+      ],
+      [
+        "MINT",
+        "Fragrant herb associated with a refreshing flavor"
+      ],
+      [
+        "DILL",
+        "Feathery-leaved herb associated with some pickles"
+      ],
+      [
+        "PARSLEY",
+        "Leafy herb commonly used as a garnish"
+      ],
+      [
+        "CHIVE",
+        "Slender onion-family herb with hollow leaves"
+      ],
+      [
+        "ROSEMARY",
+        "Woody aromatic herb with narrow needlelike leaves"
+      ],
+      [
+        "POT",
+        "Container holding a kitchen herb plant"
+      ],
+      [
+        "LEAF",
+        "Flat plant part picked from many herbs"
+      ],
+      [
+        "STEM",
+        "Plant support bearing leaves"
+      ],
+      [
+        "SCENT",
+        "Smell released by an aromatic herb"
+      ],
+      [
+        "PINCH",
+        "Small quantity held between the fingertips"
+      ],
+      [
+        "SPRIG",
+        "Small stem bearing leaves"
+      ]
+    ],
+    "answerNotes": {
+      "THYME": "Thyme and time sound alike. The herb meaning determines the spelling.",
+      "SPRIG": "A sprig is a small leafy stem. It names a plant piece rather than a measured weight.",
+      "PINCH": "A pinch is an informal small quantity. It does not specify a fixed exact measure.",
+      "SAGE": "Sage names an herb here. The same word can mean a wise person in another setting."
+    },
+    "id": "fruit-and-flavor-4",
+    "subtheme": "Fruit and Flavor"
+  },
+  {
+    "title": "Preserves in the Pantry",
+    "description": "Read familiar preserve labels through jars, condiments, and the words describing their contents.",
+    "cardDescription": "Read familiar preserve labels through jars, condiments, and the words describing their contents.",
+    "focus": "The clues identify food forms and storage objects. They do not give processing instructions or storage-time advice.",
+    "solvingTip": "Look for a food, a liquid ingredient, or part of the container.",
+    "words": [
+      [
+        "JAM",
+        "Preserve containing cooked fruit pulp"
+      ],
+      [
+        "JELLY",
+        "Preserve commonly made from strained fruit juice"
+      ],
+      [
+        "PICKLE",
+        "Food preserved in a brine or acidic mixture"
+      ],
+      [
+        "CHUTNEY",
+        "Seasoned condiment made from fruit or vegetables"
+      ],
+      [
+        "RELISH",
+        "Finely chopped seasoned condiment"
+      ],
+      [
+        "JAR",
+        "Rigid container holding a preserve"
+      ],
+      [
+        "LID",
+        "Top used to close a preserve jar"
+      ],
+      [
+        "SEAL",
+        "Closure keeping a container shut"
+      ],
+      [
+        "LABEL",
+        "Written marker naming a jar\u2019s contents"
+      ],
+      [
+        "FRUIT",
+        "Plant produce used in many sweet preserves"
+      ],
+      [
+        "BRINE",
+        "Salt dissolved in water"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystals used in many fruit preserves"
+      ],
+      [
+        "VINEGAR",
+        "Acidic liquid used in many pickled foods"
+      ],
+      [
+        "SHELF",
+        "Horizontal storage surface in a pantry"
+      ]
+    ],
+    "answerNotes": {
+      "JELLY": "A clear fruit jelly commonly uses strained juice. Jam usually contains more fruit pulp.",
+      "BRINE": "Brine is a salt-water solution. The clue names the liquid, not a complete preservation method.",
+      "CHUTNEY": "Chutney is a seasoned condiment. Its ingredients and texture vary among traditions and recipes.",
+      "RELISH": "Relish is a chopped condiment here. The same word can mean enthusiastic enjoyment."
+    },
+    "id": "fruit-and-flavor-5",
+    "subtheme": "Fruit and Flavor"
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "title": "At a Ballroom Evening",
+    "description": "Step into a dance hall through familiar dance names, partner roles, and smooth movement words.",
+    "cardDescription": "Step into a dance hall through familiar dance names, partner roles, and smooth movement words.",
+    "focus": "The clues define dance vocabulary without requiring a routine. A named dance differs from an action within it.",
+    "solvingTip": "Look for a dance name, a partner role, or a movement across the floor.",
+    "words": [
+      [
+        "WALTZ",
+        "Ballroom dance traditionally counted in three beats"
+      ],
+      [
+        "TANGO",
+        "Partner dance strongly associated with Argentina"
+      ],
+      [
+        "RUMBA",
+        "Latin partner dance with Cuban roots"
+      ],
+      [
+        "FOXTROT",
+        "Smooth ballroom dance in common four-beat time"
+      ],
+      [
+        "POLKA",
+        "Lively dance associated with a quick duple rhythm"
+      ],
+      [
+        "PARTNER",
+        "Person dancing together with another"
+      ],
+      [
+        "LEAD",
+        "Role guiding the direction of a partner dance"
+      ],
+      [
+        "FOLLOW",
+        "To respond to a partner\u2019s guiding dance movement"
+      ],
+      [
+        "STEP",
+        "One placement of the foot in dancing"
+      ],
+      [
+        "TURN",
+        "Change of facing direction while dancing"
+      ],
+      [
+        "GLIDE",
+        "To move smoothly across a dance floor"
+      ],
+      [
+        "FLOOR",
+        "Surface on which ballroom partners dance"
+      ],
+      [
+        "DANCE",
+        "To move in a patterned way to music"
+      ],
+      [
+        "RHYTHM",
+        "Timing pattern followed by dancers"
+      ]
+    ],
+    "answerNotes": {
+      "WALTZ": "The waltz is traditionally in triple time. The three-beat count helps distinguish it from many four-beat dances.",
+      "FOXTROT": "Foxtrot names a smooth ballroom form. The clue does not ask for the animal suggested by its spelling.",
+      "LEAD": "Lead is a guiding role in a partner dance. It is pronounced like leed in this sense.",
+      "POLKA": "Polka is a lively dance with a duple feel. It is distinct from the three-beat waltz."
+    },
+    "id": "dance-and-song",
+    "subtheme": "Dance and Song"
+  },
+  {
+    "title": "On the Square-Dance Floor",
+    "description": "Join a square-dance scene through familiar formations, partner actions, and the voice guiding the figures.",
+    "cardDescription": "Join a square-dance scene through familiar formations, partner actions, and the voice guiding the figures.",
+    "focus": "The clues describe positions and actions through plain meanings. A few traditional figure names are explained directly.",
+    "solvingTip": "Check whether the clue names a person, an arrangement, or a dance figure.",
+    "words": [
+      [
+        "CALLER",
+        "Person announcing square-dance figures"
+      ],
+      [
+        "COUPLE",
+        "Two people dancing as a pair"
+      ],
+      [
+        "SQUARE",
+        "Formation of four couples facing around a central space"
+      ],
+      [
+        "CIRCLE",
+        "Round formation made by joined dancers"
+      ],
+      [
+        "PROMENADE",
+        "Figure in which partners walk together around the set"
+      ],
+      [
+        "DOSADO",
+        "Figure in which dancers pass around each other without turning"
+      ],
+      [
+        "ALLEMANDE",
+        "Turning figure performed with joined hands"
+      ],
+      [
+        "PARTNER",
+        "Person paired with a dancer"
+      ],
+      [
+        "BOW",
+        "Bend made as a courteous dance greeting"
+      ],
+      [
+        "TURN",
+        "To change direction while completing a dance figure"
+      ],
+      [
+        "SWING",
+        "Figure in which partners rotate together"
+      ],
+      [
+        "STEP",
+        "One foot movement within a dance figure"
+      ],
+      [
+        "HAND",
+        "Body part joined with another dancer\u2019s during a figure"
+      ],
+      [
+        "BAND",
+        "Musicians providing music for a social dance"
+      ]
+    ],
+    "answerNotes": {
+      "CALLER": "The caller names or announces figures. The dancers respond through the movements in the set.",
+      "PROMENADE": "Promenade describes walking together in the dance. The word also names a public walkway in another setting.",
+      "DOSADO": "Dosado is a common joined spelling of do-si-do. The clue describes the passing figure rather than asking for a pronunciation.",
+      "ALLEMANDE": "Allemande is a traditional turning figure. Joined hands distinguish the action described here."
+    },
+    "id": "dance-and-song-2",
+    "subtheme": "Dance and Song"
+  },
+  {
+    "title": "A Community Choir",
+    "description": "Sing through familiar choral words for voices, shared notes, and the person guiding the group.",
+    "cardDescription": "Sing through familiar choral words for voices, shared notes, and the person guiding the group.",
+    "focus": "The clues name parts and performance ideas used in a choir. The musical meaning distinguishes several ordinary words.",
+    "solvingTip": "Look for a voice part, a group, or a way singers combine their sounds.",
+    "words": [
+      [
+        "CHOIR",
+        "Organized group of singers"
+      ],
+      [
+        "VOICE",
+        "Sound produced by a singer\u2019s vocal organs"
+      ],
+      [
+        "SOPRANO",
+        "Highest standard choral voice part"
+      ],
+      [
+        "ALTO",
+        "Lower standard treble choral voice part"
+      ],
+      [
+        "TENOR",
+        "Higher standard adult male choral voice part"
+      ],
+      [
+        "BASS",
+        "Lowest standard choral voice part"
+      ],
+      [
+        "UNISON",
+        "Singing the same musical line together"
+      ],
+      [
+        "HARMONY",
+        "Different notes combined to support a shared musical texture"
+      ],
+      [
+        "ROUND",
+        "Song whose melody is begun at different times by different groups"
+      ],
+      [
+        "VERSE",
+        "One section of words in a song"
+      ],
+      [
+        "VOWEL",
+        "Open speech sound sustained in many sung syllables"
+      ],
+      [
+        "SCORE",
+        "Written music showing the parts of a composition"
+      ],
+      [
+        "SINGER",
+        "Person performing music with the voice"
+      ],
+      [
+        "CONDUCTOR",
+        "Person guiding the timing and expression of a choir"
+      ]
+    ],
+    "answerNotes": {
+      "UNISON": "Unison uses the same musical line. Harmony can combine different notes at the same time.",
+      "ROUND": "A round repeats one melody with staggered starts. It names a musical structure rather than a circular shape.",
+      "SCORE": "Score means written music here. It does not mean points earned in a game.",
+      "CONDUCTOR": "A conductor guides the performing group. The clue does not refer to a railway worker."
+    },
+    "id": "dance-and-song-3",
+    "subtheme": "Dance and Song"
+  },
+  {
+    "title": "An Evening Concert",
+    "description": "Visit a live concert through familiar seating, admission, and performance words.",
+    "cardDescription": "Visit a live concert through familiar seating, admission, and performance words.",
+    "focus": "The clues move from arriving at the hall to listening and applauding. Some answers identify places, while others describe a printed guide or a musical feature.",
+    "solvingTip": "Check whether the clue asks for a place, a printed guide, or an event during the performance.",
+    "words": [
+      [
+        "CONCERT",
+        "Live performance of music for an audience"
+      ],
+      [
+        "TICKET",
+        "Admission record for a live music event"
+      ],
+      [
+        "LOBBY",
+        "Entrance area outside a concert auditorium"
+      ],
+      [
+        "STAGE",
+        "Raised area occupied by concert performers"
+      ],
+      [
+        "CURTAIN",
+        "Fabric screen that may hang before a stage"
+      ],
+      [
+        "ORCHESTRA",
+        "Large instrumental group performing together"
+      ],
+      [
+        "BALCONY",
+        "Raised seating level above the main concert floor"
+      ],
+      [
+        "AISLE",
+        "Passage between rows in a concert hall"
+      ],
+      [
+        "USHER",
+        "Person guiding concertgoers to their seats"
+      ],
+      [
+        "PROGRAM",
+        "Printed list of works or performers at a concert"
+      ],
+      [
+        "APPLAUSE",
+        "Clapping that expresses an audience\u2019s approval"
+      ],
+      [
+        "ENCORE",
+        "Extra performance given after a concert\u2019s planned ending"
+      ],
+      [
+        "SEAT",
+        "Assigned place for one member of the audience"
+      ],
+      [
+        "SOLO",
+        "Musical passage featuring one performer at a concert"
+      ]
+    ],
+    "answerNotes": {
+      "PROGRAM": "A concert program lists the works or performers. It is a guide to the event rather than the performance itself.",
+      "BALCONY": "The balcony is an upper seating area. It differs from the ground-level rows nearer the stage.",
+      "ENCORE": "An encore is additional music after the expected ending. The word is associated with requests for another performance.",
+      "SOLO": "A solo features one musician. Accompanying players may still be heard beneath the featured part."
+    },
+    "id": "dance-and-song-4",
+    "subtheme": "Dance and Song"
+  },
+  {
+    "title": "Humming a Familiar Tune",
+    "description": "Follow a simple tune through words for sound, timing, and listening.",
+    "cardDescription": "Follow a simple tune through words for sound, timing, and listening.",
+    "focus": "The clues define everyday musical language. They do not require reading notation or recalling a particular song.",
+    "solvingTip": "Look for a sound feature, a timing word, or an action done while enjoying music.",
+    "words": [
+      [
+        "HUM",
+        "To sing with the lips closed"
+      ],
+      [
+        "TUNE",
+        "A recognizable melody that can be hummed"
+      ],
+      [
+        "MELODY",
+        "Sequence of notes heard as a musical line"
+      ],
+      [
+        "NOTE",
+        "One musical pitch or written sign for it"
+      ],
+      [
+        "REST",
+        "Written or performed silence within music"
+      ],
+      [
+        "BEAT",
+        "Recurring pulse kept while humming a tune"
+      ],
+      [
+        "TEMPO",
+        "Speed at which a musical piece is performed"
+      ],
+      [
+        "SLOW",
+        "At an unhurried musical speed"
+      ],
+      [
+        "FAST",
+        "At a quick musical speed"
+      ],
+      [
+        "SOFT",
+        "At a quiet musical loudness"
+      ],
+      [
+        "LOUD",
+        "With a strong audible volume"
+      ],
+      [
+        "REPEAT",
+        "To perform a musical phrase again"
+      ],
+      [
+        "PHRASE",
+        "Short connected group of musical notes"
+      ],
+      [
+        "LISTEN",
+        "To pay attention to a musical sound"
+      ]
+    ],
+    "answerNotes": {
+      "TEMPO": "Tempo is the pace of the music. It differs from volume, which concerns loudness.",
+      "REST": "A musical rest is a period of silence. It is part of the music rather than simply stopping a rehearsal.",
+      "PHRASE": "A phrase is a short musical unit. It can be recognized as a connected idea within a longer melody.",
+      "HUM": "Humming uses a closed mouth. The clue describes the action without asking for song words."
+    },
+    "id": "dance-and-song-5",
+    "subtheme": "Dance and Song"
+  }
+]

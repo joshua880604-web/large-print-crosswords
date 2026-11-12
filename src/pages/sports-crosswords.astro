@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import puzzles from '../data/puzzles.json';
+const selected=puzzles.filter(p=>p.theme==='Sports');
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Sports',path:'/sports-crosswords/'}];
+---
+<Layout title="Free Sports Crossword Puzzles in Large Print" description="Enjoy easy sports crosswords with large letters and direct clues. Explore baseball, golf, bowling, tennis and familiar team sports, online or in print." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Sports</span></nav>
+<header class="page-heading"><p class="eyebrow">FAMILIAR GAMES · YOUR OWN PACE</p><h1>Sports crosswords in large print.</h1><p>Enjoy {selected.length} easy mini crosswords about baseball, bowling, golf, and familiar team games. Solve online or print a puzzle with separate answers.</p></header>
+
+<Collection items={selected}/><div class="prose"><h2>A gentle way into the game</h2><p>Start with a familiar object such as a bat, net, or ball. Let those letters help with a playing term. Each puzzle includes a solving tip and three optional answer explanations, with no timer.</p><p>Choose a puzzle to play online, or open its separate large-print clue and answer sheets. The print window can save either sheet as a PDF.</p></div><p class="section"><a href="/music-crosswords/">Explore music crosswords →</a> · <a href="/crosswords/">Browse all puzzles →</a></p></div>
+</Layout>

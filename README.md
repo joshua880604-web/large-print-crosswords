@@ -28,8 +28,8 @@ npm run test:e2e
 
 ## Collection and content
 
-- 100 independently playable themed mini crosswords across 20 series.
-- 1,135 clues; direct American English definitions.
+- 200 independently playable themed mini crosswords across 40 series.
+- 2,251 clues; direct American English definitions.
 - Each series contains five puzzles with different boards and answer selections. All current editions have distinct subthemes, introductions, solving tips, and three answer explanations each; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected current layouts, up to 11 × 11; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
@@ -41,11 +41,11 @@ npm run test:e2e
 
 Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, opt-in synthesized sound, and a docked on-screen QWERTY keyboard. Small touch devices use on-screen mode on first interaction by default; computers start with physical/system input. Users can switch modes, hide the panel, and navigate its letter keys with arrow keys. The selected clue and entered letters remain above the keys, and the selected grid square scrolls above the panel. Browser support for suppressing native touch keyboards varies; physical keyboard input remains enabled in either mode. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
 
-`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 100 puzzles; it does not generate new content daily.
+`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 200 puzzles; it does not generate new content daily.
 
-PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 100 playable pages and primary site pages.
+PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 200 playable pages and primary site pages.
 
-Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in all twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
+Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in the original twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. New first editions use revision 1 and have no previous-edition route. The existing refreshed editions retain revision 2 and their archives. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
@@ -65,7 +65,7 @@ Each cloud task is already isolated: use this checkout directly; do not create a
 
 ## Search metadata and sharing
 
-Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 108 canonical HTTPS URLs, including all 100 playable puzzles.
+Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 210 canonical HTTPS URLs, including all 200 playable puzzles.
 
 `public/social-card.png` is a committed 1200 × 630 share image. It is served locally and referenced by Open Graph and Twitter Card metadata. To regenerate it, run `npm run social:generate` with a supported local Chromium installation; image generation is not part of the Cloudflare build.
 
@@ -73,33 +73,57 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 100 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. Stable IDs and separate edition-2 progress keys preserve access to original saved games.
+All 200 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 published puzzle objects and their progress keys are unchanged. The next 100 use new stable IDs and first-edition progress keys.
 
-| Series | Original entries / distinct clue pairs | Current entries / distinct clue pairs |
-| --- | --- | --- |
-| Gardening | 58 / 21 | 58 / 58 |
-| Birds | 67 / 21 | 55 / 55 |
-| Music | 58 / 21 | 57 / 57 |
-| Market | 65 / 21 | 58 / 58 |
-| Travel | 64 / 21 | 57 / 57 |
-| Home | 64 / 21 | 57 / 57 |
-| Farm | 65 / 22 | 58 / 58 |
-| Baking | 64 / 22 | 56 / 56 |
-| Crafts | 64 / 22 | 57 / 57 |
-| Flowers | 64 / 22 | 58 / 58 |
-| Pets | 58 / 20 | 56 / 56 |
-| Drinks | 65 / 22 | 55 / 55 |
-| Movies | 65 / 22 | 55 / 55 |
-| Seaside | 64 / 25 | 55 / 55 |
-| Autumn | 62 / 22 | 58 / 58 |
-| Holidays | 63 / 23 | 57 / 57 |
-| Reading | 64 / 22 | 57 / 57 |
-| Weather | 64 / 21 | 56 / 56 |
-| Workshop | 64 / 21 | 57 / 57 |
-| Games | 57 / 21 | 58 / 58 |
+| Series | Current puzzles | Clues | Edition |
+| --- | ---: | ---: | --- |
+| Gardening | 5 | 58 | Refreshed, with archive |
+| Birds | 5 | 55 | Refreshed, with archive |
+| Music | 5 | 57 | Refreshed, with archive |
+| Market | 5 | 58 | Refreshed, with archive |
+| Travel | 5 | 57 | Refreshed, with archive |
+| Home | 5 | 57 | Refreshed, with archive |
+| Farm | 5 | 58 | Refreshed, with archive |
+| Baking | 5 | 56 | Refreshed, with archive |
+| Crafts | 5 | 57 | Refreshed, with archive |
+| Flowers | 5 | 58 | Refreshed, with archive |
+| Pets | 5 | 56 | Refreshed, with archive |
+| Drinks | 5 | 55 | Refreshed, with archive |
+| Movies | 5 | 55 | Refreshed, with archive |
+| Seaside | 5 | 55 | Refreshed, with archive |
+| Autumn | 5 | 58 | Refreshed, with archive |
+| Holidays | 5 | 57 | Refreshed, with archive |
+| Reading | 5 | 57 | Refreshed, with archive |
+| Weather | 5 | 56 | Refreshed, with archive |
+| Workshop | 5 | 57 | Refreshed, with archive |
+| Games | 5 | 58 | Refreshed, with archive |
+| Baseball | 5 | 56 | First publication |
+| Leisure Sports | 5 | 57 | First publication |
+| Team Sports | 5 | 56 | First publication |
+| Active Pastimes | 5 | 55 | First publication |
+| American Music | 5 | 55 | First publication |
+| Musical Instruments | 5 | 56 | First publication |
+| Dance and Song | 5 | 58 | First publication |
+| Christmas | 5 | 55 | First publication |
+| Thanksgiving | 5 | 55 | First publication |
+| Halloween | 5 | 56 | First publication |
+| Easter | 5 | 55 | First publication |
+| Spring Days | 5 | 57 | First publication |
+| Summer Days | 5 | 54 | First publication |
+| Winter Days | 5 | 56 | First publication |
+| Celebrations | 5 | 55 | First publication |
+| Painting | 5 | 55 | First publication |
+| Handmade Arts | 5 | 57 | First publication |
+| Everyday Meals | 5 | 56 | First publication |
+| Fruit and Flavor | 5 | 56 | First publication |
+| Collections | 5 | 56 | First publication |
 
-The collection has 1,135 clue entries, 1,135 distinct answer/clue pairs, 100 different introductions and 300 answer explanations. Familiar answers still recur across contexts; answer-set overlap is reported separately from exact-clue repetition. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) for all subject titles and review statistics.
+The collection has 2,251 clues, 2,251 distinct answer/clue pairs, 200 different introductions and 600 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
 
-`npm run audit:content` checks for identical complete clue sets and validates every edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and numbered titles. Clues that directly spell out their own answer fail validation. These are internal review signals, not Google thresholds; they do not automatically change indexing. Run `npm run audit:content -- --write` to refresh the reports. Production builds audit without changing tracked reports.
+Sports and music have curated collection pages linked from the main collection. Together they provide interest-based entry points while retaining one canonical page per actual puzzle.
 
-The series manifest supplies fixed seeds, source filenames, and archive filenames. An existing series keeps its seed, layout settings, and word order when a new series is added. This prevents previously published edited puzzles from changing silently. Legacy archive files in `src/data/archives/` are immutable snapshots; do not regenerate or overwrite them with current layouts. Build-time archive routing and validation use the same manifest. Archive pages are excluded from the sitemap and marked noindex. Use a new revision whenever changing an existing grid so saved letters cannot be applied to a different puzzle.
+`npm run audit:content` checks identical complete clue sets, within-series repetition, self-answer clues, subject text and the archived/first-edition distinction. Counts and overlap are internal review signals, not Google thresholds. Run `npm run audit:content -- --write` to refresh reports; production builds audit without rewriting them.
+
+The series manifest supplies fixed seeds, source filenames, and archive filenames. An existing series keeps its seed, layout settings, and word order when a new series is added. This prevents previously published edited puzzles from changing silently. First-edition series omit `archive` and set `revision: 1`; their source subjects are appended by the generator. Legacy archive files in `src/data/archives/` are immutable snapshots; do not regenerate or overwrite them with current layouts. Build-time archive routing and validation use the same manifest. Archive pages are excluded from the sitemap and marked noindex. Use a new revision whenever changing an existing grid so saved letters cannot be applied to a different puzzle.
+
+When a first-edition grid is changed in a future release, preserve its numbered predecessor progress key and implement/test that archive bridge. The current legacy bridge applies to the original hundred archived puzzles; increasing a revision alone is not a complete migration for a revision-1 puzzle.

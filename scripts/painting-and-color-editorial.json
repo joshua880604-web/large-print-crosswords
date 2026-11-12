@@ -1,0 +1,367 @@
+[
+  {
+    "title": "On a Painter\u2019s Table",
+    "description": "Look over familiar painting materials, supports, and the small parts of a brush.",
+    "cardDescription": "Look over familiar painting materials, supports, and the small parts of a brush.",
+    "focus": "The clues describe what an object holds or does. A whole tool and one of its parts have distinct names.",
+    "solvingTip": "Look for a support, a color material, or a working tool.",
+    "words": [
+      [
+        "EASEL",
+        "Stand supporting a picture while it is painted"
+      ],
+      [
+        "CANVAS",
+        "Strong fabric surface used for many paintings"
+      ],
+      [
+        "PALETTE",
+        "Surface on which a painter arranges and mixes colors"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool used to place paint on a surface"
+      ],
+      [
+        "BRISTLE",
+        "Single stiff hair or fiber forming the working end of a brush"
+      ],
+      [
+        "HANDLE",
+        "Part of a painting brush held by the artist"
+      ],
+      [
+        "TUBE",
+        "Squeezable container holding some artists' paints"
+      ],
+      [
+        "PIGMENT",
+        "Coloring material in paint"
+      ],
+      [
+        "PAINT",
+        "Colored material spread onto a picture surface"
+      ],
+      [
+        "APRON",
+        "Protective garment worn over an artist\u2019s clothes"
+      ],
+      [
+        "CLOTH",
+        "Fabric used for wiping painting equipment"
+      ],
+      [
+        "JAR",
+        "Open container holding water or another working material"
+      ],
+      [
+        "WATER",
+        "Liquid used with watercolor paint"
+      ],
+      [
+        "SKETCH",
+        "Quick preliminary drawing for a picture"
+      ]
+    ],
+    "answerNotes": {
+      "EASEL": "An easel is the supporting stand. Canvas is the surface held on it.",
+      "PALETTE": "Palette is the painter\u2019s color surface. Palate and pallet sound similar but have different meanings.",
+      "PIGMENT": "Pigment supplies color to paint. It differs from the liquid or binder carrying it.",
+      "CANVAS": "Canvas names the fabric support here. It can also name the finished painting on that support."
+    },
+    "id": "painting-and-color",
+    "subtheme": "Painting"
+  },
+  {
+    "title": "Around a Color Wheel",
+    "description": "Explore familiar color names and the words painters use for lighter, darker, and related colors.",
+    "cardDescription": "Explore familiar color names and the words painters use for lighter, darker, and related colors.",
+    "focus": "The clues describe visible qualities rather than requiring a color-mixing exercise. Some everyday temperature words have a visual meaning.",
+    "solvingTip": "Look for a color name, a lightness word, or a way colors are arranged.",
+    "words": [
+      [
+        "RED",
+        "Warm color associated with ripe strawberries"
+      ],
+      [
+        "BLUE",
+        "Color associated with a clear daytime sky"
+      ],
+      [
+        "YELLOW",
+        "Bright color associated with lemons"
+      ],
+      [
+        "GREEN",
+        "Color associated with many fresh leaves"
+      ],
+      [
+        "ORANGE",
+        "Color between red and yellow on a traditional paint wheel"
+      ],
+      [
+        "VIOLET",
+        "Purple color between blue and red on a traditional wheel"
+      ],
+      [
+        "HUE",
+        "Another word for a basic color quality"
+      ],
+      [
+        "TINT",
+        "Color made lighter by adding white in traditional painting usage"
+      ],
+      [
+        "SHADE",
+        "Color made darker by adding black in traditional painting usage"
+      ],
+      [
+        "TONE",
+        "Color\u2019s lightness or darkness in one common art use"
+      ],
+      [
+        "WARM",
+        "Color description associated with reds and yellows"
+      ],
+      [
+        "COOL",
+        "Color description associated with blues and many greens"
+      ],
+      [
+        "MIX",
+        "To combine two paint colors"
+      ],
+      [
+        "WHEEL",
+        "Circular arrangement showing color relationships"
+      ]
+    ],
+    "answerNotes": {
+      "TINT": "Tint commonly means a color lightened with white. Shade describes darkening with black in traditional painting terminology.",
+      "SHADE": "Shade is a color term here. It does not mean shelter from direct sunlight.",
+      "HUE": "Hue identifies a basic color family. It is distinct from how light or dark that color appears.",
+      "WHEEL": "A color wheel organizes relationships around a circle. It is a diagram rather than a rotating vehicle part."
+    },
+    "id": "painting-and-color-2",
+    "subtheme": "Painting"
+  },
+  {
+    "title": "A Watercolor Afternoon",
+    "description": "Explore watercolor through familiar surfaces, tools, and words describing paint and water.",
+    "cardDescription": "Explore watercolor through familiar surfaces, tools, and words describing paint and water.",
+    "focus": "The clues identify visual effects and materials without prescribing a technique. Several short words refer to a condition or action.",
+    "solvingTip": "Check whether the clue asks for a material, a layer, or a surface condition.",
+    "words": [
+      [
+        "WATERCOLOR",
+        "Painting medium using pigments dispersed with water"
+      ],
+      [
+        "PAPER",
+        "Common absorbent support for a watercolor picture"
+      ],
+      [
+        "WATER",
+        "Liquid used to carry watercolor pigment"
+      ],
+      [
+        "BRUSH",
+        "Tool used to move a watercolor wash onto paper"
+      ],
+      [
+        "WASH",
+        "Broad thin application of diluted paint"
+      ],
+      [
+        "GLAZE",
+        "Thin transparent painted layer over an earlier layer"
+      ],
+      [
+        "LAYER",
+        "One application placed over or beneath another"
+      ],
+      [
+        "EDGE",
+        "Boundary where one painted area ends"
+      ],
+      [
+        "BLEND",
+        "To join colors with a gradual transition"
+      ],
+      [
+        "WET",
+        "Containing visible moisture on a painting surface"
+      ],
+      [
+        "DRY",
+        "No longer wet on a painting surface"
+      ],
+      [
+        "LIGHT",
+        "Bright illumination affecting how a picture is seen"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy in appearance"
+      ],
+      [
+        "DAB",
+        "Small touch made with a brush"
+      ]
+    ],
+    "answerNotes": {
+      "WASH": "Wash is a thin application of paint here. It does not mean cleaning the finished picture.",
+      "GLAZE": "A glaze is a transparent layer in this art setting. It is not a sweet food coating.",
+      "PAPER": "Paper is a painting support rather than the paint itself. Different paper surfaces can produce different visual textures.",
+      "LAYER": "A layer is one application or level. The word describes its position relative to other applications."
+    },
+    "id": "painting-and-color-3",
+    "subtheme": "Painting"
+  },
+  {
+    "title": "A Visit to the Art Gallery",
+    "description": "Browse familiar picture types, display objects, and the words used around a gallery.",
+    "cardDescription": "Browse familiar picture types, display objects, and the words used around a gallery.",
+    "focus": "The clues identify art forms and the objects displaying them. The subject of a picture can be as useful as its material.",
+    "solvingTip": "Look for a picture type, a display part, or a person viewing the work.",
+    "words": [
+      [
+        "GALLERY",
+        "Place where artworks are displayed"
+      ],
+      [
+        "FRAME",
+        "Border supporting or surrounding a picture"
+      ],
+      [
+        "PORTRAIT",
+        "Picture centered on a person"
+      ],
+      [
+        "LANDSCAPE",
+        "Picture representing outdoor scenery"
+      ],
+      [
+        "STILLLIFE",
+        "Picture of arranged inanimate objects"
+      ],
+      [
+        "ARTIST",
+        "Person creating a painting or other artwork"
+      ],
+      [
+        "TITLE",
+        "Name given to a displayed artwork"
+      ],
+      [
+        "LABEL",
+        "Small written description beside a gallery work"
+      ],
+      [
+        "WALL",
+        "Upright surface on which a picture hangs"
+      ],
+      [
+        "ROOM",
+        "Enclosed display space within a gallery"
+      ],
+      [
+        "VIEWER",
+        "Person looking at an artwork"
+      ],
+      [
+        "SKETCH",
+        "Brief drawn study displayed as an artwork"
+      ],
+      [
+        "OIL",
+        "Word naming a paint medium using drying oils"
+      ],
+      [
+        "ACRYLIC",
+        "Artist paint using a synthetic resin emulsion"
+      ]
+    ],
+    "answerNotes": {
+      "PORTRAIT": "A portrait focuses on a person or people. A landscape instead focuses on outdoor scenery.",
+      "STILLLIFE": "Still life is normally written as two words. The grid joins the letters for the picture type.",
+      "LABEL": "A gallery label supplies written information. It is separate from the artwork\u2019s decorative frame.",
+      "LANDSCAPE": "Landscape is a picture category here. The clue does not mean turning a page sideways."
+    },
+    "id": "painting-and-color-4",
+    "subtheme": "Painting"
+  },
+  {
+    "title": "Objects in a Still Life",
+    "description": "Look closely at familiar objects and the visual words used when arranging a still-life picture.",
+    "cardDescription": "Look closely at familiar objects and the visual words used when arranging a still-life picture.",
+    "focus": "The clues combine everyday things with ways artists describe their appearance. Outline, volume, and surface have distinct terms.",
+    "solvingTip": "Check whether the clue names an object, an outline, or a surface quality. Short object words can help with the visual terms.",
+    "words": [
+      [
+        "APPLE",
+        "Rounded tree fruit often arranged in a still-life bowl"
+      ],
+      [
+        "PEAR",
+        "Fruit often wider at the base than near its stem"
+      ],
+      [
+        "VASE",
+        "Container holding flowers in a still-life arrangement"
+      ],
+      [
+        "BOWL",
+        "Rounded open vessel represented on an artist\u2019s table"
+      ],
+      [
+        "BOTTLE",
+        "Narrow-necked container used as a picture subject"
+      ],
+      [
+        "TABLE",
+        "Flat surface supporting a still-life arrangement"
+      ],
+      [
+        "CLOTH",
+        "Fabric draped beneath objects in a painting"
+      ],
+      [
+        "SHADOW",
+        "Darkened area where an object blocks light"
+      ],
+      [
+        "LIGHT",
+        "Illumination falling across arranged objects"
+      ],
+      [
+        "FORM",
+        "An object\u2019s three-dimensional shape in art"
+      ],
+      [
+        "SHAPE",
+        "An outline or flat enclosed area in a picture"
+      ],
+      [
+        "LINE",
+        "Visible path drawn along a picture surface"
+      ],
+      [
+        "CURVE",
+        "Line bending gradually rather than running straight"
+      ],
+      [
+        "TEXTURE",
+        "Surface quality suggested or shown in a picture"
+      ]
+    ],
+    "answerNotes": {
+      "FORM": "Form suggests three-dimensional volume. Shape can describe a flat outline or area.",
+      "TEXTURE": "Texture concerns surface quality. A painting can suggest a rough or smooth texture without using that physical material.",
+      "SHADOW": "A shadow is an effect of blocked light. It differs from the object casting it.",
+      "LINE": "A line is a drawn path here. It does not mean a queue of gallery visitors."
+    },
+    "id": "painting-and-color-5",
+    "subtheme": "Painting"
+  }
+]

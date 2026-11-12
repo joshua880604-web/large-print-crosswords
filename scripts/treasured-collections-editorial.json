@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Pages in a Stamp Album",
+    "description": "Open a stamp album through familiar small parts, printed details, and collecting words.",
+    "cardDescription": "Open a stamp album through familiar small parts, printed details, and collecting words.",
+    "focus": "The clues describe how stamps are identified and arranged. Direct definitions explain the more specialized terms.",
+    "solvingTip": "Look for a whole item, a printed mark, an edge feature, or a way of mounting it.",
+    "words": [
+      [
+        "STAMP",
+        "Small postal item preserved in a collector\u2019s album"
+      ],
+      [
+        "ALBUM",
+        "Book arranged to hold a collection"
+      ],
+      [
+        "PAGE",
+        "One displayed side within a stamp album"
+      ],
+      [
+        "HINGE",
+        "Small gummed strip traditionally used to mount a stamp"
+      ],
+      [
+        "TONGS",
+        "Small gripping tool used to handle stamps"
+      ],
+      [
+        "PERFORATION",
+        "Row of tiny holes allowing stamps to be separated"
+      ],
+      [
+        "CANCEL",
+        "Postal mark showing a stamp has been used"
+      ],
+      [
+        "POSTMARK",
+        "Postal marking recording a handling place or date"
+      ],
+      [
+        "MARGIN",
+        "Blank outer area beside a printed stamp design"
+      ],
+      [
+        "PRINT",
+        "To produce an image or lettering on paper"
+      ],
+      [
+        "DESIGN",
+        "Planned picture and lettering appearing on a stamp"
+      ],
+      [
+        "ISSUE",
+        "Set or release of stamps made available together"
+      ],
+      [
+        "SHEET",
+        "Larger printed piece containing several stamps"
+      ],
+      [
+        "COLLECT",
+        "To gather related objects as a hobby"
+      ]
+    ],
+    "answerNotes": {
+      "PERFORATION": "Perforations make separation possible along small holes. The clue asks for the row or feature rather than the printed picture.",
+      "POSTMARK": "A postmark records postal handling. It is different from the prepaid stamp carrying the design.",
+      "HINGE": "A stamp hinge is a small mounting strip. It is not door hardware in this collecting clue.",
+      "ISSUE": "Issue names a released group or publication here. It does not mean a problem requiring a solution."
+    },
+    "id": "treasured-collections",
+    "subtheme": "Collections"
+  },
+  {
+    "title": "Coins in a Collector\u2019s Tray",
+    "description": "Explore familiar American coin names and the parts used to describe a coin.",
+    "cardDescription": "Explore familiar American coin names and the parts used to describe a coin.",
+    "focus": "The clues identify denominations and visible features. They do not estimate a collectible\u2019s market price.",
+    "solvingTip": "Check whether the clue asks for a coin name, a surface feature, or a display object.",
+    "words": [
+      [
+        "COIN",
+        "Small metal piece used as money and sometimes collected"
+      ],
+      [
+        "MINT",
+        "Place where coins are manufactured"
+      ],
+      [
+        "METAL",
+        "Material from which ordinary coins are made"
+      ],
+      [
+        "EDGE",
+        "Outer narrow surface around a coin"
+      ],
+      [
+        "RIM",
+        "Raised border near a coin\u2019s face"
+      ],
+      [
+        "DATE",
+        "Year marked on a coin"
+      ],
+      [
+        "FACE",
+        "Broad flat side of a coin"
+      ],
+      [
+        "VALUE",
+        "Amount represented by a coin\u2019s denomination"
+      ],
+      [
+        "PENNY",
+        "Common name for a U.S. one-cent coin"
+      ],
+      [
+        "NICKEL",
+        "U.S. coin representing five cents"
+      ],
+      [
+        "DIME",
+        "U.S. coin representing ten cents"
+      ],
+      [
+        "QUARTER",
+        "U.S. coin representing twenty-five cents"
+      ],
+      [
+        "ALBUM",
+        "Book holding a displayed coin collection"
+      ],
+      [
+        "CASE",
+        "Protective container used to display a coin"
+      ]
+    ],
+    "answerNotes": {
+      "MINT": "Mint names a coin-making place here. It does not mean the aromatic herb.",
+      "DIME": "A dime represents ten U.S. cents. The clue concerns denomination rather than collectible market price.",
+      "NICKEL": "Nickel is the five-cent coin name here. The same word also names a metal.",
+      "QUARTER": "A quarter is one-fourth of a U.S. dollar. The name reflects that fraction."
+    },
+    "id": "treasured-collections-2",
+    "subtheme": "Collections"
+  },
+  {
+    "title": "An Album of Family Photographs",
+    "description": "Turn through familiar photography words and the small details used to identify pictures.",
+    "cardDescription": "Turn through familiar photography words and the small details used to identify pictures.",
+    "focus": "The clues distinguish the photograph from its support, description, and camera parts. Some words reflect film photography as well as newer pictures.",
+    "solvingTip": "Look for an image, a display part, or a word describing what the camera records.",
+    "words": [
+      [
+        "PHOTO",
+        "Short name for a photograph"
+      ],
+      [
+        "ALBUM",
+        "Book used to hold a set of photographs"
+      ],
+      [
+        "PORTRAIT",
+        "Photograph centered on a person"
+      ],
+      [
+        "SNAPSHOT",
+        "Informal photograph taken quickly"
+      ],
+      [
+        "PRINT",
+        "Physical photograph made on paper"
+      ],
+      [
+        "NEGATIVE",
+        "Film image with tones reversed from an ordinary positive picture"
+      ],
+      [
+        "FRAME",
+        "Border supporting a displayed photograph"
+      ],
+      [
+        "PAGE",
+        "One side of a photograph album\u2019s leaf"
+      ],
+      [
+        "CORNER",
+        "Small triangular mount that can hold a photo on a page"
+      ],
+      [
+        "CAPTION",
+        "Written words identifying or describing a photograph"
+      ],
+      [
+        "MEMORY",
+        "Remembered experience associated with an old picture"
+      ],
+      [
+        "CAMERA",
+        "Device used to record a photograph"
+      ],
+      [
+        "LENS",
+        "Optical part focusing light to form a camera image"
+      ],
+      [
+        "FOCUS",
+        "Sharpness of the selected part of a photograph"
+      ]
+    ],
+    "answerNotes": {
+      "NEGATIVE": "A photographic negative has reversed tones. A positive print restores the familiar light-and-dark appearance.",
+      "CAPTION": "A caption describes or identifies the picture. It is separate from the photograph itself.",
+      "SNAPSHOT": "Snapshot suggests an informal quickly taken photograph. The word does not require a particular camera model.",
+      "PORTRAIT": "A portrait centers on a person or people. It describes subject matter rather than a fixed print size."
+    },
+    "id": "treasured-collections-3",
+    "subtheme": "Collections"
+  },
+  {
+    "title": "Postcards Kept from a Journey",
+    "description": "Browse a postcard collection through familiar picture, message, and mailing words.",
+    "cardDescription": "Browse a postcard collection through familiar picture, message, and mailing words.",
+    "focus": "The clues identify different parts and purposes of a postcard. Some answers describe what is pictured, while others describe what is written.",
+    "solvingTip": "Look for a side of the card, a message part, or a collecting object.",
+    "words": [
+      [
+        "POSTCARD",
+        "Card carrying a picture and space for a mailed message"
+      ],
+      [
+        "VIEW",
+        "Scene pictured on a travel postcard"
+      ],
+      [
+        "SCENE",
+        "Depicted place or event on a collected card"
+      ],
+      [
+        "STAMP",
+        "Postage item attached before mailing a postcard"
+      ],
+      [
+        "ADDRESS",
+        "Recipient\u2019s location written on a mailed card"
+      ],
+      [
+        "MESSAGE",
+        "Written communication from the sender"
+      ],
+      [
+        "NOTE",
+        "Brief personal text on a postcard"
+      ],
+      [
+        "SPACE",
+        "Blank area available for a message"
+      ],
+      [
+        "BACK",
+        "Side of a postcard commonly used for address and writing"
+      ],
+      [
+        "FRONT",
+        "Picture-bearing side of a typical travel card"
+      ],
+      [
+        "BORDER",
+        "Decorative strip around a postcard image"
+      ],
+      [
+        "POSTMARK",
+        "Postal impression left during mailing"
+      ],
+      [
+        "ALBUM",
+        "Book used to arrange a postcard collection"
+      ],
+      [
+        "SOUVENIR",
+        "Object kept as a reminder of a visit"
+      ]
+    ],
+    "answerNotes": {
+      "SOUVENIR": "A souvenir is kept for its association with a visit. A postcard can be one without being mailed.",
+      "ADDRESS": "Address identifies the intended destination here. It does not mean a formal spoken presentation.",
+      "FRONT": "Front names the picture side of a typical card. The writing side is described separately in the clues.",
+      "MESSAGE": "Message is the communication written on the card. It differs from the destination address."
+    },
+    "id": "treasured-collections-4",
+    "subtheme": "Collections"
+  },
+  {
+    "title": "A Model Railway Layout",
+    "description": "Explore a miniature railway through familiar vehicles, track parts, and scenery words.",
+    "cardDescription": "Explore a miniature railway through familiar vehicles, track parts, and scenery words.",
+    "focus": "The clues describe a model scene and the full-size railway objects it represents. Some answers name a vehicle; others name a structure or a size relationship.",
+    "solvingTip": "Check whether the clue asks for a train part, a track feature, or a model-building term.",
+    "words": [
+      [
+        "MODEL",
+        "Small representation of a railway vehicle or scene"
+      ],
+      [
+        "TRAIN",
+        "Linked railway vehicles represented in a layout"
+      ],
+      [
+        "ENGINE",
+        "Powered unit pulling a train"
+      ],
+      [
+        "TENDER",
+        "Rail vehicle carrying fuel and water for a steam locomotive"
+      ],
+      [
+        "COACH",
+        "Passenger-carrying railway car"
+      ],
+      [
+        "CABOOSE",
+        "Traditional crew car at the rear of a freight train"
+      ],
+      [
+        "TRACK",
+        "Rails and supports forming a railway route"
+      ],
+      [
+        "RAIL",
+        "One long metal running surface beneath train wheels"
+      ],
+      [
+        "TIE",
+        "U.S. term for a cross support beneath railway rails"
+      ],
+      [
+        "SCALE",
+        "Size relationship between a model train and its full-size subject"
+      ],
+      [
+        "SWITCH",
+        "Track arrangement allowing a train to change routes"
+      ],
+      [
+        "STATION",
+        "Place where trains stop for passengers"
+      ],
+      [
+        "TUNNEL",
+        "Passage carrying a railway through a hill or other obstruction"
+      ],
+      [
+        "BRIDGE",
+        "Structure carrying tracks across a gap"
+      ]
+    ],
+    "answerNotes": {
+      "TENDER": "A tender carries supplies for a steam locomotive. It is a railway vehicle rather than an adjective meaning gentle.",
+      "CABOOSE": "A caboose was traditionally a crew car at the rear. The clue does not imply every modern freight train has one.",
+      "SWITCH": "A railway switch changes the route available to a train. The clue names a track arrangement rather than an electrical control.",
+      "TIE": "Tie is the usual American term for the cross support. Sleeper is a common British railway word."
+    },
+    "id": "treasured-collections-5",
+    "subtheme": "Collections"
+  }
+]

@@ -26,7 +26,7 @@ const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...mar
 const edited=puzzles.filter(p=>'revision' in p);
 
 test('edited subjects have distinct reader notes and hidden answer explanations',async({page})=>{
- test.setTimeout(120_000); // Visit every subject in the complete 100-puzzle collection.
+ test.setTimeout(180_000); // Visit every subject in the complete collection.
  expect(edited).toHaveLength(editorialSeries.length*5);
  for(const puzzle of edited){
   await page.goto(`/crosswords/${puzzle.id}/`);
@@ -40,7 +40,7 @@ test('edited subjects have distinct reader notes and hidden answer explanations'
  }
 });
 
-for(const series of editorialSeries){
+for(const series of editorialSeries.filter(series=>'archive' in series)){
 test(`refreshed ${series.id} retains the original saved game and isolates new progress`,async({page})=>{
  const old=originals.find(p=>p.id===series.id)!,fresh=puzzles.find(p=>p.id===old.id)!;
  const legacyKey=`lpc:v1:${old.id}`,currentKey=`${legacyKey}:edition:2`;
@@ -89,4 +89,20 @@ test('printed rectangular grids keep their proportions without covering clues',a
  expect(layout.gridBottom).toBeLessThanOrEqual(layout.cluesTop);
  expect(Math.max(layout.gridHeight,layout.gridWidth)).toBeLessThanOrEqual(3.6*96+1);
  expect(layout.fontSize).toBeGreaterThanOrEqual(17);
+});
+
+test('first editions save independently without a nonexistent previous-edition link',async({page})=>{
+ const puzzle=puzzles.find(p=>p.revision===1)!;
+ const key=`lpc:v1:${puzzle.id}:edition:1`,legacy=`lpc:v1:${puzzle.id}`;
+ const first=puzzle.entries.find(e=>e.direction==='across')!;
+ await page.goto(`/crosswords/${puzzle.id}/`);
+ await page.evaluate(k=>localStorage.setItem(k,JSON.stringify({'0,0':'Z'})),legacy);
+ await page.reload();
+ await expect(page.locator('.previous-progress')).toHaveCount(0);
+ expect(await page.locator('.cell input').evaluateAll(inputs=>inputs.every(input=>(input as HTMLInputElement).value===''))).toBeTruthy();
+ await page.locator(`[data-entry="${first.number}-across"]`).click();await page.keyboard.type(first.answer[0]);
+ expect(await page.evaluate(k=>localStorage.getItem(k),key)).not.toBeNull();
+ await page.reload();
+ await expect(page.locator(`[data-cell="${first.row},${first.col}"] input`)).toHaveValue(first.answer[0]);
+ expect(await page.evaluate(k=>localStorage.getItem(k),legacy)).toBe(JSON.stringify({'0,0':'Z'}));
 });

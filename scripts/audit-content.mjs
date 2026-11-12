@@ -35,10 +35,10 @@ const series=[...new Set(puzzles.map(base))].map(id=>{
 const refinedSeries=editorialSeries.map(config=>{
  const current=puzzles.filter(p=>base(p)===config.id);
  const previous=originals.filter(p=>base(p)===config.id);
- assert.equal(current.length,5);assert.equal(previous.length,5);
+ assert.equal(current.length,5);assert.equal(previous.length,config.archive?5:0);
  assert.equal(new Set(current.map(p=>p.title)).size,5);
  assert.equal(new Set(current.map(p=>p.description)).size,5);
- assert.ok(current.every(p=>p.editorial&&p.revision===2&&!p.title.includes('— No.')));
+ assert.ok(current.every(p=>p.editorial&&p.revision===(config.revision||2)&&!p.title.includes('— No.')));
  const pairs=current.flatMap(p=>p.entries.map(pairKey));
  assert.equal(new Set(pairs).size,pairs.length,`Edited ${config.id} subjects must not repeat identical answer/clue pairs`);
  const es=previous.flatMap(p=>p.entries);
@@ -53,10 +53,10 @@ const report={
  highestOverlapPairs:overlap.slice(0,20),highestAnswerOverlapPairs:answerOverlap.slice(0,20),series
 };
 console.log(`CONTENT: ${report.collection.puzzles} puzzles; ${entries.length} entries; ${pairCounts.size} distinct answer/clue pairs; ${intros.size} distinct introductions; ${report.collection.editedEditions} edited editions. ${report.collection.numberedTitles} numbered titles remain.`);
-for(const group of refinedSeries)console.log(`${group.name}: ${group.before.entries} → ${group.after.entries} entries; ${group.before.uniqueCluePairs} → ${group.after.uniqueCluePairs} distinct answer/clue pairs.`);
+for(const group of refinedSeries)console.log(group.before.puzzles?`${group.name}: ${group.before.entries} → ${group.after.entries} entries; ${group.before.uniqueCluePairs} → ${group.after.uniqueCluePairs} distinct answer/clue pairs.`:`${group.name}: ${group.after.entries} first-edition entries; ${group.after.uniqueCluePairs} distinct answer/clue pairs.`);
 if(process.argv.includes('--write')){
  writeFileSync(new URL('../docs/content-audit.json',import.meta.url),JSON.stringify(report,null,2)+'\n');
- const blocks=refinedSeries.map(group=>`## ${group.name}: five stable URLs\n\n| Metric | Original five | Current five |\n| --- | ---: | ---: |\n| Clue entries | ${group.before.entries} | ${group.after.entries} |\n| Distinct answer/clue pairs | ${group.before.uniqueCluePairs} | ${group.after.uniqueCluePairs} |\n| Different introductions | ${group.before.uniqueIntroductions} | ${group.after.uniqueIntroductions} |\n\nCurrent subjects: ${group.subjects.join(', ')}.\n`).join('\n');
+ const blocks=refinedSeries.map(group=>group.before.puzzles?`## ${group.name}: five stable URLs\n\n| Metric | Original five | Current five |\n| --- | ---: | ---: |\n| Clue entries | ${group.before.entries} | ${group.after.entries} |\n| Distinct answer/clue pairs | ${group.before.uniqueCluePairs} | ${group.after.uniqueCluePairs} |\n| Different introductions | ${group.before.uniqueIntroductions} | ${group.after.uniqueIntroductions} |\n\nCurrent subjects: ${group.subjects.join(', ')}.\n`:`## ${group.name}: five first editions\n\n- ${group.after.entries} clues; ${group.after.uniqueCluePairs} distinct answer/clue pairs.\n- Five distinct introductions and three answer explanations per puzzle.\n\nSubjects: ${group.subjects.join(', ')}.\n`).join('\n');
  const remaining=puzzles.length-report.collection.editedEditions;
  const reviewHeading=remaining?'## Next editorial queue':'## Ongoing editorial review';
  const reviewText=remaining?`${remaining} current puzzles still await this editorial treatment. Use the table and reader/search feedback to choose the next series. Similarity alone does not decide indexing.`:`All ${puzzles.length} current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.`;

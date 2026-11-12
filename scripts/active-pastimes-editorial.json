@@ -1,0 +1,367 @@
+[
+  {
+    "title": "At the Swimming Pool",
+    "description": "Explore a pool through familiar swimming words, equipment, and the places around the water.",
+    "cardDescription": "Explore a pool through familiar swimming words, equipment, and the places around the water.",
+    "focus": "The clues identify movements and objects by their purpose. They provide vocabulary rather than a swimming lesson.",
+    "solvingTip": "Check whether the clue asks for an action, a place, or an item used beside the pool.",
+    "words": [
+      [
+        "SWIM",
+        "To move through water using the body"
+      ],
+      [
+        "POOL",
+        "Prepared basin containing water for swimming"
+      ],
+      [
+        "LANE",
+        "Marked strip of pool space used by a swimmer"
+      ],
+      [
+        "LAP",
+        "One length or circuit counted during swimming"
+      ],
+      [
+        "STROKE",
+        "Repeated arm-and-body action used to swim"
+      ],
+      [
+        "FLOAT",
+        "To remain supported at the water\u2019s surface"
+      ],
+      [
+        "KICK",
+        "To move the legs to help propel the body in water"
+      ],
+      [
+        "GLIDE",
+        "To move smoothly through water without a new stroke"
+      ],
+      [
+        "GOGGLES",
+        "Protective lenses worn over the eyes while swimming"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth used after leaving a pool"
+      ],
+      [
+        "CAP",
+        "Close-fitting head covering worn by a swimmer"
+      ],
+      [
+        "LADDER",
+        "Runged structure used to climb out of a pool"
+      ],
+      [
+        "EDGE",
+        "Boundary around the top of a pool"
+      ],
+      [
+        "WATER",
+        "Liquid filling a swimming pool"
+      ]
+    ],
+    "answerNotes": {
+      "STROKE": "A swimming stroke is a repeated pattern of body and arm movement. It is an action rather than a counted length of the pool.",
+      "LANE": "A lane is a marked route within the pool. It helps distinguish one swimmer\u2019s space from another.",
+      "GOGGLES": "Goggles is a plural-form word for protective eyewear. The clue refers to the pair rather than one lens.",
+      "LAP": "Lap is used for a counted swimming length or circuit. Usage varies, so the clue allows both common meanings."
+    },
+    "id": "active-pastimes",
+    "subtheme": "Active Pastimes"
+  },
+  {
+    "title": "Around the Running Track",
+    "description": "Follow a track through familiar race stages, distances, and objects passed between runners.",
+    "cardDescription": "Follow a track through familiar race stages, distances, and objects passed between runners.",
+    "focus": "The clues describe running vocabulary without requiring a speed or training plan. Actions and units of play have distinct meanings.",
+    "solvingTip": "Look for a stage, a movement, or an item handled during a relay.",
+    "words": [
+      [
+        "TRACK",
+        "Marked route used for running races"
+      ],
+      [
+        "RACE",
+        "Contest to complete a route before other participants"
+      ],
+      [
+        "RUN",
+        "To move faster than a walk with a running gait"
+      ],
+      [
+        "WALK",
+        "To travel on foot without running"
+      ],
+      [
+        "JOG",
+        "To run at a gentle steady pace"
+      ],
+      [
+        "LAP",
+        "One complete circuit of a running track"
+      ],
+      [
+        "LANE",
+        "Marked strip assigned to a runner on a track"
+      ],
+      [
+        "PACE",
+        "Rate at which a person moves along a route"
+      ],
+      [
+        "START",
+        "Point or moment at which a race begins"
+      ],
+      [
+        "FINISH",
+        "End point of a running race"
+      ],
+      [
+        "RELAY",
+        "Race in which teammates complete successive stages"
+      ],
+      [
+        "BATON",
+        "Short stick passed between relay runners"
+      ],
+      [
+        "SPRINT",
+        "Short fast run"
+      ],
+      [
+        "HURDLE",
+        "Barrier jumped during a track race"
+      ]
+    ],
+    "answerNotes": {
+      "RELAY": "A relay divides a race among teammates. Each person completes a stage before the next takes over.",
+      "BATON": "A baton is the object passed in a relay. The word also names a conductor\u2019s stick in music.",
+      "PACE": "Pace describes movement rate. The clue asks for a general term rather than a particular speed.",
+      "HURDLE": "A hurdle is the physical barrier here. The same word can describe an obstacle in an everyday situation."
+    },
+    "id": "active-pastimes-2",
+    "subtheme": "Active Pastimes"
+  },
+  {
+    "title": "A Bicycle by the Path",
+    "description": "Look over a bicycle through familiar parts, supports, and equipment used during a ride.",
+    "cardDescription": "Look over a bicycle through familiar parts, supports, and equipment used during a ride.",
+    "focus": "The clues identify what a bicycle part does or where it sits. Knowing the shape or job is enough to enter the grid.",
+    "solvingTip": "Check whether the clue describes a wheel part, a control, or a supporting structure.",
+    "words": [
+      [
+        "BICYCLE",
+        "Two-wheeled vehicle moved by pedaling"
+      ],
+      [
+        "PEDAL",
+        "Foot-operated part that drives a bicycle"
+      ],
+      [
+        "CHAIN",
+        "Linked metal loop transmitting pedaling power"
+      ],
+      [
+        "GEAR",
+        "Toothed wheel used in a bicycle\u2019s drive system"
+      ],
+      [
+        "BRAKE",
+        "Device used to slow a bicycle wheel"
+      ],
+      [
+        "WHEEL",
+        "Circular assembly turning beneath a bicycle"
+      ],
+      [
+        "SPOKE",
+        "Thin support running between a wheel\u2019s hub and rim"
+      ],
+      [
+        "TIRE",
+        "Rubber outer covering around a bicycle wheel"
+      ],
+      [
+        "TUBE",
+        "Inflatable inner part used inside many bicycle tires"
+      ],
+      [
+        "SADDLE",
+        "Seat on a bicycle"
+      ],
+      [
+        "HANDLEBAR",
+        "Steering bar gripped by a cyclist"
+      ],
+      [
+        "HELMET",
+        "Protective head covering used by a cyclist"
+      ],
+      [
+        "FRAME",
+        "Main supporting structure joining bicycle parts"
+      ],
+      [
+        "BELL",
+        "Small ringing device fitted to some handlebars"
+      ]
+    ],
+    "answerNotes": {
+      "SADDLE": "Saddle means the bicycle seat here. It is not riding equipment placed on a horse.",
+      "SPOKE": "A spoke connects the hub and rim. It is one support rather than the whole wheel.",
+      "TIRE": "Tire is the American spelling for the rubber covering. Tyre is a common British spelling.",
+      "FRAME": "The frame is the main supporting structure. The clue asks for that whole structure rather than one rotating part."
+    },
+    "id": "active-pastimes-3",
+    "subtheme": "Active Pastimes"
+  },
+  {
+    "title": "Table Tennis at the Club",
+    "description": "Explore table tennis through familiar equipment and the words used for serving, bouncing, and returning the ball.",
+    "cardDescription": "Explore table tennis through familiar equipment and the words used for serving, bouncing, and returning the ball.",
+    "focus": "The clues define the sport\u2019s objects and common actions. A few short words identify particular kinds of shots.",
+    "solvingTip": "Look for a playing object, a movement, or a result of contact with the table.",
+    "words": [
+      [
+        "PADDLE",
+        "Handheld striking implement used in table tennis"
+      ],
+      [
+        "BALL",
+        "Small light sphere hit across a table-tennis net"
+      ],
+      [
+        "NET",
+        "Low mesh barrier across the center of the table"
+      ],
+      [
+        "TABLE",
+        "Raised flat playing surface carrying the net in a paddle-and-ball game"
+      ],
+      [
+        "SERVE",
+        "Play that sends the ball into action at the start of a rally"
+      ],
+      [
+        "RALLY",
+        "Series of returns exchanged in table tennis"
+      ],
+      [
+        "SPIN",
+        "Rotation put on a table-tennis ball"
+      ],
+      [
+        "LOOP",
+        "Topspin attacking stroke in table tennis"
+      ],
+      [
+        "SMASH",
+        "Forceful fast attacking shot"
+      ],
+      [
+        "BOUNCE",
+        "To rebound after striking the table"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of the playing tabletop"
+      ],
+      [
+        "SCORE",
+        "Points recorded for the sides in a game"
+      ],
+      [
+        "GAME",
+        "One contest forming part of a table-tennis match"
+      ],
+      [
+        "DOUBLES",
+        "Format with two table-tennis players on each side"
+      ]
+    ],
+    "answerNotes": {
+      "PADDLE": "Paddle is a common American name for the striking implement. Racket and bat are also used in table-tennis terminology.",
+      "SPIN": "Spin names the ball\u2019s rotation. It is separate from how quickly the ball travels forward.",
+      "LOOP": "A loop is an attacking topspin stroke in this sport. It does not mean a bent length of string here.",
+      "DOUBLES": "Doubles has two players per side. The name describes the playing format rather than a point value."
+    },
+    "id": "active-pastimes-4",
+    "subtheme": "Active Pastimes"
+  },
+  {
+    "title": "Badminton in the Hall",
+    "description": "Meet badminton through familiar court words and descriptions of the shuttle, racket, and basic shots.",
+    "cardDescription": "Meet badminton through familiar court words and descriptions of the shuttle, racket, and basic shots.",
+    "focus": "The clues identify equipment and common playing actions. Direct descriptions introduce the light projectile used instead of a ball.",
+    "solvingTip": "Check whether the clue asks for equipment, a shot, or the number of players on a side.",
+    "words": [
+      [
+        "BADMINTON",
+        "Racket game played by sending a shuttle over a net"
+      ],
+      [
+        "RACKET",
+        "Stringed implement used to strike a shuttle"
+      ],
+      [
+        "SHUTTLE",
+        "Light conical projectile hit in badminton"
+      ],
+      [
+        "FEATHER",
+        "One traditional material forming a badminton shuttle\u2019s skirt"
+      ],
+      [
+        "NET",
+        "Raised barrier across a badminton court"
+      ],
+      [
+        "COURT",
+        "Marked playing area used for badminton"
+      ],
+      [
+        "SERVE",
+        "Shot used to start a badminton rally"
+      ],
+      [
+        "CLEAR",
+        "High deep badminton shot toward the back of the court"
+      ],
+      [
+        "DROP",
+        "Soft shot intended to fall close beyond the net"
+      ],
+      [
+        "SMASH",
+        "Fast steep attacking badminton shot"
+      ],
+      [
+        "RALLY",
+        "Connected sequence of badminton returns"
+      ],
+      [
+        "SINGLES",
+        "Format with one badminton player on each side"
+      ],
+      [
+        "DOUBLES",
+        "Format with two badminton players per side"
+      ],
+      [
+        "GRIP",
+        "Part of a racket held in the hand"
+      ]
+    ],
+    "answerNotes": {
+      "SHUTTLE": "Shuttle is short for shuttlecock. Birdie is another familiar name for the light badminton projectile.",
+      "CLEAR": "A clear is a deep shot in badminton. The clue does not use clear to describe transparent glass.",
+      "DROP": "A drop shot falls near the net. Its intended placement distinguishes it from a deep clear.",
+      "SINGLES": "Singles has one player on each side. Doubles uses pairs, so the player count determines the format."
+    },
+    "id": "active-pastimes-5",
+    "subtheme": "Active Pastimes"
+  }
+]

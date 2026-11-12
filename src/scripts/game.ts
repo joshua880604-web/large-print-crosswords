@@ -19,7 +19,7 @@ for (const root of document.querySelectorAll<HTMLElement>('.game-root')) {
  const safeSet=(k:string,v:string)=>{try{localStorage.setItem(k,v);return true}catch{return false}};
  const legacyKey=`lpc:v1:${p.id}`;
  const storageKey=p.revision?`${legacyKey}:edition:${p.revision}`:legacyKey;
- if(p.revision){
+ if(p.revision&&p.revision>1){
   try {
    const legacy=JSON.parse(safeGet(legacyKey)||'{}');
    const hasProgress=legacy&&typeof legacy==='object'&&!Array.isArray(legacy)&&Object.values(legacy).some(value=>typeof value==='string'&&/^[A-Z]$/.test(value));

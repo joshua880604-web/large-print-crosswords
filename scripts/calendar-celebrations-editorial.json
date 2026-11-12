@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Counting Toward New Year",
+    "description": "Mark a year-end gathering through familiar clock parts, time units, and celebration words.",
+    "cardDescription": "Mark a year-end gathering through familiar clock parts, time units, and celebration words.",
+    "focus": "The clues combine timekeeping with ordinary actions at a gathering. Some words have a special social meaning.",
+    "solvingTip": "Look for a time unit, a clock feature, or a celebratory action.",
+    "words": [
+      [
+        "MIDNIGHT",
+        "Time marking the start of a new calendar day"
+      ],
+      [
+        "CLOCK",
+        "Device displaying the passage of time"
+      ],
+      [
+        "HOUR",
+        "Time unit containing sixty minutes"
+      ],
+      [
+        "MINUTE",
+        "Time unit containing sixty seconds"
+      ],
+      [
+        "SECOND",
+        "Time unit making up one-sixtieth of a minute"
+      ],
+      [
+        "HAND",
+        "Moving pointer on an analog clock"
+      ],
+      [
+        "CHIME",
+        "Musical ringing sound made by a clock"
+      ],
+      [
+        "BELL",
+        "Ringing instrument sounded to mark an occasion"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "TOAST",
+        "Expression of goodwill made while raising a drink"
+      ],
+      [
+        "CHEER",
+        "Joyful shout at a shared celebration"
+      ],
+      [
+        "WISH",
+        "Hope expressed for the coming year"
+      ],
+      [
+        "YEAR",
+        "Calendar period divided into twelve months"
+      ],
+      [
+        "CALENDAR",
+        "Arrangement showing days, weeks, and months"
+      ]
+    ],
+    "answerNotes": {
+      "HAND": "Hand is a clock pointer in this clue. It does not mean a body part.",
+      "TOAST": "Toast names a spoken gesture of goodwill here. It is not browned bread.",
+      "MIDNIGHT": "Midnight is the boundary between calendar days. It differs from noon, the middle of daylight hours by clock convention.",
+      "CALENDAR": "A calendar organizes dates. A clock measures and displays time within a day."
+    },
+    "id": "calendar-celebrations",
+    "subtheme": "Celebrations"
+  },
+  {
+    "title": "A Valentine on the Table",
+    "description": "Explore a friendly February greeting through familiar messages, flowers, and gift details.",
+    "cardDescription": "Explore a friendly February greeting through familiar messages, flowers, and gift details.",
+    "focus": "The clues describe objects and considerate actions. Direct meanings identify the words without song lyrics or literary quotations.",
+    "solvingTip": "Check whether a clue asks for a message, a decorative object, or an action.",
+    "words": [
+      [
+        "HEART",
+        "Familiar symbol of affection drawn on a Valentine"
+      ],
+      [
+        "CARD",
+        "Written greeting offered for Valentine\u2019s Day"
+      ],
+      [
+        "ENVELOPE",
+        "Paper covering holding a mailed Valentine"
+      ],
+      [
+        "STAMP",
+        "Postage label attached before mailing a card"
+      ],
+      [
+        "ROSE",
+        "Flower traditionally associated with a romantic gift"
+      ],
+      [
+        "RIBBON",
+        "Decorative strip tied around a February gift"
+      ],
+      [
+        "BOW",
+        "Looped knot decorating a small present"
+      ],
+      [
+        "CHOCOLATE",
+        "Cacao-based sweet often given in an assortment"
+      ],
+      [
+        "FRIEND",
+        "Person known with warmth and trust"
+      ],
+      [
+        "LOVE",
+        "Deep affection expressed in a personal greeting"
+      ],
+      [
+        "KINDNESS",
+        "Considerate treatment shown toward another person"
+      ],
+      [
+        "NOTE",
+        "Short personal message inside a card"
+      ],
+      [
+        "SIGN",
+        "To add one\u2019s name to a Valentine"
+      ],
+      [
+        "SHARE",
+        "To let another person have part of a gift or treat"
+      ]
+    ],
+    "answerNotes": {
+      "HEART": "Heart names the drawn symbol here. The clue does not ask about the physical organ.",
+      "NOTE": "Note is a written message in this setting. It is not one musical pitch.",
+      "SIGN": "Sign is an action meaning add a name. It differs from a printed marker or road notice.",
+      "BOW": "Bow names the looped ribbon knot. It rhymes with go in this gift setting."
+    },
+    "id": "calendar-celebrations-2",
+    "subtheme": "Celebrations"
+  },
+  {
+    "title": "A St. Patrick\u2019s Day Procession",
+    "description": "Meet familiar Irish-themed symbols, instruments, and parade words.",
+    "cardDescription": "Meet familiar Irish-themed symbols, instruments, and parade words.",
+    "focus": "The clues describe cultural images and ordinary procession objects. They identify names without requiring historical dates.",
+    "solvingTip": "Look for a plant symbol, an instrument, or something seen in a parade.",
+    "words": [
+      [
+        "SHAMROCK",
+        "Three-leaf sprig traditionally associated with Ireland"
+      ],
+      [
+        "CLOVER",
+        "Small plant whose leaves commonly have three leaflets"
+      ],
+      [
+        "GREEN",
+        "Color strongly associated with St. Patrick\u2019s Day displays"
+      ],
+      [
+        "LEAF",
+        "One flat plant part in a clover sprig"
+      ],
+      [
+        "STEM",
+        "Slender support beneath a plant\u2019s leaves"
+      ],
+      [
+        "HARP",
+        "String instrument used as an Irish national symbol"
+      ],
+      [
+        "FIDDLE",
+        "Violin heard in traditional Irish music"
+      ],
+      [
+        "PARADE",
+        "Organized procession through a town"
+      ],
+      [
+        "BAND",
+        "Group of musicians taking part in a procession"
+      ],
+      [
+        "MARCH",
+        "To walk in step with a procession"
+      ],
+      [
+        "RIBBON",
+        "Decorative strip worn or tied for an occasion"
+      ],
+      [
+        "HAT",
+        "Head covering decorated for a seasonal celebration"
+      ],
+      [
+        "LUCK",
+        "Good fortune wished for in a familiar greeting"
+      ],
+      [
+        "IRELAND",
+        "Country associated with shamrock and harp symbols"
+      ]
+    ],
+    "answerNotes": {
+      "SHAMROCK": "A shamrock is traditionally a three-leaf sprig. It is not the same idea as the four-leaf clover associated with luck.",
+      "HARP": "The harp is an Irish cultural symbol. The clue asks for the instrument rather than its player.",
+      "FIDDLE": "Fiddle is a name for the violin in a traditional-music setting. It does not necessarily identify a different instrument.",
+      "CLOVER": "Clover leaves commonly have three leaflets. A leaflet is one division of the compound leaf."
+    },
+    "id": "calendar-celebrations-3",
+    "subtheme": "Celebrations"
+  },
+  {
+    "title": "A Fourth of July Picnic",
+    "description": "Picture a familiar summer celebration through flags, processions, picnic foods, and decorative lights.",
+    "cardDescription": "Picture a familiar summer celebration through flags, processions, picnic foods, and decorative lights.",
+    "focus": "The clues describe a community gathering in the United States. Objects and shapes provide the answers rather than historical trivia.",
+    "solvingTip": "Check whether the clue names a symbol, a food, a procession item, or a light effect.",
+    "words": [
+      [
+        "FLAG",
+        "Fabric symbol flown for a national celebration"
+      ],
+      [
+        "STRIPE",
+        "Long narrow band appearing on the U.S. flag"
+      ],
+      [
+        "STAR",
+        "Pointed symbol in the U.S. flag\u2019s blue field"
+      ],
+      [
+        "PARADE",
+        "Organized procession held for a community occasion"
+      ],
+      [
+        "BAND",
+        "Musicians playing together in a holiday procession"
+      ],
+      [
+        "MARCH",
+        "To walk in an ordered procession"
+      ],
+      [
+        "PICNIC",
+        "Meal enjoyed outdoors during a summer celebration"
+      ],
+      [
+        "BANNER",
+        "Long display sign carried through a street"
+      ],
+      [
+        "BALLOON",
+        "Inflated decorative object at a gathering"
+      ],
+      [
+        "GRILL",
+        "Outdoor cooking surface at a summer picnic"
+      ],
+      [
+        "CORN",
+        "Cob-grown food commonly served at a cookout"
+      ],
+      [
+        "WATERMELON",
+        "Large juicy summer fruit often served in wedges"
+      ],
+      [
+        "SPARKLE",
+        "Small bright flashing point of light"
+      ],
+      [
+        "FIREWORK",
+        "Display item producing a bright pyrotechnic effect"
+      ]
+    ],
+    "answerNotes": {
+      "STRIPE": "A stripe is a long band of color. Its shape distinguishes it from a separate star symbol.",
+      "STAR": "Star names a flag symbol here. It does not refer to a distant sun in this clue.",
+      "BANNER": "A banner carries a displayed message or design. It differs from the musicians forming a band.",
+      "WATERMELON": "A watermelon is a large fruit often cut into wedges. The clue uses its familiar serving form rather than one named variety."
+    },
+    "id": "calendar-celebrations-4",
+    "subtheme": "Celebrations"
+  },
+  {
+    "title": "A Birthday Gathering",
+    "description": "Set a birthday table through familiar greetings, gifts, serving words, and decorations.",
+    "cardDescription": "Set a birthday table through familiar greetings, gifts, serving words, and decorations.",
+    "focus": "The clues identify objects and roles at a celebration. Some words name what is served, while others name what is written or displayed.",
+    "solvingTip": "Look for a greeting, a decoration, a food portion, or a person\u2019s role.",
+    "words": [
+      [
+        "CAKE",
+        "Sweet baked centerpiece of a birthday table"
+      ],
+      [
+        "CANDLE",
+        "Small wax light placed on a birthday cake"
+      ],
+      [
+        "WISH",
+        "Hope traditionally made during a birthday celebration"
+      ],
+      [
+        "CARD",
+        "Written greeting offered for a birthday"
+      ],
+      [
+        "GIFT",
+        "Present given to mark a personal occasion"
+      ],
+      [
+        "BOW",
+        "Looped ribbon knot on a birthday parcel"
+      ],
+      [
+        "PAPER",
+        "Thin wrapping covering a present"
+      ],
+      [
+        "BOX",
+        "Rigid container holding a birthday gift"
+      ],
+      [
+        "BALLOON",
+        "Inflated decoration at a celebration"
+      ],
+      [
+        "BANNER",
+        "Long displayed sign carrying a birthday greeting"
+      ],
+      [
+        "GUEST",
+        "Person invited to a birthday gathering"
+      ],
+      [
+        "HOST",
+        "Person welcoming people to a celebration"
+      ],
+      [
+        "SLICE",
+        "One cut serving of a birthday cake"
+      ],
+      [
+        "YEAR",
+        "Period added when another birthday is reached"
+      ]
+    ],
+    "answerNotes": {
+      "CANDLE": "A candle is the whole wax light. The flame is the burning light at its top.",
+      "GUEST": "Guest names the invited role. It does not specify how the person is related to the host.",
+      "HOST": "The host welcomes the gathering. The word identifies a role rather than the celebration itself.",
+      "SLICE": "Slice is a noun for a served piece here. It can also be the action of cutting such a piece."
+    },
+    "id": "calendar-celebrations-5",
+    "subtheme": "Celebrations"
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "title": "A Round of Golf",
+    "description": "Visit a golf course through familiar equipment, features, and scoring words.",
+    "cardDescription": "Visit a golf course through familiar equipment, features, and scoring words.",
+    "focus": "The clues use ordinary golf vocabulary without requiring tournament records. Positions and purposes distinguish the terms.",
+    "solvingTip": "Look for a playing object, a part of the course, or a score description.",
+    "words": [
+      [
+        "GOLF",
+        "Game played by hitting a small ball toward a series of holes"
+      ],
+      [
+        "CLUB",
+        "Implement swung to strike a golf ball"
+      ],
+      [
+        "TEE",
+        "Small support holding a ball before an opening shot"
+      ],
+      [
+        "GREEN",
+        "Closely cut area surrounding a golf hole"
+      ],
+      [
+        "FAIRWAY",
+        "Main closely cut route between tee and green"
+      ],
+      [
+        "ROUGH",
+        "Longer grass bordering a golf fairway"
+      ],
+      [
+        "BUNKER",
+        "Sand-filled course hazard"
+      ],
+      [
+        "PUTT",
+        "Short golf stroke usually played on the green"
+      ],
+      [
+        "DRIVE",
+        "Long opening golf stroke from a teeing area"
+      ],
+      [
+        "PAR",
+        "Expected number of strokes assigned to a hole"
+      ],
+      [
+        "BIRDIE",
+        "Score one stroke below par on a hole"
+      ],
+      [
+        "BOGEY",
+        "Score one stroke above par on a hole"
+      ],
+      [
+        "CADDIE",
+        "Person who carries clubs and assists a golfer"
+      ],
+      [
+        "FLAG",
+        "Marker showing a hole\u2019s position on the green"
+      ]
+    ],
+    "answerNotes": {
+      "PAR": "Par is the assigned expected stroke count. Birdie and bogey describe scores relative to it.",
+      "BIRDIE": "A birdie is one under par. The word identifies a score rather than a small bird.",
+      "BOGEY": "A bogey is one over par. Its position above par distinguishes it from a birdie.",
+      "ROUGH": "Rough is the longer grass beside the fairway. It is a course area rather than a general comment on a difficult day."
+    },
+    "id": "leisure-sports",
+    "subtheme": "Leisure Sports"
+  },
+  {
+    "title": "An Afternoon at the Bowling Alley",
+    "description": "Set up familiar bowling words for lanes, pins, equipment, and results.",
+    "cardDescription": "Set up familiar bowling words for lanes, pins, equipment, and results.",
+    "focus": "The clues describe tenpin bowling. Some answers name objects, while others name a unit of play or the result of a roll.",
+    "solvingTip": "Check whether a clue asks for equipment, a score result, or a place on the lane.",
+    "words": [
+      [
+        "BOWLING",
+        "Game of rolling a ball toward standing pins"
+      ],
+      [
+        "LANE",
+        "Long surface along which a bowling ball rolls"
+      ],
+      [
+        "PIN",
+        "One standing target in tenpin bowling"
+      ],
+      [
+        "BALL",
+        "Heavy finger-holed object rolled in bowling"
+      ],
+      [
+        "GUTTER",
+        "Channel along either side of a bowling lane"
+      ],
+      [
+        "STRIKE",
+        "All ten pins knocked down with the first roll of a frame"
+      ],
+      [
+        "SPARE",
+        "All ten pins knocked down using both rolls of a frame"
+      ],
+      [
+        "FRAME",
+        "One of ten scoring divisions in a standard tenpin game"
+      ],
+      [
+        "SPLIT",
+        "Separated standing pins left after a first roll"
+      ],
+      [
+        "FOUL",
+        "Violation associated with stepping beyond the bowling line"
+      ],
+      [
+        "ALLEY",
+        "Place containing bowling lanes"
+      ],
+      [
+        "SHOE",
+        "Special footwear worn on the bowling approach"
+      ],
+      [
+        "ROLL",
+        "To send a bowling ball along the lane"
+      ],
+      [
+        "SCORE",
+        "Recorded points earned during a bowling game"
+      ]
+    ],
+    "answerNotes": {
+      "STRIKE": "A strike clears ten pins on the first roll of a frame. A spare uses two rolls.",
+      "FRAME": "A frame is one scoring division. The term does not mean the border around a picture here.",
+      "SPLIT": "A split leaves separated pins standing. The gap between them makes the arrangement distinctive.",
+      "GUTTER": "A gutter is a channel beside the lane. The clue names a bowling feature rather than roof drainage."
+    },
+    "id": "leisure-sports-2",
+    "subtheme": "Leisure Sports"
+  },
+  {
+    "title": "Bocce in the Park",
+    "description": "Discover bocce through familiar ball-game words and simple descriptions of the playing area.",
+    "cardDescription": "Discover bocce through familiar ball-game words and simple descriptions of the playing area.",
+    "focus": "The clues identify objects, positions, and actions used around bocce. Direct definitions introduce the small target ball and related terms.",
+    "solvingTip": "Look for a ball, a surface, a position, or an action; several answers are ordinary short words.",
+    "words": [
+      [
+        "BOCCE",
+        "Lawn or court game played by rolling balls near a small target"
+      ],
+      [
+        "PALLINO",
+        "Small target ball used in bocce"
+      ],
+      [
+        "BALL",
+        "Rounded playing object rolled toward a bocce target"
+      ],
+      [
+        "COURT",
+        "Prepared playing area for a bocce match"
+      ],
+      [
+        "ROLL",
+        "To move a bocce ball along the ground"
+      ],
+      [
+        "TOSS",
+        "To throw a ball with a gentle upward motion"
+      ],
+      [
+        "TARGET",
+        "Object toward which the playing balls are directed"
+      ],
+      [
+        "POINT",
+        "One unit credited when scoring a bocce round"
+      ],
+      [
+        "TEAM",
+        "Players acting together on one side"
+      ],
+      [
+        "ROUND",
+        "One completed stage of a bocce game"
+      ],
+      [
+        "NEAR",
+        "Close in distance to the target ball"
+      ],
+      [
+        "FAR",
+        "At a greater distance from the target"
+      ],
+      [
+        "SAND",
+        "Fine granular material used on some playing surfaces"
+      ],
+      [
+        "MEASURE",
+        "To compare the distances between balls and a target"
+      ]
+    ],
+    "answerNotes": {
+      "PALLINO": "Pallino names the small target ball in bocce. The larger playing balls are directed toward it.",
+      "COURT": "Court names the playing area here. It is not a place where legal cases are heard.",
+      "ROUND": "Round is a stage of play in this clue. The same word also describes the shape of the balls.",
+      "MEASURE": "Measure is a verb for comparing distances here. The clue asks for an action rather than one particular measuring tool."
+    },
+    "id": "leisure-sports-3",
+    "subtheme": "Leisure Sports"
+  },
+  {
+    "title": "Croquet on the Lawn",
+    "description": "Step onto a croquet lawn through familiar equipment, shapes, and movement words.",
+    "cardDescription": "Step onto a croquet lawn through familiar equipment, shapes, and movement words.",
+    "focus": "The clues describe the game\u2019s objects through direct definitions. A few terms identify the hoops and upright markers used on the lawn.",
+    "solvingTip": "Check whether the clue names something struck, something swung, or something passed through.",
+    "words": [
+      [
+        "CROQUET",
+        "Lawn game played by striking balls through hoops"
+      ],
+      [
+        "MALLET",
+        "Long-handled striking tool used in croquet"
+      ],
+      [
+        "BALL",
+        "Rounded object struck through croquet hoops"
+      ],
+      [
+        "WICKET",
+        "Hoop through which a croquet ball is played"
+      ],
+      [
+        "HOOP",
+        "Arched opening used as a target in croquet"
+      ],
+      [
+        "STAKE",
+        "Upright post used as a croquet marker"
+      ],
+      [
+        "LAWN",
+        "Area of closely cut grass used for a garden game"
+      ],
+      [
+        "HANDLE",
+        "Part of a croquet mallet gripped by the player"
+      ],
+      [
+        "HEAD",
+        "Striking end of a mallet"
+      ],
+      [
+        "STROKE",
+        "One striking action with the mallet"
+      ],
+      [
+        "TURN",
+        "One player\u2019s opportunity to play croquet"
+      ],
+      [
+        "GATE",
+        "Opening suggested by the shape of a croquet hoop"
+      ],
+      [
+        "PEG",
+        "Short upright marker driven into the ground"
+      ],
+      [
+        "COURSE",
+        "Arranged route followed through the croquet targets"
+      ]
+    ],
+    "answerNotes": {
+      "MALLET": "A croquet mallet has a long handle and a striking head. The clue names the complete implement.",
+      "WICKET": "Wicket names a croquet hoop here. The word also has a different sporting use in cricket.",
+      "STROKE": "A stroke is one strike with the mallet. It names the action rather than the mallet head.",
+      "COURSE": "Course is the arranged playing route here. It does not refer to a serving within a meal."
+    },
+    "id": "leisure-sports-4",
+    "subtheme": "Leisure Sports"
+  },
+  {
+    "title": "Tennis at the Local Courts",
+    "description": "Explore tennis through familiar equipment, court features, and short scoring words.",
+    "cardDescription": "Explore tennis through familiar equipment, court features, and short scoring words.",
+    "focus": "These clues define tennis vocabulary. Knowing the purpose or position of an object can help as much as following the sport.",
+    "solvingTip": "Look for a piece of equipment, a playing action, or a score term.",
+    "words": [
+      [
+        "TENNIS",
+        "Racket game played by hitting a ball across a net"
+      ],
+      [
+        "RACKET",
+        "Stringed implement swung to hit a tennis ball"
+      ],
+      [
+        "NET",
+        "Mesh barrier stretched across a tennis court"
+      ],
+      [
+        "COURT",
+        "Marked playing surface for a tennis match"
+      ],
+      [
+        "SERVE",
+        "Stroke used to put the ball into play in tennis"
+      ],
+      [
+        "VOLLEY",
+        "Return struck before the ball bounces"
+      ],
+      [
+        "LOB",
+        "High arcing tennis shot"
+      ],
+      [
+        "ACE",
+        "Serve the receiver does not touch"
+      ],
+      [
+        "DEUCE",
+        "Tennis score in which both sides have at least three points and are level"
+      ],
+      [
+        "LOVE",
+        "Tennis word for a score of zero"
+      ],
+      [
+        "SET",
+        "Group of tennis games forming part of a match"
+      ],
+      [
+        "MATCH",
+        "Complete contest between tennis opponents"
+      ],
+      [
+        "LINE",
+        "Boundary marking on a tennis court"
+      ],
+      [
+        "DOUBLES",
+        "Tennis format with two players on each side"
+      ]
+    ],
+    "answerNotes": {
+      "LOVE": "Love means zero in tennis scoring. The sporting context differs from affection in everyday use.",
+      "DEUCE": "Deuce is the level score reached at forty-all and after later equal points. A player must then gain the required advantage.",
+      "VOLLEY": "A volley is hit before a bounce. It differs from a groundstroke played after the ball reaches the court.",
+      "ACE": "An ace is an untouched legal serve. The word has a separate meaning as a playing card."
+    },
+    "id": "leisure-sports-5",
+    "subtheme": "Leisure Sports"
+  }
+]

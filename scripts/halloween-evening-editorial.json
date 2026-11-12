@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Inside an Autumn Pumpkin",
+    "description": "Look inside a pumpkin through familiar words for its parts and the objects used around a seasonal display.",
+    "cardDescription": "Look inside a pumpkin through familiar words for its parts and the objects used around a seasonal display.",
+    "focus": "The clues describe plant structures and household objects. Their location or purpose identifies the answer.",
+    "solvingTip": "Check whether the clue names an outer covering, an inner part, or a utensil.",
+    "words": [
+      [
+        "PUMPKIN",
+        "Large squash commonly associated with Halloween displays"
+      ],
+      [
+        "SEED",
+        "One small plant structure found inside a pumpkin"
+      ],
+      [
+        "PULP",
+        "Soft moist flesh within a fruit"
+      ],
+      [
+        "RIND",
+        "Firm outer covering of a pumpkin"
+      ],
+      [
+        "FIBER",
+        "One threadlike strand within a pumpkin\u2019s interior"
+      ],
+      [
+        "STEM",
+        "Short plant support attached at the top of a pumpkin"
+      ],
+      [
+        "CAVITY",
+        "Hollow space inside an object"
+      ],
+      [
+        "SCOOP",
+        "Rounded tool used to lift soft material"
+      ],
+      [
+        "SPOON",
+        "Bowl-ended utensil that can lift pumpkin seeds"
+      ],
+      [
+        "BOWL",
+        "Open container holding removed seeds"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth laid beside a kitchen project"
+      ],
+      [
+        "STRAINER",
+        "Utensil that separates small solids from liquid"
+      ],
+      [
+        "ORANGE",
+        "Color commonly associated with a ripe display pumpkin"
+      ],
+      [
+        "ROUND",
+        "Curved all around, as the shape of many pumpkins"
+      ]
+    ],
+    "answerNotes": {
+      "PULP": "Pulp names soft fruit material. It differs from the firm outer rind.",
+      "RIND": "The rind is the outside covering. The clue contrasts that location with the inner cavity.",
+      "CAVITY": "A cavity is a hollow space. The word is used for an object\u2019s interior rather than a dental condition here.",
+      "FIBER": "Fiber is one threadlike strand in this clue. The singular form names a small part of the interior."
+    },
+    "id": "halloween-evening",
+    "subtheme": "Halloween"
+  },
+  {
+    "title": "The Costume Closet",
+    "description": "Open a costume closet through familiar garments, accessories, and the details that fasten them.",
+    "cardDescription": "Open a costume closet through familiar garments, accessories, and the details that fasten them.",
+    "focus": "The clues describe clothing and simple theatrical objects. Ordinary shapes and body locations provide the meaning.",
+    "solvingTip": "Look for a whole garment, an accessory, or a clothing part.",
+    "words": [
+      [
+        "COSTUME",
+        "Outfit worn to represent a character at a seasonal party"
+      ],
+      [
+        "MASK",
+        "Covering that changes or conceals the face"
+      ],
+      [
+        "CAPE",
+        "Sleeveless outer garment hanging from the shoulders"
+      ],
+      [
+        "HAT",
+        "Head covering used as part of an outfit"
+      ],
+      [
+        "WIG",
+        "Artificial covering resembling hair"
+      ],
+      [
+        "GLOVE",
+        "Hand covering with individual finger sections"
+      ],
+      [
+        "BOOT",
+        "Footwear rising above the ankle"
+      ],
+      [
+        "ROBE",
+        "Long loose outer garment"
+      ],
+      [
+        "CROWN",
+        "Head decoration suggesting a royal character"
+      ],
+      [
+        "SASH",
+        "Broad decorative band worn around the body"
+      ],
+      [
+        "BELT",
+        "Band worn around the waist"
+      ],
+      [
+        "BUTTON",
+        "Fastener passed through a garment\u2019s small opening"
+      ],
+      [
+        "ZIPPER",
+        "Clothing closure operated by a sliding pull"
+      ],
+      [
+        "POCKET",
+        "Sewn compartment used to carry a small object"
+      ]
+    ],
+    "answerNotes": {
+      "CAPE": "A cape hangs from the shoulders without sleeves. Its shape distinguishes it from a fitted coat.",
+      "SASH": "A sash is a broad band. It may cross the body or encircle the waist depending on the outfit.",
+      "WIG": "A wig is a separate hairlike covering. It names an accessory rather than the wearer\u2019s own hair.",
+      "CROWN": "Crown is a costume object here. It does not mean the top of a tooth or the upper part of a hat."
+    },
+    "id": "halloween-evening-2",
+    "subtheme": "Halloween"
+  },
+  {
+    "title": "Treats for a Porch Party",
+    "description": "Set out a seasonal snack table with familiar sweets, serving objects, and wrapping words.",
+    "cardDescription": "Set out a seasonal snack table with familiar sweets, serving objects, and wrapping words.",
+    "focus": "The clues identify food forms and the objects holding them. Some ordinary words can name either a texture or a whole item.",
+    "solvingTip": "Check whether the clue asks for a confection, a container, or an outer covering.",
+    "words": [
+      [
+        "CANDY",
+        "Sweet confection offered at a Halloween gathering"
+      ],
+      [
+        "CARAMEL",
+        "Sweet made by heating sugar, often combined with dairy ingredients"
+      ],
+      [
+        "APPLE",
+        "Fruit commonly coated with caramel for an autumn treat"
+      ],
+      [
+        "POPCORN",
+        "Puffed corn served as a party snack"
+      ],
+      [
+        "PRETZEL",
+        "Twisted baked snack with a familiar knotlike shape"
+      ],
+      [
+        "CHOCOLATE",
+        "Cacao-based sweet often divided into small wrapped pieces"
+      ],
+      [
+        "FUDGE",
+        "Soft dense sweet cut into small squares"
+      ],
+      [
+        "TOFFEE",
+        "Firm buttery sugar confection"
+      ],
+      [
+        "BAG",
+        "Flexible container used to hold party treats"
+      ],
+      [
+        "BOWL",
+        "Rounded open dish holding a snack assortment"
+      ],
+      [
+        "TRAY",
+        "Flat carrying surface used to serve party food"
+      ],
+      [
+        "WRAP",
+        "Outer covering around an individual sweet"
+      ],
+      [
+        "SWEET",
+        "Having a sugary flavor"
+      ],
+      [
+        "TREAT",
+        "Small enjoyable food offered to a guest"
+      ]
+    ],
+    "answerNotes": {
+      "CARAMEL": "Caramel involves heated sugar. It names the sweet material rather than the apple it may cover.",
+      "PRETZEL": "A pretzel is recognizable by its twisted form. The clue uses shape rather than a particular brand.",
+      "WRAP": "Wrap is an outer covering in this clue. It is a noun rather than an instruction to cover something.",
+      "TREAT": "A treat is something enjoyed or given as a small pleasure. The party setting narrows its meaning to food offered to a guest."
+    },
+    "id": "halloween-evening-3",
+    "subtheme": "Halloween"
+  },
+  {
+    "title": "A Walk at Twilight",
+    "description": "Follow a seasonal evening walk through familiar light, weather, and entrance words.",
+    "cardDescription": "Follow a seasonal evening walk through familiar light, weather, and entrance words.",
+    "focus": "The clues describe what a person might notice around a neighborhood at dusk. Positions and changes in light distinguish the terms.",
+    "solvingTip": "Look for a time of day, a light effect, a place, or a movement.",
+    "words": [
+      [
+        "DUSK",
+        "Time when daylight is fading toward night"
+      ],
+      [
+        "MOON",
+        "Earth\u2019s natural satellite visible in many evening skies"
+      ],
+      [
+        "SHADOW",
+        "Dark shape made when an object blocks light"
+      ],
+      [
+        "LANTERN",
+        "Portable light enclosed in a protective housing"
+      ],
+      [
+        "PORCH",
+        "Entrance area outside a house"
+      ],
+      [
+        "STEP",
+        "One raised level leading to a doorway"
+      ],
+      [
+        "PATH",
+        "Narrow route followed on foot"
+      ],
+      [
+        "GATE",
+        "Movable opening in a fence"
+      ],
+      [
+        "LEAF",
+        "Flat plant part sometimes found underfoot in autumn"
+      ],
+      [
+        "BREEZE",
+        "Light wind felt during an evening walk"
+      ],
+      [
+        "TWILIGHT",
+        "Period of partial light before night or after dawn"
+      ],
+      [
+        "NIGHT",
+        "Dark portion of the daily cycle"
+      ],
+      [
+        "GLOW",
+        "Soft steady light from a lamp or decoration"
+      ],
+      [
+        "WALK",
+        "To move along a neighborhood route on foot"
+      ]
+    ],
+    "answerNotes": {
+      "TWILIGHT": "Twilight is partial daylight near sunrise or sunset. The evening setting here points toward the start of night.",
+      "SHADOW": "A shadow results from blocked light. It differs from the light source making it visible.",
+      "GLOW": "Glow is a soft steady light in this clue. It does not require a sharp flashing pattern.",
+      "LANTERN": "A lantern encloses a light source. The clue names the whole portable object rather than its flame or bulb."
+    },
+    "id": "halloween-evening-4",
+    "subtheme": "Halloween"
+  },
+  {
+    "title": "Classic Halloween Symbols",
+    "description": "Explore familiar seasonal images through animals, story figures, and traditional decorative objects.",
+    "cardDescription": "Explore familiar seasonal images through animals, story figures, and traditional decorative objects.",
+    "focus": "The clues describe symbols used in displays and stories. Fictional figures are identified as story characters rather than real beings.",
+    "solvingTip": "Check whether the clue names an animal, an object, or a traditional imaginary figure.",
+    "words": [
+      [
+        "BAT",
+        "Flying mammal often represented in Halloween decorations"
+      ],
+      [
+        "OWL",
+        "Bird commonly pictured with large forward-facing eyes"
+      ],
+      [
+        "CAT",
+        "Domestic feline often shown in seasonal silhouettes"
+      ],
+      [
+        "SPIDER",
+        "Eight-legged animal associated with a silken web"
+      ],
+      [
+        "WEB",
+        "Silken structure made by many spiders"
+      ],
+      [
+        "BROOM",
+        "Sweeping tool associated with a witch in traditional stories"
+      ],
+      [
+        "WITCH",
+        "Magic-using figure in folklore and Halloween stories"
+      ],
+      [
+        "GHOST",
+        "Spirit figure represented in traditional spooky stories"
+      ],
+      [
+        "HAT",
+        "Pointed headwear commonly added to a storybook witch"
+      ],
+      [
+        "STAR",
+        "Pointed night-sky symbol cut from paper for a display"
+      ],
+      [
+        "MOON",
+        "Round or crescent sky symbol used in evening decorations"
+      ],
+      [
+        "PUMPKIN",
+        "Orange squash represented in many autumn displays"
+      ],
+      [
+        "CORN",
+        "Harvest crop whose dried stalks may decorate a doorway"
+      ],
+      [
+        "HAY",
+        "Dried forage arranged in bales for some fall displays"
+      ]
+    ],
+    "answerNotes": {
+      "BAT": "Bats are mammals, although they fly. Their animal group distinguishes them from birds such as owls.",
+      "SPIDER": "Spiders have eight legs. They are arachnids rather than six-legged insects.",
+      "WEB": "Web names a silken animal structure here. It does not refer to the internet.",
+      "GHOST": "Ghost names a figure in traditional stories and decorations. The clue concerns the fictional or folkloric image."
+    },
+    "id": "halloween-evening-5",
+    "subtheme": "Halloween"
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Around the Basketball Court",
+    "description": "Explore basketball through familiar court features, equipment, and the actions seen during play.",
+    "cardDescription": "Explore basketball through familiar court features, equipment, and the actions seen during play.",
+    "focus": "The clues identify visible objects and common playing terms. They do not depend on remembering a player or a season.",
+    "solvingTip": "Look for a court feature, a player role, or an action with the ball.",
+    "words": [
+      [
+        "BASKETBALL",
+        "Team game played by shooting a ball through a raised hoop"
+      ],
+      [
+        "COURT",
+        "Marked playing surface for basketball"
+      ],
+      [
+        "HOOP",
+        "Circular target through which a basketball is shot"
+      ],
+      [
+        "RIM",
+        "Metal ring supporting a basketball net"
+      ],
+      [
+        "NET",
+        "Hanging mesh attached beneath a basketball rim"
+      ],
+      [
+        "BACKBOARD",
+        "Flat panel behind a basketball hoop"
+      ],
+      [
+        "DRIBBLE",
+        "To bounce the ball repeatedly while moving in basketball"
+      ],
+      [
+        "PASS",
+        "To send the ball to a teammate"
+      ],
+      [
+        "SHOT",
+        "Attempt to send a basketball through the hoop"
+      ],
+      [
+        "REBOUND",
+        "Ball recovered after a missed basketball shot"
+      ],
+      [
+        "GUARD",
+        "Basketball position often associated with ball handling"
+      ],
+      [
+        "CENTER",
+        "Basketball position traditionally associated with play near the basket"
+      ],
+      [
+        "FOUL",
+        "Rule violation involving illegal contact in basketball"
+      ],
+      [
+        "BASKET",
+        "Successful basketball shot through the hoop"
+      ]
+    ],
+    "answerNotes": {
+      "DRIBBLE": "Dribbling uses repeated bounces. It differs from passing the ball to a teammate.",
+      "REBOUND": "A rebound follows a missed shot. It can refer to the recovered ball or the act of gaining it.",
+      "CENTER": "Center names a playing position here. It is not merely the middle location of the court.",
+      "BACKBOARD": "The backboard is the panel behind the rim. It is separate from the circular hoop itself."
+    },
+    "id": "team-sports",
+    "subtheme": "Team Sports"
+  },
+  {
+    "title": "An American Football Afternoon",
+    "description": "Follow an American football game through familiar actions, field terms, and equipment.",
+    "cardDescription": "Follow an American football game through familiar actions, field terms, and equipment.",
+    "focus": "The clues use the American game meaning of football. Short action words help identify the sport without requiring a rule-book calculation.",
+    "solvingTip": "Check whether the clue names a field area, an action, or a stage of play.",
+    "words": [
+      [
+        "FOOTBALL",
+        "American team game played with an oval ball and end zones"
+      ],
+      [
+        "TACKLE",
+        "To stop a ball carrier by bringing the player down legally"
+      ],
+      [
+        "PASS",
+        "To throw the football toward an eligible teammate"
+      ],
+      [
+        "RUN",
+        "To carry a football while moving on foot"
+      ],
+      [
+        "PUNT",
+        "Kick made by dropping the ball from the hands before kicking it"
+      ],
+      [
+        "KICK",
+        "To strike the football with the foot"
+      ],
+      [
+        "GOAL",
+        "Target formed by uprights and a crossbar in football"
+      ],
+      [
+        "DOWN",
+        "One play in a team\u2019s series of football opportunities"
+      ],
+      [
+        "YARD",
+        "Length unit used to mark an American football field"
+      ],
+      [
+        "ENDZONE",
+        "Scoring area beyond a football goal line"
+      ],
+      [
+        "HELMET",
+        "Protective headgear worn by an American football player"
+      ],
+      [
+        "TEAM",
+        "Players acting together on one football side"
+      ],
+      [
+        "HUDDLE",
+        "Close gathering of players to discuss the next play"
+      ],
+      [
+        "SNAP",
+        "Action that transfers the ball to begin a football play"
+      ]
+    ],
+    "answerNotes": {
+      "DOWN": "Down names one play in this football setting. It does not describe a direction of movement.",
+      "ENDZONE": "End zone is normally written as two words. The crossword joins its letters into one grid entry.",
+      "HUDDLE": "A huddle is a brief close gathering. It names the group arrangement rather than one particular player.",
+      "SNAP": "A snap starts the play by transferring the ball. The clue uses a sporting action rather than a clothing fastener."
+    },
+    "id": "team-sports-2",
+    "subtheme": "Team Sports"
+  },
+  {
+    "title": "At the Hockey Rink",
+    "description": "Step beside the ice with familiar words for hockey equipment, playing space, and simple actions.",
+    "cardDescription": "Step beside the ice with familiar words for hockey equipment, playing space, and simple actions.",
+    "focus": "The clues identify the objects and units seen during an ice-hockey game. Shape and purpose distinguish the equipment.",
+    "solvingTip": "Look for a playing object, a protective item, or a term used during the action.",
+    "words": [
+      [
+        "HOCKEY",
+        "Ice game in which players use sticks to move a puck"
+      ],
+      [
+        "PUCK",
+        "Flat hard disk struck in ice hockey"
+      ],
+      [
+        "STICK",
+        "Long implement used to direct a hockey puck"
+      ],
+      [
+        "SKATE",
+        "Boot with a blade used to glide on ice"
+      ],
+      [
+        "ICE",
+        "Frozen playing surface in an indoor hockey rink"
+      ],
+      [
+        "RINK",
+        "Enclosed area used for skating or ice hockey"
+      ],
+      [
+        "GOAL",
+        "Scoring target defended by a hockey goalie"
+      ],
+      [
+        "NET",
+        "Mesh forming the back of a hockey goal"
+      ],
+      [
+        "MASK",
+        "Protective face covering used by a hockey goalie"
+      ],
+      [
+        "PAD",
+        "Protective cushion worn by a hockey player"
+      ],
+      [
+        "GLOVE",
+        "Protective hand covering worn while holding a hockey stick"
+      ],
+      [
+        "PERIOD",
+        "One of the main time divisions in a hockey game"
+      ],
+      [
+        "PASS",
+        "To direct the puck to a teammate"
+      ],
+      [
+        "SHOT",
+        "Attempt to send the puck into the goal"
+      ]
+    ],
+    "answerNotes": {
+      "PUCK": "A puck is a flat disk. Its shape distinguishes hockey\u2019s playing object from the balls used in many sports.",
+      "RINK": "A rink is the playing or skating area. It is not a particular skate or piece of protective gear.",
+      "PERIOD": "Period names a division of playing time. The word does not mean a punctuation mark here.",
+      "SKATE": "A skate is the complete boot-and-blade item. The blade is one part of that equipment."
+    },
+    "id": "team-sports-3",
+    "subtheme": "Team Sports"
+  },
+  {
+    "title": "Soccer on the Local Field",
+    "description": "Read familiar soccer words for equipment, positions, and the ways a ball moves around the field.",
+    "cardDescription": "Read familiar soccer words for equipment, positions, and the ways a ball moves around the field.",
+    "focus": "The clues describe soccer rather than American football. Some answers are ordinary words with a specific sporting meaning.",
+    "solvingTip": "Check whether a clue asks for a place, a player, or an action with the ball.",
+    "words": [
+      [
+        "SOCCER",
+        "Game in which teams primarily kick a ball toward goals"
+      ],
+      [
+        "BALL",
+        "Round object kicked during a soccer match"
+      ],
+      [
+        "GOAL",
+        "Target opening into which a soccer team tries to score"
+      ],
+      [
+        "NET",
+        "Mesh attached to the back of a soccer goal"
+      ],
+      [
+        "FIELD",
+        "Outdoor playing area for a soccer match"
+      ],
+      [
+        "PITCH",
+        "Another word for a soccer playing field"
+      ],
+      [
+        "PASS",
+        "To send a soccer ball to a teammate"
+      ],
+      [
+        "KICK",
+        "To strike the soccer ball with the foot"
+      ],
+      [
+        "HEADER",
+        "Play in which the ball is struck with the head"
+      ],
+      [
+        "KEEPER",
+        "Short name for the player guarding a soccer goal"
+      ],
+      [
+        "CORNER",
+        "Kick taken from a boundary junction after certain defensive touches"
+      ],
+      [
+        "THROW",
+        "Action used to return a ball from the sideline in soccer"
+      ],
+      [
+        "FOUL",
+        "Illegal action called by a soccer referee"
+      ],
+      [
+        "DRAW",
+        "Match result in which neither soccer team wins"
+      ]
+    ],
+    "answerNotes": {
+      "PITCH": "Pitch names the field in this soccer clue. It has a different sporting meaning in baseball.",
+      "HEADER": "A header uses the head to play the ball. The clue asks for the play name rather than a written heading.",
+      "KEEPER": "Keeper is a short form of goalkeeper. The clue identifies the role rather than a particular player.",
+      "DRAW": "A draw is a level result. It is not the act of taking a card or making a picture in this context."
+    },
+    "id": "team-sports-4",
+    "subtheme": "Team Sports"
+  },
+  {
+    "title": "Across the Volleyball Net",
+    "description": "Explore volleyball through familiar ball actions, court words, and short descriptions of a rally.",
+    "cardDescription": "Explore volleyball through familiar ball actions, court words, and short descriptions of a rally.",
+    "focus": "These definitions identify common volleyball terms without requiring detailed scoring knowledge. Several words have everyday meanings outside sport.",
+    "solvingTip": "Look for an action near the net, a ball-handling move, or a unit of play.",
+    "words": [
+      [
+        "VOLLEYBALL",
+        "Team game played by sending a ball over a high net"
+      ],
+      [
+        "BALL",
+        "Inflated playing object used in volleyball"
+      ],
+      [
+        "NET",
+        "Raised mesh barrier separating volleyball teams"
+      ],
+      [
+        "COURT",
+        "Marked playing area for volleyball"
+      ],
+      [
+        "SERVE",
+        "Hit that begins a volleyball rally"
+      ],
+      [
+        "SPIKE",
+        "Forceful downward attack hit in volleyball"
+      ],
+      [
+        "SET",
+        "Controlled overhead pass preparing an attack"
+      ],
+      [
+        "DIG",
+        "Defensive play lifting a low attacked ball"
+      ],
+      [
+        "BLOCK",
+        "Action near the net intended to stop an opponent\u2019s attack"
+      ],
+      [
+        "ROTATE",
+        "To change court positions in an ordered pattern"
+      ],
+      [
+        "TEAM",
+        "Group playing on one side of a volleyball net"
+      ],
+      [
+        "POINT",
+        "One unit added to a volleyball score"
+      ],
+      [
+        "RALLY",
+        "Sequence of play beginning with a serve"
+      ],
+      [
+        "BUMP",
+        "Informal term for a forearm pass"
+      ]
+    ],
+    "answerNotes": {
+      "SET": "Set names a ball-handling move here. It does not mean a collection of equipment or a tennis scoring division.",
+      "DIG": "A dig is a defensive recovery of an attacked ball. The word is used for sport rather than moving soil.",
+      "SPIKE": "A spike is a strong attacking hit. It differs from the controlled preparation called a set.",
+      "RALLY": "A rally is a connected sequence of play. It begins with a serve and ends when play stops for a decision."
+    },
+    "id": "team-sports-5",
+    "subtheme": "Team Sports"
+  }
+]

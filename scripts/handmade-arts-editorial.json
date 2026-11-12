@@ -1,0 +1,367 @@
+[
+  {
+    "title": "At the Pottery Bench",
+    "description": "Explore familiar pottery words for clay, vessels, shaping forms, and their parts.",
+    "cardDescription": "Explore familiar pottery words for clay, vessels, shaping forms, and their parts.",
+    "focus": "The clues name materials and objects rather than a making procedure. The shape or location of a part identifies it.",
+    "solvingTip": "Look for a material, a vessel, or one part of a container.",
+    "words": [
+      [
+        "CLAY",
+        "Earth material shaped and fired to make pottery"
+      ],
+      [
+        "POT",
+        "Rounded vessel made from a material such as clay"
+      ],
+      [
+        "VASE",
+        "Pottery container often used to display flowers"
+      ],
+      [
+        "BOWL",
+        "Open rounded pottery vessel"
+      ],
+      [
+        "WHEEL",
+        "Rotating support used in some pottery making"
+      ],
+      [
+        "KILN",
+        "High-temperature oven used to fire pottery"
+      ],
+      [
+        "GLAZE",
+        "Coating fired onto pottery to change its surface"
+      ],
+      [
+        "HANDLE",
+        "Part of a clay mug used for holding it"
+      ],
+      [
+        "RIM",
+        "Upper edge of a pottery vessel"
+      ],
+      [
+        "BASE",
+        "Bottom supporting part of a pot"
+      ],
+      [
+        "COIL",
+        "Long rolled length of clay"
+      ],
+      [
+        "SLAB",
+        "Flat sheet of clay"
+      ],
+      [
+        "FIRE",
+        "To heat pottery in a kiln"
+      ],
+      [
+        "DRY",
+        "To lose moisture before or during part of a making process"
+      ]
+    ],
+    "answerNotes": {
+      "KILN": "A kiln is an oven designed for processes such as firing pottery. It is not the rotating pottery wheel.",
+      "COIL": "Coil names a long rolled clay form. It differs from a flat slab.",
+      "GLAZE": "Pottery glaze is a fired surface coating. The clue uses a craft material rather than a food topping.",
+      "RIM": "The rim is the upper edge. The base is the bottom support, so location distinguishes them."
+    },
+    "id": "handmade-arts",
+    "subtheme": "Handmade Arts"
+  },
+  {
+    "title": "Paper on the Craft Table",
+    "description": "Explore familiar paper tools, simple shapes, and the names of folding and pasted-picture crafts.",
+    "cardDescription": "Explore familiar paper tools, simple shapes, and the names of folding and pasted-picture crafts.",
+    "focus": "The clues distinguish materials from actions and finished forms. Direct definitions introduce the two named paper arts.",
+    "solvingTip": "Look for an object, an edge, a folding mark, or a whole craft form.",
+    "words": [
+      [
+        "PAPER",
+        "Thin sheet material used for folding and pasting"
+      ],
+      [
+        "FOLD",
+        "To bend a sheet back over itself"
+      ],
+      [
+        "CREASE",
+        "Line made by sharply folding paper"
+      ],
+      [
+        "CUT",
+        "To divide paper with a blade or scissors"
+      ],
+      [
+        "SCISSORS",
+        "Hand tool with paired blades for cutting a sheet"
+      ],
+      [
+        "GLUE",
+        "Adhesive used to join paper pieces"
+      ],
+      [
+        "CARD",
+        "Stiffer paper used for a greeting or craft support"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of a paper sheet"
+      ],
+      [
+        "CORNER",
+        "Place where two paper edges meet"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece cut from paper"
+      ],
+      [
+        "SHEET",
+        "One complete flat piece of paper"
+      ],
+      [
+        "PATTERN",
+        "Guide showing a craft design or shape"
+      ],
+      [
+        "COLLAGE",
+        "Picture made by arranging and attaching separate materials"
+      ],
+      [
+        "ORIGAMI",
+        "Art of forming shapes by folding paper"
+      ]
+    ],
+    "answerNotes": {
+      "ORIGAMI": "Origami is paper folding. Its name identifies an art form rather than one particular folded object.",
+      "COLLAGE": "Collage combines attached pieces into a picture. It differs from drawing every element directly on the surface.",
+      "CREASE": "A crease is the mark made by a fold. The clue asks for the resulting line.",
+      "SHEET": "A sheet is one flat piece of material. It differs from a narrow strip cut from that piece."
+    },
+    "id": "handmade-arts-2",
+    "subtheme": "Handmade Arts"
+  },
+  {
+    "title": "Pieces in a Mosaic",
+    "description": "Build a vocabulary picture through familiar mosaic pieces, surfaces, and joining materials.",
+    "cardDescription": "Build a vocabulary picture through familiar mosaic pieces, surfaces, and joining materials.",
+    "focus": "The clues identify objects by how they relate to a larger design. Some answers name a whole work; others name a small part.",
+    "solvingTip": "Look for a design, one piece, or a material occupying the spaces between pieces.",
+    "words": [
+      [
+        "MOSAIC",
+        "Design assembled from many small separate pieces"
+      ],
+      [
+        "TILE",
+        "Small flat unit used in many mosaics"
+      ],
+      [
+        "GLASS",
+        "Material used for bright or translucent mosaic pieces"
+      ],
+      [
+        "STONE",
+        "Natural hard material cut into mosaic units"
+      ],
+      [
+        "GROUT",
+        "Material filling spaces between set tiles"
+      ],
+      [
+        "PATTERN",
+        "Arrangement repeated or planned across a design"
+      ],
+      [
+        "PIECE",
+        "One separate unit in a mosaic"
+      ],
+      [
+        "COLOR",
+        "Visible hue used to organize a design"
+      ],
+      [
+        "SURFACE",
+        "Outer area on which mosaic pieces are placed"
+      ],
+      [
+        "BORDER",
+        "Decorative band around a mosaic\u2019s outside"
+      ],
+      [
+        "EDGE",
+        "Outer limit of a tile or finished design"
+      ],
+      [
+        "GAP",
+        "Space between adjacent mosaic pieces"
+      ],
+      [
+        "ADHESIVE",
+        "Substance bonding a tile to its support"
+      ],
+      [
+        "BASE",
+        "Underlying support carrying a mosaic"
+      ]
+    ],
+    "answerNotes": {
+      "GROUT": "Grout fills the spaces between tiles. Adhesive attaches the tiles to their support instead.",
+      "MOSAIC": "A mosaic is the assembled design. It can use materials such as stone, glass, or ceramic.",
+      "TILE": "A tile is one flat unit here. The clue does not name the entire finished mosaic.",
+      "ADHESIVE": "Adhesive is a general word for a bonding substance. It is distinct from the support beneath the design."
+    },
+    "id": "handmade-arts-3",
+    "subtheme": "Handmade Arts"
+  },
+  {
+    "title": "Pressed Flowers in a Frame",
+    "description": "Explore a pressed-flower keepsake through plant parts, paper, supports, and arranging words.",
+    "cardDescription": "Explore a pressed-flower keepsake through plant parts, paper, supports, and arranging words.",
+    "focus": "The clues describe objects used around a familiar craft. A plant part and the object displaying it have separate names.",
+    "solvingTip": "Look for a plant feature, a support, or an action used to arrange a display.",
+    "words": [
+      [
+        "PRESS",
+        "Device applying steady pressure to flatten material"
+      ],
+      [
+        "FLOWER",
+        "Plant bloom preserved in a decorative keepsake"
+      ],
+      [
+        "PETAL",
+        "One often colorful part of a flower"
+      ],
+      [
+        "LEAF",
+        "Flat plant part placed beside a pressed bloom"
+      ],
+      [
+        "STEM",
+        "Plant support attached beneath a flower"
+      ],
+      [
+        "PAPER",
+        "Thin material placed around flowers in a press"
+      ],
+      [
+        "BOOK",
+        "Bound pages sometimes used as a flat weight"
+      ],
+      [
+        "WEIGHT",
+        "Heavy object applying pressure from above"
+      ],
+      [
+        "DRY",
+        "To lose moisture from plant material"
+      ],
+      [
+        "FRAME",
+        "Border holding a finished pressed-flower display"
+      ],
+      [
+        "CARD",
+        "Stiff paper support for a small arrangement"
+      ],
+      [
+        "ARRANGE",
+        "To place separate items into a planned design"
+      ],
+      [
+        "DESIGN",
+        "Planned visual arrangement of a craft"
+      ],
+      [
+        "KEEPSAKE",
+        "Object preserved as a reminder of a person or event"
+      ]
+    ],
+    "answerNotes": {
+      "PRESS": "Press is a pressure-applying device here. It is a noun rather than the action of pushing a button.",
+      "KEEPSAKE": "A keepsake is retained for its personal association. Its meaning is not limited to one material or craft.",
+      "LEAF": "Leaf names a plant part in this clue. It does not mean one sheet of a book.",
+      "FRAME": "A frame supports the finished display. It is separate from the plant material arranged inside."
+    },
+    "id": "handmade-arts-4",
+    "subtheme": "Handmade Arts"
+  },
+  {
+    "title": "A Miniature Village",
+    "description": "Explore a small model scene through familiar building parts, materials, and size words.",
+    "cardDescription": "Explore a small model scene through familiar building parts, materials, and size words.",
+    "focus": "The clues name objects in a miniature setting. The model represents a larger object rather than being used as the full-size building.",
+    "solvingTip": "Look for a whole model, a building feature, a support, or a making material.",
+    "words": [
+      [
+        "MODEL",
+        "Small representation of a larger object or scene"
+      ],
+      [
+        "SCALE",
+        "Ratio between a model\u2019s dimensions and the represented object"
+      ],
+      [
+        "HOUSE",
+        "Small building represented in a village scene"
+      ],
+      [
+        "ROOF",
+        "Upper covering of a model building"
+      ],
+      [
+        "WALL",
+        "Upright side of a miniature building"
+      ],
+      [
+        "DOOR",
+        "Entrance represented on a model house"
+      ],
+      [
+        "WINDOW",
+        "Glazed-opening shape shown in a tiny building"
+      ],
+      [
+        "BRIDGE",
+        "Model structure carrying a route across a gap"
+      ],
+      [
+        "ROAD",
+        "Route represented between miniature buildings"
+      ],
+      [
+        "TREE",
+        "Plant form added to a small landscape scene"
+      ],
+      [
+        "GLUE",
+        "Adhesive holding model pieces together"
+      ],
+      [
+        "PAINT",
+        "Colored coating applied to a miniature object"
+      ],
+      [
+        "BASE",
+        "Supporting platform beneath a model scene"
+      ],
+      [
+        "DETAIL",
+        "Small feature added to make a model more specific"
+      ]
+    ],
+    "answerNotes": {
+      "SCALE": "Scale is the size ratio in this clue. It is not a weighing instrument.",
+      "MODEL": "A model represents something else. The word names the small representation rather than the full-size object.",
+      "BASE": "The base supports the scene. It differs from one building or road placed on it.",
+      "DETAIL": "A detail is a smaller feature within the whole. The clue asks for the general word rather than a particular tiny object."
+    },
+    "id": "handmade-arts-5",
+    "subtheme": "Handmade Arts"
+  }
+]

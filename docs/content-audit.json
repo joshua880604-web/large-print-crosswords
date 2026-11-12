@@ -1,13 +1,13 @@
 {
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
-    "puzzles": 100,
-    "clueEntries": 1135,
-    "distinctAnswers": 886,
-    "distinctAnswerCluePairs": 1135,
-    "distinctIntroductions": 100,
+    "puzzles": 200,
+    "clueEntries": 2251,
+    "distinctAnswers": 1333,
+    "distinctAnswerCluePairs": 2251,
+    "distinctIntroductions": 200,
     "numberedTitles": 0,
-    "editedEditions": 100
+    "editedEditions": 200
   },
   "refinedSeries": [
     {
@@ -609,6 +609,606 @@
         "Inside a Deck of Cards",
         "A Friendly Board-Game Evening"
       ]
+    },
+    {
+      "id": "ballpark-baseball",
+      "name": "Baseball",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "ballpark-baseball",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Familiar Baseball Field",
+        "In the Baseball Equipment Bag",
+        "Between Pitch and Hit",
+        "Reading the Ballpark Scoreboard",
+        "From a Seat in the Stands"
+      ]
+    },
+    {
+      "id": "leisure-sports",
+      "name": "Leisure Sports",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "leisure-sports",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "A Round of Golf",
+        "An Afternoon at the Bowling Alley",
+        "Bocce in the Park",
+        "Croquet on the Lawn",
+        "Tennis at the Local Courts"
+      ]
+    },
+    {
+      "id": "team-sports",
+      "name": "Team Sports",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "team-sports",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "Around the Basketball Court",
+        "An American Football Afternoon",
+        "At the Hockey Rink",
+        "Soccer on the Local Field",
+        "Across the Volleyball Net"
+      ]
+    },
+    {
+      "id": "active-pastimes",
+      "name": "Active Pastimes",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "active-pastimes",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.158
+      },
+      "subjects": [
+        "At the Swimming Pool",
+        "Around the Running Track",
+        "A Bicycle by the Path",
+        "Table Tennis at the Club",
+        "Badminton in the Hall"
+      ]
+    },
+    {
+      "id": "american-music",
+      "name": "American Music",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "american-music",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.167
+      },
+      "subjects": [
+        "A Little Jazz Vocabulary",
+        "Country Music on the Radio",
+        "Words from a Blues Session",
+        "A Folk Song Gathering",
+        "Rock and Roll Sounds"
+      ]
+    },
+    {
+      "id": "instrument-families",
+      "name": "Musical Instruments",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "instrument-families",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.15
+      },
+      "subjects": [
+        "Inside a Guitar Case",
+        "Brass Band Sounds",
+        "Woodwinds and Their Voices",
+        "A Beat from the Drum Kit",
+        "Bellows and Buttons"
+      ]
+    },
+    {
+      "id": "dance-and-song",
+      "name": "Dance and Song",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "dance-and-song",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "At a Ballroom Evening",
+        "On the Square-Dance Floor",
+        "A Community Choir",
+        "An Evening Concert",
+        "Humming a Familiar Tune"
+      ]
+    },
+    {
+      "id": "christmas-comforts",
+      "name": "Christmas",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "christmas-comforts",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "Stockings by the Mantel",
+        "A Gingerbread House Display",
+        "A Christmas Sweet Counter",
+        "A Christmas Carol Gathering",
+        "The Christmas Toy Window"
+      ]
+    },
+    {
+      "id": "thanksgiving-together",
+      "name": "Thanksgiving",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "thanksgiving-together",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Watching a Thanksgiving Parade",
+        "Family Around the Table",
+        "Helpers in the Holiday Kitchen",
+        "Serving the Thanksgiving Pie",
+        "A Note of Thanks"
+      ]
+    },
+    {
+      "id": "halloween-evening",
+      "name": "Halloween",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "halloween-evening",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "Inside an Autumn Pumpkin",
+        "The Costume Closet",
+        "Treats for a Porch Party",
+        "A Walk at Twilight",
+        "Classic Halloween Symbols"
+      ]
+    },
+    {
+      "id": "easter-gathering",
+      "name": "Easter",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "easter-gathering",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "An Easter Basket Display",
+        "Patterns on an Easter Egg",
+        "A Spring Sunday Lunch",
+        "An Easter Bonnet",
+        "At the Easter Baking Counter"
+      ]
+    },
+    {
+      "id": "spring-at-home",
+      "name": "Spring Days",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "spring-at-home",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.043
+      },
+      "subjects": [
+        "A Spring Cleaning Shelf",
+        "Opening the Garden Gate",
+        "The Umbrella Stand",
+        "A Backyard Nest Box",
+        "A Park Bench in Spring"
+      ]
+    },
+    {
+      "id": "summer-afternoons",
+      "name": "Summer Days",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "summer-afternoons",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "Packing a Picnic Basket",
+        "At the Ice-Cream Counter",
+        "A Chair Beside the Campsite",
+        "A Backyard Cookout Table",
+        "By the Summer Boathouse"
+      ]
+    },
+    {
+      "id": "winter-comforts",
+      "name": "Winter Days",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "winter-comforts",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "At a Winter Window",
+        "A Snowman in the Yard",
+        "Music at the Skating Rink",
+        "Warm Things in the Cupboard",
+        "A Pot of Winter Soup"
+      ]
+    },
+    {
+      "id": "calendar-celebrations",
+      "name": "Celebrations",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "calendar-celebrations",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Counting Toward New Year",
+        "A Valentine on the Table",
+        "A St. Patrick’s Day Procession",
+        "A Fourth of July Picnic",
+        "A Birthday Gathering"
+      ]
+    },
+    {
+      "id": "painting-and-color",
+      "name": "Painting",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "painting-and-color",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "On a Painter’s Table",
+        "Around a Color Wheel",
+        "A Watercolor Afternoon",
+        "A Visit to the Art Gallery",
+        "Objects in a Still Life"
+      ]
+    },
+    {
+      "id": "handmade-arts",
+      "name": "Handmade Arts",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "handmade-arts",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "At the Pottery Bench",
+        "Paper on the Craft Table",
+        "Pieces in a Mosaic",
+        "Pressed Flowers in a Frame",
+        "A Miniature Village"
+      ]
+    },
+    {
+      "id": "everyday-meals",
+      "name": "Everyday Meals",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "everyday-meals",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "A Simple Breakfast Table",
+        "Making a Sandwich Plate",
+        "Pasta for Supper",
+        "Tossing a Garden Salad",
+        "A Casserole on the Table"
+      ]
+    },
+    {
+      "id": "fruit-and-flavor",
+      "name": "Fruit and Flavor",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "fruit-and-flavor",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Bowl of Citrus",
+        "A Basket of Berries",
+        "On the Spice Shelf",
+        "Herbs at the Kitchen Window",
+        "Preserves in the Pantry"
+      ]
+    },
+    {
+      "id": "treasured-collections",
+      "name": "Collections",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "treasured-collections",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "Pages in a Stamp Album",
+        "Coins in a Collector’s Tray",
+        "An Album of Family Photographs",
+        "Postcards Kept from a Journey",
+        "A Model Railway Layout"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -617,6 +1217,144 @@
   "highestOverlapPairs": [],
   "highestAnswerOverlapPairs": [
     {
+      "first": "music-memories-4",
+      "second": "dance-and-song",
+      "sharedAnswers": [
+        "FOXTROT",
+        "WALTZ",
+        "RUMBA",
+        "TANGO",
+        "STEP",
+        "TURN"
+      ],
+      "jaccard": 0.353,
+      "sameSeries": false
+    },
+    {
+      "first": "by-the-sea-4",
+      "second": "summer-afternoons-5",
+      "sharedAnswers": [
+        "ROPE",
+        "PIER",
+        "KNOT",
+        "DOCK",
+        "OAR"
+      ],
+      "jaccard": 0.294,
+      "sameSeries": false
+    },
+    {
+      "first": "on-the-road-2",
+      "second": "treasured-collections-5",
+      "sharedAnswers": [
+        "ENGINE",
+        "TRACK",
+        "TRAIN",
+        "RAIL",
+        "TIE"
+      ],
+      "jaccard": 0.294,
+      "sameSeries": false
+    },
+    {
+      "first": "movie-night",
+      "second": "ballpark-baseball-5",
+      "sharedAnswers": [
+        "TICKET",
+        "USHER",
+        "CLAP",
+        "SODA",
+        "ROW"
+      ],
+      "jaccard": 0.278,
+      "sameSeries": false
+    },
+    {
+      "first": "music-memories-3",
+      "second": "dance-and-song-3",
+      "sharedAnswers": [
+        "SOPRANO",
+        "UNISON",
+        "TENOR",
+        "CHOIR",
+        "ALTO"
+      ],
+      "jaccard": 0.278,
+      "sameSeries": false
+    },
+    {
+      "first": "a-cup-of-comfort-5",
+      "second": "fruit-and-flavor",
+      "sharedAnswers": [
+        "WEDGE",
+        "JUICE",
+        "LIME",
+        "ZEST"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
+      "first": "cozy-at-home-4",
+      "second": "halloween-evening-4",
+      "sharedAnswers": [
+        "PORCH",
+        "GATE",
+        "STEP",
+        "PATH"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
+      "first": "garden-days-3",
+      "second": "everyday-meals-4",
+      "sharedAnswers": [
+        "SPINACH",
+        "CARROT",
+        "RADISH",
+        "ONION"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
+      "first": "market-morning-2",
+      "second": "easter-gathering-5",
+      "sharedAnswers": [
+        "FLOUR",
+        "LOAF",
+        "TRAY",
+        "BUN"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
+      "first": "thanksgiving-together",
+      "second": "calendar-celebrations-4",
+      "sharedAnswers": [
+        "BALLOON",
+        "PARADE",
+        "BANNER",
+        "BAND"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
+      "first": "cozy-at-home-2",
+      "second": "thanksgiving-together-3",
+      "sharedAnswers": [
+        "TONGS",
+        "LADLE",
+        "KNIFE",
+        "FORK"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
       "first": "garden-days-4",
       "second": "flower-favorites-4",
       "sharedAnswers": [
@@ -624,6 +1362,42 @@
         "BEETLE",
         "MOTH",
         "BEE"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
+      "first": "music-memories-5",
+      "second": "instrument-families-3",
+      "sharedAnswers": [
+        "PICCOLO",
+        "BASSOON",
+        "OBOE",
+        "REED"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
+      "first": "team-sports-3",
+      "second": "winter-comforts-3",
+      "sharedAnswers": [
+        "SKATE",
+        "GLOVE",
+        "RINK",
+        "ICE"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
+      "first": "thanksgiving-together-5",
+      "second": "calendar-celebrations-2",
+      "sharedAnswers": [
+        "KINDNESS",
+        "FRIEND",
+        "SHARE",
+        "NOTE"
       ],
       "jaccard": 0.211,
       "sameSeries": false
@@ -653,179 +1427,36 @@
       "sameSeries": false
     },
     {
-      "first": "movie-night-3",
-      "second": "a-good-book-3",
+      "first": "american-music-2",
+      "second": "american-music-4",
       "sharedAnswers": [
-        "HEROINE",
-        "HERO",
-        "CLUE"
+        "CHORUS",
+        "GUITAR",
+        "FIDDLE"
       ],
-      "jaccard": 0.158,
-      "sameSeries": false
-    },
-    {
-      "first": "game-night",
-      "second": "game-night-2",
-      "sharedAnswers": [
-        "SQUARE",
-        "KING",
-        "TURN"
-      ],
-      "jaccard": 0.15,
+      "jaccard": 0.167,
       "sameSeries": true
     },
     {
-      "first": "sunday-baking-3",
-      "second": "a-day-at-the-farm-3",
+      "first": "american-music-2",
+      "second": "american-music-5",
       "sharedAnswers": [
-        "CHERRY",
-        "CORE",
-        "PEEL"
+        "CHORUS",
+        "GUITAR",
+        "STAGE"
       ],
-      "jaccard": 0.15,
-      "sameSeries": false
-    },
-    {
-      "first": "cozy-at-home-5",
-      "second": "in-the-workshop-5",
-      "sharedAnswers": [
-        "DRAWER",
-        "SHELF",
-        "BOX"
-      ],
-      "jaccard": 0.143,
-      "sameSeries": false
-    },
-    {
-      "first": "flower-favorites-2",
-      "second": "autumn-walk-5",
-      "sharedAnswers": [
-        "WREATH",
-        "RIBBON",
-        "STEM"
-      ],
-      "jaccard": 0.143,
-      "sameSeries": false
-    },
-    {
-      "first": "game-night",
-      "second": "game-night-4",
-      "sharedAnswers": [
-        "QUEEN",
-        "DRAW",
-        "KING"
-      ],
-      "jaccard": 0.143,
+      "jaccard": 0.167,
       "sameSeries": true
     },
     {
-      "first": "backyard-birds-2",
-      "second": "our-furry-friends-2",
+      "first": "american-music-2",
+      "second": "christmas-comforts-4",
       "sharedAnswers": [
-        "PERCH",
-        "TRAY"
+        "HARMONY",
+        "CHORUS",
+        "VERSE"
       ],
-      "jaccard": 0.1,
-      "sameSeries": false
-    },
-    {
-      "first": "backyard-birds-4",
-      "second": "a-cup-of-comfort-4",
-      "sharedAnswers": [
-        "EGG",
-        "CUP"
-      ],
-      "jaccard": 0.1,
-      "sameSeries": false
-    },
-    {
-      "first": "backyard-birds-5",
-      "second": "by-the-sea-5",
-      "sharedAnswers": [
-        "TERN",
-        "GULL"
-      ],
-      "jaccard": 0.1,
-      "sameSeries": false
-    },
-    {
-      "first": "cozy-at-home",
-      "second": "movie-night-4",
-      "sharedAnswers": [
-        "CUSHION",
-        "SOFA"
-      ],
-      "jaccard": 0.1,
-      "sameSeries": false
-    },
-    {
-      "first": "our-furry-friends-4",
-      "second": "by-the-sea-5",
-      "sharedAnswers": [
-        "BEAK",
-        "WING"
-      ],
-      "jaccard": 0.1,
-      "sameSeries": false
-    },
-    {
-      "first": "sunday-baking-2",
-      "second": "market-morning-2",
-      "sharedAnswers": [
-        "WHEAT",
-        "LOAF"
-      ],
-      "jaccard": 0.1,
-      "sameSeries": false
-    },
-    {
-      "first": "a-cup-of-comfort",
-      "second": "holiday-table-4",
-      "sharedAnswers": [
-        "STRING",
-        "BAG"
-      ],
-      "jaccard": 0.095,
-      "sameSeries": false
-    },
-    {
-      "first": "a-cup-of-comfort",
-      "second": "market-morning-5",
-      "sharedAnswers": [
-        "TAG",
-        "BAG"
-      ],
-      "jaccard": 0.095,
-      "sameSeries": false
-    },
-    {
-      "first": "a-cup-of-comfort-2",
-      "second": "cozy-at-home-2",
-      "sharedAnswers": [
-        "SPOON",
-        "POT"
-      ],
-      "jaccard": 0.095,
-      "sameSeries": false
-    },
-    {
-      "first": "a-good-book",
-      "second": "in-the-workshop-5",
-      "sharedAnswers": [
-        "STACK",
-        "SHELF"
-      ],
-      "jaccard": 0.095,
-      "sameSeries": false
-    },
-    {
-      "first": "a-good-book",
-      "second": "market-morning-5",
-      "sharedAnswers": [
-        "AISLE",
-        "CARD"
-      ],
-      "jaccard": 0.095,
+      "jaccard": 0.167,
       "sameSeries": false
     }
   ],
@@ -1069,6 +1700,246 @@
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
       "highestAnswerJaccard": 0
+    },
+    {
+      "id": "ballpark-baseball",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "leisure-sports",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "team-sports",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "active-pastimes",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.158
+    },
+    {
+      "id": "american-music",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.167
+    },
+    {
+      "id": "instrument-families",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.15
+    },
+    {
+      "id": "dance-and-song",
+      "puzzles": 5,
+      "entries": 58,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "christmas-comforts",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "thanksgiving-together",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "halloween-evening",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
+    },
+    {
+      "id": "easter-gathering",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "spring-at-home",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.043
+    },
+    {
+      "id": "summer-afternoons",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "winter-comforts",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "calendar-celebrations",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "painting-and-color",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "handmade-arts",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "everyday-meals",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "fruit-and-flavor",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "treasured-collections",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
     }
   ]
 }

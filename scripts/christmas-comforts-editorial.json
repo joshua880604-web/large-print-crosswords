@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Stockings by the Mantel",
+    "description": "Picture a Christmas mantel through familiar fireplace parts, hanging stockings, and their knitted details.",
+    "cardDescription": "Picture a Christmas mantel through familiar fireplace parts, hanging stockings, and their knitted details.",
+    "focus": "The clues describe a seasonal household scene. Object parts and their positions provide the route into the answers.",
+    "solvingTip": "Look for a fireplace feature, a stocking part, or a hanging action.",
+    "words": [
+      [
+        "STOCKING",
+        "Long knitted foot covering hung as a Christmas decoration"
+      ],
+      [
+        "MANTEL",
+        "Shelf or structure above a fireplace"
+      ],
+      [
+        "HEARTH",
+        "Floor-level area beneath and in front of a fireplace opening"
+      ],
+      [
+        "FIREPLACE",
+        "Built opening where a household fire burns"
+      ],
+      [
+        "CHIMNEY",
+        "Vertical passage carrying smoke out of a building"
+      ],
+      [
+        "HOOK",
+        "Curved hanger used to suspend a stocking"
+      ],
+      [
+        "SANTA",
+        "Traditional Christmas gift-giving figure in familiar stories"
+      ],
+      [
+        "HANG",
+        "To suspend a decoration from a support"
+      ],
+      [
+        "TOE",
+        "Closed front end of a stocking"
+      ],
+      [
+        "HEEL",
+        "Back lower part of a knitted foot covering"
+      ],
+      [
+        "CUFF",
+        "Finished band around a stocking\u2019s opening"
+      ],
+      [
+        "WOOL",
+        "Sheep\u2019s fiber used in some knitted stockings"
+      ],
+      [
+        "KNIT",
+        "To form a stocking from connected yarn loops"
+      ],
+      [
+        "RIBBON",
+        "Decorative fabric strip tied to a Christmas stocking"
+      ]
+    ],
+    "answerNotes": {
+      "MANTEL": "Mantel is the fireplace spelling. Mantle has other meanings, including a covering or responsibility.",
+      "HEARTH": "The hearth is at the fireplace\u2019s base. The mantel is above it, so location distinguishes the words.",
+      "STOCKING": "Stocking names the whole foot-and-leg covering. Toe, heel, and cuff identify smaller parts.",
+      "CHIMNEY": "A chimney is the smoke passage. It is separate from the opening where the fire itself is seen."
+    },
+    "id": "christmas-comforts",
+    "subtheme": "Christmas"
+  },
+  {
+    "title": "A Gingerbread House Display",
+    "description": "Explore a holiday baking display through familiar house shapes, sweets, and construction-like details.",
+    "cardDescription": "Explore a holiday baking display through familiar house shapes, sweets, and construction-like details.",
+    "focus": "The clues name parts represented in an edible house and the materials used to decorate it. They define words rather than supplying a recipe.",
+    "solvingTip": "Check whether the clue asks for a house part, a sweet material, or a display item.",
+    "words": [
+      [
+        "GINGERBREAD",
+        "Spiced baked dough used for a familiar holiday model house"
+      ],
+      [
+        "HOUSE",
+        "Building shape represented in a gingerbread display"
+      ],
+      [
+        "ROOF",
+        "Top covering of a model holiday house"
+      ],
+      [
+        "WALL",
+        "Upright side of a gingerbread building"
+      ],
+      [
+        "DOOR",
+        "Entrance shape marked on a model house"
+      ],
+      [
+        "WINDOW",
+        "Opening shape represented with icing on a gingerbread wall"
+      ],
+      [
+        "ICING",
+        "Sweet mixture used to join or decorate gingerbread pieces"
+      ],
+      [
+        "CANDY",
+        "Sweet confection used for a model house\u2019s decorations"
+      ],
+      [
+        "GUMDROP",
+        "Small sugar-coated jelly sweet used in holiday displays"
+      ],
+      [
+        "COOKIE",
+        "Small baked piece that can form part of a gingerbread scene"
+      ],
+      [
+        "SPICE",
+        "Aromatic flavoring such as ginger or cinnamon"
+      ],
+      [
+        "MOLASSES",
+        "Dark syrup traditionally used in some gingerbread recipes"
+      ],
+      [
+        "PATTERN",
+        "Guide showing the shapes of pieces for a model"
+      ],
+      [
+        "TRAY",
+        "Flat support holding a completed holiday display"
+      ]
+    ],
+    "answerNotes": {
+      "MOLASSES": "Molasses is a dark syrup from sugar processing. The clue identifies an ingredient rather than a required recipe quantity.",
+      "PATTERN": "Pattern means a shape guide here. It differs from the finished model built using those shapes.",
+      "ICING": "Icing can join and decorate model pieces. The clue refers to the sweet material rather than frozen water.",
+      "GUMDROP": "A gumdrop is a small jelly confection. The word names one decorative sweet rather than a whole assortment."
+    },
+    "id": "christmas-comforts-2",
+    "subtheme": "Christmas"
+  },
+  {
+    "title": "A Christmas Sweet Counter",
+    "description": "Browse familiar holiday sweets, nuts, dried fruits, and warming spice words.",
+    "cardDescription": "Browse familiar holiday sweets, nuts, dried fruits, and warming spice words.",
+    "focus": "The clues identify foods and flavorings by familiar forms. Several words have another everyday meaning outside a sweet-shop setting.",
+    "solvingTip": "Look for a confection, a dried fruit, a spice, or a serving object.",
+    "words": [
+      [
+        "FUDGE",
+        "Soft dense confection commonly made with sugar and dairy ingredients"
+      ],
+      [
+        "TOFFEE",
+        "Candy made by cooking sugar with butter"
+      ],
+      [
+        "BRITTLE",
+        "Hard breakable confection often containing nuts"
+      ],
+      [
+        "NOUGAT",
+        "Sweet confection often made with nuts and whipped egg white"
+      ],
+      [
+        "TRUFFLE",
+        "Rich chocolate confection with a soft center"
+      ],
+      [
+        "RAISIN",
+        "Dried grape included in many holiday sweet mixtures"
+      ],
+      [
+        "CURRANT",
+        "Small dried grape used in baking, as in a Zante variety"
+      ],
+      [
+        "CLOVE",
+        "Strong aromatic spice made from a dried flower bud"
+      ],
+      [
+        "NUTMEG",
+        "Aromatic seed spice grated into some festive sweets"
+      ],
+      [
+        "SPICE",
+        "Flavoring category including clove and nutmeg"
+      ],
+      [
+        "NUT",
+        "Hard-shelled edible item used in many holiday confections"
+      ],
+      [
+        "TRAY",
+        "Flat serving object holding an assortment of sweets"
+      ],
+      [
+        "TREAT",
+        "Small enjoyable food offered at a holiday gathering"
+      ],
+      [
+        "SWEET",
+        "Having a sugary taste, as a confection"
+      ]
+    ],
+    "answerNotes": {
+      "BRITTLE": "Brittle names a hard breakable candy here. It is also an adjective describing something that snaps easily.",
+      "TRUFFLE": "Truffle is a chocolate confection in this clue. The same spelling also names a valuable fungus.",
+      "CLOVE": "The spice clove is a dried flower bud. It is different from a clove of garlic.",
+      "CURRANT": "A Zante currant is a small dried grape. Fresh red or black currants are different fruits, so the baking context matters."
+    },
+    "id": "christmas-comforts-3",
+    "subtheme": "Christmas"
+  },
+  {
+    "title": "A Christmas Carol Gathering",
+    "description": "Enjoy familiar words for seasonal singing, shared melodies, and the sounds around a carol gathering.",
+    "cardDescription": "Enjoy familiar words for seasonal singing, shared melodies, and the sounds around a carol gathering.",
+    "focus": "The clues use singing vocabulary and ordinary holiday words. No song lyrics or recording dates are needed.",
+    "solvingTip": "Check whether the clue names a musical section, a singing action, or a seasonal sound.",
+    "words": [
+      [
+        "CAROL",
+        "Song associated with Christmas or another celebration"
+      ],
+      [
+        "BELLS",
+        "Ringing instruments often heard in Christmas music"
+      ],
+      [
+        "CHOIR",
+        "Organized singers presenting seasonal music together"
+      ],
+      [
+        "SONG",
+        "Words and melody performed as one musical piece"
+      ],
+      [
+        "VERSE",
+        "Part of a carol carrying a section of its words"
+      ],
+      [
+        "REFRAIN",
+        "Repeated section returning between song verses"
+      ],
+      [
+        "CHORUS",
+        "Group joining together to sing a returning section"
+      ],
+      [
+        "TUNE",
+        "Melody followed by the carol singers"
+      ],
+      [
+        "HARMONY",
+        "Combination of different sung notes at the same time"
+      ],
+      [
+        "SING",
+        "To produce the musical words of a carol"
+      ],
+      [
+        "LISTEN",
+        "To pay attention to a group\u2019s singing"
+      ],
+      [
+        "VOICE",
+        "Sound made by one singer"
+      ],
+      [
+        "JOY",
+        "Great happiness expressed in many seasonal greetings"
+      ],
+      [
+        "PEACE",
+        "Calm or freedom from conflict wished for in holiday messages"
+      ]
+    ],
+    "answerNotes": {
+      "CAROL": "Carol names a celebratory song here. Christmas is a familiar setting, though the word has a broader history.",
+      "REFRAIN": "The refrain returns within the song. It can give a gathering a familiar section to join.",
+      "BELLS": "Bells sound by vibration after being struck. The clue uses the plural because it names more than one instrument.",
+      "TUNE": "Tune is the melody in this clue. It is a noun rather than the action of adjusting an instrument."
+    },
+    "id": "christmas-comforts-4",
+    "subtheme": "Christmas"
+  },
+  {
+    "title": "The Christmas Toy Window",
+    "description": "Remember a shop window of classic toys through familiar objects, shapes, and gift details.",
+    "cardDescription": "Remember a shop window of classic toys through familiar objects, shapes, and gift details.",
+    "focus": "The clues describe traditional toys as objects in a holiday display. Shape and movement identify the items without brand names.",
+    "solvingTip": "Look for something that rolls, spins, rings, or is put together.",
+    "words": [
+      [
+        "TOY",
+        "Object made for play and displayed in a gift-shop window"
+      ],
+      [
+        "TRAIN",
+        "Model of linked railway cars used as a classic toy"
+      ],
+      [
+        "DOLL",
+        "Small human-shaped figure in a toy display"
+      ],
+      [
+        "BLOCK",
+        "Solid building piece used in a construction toy"
+      ],
+      [
+        "TOP",
+        "Toy that spins on a point"
+      ],
+      [
+        "DRUM",
+        "Toy percussion instrument struck to make a beat"
+      ],
+      [
+        "KITE",
+        "Light framed toy flown at the end of a line"
+      ],
+      [
+        "PUZZLE",
+        "Set of pieces or clues put together to form a solution"
+      ],
+      [
+        "MARBLE",
+        "Small glass ball used in traditional games"
+      ],
+      [
+        "YOYO",
+        "Spool-shaped toy moving up and down a wound string"
+      ],
+      [
+        "BALL",
+        "Round toy that can roll or bounce"
+      ],
+      [
+        "TEDDY",
+        "Short name for a stuffed toy bear"
+      ],
+      [
+        "BOX",
+        "Container holding a newly purchased toy"
+      ],
+      [
+        "RIBBON",
+        "Decorative strip tied around a boxed Christmas gift"
+      ]
+    ],
+    "answerNotes": {
+      "TOP": "Top is a spinning toy here. It does not mean the highest part of an object.",
+      "YOYO": "Yo-yo is commonly written with a hyphen. The grid joins the letters into a single answer.",
+      "TEDDY": "Teddy is a shortened name for a teddy bear. The clue asks for the toy name rather than a person\u2019s name.",
+      "MARBLE": "Marble names a small glass playing ball here. It does not refer to the decorative building stone."
+    },
+    "id": "christmas-comforts-5",
+    "subtheme": "Christmas"
+  }
+]

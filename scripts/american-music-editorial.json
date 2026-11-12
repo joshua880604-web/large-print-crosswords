@@ -1,0 +1,367 @@
+[
+  {
+    "title": "A Little Jazz Vocabulary",
+    "description": "Explore jazz through familiar instruments, group names, and the words describing rhythm and spontaneous playing.",
+    "cardDescription": "Explore jazz through familiar instruments, group names, and the words describing rhythm and spontaneous playing.",
+    "focus": "The clues describe musical sounds and performance roles. No recording dates or named soloists are needed.",
+    "solvingTip": "Look for an instrument, a group, or something a musician does during a performance.",
+    "words": [
+      [
+        "JAZZ",
+        "Music style associated with improvisation and rhythmic variety"
+      ],
+      [
+        "SWING",
+        "Rhythmic feel also naming a familiar jazz era and style"
+      ],
+      [
+        "SOLO",
+        "Passage played by one featured musician"
+      ],
+      [
+        "TRIO",
+        "Group of three musicians"
+      ],
+      [
+        "COMBO",
+        "Small group performing jazz together"
+      ],
+      [
+        "BRASS",
+        "Instrument family including trumpet and trombone"
+      ],
+      [
+        "BASS",
+        "Low-pitched instrument or musical part"
+      ],
+      [
+        "DRUM",
+        "Percussion instrument supporting a jazz rhythm"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument often heard in a jazz trio"
+      ],
+      [
+        "SAX",
+        "Short name for a saxophone"
+      ],
+      [
+        "RIFF",
+        "Short musical phrase repeated during a performance"
+      ],
+      [
+        "BEAT",
+        "Steady pulse underlying a tune"
+      ],
+      [
+        "IMPROVISE",
+        "To create musical ideas while performing"
+      ],
+      [
+        "RHYTHM",
+        "Pattern of musical timing and accents"
+      ]
+    ],
+    "answerNotes": {
+      "RIFF": "A riff is a short recurring phrase. It names a musical idea rather than a whole song.",
+      "COMBO": "Combo is short for combination. In jazz it commonly names a small performing group.",
+      "IMPROVISE": "Improvisation creates musical ideas during performance. It differs from following every note of a fully written part.",
+      "SOLO": "A solo features one performer. Other players may still provide accompaniment beneath that featured part."
+    },
+    "id": "american-music",
+    "subtheme": "American Music"
+  },
+  {
+    "title": "Country Music on the Radio",
+    "description": "Meet familiar country-music sounds through instruments, song forms, and everyday performance words.",
+    "cardDescription": "Meet familiar country-music sounds through instruments, song forms, and everyday performance words.",
+    "focus": "The clues describe instruments and ways songs are presented. Their jobs and shapes identify them without artist-name trivia.",
+    "solvingTip": "Check whether the clue asks for an instrument, a voice feature, or a song section.",
+    "words": [
+      [
+        "COUNTRY",
+        "American music style associated with storytelling songs and string instruments"
+      ],
+      [
+        "GUITAR",
+        "Six-string instrument commonly strummed in a country band"
+      ],
+      [
+        "FIDDLE",
+        "Informal name for a violin in country and folk music"
+      ],
+      [
+        "BANJO",
+        "String instrument with a round drumlike body"
+      ],
+      [
+        "STEEL",
+        "Word before guitar for an instrument often played with a sliding bar"
+      ],
+      [
+        "TWANG",
+        "Distinctive ringing or nasal musical sound"
+      ],
+      [
+        "BALLAD",
+        "Song that tells a story"
+      ],
+      [
+        "VERSE",
+        "Song section whose words change as the story continues"
+      ],
+      [
+        "CHORUS",
+        "Song section commonly returning with the same words"
+      ],
+      [
+        "DUET",
+        "Performance by two singers"
+      ],
+      [
+        "HARMONY",
+        "Different musical notes sounded together"
+      ],
+      [
+        "BOOT",
+        "Footwear associated with a country-dance outfit"
+      ],
+      [
+        "RADIO",
+        "Device carrying a country-music broadcast"
+      ],
+      [
+        "STAGE",
+        "Raised area where a country band performs"
+      ]
+    ],
+    "answerNotes": {
+      "FIDDLE": "Fiddle and violin can name the same instrument. The music setting and playing tradition influence which word is used.",
+      "BANJO": "A banjo has strings over a round drumlike body. That construction distinguishes it from a typical guitar.",
+      "BALLAD": "A ballad tells a story in song. It is a song form rather than the name of one performer.",
+      "TWANG": "Twang describes a characteristic sound. The word does not identify a fixed pitch or one instrument alone."
+    },
+    "id": "american-music-2",
+    "subtheme": "American Music"
+  },
+  {
+    "title": "Words from a Blues Session",
+    "description": "Follow a blues session through familiar instrument names, repeating phrases, and performance actions.",
+    "cardDescription": "Follow a blues session through familiar instrument names, repeating phrases, and performance actions.",
+    "focus": "The clues describe the vocabulary of a musical gathering. Some answers name equipment, while others name a sound or a way musicians respond.",
+    "solvingTip": "Use the instrument and group clues to cross the words describing musical expression.",
+    "words": [
+      [
+        "BLUES",
+        "Music tradition associated with expressive singing and recurring musical patterns"
+      ],
+      [
+        "HARP",
+        "Informal name for a harmonica in blues music"
+      ],
+      [
+        "GUITAR",
+        "String instrument often used for blues melodies and accompaniment"
+      ],
+      [
+        "SLIDE",
+        "Smooth object moved along guitar strings to change pitch"
+      ],
+      [
+        "BEND",
+        "To alter a musical note\u2019s pitch expressively"
+      ],
+      [
+        "RIFF",
+        "Recurring short phrase in a blues performance"
+      ],
+      [
+        "VERSE",
+        "Section carrying a set of lyrics in a blues song"
+      ],
+      [
+        "VOICE",
+        "Sound produced by a singer"
+      ],
+      [
+        "AMP",
+        "Short name for an electronic sound amplifier"
+      ],
+      [
+        "BAND",
+        "Group accompanying a blues singer"
+      ],
+      [
+        "SOLO",
+        "Featured passage for one blues performer"
+      ],
+      [
+        "CALL",
+        "Opening musical phrase inviting a response"
+      ],
+      [
+        "RESPONSE",
+        "Musical phrase answering an earlier call"
+      ],
+      [
+        "GROOVE",
+        "Steady compelling rhythmic feel"
+      ]
+    ],
+    "answerNotes": {
+      "HARP": "Harp can mean harmonica in blues vocabulary. The clue does not ask for the large triangular string instrument.",
+      "SLIDE": "A guitar slide moves along the strings. It helps change pitch smoothly rather than selecting only one fixed fret.",
+      "AMP": "Amp is short for amplifier. It names equipment used to increase an electrical audio signal.",
+      "RESPONSE": "Call and response pairs one musical phrase with an answer. The terms describe how parts relate to each other."
+    },
+    "id": "american-music-3",
+    "subtheme": "American Music"
+  },
+  {
+    "title": "A Folk Song Gathering",
+    "description": "Gather familiar folk-music words for instruments, storytelling, and singing together.",
+    "cardDescription": "Gather familiar folk-music words for instruments, storytelling, and singing together.",
+    "focus": "The clues focus on shared music-making. A song, a repeated section, and a musical group have distinct names.",
+    "solvingTip": "Look for an instrument, a song form, or something shared by the singers.",
+    "words": [
+      [
+        "FOLK",
+        "Music associated with shared traditions and community songs"
+      ],
+      [
+        "ACOUSTIC",
+        "Describing an instrument whose sound comes directly from vibration"
+      ],
+      [
+        "BANJO",
+        "Round-bodied string instrument heard in many folk ensembles"
+      ],
+      [
+        "FIDDLE",
+        "Violin used in a folk-playing setting"
+      ],
+      [
+        "MANDOLIN",
+        "Small string instrument commonly having four pairs of strings"
+      ],
+      [
+        "GUITAR",
+        "Plucked or strummed string instrument supporting a folk song"
+      ],
+      [
+        "BALLAD",
+        "Narrative song passed along in a singing tradition"
+      ],
+      [
+        "REFRAIN",
+        "Repeated words or musical section returning in a song"
+      ],
+      [
+        "TUNE",
+        "Melody carried by a traditional song"
+      ],
+      [
+        "LYRIC",
+        "One worded part of a song, commonly used in the plural"
+      ],
+      [
+        "CHORUS",
+        "Group of singers joining a shared song"
+      ],
+      [
+        "CIRCLE",
+        "Arrangement of people gathered around a music-making space"
+      ],
+      [
+        "STORY",
+        "Account of events told through a folk song"
+      ],
+      [
+        "SING",
+        "To make musical sounds with the voice"
+      ]
+    ],
+    "answerNotes": {
+      "MANDOLIN": "A common mandolin has paired strings called courses. The small body and paired strings distinguish it from a standard guitar.",
+      "REFRAIN": "A refrain returns within a song. The repeated section can help listeners join in.",
+      "ACOUSTIC": "Acoustic identifies sound produced directly by vibration. An acoustic instrument can still be recorded or amplified.",
+      "BALLAD": "A ballad is a narrative song here. The clue uses the storytelling form rather than a particular title."
+    },
+    "id": "american-music-4",
+    "subtheme": "American Music"
+  },
+  {
+    "title": "Rock and Roll Sounds",
+    "description": "Explore a familiar amplified band through instruments, equipment, and the words for a strong musical pulse.",
+    "cardDescription": "Explore a familiar amplified band through instruments, equipment, and the words for a strong musical pulse.",
+    "focus": "The clues use everyday band vocabulary. They ask what an object or musical feature is, not who released a song.",
+    "solvingTip": "Check whether the clue describes equipment, a playing role, or a repeating musical idea.",
+    "words": [
+      [
+        "ROCK",
+        "Music style associated with amplified guitars and a strong beat"
+      ],
+      [
+        "ROLL",
+        "Word paired with rock in a familiar music-style name"
+      ],
+      [
+        "GUITAR",
+        "Electric string instrument often leading a rock band"
+      ],
+      [
+        "BASS",
+        "Low-register instrument supporting a band\u2019s harmony"
+      ],
+      [
+        "DRUMS",
+        "Percussion instruments forming a band\u2019s rhythmic foundation"
+      ],
+      [
+        "AMP",
+        "Device used to increase an electric instrument\u2019s sound signal"
+      ],
+      [
+        "MIC",
+        "Short name for a microphone used by a singer"
+      ],
+      [
+        "CABLE",
+        "Insulated lead connecting musical equipment"
+      ],
+      [
+        "RIFF",
+        "Short repeated guitar phrase in a rock song"
+      ],
+      [
+        "BEAT",
+        "Recurring pulse driving a band performance"
+      ],
+      [
+        "CHORUS",
+        "Returning song section often joined by an audience"
+      ],
+      [
+        "STAGE",
+        "Performance area occupied by a live band"
+      ],
+      [
+        "DANCE",
+        "To move the body in response to music"
+      ],
+      [
+        "ENCORE",
+        "Additional performance requested after a concert ends"
+      ]
+    ],
+    "answerNotes": {
+      "MIC": "Mic is a common abbreviation for microphone. The spelling is short even though it is pronounced like mike.",
+      "BASS": "Bass names the low musical register and rhymes with base. The fish name uses another pronunciation.",
+      "ENCORE": "An encore is an additional performance after the planned ending. The word can also be the audience\u2019s request for more.",
+      "CABLE": "A cable carries an electrical signal between equipment. It is separate from the acoustic sound traveling through the room."
+    },
+    "id": "american-music-5",
+    "subtheme": "American Music"
+  }
+]

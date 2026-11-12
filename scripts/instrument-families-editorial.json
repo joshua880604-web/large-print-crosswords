@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Inside a Guitar Case",
+    "description": "Look closely at a guitar through its familiar parts and the actions used to make sound.",
+    "cardDescription": "Look closely at a guitar through its familiar parts and the actions used to make sound.",
+    "focus": "The clues identify objects by location or purpose. A part of the instrument differs from the action performed on it.",
+    "solvingTip": "Look for a support, a string-related part, or a playing action.",
+    "words": [
+      [
+        "GUITAR",
+        "String instrument with a neck and a sound-producing body"
+      ],
+      [
+        "STRING",
+        "Taut length that vibrates when a guitar is played"
+      ],
+      [
+        "FRET",
+        "Raised strip across a guitar neck marking a note position"
+      ],
+      [
+        "NECK",
+        "Long part of a guitar supporting the fingerboard"
+      ],
+      [
+        "BODY",
+        "Large lower part of a guitar"
+      ],
+      [
+        "BRIDGE",
+        "Guitar part supporting strings near the lower end"
+      ],
+      [
+        "PICK",
+        "Small flat tool used to pluck a guitar string"
+      ],
+      [
+        "STRUM",
+        "To sweep across several guitar strings"
+      ],
+      [
+        "PLUCK",
+        "To pull and release one string to make sound"
+      ],
+      [
+        "CHORD",
+        "Group of notes sounded together on a guitar"
+      ],
+      [
+        "TUNE",
+        "To adjust guitar strings to the desired pitches"
+      ],
+      [
+        "PEG",
+        "Small turning part used to tighten or loosen a string"
+      ],
+      [
+        "CASE",
+        "Protective container fitted for a guitar"
+      ],
+      [
+        "STRAP",
+        "Band supporting a guitar from the player\u2019s shoulder"
+      ]
+    ],
+    "answerNotes": {
+      "FRET": "A fret helps mark a string\u2019s sounding length. The clue names a physical strip rather than the verb meaning worry.",
+      "BRIDGE": "Bridge is an instrument part here. It supports the strings rather than crossing a river.",
+      "PICK": "A guitar pick is a small plucking tool. It is separate from the fingertip that may also pluck a string.",
+      "CHORD": "A chord contains notes sounded together. A melody instead follows notes in sequence."
+    },
+    "id": "instrument-families",
+    "subtheme": "Musical Instruments"
+  },
+  {
+    "title": "Brass Band Sounds",
+    "description": "Meet familiar brass instruments and the parts that shape their sound.",
+    "cardDescription": "Meet familiar brass instruments and the parts that shape their sound.",
+    "focus": "These clues describe instrument shapes and sound-making parts. A piece of equipment can have a familiar everyday name.",
+    "solvingTip": "Check whether the clue names a whole instrument, a moving part, or an opening.",
+    "words": [
+      [
+        "TRUMPET",
+        "Brass instrument often played with three valves"
+      ],
+      [
+        "TROMBONE",
+        "Brass instrument commonly using a long movable slide"
+      ],
+      [
+        "TUBA",
+        "Large low-pitched brass instrument"
+      ],
+      [
+        "HORN",
+        "Coiled brass instrument with a flared bell"
+      ],
+      [
+        "CORNET",
+        "Compact brass instrument related to the trumpet"
+      ],
+      [
+        "BRASS",
+        "Instrument family sounded by vibrating the player\u2019s lips"
+      ],
+      [
+        "VALVE",
+        "Moving device redirecting air through an instrument\u2019s tubing"
+      ],
+      [
+        "SLIDE",
+        "Movable tubing used to change a trombone\u2019s pitch"
+      ],
+      [
+        "BELL",
+        "Flared open end of a brass instrument"
+      ],
+      [
+        "MOUTHPIECE",
+        "Part against which a brass player places the lips"
+      ],
+      [
+        "LIP",
+        "Part of the mouth vibrated to play a brass instrument"
+      ],
+      [
+        "AIR",
+        "Gas blown into a wind instrument"
+      ],
+      [
+        "MUTE",
+        "Device inserted into or held near a brass bell to alter sound"
+      ],
+      [
+        "BAND",
+        "Group that may combine brass and percussion instruments"
+      ]
+    ],
+    "answerNotes": {
+      "BELL": "Bell names the flared opening here. It does not mean a separate ringing percussion instrument.",
+      "MUTE": "A brass mute changes the sound. It is a physical device rather than a television\u2019s silence setting.",
+      "SLIDE": "The trombone slide changes the instrument\u2019s effective tube length. The clue asks for the moving part.",
+      "VALVE": "A valve redirects the air path. It differs from the opening called the bell."
+    },
+    "id": "instrument-families-2",
+    "subtheme": "Musical Instruments"
+  },
+  {
+    "title": "Woodwinds and Their Voices",
+    "description": "Explore familiar woodwind names and the small parts used to shape their tones.",
+    "cardDescription": "Explore familiar woodwind names and the small parts used to shape their tones.",
+    "focus": "The clues describe a family of instruments whose members can be made from different materials. Some use reeds, while others do not.",
+    "solvingTip": "Use the whole-instrument clues to cross the shorter parts and sound words.",
+    "words": [
+      [
+        "FLUTE",
+        "Woodwind commonly played across an opening without a reed"
+      ],
+      [
+        "CLARINET",
+        "Single-reed woodwind with a largely straight body"
+      ],
+      [
+        "OBOE",
+        "Slender double-reed woodwind"
+      ],
+      [
+        "BASSOON",
+        "Large low double-reed instrument with folded tubing"
+      ],
+      [
+        "SAXOPHONE",
+        "Usually metal woodwind played with a single reed"
+      ],
+      [
+        "REED",
+        "Thin vibrating strip used in many woodwind mouthpieces"
+      ],
+      [
+        "KEY",
+        "Lever used to open or close an instrument\u2019s tone hole"
+      ],
+      [
+        "HOLE",
+        "Opening in an instrument\u2019s tube that affects pitch"
+      ],
+      [
+        "TUBE",
+        "Hollow body through which a wind instrument\u2019s air travels"
+      ],
+      [
+        "BREATH",
+        "Air expelled by the player to make a wind sound"
+      ],
+      [
+        "WOODWIND",
+        "Instrument-family name including flutes and clarinets"
+      ],
+      [
+        "PICCOLO",
+        "Small high-pitched relative of the flute"
+      ],
+      [
+        "CASE",
+        "Protective fitted container for a woodwind instrument"
+      ],
+      [
+        "TONE",
+        "Musical sound with a particular quality"
+      ]
+    ],
+    "answerNotes": {
+      "WOODWIND": "Woodwind is a family name rather than a promise about material. A metal saxophone still belongs to this family.",
+      "REED": "A reed is a vibrating strip. Flutes produce sound differently and do not need a reed.",
+      "PICCOLO": "A piccolo is a small flute relative. Its size is associated with a higher pitch range.",
+      "KEY": "Key names a mechanical lever here. It does not mean a musical key signature in this clue."
+    },
+    "id": "instrument-families-3",
+    "subtheme": "Musical Instruments"
+  },
+  {
+    "title": "A Beat from the Drum Kit",
+    "description": "Explore a drum kit through familiar striking tools, surfaces, and rhythm words.",
+    "cardDescription": "Explore a drum kit through familiar striking tools, surfaces, and rhythm words.",
+    "focus": "The clues distinguish complete instruments from their parts. Sound and shape provide direct routes to the answers.",
+    "solvingTip": "Look for a striking tool, a drum surface, a pedal-operated item, or an action.",
+    "words": [
+      [
+        "DRUM",
+        "Percussion instrument with a stretched vibrating surface"
+      ],
+      [
+        "SNARE",
+        "Drum with rattling wires stretched beneath a head"
+      ],
+      [
+        "BASS",
+        "Word before drum for a kit\u2019s large low-pitched instrument"
+      ],
+      [
+        "CYMBAL",
+        "Round metal percussion plate struck for a ringing sound"
+      ],
+      [
+        "HIHAT",
+        "Pair of cymbals commonly operated with a foot pedal"
+      ],
+      [
+        "STICK",
+        "Slender implement used to strike a drum"
+      ],
+      [
+        "BRUSH",
+        "Wire or fiber tool used for a softer drum sound"
+      ],
+      [
+        "PEDAL",
+        "Foot-operated lever used in a drum kit"
+      ],
+      [
+        "BEAT",
+        "Regular musical pulse followed by a drummer"
+      ],
+      [
+        "ROLL",
+        "Rapid repeated drum strokes producing a sustained sound"
+      ],
+      [
+        "RIM",
+        "Outer ring around a drum\u2019s head"
+      ],
+      [
+        "HEAD",
+        "Stretched membrane forming a drum\u2019s striking surface"
+      ],
+      [
+        "KIT",
+        "Collection of drums and cymbals played together"
+      ],
+      [
+        "TAMBOURINE",
+        "Handheld percussion instrument with jingling metal disks"
+      ]
+    ],
+    "answerNotes": {
+      "SNARE": "The snare drum has wires that rattle against a head. That feature creates its characteristic crisp sound.",
+      "HIHAT": "Hi-hat is normally written with a hyphen. The grid combines its letters into one entry.",
+      "HEAD": "A drumhead is the stretched vibrating surface. The clue uses head for an instrument part.",
+      "ROLL": "A drum roll uses rapidly repeated strokes. It does not describe a bread item or a turning wheel here."
+    },
+    "id": "instrument-families-4",
+    "subtheme": "Musical Instruments"
+  },
+  {
+    "title": "Bellows and Buttons",
+    "description": "Explore an accordion and its relatives through familiar parts and the movements that supply air.",
+    "cardDescription": "Explore an accordion and its relatives through familiar parts and the movements that supply air.",
+    "focus": "The clues identify free-reed instruments and their physical parts. Everyday action words help explain how the instrument changes shape.",
+    "solvingTip": "Check whether the clue describes the whole instrument, its air supply, or a control.",
+    "words": [
+      [
+        "ACCORDION",
+        "Portable free-reed instrument played with bellows and keys or buttons"
+      ],
+      [
+        "BELLOWS",
+        "Folding chamber that moves air through an accordion"
+      ],
+      [
+        "BUTTON",
+        "Small pressed control on many accordions"
+      ],
+      [
+        "KEY",
+        "Piano-like control on one type of accordion"
+      ],
+      [
+        "REED",
+        "Vibrating strip producing an accordion\u2019s tone"
+      ],
+      [
+        "AIR",
+        "Gas moved through an accordion by its bellows"
+      ],
+      [
+        "STRAP",
+        "Band helping support a carried accordion"
+      ],
+      [
+        "FOLD",
+        "One pleat in an accordion\u2019s expanding chamber"
+      ],
+      [
+        "SQUEEZE",
+        "To press accordion bellows together"
+      ],
+      [
+        "EXPAND",
+        "To open the bellows farther apart"
+      ],
+      [
+        "CONCERTINA",
+        "Small free-reed instrument with bellows between two ends"
+      ],
+      [
+        "HAND",
+        "Body part operating one side of an accordion"
+      ],
+      [
+        "CASE",
+        "Container protecting an accordion between performances"
+      ],
+      [
+        "TUNE",
+        "Melody that can be played on an accordion"
+      ]
+    ],
+    "answerNotes": {
+      "BELLOWS": "Bellows move air as they expand and compress. They are the flexible chamber rather than the keys or buttons.",
+      "CONCERTINA": "A concertina has bellows between its ends. Its compact form distinguishes it from many larger accordions.",
+      "REED": "Accordion reeds vibrate in moving air. The word names a sound-producing part rather than a wetland plant here.",
+      "BUTTON": "A button is a musical control in this clue. It does not fasten a garment."
+    },
+    "id": "instrument-families-5",
+    "subtheme": "Musical Instruments"
+  }
+]

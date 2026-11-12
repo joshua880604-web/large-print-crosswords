@@ -1,0 +1,367 @@
+[
+  {
+    "title": "A Familiar Baseball Field",
+    "description": "Walk around a baseball field through familiar places, boundaries, and playing surfaces.",
+    "cardDescription": "Walk around a baseball field through familiar places, boundaries, and playing surfaces.",
+    "focus": "The clues identify where the game takes place. A few words name shapes or materials, while others name a position on the field.",
+    "solvingTip": "Use location words such as center, edge, and beyond to separate the field features.",
+    "words": [
+      [
+        "DIAMOND",
+        "Infield shape formed by the four baseball bases"
+      ],
+      [
+        "MOUND",
+        "Raised area from which a baseball pitcher throws"
+      ],
+      [
+        "PLATE",
+        "Five-sided home base in baseball"
+      ],
+      [
+        "BASE",
+        "One of the stations a runner must reach"
+      ],
+      [
+        "DUGOUT",
+        "Team seating area beside the playing field"
+      ],
+      [
+        "BULLPEN",
+        "Area where relief pitchers warm up"
+      ],
+      [
+        "INFIELD",
+        "Part of the field around the bases"
+      ],
+      [
+        "OUTFIELD",
+        "Playing area beyond the infield"
+      ],
+      [
+        "GRASS",
+        "Green turf covering much of a baseball field"
+      ],
+      [
+        "DIRT",
+        "Loose earth covering parts of an infield"
+      ],
+      [
+        "FOUL",
+        "Describing ground outside the field\u2019s fair boundaries"
+      ],
+      [
+        "LINE",
+        "Straight marking defining a baseball field boundary"
+      ],
+      [
+        "FENCE",
+        "Barrier marking an outfield\u2019s outer limit"
+      ],
+      [
+        "GATE",
+        "Opening through a ballpark barrier"
+      ]
+    ],
+    "answerNotes": {
+      "DIAMOND": "Diamond describes the arrangement of bases. The clue uses a field shape rather than a gemstone.",
+      "PLATE": "Home plate is five-sided. Plate names a base here rather than a dish used for food.",
+      "DUGOUT": "The dugout is a team\u2019s seating area. It is separate from the bullpen used for warming up pitchers.",
+      "BULLPEN": "A bullpen is associated with relief pitchers preparing to enter. The word does not refer to livestock in this setting."
+    },
+    "id": "ballpark-baseball",
+    "subtheme": "Baseball"
+  },
+  {
+    "title": "In the Baseball Equipment Bag",
+    "description": "Open an equipment bag with a crossword about familiar baseball gear and the parts players handle.",
+    "cardDescription": "Open an equipment bag with a crossword about familiar baseball gear and the parts players handle.",
+    "focus": "The clues describe objects by their shape or use. Some answers name a whole item, while others name a small part of one.",
+    "solvingTip": "Check whether the clue asks for equipment, clothing, or one feature of an object.",
+    "words": [
+      [
+        "BAT",
+        "Long implement swung to hit a baseball"
+      ],
+      [
+        "BALL",
+        "Round stitched object thrown and hit in baseball"
+      ],
+      [
+        "GLOVE",
+        "Leather hand covering used to catch the ball"
+      ],
+      [
+        "MITT",
+        "Catching glove with joined finger sections"
+      ],
+      [
+        "HELMET",
+        "Protective head covering worn by a batter"
+      ],
+      [
+        "CAP",
+        "Soft headwear with a brim worn by a player"
+      ],
+      [
+        "CLEAT",
+        "Stud on a baseball shoe for traction"
+      ],
+      [
+        "JERSEY",
+        "Team shirt worn as part of a uniform"
+      ],
+      [
+        "BELT",
+        "Band fastening baseball trousers at the waist"
+      ],
+      [
+        "HANDLE",
+        "Narrow gripped end of a baseball bat"
+      ],
+      [
+        "BARREL",
+        "Thicker hitting section of a baseball bat"
+      ],
+      [
+        "SEAM",
+        "Raised stitched line on a baseball"
+      ],
+      [
+        "LACE",
+        "Cord holding parts of a leather glove together"
+      ],
+      [
+        "BAG",
+        "Flexible container holding a player\u2019s equipment"
+      ]
+    ],
+    "answerNotes": {
+      "MITT": "A mitt has joined finger sections. A catcher\u2019s mitt has a different shape from many fielding gloves.",
+      "BARREL": "The barrel is the thicker bat section. Handle names the narrower portion held by the batter.",
+      "CLEAT": "Cleat names one shoe stud here. The plural cleats can also refer to the shoes themselves.",
+      "SEAM": "The seam is the stitched line on the ball. The clue identifies a surface feature rather than the whole ball."
+    },
+    "id": "ballpark-baseball-2",
+    "subtheme": "Baseball"
+  },
+  {
+    "title": "Between Pitch and Hit",
+    "description": "Follow familiar baseball actions through words for throwing, batting, and running.",
+    "cardDescription": "Follow familiar baseball actions through words for throwing, batting, and running.",
+    "focus": "These clues define actions and short play descriptions. They do not ask for player records or historical statistics.",
+    "solvingTip": "Notice whether the clue describes the pitcher, batter, runner, or fielder.",
+    "words": [
+      [
+        "PITCH",
+        "To throw the ball toward the batter"
+      ],
+      [
+        "SWING",
+        "To move the bat in an attempt to hit"
+      ],
+      [
+        "BUNT",
+        "To meet the ball softly with a held-out bat"
+      ],
+      [
+        "HIT",
+        "Batted ball allowing a batter to reach safely without an error"
+      ],
+      [
+        "CATCH",
+        "To secure a ball before it reaches the ground"
+      ],
+      [
+        "THROW",
+        "To send the ball through the air with the arm"
+      ],
+      [
+        "RUN",
+        "To move quickly between bases"
+      ],
+      [
+        "SLIDE",
+        "To reach a base by lowering and gliding along the ground"
+      ],
+      [
+        "STEAL",
+        "To advance a base while the defense is not handling a batted ball"
+      ],
+      [
+        "TAG",
+        "To touch a runner with a held ball to attempt an out"
+      ],
+      [
+        "WALK",
+        "Award allowing a batter to reach first after four balls"
+      ],
+      [
+        "STRIKE",
+        "One counted pitch or swing against a batter"
+      ],
+      [
+        "FOUL",
+        "Batted ball sent outside the fair boundaries"
+      ],
+      [
+        "OUT",
+        "Result that removes a batter or runner from play"
+      ]
+    ],
+    "answerNotes": {
+      "BUNT": "A bunt uses a held-out bat to meet the ball softly. It differs from a full swing.",
+      "WALK": "Walk is a baseball award here. The word does not simply describe moving on foot.",
+      "TAG": "Tag is a touching action in this clue. The ball must be held for the ordinary tagging play described.",
+      "STEAL": "Steal has a sporting meaning for advancing a base. The clue does not describe taking someone\u2019s property."
+    },
+    "id": "ballpark-baseball-3",
+    "subtheme": "Baseball"
+  },
+  {
+    "title": "Reading the Ballpark Scoreboard",
+    "description": "Read familiar baseball scoring words without needing a famous game\u2019s statistics.",
+    "cardDescription": "Read familiar baseball scoring words without needing a famous game\u2019s statistics.",
+    "focus": "The clues name results, game divisions, and recorded events. Short words can have a specific baseball meaning.",
+    "solvingTip": "Look for a result, a counted event, or a stage of play rather than a person\u2019s name.",
+    "words": [
+      [
+        "INNING",
+        "Game division giving each team a chance to bat"
+      ],
+      [
+        "RUN",
+        "Unit added to a baseball team\u2019s score"
+      ],
+      [
+        "HIT",
+        "Safely reached base credited to the batter from a batted ball"
+      ],
+      [
+        "ERROR",
+        "Fielding mistake recorded in a baseball score"
+      ],
+      [
+        "SCORE",
+        "Total runs credited to a team"
+      ],
+      [
+        "HOME",
+        "Team playing at its own ballpark"
+      ],
+      [
+        "AWAY",
+        "Team visiting the other club\u2019s ballpark"
+      ],
+      [
+        "TOP",
+        "First half of a baseball inning"
+      ],
+      [
+        "BOTTOM",
+        "Second half of a baseball inning"
+      ],
+      [
+        "SINGLE",
+        "Hit on which the batter reaches first base"
+      ],
+      [
+        "DOUBLE",
+        "Hit on which the batter reaches second base"
+      ],
+      [
+        "TRIPLE",
+        "Hit on which the batter reaches third base"
+      ],
+      [
+        "HOMER",
+        "Informal name for a home run"
+      ],
+      [
+        "TIE",
+        "Equal run totals for the two teams"
+      ]
+    ],
+    "answerNotes": {
+      "INNING": "An inning has a top and a bottom. The two halves give the visiting and home teams their turns at batting.",
+      "ERROR": "Error names a recorded fielding mistake. Not every unsuccessful play is automatically scored as an error.",
+      "HOMER": "Homer is a familiar short form of home run. The clue uses a baseball result rather than a person\u2019s name.",
+      "DOUBLE": "A double credits a two-base hit. It identifies the hit result rather than two separate singles."
+    },
+    "id": "ballpark-baseball-4",
+    "subtheme": "Baseball"
+  },
+  {
+    "title": "From a Seat in the Stands",
+    "description": "Enjoy a spectator\u2019s view through words for ballpark seating, snacks, and cheering.",
+    "cardDescription": "Enjoy a spectator\u2019s view through words for ballpark seating, snacks, and cheering.",
+    "focus": "The clues stay with the fan experience around the field. Some words name objects or places; others describe a sound or action.",
+    "solvingTip": "Use the seat, snack, and sound clues as different routes into the grid.",
+    "words": [
+      [
+        "FAN",
+        "Person following and supporting a baseball team"
+      ],
+      [
+        "STANDS",
+        "Seating sections around a playing field"
+      ],
+      [
+        "BLEACHER",
+        "An uncovered bench seat at a sports ground"
+      ],
+      [
+        "TICKET",
+        "Proof of paid admission to a ballgame"
+      ],
+      [
+        "USHER",
+        "Worker who helps spectators find their ballpark seats"
+      ],
+      [
+        "ROW",
+        "Line of spectator seats at a stadium"
+      ],
+      [
+        "AISLE",
+        "Passage between ballpark seating sections"
+      ],
+      [
+        "CHEER",
+        "To call out support for a team"
+      ],
+      [
+        "CLAP",
+        "To applaud a good play with the hands"
+      ],
+      [
+        "PEANUT",
+        "Small shelled snack often associated with ballparks"
+      ],
+      [
+        "PRETZEL",
+        "Twisted baked snack sold at many stadiums"
+      ],
+      [
+        "SODA",
+        "Carbonated drink bought at a ballpark concession stand"
+      ],
+      [
+        "VENDOR",
+        "Person selling snacks among spectators"
+      ],
+      [
+        "PROGRAM",
+        "Printed guide to teams or events at a game"
+      ]
+    ],
+    "answerNotes": {
+      "FAN": "Fan means an enthusiastic supporter here. It does not name a device that moves air.",
+      "BLEACHER": "A bleacher is an uncovered bench seat. Bleachers commonly names the larger bank of such seating.",
+      "AISLE": "Aisle is the passage, not the seat. The silent letters help distinguish its spelling from isle.",
+      "VENDOR": "A vendor sells goods. The clue identifies the seller rather than one particular snack."
+    },
+    "id": "ballpark-baseball-5",
+    "subtheme": "Baseball"
+  }
+]

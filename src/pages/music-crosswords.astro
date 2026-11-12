@@ -1,0 +1,14 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import puzzles from '../data/puzzles.json';
+const groups=new Set(['music-memories','american-music','instrument-families','dance-and-song']);
+const selected=puzzles.filter(p=>groups.has(p.series||''));
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Music',path:'/music-crosswords/'}];
+---
+<Layout title="Free Music Crossword Puzzles in Large Print" description="Play easy music crosswords with large letters and clear clues. Explore familiar instruments, jazz, country, folk, dancing and singing, or print a puzzle and answers." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Music</span></nav>
+<header class="page-heading"><p class="eyebrow">FAMILIAR SOUNDS · CLEAR CLUES</p><h1>Music crosswords in large print.</h1><p>Explore {selected.length} music mini crosswords about familiar instruments, jazz, country, folk, dancing, and singing. Play online or print a puzzle and separate answers.</p></header>
+
+<Collection items={selected}/><div class="prose"><h2>Follow a familiar tune</h2><p>Look for the instrument, the sound, or the action described in a clue. A short everyday word can help cross a longer instrument name. Each puzzle has a specific solving tip and three optional explanations of actual answers.</p><p>Play at your own pace with hints when needed, or print the clue sheet and a separate answer sheet. No account or timer is required.</p></div><p class="section"><a href="/sports-crosswords/">Explore sports crosswords →</a> · <a href="/crosswords/">Browse all puzzles →</a></p></div>
+</Layout>

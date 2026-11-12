@@ -5,7 +5,7 @@ import puzzles from '../src/data/puzzles.json' with {type:'json'};
 test('home navigation, filtering, and static content',async({page})=>{
  await page.goto('/');await expect(page.getByRole('heading',{level:1})).toContainText('Big letters');
  await page.getByRole('link',{name:'Explore all puzzles'}).click();
- await expect(page.locator('.puzzle-card')).toHaveCount(100);
+ await expect(page.locator('.puzzle-card')).toHaveCount(puzzles.length);
  await page.getByLabel('Find a puzzle').fill('Garden Tools');
  await expect(page.locator('[data-title]:visible')).toHaveCount(1);
  await page.getByLabel('Find a puzzle').fill('backyard birds');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
@@ -68,7 +68,7 @@ test('mobile pages fit, touch entry and print navigation',async({page})=>{
  await page.goto('/crosswords/garden-days/');await page.locator('.clue-button').first().click();await page.keyboard.type('A');await page.getByRole('link',{name:'Print this puzzle'}).click();await expect(page.getByRole('button',{name:'Print puzzle'})).toBeVisible();
 });
 
-test('all 100 playable pages and 200 print sheets were built',async({request})=>{
+test('all playable pages and separate print sheets were built',async({request})=>{
  for(const p of puzzles){for(const path of [`/crosswords/${p.id}/`,`/print/${p.id}/`,`/print/${p.id}-answers/`]){const response=await request.get(path);expect(response.status(),path).toBe(200);expect(await response.text()).toContain(p.title.replaceAll('&','&amp;'));}}
 });
 

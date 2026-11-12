@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Watching a Thanksgiving Parade",
+    "description": "Watch a holiday parade through familiar performers, decorations, and places beside the route.",
+    "cardDescription": "Watch a holiday parade through familiar performers, decorations, and places beside the route.",
+    "focus": "The clues describe things seen or heard during a parade. Some answers name objects, while others name a movement or a spectator action.",
+    "solvingTip": "Look for a performer, a large decoration, a route feature, or a crowd action.",
+    "words": [
+      [
+        "PARADE",
+        "Organized procession held for a holiday celebration"
+      ],
+      [
+        "FLOAT",
+        "Decorated platform moving through a parade"
+      ],
+      [
+        "BALLOON",
+        "Inflated display object carried or guided in a parade"
+      ],
+      [
+        "BAND",
+        "Group of musicians marching together"
+      ],
+      [
+        "BATON",
+        "Short stick carried by a parade leader or twirler"
+      ],
+      [
+        "DRUM",
+        "Percussion instrument providing a marching beat"
+      ],
+      [
+        "TUBA",
+        "Large low brass instrument heard in a marching band"
+      ],
+      [
+        "MARCH",
+        "To walk in a regular organized procession"
+      ],
+      [
+        "ROUTE",
+        "Planned path followed by a holiday parade"
+      ],
+      [
+        "BANNER",
+        "Long sign carried or displayed in a procession"
+      ],
+      [
+        "CROWD",
+        "Large gathering of spectators beside a parade route"
+      ],
+      [
+        "CURB",
+        "Raised edge between a sidewalk and a street"
+      ],
+      [
+        "WAVE",
+        "To move a hand in greeting toward passing marchers"
+      ],
+      [
+        "CHEER",
+        "To call out approval during a parade"
+      ]
+    ],
+    "answerNotes": {
+      "FLOAT": "Float names a moving decorated platform here. It is not the act of remaining on water.",
+      "BATON": "A parade baton is a carried or twirled stick. The same word also appears in conducting and relay running.",
+      "ROUTE": "The route is the planned path. It names the course followed rather than the procession itself.",
+      "BANNER": "A banner is a long display sign. It differs from an inflated decoration such as a balloon."
+    },
+    "id": "thanksgiving-together",
+    "subtheme": "Thanksgiving"
+  },
+  {
+    "title": "Family Around the Table",
+    "description": "Gather familiar family names and host-and-guest words for a Thanksgiving visit.",
+    "cardDescription": "Gather familiar family names and host-and-guest words for a Thanksgiving visit.",
+    "focus": "The clues describe relationships rather than individual names. Several answers are familiar shortened family terms.",
+    "solvingTip": "Look for a relationship, a generation, or a role at the gathering.",
+    "words": [
+      [
+        "FAMILY",
+        "People connected through close kinship or household relationships"
+      ],
+      [
+        "COUSIN",
+        "Child of one\u2019s aunt or uncle"
+      ],
+      [
+        "AUNT",
+        "Sister of a parent, or a related family role by marriage"
+      ],
+      [
+        "UNCLE",
+        "Brother of a parent, or a related family role by marriage"
+      ],
+      [
+        "NIECE",
+        "Daughter of one\u2019s sibling"
+      ],
+      [
+        "NEPHEW",
+        "Son of one\u2019s sibling"
+      ],
+      [
+        "SIBLING",
+        "A brother or sister"
+      ],
+      [
+        "GRANDMA",
+        "Familiar shortened name for a grandmother"
+      ],
+      [
+        "GRANDPA",
+        "Familiar shortened name for a grandfather"
+      ],
+      [
+        "PARENT",
+        "A mother or father"
+      ],
+      [
+        "CHILD",
+        "A parent\u2019s son or daughter"
+      ],
+      [
+        "RELATIVE",
+        "Person connected through a family relationship"
+      ],
+      [
+        "GUEST",
+        "Person invited to share a holiday meal"
+      ],
+      [
+        "HOST",
+        "Person welcoming others to a Thanksgiving gathering"
+      ]
+    ],
+    "answerNotes": {
+      "SIBLING": "Sibling is a word covering a brother or sister. It identifies the relationship without naming one gender.",
+      "NIECE": "A niece is a sibling\u2019s daughter. A nephew is a sibling\u2019s son, so the relationship words differ.",
+      "GRANDMA": "Grandma is an informal form of grandmother. The clue asks for the familiar shortened word.",
+      "HOST": "Host names the welcoming role here. It does not mean that every person at the table has the same family relationship."
+    },
+    "id": "thanksgiving-together-2",
+    "subtheme": "Thanksgiving"
+  },
+  {
+    "title": "Helpers in the Holiday Kitchen",
+    "description": "Identify familiar kitchen helpers used around a large meal through their shapes and purposes.",
+    "cardDescription": "Identify familiar kitchen helpers used around a large meal through their shapes and purposes.",
+    "focus": "The clues name utensils and equipment rather than cooking steps. Some items hold food, while others move, separate, or support it.",
+    "solvingTip": "Check whether the clue describes a container, a gripping tool, or a support.",
+    "words": [
+      [
+        "APRON",
+        "Protective garment worn over clothes in a kitchen"
+      ],
+      [
+        "LADLE",
+        "Deep-bowled utensil used to serve soup or gravy"
+      ],
+      [
+        "TONGS",
+        "Paired gripping tool used to lift food"
+      ],
+      [
+        "COLANDER",
+        "Perforated bowl used to drain food"
+      ],
+      [
+        "ROASTER",
+        "Deep cooking pan associated with a large roast"
+      ],
+      [
+        "BASTER",
+        "Bulb-ended tube used to draw up and release cooking liquid"
+      ],
+      [
+        "TRIVET",
+        "Heat-resistant support placed beneath a hot dish"
+      ],
+      [
+        "MITT",
+        "Padded hand covering used for handling hot cookware"
+      ],
+      [
+        "RACK",
+        "Raised framework supporting food or a pan"
+      ],
+      [
+        "TIMER",
+        "Device measuring a cooking interval"
+      ],
+      [
+        "SCALE",
+        "Kitchen instrument measuring ingredient weight"
+      ],
+      [
+        "SPOON",
+        "Rounded utensil used to stir or serve food"
+      ],
+      [
+        "FORK",
+        "Pronged utensil used to lift or hold a portion"
+      ],
+      [
+        "KNIFE",
+        "Edged kitchen tool used to cut food"
+      ]
+    ],
+    "answerNotes": {
+      "COLANDER": "A colander drains through holes. It is a complete bowl-shaped utensil rather than a single mesh insert.",
+      "BASTER": "A baster draws liquid into a tube using a bulb. The clue identifies the object rather than a recipe instruction.",
+      "TRIVET": "A trivet supports a hot dish. It is separate from the cookware placed on top of it.",
+      "TONGS": "Tongs is a plural-form name for a paired gripping tool. The two arms work together as one implement."
+    },
+    "id": "thanksgiving-together-3",
+    "subtheme": "Thanksgiving"
+  },
+  {
+    "title": "Serving the Thanksgiving Pie",
+    "description": "Explore pie service through familiar portions, fillings, nuts, and things placed on the table.",
+    "cardDescription": "Explore pie service through familiar portions, fillings, nuts, and things placed on the table.",
+    "focus": "The clues focus on the finished dessert and serving it. Shape and purpose help distinguish a portion, a topping, and a utensil.",
+    "solvingTip": "Look for a food part, a serving shape, or an object used at the table.",
+    "words": [
+      [
+        "SERVER",
+        "Flat utensil used to lift a slice of pie"
+      ],
+      [
+        "SLICE",
+        "One cut serving from a pie"
+      ],
+      [
+        "WEDGE",
+        "Pointed shape of a typical pie serving"
+      ],
+      [
+        "CRUST",
+        "Baked pastry around a pie\u2019s filling"
+      ],
+      [
+        "FILLING",
+        "Mixture enclosed or supported by a pie crust"
+      ],
+      [
+        "CREAM",
+        "Rich dairy topping served with some desserts"
+      ],
+      [
+        "DOLLOP",
+        "Small rounded helping placed on a dessert"
+      ],
+      [
+        "PECAN",
+        "Nut used in a familiar Southern-style Thanksgiving pie"
+      ],
+      [
+        "WALNUT",
+        "Wrinkled kernel used in some dessert fillings"
+      ],
+      [
+        "APPLE",
+        "Orchard fruit used in a classic holiday pie"
+      ],
+      [
+        "PUMPKIN",
+        "Squash made into a familiar spiced holiday filling"
+      ],
+      [
+        "PLATE",
+        "Individual dish holding a served pie portion"
+      ],
+      [
+        "FORK",
+        "Eating utensil used for a piece of pie"
+      ],
+      [
+        "DISH",
+        "Container in which a pie is baked or served"
+      ]
+    ],
+    "answerNotes": {
+      "DOLLOP": "A dollop is a small rounded helping. The word does not specify a fixed measured quantity.",
+      "SERVER": "Server is a serving utensil here. The same word can name a person bringing food to a table.",
+      "FILLING": "Filling is a noun for the mixture inside the crust. It is different from the adjective describing a satisfying meal.",
+      "PECAN": "Pecan names the nut used in the pie. Its name has several familiar regional pronunciations."
+    },
+    "id": "thanksgiving-together-4",
+    "subtheme": "Thanksgiving"
+  },
+  {
+    "title": "A Note of Thanks",
+    "description": "Explore gratitude through familiar words for helping, sharing, gathering, and writing a short message.",
+    "cardDescription": "Explore gratitude through familiar words for helping, sharing, gathering, and writing a short message.",
+    "focus": "The clues describe ordinary gestures and relationships. A few common words have a specific meaning in a thank-you note.",
+    "solvingTip": "Check whether the clue asks for a feeling, an action, a person, or a message.",
+    "words": [
+      [
+        "THANKS",
+        "Expression offered to acknowledge someone\u2019s help"
+      ],
+      [
+        "GRATITUDE",
+        "Feeling of appreciation for kindness received"
+      ],
+      [
+        "KINDNESS",
+        "Friendly and considerate treatment of others"
+      ],
+      [
+        "HELP",
+        "To give useful assistance"
+      ],
+      [
+        "SHARE",
+        "To let others have a portion of something"
+      ],
+      [
+        "GIVE",
+        "To offer something to another person"
+      ],
+      [
+        "RECEIVE",
+        "To accept something offered"
+      ],
+      [
+        "WELCOME",
+        "Friendly greeting to someone arriving"
+      ],
+      [
+        "CARE",
+        "Thoughtful attention to another person\u2019s needs"
+      ],
+      [
+        "FRIEND",
+        "Person known with affection and trust"
+      ],
+      [
+        "NEIGHBOR",
+        "Person living nearby"
+      ],
+      [
+        "NOTE",
+        "Short written message of appreciation"
+      ],
+      [
+        "WISH",
+        "Hope expressed for someone else\u2019s happiness"
+      ],
+      [
+        "GATHER",
+        "To come together for a shared occasion"
+      ]
+    ],
+    "answerNotes": {
+      "THANKS": "Thanks is a plural-form expression of gratitude. Thank is the related verb used for the action.",
+      "NOTE": "Note means a short written message here. It does not mean one musical pitch.",
+      "GATHER": "Gather means come together in this clue. The same verb can describe collecting separate objects.",
+      "SHARE": "Share is a verb about giving a portion here. It does not name a unit of company ownership."
+    },
+    "id": "thanksgiving-together-5",
+    "subtheme": "Thanksgiving"
+  }
+]

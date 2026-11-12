@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1135 clue entries.
-- 886 distinct answers; 1135 distinct answer/clue pairs.
-- 100 different introductions; 0 numbered titles remain.
-- 100 editions have dedicated subject notes and answer explanations.
+- 200 current puzzles; 2251 clue entries.
+- 1333 distinct answers; 2251 distinct answer/clue pairs.
+- 200 different introductions; 0 numbered titles remain.
+- 200 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -209,11 +209,151 @@ Current subjects: Measuring at the Workbench, Wood and the Saw Cut, Joining the 
 
 Current subjects: Across the Chessboard, A Game of Checkers, Dominoes on the Table, Inside a Deck of Cards, A Friendly Board-Game Evening.
 
+## Baseball: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Familiar Baseball Field, In the Baseball Equipment Bag, Between Pitch and Hit, Reading the Ballpark Scoreboard, From a Seat in the Stands.
+
+## Leisure Sports: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Round of Golf, An Afternoon at the Bowling Alley, Bocce in the Park, Croquet on the Lawn, Tennis at the Local Courts.
+
+## Team Sports: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Around the Basketball Court, An American Football Afternoon, At the Hockey Rink, Soccer on the Local Field, Across the Volleyball Net.
+
+## Active Pastimes: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: At the Swimming Pool, Around the Running Track, A Bicycle by the Path, Table Tennis at the Club, Badminton in the Hall.
+
+## American Music: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Little Jazz Vocabulary, Country Music on the Radio, Words from a Blues Session, A Folk Song Gathering, Rock and Roll Sounds.
+
+## Musical Instruments: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Inside a Guitar Case, Brass Band Sounds, Woodwinds and Their Voices, A Beat from the Drum Kit, Bellows and Buttons.
+
+## Dance and Song: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: At a Ballroom Evening, On the Square-Dance Floor, A Community Choir, An Evening Concert, Humming a Familiar Tune.
+
+## Christmas: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Stockings by the Mantel, A Gingerbread House Display, A Christmas Sweet Counter, A Christmas Carol Gathering, The Christmas Toy Window.
+
+## Thanksgiving: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Watching a Thanksgiving Parade, Family Around the Table, Helpers in the Holiday Kitchen, Serving the Thanksgiving Pie, A Note of Thanks.
+
+## Halloween: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Inside an Autumn Pumpkin, The Costume Closet, Treats for a Porch Party, A Walk at Twilight, Classic Halloween Symbols.
+
+## Easter: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: An Easter Basket Display, Patterns on an Easter Egg, A Spring Sunday Lunch, An Easter Bonnet, At the Easter Baking Counter.
+
+## Spring Days: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Spring Cleaning Shelf, Opening the Garden Gate, The Umbrella Stand, A Backyard Nest Box, A Park Bench in Spring.
+
+## Summer Days: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Packing a Picnic Basket, At the Ice-Cream Counter, A Chair Beside the Campsite, A Backyard Cookout Table, By the Summer Boathouse.
+
+## Winter Days: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: At a Winter Window, A Snowman in the Yard, Music at the Skating Rink, Warm Things in the Cupboard, A Pot of Winter Soup.
+
+## Celebrations: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Counting Toward New Year, A Valentine on the Table, A St. Patrick’s Day Procession, A Fourth of July Picnic, A Birthday Gathering.
+
+## Painting: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: On a Painter’s Table, Around a Color Wheel, A Watercolor Afternoon, A Visit to the Art Gallery, Objects in a Still Life.
+
+## Handmade Arts: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: At the Pottery Bench, Paper on the Craft Table, Pieces in a Mosaic, Pressed Flowers in a Frame, A Miniature Village.
+
+## Everyday Meals: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Simple Breakfast Table, Making a Sandwich Plate, Pasta for Supper, Tossing a Garden Salad, A Casserole on the Table.
+
+## Fruit and Flavor: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Bowl of Citrus, A Basket of Berries, On the Spice Shelf, Herbs at the Kitchen Window, Preserves in the Pantry.
+
+## Collections: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Pages in a Stamp Album, Coins in a Collector’s Tray, An Album of Family Photographs, Postcards Kept from a Journey, A Model Railway Layout.
+
 The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 100 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 200 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -237,5 +377,25 @@ All 100 current puzzles have dedicated editorial content. Continue reviewing clu
 | a-day-at-the-farm | 58 | 58 | 5 | 0 |
 | game-night | 58 | 58 | 5 | 0 |
 | flower-favorites | 58 | 58 | 5 | 0 |
+| ballpark-baseball | 56 | 56 | 5 | 0 |
+| leisure-sports | 57 | 57 | 5 | 0 |
+| team-sports | 56 | 56 | 5 | 0 |
+| active-pastimes | 55 | 55 | 5 | 0 |
+| american-music | 55 | 55 | 5 | 0 |
+| instrument-families | 56 | 56 | 5 | 0 |
+| dance-and-song | 58 | 58 | 5 | 0 |
+| christmas-comforts | 55 | 55 | 5 | 0 |
+| thanksgiving-together | 55 | 55 | 5 | 0 |
+| halloween-evening | 56 | 56 | 5 | 0 |
+| easter-gathering | 55 | 55 | 5 | 0 |
+| spring-at-home | 57 | 57 | 5 | 0 |
+| summer-afternoons | 54 | 54 | 5 | 0 |
+| winter-comforts | 56 | 56 | 5 | 0 |
+| calendar-celebrations | 55 | 55 | 5 | 0 |
+| painting-and-color | 55 | 55 | 5 | 0 |
+| handmade-arts | 57 | 57 | 5 | 0 |
+| everyday-meals | 56 | 56 | 5 | 0 |
+| fruit-and-flavor | 56 | 56 | 5 | 0 |
+| treasured-collections | 56 | 56 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

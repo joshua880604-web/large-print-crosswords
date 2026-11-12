@@ -37,17 +37,20 @@ def refined_puzzles(only_series=None):
                 'id':source['id'],'title':source['title'],'theme':config['theme'],
                 'subtheme':source['subtheme'],'series':config['id'],
                 'description':source['description'],'cardDescription':source['cardDescription'],
-                'difficulty':'Easy','revision':2,'rows':rows,'cols':cols,'entries':entries,
+                'difficulty':'Easy','revision':config.get('revision',2),'rows':rows,'cols':cols,'entries':entries,
                 'editorial':{'focus':source['focus'],'solvingTip':source['solvingTip'],'answerNotes':notes[:3]}
             }
     return result
 
 def refine_collection(puzzles,only_series=None):
     edited=refined_puzzles(only_series)
-    missing=set(edited)-{p['id'] for p in puzzles}
+    existing={p['id'] for p in puzzles}
+    configs=json.loads((ROOT/'src/data/editorial-series.json').read_text())
+    archived_ids={p['id'] for c in configs if c.get('archive') for p in json.loads((ROOT/'src/data/archives'/c['archive']).read_text())}
+    missing=(set(edited)-existing)&archived_ids
     if missing:
         raise ValueError(f'Missing stable puzzle identifiers: {missing}')
-    return [edited.get(p['id'],p) for p in puzzles]
+    return [edited.get(p['id'],p) for p in puzzles]+[p for identifier,p in edited.items() if identifier not in existing]
 
 if __name__=='__main__':
     path=ROOT/'src/data/puzzles.json'

@@ -1,9 +1,9 @@
 import {readFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
-assert.equal(puzzles.length,100,'Collection must contain 100 puzzles');
-assert.equal(new Set(puzzles.map(p=>p.id)).size,100,'Unique slugs');
-import {originals} from './editorial-data.mjs';
+import {originals,editorialSeries} from './editorial-data.mjs';
+assert.equal(puzzles.length,editorialSeries.length*5,'Each registered series must contain five puzzles');
+assert.equal(new Set(puzzles.map(p=>p.id)).size,puzzles.length,'Unique slugs');
 const grids=new Set();let clueCount=0;
 for(const p of [...puzzles,...originals]){
  const map=new Map(),members=new Map(),starts=new Map(),entrySignatures=new Set();
@@ -23,7 +23,7 @@ for(const p of [...puzzles,...originals]){
  assert.equal(seen.size,p.entries.length,`${p.id}: disconnected grid`);
  const fingerprint=JSON.stringify([...map].sort());assert.ok(!grids.has(fingerprint),`${p.id}: duplicate board`);grids.add(fingerprint);if(puzzles.includes(p))clueCount+=p.entries.length;
  if(p.editorial){
-  assert.ok(p.revision>=2&&p.subtheme&&p.cardDescription,'Edited puzzles need a distinct edition and subject');
+  assert.ok(p.revision>=1&&p.subtheme&&p.cardDescription,'Editorial puzzles need an edition and subject');
   assert.ok(p.rows<=11&&p.cols<=11&&p.entries.length<=12,'Edited themed puzzles keep a compact, readable board');
   assert.ok(p.editorial.focus&&p.editorial.solvingTip);
   assert.equal(p.editorial.answerNotes.length,3);
