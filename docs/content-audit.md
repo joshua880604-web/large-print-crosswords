@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1246 clue entries.
-- 470 distinct answers; 539 distinct answer/clue pairs.
-- 32 different introductions; 68 numbered titles remain.
-- 15 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1239 clue entries.
+- 504 distinct answers; 576 distinct answer/clue pairs.
+- 36 different introductions; 64 numbered titles remain.
+- 20 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -39,11 +39,21 @@ Current subjects: Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests
 
 Current subjects: Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance, Meet the Orchestra.
 
-The 15 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Market: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 65 | 58 |
+| Distinct answer/clue pairs | 21 | 58 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Fruit Basket Favorites, The Bread Counter, Dairy Case Finds, Pantry Shelf Staples, Labels, Prices & Checkout.
+
+The 20 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-85 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+80 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -62,7 +72,7 @@ The 15 original layouts remain available as noindex previous editions so browser
 | our-furry-friends | 58 | 20 | 1 | 4 |
 | a-stitch-in-time | 64 | 22 | 1 | 4 |
 | weather-watching | 64 | 21 | 1 | 4 |
-| market-morning | 65 | 21 | 1 | 4 |
+| market-morning | 58 | 58 | 5 | 0 |
 | in-the-workshop | 64 | 21 | 1 | 4 |
 | a-day-at-the-farm | 65 | 22 | 1 | 4 |
 | game-night | 57 | 21 | 1 | 4 |

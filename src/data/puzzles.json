@@ -1712,118 +1712,124 @@
   },
   {
     "id": "market-morning",
-    "title": "Market Morning",
+    "title": "Fruit Basket Favorites",
     "theme": "Food & Home",
-    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "subtheme": "Fruit Stand",
+    "series": "market-morning",
+    "description": "Browse a colorful fruit stand in your imagination, using clear clues about familiar fruits and their shapes, skins, and seeds.",
+    "cardDescription": "Familiar fruits, from crisp orchard picks to tropical favorites.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 11,
+    "revision": 2,
+    "rows": 10,
+    "cols": 9,
     "entries": [
       {
-        "answer": "CHEESE",
-        "clue": "A dairy food sold in slices or blocks",
+        "answer": "APRICOT",
+        "clue": "Small orange-colored stone fruit often sold dried",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
-        "number": 7
+        "number": 8
       },
       {
-        "answer": "PEACH",
-        "clue": "A fuzzy fruit with a large pit",
-        "row": 1,
-        "col": 4,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "BREAD",
-        "clue": "A loaf you might buy at a bakery",
+        "answer": "AVOCADO",
+        "clue": "Creamy-fleshed fruit with a large central pit",
         "row": 3,
-        "col": 1,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "MELON",
-        "clue": "A large fruit with a thick rind",
-        "row": 4,
-        "col": 6,
+        "col": 5,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "APPLE",
-        "clue": "A crisp fruit that may be red or green",
-        "row": 1,
-        "col": 3,
-        "direction": "across",
-        "number": 2
+        "answer": "BANANA",
+        "clue": "Long curved fruit often peeled from a yellow skin",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
       },
       {
-        "answer": "ONION",
-        "clue": "A layered vegetable that can make your eyes water",
-        "row": 8,
-        "col": 5,
+        "answer": "MANGO",
+        "clue": "Tropical fruit with a large flat pit and often golden flesh",
+        "row": 7,
+        "col": 4,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "PEAS",
-        "clue": "Small round vegetables found in pods",
-        "row": 0,
-        "col": 7,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "PLUM",
-        "clue": "A small smooth-skinned fruit with a pit",
-        "row": 0,
-        "col": 7,
-        "direction": "across",
-        "number": 1
-      },
-      {
-        "answer": "SALE",
-        "clue": "An event with temporarily reduced prices",
-        "row": 3,
-        "col": 7,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "CART",
-        "clue": "A wheeled basket used while shopping",
-        "row": 5,
-        "col": 3,
+        "answer": "MELON",
+        "clue": "Large fruit with a rind, such as a cantaloupe",
+        "row": 4,
+        "col": 8,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "LIST",
-        "clue": "A written reminder of what to buy",
-        "row": 8,
+        "answer": "GRAPE",
+        "clue": "Small fruit that grows in bunches and is often used to make juice",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "APPLE",
+        "clue": "Crisp round fruit often picked in an orchard and pressed into cider",
+        "row": 1,
         "col": 0,
         "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LEMON",
+        "clue": "Sour yellow citrus fruit often squeezed into iced tea",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PLUM",
+        "clue": "Smooth-skinned stone fruit that can be dried to make a prune",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
         "number": 9
       },
       {
-        "answer": "MILK",
-        "clue": "A dairy drink sold by the gallon",
-        "row": 7,
-        "col": 1,
+        "answer": "PEAR",
+        "clue": "Fruit commonly narrow near the stem and wider at the bottom",
+        "row": 0,
+        "col": 4,
         "direction": "down",
-        "number": 8
+        "number": 2
       },
       {
-        "answer": "BAG",
-        "clue": "A container for carrying groceries",
-        "row": 3,
-        "col": 1,
+        "answer": "DATE",
+        "clue": "Sweet brown fruit borne by certain palm trees",
+        "row": 0,
+        "col": 7,
         "direction": "down",
-        "number": 4
+        "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle stays with fruit names rather than mixing them with vegetables, dairy products, or checkout equipment. The clues use recognizable features and common American names. When a fruit has several colors or varieties, the description points to a familiar example without treating it as the only one.",
+      "solvingTip": "Look for the most specific feature: a pit, a thick rind, a curved shape, or a bunch of small fruits. Color alone may fit several answers. Crossings and the number of squares can separate fruits with similar shapes.",
+      "answerNotes": [
+        {
+          "answer": "AVOCADO",
+          "text": "An avocado is botanically a fruit, even though it often appears in savory dishes. The central pit helps distinguish it from many other fruits at the stand."
+        },
+        {
+          "answer": "MELON",
+          "text": "Melon is a broad name that includes cantaloupe and honeydew. A clue that supplies an example may be asking for the group rather than a particular variety."
+        },
+        {
+          "answer": "PLUM",
+          "text": "A prune is a dried plum, although some varieties are especially suited to drying. The clue connects the fresh fruit with a familiar dried form."
+        }
+      ]
+    }
   },
   {
     "id": "in-the-workshop",
@@ -3998,110 +4004,124 @@
   },
   {
     "id": "market-morning-2",
-    "title": "Market Morning \u2014 No. 2",
+    "title": "The Bread Counter",
     "theme": "Food & Home",
-    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "subtheme": "Bakery Breads",
+    "series": "market-morning",
+    "description": "Visit the bakery counter for a gentle crossword about bread styles, serving shapes, and familiar grain names.",
+    "cardDescription": "Loaves, rolls, and familiar bread styles at the bakery counter.",
     "difficulty": "Easy",
-    "rows": 10,
-    "cols": 12,
+    "revision": 2,
+    "rows": 9,
+    "cols": 11,
     "entries": [
       {
-        "answer": "CHEESE",
-        "clue": "A dairy food sold in slices or blocks",
-        "row": 4,
-        "col": 2,
+        "answer": "SOURDOUGH",
+        "clue": "Bread made with a fermented starter, often with a tangy taste",
+        "row": 3,
+        "col": 1,
         "direction": "across",
-        "number": 8
+        "number": 5
       },
       {
-        "answer": "CARROT",
-        "clue": "An orange root vegetable",
-        "row": 4,
-        "col": 2,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "PEACH",
-        "clue": "A fuzzy fruit with a large pit",
+        "answer": "BAGUETTE",
+        "clue": "Long, narrow French loaf known for its crisp exterior",
         "row": 0,
         "col": 3,
         "direction": "down",
-        "number": 2
+        "number": 1
       },
       {
-        "answer": "LEMON",
-        "clue": "A sour yellow citrus fruit",
-        "row": 3,
-        "col": 7,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "MELON",
-        "clue": "A large fruit with a thick rind",
-        "row": 5,
-        "col": 7,
+        "answer": "DOZEN",
+        "clue": "A group of twelve, as when buying bakery rolls",
+        "row": 7,
+        "col": 0,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "APPLE",
-        "clue": "A crisp fruit that may be red or green",
-        "row": 0,
-        "col": 5,
+        "answer": "FLOUR",
+        "clue": "Finely milled grain used as a main ingredient in many breads",
+        "row": 1,
+        "col": 6,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "BREAD",
-        "clue": "A loaf you might buy at a bakery",
-        "row": 6,
-        "col": 1,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "BEAN",
-        "clue": "A vegetable often grown in a pod",
-        "row": 2,
-        "col": 11,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "MILK",
-        "clue": "A dairy drink sold by the gallon",
-        "row": 3,
-        "col": 9,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "SALE",
-        "clue": "An event with temporarily reduced prices",
+        "answer": "BAGEL",
+        "clue": "Ring-shaped bread traditionally boiled before baking",
         "row": 1,
-        "col": 0,
-        "direction": "across",
+        "col": 8,
+        "direction": "down",
         "number": 4
       },
       {
-        "answer": "PEAS",
-        "clue": "Small round vegetables found in pods",
-        "row": 0,
-        "col": 3,
+        "answer": "WHEAT",
+        "clue": "Grain commonly milled into flour for bread",
+        "row": 1,
+        "col": 0,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "BAG",
-        "clue": "A container for carrying groceries",
-        "row": 0,
+        "answer": "PITA",
+        "clue": "Flatbread often baked with a hollow pocket",
+        "row": 5,
         "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "ROLL",
+        "clue": "Small individual portion of bread often served with dinner",
+        "row": 5,
+        "col": 6,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LOAF",
+        "clue": "One whole shaped mass of baked bread",
+        "row": 5,
+        "col": 9,
         "direction": "down",
-        "number": 1
+        "number": 8
+      },
+      {
+        "answer": "TRAY",
+        "clue": "Flat carrier on which bakery goods can be displayed",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BUN",
+        "clue": "Small soft bread often split to hold a hamburger",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers focus on bread and bakery-counter vocabulary rather than cake recipes. Some name a type of bread, others a grain, a serving shape, or part of a loaf. The clues distinguish an ingredient from the finished food instead of assuming that every bread is made in the same way.",
+      "solvingTip": "Picture whether the clue describes a whole loaf, one portion, or an ingredient. A pocket, a ring, and a long narrow shape point to different breads. Short serving words can give you a start among the longer bread names.",
+      "answerNotes": [
+        {
+          "answer": "SOURDOUGH",
+          "text": "A fermented starter is the defining idea in this clue. A tangy flavor is common, but sourdough breads can vary in how strongly sour they taste."
+        },
+        {
+          "answer": "BAGEL",
+          "text": "Traditional bagels are boiled before baking. That preparation helps explain their characteristic exterior, although commercial methods can differ."
+        },
+        {
+          "answer": "PITA",
+          "text": "Many pitas form a pocket during baking, but pocketless styles also exist. The word 'often' keeps the clue from making a rule about every pita."
+        }
+      ]
+    }
   },
   {
     "id": "in-the-workshop-2",
@@ -6268,118 +6288,132 @@
   },
   {
     "id": "market-morning-3",
-    "title": "Market Morning \u2014 No. 3",
+    "title": "Dairy Case Finds",
     "theme": "Food & Home",
-    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "subtheme": "Dairy Products & Packs",
+    "series": "market-morning",
+    "description": "Explore everyday dairy products and the words on their containers, with straightforward clues about cheeses, milk, and common package sizes.",
+    "cardDescription": "Milk, cheeses, and familiar containers in the dairy aisle.",
     "difficulty": "Easy",
-    "rows": 10,
-    "cols": 12,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "CHEESE",
-        "clue": "A dairy food sold in slices or blocks",
-        "row": 4,
-        "col": 3,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "CARROT",
-        "clue": "An orange root vegetable",
-        "row": 4,
-        "col": 3,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "LEMON",
-        "clue": "A sour yellow citrus fruit",
-        "row": 3,
-        "col": 8,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "APPLE",
-        "clue": "A crisp fruit that may be red or green",
-        "row": 0,
-        "col": 5,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "ONION",
-        "clue": "A layered vegetable that can make your eyes water",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "GRAPE",
-        "clue": "A small fruit that grows in bunches",
-        "row": 2,
-        "col": 2,
+        "answer": "COTTAGE",
+        "clue": "___ cheese: a soft fresh cheese sold as loose curds",
+        "row": 5,
+        "col": 1,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "BEAN",
-        "clue": "A vegetable often grown in a pod",
+        "answer": "CHEDDAR",
+        "clue": "Cheese named for an English village, often sold as mild or sharp",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CARTON",
+        "clue": "Paperboard container commonly used to package milk",
         "row": 5,
         "col": 1,
         "direction": "down",
-        "number": 9
+        "number": 6
       },
       {
-        "answer": "LIME",
-        "clue": "A small green citrus fruit",
-        "row": 3,
-        "col": 8,
-        "direction": "across",
-        "number": 7
+        "answer": "YOGURT",
+        "clue": "Cultured dairy food often sold in fruit flavors",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
       },
       {
-        "answer": "PEAR",
-        "clue": "A fruit that is narrow at the top and wider below",
-        "row": 6,
+        "answer": "GOUDA",
+        "clue": "Dutch cheese named for a city in the Netherlands",
+        "row": 9,
         "col": 0,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "EGGS",
-        "clue": "Foods sold by the dozen in a carton",
+        "answer": "CREAM",
+        "clue": "Rich milk product commonly used for whipping",
         "row": 0,
-        "col": 2,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "CART",
-        "clue": "A wheeled basket used while shopping",
-        "row": 0,
-        "col": 4,
+        "col": 5,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "PLUM",
-        "clue": "A small smooth-skinned fruit with a pit",
-        "row": 0,
-        "col": 10,
+        "answer": "KEFIR",
+        "clue": "Fermented milk drink whose five-letter name begins with K",
+        "row": 4,
+        "col": 7,
         "direction": "down",
-        "number": 4
+        "number": 5
       },
       {
         "answer": "MILK",
-        "clue": "A dairy drink sold by the gallon",
-        "row": 1,
-        "col": 8,
+        "clue": "Dairy liquid commonly poured over breakfast cereal",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "PINT",
+        "clue": "US liquid measure equal to two cups",
+        "row": 7,
+        "col": 6,
         "direction": "across",
-        "number": 5
+        "number": 9
+      },
+      {
+        "answer": "FETA",
+        "clue": "Crumbly white cheese traditionally associated with Greece",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "BRIE",
+        "clue": "Soft French cheese with an edible white rind",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CURD",
+        "clue": "One of the soft milk solids formed during cheesemaking",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle covers dairy foods and a few of their packages and measurements. Cheese names, milk descriptions, and container words belong to different kinds of clues. The clues distinguish the food itself from a product label or a measure of volume.",
+      "solvingTip": "A clue may ask for a food, a container, or a unit on its label. Read a partial name such as \"___ cheese\" as a phrase. For measurements, use the ordinary US liquid units described in the clue.",
+      "answerNotes": [
+        {
+          "answer": "YOGURT",
+          "text": "Yogurt is the common American spelling used here. Yogurt and yoghurt refer to the same kind of food, but the extra H would change the number of squares."
+        },
+        {
+          "answer": "PINT",
+          "text": "A US liquid pint equals two US cups. Measurement systems differ, so the clue specifies US liquid units rather than assuming all pints are identical worldwide."
+        },
+        {
+          "answer": "CURD",
+          "text": "Curds are the solids that form as milk coagulates. Whey is the liquid separated from them, so the clue's use of 'solid' or 'liquid' points to different answers."
+        }
+      ]
+    }
   },
   {
     "id": "in-the-workshop-3",
@@ -8562,126 +8596,132 @@
   },
   {
     "id": "market-morning-4",
-    "title": "Market Morning \u2014 No. 4",
+    "title": "Pantry Shelf Staples",
     "theme": "Food & Home",
-    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "subtheme": "Pantry Foods & Containers",
+    "series": "market-morning",
+    "description": "Take a relaxed look along the pantry shelf, finding familiar grains, seasonings, and the containers used to keep them together.",
+    "cardDescription": "Dry goods, seasonings, and everyday pantry containers.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 13,
+    "revision": 2,
+    "rows": 11,
+    "cols": 11,
     "entries": [
       {
-        "answer": "CHEESE",
-        "clue": "A dairy food sold in slices or blocks",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "CARROT",
-        "clue": "An orange root vegetable",
-        "row": 6,
-        "col": 3,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "LEMON",
-        "clue": "A sour yellow citrus fruit",
+        "answer": "CORNMEAL",
+        "clue": "Ground maize used in foods such as cornbread",
         "row": 5,
-        "col": 8,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "MELON",
-        "clue": "A large fruit with a thick rind",
-        "row": 5,
-        "col": 6,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "PEACH",
-        "clue": "A fuzzy fruit with a large pit",
-        "row": 2,
-        "col": 4,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "PLUM",
-        "clue": "A small smooth-skinned fruit with a pit",
-        "row": 2,
-        "col": 4,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "PEAS",
-        "clue": "Small round vegetables found in pods",
-        "row": 4,
-        "col": 2,
+        "col": 1,
         "direction": "across",
         "number": 5
       },
       {
-        "answer": "LIST",
-        "clue": "A written reminder of what to buy",
+        "answer": "RAISIN",
+        "clue": "One dried grape",
         "row": 5,
-        "col": 8,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "EGGS",
-        "clue": "Foods sold by the dozen in a carton",
-        "row": 2,
-        "col": 10,
+        "col": 3,
         "direction": "down",
-        "number": 4
+        "number": 6
       },
       {
-        "answer": "CART",
-        "clue": "A wheeled basket used while shopping",
-        "row": 11,
-        "col": 0,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "LIME",
-        "clue": "A small green citrus fruit",
+        "answer": "CEREAL",
+        "clue": "Breakfast food commonly served in a bowl with milk",
         "row": 0,
-        "col": 7,
+        "col": 8,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "MILK",
-        "clue": "A dairy drink sold by the gallon",
-        "row": 7,
-        "col": 8,
+        "answer": "BEANS",
+        "clue": "Dried kidney or pinto seeds used as food",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SPICE",
+        "clue": "Cinnamon or a clove, for example",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "Sweet crystals often spooned into coffee",
+        "row": 8,
+        "col": 6,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "BEAN",
-        "clue": "A vegetable often grown in a pod",
-        "row": 2,
-        "col": 9,
+        "answer": "NUTS",
+        "clue": "Almonds and walnuts, in everyday food language",
+        "row": 10,
+        "col": 3,
         "direction": "across",
-        "number": 3
+        "number": 10
       },
       {
-        "answer": "BAG",
-        "clue": "A container for carrying groceries",
-        "row": 10,
-        "col": 1,
+        "answer": "OATS",
+        "clue": "Grains used to make oatmeal",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "HERB",
+        "clue": "Plant whose leaves are used to flavor food, fresh or dried",
+        "row": 6,
+        "col": 10,
         "direction": "down",
-        "number": 10
+        "number": 7
+      },
+      {
+        "answer": "CAN",
+        "clue": "Metal food container that may have a pull-tab top",
+        "row": 0,
+        "col": 8,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "OIL",
+        "clue": "Olive or canola, for example, when sold for cooking",
+        "row": 8,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "JAR",
+        "clue": "Glass food container often closed with a screw-on lid",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues connect everyday pantry foods with familiar kitchen uses. Some answers are ingredients, while others name a package or container. A food example or a description of the packaging helps identify which kind of answer is needed.",
+      "solvingTip": "Look for the processing step in a clue: drying a grape and grinding maize lead to different food words. For short answers, notice whether the clue describes a seasoning, a container, or a cooking liquid.",
+      "answerNotes": [
+        {
+          "answer": "RAISIN",
+          "text": "A raisin is a dried grape. This clue asks for one, so the answer is singular rather than the plural often printed on a package."
+        },
+        {
+          "answer": "SPICE",
+          "text": "Cinnamon comes from bark and cloves are dried flower buds. These examples point to spice, contrasting with a clue about flavoring leaves."
+        },
+        {
+          "answer": "HERB",
+          "text": "In everyday cooking, herbs are often the leafy parts used for flavor. Spices commonly come from other parts such as seeds or bark, although usage can overlap."
+        }
+      ]
+    }
   },
   {
     "id": "in-the-workshop-4",
@@ -10832,118 +10872,132 @@
   },
   {
     "id": "market-morning-5",
-    "title": "Market Morning \u2014 No. 5",
+    "title": "Labels, Prices & Checkout",
     "theme": "Food & Home",
-    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "subtheme": "Shopping Basics",
+    "series": "market-morning",
+    "description": "Follow a grocery trip from finding an aisle to reading labels and reaching the checkout, using familiar shopping and payment words.",
+    "cardDescription": "Find an aisle, read a label, and recognize checkout terms.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 9,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "CARROT",
-        "clue": "An orange root vegetable",
-        "row": 6,
-        "col": 2,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "GRAPE",
-        "clue": "A small fruit that grows in bunches",
+        "answer": "RECEIPT",
+        "clue": "Proof of purchase listing the items paid for",
         "row": 5,
-        "col": 5,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "LEMON",
-        "clue": "A sour yellow citrus fruit",
-        "row": 9,
-        "col": 4,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "PEACH",
-        "clue": "A fuzzy fruit with a large pit",
-        "row": 3,
-        "col": 2,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "BREAD",
-        "clue": "A loaf you might buy at a bakery",
-        "row": 4,
-        "col": 0,
+        "col": 1,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "MILK",
-        "clue": "A dairy drink sold by the gallon",
-        "row": 9,
-        "col": 6,
-        "direction": "down",
-        "number": 11
-      },
-      {
-        "answer": "LIST",
-        "clue": "A written reminder of what to buy",
-        "row": 3,
+        "answer": "BASKET",
+        "clue": "Handheld container used to carry a few grocery items",
+        "row": 0,
         "col": 7,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "SALE",
-        "clue": "An event with temporarily reduced prices",
-        "row": 3,
-        "col": 5,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "PLUM",
-        "clue": "A small smooth-skinned fruit with a pit",
-        "row": 11,
-        "col": 5,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "BEAN",
-        "clue": "A vegetable often grown in a pod",
-        "row": 4,
-        "col": 0,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "LIME",
-        "clue": "A small green citrus fruit",
-        "row": 0,
-        "col": 8,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "PEAS",
-        "clue": "Small round vegetables found in pods",
-        "row": 0,
-        "col": 5,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "RICE",
-        "clue": "A grain often cooked as a side dish",
-        "row": 1,
-        "col": 2,
+        "answer": "PRICE",
+        "clue": "The amount of money asked for one item",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "AISLE",
+        "clue": "Passage between rows of store shelves",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "OUNCE",
+        "clue": "One sixteenth of a pound, when measuring weight",
+        "row": 8,
+        "col": 1,
         "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LABEL",
+        "clue": "Printed information attached to a product's packaging",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "COIN",
+        "clue": "Small metal piece of money",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CARD",
+        "clue": "Credit or debit ___: a common way to pay",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "UNIT",
+        "clue": "A per-___ price compares cost for the same amount of a product",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "CART",
+        "clue": "Wheeled basket pushed while shopping for groceries",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BAG",
+        "clue": "Carrier into which groceries can be packed after payment",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "TAG",
+        "clue": "Small attached label that may show an item's price",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
         "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle concerns the shopping trip rather than the foods in the basket. The answers cover finding items, reading prices, carrying purchases, and paying. The measurements use common US grocery units, and the spelling follows American English.",
+      "solvingTip": "Decide whether the clue asks for information on a product, a passage through the store, or proof of payment. A label and a receipt have different jobs. Short carrying-container words can help you start.",
+      "answerNotes": [
+        {
+          "answer": "RECEIPT",
+          "text": "A receipt records the purchase. Its P is written but not pronounced, which can make the spelling less obvious when solving from a spoken word."
+        },
+        {
+          "answer": "AISLE",
+          "text": "Aisle is a passage between shelves or rows. It sounds like isle, meaning an island, but has a different spelling and a silent S."
+        },
+        {
+          "answer": "UNIT",
+          "text": "Unit pricing compares cost for a standard amount, such as a price per ounce. It differs from the price of the entire package when package sizes vary."
+        }
+      ]
+    }
   },
   {
     "id": "in-the-workshop-5",

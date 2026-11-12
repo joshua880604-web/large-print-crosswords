@@ -1,0 +1,513 @@
+[
+  {
+    "id": "market-morning",
+    "title": "Fruit Basket Favorites",
+    "subtheme": "Fruit Stand",
+    "cardDescription": "Familiar fruits, from crisp orchard picks to tropical favorites.",
+    "description": "Browse a colorful fruit stand in your imagination, using clear clues about familiar fruits and their shapes, skins, and seeds.",
+    "focus": "This puzzle stays with fruit names rather than mixing them with vegetables, dairy products, or checkout equipment. The clues use recognizable features and common American names. When a fruit has several colors or varieties, the description points to a familiar example without treating it as the only one.",
+    "solvingTip": "Look for the most specific feature: a pit, a thick rind, a curved shape, or a bunch of small fruits. Color alone may fit several answers. Crossings and the number of squares can separate fruits with similar shapes.",
+    "words": [
+      [
+        "APPLE",
+        "Crisp round fruit often picked in an orchard and pressed into cider"
+      ],
+      [
+        "PEAR",
+        "Fruit commonly narrow near the stem and wider at the bottom"
+      ],
+      [
+        "PEACH",
+        "Fuzzy-skinned stone fruit with a large central pit"
+      ],
+      [
+        "PLUM",
+        "Smooth-skinned stone fruit that can be dried to make a prune"
+      ],
+      [
+        "GRAPE",
+        "Small fruit that grows in bunches and is often used to make juice"
+      ],
+      [
+        "MELON",
+        "Large fruit with a rind, such as a cantaloupe"
+      ],
+      [
+        "LEMON",
+        "Sour yellow citrus fruit often squeezed into iced tea"
+      ],
+      [
+        "LIME",
+        "Small green citrus fruit often cut into wedges"
+      ],
+      [
+        "ORANGE",
+        "Citrus fruit whose name is also a color"
+      ],
+      [
+        "CHERRY",
+        "Small stone fruit often sold with a long slender stem attached"
+      ],
+      [
+        "BANANA",
+        "Long curved fruit often peeled from a yellow skin"
+      ],
+      [
+        "MANGO",
+        "Tropical fruit with a large flat pit and often golden flesh"
+      ],
+      [
+        "PAPAYA",
+        "Tropical fruit often orange inside with many small black seeds"
+      ],
+      [
+        "FIG",
+        "Soft fruit with many tiny seeds, often sold dried"
+      ],
+      [
+        "DATE",
+        "Sweet brown fruit borne by certain palm trees"
+      ],
+      [
+        "KIWI",
+        "Fruit often sold with fuzzy brown skin and green flesh"
+      ],
+      [
+        "PINEAPPLE",
+        "Tropical fruit with a spiky crown and a rough patterned exterior"
+      ],
+      [
+        "AVOCADO",
+        "Creamy-fleshed fruit with a large central pit"
+      ],
+      [
+        "BERRY",
+        "Small juicy fruit such as a blueberry"
+      ],
+      [
+        "APRICOT",
+        "Small orange-colored stone fruit often sold dried"
+      ]
+    ],
+    "answerNotes": {
+      "PLUM": "A prune is a dried plum, although some varieties are especially suited to drying. The clue connects the fresh fruit with a familiar dried form.",
+      "KIWI": "Kiwi can name a fruit or a flightless bird. Fuzzy skin and green flesh point to the fruit here; gold-fleshed varieties also exist.",
+      "AVOCADO": "An avocado is botanically a fruit, even though it often appears in savory dishes. The central pit helps distinguish it from many other fruits at the stand.",
+      "DATE": "Date has several everyday meanings. In this clue, the reference to a palm tree selects the fruit rather than a calendar day or an appointment.",
+      "MELON": "Melon is a broad name that includes cantaloupe and honeydew. A clue that supplies an example may be asking for the group rather than a particular variety.",
+      "PEACH": "Peach and nectarine are closely related fruits, but their familiar skins differ: a peach is fuzzy, while a nectarine is smooth. That makes texture a useful clue."
+    }
+  },
+  {
+    "id": "market-morning-2",
+    "title": "The Bread Counter",
+    "subtheme": "Bakery Breads",
+    "cardDescription": "Loaves, rolls, and familiar bread styles at the bakery counter.",
+    "description": "Visit the bakery counter for a gentle crossword about bread styles, serving shapes, and familiar grain names.",
+    "focus": "The answers focus on bread and bakery-counter vocabulary rather than cake recipes. Some name a type of bread, others a grain, a serving shape, or part of a loaf. The clues distinguish an ingredient from the finished food instead of assuming that every bread is made in the same way.",
+    "solvingTip": "Picture whether the clue describes a whole loaf, one portion, or an ingredient. A pocket, a ring, and a long narrow shape point to different breads. Short serving words can give you a start among the longer bread names.",
+    "words": [
+      [
+        "BREAD",
+        "Food baked as loaves or rolls from a flour-based dough"
+      ],
+      [
+        "LOAF",
+        "One whole shaped mass of baked bread"
+      ],
+      [
+        "ROLL",
+        "Small individual portion of bread often served with dinner"
+      ],
+      [
+        "BAGEL",
+        "Ring-shaped bread traditionally boiled before baking"
+      ],
+      [
+        "BUN",
+        "Small soft bread often split to hold a hamburger"
+      ],
+      [
+        "RYE",
+        "Grain used in many dark deli-style breads"
+      ],
+      [
+        "WHEAT",
+        "Grain commonly milled into flour for bread"
+      ],
+      [
+        "SOURDOUGH",
+        "Bread made with a fermented starter, often with a tangy taste"
+      ],
+      [
+        "PITA",
+        "Flatbread often baked with a hollow pocket"
+      ],
+      [
+        "NAAN",
+        "Leavened flatbread often cooked against the wall of a tandoor"
+      ],
+      [
+        "MUFFIN",
+        "Individual quick bread often baked in a small cup-shaped pan"
+      ],
+      [
+        "TOAST",
+        "Bread browned by heating"
+      ],
+      [
+        "FLOUR",
+        "Finely milled grain used as a main ingredient in many breads"
+      ],
+      [
+        "CRUST",
+        "The outer surface of a baked loaf"
+      ],
+      [
+        "CRUMB",
+        "The inner texture of bread, or a tiny piece broken from it"
+      ],
+      [
+        "SLICE",
+        "One flat piece cut from a loaf"
+      ],
+      [
+        "DOZEN",
+        "A group of twelve, as when buying bakery rolls"
+      ],
+      [
+        "BAKER",
+        "Person whose work includes making loaves and rolls"
+      ],
+      [
+        "TRAY",
+        "Flat carrier on which bakery goods can be displayed"
+      ],
+      [
+        "BAGUETTE",
+        "Long, narrow French loaf known for its crisp exterior"
+      ]
+    ],
+    "answerNotes": {
+      "CRUST": "Crust is the outside of a loaf. Crumb can describe the inner texture, not just a loose fragment on a plate, so the clue's reference to outside or inside matters.",
+      "CRUMB": "In bread descriptions, crumb means the structure of the interior. The same word can also mean a small piece that breaks off, which explains the two meanings in the clue.",
+      "SOURDOUGH": "A fermented starter is the defining idea in this clue. A tangy flavor is common, but sourdough breads can vary in how strongly sour they taste.",
+      "PITA": "Many pitas form a pocket during baking, but pocketless styles also exist. The word 'often' keeps the clue from making a rule about every pita.",
+      "BAGEL": "Traditional bagels are boiled before baking. That preparation helps explain their characteristic exterior, although commercial methods can differ.",
+      "RYE": "Rye names a grain as well as breads made with it. The clue asks for the grain; it does not imply that every loaf labeled rye contains only that flour."
+    }
+  },
+  {
+    "id": "market-morning-3",
+    "title": "Dairy Case Finds",
+    "subtheme": "Dairy Products & Packs",
+    "cardDescription": "Milk, cheeses, and familiar containers in the dairy aisle.",
+    "description": "Explore everyday dairy products and the words on their containers, with straightforward clues about cheeses, milk, and common package sizes.",
+    "focus": "This puzzle covers dairy foods and a few of their packages and measurements. Cheese names, milk descriptions, and container words belong to different kinds of clues. The clues distinguish the food itself from a product label or a measure of volume.",
+    "solvingTip": "A clue may ask for a food, a container, or a unit on its label. Read a partial name such as \"___ cheese\" as a phrase. For measurements, use the ordinary US liquid units described in the clue.",
+    "words": [
+      [
+        "MILK",
+        "Dairy liquid commonly poured over breakfast cereal"
+      ],
+      [
+        "CHEESE",
+        "Dairy food made by coagulating milk and separating the curds"
+      ],
+      [
+        "BUTTER",
+        "Spread traditionally made by churning cream"
+      ],
+      [
+        "CREAM",
+        "Rich milk product commonly used for whipping"
+      ],
+      [
+        "YOGURT",
+        "Cultured dairy food often sold in fruit flavors"
+      ],
+      [
+        "KEFIR",
+        "Fermented milk drink whose five-letter name begins with K"
+      ],
+      [
+        "COTTAGE",
+        "___ cheese: a soft fresh cheese sold as loose curds"
+      ],
+      [
+        "CURD",
+        "One of the soft milk solids formed during cheesemaking"
+      ],
+      [
+        "WHEY",
+        "Liquid left after milk separates into curds"
+      ],
+      [
+        "BRIE",
+        "Soft French cheese with an edible white rind"
+      ],
+      [
+        "CHEDDAR",
+        "Cheese named for an English village, often sold as mild or sharp"
+      ],
+      [
+        "SWISS",
+        "___ cheese: an American grocery name for a cheese often pictured with holes"
+      ],
+      [
+        "GOUDA",
+        "Dutch cheese named for a city in the Netherlands"
+      ],
+      [
+        "FETA",
+        "Crumbly white cheese traditionally associated with Greece"
+      ],
+      [
+        "SKIM",
+        "Milk with most of its fat removed is called ___ milk"
+      ],
+      [
+        "WHOLE",
+        "___ milk: a familiar label for full-fat dairy milk"
+      ],
+      [
+        "PINT",
+        "US liquid measure equal to two cups"
+      ],
+      [
+        "QUART",
+        "US liquid measure equal to two pints"
+      ],
+      [
+        "CARTON",
+        "Paperboard container commonly used to package milk"
+      ],
+      [
+        "TUB",
+        "Small wide container often used for a spread or yogurt"
+      ]
+    ],
+    "answerNotes": {
+      "CURD": "Curds are the solids that form as milk coagulates. Whey is the liquid separated from them, so the clue's use of 'solid' or 'liquid' points to different answers.",
+      "WHEY": "Whey is a liquid produced when curds separate during cheesemaking. It is not the name of the solid cheese pieces, even though both come from milk.",
+      "YOGURT": "Yogurt is the common American spelling used here. Yogurt and yoghurt refer to the same kind of food, but the extra H would change the number of squares.",
+      "SWISS": "In an American grocery store, Swiss commonly names a hole-marked cheese style. It does not mean that every cheese made in Switzerland has holes.",
+      "PINT": "A US liquid pint equals two US cups. Measurement systems differ, so the clue specifies US liquid units rather than assuming all pints are identical worldwide.",
+      "QUART": "A US liquid quart equals two US liquid pints. These are volume measures; they should not be confused with ounces or pounds used to describe weight."
+    }
+  },
+  {
+    "id": "market-morning-4",
+    "title": "Pantry Shelf Staples",
+    "subtheme": "Pantry Foods & Containers",
+    "cardDescription": "Dry goods, seasonings, and everyday pantry containers.",
+    "description": "Take a relaxed look along the pantry shelf, finding familiar grains, seasonings, and the containers used to keep them together.",
+    "focus": "The clues connect everyday pantry foods with familiar kitchen uses. Some answers are ingredients, while others name a package or container. A food example or a description of the packaging helps identify which kind of answer is needed.",
+    "solvingTip": "Look for the processing step in a clue: drying a grape and grinding maize lead to different food words. For short answers, notice whether the clue describes a seasoning, a container, or a cooking liquid.",
+    "words": [
+      [
+        "RICE",
+        "Grain commonly boiled and served as a side dish"
+      ],
+      [
+        "PASTA",
+        "Food category that includes macaroni and spaghetti"
+      ],
+      [
+        "OATS",
+        "Grains used to make oatmeal"
+      ],
+      [
+        "BEANS",
+        "Dried kidney or pinto seeds used as food"
+      ],
+      [
+        "LENTIL",
+        "One small lens-shaped pulse often used in soup"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystals often spooned into coffee"
+      ],
+      [
+        "SALT",
+        "Common seasoning often paired with pepper"
+      ],
+      [
+        "SPICE",
+        "Cinnamon or a clove, for example"
+      ],
+      [
+        "HERB",
+        "Plant whose leaves are used to flavor food, fresh or dried"
+      ],
+      [
+        "OIL",
+        "Olive or canola, for example, when sold for cooking"
+      ],
+      [
+        "VINEGAR",
+        "Sour liquid commonly used in salad dressings and pickles"
+      ],
+      [
+        "HONEY",
+        "Sweet food made by bees and often sold in a jar"
+      ],
+      [
+        "NUTS",
+        "Almonds and walnuts, in everyday food language"
+      ],
+      [
+        "RAISIN",
+        "One dried grape"
+      ],
+      [
+        "CAN",
+        "Metal food container that may have a pull-tab top"
+      ],
+      [
+        "JAR",
+        "Glass food container often closed with a screw-on lid"
+      ],
+      [
+        "BOX",
+        "Rectangular cardboard package used for many dry foods"
+      ],
+      [
+        "LID",
+        "Removable top of a food container"
+      ],
+      [
+        "CEREAL",
+        "Breakfast food commonly served in a bowl with milk"
+      ],
+      [
+        "CORNMEAL",
+        "Ground maize used in foods such as cornbread"
+      ]
+    ],
+    "answerNotes": {
+      "LENTIL": "A lentil is a pulse, the edible seed of a legume. Its lens-like shape is a useful clue that distinguishes it from the larger kidney bean.",
+      "HERB": "In everyday cooking, herbs are often the leafy parts used for flavor. Spices commonly come from other parts such as seeds or bark, although usage can overlap.",
+      "SPICE": "Cinnamon comes from bark and cloves are dried flower buds. These examples point to spice, contrasting with a clue about flavoring leaves.",
+      "JAR": "A jar is commonly glass with a removable lid. A can is usually metal, so the material in the clue helps distinguish two short container words.",
+      "PASTA": "Macaroni and spaghetti are examples of pasta. The clue asks for the category shared by the examples rather than the name of either particular shape.",
+      "RAISIN": "A raisin is a dried grape. This clue asks for one, so the answer is singular rather than the plural often printed on a package."
+    }
+  },
+  {
+    "id": "market-morning-5",
+    "title": "Labels, Prices & Checkout",
+    "subtheme": "Shopping Basics",
+    "cardDescription": "Find an aisle, read a label, and recognize checkout terms.",
+    "description": "Follow a grocery trip from finding an aisle to reading labels and reaching the checkout, using familiar shopping and payment words.",
+    "focus": "This puzzle concerns the shopping trip rather than the foods in the basket. The answers cover finding items, reading prices, carrying purchases, and paying. The measurements use common US grocery units, and the spelling follows American English.",
+    "solvingTip": "Decide whether the clue asks for information on a product, a passage through the store, or proof of payment. A label and a receipt have different jobs. Short carrying-container words can help you start.",
+    "words": [
+      [
+        "SCAN",
+        "Read a product's barcode with a checkout device"
+      ],
+      [
+        "PRICE",
+        "The amount of money asked for one item"
+      ],
+      [
+        "TOTAL",
+        "The final sum owed for a purchase"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a cash payment exceeds the amount owed"
+      ],
+      [
+        "CASH",
+        "Money paid as bills or coins"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "CARD",
+        "Credit or debit ___: a common way to pay"
+      ],
+      [
+        "COUPON",
+        "Voucher or code offering a discount"
+      ],
+      [
+        "RECEIPT",
+        "Proof of purchase listing the items paid for"
+      ],
+      [
+        "CART",
+        "Wheeled basket pushed while shopping for groceries"
+      ],
+      [
+        "BASKET",
+        "Handheld container used to carry a few grocery items"
+      ],
+      [
+        "BAG",
+        "Carrier into which groceries can be packed after payment"
+      ],
+      [
+        "LIST",
+        "Written reminder of the groceries to buy"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of store shelves"
+      ],
+      [
+        "SALE",
+        "A period when goods are offered at reduced prices"
+      ],
+      [
+        "LABEL",
+        "Printed information attached to a product's packaging"
+      ],
+      [
+        "TAG",
+        "Small attached label that may show an item's price"
+      ],
+      [
+        "UNIT",
+        "A per-___ price compares cost for the same amount of a product"
+      ],
+      [
+        "POUND",
+        "US weight measure equal to sixteen ounces"
+      ],
+      [
+        "OUNCE",
+        "One sixteenth of a pound, when measuring weight"
+      ],
+      [
+        "SCALE",
+        "Device used to weigh produce"
+      ],
+      [
+        "CLERK",
+        "Store employee who can help a shopper find an item"
+      ],
+      [
+        "CASHIER",
+        "Employee who takes payment at a store checkout"
+      ],
+      [
+        "REGISTER",
+        "Cash ___: the machine used to record a store payment"
+      ]
+    ],
+    "answerNotes": {
+      "RECEIPT": "A receipt records the purchase. Its P is written but not pronounced, which can make the spelling less obvious when solving from a spoken word.",
+      "AISLE": "Aisle is a passage between shelves or rows. It sounds like isle, meaning an island, but has a different spelling and a silent S.",
+      "UNIT": "Unit pricing compares cost for a standard amount, such as a price per ounce. It differs from the price of the entire package when package sizes vary.",
+      "POUND": "In the ordinary US weight system used for groceries, a pound equals sixteen weight ounces. Fluid ounces measure volume and are a different kind of unit.",
+      "CHANGE": "Change here means money returned after paying more cash than the amount due. It does not mean the receipt, which records the transaction.",
+      "TOTAL": "Price usually refers to one item, while total refers to the combined amount due. Reading which amount the clue describes helps distinguish these short answers."
+    }
+  }
+]

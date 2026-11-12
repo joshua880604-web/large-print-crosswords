@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1246,
-    "distinctAnswers": 470,
-    "distinctAnswerCluePairs": 539,
-    "distinctIntroductions": 32,
-    "numberedTitles": 68,
-    "editedEditions": 15
+    "clueEntries": 1239,
+    "distinctAnswers": 504,
+    "distinctAnswerCluePairs": 576,
+    "distinctIntroductions": 36,
+    "numberedTitles": 64,
+    "editedEditions": 20
   },
   "refinedSeries": [
     {
@@ -98,6 +98,36 @@
         "Songs & Singing",
         "Rhythm & Dance",
         "Meet the Orchestra"
+      ]
+    },
+    {
+      "id": "market-morning",
+      "name": "Market",
+      "before": {
+        "puzzles": 5,
+        "entries": 65,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "market-morning",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 58,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Fruit Basket Favorites",
+        "The Bread Counter",
+        "Dairy Case Finds",
+        "Pantry Shelf Staples",
+        "Labels, Prices & Checkout"
       ]
     }
   ],
@@ -226,16 +256,6 @@
     {
       "pages": 5,
       "puzzles": [
-        "market-morning",
-        "market-morning-2",
-        "market-morning-3",
-        "market-morning-4",
-        "market-morning-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
         "in-the-workshop",
         "in-the-workshop-2",
         "in-the-workshop-3",
@@ -331,11 +351,6 @@
       "occurrences": 5
     },
     {
-      "answer": "MILK",
-      "clue": "A dairy drink sold by the gallon",
-      "occurrences": 5
-    },
-    {
       "answer": "PETAL",
       "clue": "One of the colored parts surrounding a flower's center",
       "occurrences": 5
@@ -374,6 +389,11 @@
       "answer": "WOOL",
       "clue": "The fiber obtained from sheep",
       "occurrences": 5
+    },
+    {
+      "answer": "ANCHOR",
+      "clue": "A heavy object used to hold a boat in place",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
@@ -408,13 +428,6 @@
     {
       "first": "flower-favorites",
       "second": "flower-favorites-3",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "market-morning",
-      "second": "market-morning-2",
       "sharedClues": 9,
       "jaccard": 0.563,
       "sameSeries": true
@@ -511,8 +524,15 @@
       "sameSeries": true
     },
     {
-      "first": "market-morning-2",
-      "second": "market-morning-4",
+      "first": "movie-night-4",
+      "second": "movie-night-5",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "on-the-road",
+      "second": "on-the-road-4",
       "sharedClues": 9,
       "jaccard": 0.529,
       "sameSeries": true
@@ -600,23 +620,6 @@
         "VASE",
         "STEM",
         "SEED"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "market-morning",
-      "second": "market-morning-2",
-      "sharedAnswers": [
-        "CHEESE",
-        "PEACH",
-        "BREAD",
-        "MELON",
-        "APPLE",
-        "PEAS",
-        "SALE",
-        "MILK",
-        "BAG"
       ],
       "jaccard": 0.563,
       "sameSeries": true
@@ -841,18 +844,35 @@
       "sameSeries": true
     },
     {
-      "first": "market-morning-2",
-      "second": "market-morning-4",
+      "first": "movie-night-4",
+      "second": "movie-night-5",
       "sharedAnswers": [
-        "CHEESE",
-        "CARROT",
-        "PEACH",
-        "LEMON",
-        "MELON",
-        "BEAN",
-        "MILK",
-        "PEAS",
-        "BAG"
+        "SILENT",
+        "TICKET",
+        "COMEDY",
+        "OSCAR",
+        "SCENE",
+        "HERO",
+        "REEL",
+        "ROLE",
+        "SET"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "on-the-road",
+      "second": "on-the-road-4",
+      "sharedAnswers": [
+        "TICKET",
+        "MOTEL",
+        "BEACH",
+        "TENT",
+        "RAIL",
+        "MILE",
+        "TRIP",
+        "LAKE",
+        "CAR"
       ],
       "jaccard": 0.529,
       "sameSeries": true
@@ -1042,14 +1062,14 @@
     {
       "id": "market-morning",
       "puzzles": 5,
-      "entries": 65,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 58,
+      "uniqueAnswers": 58,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "in-the-workshop",

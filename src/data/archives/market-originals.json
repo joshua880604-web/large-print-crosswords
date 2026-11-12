@@ -1,0 +1,577 @@
+[
+  {
+    "id": "market-morning",
+    "title": "Market Morning",
+    "theme": "Food & Home",
+    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CHEESE",
+        "clue": "A dairy food sold in slices or blocks",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "PEACH",
+        "clue": "A fuzzy fruit with a large pit",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BREAD",
+        "clue": "A loaf you might buy at a bakery",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "MELON",
+        "clue": "A large fruit with a thick rind",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A crisp fruit that may be red or green",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "ONION",
+        "clue": "A layered vegetable that can make your eyes water",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round vegetables found in pods",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PLUM",
+        "clue": "A small smooth-skinned fruit with a pit",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SALE",
+        "clue": "An event with temporarily reduced prices",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CART",
+        "clue": "A wheeled basket used while shopping",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "LIST",
+        "clue": "A written reminder of what to buy",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "MILK",
+        "clue": "A dairy drink sold by the gallon",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BAG",
+        "clue": "A container for carrying groceries",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "market-morning-2",
+    "title": "Market Morning \u2014 No. 2",
+    "theme": "Food & Home",
+    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "CHEESE",
+        "clue": "A dairy food sold in slices or blocks",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CARROT",
+        "clue": "An orange root vegetable",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PEACH",
+        "clue": "A fuzzy fruit with a large pit",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A sour yellow citrus fruit",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "MELON",
+        "clue": "A large fruit with a thick rind",
+        "row": 5,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A crisp fruit that may be red or green",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BREAD",
+        "clue": "A loaf you might buy at a bakery",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A vegetable often grown in a pod",
+        "row": 2,
+        "col": 11,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MILK",
+        "clue": "A dairy drink sold by the gallon",
+        "row": 3,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SALE",
+        "clue": "An event with temporarily reduced prices",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round vegetables found in pods",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BAG",
+        "clue": "A container for carrying groceries",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "market-morning-3",
+    "title": "Market Morning \u2014 No. 3",
+    "theme": "Food & Home",
+    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "CHEESE",
+        "clue": "A dairy food sold in slices or blocks",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CARROT",
+        "clue": "An orange root vegetable",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A sour yellow citrus fruit",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A crisp fruit that may be red or green",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ONION",
+        "clue": "A layered vegetable that can make your eyes water",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "GRAPE",
+        "clue": "A small fruit that grows in bunches",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A vegetable often grown in a pod",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "LIME",
+        "clue": "A small green citrus fruit",
+        "row": 3,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "PEAR",
+        "clue": "A fruit that is narrow at the top and wider below",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "EGGS",
+        "clue": "Foods sold by the dozen in a carton",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CART",
+        "clue": "A wheeled basket used while shopping",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "PLUM",
+        "clue": "A small smooth-skinned fruit with a pit",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "MILK",
+        "clue": "A dairy drink sold by the gallon",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 5
+      }
+    ]
+  },
+  {
+    "id": "market-morning-4",
+    "title": "Market Morning \u2014 No. 4",
+    "theme": "Food & Home",
+    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "CHEESE",
+        "clue": "A dairy food sold in slices or blocks",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CARROT",
+        "clue": "An orange root vegetable",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A sour yellow citrus fruit",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "MELON",
+        "clue": "A large fruit with a thick rind",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "PEACH",
+        "clue": "A fuzzy fruit with a large pit",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PLUM",
+        "clue": "A small smooth-skinned fruit with a pit",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round vegetables found in pods",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "LIST",
+        "clue": "A written reminder of what to buy",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "EGGS",
+        "clue": "Foods sold by the dozen in a carton",
+        "row": 2,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CART",
+        "clue": "A wheeled basket used while shopping",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LIME",
+        "clue": "A small green citrus fruit",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "MILK",
+        "clue": "A dairy drink sold by the gallon",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A vegetable often grown in a pod",
+        "row": 2,
+        "col": 9,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BAG",
+        "clue": "A container for carrying groceries",
+        "row": 10,
+        "col": 1,
+        "direction": "down",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "market-morning-5",
+    "title": "Market Morning \u2014 No. 5",
+    "theme": "Food & Home",
+    "description": "Take an easy stroll through familiar foods and grocery-store finds.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "CARROT",
+        "clue": "An orange root vegetable",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "GRAPE",
+        "clue": "A small fruit that grows in bunches",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A sour yellow citrus fruit",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PEACH",
+        "clue": "A fuzzy fruit with a large pit",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BREAD",
+        "clue": "A loaf you might buy at a bakery",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "MILK",
+        "clue": "A dairy drink sold by the gallon",
+        "row": 9,
+        "col": 6,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "LIST",
+        "clue": "A written reminder of what to buy",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SALE",
+        "clue": "An event with temporarily reduced prices",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PLUM",
+        "clue": "A small smooth-skinned fruit with a pit",
+        "row": 11,
+        "col": 5,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A vegetable often grown in a pod",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "LIME",
+        "clue": "A small green citrus fruit",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round vegetables found in pods",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "RICE",
+        "clue": "A grain often cooked as a side dish",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      }
+    ]
+  }
+]

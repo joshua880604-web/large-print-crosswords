@@ -60,3 +60,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 24 Playwright tests passed, including saved-game isolation for all three edited families, all fifteen note sections/archive routes, and query-string metadata handling with an ampersand in a real current puzzle title.
 - All five new music print sheets exported as a single US Letter page in Chromium; the piano reader notes were visually inspected. Total static HTML output is 324 pages, with 108 canonical sitemap URLs.
 - These are local build/browser results. Cloudflare completion, target-user difficulty, physical printing and professional editorial review are not established by these checks.
+
+## Market editorial batch — 2026-11-12
+
+- Changed only the five current market-morning puzzles, preserving the other 95 current puzzle objects, their IDs and layouts. The fifteen already edited gardening/bird/music puzzles remain unchanged.
+- New subjects: Fruit Basket Favorites, The Bread Counter, Dairy Case Finds, Pantry Shelf Staples, and Labels, Prices & Checkout. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction, a solving tip, and three explanations of actual answers.
+- Reviewed the selected entries against the page copy and adjusted several tips to refer to the foods, shapes, packages and shopping terms actually present. No dietary recommendations or expert endorsements were added.
+- Market series: 65 entries / 21 distinct answer-clue pairs before; 58 entries / 58 distinct pairs after. Collection stays at 100 current puzzles with 1,239 clue entries, 576 distinct answer-clue pairs, 36 introductions and 20 edited editions. Eighty current puzzles remain in the editorial queue.
+- All twenty original layouts remain preserved. Final full regeneration reproduced the current JSON exactly without changing any original archive. Market progress uses a separate edition key and can resume the prior layout through its noindex archive route.
+- Build, content/SEO audits, TypeScript and 25 Playwright tests passed, including all twenty reader-note sections, all twenty previous-edition routes, saved-game isolation in all four edited families, and discovery using the original market series name.
+- All five updated print sheets exported as single US Letter pages in Chromium. Bread-counter notes visually inspected. Static output now has 329 HTML pages; canonical sitemap coverage remains 108 URLs.
+- These checks do not establish Cloudflare deployment completion, physical printer behavior, target-user difficulty, professional review or Google indexing/ranking.
