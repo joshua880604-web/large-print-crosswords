@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1195,
-    "distinctAnswers": 684,
-    "distinctAnswerCluePairs": 826,
-    "distinctIntroductions": 64,
-    "numberedTitles": 36,
-    "editedEditions": 55
+    "clueEntries": 1185,
+    "distinctAnswers": 708,
+    "distinctAnswerCluePairs": 859,
+    "distinctIntroductions": 68,
+    "numberedTitles": 32,
+    "editedEditions": 60
   },
   "refinedSeries": [
     {
@@ -339,20 +339,40 @@
         "Feathered Pet Friends",
         "Life in a Fish Tank"
       ]
+    },
+    {
+      "id": "a-cup-of-comfort",
+      "name": "Drinks",
+      "before": {
+        "puzzles": 5,
+        "entries": 65,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "a-cup-of-comfort",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Pot of Tea",
+        "Morning Coffee Words",
+        "A Warm Cup of Cocoa",
+        "At the Diner Counter",
+        "Lemonade on the Porch"
+      ]
     }
   ],
   "selfAnswerClues": [],
   "repeatedIntroductions": [
-    {
-      "pages": 5,
-      "puzzles": [
-        "a-cup-of-comfort",
-        "a-cup-of-comfort-2",
-        "a-cup-of-comfort-3",
-        "a-cup-of-comfort-4",
-        "a-cup-of-comfort-5"
-      ]
-    },
     {
       "pages": 5,
       "puzzles": [
@@ -476,11 +496,6 @@
       "occurrences": 4
     },
     {
-      "answer": "CHAI",
-      "clue": "A spiced tea often served with milk",
-      "occurrences": 4
-    },
-    {
       "answer": "CHESS",
       "clue": "A board game played with kings and queens",
       "occurrences": 4
@@ -496,18 +511,8 @@
       "occurrences": 4
     },
     {
-      "answer": "COFFEE",
-      "clue": "A drink brewed from roasted beans",
-      "occurrences": 4
-    },
-    {
       "answer": "COMEDY",
       "clue": "A movie meant to make you laugh",
-      "occurrences": 4
-    },
-    {
-      "answer": "CUP",
-      "clue": "A small drinking vessel with a handle",
       "occurrences": 4
     },
     {
@@ -534,16 +539,24 @@
       "answer": "FROST",
       "clue": "A thin layer of ice crystals on a cold morning",
       "occurrences": 4
+    },
+    {
+      "answer": "GUEST",
+      "clue": "A person invited to visit",
+      "occurrences": 4
+    },
+    {
+      "answer": "HERO",
+      "clue": "The brave central character in many stories",
+      "occurrences": 4
+    },
+    {
+      "answer": "ICE",
+      "clue": "Frozen water",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
-    {
-      "first": "a-cup-of-comfort-3",
-      "second": "a-cup-of-comfort-5",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
     {
       "first": "a-good-book",
       "second": "a-good-book-3",
@@ -636,34 +649,6 @@
       "sameSeries": true
     },
     {
-      "first": "a-cup-of-comfort",
-      "second": "a-cup-of-comfort-3",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-cup-of-comfort-2",
-      "second": "a-cup-of-comfort-4",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-cup-of-comfort-2",
-      "second": "a-cup-of-comfort-5",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-cup-of-comfort-3",
-      "second": "a-cup-of-comfort-4",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
       "first": "a-good-book",
       "second": "a-good-book-2",
       "sharedClues": 8,
@@ -676,26 +661,44 @@
       "sharedClues": 8,
       "jaccard": 0.444,
       "sameSeries": true
+    },
+    {
+      "first": "a-good-book-2",
+      "second": "a-good-book-3",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "autumn-walk-3",
+      "second": "autumn-walk-5",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "by-the-sea-2",
+      "second": "by-the-sea-3",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "holiday-table-2",
+      "second": "holiday-table-4",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "in-the-workshop",
+      "second": "in-the-workshop-2",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "a-cup-of-comfort-3",
-      "second": "a-cup-of-comfort-5",
-      "sharedAnswers": [
-        "COFFEE",
-        "KETTLE",
-        "STEAM",
-        "LEMON",
-        "SUGAR",
-        "HONEY",
-        "MILK",
-        "CUP",
-        "SIP"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
     {
       "first": "a-good-book",
       "second": "a-good-book-3",
@@ -910,70 +913,6 @@
       "sameSeries": true
     },
     {
-      "first": "a-cup-of-comfort",
-      "second": "a-cup-of-comfort-3",
-      "sharedAnswers": [
-        "KETTLE",
-        "COFFEE",
-        "TOAST",
-        "COCOA",
-        "SCONE",
-        "SUGAR",
-        "CHAI",
-        "SIP"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-cup-of-comfort-2",
-      "second": "a-cup-of-comfort-4",
-      "sharedAnswers": [
-        "STEAM",
-        "CIDER",
-        "LEMON",
-        "BREW",
-        "TRAY",
-        "CHAI",
-        "POT",
-        "CUP"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-cup-of-comfort-2",
-      "second": "a-cup-of-comfort-5",
-      "sharedAnswers": [
-        "COFFEE",
-        "HANDLE",
-        "STEAM",
-        "CIDER",
-        "LEMON",
-        "SPOON",
-        "MINT",
-        "CUP"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-cup-of-comfort-3",
-      "second": "a-cup-of-comfort-4",
-      "sharedAnswers": [
-        "KETTLE",
-        "STEAM",
-        "LEMON",
-        "TOAST",
-        "SUGAR",
-        "HONEY",
-        "CHAI",
-        "CUP"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
       "first": "a-good-book",
       "second": "a-good-book-2",
       "sharedAnswers": [
@@ -1001,6 +940,86 @@
         "READ",
         "INK",
         "PEN"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book-2",
+      "second": "a-good-book-3",
+      "sharedAnswers": [
+        "LIBRARY",
+        "NOVEL",
+        "PROSE",
+        "TITLE",
+        "STORY",
+        "SPINE",
+        "READ",
+        "PAGE"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "autumn-walk-3",
+      "second": "autumn-walk-5",
+      "sharedAnswers": [
+        "AUTUMN",
+        "APPLE",
+        "TRAIL",
+        "FROST",
+        "GOLD",
+        "PINE",
+        "OAK",
+        "NUT"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "by-the-sea-2",
+      "second": "by-the-sea-3",
+      "sharedAnswers": [
+        "OCEAN",
+        "BOAT",
+        "SALT",
+        "SEAL",
+        "DUNE",
+        "SAND",
+        "PORT",
+        "SUN"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "holiday-table-2",
+      "second": "holiday-table-4",
+      "sharedAnswers": [
+        "FAMILY",
+        "THANKS",
+        "ROAST",
+        "FEAST",
+        "MEAL",
+        "HOST",
+        "PIE",
+        "YAM"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "in-the-workshop",
+      "second": "in-the-workshop-2",
+      "sharedAnswers": [
+        "HAMMER",
+        "HANDLE",
+        "PLIERS",
+        "RULER",
+        "SCREW",
+        "WOOD",
+        "FILE",
+        "SAW"
       ],
       "jaccard": 0.444,
       "sameSeries": true
@@ -1046,14 +1065,14 @@
     {
       "id": "a-cup-of-comfort",
       "puzzles": 5,
-      "entries": 65,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.529,
-      "highestAnswerJaccard": 0.529
+      "entries": 55,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
     },
     {
       "id": "on-the-road",

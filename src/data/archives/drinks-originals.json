@@ -1,0 +1,577 @@
+[
+  {
+    "id": "a-cup-of-comfort",
+    "title": "A Cup of Comfort",
+    "theme": "Food & Home",
+    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "KETTLE",
+        "clue": "A vessel used to boil water for tea",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "HANDLE",
+        "clue": "The part of a mug you hold",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "COFFEE",
+        "clue": "A drink brewed from roasted beans",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SPOON",
+        "clue": "Utensil used to stir a cup",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TOAST",
+        "clue": "Bread browned with heat",
+        "row": 6,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "COCOA",
+        "clue": "A warm chocolate drink",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SCONE",
+        "clue": "A small baked treat often served with tea",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "A sweetener for coffee or tea",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "MINT",
+        "clue": "An aromatic herb used in herbal tea",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CHAI",
+        "clue": "A spiced tea often served with milk",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "TEA",
+        "clue": "A drink made from steeped leaves",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SIP",
+        "clue": "Take a small drink",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "POT",
+        "clue": "A coffee ___ holds several cups",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 13
+      }
+    ]
+  },
+  {
+    "id": "a-cup-of-comfort-2",
+    "title": "A Cup of Comfort \u2014 No. 2",
+    "theme": "Food & Home",
+    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "COFFEE",
+        "clue": "A drink brewed from roasted beans",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "HANDLE",
+        "clue": "The part of a mug you hold",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "STEAM",
+        "clue": "Water vapor rising from a hot drink",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CIDER",
+        "clue": "A drink made from pressed apples",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A yellow citrus fruit",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SPOON",
+        "clue": "Utensil used to stir a cup",
+        "row": 3,
+        "col": 11,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MINT",
+        "clue": "An aromatic herb used in herbal tea",
+        "row": 7,
+        "col": 9,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BREW",
+        "clue": "To make coffee by passing water through grounds",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TRAY",
+        "clue": "A flat object used to carry cups",
+        "row": 7,
+        "col": 12,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "CHAI",
+        "clue": "A spiced tea often served with milk",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "POT",
+        "clue": "A coffee ___ holds several cups",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MUG",
+        "clue": "A sturdy cup for a hot drink",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "CUP",
+        "clue": "A small drinking vessel with a handle",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "a-cup-of-comfort-3",
+    "title": "A Cup of Comfort \u2014 No. 3",
+    "theme": "Food & Home",
+    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "COFFEE",
+        "clue": "A drink brewed from roasted beans",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "KETTLE",
+        "clue": "A vessel used to boil water for tea",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "STEAM",
+        "clue": "Water vapor rising from a hot drink",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A yellow citrus fruit",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SCONE",
+        "clue": "A small baked treat often served with tea",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TOAST",
+        "clue": "Bread browned with heat",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "A sweetener for coffee or tea",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HONEY",
+        "clue": "A sweet food made by bees",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "COCOA",
+        "clue": "A warm chocolate drink",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CHAI",
+        "clue": "A spiced tea often served with milk",
+        "row": 8,
+        "col": 5,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "MILK",
+        "clue": "A drink often poured over cereal",
+        "row": 11,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CUP",
+        "clue": "A small drinking vessel with a handle",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SIP",
+        "clue": "Take a small drink",
+        "row": 4,
+        "col": 10,
+        "direction": "across",
+        "number": 6
+      }
+    ]
+  },
+  {
+    "id": "a-cup-of-comfort-4",
+    "title": "A Cup of Comfort \u2014 No. 4",
+    "theme": "Food & Home",
+    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "KETTLE",
+        "clue": "A vessel used to boil water for tea",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "STEAM",
+        "clue": "Water vapor rising from a hot drink",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "A sweetener for coffee or tea",
+        "row": 4,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A yellow citrus fruit",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "CIDER",
+        "clue": "A drink made from pressed apples",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HONEY",
+        "clue": "A sweet food made by bees",
+        "row": 6,
+        "col": 7,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "TOAST",
+        "clue": "Bread browned with heat",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BREW",
+        "clue": "To make coffee by passing water through grounds",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "TRAY",
+        "clue": "A flat object used to carry cups",
+        "row": 10,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CHAI",
+        "clue": "A spiced tea often served with milk",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "POT",
+        "clue": "A coffee ___ holds several cups",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TEA",
+        "clue": "A drink made from steeped leaves",
+        "row": 10,
+        "col": 4,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "CUP",
+        "clue": "A small drinking vessel with a handle",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "a-cup-of-comfort-5",
+    "title": "A Cup of Comfort \u2014 No. 5",
+    "theme": "Food & Home",
+    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "KETTLE",
+        "clue": "A vessel used to boil water for tea",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "HANDLE",
+        "clue": "The part of a mug you hold",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "COFFEE",
+        "clue": "A drink brewed from roasted beans",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LEMON",
+        "clue": "A yellow citrus fruit",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "A sweetener for coffee or tea",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SPOON",
+        "clue": "Utensil used to stir a cup",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CIDER",
+        "clue": "A drink made from pressed apples",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "HONEY",
+        "clue": "A sweet food made by bees",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "STEAM",
+        "clue": "Water vapor rising from a hot drink",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "MINT",
+        "clue": "An aromatic herb used in herbal tea",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "MILK",
+        "clue": "A drink often poured over cereal",
+        "row": 10,
+        "col": 8,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SIP",
+        "clue": "Take a small drink",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CUP",
+        "clue": "A small drinking vessel with a handle",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      }
+    ]
+  }
+]

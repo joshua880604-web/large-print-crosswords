@@ -11,8 +11,9 @@ import bakingOriginals from '../src/data/archives/baking-originals.json' with {t
 import craftsOriginals from '../src/data/archives/crafts-originals.json' with {type:'json'};
 import flowersOriginals from '../src/data/archives/flowers-originals.json' with {type:'json'};
 import petsOriginals from '../src/data/archives/pets-originals.json' with {type:'json'};
+import drinksOriginals from '../src/data/archives/drinks-originals.json' with {type:'json'};
 import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
-const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals,...bakingOriginals,...craftsOriginals,...flowersOriginals,...petsOriginals];
+const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals,...bakingOriginals,...craftsOriginals,...flowersOriginals,...petsOriginals,...drinksOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
 

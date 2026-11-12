@@ -356,118 +356,124 @@
   },
   {
     "id": "a-cup-of-comfort",
-    "title": "A Cup of Comfort",
+    "title": "A Pot of Tea",
     "theme": "Food & Home",
-    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "subtheme": "Tea Leaves and Teaware",
+    "series": "a-cup-of-comfort",
+    "description": "Settle in with a tea-themed crossword about familiar teaware, the leaves inside a cup, and the words used to describe brewing.",
+    "cardDescription": "Tea types, pot parts, and familiar words for brewing a cup.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 10,
+    "revision": 2,
+    "rows": 10,
+    "cols": 9,
     "entries": [
       {
         "answer": "KETTLE",
-        "clue": "A vessel used to boil water for tea",
-        "row": 6,
+        "clue": "Vessel used to heat water before making tea",
+        "row": 4,
         "col": 2,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "HANDLE",
-        "clue": "The part of a mug you hold",
-        "row": 1,
-        "col": 7,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "COFFEE",
-        "clue": "A drink brewed from roasted beans",
-        "row": 1,
-        "col": 3,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "SPOON",
-        "clue": "Utensil used to stir a cup",
-        "row": 2,
-        "col": 0,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "TOAST",
-        "clue": "Bread browned with heat",
-        "row": 6,
-        "col": 5,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "COCOA",
-        "clue": "A warm chocolate drink",
-        "row": 8,
-        "col": 1,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "SCONE",
-        "clue": "A small baked treat often served with tea",
-        "row": 7,
-        "col": 1,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "SUGAR",
-        "clue": "A sweetener for coffee or tea",
-        "row": 9,
-        "col": 5,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "MINT",
-        "clue": "An aromatic herb used in herbal tea",
-        "row": 3,
-        "col": 5,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "CHAI",
-        "clue": "A spiced tea often served with milk",
-        "row": 1,
-        "col": 6,
-        "direction": "across",
+        "answer": "TEAPOT",
+        "clue": "Vessel with a spout used to brew and serve tea",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SAUCER",
+        "clue": "Small dish placed beneath a teacup",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
         "number": 3
       },
       {
-        "answer": "TEA",
-        "clue": "A drink made from steeped leaves",
-        "row": 7,
-        "col": 8,
-        "direction": "down",
+        "answer": "STRING",
+        "clue": "Thin cord attached to some tea pouches",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
         "number": 10
       },
       {
-        "answer": "SIP",
-        "clue": "Take a small drink",
+        "answer": "BLACK",
+        "clue": "Tea type including Assam and many breakfast blends",
         "row": 0,
-        "col": 1,
+        "col": 2,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "POT",
-        "clue": "A coffee ___ holds several cups",
-        "row": 10,
-        "col": 3,
+        "answer": "LOOSE",
+        "clue": "Describing tea leaves sold without individual pouches",
+        "row": 0,
+        "col": 4,
         "direction": "across",
-        "number": 13
+        "number": 2
+      },
+      {
+        "answer": "SPOUT",
+        "clue": "Projecting part of a teapot from which the drink is poured",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "LEAF",
+        "clue": "One piece of the plant material traditionally used to brew tea",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TEA",
+        "clue": "Drink made by infusing the leaves of Camellia sinensis",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TAG",
+        "clue": "Small paper label at the end of a tea pouch's cord",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BAG",
+        "clue": "Small porous pouch holding tea leaves",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 9
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues cover tea, its containers, and the small accessories used in making it. Some words name a whole vessel, while others name a part or a small item. Direct definitions point to each item's everyday use.",
+      "solvingTip": "Check whether the clue asks for a tea type, a whole container, a part, or an accessory. The vessel that heats water and the one used to brew and serve tea have different names. Short accessory words can help cross longer teaware terms.",
+      "answerNotes": [
+        {
+          "answer": "KETTLE",
+          "text": "A kettle heats the water before tea is made. It may be heated on a stove or have an electric heating element; the clue names the vessel's job."
+        },
+        {
+          "answer": "TEAPOT",
+          "text": "A teapot is used for brewing and serving tea. Its spout is the pouring part, while a saucer is a separate dish beneath a cup."
+        },
+        {
+          "answer": "SAUCER",
+          "text": "A saucer is the small dish beneath a cup. It differs from the cup that actually holds the drink."
+        }
+      ]
+    }
   },
   {
     "id": "on-the-road",
@@ -2754,118 +2760,124 @@
   },
   {
     "id": "a-cup-of-comfort-2",
-    "title": "A Cup of Comfort \u2014 No. 2",
+    "title": "Morning Coffee Words",
     "theme": "Food & Home",
-    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "subtheme": "Coffee Beans and Brewing",
+    "series": "a-cup-of-comfort",
+    "description": "Wake up a few familiar words with a crossword about coffee beans, brewing, and the everyday language of a morning mug.",
+    "cardDescription": "Coffee preparation, aroma, and familiar additions to a morning mug.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 13,
+    "revision": 2,
+    "rows": 9,
+    "cols": 11,
     "entries": [
       {
-        "answer": "COFFEE",
-        "clue": "A drink brewed from roasted beans",
-        "row": 6,
-        "col": 3,
+        "answer": "GROUNDS",
+        "clue": "Crushed coffee particles left in a filter after brewing",
+        "row": 4,
+        "col": 2,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "HANDLE",
-        "clue": "The part of a mug you hold",
-        "row": 1,
+        "answer": "STRONG",
+        "clue": "Describing coffee with a pronounced rather than mild flavor",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "ROAST",
+        "clue": "To heat coffee beans to develop their color and flavor",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SPOON",
+        "clue": "Small utensil used to stir additions into a cup",
+        "row": 4,
         "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "AROMA",
+        "clue": "Noticeable smell rising from freshly brewed coffee",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BLEND",
+        "clue": "Mixture of coffees from different sources",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "DECAF",
+        "clue": "Short name for coffee with much of its caffeine removed",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "CREAM",
+        "clue": "Rich dairy liquid sometimes poured into coffee",
+        "row": 1,
+        "col": 0,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "STEAM",
-        "clue": "Water vapor rising from a hot drink",
-        "row": 2,
-        "col": 5,
+        "answer": "BEAN",
+        "clue": "Common name for one coffee seed before grinding",
+        "row": 1,
+        "col": 6,
         "direction": "across",
         "number": 4
       },
       {
-        "answer": "CIDER",
-        "clue": "A drink made from pressed apples",
-        "row": 6,
-        "col": 3,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "LEMON",
-        "clue": "A yellow citrus fruit",
-        "row": 5,
-        "col": 8,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "SPOON",
-        "clue": "Utensil used to stir a cup",
-        "row": 3,
-        "col": 11,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "MINT",
-        "clue": "An aromatic herb used in herbal tea",
-        "row": 7,
-        "col": 9,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "BREW",
-        "clue": "To make coffee by passing water through grounds",
-        "row": 10,
-        "col": 2,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "TRAY",
-        "clue": "A flat object used to carry cups",
-        "row": 7,
-        "col": 12,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "CHAI",
-        "clue": "A spiced tea often served with milk",
-        "row": 7,
-        "col": 0,
-        "direction": "across",
-        "number": 8
-      },
-      {
         "answer": "POT",
-        "clue": "A coffee ___ holds several cups",
+        "clue": "Container holding several servings of brewed coffee",
         "row": 0,
-        "col": 6,
+        "col": 4,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "MUG",
-        "clue": "A sturdy cup for a hot drink",
-        "row": 7,
-        "col": 9,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "CUP",
-        "clue": "A small drinking vessel with a handle",
+        "answer": "SIP",
+        "clue": "To drink a small mouthful of coffee",
         "row": 0,
-        "col": 4,
+        "col": 2,
         "direction": "across",
         "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows coffee from the bean to the cup. Some clues ask for a material or a tool, while others describe preparation, aroma, or something added at the table. Familiar coffee words have more specific meanings in this setting.",
+      "solvingTip": "Look for the difference between a whole bean, the material after grinding, and the finished drink. A word may describe an action or something the drink contains. Short preparation and serving words can help with longer coffee terms.",
+      "answerNotes": [
+        {
+          "answer": "GROUNDS",
+          "text": "Grounds is a plural noun for the crushed coffee material. In this clue it refers to what remains in the filter, not an area of land."
+        },
+        {
+          "answer": "ROAST",
+          "text": "Roast means heat the beans to develop flavor and color. Grinding is a different step that makes the beans into smaller particles."
+        },
+        {
+          "answer": "BLEND",
+          "text": "A coffee blend combines coffees from different sources. It names the mixture rather than the act of grinding or a particular serving vessel."
+        }
+      ]
+    }
   },
   {
     "id": "on-the-road-2",
@@ -5144,118 +5156,124 @@
   },
   {
     "id": "a-cup-of-comfort-3",
-    "title": "A Cup of Comfort \u2014 No. 3",
+    "title": "A Warm Cup of Cocoa",
     "theme": "Food & Home",
-    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "subtheme": "Cocoa and Familiar Toppings",
+    "series": "a-cup-of-comfort",
+    "description": "Picture a warm cup of cocoa while solving clues about chocolate ingredients, mixing words, and familiar toppings.",
+    "cardDescription": "Chocolate ingredients, gentle mixing words, and sweet finishing touches.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 13,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "COFFEE",
-        "clue": "A drink brewed from roasted beans",
+        "answer": "MARSHMALLOW",
+        "clue": "Soft spongy sweet often floated on hot cocoa",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "KETTLE",
-        "clue": "A vessel used to boil water for tea",
-        "row": 4,
-        "col": 8,
+        "answer": "SHAVING",
+        "clue": "Thin sliver of chocolate used as a topping",
+        "row": 3,
+        "col": 6,
         "direction": "down",
         "number": 5
       },
       {
-        "answer": "STEAM",
-        "clue": "Water vapor rising from a hot drink",
+        "answer": "TOPPING",
+        "clue": "Something added to the surface of a finished drink",
         "row": 7,
-        "col": 7,
+        "col": 2,
         "direction": "across",
-        "number": 8
+        "number": 9
       },
       {
-        "answer": "LEMON",
-        "clue": "A yellow citrus fruit",
-        "row": 2,
-        "col": 4,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "SCONE",
-        "clue": "A small baked treat often served with tea",
-        "row": 3,
+        "answer": "STEAM",
+        "clue": "Water vapor rising from a hot cup",
+        "row": 1,
         "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FROTH",
+        "clue": "Layer of small bubbles on top of a drink",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WHISK",
+        "clue": "To mix a cocoa drink with a looped-wire utensil",
+        "row": 3,
+        "col": 3,
         "direction": "across",
         "number": 4
       },
       {
-        "answer": "TOAST",
-        "clue": "Bread browned with heat",
-        "row": 0,
+        "answer": "SWEET",
+        "clue": "Having a sugary rather than bitter taste",
+        "row": 1,
         "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "MILK",
+        "clue": "Dairy liquid often used as the base of hot cocoa",
+        "row": 0,
+        "col": 7,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "SUGAR",
-        "clue": "A sweetener for coffee or tea",
-        "row": 4,
+        "answer": "WARM",
+        "clue": "Comfortably heated rather than cold",
+        "row": 5,
         "col": 10,
         "direction": "down",
-        "number": 6
+        "number": 8
       },
       {
-        "answer": "HONEY",
-        "clue": "A sweet food made by bees",
+        "answer": "MUG",
+        "clue": "Handled drinking vessel used for a generous serving of cocoa",
         "row": 9,
-        "col": 5,
+        "col": 4,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "COCOA",
-        "clue": "A warm chocolate drink",
-        "row": 0,
-        "col": 2,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "CHAI",
-        "clue": "A spiced tea often served with milk",
-        "row": 8,
-        "col": 5,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "MILK",
-        "clue": "A drink often poured over cereal",
-        "row": 11,
-        "col": 4,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "CUP",
-        "clue": "A small drinking vessel with a handle",
-        "row": 0,
-        "col": 2,
-        "direction": "across",
-        "number": 2
-      },
-      {
         "answer": "SIP",
-        "clue": "Take a small drink",
-        "row": 4,
-        "col": 10,
+        "clue": "A small mouthful of a warm drink",
+        "row": 1,
+        "col": 6,
         "direction": "across",
-        "number": 6
+        "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues focus on ingredients, their forms, and actions associated with a cup of cocoa. Some answers describe the drink or its surface; others name a flavoring or a topping. The definitions supply vocabulary rather than a complete recipe.",
+      "solvingTip": "Look for a mixing action, a serving vessel, or a topping. A thin chocolate sliver differs from the bubbles on the drink's surface. Short action and serving words can help cross the longer topping names.",
+      "answerNotes": [
+        {
+          "answer": "MARSHMALLOW",
+          "text": "A marshmallow is a soft, spongy confection. The singular form names one sweet, even when several small ones float on a drink."
+        },
+        {
+          "answer": "SHAVING",
+          "text": "A shaving is a very thin sliver in this food context. The word describes a piece cut from chocolate rather than an action involving facial hair."
+        },
+        {
+          "answer": "FROTH",
+          "text": "Froth is a collection of small bubbles at a liquid's surface. It names the bubbly layer rather than a dry powder sprinkled over it."
+        }
+      ]
+    }
   },
   {
     "id": "on-the-road-3",
@@ -7518,118 +7536,124 @@
   },
   {
     "id": "a-cup-of-comfort-4",
-    "title": "A Cup of Comfort \u2014 No. 4",
+    "title": "At the Diner Counter",
     "theme": "Food & Home",
-    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "subtheme": "Coffee Service and Breakfast",
+    "series": "a-cup-of-comfort",
+    "description": "Step up to a familiar American diner for a crossword about counter seating, coffee service, and breakfast words.",
+    "cardDescription": "Diner seating, coffee refills, and familiar American breakfast words.",
     "difficulty": "Easy",
-    "rows": 13,
+    "revision": 2,
+    "rows": 10,
     "cols": 10,
     "entries": [
       {
-        "answer": "KETTLE",
-        "clue": "A vessel used to boil water for tea",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "STEAM",
-        "clue": "Water vapor rising from a hot drink",
+        "answer": "SERVER",
+        "clue": "Person who brings food and drinks to a table",
         "row": 4,
-        "col": 5,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "SUGAR",
-        "clue": "A sweetener for coffee or tea",
-        "row": 4,
-        "col": 5,
+        "col": 1,
         "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "LEMON",
-        "clue": "A yellow citrus fruit",
-        "row": 8,
-        "col": 3,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "CIDER",
-        "clue": "A drink made from pressed apples",
-        "row": 0,
-        "col": 9,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "HONEY",
-        "clue": "A sweet food made by bees",
-        "row": 6,
-        "col": 7,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "TOAST",
-        "clue": "Bread browned with heat",
-        "row": 2,
-        "col": 3,
-        "direction": "down",
         "number": 5
       },
       {
-        "answer": "BREW",
-        "clue": "To make coffee by passing water through grounds",
+        "answer": "REFILL",
+        "clue": "Another serving poured into a cup that has been emptied",
         "row": 4,
-        "col": 1,
+        "col": 6,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "TRAY",
-        "clue": "A flat object used to carry cups",
-        "row": 10,
-        "col": 4,
+        "answer": "HANDLE",
+        "clue": "Part of a coffee cup held between the fingers",
+        "row": 9,
+        "col": 2,
         "direction": "across",
-        "number": 11
+        "number": 10
       },
       {
-        "answer": "CHAI",
-        "clue": "A spiced tea often served with milk",
-        "row": 1,
+        "answer": "WAFFLE",
+        "clue": "Breakfast cake baked in an iron with a grid pattern",
+        "row": 6,
+        "col": 4,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "STOOL",
+        "clue": "Tall seat commonly placed at a diner counter",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "DINER",
+        "clue": "Casual restaurant known for counter service and familiar comfort food",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SYRUP",
+        "clue": "Sweet pourable topping served with waffles",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "HASH",
+        "clue": "Breakfast dish of chopped potatoes, often with meat",
+        "row": 2,
         "col": 6,
         "direction": "across",
         "number": 3
       },
       {
-        "answer": "POT",
-        "clue": "A coffee ___ holds several cups",
-        "row": 2,
-        "col": 1,
-        "direction": "across",
-        "number": 4
+        "answer": "EGG",
+        "clue": "Food served scrambled, fried, or poached at breakfast",
+        "row": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 8
       },
       {
-        "answer": "TEA",
-        "clue": "A drink made from steeped leaves",
-        "row": 10,
-        "col": 4,
-        "direction": "down",
-        "number": 11
+        "answer": "TIP",
+        "clue": "Payment left in addition to the bill for service",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 2
       },
       {
         "answer": "CUP",
-        "clue": "A small drinking vessel with a handle",
-        "row": 0,
-        "col": 1,
-        "direction": "down",
-        "number": 1
+        "clue": "Small handled vessel set out for diner coffee",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at the setting around a cup of diner coffee. Clues name places to sit, service words, and familiar breakfast items. American restaurant usage supplies the intended meaning for words that also occur in other settings.",
+      "solvingTip": "Look for whether the clue asks for seating, something on the table, a service word, or a food. An extra serving of coffee and an extra payment for service have different names. Short table and breakfast words can help cross longer diner terms.",
+      "answerNotes": [
+        {
+          "answer": "REFILL",
+          "text": "A refill is another serving added to a cup after the first has been drunk. The word combines re-, meaning again, with fill."
+        },
+        {
+          "answer": "WAFFLE",
+          "text": "A waffle gets its grid pattern from the cooking iron. The clue identifies the food rather than the verb meaning to hesitate."
+        },
+        {
+          "answer": "TIP",
+          "text": "A tip is an additional payment for service in this setting. It is distinct from the meal's listed charges on the check."
+        }
+      ]
+    }
   },
   {
     "id": "on-the-road-4",
@@ -9876,118 +9900,124 @@
   },
   {
     "id": "a-cup-of-comfort-5",
-    "title": "A Cup of Comfort \u2014 No. 5",
+    "title": "Lemonade on the Porch",
     "theme": "Food & Home",
-    "description": "Put the kettle on. Settle in with familiar words from around the kitchen.",
+    "subtheme": "Citrus and Iced Drinks",
+    "series": "a-cup-of-comfort",
+    "description": "Enjoy a porch-side crossword about citrus fruits, garnishes, and everyday words for serving lemonade.",
+    "cardDescription": "Citrus parts, garnishes, and simple pouring words.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 12,
+    "revision": 2,
+    "rows": 9,
+    "cols": 9,
     "entries": [
       {
-        "answer": "KETTLE",
-        "clue": "A vessel used to boil water for tea",
-        "row": 5,
-        "col": 2,
+        "answer": "LEMONADE",
+        "clue": "Drink made with lemon juice, water, and sweetener",
+        "row": 4,
+        "col": 1,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "HANDLE",
-        "clue": "The part of a mug you hold",
+        "answer": "WEDGE",
+        "clue": "Thick pointed segment cut from a lemon",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "LEMON",
+        "clue": "Yellow citrus fruit used to make a familiar tart summer drink",
         "row": 0,
-        "col": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SLICE",
+        "clue": "Thin flat round piece cut across a citrus fruit",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "JUICE",
+        "clue": "Liquid squeezed from a citrus fruit",
+        "row": 0,
+        "col": 2,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "COFFEE",
-        "clue": "A drink brewed from roasted beans",
-        "row": 0,
-        "col": 7,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "LEMON",
-        "clue": "A yellow citrus fruit",
-        "row": 5,
-        "col": 6,
+        "answer": "MINT",
+        "clue": "Aromatic herb sometimes used as a lemonade garnish",
+        "row": 4,
+        "col": 3,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "SUGAR",
-        "clue": "A sweetener for coffee or tea",
+        "answer": "POUR",
+        "clue": "To transfer lemonade in a stream from a serving container",
         "row": 1,
         "col": 0,
         "direction": "across",
-        "number": 3
+        "number": 4
       },
       {
-        "answer": "SPOON",
-        "clue": "Utensil used to stir a cup",
-        "row": 1,
-        "col": 0,
+        "answer": "LIME",
+        "clue": "Small citrus fruit often green-skinned and paired with lemon",
+        "row": 4,
+        "col": 1,
         "direction": "down",
-        "number": 3
+        "number": 6
       },
       {
-        "answer": "CIDER",
-        "clue": "A drink made from pressed apples",
-        "row": 0,
-        "col": 7,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "HONEY",
-        "clue": "A sweet food made by bees",
-        "row": 8,
-        "col": 5,
+        "answer": "ZEST",
+        "clue": "Colored outermost citrus skin grated for its flavor",
+        "row": 7,
+        "col": 0,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "STEAM",
-        "clue": "Water vapor rising from a hot drink",
+        "answer": "ICED",
+        "clue": "Served with frozen-water pieces, as a summer drink",
         "row": 6,
-        "col": 8,
-        "direction": "down",
+        "col": 5,
+        "direction": "across",
         "number": 8
       },
       {
-        "answer": "MINT",
-        "clue": "An aromatic herb used in herbal tea",
-        "row": 2,
+        "answer": "ICE",
+        "clue": "Frozen water added to a cold drink",
+        "row": 6,
         "col": 5,
         "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "MILK",
-        "clue": "A drink often poured over cereal",
-        "row": 10,
-        "col": 8,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "SIP",
-        "clue": "Take a small drink",
-        "row": 6,
-        "col": 8,
-        "direction": "across",
         "number": 8
-      },
-      {
-        "answer": "CUP",
-        "clue": "A small drinking vessel with a handle",
-        "row": 4,
-        "col": 10,
-        "direction": "down",
-        "number": 5
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues describe citrus parts and words associated with serving a cold drink. Some answers name a piece of fruit or a garnish, while others describe an action or a quality. Familiar meanings guide the solving without requiring recipe measurements.",
+      "solvingTip": "Decide whether the clue asks for a fruit part, a shape, or an action. A thin round piece and a thicker pointed segment have different names. Short serving words can help with longer drink terms.",
+      "answerNotes": [
+        {
+          "answer": "WEDGE",
+          "text": "A wedge is a pointed segment rather than a thin round slice. The clue asks for the shape of the cut piece."
+        },
+        {
+          "answer": "SLICE",
+          "text": "Slice is a noun here for a thin flat piece. The word can also be a verb for cutting such pieces, so the clue asks for the object rather than the action."
+        },
+        {
+          "answer": "MINT",
+          "text": "Mint is an aromatic herb here. The same word can name a place that makes coins, but the garnish setting selects the plant meaning."
+        }
+      ]
+    }
   },
   {
     "id": "on-the-road-5",

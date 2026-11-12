@@ -148,3 +148,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 32 Playwright tests passed, including all fifty-five reader-note sections and archive routes, original/current saved-progress isolation for all eleven edited families, and discovery using the original pet series name.
 - All five updated print sheets exported as single US Letter pages in Chromium. Static output totals 364 HTML pages; the canonical sitemap remains at 108 URLs.
 - These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
+
+## Drinks editorial batch — 2026-11-12
+
+- Changed only the five current a-cup-of-comfort editions. All other 95 current puzzle objects, including the fifty-five previously edited editions, remain unchanged.
+- Subjects: A Pot of Tea, Morning Coffee Words, A Warm Cup of Cocoa, At the Diner Counter, and Lemonade on the Porch. Each has eleven clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Reviewed the selected definitions and aligned guidance to actual teaware, coffee vocabulary, cocoa toppings, diner service and citrus parts. Clarified vessel functions, word forms, American restaurant usage and citrus-cut shapes. Lemonade notes were visually inspected. No recipe timings, dietary recommendations or current restaurant policies are asserted.
+- Drinks series: 65 entries / 22 distinct answer-clue pairs before; 55 entries / 55 distinct pairs after. Collection totals are 100 current puzzles, 1,185 entries, 859 distinct answer-clue pairs, 68 introductions, and 60 edited editions. Forty current puzzles remain in the editorial queue.
+- The five original drink objects match the previous release exactly. Full regeneration reproduced all 100 current puzzles byte-for-byte and preserved all sixty archived layouts. Existing series seeds and results were retained.
+- Build, content/SEO audits, TypeScript and 33 Playwright tests passed, including all sixty reader-note sections and archive routes, original/current saved-progress isolation for all twelve edited families, and discovery using the original drinks series name.
+- All five updated print sheets exported as single US Letter pages in Chromium. Static output totals 369 HTML pages; the canonical sitemap remains at 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.

@@ -116,5 +116,16 @@
     "attempts": 8000,
     "gridSize": 11,
     "minEntries": 10
+  },
+  {
+    "id": "a-cup-of-comfort",
+    "name": "Drinks",
+    "theme": "Food & Home",
+    "source": "drinks-editorial.json",
+    "archive": "drinks-originals.json",
+    "seed": 6210000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
   }
 ]

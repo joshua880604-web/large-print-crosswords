@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1195 clue entries.
-- 684 distinct answers; 826 distinct answer/clue pairs.
-- 64 different introductions; 36 numbered titles remain.
-- 55 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1185 clue entries.
+- 708 distinct answers; 859 distinct answer/clue pairs.
+- 68 different introductions; 32 numbered titles remain.
+- 60 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -119,18 +119,28 @@ Current subjects: Parts of a Flowering Plant, At the Flower Shop, Cottage Garden
 
 Current subjects: Out for a Dog Walk, Around the Cat Basket, Small Pets and Their Homes, Feathered Pet Friends, Life in a Fish Tank.
 
-The 55 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Drinks: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 65 | 55 |
+| Distinct answer/clue pairs | 22 | 55 |
+| Different introductions | 1 | 5 |
+
+Current subjects: A Pot of Tea, Morning Coffee Words, A Warm Cup of Cocoa, At the Diner Counter, Lemonade on the Porch.
+
+The 60 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-45 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+40 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
 | garden-days | 58 | 58 | 5 | 0 |
 | sunday-baking | 56 | 56 | 5 | 0 |
 | backyard-birds | 55 | 55 | 5 | 0 |
-| a-cup-of-comfort | 65 | 22 | 1 | 4 |
+| a-cup-of-comfort | 55 | 55 | 5 | 0 |
 | on-the-road | 57 | 57 | 5 | 0 |
 | movie-night | 65 | 22 | 1 | 4 |
 | music-memories | 57 | 57 | 5 | 0 |

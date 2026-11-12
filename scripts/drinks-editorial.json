@@ -1,0 +1,510 @@
+[
+  {
+    "id": "a-cup-of-comfort",
+    "title": "A Pot of Tea",
+    "subtheme": "Tea Leaves and Teaware",
+    "cardDescription": "Tea types, pot parts, and familiar words for brewing a cup.",
+    "description": "Settle in with a tea-themed crossword about familiar teaware, the leaves inside a cup, and the words used to describe brewing.",
+    "focus": "The clues cover tea, its containers, and the small accessories used in making it. Some words name a whole vessel, while others name a part or a small item. Direct definitions point to each item's everyday use.",
+    "solvingTip": "Check whether the clue asks for a tea type, a whole container, a part, or an accessory. The vessel that heats water and the one used to brew and serve tea have different names. Short accessory words can help cross longer teaware terms.",
+    "words": [
+      [
+        "TEA",
+        "Drink made by infusing the leaves of Camellia sinensis"
+      ],
+      [
+        "LEAF",
+        "One piece of the plant material traditionally used to brew tea"
+      ],
+      [
+        "TEAPOT",
+        "Vessel with a spout used to brew and serve tea"
+      ],
+      [
+        "KETTLE",
+        "Vessel used to heat water before making tea"
+      ],
+      [
+        "STEEP",
+        "To leave tea leaves in water so their flavor is drawn out"
+      ],
+      [
+        "INFUSE",
+        "To draw flavor into water from leaves or other plant material"
+      ],
+      [
+        "STRAINER",
+        "Mesh utensil that catches loose leaves when tea is poured"
+      ],
+      [
+        "CUP",
+        "Small handled vessel often set on a saucer for tea"
+      ],
+      [
+        "SAUCER",
+        "Small dish placed beneath a teacup"
+      ],
+      [
+        "SPOUT",
+        "Projecting part of a teapot from which the drink is poured"
+      ],
+      [
+        "LID",
+        "Removable cover on top of a teapot"
+      ],
+      [
+        "HANDLE",
+        "Part of a teapot held when lifting or pouring"
+      ],
+      [
+        "BAG",
+        "Small porous pouch holding tea leaves"
+      ],
+      [
+        "STRING",
+        "Thin cord attached to some tea pouches"
+      ],
+      [
+        "TAG",
+        "Small paper label at the end of a tea pouch's cord"
+      ],
+      [
+        "LOOSE",
+        "Describing tea leaves sold without individual pouches"
+      ],
+      [
+        "BLACK",
+        "Tea type including Assam and many breakfast blends"
+      ],
+      [
+        "GREEN",
+        "Tea type made from leaves heated to limit oxidation"
+      ],
+      [
+        "OOLONG",
+        "Tea type with leaves partly oxidized during processing"
+      ],
+      [
+        "DARJEELING",
+        "Tea named for a growing region in northeastern India"
+      ]
+    ],
+    "answerNotes": {
+      "TEAPOT": "A teapot is used for brewing and serving tea. Its spout is the pouring part, while a saucer is a separate dish beneath a cup.",
+      "KETTLE": "A kettle heats the water before tea is made. It may be heated on a stove or have an electric heating element; the clue names the vessel's job.",
+      "STEEP": "Steep is a brewing verb here: leave plant material in water to draw out flavor. It does not describe the slope of a hill.",
+      "INFUSE": "Infuse describes drawing flavor from material into a liquid. In this setting it is a brewing action rather than a particular tea variety.",
+      "STRAINER": "A tea strainer catches loose leaves while the liquid passes through. It names the utensil, not the leaves or the pot.",
+      "SAUCER": "A saucer is the small dish beneath a cup. It differs from the cup that actually holds the drink.",
+      "SPOUT": "The spout is the projecting pouring part. The handle is where the vessel is held, so the two parts serve different purposes.",
+      "OOLONG": "Oolong tea is partially oxidized during processing. The degree varies, so it is a tea category rather than one fixed flavor.",
+      "DARJEELING": "Darjeeling is a place name used for tea from that growing region of India. The clue asks for the regional name rather than one piece of teaware."
+    }
+  },
+  {
+    "id": "a-cup-of-comfort-2",
+    "title": "Morning Coffee Words",
+    "subtheme": "Coffee Beans and Brewing",
+    "cardDescription": "Coffee preparation, aroma, and familiar additions to a morning mug.",
+    "description": "Wake up a few familiar words with a crossword about coffee beans, brewing, and the everyday language of a morning mug.",
+    "focus": "This puzzle follows coffee from the bean to the cup. Some clues ask for a material or a tool, while others describe preparation, aroma, or something added at the table. Familiar coffee words have more specific meanings in this setting.",
+    "solvingTip": "Look for the difference between a whole bean, the material after grinding, and the finished drink. A word may describe an action or something the drink contains. Short preparation and serving words can help with longer coffee terms.",
+    "words": [
+      [
+        "COFFEE",
+        "Drink brewed from roasted and ground seeds commonly called beans"
+      ],
+      [
+        "BEAN",
+        "Common name for one coffee seed before grinding"
+      ],
+      [
+        "ROAST",
+        "To heat coffee beans to develop their color and flavor"
+      ],
+      [
+        "GRIND",
+        "To reduce coffee beans to small particles"
+      ],
+      [
+        "GROUNDS",
+        "Crushed coffee particles left in a filter after brewing"
+      ],
+      [
+        "FILTER",
+        "Porous paper or mesh that holds coffee particles while liquid passes through"
+      ],
+      [
+        "DRIP",
+        "Coffee-brewing method in which water passes through grounds into a pot"
+      ],
+      [
+        "BREW",
+        "To make coffee by drawing flavor into water"
+      ],
+      [
+        "POT",
+        "Container holding several servings of brewed coffee"
+      ],
+      [
+        "MUG",
+        "Large handled drinking vessel often used for coffee"
+      ],
+      [
+        "AROMA",
+        "Noticeable smell rising from freshly brewed coffee"
+      ],
+      [
+        "DECAF",
+        "Short name for coffee with much of its caffeine removed"
+      ],
+      [
+        "CAFFEINE",
+        "Naturally occurring stimulant found in regular coffee"
+      ],
+      [
+        "CREAM",
+        "Rich dairy liquid sometimes poured into coffee"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystals sometimes stirred into a morning coffee"
+      ],
+      [
+        "SPOON",
+        "Small utensil used to stir additions into a cup"
+      ],
+      [
+        "PERK",
+        "To bubble and brew in a percolator"
+      ],
+      [
+        "SIP",
+        "To drink a small mouthful of coffee"
+      ],
+      [
+        "STRONG",
+        "Describing coffee with a pronounced rather than mild flavor"
+      ],
+      [
+        "BLEND",
+        "Mixture of coffees from different sources"
+      ]
+    ],
+    "answerNotes": {
+      "BEAN": "Coffee beans are botanically seeds. Bean is the familiar everyday name used in buying and preparing coffee.",
+      "ROAST": "Roast means heat the beans to develop flavor and color. Grinding is a different step that makes the beans into smaller particles.",
+      "GROUNDS": "Grounds is a plural noun for the crushed coffee material. In this clue it refers to what remains in the filter, not an area of land.",
+      "FILTER": "A coffee filter lets liquid through while holding back particles. The word identifies the separating material rather than the finished beverage.",
+      "DECAF": "Decaf is short for decaffeinated. Much of the caffeine has been removed, but the word does not necessarily mean completely caffeine-free.",
+      "CAFFEINE": "Caffeine is naturally present in regular coffee. The clue identifies the substance without prescribing an amount to consume.",
+      "PERK": "Perk is an informal coffee-brewing verb associated with a percolator. It can also mean become more cheerful or name an extra benefit in another setting.",
+      "BLEND": "A coffee blend combines coffees from different sources. It names the mixture rather than the act of grinding or a particular serving vessel."
+    }
+  },
+  {
+    "id": "a-cup-of-comfort-3",
+    "title": "A Warm Cup of Cocoa",
+    "subtheme": "Cocoa and Familiar Toppings",
+    "cardDescription": "Chocolate ingredients, gentle mixing words, and sweet finishing touches.",
+    "description": "Picture a warm cup of cocoa while solving clues about chocolate ingredients, mixing words, and familiar toppings.",
+    "focus": "The clues focus on ingredients, their forms, and actions associated with a cup of cocoa. Some answers describe the drink or its surface; others name a flavoring or a topping. The definitions supply vocabulary rather than a complete recipe.",
+    "solvingTip": "Look for a mixing action, a serving vessel, or a topping. A thin chocolate sliver differs from the bubbles on the drink's surface. Short action and serving words can help cross the longer topping names.",
+    "words": [
+      [
+        "COCOA",
+        "Powder made from cacao solids and used to flavor hot chocolate"
+      ],
+      [
+        "CHOCOLATE",
+        "Cacao-based food melted or mixed into a rich sweet drink"
+      ],
+      [
+        "MILK",
+        "Dairy liquid often used as the base of hot cocoa"
+      ],
+      [
+        "POWDER",
+        "Fine dry form in which cocoa is commonly sold"
+      ],
+      [
+        "WHISK",
+        "To mix a cocoa drink with a looped-wire utensil"
+      ],
+      [
+        "STIR",
+        "To move a spoon around a warm drink to combine its ingredients"
+      ],
+      [
+        "STEAM",
+        "Water vapor rising from a hot cup"
+      ],
+      [
+        "FROTH",
+        "Layer of small bubbles on top of a drink"
+      ],
+      [
+        "MARSHMALLOW",
+        "Soft spongy sweet often floated on hot cocoa"
+      ],
+      [
+        "CINNAMON",
+        "Bark spice sometimes dusted over a chocolate drink"
+      ],
+      [
+        "VANILLA",
+        "Flavoring from cured orchid pods, sometimes added to cocoa"
+      ],
+      [
+        "NUTMEG",
+        "Seed spice that may be grated over a warm drink"
+      ],
+      [
+        "SWEET",
+        "Having a sugary rather than bitter taste"
+      ],
+      [
+        "SIP",
+        "A small mouthful of a warm drink"
+      ],
+      [
+        "MUG",
+        "Handled drinking vessel used for a generous serving of cocoa"
+      ],
+      [
+        "WARM",
+        "Comfortably heated rather than cold"
+      ],
+      [
+        "MELT",
+        "To change solid chocolate into liquid with heat"
+      ],
+      [
+        "SHAVING",
+        "Thin sliver of chocolate used as a topping"
+      ],
+      [
+        "CURL",
+        "Curved chocolate decoration shaved from a larger piece"
+      ],
+      [
+        "TOPPING",
+        "Something added to the surface of a finished drink"
+      ]
+    ],
+    "answerNotes": {
+      "COCOA": "Cocoa powder is made from cacao solids after much of the cocoa butter has been removed. It differs from a prepared sweetened drink mix that may contain other ingredients.",
+      "FROTH": "Froth is a collection of small bubbles at a liquid's surface. It names the bubbly layer rather than a dry powder sprinkled over it.",
+      "MARSHMALLOW": "A marshmallow is a soft, spongy confection. The singular form names one sweet, even when several small ones float on a drink.",
+      "CINNAMON": "Cinnamon is a bark spice. Nutmeg comes from a seed, giving a different source for another familiar warm-drink flavor.",
+      "VANILLA": "Vanilla traditionally comes from cured orchid pods. The clue uses that source to identify the flavoring.",
+      "NUTMEG": "Nutmeg is a seed used as a spice and often grated. The clue asks for the spice name rather than a whole nut eaten as a snack.",
+      "MELT": "Melt describes changing a solid into liquid with heat. Stirring moves the mixture around and is a different action.",
+      "SHAVING": "A shaving is a very thin sliver in this food context. The word describes a piece cut from chocolate rather than an action involving facial hair.",
+      "CURL": "Curl names a curved decoration here. Its shape distinguishes it from fine powder or a flat piece of chocolate."
+    }
+  },
+  {
+    "id": "a-cup-of-comfort-4",
+    "title": "At the Diner Counter",
+    "subtheme": "Coffee Service and Breakfast",
+    "cardDescription": "Diner seating, coffee refills, and familiar American breakfast words.",
+    "description": "Step up to a familiar American diner for a crossword about counter seating, coffee service, and breakfast words.",
+    "focus": "This puzzle looks at the setting around a cup of diner coffee. Clues name places to sit, service words, and familiar breakfast items. American restaurant usage supplies the intended meaning for words that also occur in other settings.",
+    "solvingTip": "Look for whether the clue asks for seating, something on the table, a service word, or a food. An extra serving of coffee and an extra payment for service have different names. Short table and breakfast words can help cross longer diner terms.",
+    "words": [
+      [
+        "DINER",
+        "Casual restaurant known for counter service and familiar comfort food"
+      ],
+      [
+        "COUNTER",
+        "Long serving surface with seats facing it in a diner"
+      ],
+      [
+        "STOOL",
+        "Tall seat commonly placed at a diner counter"
+      ],
+      [
+        "BOOTH",
+        "Restaurant seating area with fixed benches around a table"
+      ],
+      [
+        "MENU",
+        "List of dishes and drinks offered by a restaurant"
+      ],
+      [
+        "SERVER",
+        "Person who brings food and drinks to a table"
+      ],
+      [
+        "CHECK",
+        "American restaurant word for the bill presented after a meal"
+      ],
+      [
+        "TIP",
+        "Payment left in addition to the bill for service"
+      ],
+      [
+        "REFILL",
+        "Another serving poured into a cup that has been emptied"
+      ],
+      [
+        "CARAFE",
+        "Serving vessel used to pour coffee at a table"
+      ],
+      [
+        "CUP",
+        "Small handled vessel set out for diner coffee"
+      ],
+      [
+        "HANDLE",
+        "Part of a coffee cup held between the fingers"
+      ],
+      [
+        "NAPKIN",
+        "Cloth or paper square used at a meal"
+      ],
+      [
+        "PLATE",
+        "Flat dish holding a diner breakfast"
+      ],
+      [
+        "TOAST",
+        "Sliced bread browned for a breakfast order"
+      ],
+      [
+        "EGG",
+        "Food served scrambled, fried, or poached at breakfast"
+      ],
+      [
+        "HASH",
+        "Breakfast dish of chopped potatoes, often with meat"
+      ],
+      [
+        "OMELET",
+        "Egg dish folded around a filling"
+      ],
+      [
+        "SYRUP",
+        "Sweet pourable topping served with waffles"
+      ],
+      [
+        "WAFFLE",
+        "Breakfast cake baked in an iron with a grid pattern"
+      ]
+    ],
+    "answerNotes": {
+      "COUNTER": "A diner counter is the long serving surface faced by seated customers. The clue uses a restaurant fixture, not a device that counts things.",
+      "BOOTH": "A restaurant booth has fixed bench seating around a table. It differs from a stool placed along an open counter.",
+      "CHECK": "Check is a common American restaurant word for the bill. The clue asks for that service use rather than an inspection or a bank payment.",
+      "TIP": "A tip is an additional payment for service in this setting. It is distinct from the meal's listed charges on the check.",
+      "REFILL": "A refill is another serving added to a cup after the first has been drunk. The word combines re-, meaning again, with fill.",
+      "CARAFE": "A carafe is a serving vessel for pouring a drink. It names the container rather than the cup from which a guest drinks.",
+      "OMELET": "Omelet is a common American spelling for the folded egg dish. Omelette is another accepted spelling, so the crossing letters matter.",
+      "WAFFLE": "A waffle gets its grid pattern from the cooking iron. The clue identifies the food rather than the verb meaning to hesitate."
+    }
+  },
+  {
+    "id": "a-cup-of-comfort-5",
+    "title": "Lemonade on the Porch",
+    "subtheme": "Citrus and Iced Drinks",
+    "cardDescription": "Citrus parts, garnishes, and simple pouring words.",
+    "description": "Enjoy a porch-side crossword about citrus fruits, garnishes, and everyday words for serving lemonade.",
+    "focus": "The clues describe citrus parts and words associated with serving a cold drink. Some answers name a piece of fruit or a garnish, while others describe an action or a quality. Familiar meanings guide the solving without requiring recipe measurements.",
+    "solvingTip": "Decide whether the clue asks for a fruit part, a shape, or an action. A thin round piece and a thicker pointed segment have different names. Short serving words can help with longer drink terms.",
+    "words": [
+      [
+        "PITCHER",
+        "Wide-mouthed serving container with a handle and pouring spout"
+      ],
+      [
+        "GLASS",
+        "Drinking vessel used for a serving of lemonade"
+      ],
+      [
+        "ICE",
+        "Frozen water added to a cold drink"
+      ],
+      [
+        "CUBE",
+        "Small block shape in which frozen water is often served"
+      ],
+      [
+        "LEMON",
+        "Yellow citrus fruit used to make a familiar tart summer drink"
+      ],
+      [
+        "LIME",
+        "Small citrus fruit often green-skinned and paired with lemon"
+      ],
+      [
+        "SLICE",
+        "Thin flat round piece cut across a citrus fruit"
+      ],
+      [
+        "WEDGE",
+        "Thick pointed segment cut from a lemon"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from a citrus fruit"
+      ],
+      [
+        "PEEL",
+        "Outer skin removed from a lemon"
+      ],
+      [
+        "RIND",
+        "Thick outer covering of a citrus fruit"
+      ],
+      [
+        "ZEST",
+        "Colored outermost citrus skin grated for its flavor"
+      ],
+      [
+        "MINT",
+        "Aromatic herb sometimes used as a lemonade garnish"
+      ],
+      [
+        "STRAW",
+        "Narrow tube used to sip a cold drink"
+      ],
+      [
+        "CHILL",
+        "To cool a drink before serving"
+      ],
+      [
+        "POUR",
+        "To transfer lemonade in a stream from a serving container"
+      ],
+      [
+        "LEMONADE",
+        "Drink made with lemon juice, water, and sweetener"
+      ],
+      [
+        "ICED",
+        "Served with frozen-water pieces, as a summer drink"
+      ],
+      [
+        "TART",
+        "Having a sharp sour taste like unsweetened lemon juice"
+      ],
+      [
+        "SWEET",
+        "Having a sugary taste in a finished citrus drink"
+      ]
+    ],
+    "answerNotes": {
+      "PITCHER": "Pitcher is the familiar American serving-container word in this clue. It also names a baseball player, but the spout and handle identify the household meaning.",
+      "CUBE": "Cube names the small block shape here. It is a shape word rather than the material, which is ice.",
+      "SLICE": "Slice is a noun here for a thin flat piece. The word can also be a verb for cutting such pieces, so the clue asks for the object rather than the action.",
+      "WEDGE": "A wedge is a pointed segment rather than a thin round slice. The clue asks for the shape of the cut piece.",
+      "RIND": "Rind is an outer fruit covering. Zest refers more specifically to the colored outermost part of citrus skin used for flavor.",
+      "ZEST": "Zest names the colored outermost citrus skin in this food context. The pale layer beneath it is called pith.",
+      "MINT": "Mint is an aromatic herb here. The same word can name a place that makes coins, but the garnish setting selects the plant meaning.",
+      "STRAW": "Straw is the hollow drinking tube in this clue. It does not refer to dried grain stalks used as bedding.",
+      "TART": "Tart is an adjective describing a sharp sour taste here. The same spelling can also name a small pastry, which is a different meaning."
+    }
+  }
+]
