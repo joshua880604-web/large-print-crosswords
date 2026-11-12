@@ -17,3 +17,13 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - 16 Playwright tests passed, including QWERTY input, deletion, next-word selection, hint feedback, saved answers and keyboard preference, physical input while the panel is active, roving focus, Escape/hide/reopen, and complete on-screen solving.
 - Touch emulation checked automatic first-interaction opening, active-square visibility above the dock, whole-board visibility when space permits, native-keyboard switching, and a 320px viewport. The keyboard is excluded from print output.
 - An automated Axe scan passed with the keyboard visible. Phone-size screenshots were inspected; this does not replace testing the native keyboard on actual iOS and Android devices.
+
+## Search launch update — 2026-11-12
+
+- Full production build and post-build SEO audit passed across 309 HTML files: 108 unique indexable canonical URLs, including all 100 game pages; 200 print copies and the 404 page are noindex.
+- All indexable titles and descriptions are unique. Canonical and share URLs use the production HTTPS origin. Every root-relative link/asset target resolves to generated output.
+- WebSite/WebPage JSON-LD parses and matches the document metadata; puzzle breadcrumb data matches visible navigation. This does not establish eligibility for any special Google result.
+- Committed local Open Graph/Twitter preview image verified at 1200 × 630; image appearance inspected.
+- TypeScript checks and 18 Playwright tests passed, including query-string canonical handling, escaped text consistency, image serving, print noindex, and the actual 404 response, plus gameplay/accessibility regressions.
+- User reports Search Console ownership verified, with sitemap submission still pending. No Google account action or indexing request was performed by the agent.
+- Live-domain HTTP/TLS/redirect verification remains blocked by the current environment's unchanged outbound allowlist. All automated results above refer to the generated build or its local preview, not an externally verified deployment.

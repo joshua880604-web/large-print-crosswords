@@ -19,10 +19,11 @@ npm run build
 npm run preview -- --port 4321
 npm test
 npm run typecheck
+npm run audit:seo
 npm run test:e2e
 ```
 
-`dist/` is the complete deployable website. `npm run build` validates the puzzle collection before rendering. Astro telemetry is disabled in the scripts to avoid writing to the managed environment's protected home directory.
+`dist/` is the complete deployable website. `npm run build` validates the puzzle collection before rendering and audits all generated HTML afterward. The SEO audit checks unique indexable titles/descriptions, canonical URLs, sitemap coverage, noindex utility pages, structured data, internal links, and the social preview dimensions. Astro telemetry is disabled in the scripts to avoid writing to the managed environment's protected home directory.
 
 ## Collection and content
 
@@ -60,3 +61,11 @@ Local storage keys use `lpc:v1:<puzzle-id>`, `lpc:sound`, `lpc:large`, and `lpc:
 The user has connected Cloudflare Pages to this GitHub repository and configured the custom domain. Pushing to `main` triggers the configured build and deployment; a successful push does not prove the Cloudflare build has completed. This coding environment has no Cloudflare account credentials, and live-site checks may require permitting the domain in its outbound network settings. No analytics or advertising are included.
 
 Each cloud task is already isolated: use this checkout directly; do not create a Git worktree unless the user asks for one.
+
+## Search metadata and sharing
+
+Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 108 canonical HTTPS URLs, including all 100 playable puzzles.
+
+`public/social-card.png` is a committed 1200 × 630 share image. It is served locally and referenced by Open Graph and Twitter Card metadata. To regenerate it, run `npm run social:generate` with a supported local Chromium installation; image generation is not part of the Cloudflare build.
+
+See `docs/search-console.md` for the user's verified-property sitemap submission and launch checks. No Google account actions or indexing requests have been performed by this code.

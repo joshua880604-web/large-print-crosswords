@@ -8,3 +8,4 @@
 .board-scroll{width:100%;overflow-x:auto;overscroll-behavior-x:contain;padding-bottom:3px}.large-board .crossword-board{min-width:640px}.large-board .cell input{font-size:30px}.large-board .cell-number{font-size:11px}.board-panel{min-width:0}
 
 @media(max-width:700px){.hero-art{overflow:hidden}}
+nav.breadcrumb{display:block;line-height:1.8}nav.breadcrumb a{padding:0}nav.breadcrumb>span[aria-hidden]{padding-inline:5px}
