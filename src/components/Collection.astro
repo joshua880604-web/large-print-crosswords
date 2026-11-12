@@ -1,0 +1,22 @@
+---
+import puzzles from '../data/puzzles.json';import PuzzleCard from './PuzzleCard.astro';
+const themes=[...new Set(puzzles.map(p=>p.theme))];
+---
+<div class="collection-tools"><label>Find a puzzle<input class="search-input" type="search" placeholder="Search titles or themes" id="puzzle-search"/></label><label>Choose a theme<select id="theme-select"><option value="">All themes</option>{themes.map(t=><option value={t}>{t}</option>)}</select></label><p class="result-count" role="status">{puzzles.length} puzzles to enjoy</p></div><div class="collection-grid"><div class="puzzle-cards">{puzzles.map((p,i)=><div data-title={`${p.title} ${p.theme}`.toLowerCase()} data-theme={p.theme}><PuzzleCard puzzle={p} index={i}/></div>)}</div><button class="button button-outline" id="load-more" hidden style="margin-top:30px">Show more puzzles</button><p class="empty-state" hidden>No puzzles match just yet. Try another word or choose all themes.</p></div>
+<script>
+const search=document.querySelector<HTMLInputElement>('#puzzle-search')!;
+const select=document.querySelector<HTMLSelectElement>('#theme-select')!;
+const cards=Array.from(document.querySelectorAll<HTMLElement>('[data-title]'));
+const more=document.querySelector<HTMLButtonElement>('#load-more')!;
+let limit=12;
+function filter(reset=true){
+ if(reset)limit=12;
+ const matching=cards.filter(card=>card.dataset.title!.includes(search.value.toLowerCase().trim())&&(!select.value||card.dataset.theme===select.value));
+ const visible=new Set(matching.slice(0,limit));cards.forEach(card=>card.hidden=!visible.has(card));
+ document.querySelector('.result-count')!.textContent=`Showing ${visible.size} of ${matching.length} ${matching.length===1?'puzzle':'puzzles'}`;
+ document.querySelector<HTMLElement>('.empty-state')!.hidden=matching.length!==0;
+ more.hidden=visible.size===matching.length;
+}
+search.addEventListener('input',()=>filter());select.addEventListener('change',()=>filter());
+more.addEventListener('click',()=>{const before=cards.filter(c=>!c.hidden).length;limit+=12;filter(false);const added=cards.filter(c=>!c.hidden)[before]?.querySelector<HTMLAnchorElement>('a');added?.focus();});filter();
+</script>

@@ -1,0 +1,18 @@
+---
+const {puzzle}=Astro.props;
+const cells=new Map();
+for(const e of puzzle.entries)for(let i=0;i<e.answer.length;i++){const r=e.row+(e.direction==='down'?i:0),c=e.col+(e.direction==='across'?i:0),key=`${r},${c}`; const prev=cells.get(key); cells.set(key,{letter:e.answer[i],number:i===0?e.number:prev?.number});}
+---
+<div class="game-root" data-puzzle={JSON.stringify(puzzle)}>
+<div class="game-layout"><section class="board-panel" aria-label="Crossword puzzle"><div class="current-clue" aria-live="polite" aria-atomic="true"><strong data-current-number></strong><span data-current-text>Select a clue to begin.</span></div>
+<div class="board-scroll" tabindex="-1"><div class="crossword-board" style={`--cols:${puzzle.cols}`} role="group" aria-label={`${puzzle.title} crossword, ${puzzle.rows} rows by ${puzzle.cols} columns. Use arrow keys to move.`}>{Array.from({length:puzzle.rows*puzzle.cols},(_,i)=>{const r=Math.floor(i/puzzle.cols),c=i%puzzle.cols,cell=cells.get(`${r},${c}`);return <div class:list={['cell',{block:!cell}]} data-cell={`${r},${c}`}>{cell&&<>{cell.number&&<span class="cell-number" aria-hidden="true">{cell.number}</span>}<input type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" aria-label={`Row ${r+1}, column ${c+1}${cell.number?`, clue ${cell.number}`:''}, blank`} data-row={r} data-col={c} tabindex="-1"/></>}</div>})}</div></div>
+<div class="game-actions"><button class="button button-outline" data-action="check">Check word</button><button class="button button-outline" data-action="hint">Reveal letter</button><button class="button button-outline" data-action="reset">Start over</button></div>
+<div class="game-settings"><button type="button" data-action="zoom" aria-pressed="false">Larger squares</button><button type="button" data-action="sound" aria-pressed="false">Sound: Off</button><button type="button" data-action="large" aria-pressed="false">Larger clues</button></div>
+<p class="keyboard-help">Arrow keys move between squares. Tap a square twice or press Enter to switch direction. Tab moves to the controls.</p><p class="game-status" role="status" aria-live="polite"></p>
+<div class="game-complete" hidden><h2>A lovely little victory!</h2><p>You’ve finished this crossword. Take a moment to enjoy it.</p><a class="button" href="/crosswords/">Find another puzzle →</a></div>
+</section><section class="clues-panel" aria-label="Puzzle clues">{['across','down'].map(direction=><div class="clue-group"><h2>{direction==='across'?'Across':'Down'}</h2><ol>{puzzle.entries.filter(e=>e.direction===direction).sort((a,b)=>a.number-b.number).map(e=><li><button class="clue-button" data-entry={`${e.number}-${direction}`}><strong>{e.number}</strong><span>{e.clue} <span class="clue-length">({e.answer.length})</span></span></button></li>)}</ol></div>)}</section></div>
+<dialog class="reset-dialog"><h2>Start this puzzle again?</h2><p>This clears your answers for this puzzle. Your other puzzles will stay as they are.</p><form method="dialog"><button class="button button-outline" value="cancel">Keep playing</button><button class="button" value="reset">Clear this puzzle</button></form></dialog>
+</div>
+<script>
+import '../scripts/game';
+</script>

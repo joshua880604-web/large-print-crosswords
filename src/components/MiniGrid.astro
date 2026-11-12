@@ -1,0 +1,6 @@
+---
+const {puzzle, filled=false}=Astro.props;
+const cells=new Map();
+for(const e of puzzle.entries)for(let i=0;i<e.answer.length;i++){const r=e.row+(e.direction==='down'?i:0),c=e.col+(e.direction==='across'?i:0); const key=`${r},${c}`;cells.set(key,{letter:e.answer[i],number:i===0?e.number:cells.get(key)?.number});}
+---
+<div class="mini-grid" style={`--cols:${puzzle.cols};aspect-ratio:${puzzle.cols}/${puzzle.rows}`} aria-hidden="true">{Array.from({length:puzzle.rows*puzzle.cols},(_,i)=>{const cell=cells.get(`${Math.floor(i/puzzle.cols)},${i%puzzle.cols}`);return <span class:list={['mini-cell',{'is-block':!cell}]}>{cell?.number&&<small>{cell.number}</small>}{filled&&cell?.letter}</span>})}</div>

@@ -1,0 +1,14 @@
+---
+import Layout from '../layouts/Layout.astro';import Game from '../components/Game.astro';import puzzles from '../data/puzzles.json';
+// Daily content changes when the static site is rebuilt; use America/New_York consistently.
+const date=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+const day=Math.floor(Date.parse(date+'T12:00:00Z')/86400000);const puzzle=puzzles[day%puzzles.length];
+const readable=new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',dateStyle:'long'}).format(new Date(date+'T12:00:00Z'));
+---
+<Layout title="Today’s Easy Large Print Crossword — Play Free" active="daily"><div class="container game-container" id="daily-selection" data-built-date={date} data-puzzle-ids={JSON.stringify(puzzles.map(p=>p.id))}><header class="page-heading"><p class="eyebrow">A LITTLE MOMENT FOR YOURSELF · {readable}</p><h1>Your daily crossword.</h1><p>{puzzle.title} — {puzzle.description}</p></header><div class="print-controls"><a class="button button-outline" href={`/print/${puzzle.id}/`}>Print today’s puzzle →</a><a class="text-link" href={`/crosswords/${puzzle.id}/`}>Save this puzzle’s permanent link</a></div><noscript><p class="notice">This daily selection was prepared on {readable}. JavaScript selects the current day’s puzzle automatically. All puzzles remain available in the collection.</p></noscript><Game puzzle={puzzle}/><p class="game-bottom">No need to finish in one sitting. Your progress is saved in this browser when storage is available. Want something different? <a href="/crosswords/">Browse all puzzles.</a></p></div></Layout>
+
+<script>
+const selection=document.querySelector<HTMLElement>('#daily-selection')!;
+const date=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+if(date!==selection.dataset.builtDate){const ids:string[]=JSON.parse(selection.dataset.puzzleIds!);const day=Math.floor(Date.parse(date+'T12:00:00Z')/86400000);window.location.replace(`/crosswords/${ids[day%ids.length]}/`);}
+</script>

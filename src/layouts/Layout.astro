@@ -1,0 +1,12 @@
+---
+import '../styles/global.css';
+const {title='Free Large Print Crossword Puzzles — Play & Print', description='Enjoy free, easy large print crosswords. Play online at your own pace or print clear, easy-to-read puzzles with separate answer sheets.', active='', noindex=false}=Astro.props;
+const canonical=new URL(Astro.url.pathname,Astro.site);
+---
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/>{noindex&&<meta name="robots" content="noindex,follow"/>}<meta name="theme-color" content="#23483f"/><link rel="canonical" href={canonical}/><link rel="icon" type="image/svg+xml" href="/favicon.svg"/><meta property="og:title" content={title}/><meta property="og:description" content={description}/><meta property="og:type" content="website"/><meta property="og:url" content={canonical}/><title>{title}</title></head>
+<body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="header-inner"><a class="brand" href="/" aria-label="Large Print Crosswords home"><span class="brand-symbol" aria-hidden="true"><i>L</i><i></i><i>P</i><i>C</i></span><span>Large Print<br/><strong>Crosswords</strong></span></a><nav aria-label="Main navigation"><a href="/daily/" aria-current={active==='daily'?'page':undefined}>Daily puzzle</a><a href="/crosswords/" aria-current={active==='puzzles'?'page':undefined}>All puzzles</a><a href="/printable/" aria-current={active==='print'?'page':undefined}>Printables</a><a href="/how-to-play/" aria-current={active==='help'?'page':undefined}>How to play</a></nav><a class="button header-play" href="/daily/">Let’s play <span aria-hidden="true">→</span></a></div></header>
+<main id="main"><slot/></main>
+<footer class="site-footer"><div class="footer-top"><a class="footer-brand" href="/">A little puzzle.<br/><em>A lovely part of your day.</em></a><p>Big letters. Clear clues. Your own pace.<br/>Made for the simple joy of figuring things out.</p></div><div class="footer-bottom"><span>© {new Date().getUTCFullYear()} Large Print Crosswords</span><div><a href="/about/">About us</a><a href="/accessibility/">Accessibility</a><a href="/privacy/">Privacy</a></div><span>No account needed. Always a warm welcome.</span></div></footer>
+</body></html>
