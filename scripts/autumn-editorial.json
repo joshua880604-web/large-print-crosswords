@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Leaves Along the Path",
+    "subtheme": "Autumn Trees and Colors",
+    "cardDescription": "Follow an autumn path through familiar tree names, leaf parts, colors, and the sounds of fallen leaves.",
+    "description": "Follow an autumn path through familiar tree names, leaf parts, colors, and the sounds of fallen leaves.",
+    "focus": "This puzzle looks at trees and leaves during a fall walk. Some answers name a tree or plant part; others describe a color or a route through the woods. Appearance varies with species and place.",
+    "solvingTip": "Check whether the clue asks for a tree, a plant part, or a color. Familiar short color words can help cross the longer leaf and woodland terms.",
+    "words": [
+      [
+        "LEAF",
+        "Flat plant part that may change color and fall in autumn"
+      ],
+      [
+        "MAPLE",
+        "Tree whose sap is used to make a familiar sweet syrup"
+      ],
+      [
+        "OAK",
+        "Tree that produces acorns"
+      ],
+      [
+        "BIRCH",
+        "Tree often recognized by pale peeling bark"
+      ],
+      [
+        "ELM",
+        "Shade tree traditionally associated with a spreading vase-shaped crown"
+      ],
+      [
+        "ASH",
+        "Tree whose name also means powder left after a fire"
+      ],
+      [
+        "RED",
+        "Color of a stop signal and some autumn leaves"
+      ],
+      [
+        "GOLD",
+        "Rich yellow shade seen in some fall foliage"
+      ],
+      [
+        "AMBER",
+        "Yellow-orange color also named for fossilized tree resin"
+      ],
+      [
+        "RUSSET",
+        "Reddish-brown shade associated with autumn leaves"
+      ],
+      [
+        "RUST",
+        "Reddish-brown color named for oxidized iron"
+      ],
+      [
+        "VEIN",
+        "Branching line carrying materials through a leaf"
+      ],
+      [
+        "STEM",
+        "Slender support connecting a leaf to the plant"
+      ],
+      [
+        "BRANCH",
+        "Woody part extending from a tree's trunk"
+      ],
+      [
+        "CANOPY",
+        "Overhead layer formed by the crowns of trees"
+      ],
+      [
+        "RUSTLE",
+        "Soft dry sound made by leaves moving together"
+      ],
+      [
+        "CRUNCH",
+        "Crackling sound made when stepping on dry leaves"
+      ],
+      [
+        "PATH",
+        "Route followed by walkers through autumn woods"
+      ],
+      [
+        "RAKE",
+        "Garden tool with teeth used to gather fallen leaves"
+      ],
+      [
+        "PILE",
+        "Heap of leaves gathered in one place"
+      ]
+    ],
+    "answerNotes": {
+      "MAPLE": "Maple names the tree associated with maple syrup. The clue uses a familiar product rather than one leaf color, which can vary.",
+      "ASH": "Ash is a tree name and a word for residue after burning. The clue uses that shared spelling as a second route to the answer.",
+      "AMBER": "Amber names both a yellow-orange color and fossilized resin. The color meaning fits this autumn setting.",
+      "CANOPY": "A woodland canopy is formed by treetops overhead. It differs from the ground-level path beneath them.",
+      "RUSTLE": "Rustle is a light dry movement sound. Crunch suggests sharper cracking under a foot, so the described action helps distinguish them.",
+      "RAKE": "Rake names the toothed gathering tool here. It can also be a verb meaning to use that tool."
+    },
+    "id": "autumn-walk"
+  },
+  {
+    "title": "At the Autumn Farm Stand",
+    "subtheme": "Fall Harvest Words",
+    "cardDescription": "Visit a fall farm stand through familiar crops, containers, and words for gathering and pressing fruit.",
+    "description": "Visit a fall farm stand through familiar crops, containers, and words for gathering and pressing fruit.",
+    "focus": "The clues follow a harvest from plants to containers and familiar products. Some words identify a crop or plant part, while others identify an action or a quantity used in selling produce.",
+    "solvingTip": "Look for the difference between a whole crop, one part, a container, and an action. Short corn and fruit words can help cross the longer harvest terms.",
+    "words": [
+      [
+        "CIDER",
+        "Apple drink commonly sold at an American autumn farm stand"
+      ],
+      [
+        "APPLE",
+        "Tree fruit pressed for a familiar fall drink"
+      ],
+      [
+        "PEAR",
+        "Orchard fruit often narrower at the stem end than at the base"
+      ],
+      [
+        "PUMPKIN",
+        "Large squash commonly associated with an orange autumn harvest"
+      ],
+      [
+        "SQUASH",
+        "Garden crop that includes pumpkins and acorn varieties"
+      ],
+      [
+        "CORN",
+        "Harvest crop with kernels growing in rows on a cob"
+      ],
+      [
+        "GOURD",
+        "Hard-shelled fruit often used for autumn decoration"
+      ],
+      [
+        "ORCHARD",
+        "Area planted with fruit trees for a harvest"
+      ],
+      [
+        "BUSHEL",
+        "U.S. dry-volume measure often associated with baskets of apples"
+      ],
+      [
+        "BASKET",
+        "Handled container used to gather ripe produce"
+      ],
+      [
+        "CRATE",
+        "Sturdy open container used to transport harvested fruit"
+      ],
+      [
+        "STALK",
+        "Tall supporting stem left in a cornfield"
+      ],
+      [
+        "HUSK",
+        "Leafy outer covering removed from an ear of corn"
+      ],
+      [
+        "KERNEL",
+        "One seed-like grain attached to a corn cob"
+      ],
+      [
+        "COB",
+        "Central support remaining after corn kernels are removed"
+      ],
+      [
+        "PRESS",
+        "Device used to squeeze liquid from apples"
+      ],
+      [
+        "JUICE",
+        "Liquid extracted from harvested fruit"
+      ],
+      [
+        "PICK",
+        "To gather fruit by removing it from a plant"
+      ],
+      [
+        "RIPE",
+        "Mature and ready for harvest, as fruit"
+      ],
+      [
+        "CROP",
+        "Plants grown for food, considered collectively"
+      ]
+    ],
+    "answerNotes": {
+      "CIDER": "In American farm-stand use, cider commonly means an apple drink that may be unfiltered. Hard cider specifically indicates an alcoholic version.",
+      "BUSHEL": "A bushel measures dry volume rather than a fixed weight. The weight of a bushel depends on the produce being measured.",
+      "HUSK": "The husk is the leafy covering of an ear of corn. The cob is the central support inside the kernels.",
+      "KERNEL": "A kernel is one individual grain on the cob. The clue asks for a single piece rather than the whole ear.",
+      "PRESS": "Press names the squeezing device in this clue. It is a noun rather than an instruction to push something.",
+      "GOURD": "Gourd is a broad name associated with hard-shelled fruits. The decorative context points to the item rather than a particular color or shape."
+    },
+    "id": "autumn-walk-2"
+  },
+  {
+    "title": "Woodland Neighbors in Fall",
+    "subtheme": "Autumn Wildlife",
+    "cardDescription": "Meet familiar woodland animals through their shelters and the foods they find along a fall trail.",
+    "description": "Meet familiar woodland animals through their shelters and the foods they find along a fall trail.",
+    "focus": "The clues pair animal names with words for shelters and gathered food. Descriptions identify familiar features without assuming every animal follows the same seasonal routine.",
+    "solvingTip": "Ask whether the clue names an animal, its home, or something gathered as food. Short food and shelter words can provide crossings for longer animal names.",
+    "words": [
+      [
+        "SQUIRREL",
+        "Bushy-tailed rodent often seen gathering nuts in fall"
+      ],
+      [
+        "CHIPMUNK",
+        "Small striped rodent with cheek pouches"
+      ],
+      [
+        "RACCOON",
+        "Woodland mammal with a masked face and ringed tail"
+      ],
+      [
+        "FOX",
+        "Bushy-tailed member of the dog family seen in many woodlands"
+      ],
+      [
+        "BEAR",
+        "Large woodland mammal, many kinds of which spend winter in a den"
+      ],
+      [
+        "DEER",
+        "Hoofed woodland animal, some males of which grow antlers"
+      ],
+      [
+        "HARE",
+        "Long-eared wild mammal with strong hind legs"
+      ],
+      [
+        "MOUSE",
+        "Small rodent that may leave tiny tracks near a woodpile"
+      ],
+      [
+        "OWL",
+        "Bird of prey often associated with rounded eyes and quiet flight"
+      ],
+      [
+        "GOOSE",
+        "Large water bird, many kinds of which migrate in flocks"
+      ],
+      [
+        "DEN",
+        "Sheltered resting place used by some woodland mammals"
+      ],
+      [
+        "BURROW",
+        "Underground passage or dwelling dug by an animal"
+      ],
+      [
+        "NEST",
+        "Structure built by a bird to hold eggs or young"
+      ],
+      [
+        "CACHE",
+        "Hidden store of food gathered for later use"
+      ],
+      [
+        "ACORN",
+        "Nut produced by an oak tree"
+      ],
+      [
+        "NUT",
+        "Hard-shelled food collected by some woodland animals"
+      ],
+      [
+        "BERRY",
+        "Small juicy fruit eaten by many wild animals"
+      ],
+      [
+        "SEED",
+        "Plant structure that can be gathered as food by wildlife"
+      ],
+      [
+        "FUR",
+        "Hair covering the body of many woodland mammals"
+      ],
+      [
+        "TRACK",
+        "Mark left in soft ground by an animal's foot"
+      ]
+    ],
+    "answerNotes": {
+      "CHIPMUNK": "Chipmunks are small striped rodents with cheek pouches. Those visible features distinguish the clue from the broader word squirrel.",
+      "RACCOON": "A raccoon's facial mask and ringed tail are familiar markings. The clue uses both rather than relying on size alone.",
+      "CACHE": "Cache is a hidden store, such as food kept for later. It sounds like cash but has a different spelling and meaning.",
+      "ACORN": "An acorn is the nut of an oak. The tree named in the clue identifies the particular woodland food.",
+      "DEN": "Den names an animal shelter here. It can also name a room in a house in another setting.",
+      "TRACK": "Track names a footprint or other mark here. It is evidence left behind rather than the animal itself."
+    },
+    "id": "autumn-walk-3"
+  },
+  {
+    "title": "Ready for a Crisp Day",
+    "subtheme": "Autumn Clothes",
+    "cardDescription": "Get ready for a cool outing with familiar clothing, fabric, and fastening words.",
+    "description": "Get ready for a cool outing with familiar clothing, fabric, and fastening words.",
+    "focus": "This puzzle looks at garments and their parts. Some answers name something worn, while others name an edge, a closure, or a way garments are worn. The location and purpose in each clue help distinguish related items.",
+    "solvingTip": "Check whether a clue asks for a whole garment, one part, or a way it is worn. Wrist, neck, and pocket locations can guide the short answers.",
+    "words": [
+      [
+        "SWEATER",
+        "Knitted upper-body garment worn on a cool day"
+      ],
+      [
+        "CARDIGAN",
+        "Sweater that opens down the front"
+      ],
+      [
+        "SCARF",
+        "Long piece of fabric wrapped around the neck"
+      ],
+      [
+        "MITTEN",
+        "Hand covering with a separate thumb and one shared finger space"
+      ],
+      [
+        "GLOVE",
+        "Hand covering with a separate section for each finger"
+      ],
+      [
+        "COAT",
+        "Outer garment worn over other clothes"
+      ],
+      [
+        "JACKET",
+        "Short outer garment commonly ending near the hips"
+      ],
+      [
+        "BOOT",
+        "Footwear extending above the ankle"
+      ],
+      [
+        "SOCK",
+        "Cloth foot covering worn inside a shoe or boot"
+      ],
+      [
+        "WOOL",
+        "Sheep's fiber used in some warm clothing"
+      ],
+      [
+        "FLEECE",
+        "Soft napped fabric often used in casual jackets"
+      ],
+      [
+        "KNIT",
+        "Describing fabric formed from interlocking yarn loops"
+      ],
+      [
+        "CUFF",
+        "Band or finished edge at the wrist of a sleeve"
+      ],
+      [
+        "COLLAR",
+        "Part of a shirt or coat around the neck"
+      ],
+      [
+        "ZIPPER",
+        "Fastening with teeth joined by a moving slider"
+      ],
+      [
+        "BUTTON",
+        "Small fastener passed through a hole in clothing"
+      ],
+      [
+        "POCKET",
+        "Small sewn compartment for carrying something in a garment"
+      ],
+      [
+        "HOOD",
+        "Head covering attached to a coat or sweatshirt"
+      ],
+      [
+        "LAYER",
+        "One garment worn over or under another"
+      ],
+      [
+        "WRAP",
+        "To wind a scarf around the neck"
+      ]
+    ],
+    "answerNotes": {
+      "CARDIGAN": "A cardigan opens at the front. A pullover goes over the head instead, so the opening is the clue's defining feature.",
+      "MITTEN": "A mitten gives the fingers one shared space. A glove has individual finger sections, which distinguishes the two coverings.",
+      "FLEECE": "Fleece names a soft fabric in this clue. The same word can also refer to a sheep's woolly coat.",
+      "CUFF": "A cuff is located at a sleeve's end. Collar identifies the neck area, so the body location matters.",
+      "LAYER": "Layer names one garment in a combination here. The clue describes a relative position rather than a particular fabric.",
+      "HOOD": "A hood is attached to a garment in this clue. It differs from a separate hat put on independently."
+    },
+    "id": "autumn-walk-4"
+  },
+  {
+    "title": "An Autumn Front Porch",
+    "subtheme": "Fall Displays",
+    "cardDescription": "Picture an autumn porch with familiar flowers, pumpkins, decorations, and the parts of an entrance.",
+    "description": "Picture an autumn porch with familiar flowers, pumpkins, decorations, and the parts of an entrance.",
+    "focus": "The clues bring together a doorway setting and familiar seasonal objects. Some answers name a display item, while others name a part of the porch or a simple action.",
+    "solvingTip": "Look for a place, an object, a plant part, or an action. A ring-shaped decoration and a potted fall flower have different names. Short entrance words can help cross longer decorations.",
+    "words": [
+      [
+        "LANTERN",
+        "Light with a protective housing that can be carried or hung"
+      ],
+      [
+        "PUMPKIN",
+        "Round squash often hollowed into a fall lantern"
+      ],
+      [
+        "GOURD",
+        "Hard-shelled fruit placed in many autumn displays"
+      ],
+      [
+        "WREATH",
+        "Ring-shaped decoration hung on a front door"
+      ],
+      [
+        "WELCOME",
+        "Greeting commonly printed on a doorstep mat"
+      ],
+      [
+        "DOOR",
+        "Movable panel opened to enter a home"
+      ],
+      [
+        "PORCH",
+        "Covered entrance area outside a house"
+      ],
+      [
+        "STEP",
+        "One raised level climbed toward a doorway"
+      ],
+      [
+        "RAIL",
+        "Long support along the side of porch steps"
+      ],
+      [
+        "MAT",
+        "Small floor covering laid outside an entrance"
+      ],
+      [
+        "POT",
+        "Container holding a flowering plant on a porch"
+      ],
+      [
+        "MUM",
+        "Short name for a chrysanthemum grown for fall flowers"
+      ],
+      [
+        "HAY",
+        "Dried forage sometimes displayed in compact bales"
+      ],
+      [
+        "BALE",
+        "Tightly packed bundle of hay or straw"
+      ],
+      [
+        "RIBBON",
+        "Decorative fabric strip wrapped around a seasonal display"
+      ],
+      [
+        "BOW",
+        "Looped ribbon knot used as a decoration"
+      ],
+      [
+        "CARVE",
+        "To cut a design into a pumpkin's surface"
+      ],
+      [
+        "FACE",
+        "Eyes, nose, and mouth arranged as a pumpkin design"
+      ],
+      [
+        "STEM",
+        "Plant support left attached at the top of a pumpkin"
+      ],
+      [
+        "SEED",
+        "One small plant structure inside a pumpkin"
+      ]
+    ],
+    "answerNotes": {
+      "MUM": "Mum is a familiar shortened name for chrysanthemum. In this flower clue it does not mean a parent or keeping quiet.",
+      "WREATH": "A wreath has a ring form. A bow is a looped knot, so the shape helps distinguish two doorway decorations.",
+      "BALE": "A bale is a compact bound bundle. It names the packaged form rather than the material inside it.",
+      "BOW": "Bow means a looped ribbon knot and rhymes with go here. The porch-display setting selects that meaning.",
+      "STEM": "A pumpkin stem is the remaining plant support at its top. It is a plant part rather than a carved decoration.",
+      "CARVE": "Carve describes cutting a design into a material. The clue identifies the action without giving a sequence of carving instructions."
+    },
+    "id": "autumn-walk-5"
+  }
+]

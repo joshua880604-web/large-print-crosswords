@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Measuring at the Workbench",
+    "subtheme": "Dimensions and Layout",
+    "cardDescription": "Start at the workbench with familiar measuring tools, shape words, and American units of length.",
+    "description": "Start at the workbench with familiar measuring tools, shape words, and American units of length.",
+    "focus": "The clues describe tools and the dimensions or directions they identify. Some words name a physical item; others describe a measurement, a mark, or an alignment.",
+    "solvingTip": "Look for whether the clue asks for a tool, a dimension, a unit, or a mark. Length and depth identify different dimensions. Short measuring terms can help with longer layout words.",
+    "words": [
+      [
+        "RULER",
+        "Straight tool marked with units for measuring length"
+      ],
+      [
+        "TAPE",
+        "Flexible measuring strip that can be rolled into a case"
+      ],
+      [
+        "SQUARE",
+        "Layout tool used to check a right angle"
+      ],
+      [
+        "LEVEL",
+        "Tool used to check whether a surface is horizontal"
+      ],
+      [
+        "PLUMB",
+        "True vertical, as checked with a hanging weight"
+      ],
+      [
+        "MARK",
+        "Small indication showing a measured position"
+      ],
+      [
+        "CHALK",
+        "Material used to leave a visible temporary layout line"
+      ],
+      [
+        "PENCIL",
+        "Graphite writing tool used to mark wood"
+      ],
+      [
+        "LINE",
+        "Straight or curved mark traced across a surface"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of a board"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "ANGLE",
+        "Opening between two intersecting lines"
+      ],
+      [
+        "INCH",
+        "U.S. length unit equal to one-twelfth of a foot"
+      ],
+      [
+        "FOOT",
+        "U.S. length unit equal to twelve inches"
+      ],
+      [
+        "YARD",
+        "U.S. length unit equal to three feet"
+      ],
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ],
+      [
+        "LENGTH",
+        "Distance from one end of an object to the other"
+      ],
+      [
+        "DEPTH",
+        "Distance from a front surface to the back or inward"
+      ],
+      [
+        "SCALE",
+        "Series of measurement markings on a rule"
+      ],
+      [
+        "STRAIGHT",
+        "Following a direct line without a curve"
+      ]
+    ],
+    "answerNotes": {
+      "SQUARE": "Square names a right-angle checking tool here. It does not ask for the four-sided geometric shape.",
+      "LEVEL": "A level checks horizontal alignment. Plumb describes true vertical, so the direction being checked matters.",
+      "PLUMB": "Plumb means vertical in this layout setting. It sounds like plum, the fruit, but has a final b in its spelling.",
+      "INCH": "Twelve inches make one foot. The clue names the smaller American unit rather than the whole foot.",
+      "YARD": "A yard equals three feet. It is a length measure here rather than the land around a house.",
+      "SCALE": "Scale names the measurement markings here. It does not mean a weighing device or a fish covering."
+    },
+    "id": "in-the-workshop"
+  },
+  {
+    "title": "Wood and the Saw Cut",
+    "subtheme": "Timber and Cutting Words",
+    "cardDescription": "Explore wood types, board forms, and the familiar words used to describe a saw and its cut.",
+    "description": "Explore wood types, board forms, and the familiar words used to describe a saw and its cut.",
+    "focus": "This puzzle identifies materials and cutting vocabulary through direct descriptions. Some answers name a type of wood; others name a tool part, a cut direction, or material left behind.",
+    "solvingTip": "Check whether the clue names wood, a tool part, or a feature of the cut. A definition may ask for the direction of a cut or the pattern of wood fibers. Short material words can help with longer board forms.",
+    "words": [
+      [
+        "SAW",
+        "Toothed cutting tool used for wood"
+      ],
+      [
+        "BLADE",
+        "Flat cutting part of a saw"
+      ],
+      [
+        "TOOTH",
+        "One pointed cutting projection on a saw blade"
+      ],
+      [
+        "KERF",
+        "Narrow slot or width of material removed by a saw"
+      ],
+      [
+        "CUT",
+        "Opening or separation made by a blade"
+      ],
+      [
+        "RIP",
+        "To saw along the direction of the wood grain"
+      ],
+      [
+        "GRAIN",
+        "Natural pattern and direction of wood fibers"
+      ],
+      [
+        "CROSSCUT",
+        "Saw cut made across the direction of wood grain"
+      ],
+      [
+        "BOARD",
+        "Flat piece of sawn lumber"
+      ],
+      [
+        "PLANK",
+        "Long thick flat piece of timber"
+      ],
+      [
+        "WOOD",
+        "Solid fibrous material forming tree trunks and branches"
+      ],
+      [
+        "OAK",
+        "Wood from the tree that produces acorns"
+      ],
+      [
+        "PINE",
+        "Common softwood from an evergreen with bundled needles"
+      ],
+      [
+        "MAPLE",
+        "Hardwood from the tree associated with syrup production"
+      ],
+      [
+        "CEDAR",
+        "Aromatic wood often associated with storage chests"
+      ],
+      [
+        "BIRCH",
+        "Pale wood from a tree often known for peeling bark"
+      ],
+      [
+        "VENEER",
+        "Thin sheet of wood applied over another surface"
+      ],
+      [
+        "PLYWOOD",
+        "Panel made from joined layers of wood veneer"
+      ],
+      [
+        "SCRAP",
+        "Small leftover piece of wood"
+      ],
+      [
+        "SAWDUST",
+        "Fine wood particles left by sawing"
+      ]
+    ],
+    "answerNotes": {
+      "KERF": "Kerf names the slot made by a saw or the width removed. It is a feature of the cut rather than the tool itself.",
+      "RIP": "A rip cut follows the grain. Crosscut names a cut across the grain, so direction distinguishes the terms.",
+      "GRAIN": "Wood grain concerns the fibers and their pattern. It is not a cereal crop in this material clue.",
+      "VENEER": "Veneer is a thin layer placed over another surface. Plywood is built from multiple wood layers rather than just one decorative face.",
+      "PLYWOOD": "Plywood consists of bonded veneer layers, commonly with alternating grain direction. The clue asks for the panel material.",
+      "SAWDUST": "Sawdust is made of fine particles produced during sawing. Scrap instead describes a leftover piece large enough to remain a separate offcut."
+    },
+    "id": "in-the-workshop-2"
+  },
+  {
+    "title": "Joining the Pieces",
+    "subtheme": "Fasteners and Holding Tools",
+    "cardDescription": "Bring pieces together through familiar words for fasteners, joints, and the tools that hold or drive them.",
+    "description": "Bring pieces together through familiar words for fasteners, joints, and the tools that hold or drive them.",
+    "focus": "The clues identify objects by their shape or job. Some answers name a complete fastener, while others name one part, a joining material, or a holding tool.",
+    "solvingTip": "Ask whether the clue names a fastener, a fastener part, or a tool. A threaded item and the matching piece turned onto it have different names. Short hardware words can help with longer joining terms.",
+    "words": [
+      [
+        "NAIL",
+        "Pointed metal fastener driven into wood"
+      ],
+      [
+        "SCREW",
+        "Threaded fastener turned into a material"
+      ],
+      [
+        "BOLT",
+        "Threaded fastener commonly secured with a nut"
+      ],
+      [
+        "NUT",
+        "Internally threaded piece turned onto a bolt"
+      ],
+      [
+        "WASHER",
+        "Flat ring placed beneath a bolt head or nut"
+      ],
+      [
+        "GLUE",
+        "Adhesive used to bond pieces together"
+      ],
+      [
+        "JOINT",
+        "Place where two pieces of material meet"
+      ],
+      [
+        "DOWEL",
+        "Cylindrical rod used to locate or join wood pieces"
+      ],
+      [
+        "PEG",
+        "Short pin fitted into a hole"
+      ],
+      [
+        "CLAMP",
+        "Tool that temporarily grips pieces together"
+      ],
+      [
+        "VISE",
+        "Bench-mounted gripping tool with opposing jaws"
+      ],
+      [
+        "HAMMER",
+        "Striking tool commonly used to drive nails"
+      ],
+      [
+        "MALLET",
+        "Striking tool with a broad wooden or rubber head"
+      ],
+      [
+        "DRIVER",
+        "Tool used to turn a screw"
+      ],
+      [
+        "THREAD",
+        "Spiral ridge around a screw or bolt"
+      ],
+      [
+        "HEAD",
+        "Wider top end of a nail or screw"
+      ],
+      [
+        "SHANK",
+        "Long body of a nail beneath its head"
+      ],
+      [
+        "PILOT",
+        "Word before hole for a small guiding opening"
+      ],
+      [
+        "HINGE",
+        "Jointed hardware allowing a door or lid to swing"
+      ],
+      [
+        "BRACKET",
+        "Support fixed at an angle beneath a shelf or similar part"
+      ]
+    ],
+    "answerNotes": {
+      "NUT": "Nut is the threaded hardware piece here. It does not mean a hard-shelled food in this workshop setting.",
+      "WASHER": "A washer is a flat hardware ring. The clue asks for that small part rather than a laundry machine.",
+      "VISE": "Vise is the American spelling for the gripping tool. Vice is a different spelling with other meanings in American English.",
+      "DOWEL": "A dowel is a cylindrical rod used in joining or alignment. It differs from a flat metal bracket.",
+      "THREAD": "Thread is a spiral fastener ridge in this clue. It is not the sewing strand that shares the spelling.",
+      "MALLET": "A mallet usually has a broad striking head made from wood, rubber, or another material. That form distinguishes it from a typical nail-driving hammer."
+    },
+    "id": "in-the-workshop-3"
+  },
+  {
+    "title": "The Finishing Touch",
+    "subtheme": "Paint and Wood Finishes",
+    "cardDescription": "Explore finishes through familiar coating names, brush parts, and the words describing a surface.",
+    "description": "Explore finishes through familiar coating names, brush parts, and the words describing a surface.",
+    "focus": "This puzzle names finishing materials and tools without giving an application procedure. Clues distinguish appearance, texture, and equipment through everyday definitions.",
+    "solvingTip": "Look for a coating, a tool part, a texture, or a surface appearance. One clue asks for a coating layer; another asks for one fiber of a spreading tool. Short surface words can help with longer coating terms.",
+    "words": [
+      [
+        "PAINT",
+        "Colored coating applied to a surface"
+      ],
+      [
+        "STAIN",
+        "Wood-coloring treatment that can leave the grain visible"
+      ],
+      [
+        "VARNISH",
+        "Clear or tinted protective coating often used on wood"
+      ],
+      [
+        "SEALER",
+        "Coating intended to close or protect a surface"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool used to spread a coating"
+      ],
+      [
+        "ROLLER",
+        "Cylindrical tool that spreads paint as it turns"
+      ],
+      [
+        "TRAY",
+        "Shallow container holding paint for a roller"
+      ],
+      [
+        "HANDLE",
+        "Part of a paintbrush held in the hand"
+      ],
+      [
+        "BRISTLE",
+        "One stiff fiber in a paintbrush"
+      ],
+      [
+        "COAT",
+        "One layer of paint or another finish"
+      ],
+      [
+        "PRIMER",
+        "Preparatory coating placed before a finish coat"
+      ],
+      [
+        "GLOSS",
+        "High-shine appearance of a finished surface"
+      ],
+      [
+        "MATTE",
+        "Describing a surface with little or no shine"
+      ],
+      [
+        "SHEEN",
+        "Degree or quality of surface shine"
+      ],
+      [
+        "GRAIN",
+        "Natural wood pattern visible beneath some finishes"
+      ],
+      [
+        "SAND",
+        "To smooth a surface with an abrasive material"
+      ],
+      [
+        "SMOOTH",
+        "Even in texture without obvious roughness"
+      ],
+      [
+        "DRY",
+        "No longer wet on the surface"
+      ],
+      [
+        "DRIP",
+        "Small hanging or running drop of excess coating"
+      ],
+      [
+        "FINISH",
+        "Surface treatment or final appearance of an object"
+      ]
+    ],
+    "answerNotes": {
+      "PRIMER": "Primer is a preparatory coating. It names a material's role rather than the final color selected for a surface.",
+      "MATTE": "Matte describes a low-shine surface. Gloss names a high-shine appearance, so the reflection in the clue distinguishes them.",
+      "COAT": "Coat means a layer of finish here. It is not a garment worn outdoors.",
+      "BRISTLE": "One bristle is one fiber in a brush. The clue asks for a part rather than the whole tool.",
+      "STAIN": "Wood stain colors the material while often leaving grain visible. It differs in purpose from an opaque paint layer.",
+      "DRY": "Dry describes the surface condition in this clue. Surface dryness does not itself specify that a coating has fully cured."
+    },
+    "id": "in-the-workshop-4"
+  },
+  {
+    "title": "A Tidy Tool Bench",
+    "subtheme": "Storage and Sorting",
+    "cardDescription": "Put workshop words in order through familiar containers, storage fixtures, and simple tidying actions.",
+    "description": "Put workshop words in order through familiar containers, storage fixtures, and simple tidying actions.",
+    "focus": "The clues follow the places tools are kept and the actions used to arrange them. Some answers name a whole container, while others name a support, a cleaning item, or a tidying action.",
+    "solvingTip": "Check whether a clue asks for a container, a storage fixture, or an action. A board for hanging tools and an individual curved hanger have different names.",
+    "words": [
+      [
+        "BENCH",
+        "Sturdy work surface used for workshop tasks"
+      ],
+      [
+        "TOOL",
+        "Handheld implement used to perform a task"
+      ],
+      [
+        "DRAWER",
+        "Sliding storage compartment beneath a work surface"
+      ],
+      [
+        "SHELF",
+        "Horizontal storage board holding tools or boxes"
+      ],
+      [
+        "BIN",
+        "Open container used to group small workshop items"
+      ],
+      [
+        "BOX",
+        "Rigid container used to store supplies"
+      ],
+      [
+        "RACK",
+        "Frame designed to hold tools in an arranged position"
+      ],
+      [
+        "HOOK",
+        "Curved hanger used to suspend a tool"
+      ],
+      [
+        "PEGBOARD",
+        "Perforated wall panel used with tool hangers"
+      ],
+      [
+        "LABEL",
+        "Written marker identifying a storage container's contents"
+      ],
+      [
+        "SORT",
+        "To arrange items into groups"
+      ],
+      [
+        "STORE",
+        "To put tools away for later use"
+      ],
+      [
+        "STACK",
+        "To place boxes or boards one above another"
+      ],
+      [
+        "SWEEP",
+        "To gather loose floor debris with a broom"
+      ],
+      [
+        "BROOM",
+        "Long-handled brush used to clean a floor"
+      ],
+      [
+        "DUSTPAN",
+        "Flat receptacle used to collect swept debris"
+      ],
+      [
+        "RAG",
+        "Piece of old cloth used for wiping"
+      ],
+      [
+        "CORD",
+        "Flexible electrical lead attached to a powered tool"
+      ],
+      [
+        "CASE",
+        "Protective container shaped to hold a tool"
+      ],
+      [
+        "HANDLE",
+        "Part of a storage box grasped for carrying"
+      ]
+    ],
+    "answerNotes": {
+      "PEGBOARD": "Pegboard has repeated holes for movable hangers. It names the panel rather than an individual hook.",
+      "DRAWER": "A drawer slides out from a cabinet or bench. A shelf is a stationary support, so the movement helps identify it.",
+      "SORT": "Sort means group items by type or another feature. It is an arranging action rather than the name of a container.",
+      "STACK": "Stack is used as a verb for placing things above one another. The clue does not ask for one particular box.",
+      "DUSTPAN": "A dustpan collects debris gathered by a broom. It differs from the brush that moves the debris.",
+      "CASE": "Case is a protective tool container here. It does not mean a legal matter or a grammatical category."
+    },
+    "id": "in-the-workshop-5"
+  }
+]

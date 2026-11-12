@@ -1,0 +1,513 @@
+[
+  {
+    "id": "game-night",
+    "title": "Game Night",
+    "theme": "Classic Pastimes",
+    "description": "Gather around for familiar words from cards and board games.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BISHOP",
+        "clue": "A chess piece that moves diagonally",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DOMINO",
+        "clue": "A rectangular game piece marked with dots",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SPADE",
+        "clue": "A card suit with a pointed black symbol",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SCORE",
+        "clue": "The number of points a player has",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CHESS",
+        "clue": "A board game played with kings and queens",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "DECK",
+        "clue": "A complete set of playing cards",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "CARD",
+        "clue": "One item in a deck of fifty-two",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "KING",
+        "clue": "The highest-ranking male face card",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PAWN",
+        "clue": "One of eight small pieces on each side in chess",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DICE",
+        "clue": "Small numbered cubes rolled in games",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CLUB",
+        "clue": "A card suit with a three-leaf symbol",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ACE",
+        "clue": "A playing card marked with a single symbol",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "game-night-2",
+    "title": "Game Night \u2014 No. 2",
+    "theme": "Classic Pastimes",
+    "description": "Gather around for familiar words from cards and board games.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BISHOP",
+        "clue": "A chess piece that moves diagonally",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "DOMINO",
+        "clue": "A rectangular game piece marked with dots",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SCORE",
+        "clue": "The number of points a player has",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CHESS",
+        "clue": "A board game played with kings and queens",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CLUB",
+        "clue": "A card suit with a three-leaf symbol",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "KING",
+        "clue": "The highest-ranking male face card",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TILE",
+        "clue": "A small flat piece used in dominoes",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "JACK",
+        "clue": "A face card ranked below a queen",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DEAL",
+        "clue": "Distribute cards to the players",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "TURN",
+        "clue": "One player's chance to make a move",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "PAWN",
+        "clue": "One of eight small pieces on each side in chess",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "DECK",
+        "clue": "A complete set of playing cards",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "game-night-3",
+    "title": "Game Night \u2014 No. 3",
+    "theme": "Classic Pastimes",
+    "description": "Gather around for familiar words from cards and board games.",
+    "difficulty": "Easy",
+    "rows": 8,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "SHUFFLE",
+        "clue": "Mix playing cards before dealing",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "HEART",
+        "clue": "A red card suit shaped like a symbol of love",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "QUEEN",
+        "clue": "A face card ranked between jack and king",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SPADE",
+        "clue": "A card suit with a pointed black symbol",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CARD",
+        "clue": "One item in a deck of fifty-two",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TURN",
+        "clue": "One player's chance to make a move",
+        "row": 4,
+        "col": 9,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "DECK",
+        "clue": "A complete set of playing cards",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ROOK",
+        "clue": "A chess piece shaped like a castle tower",
+        "row": 4,
+        "col": 11,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "JACK",
+        "clue": "A face card ranked below a queen",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PAWN",
+        "clue": "One of eight small pieces on each side in chess",
+        "row": 1,
+        "col": 12,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ACE",
+        "clue": "A playing card marked with a single symbol",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      }
+    ]
+  },
+  {
+    "id": "game-night-4",
+    "title": "Game Night \u2014 No. 4",
+    "theme": "Classic Pastimes",
+    "description": "Gather around for familiar words from cards and board games.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "SHUFFLE",
+        "clue": "Mix playing cards before dealing",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "QUEEN",
+        "clue": "A face card ranked between jack and king",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HEART",
+        "clue": "A red card suit shaped like a symbol of love",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CHESS",
+        "clue": "A board game played with kings and queens",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CLUB",
+        "clue": "A card suit with a three-leaf symbol",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PAWN",
+        "clue": "One of eight small pieces on each side in chess",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DEAL",
+        "clue": "Distribute cards to the players",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "TURN",
+        "clue": "One player's chance to make a move",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TILE",
+        "clue": "A small flat piece used in dominoes",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DECK",
+        "clue": "A complete set of playing cards",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ACE",
+        "clue": "A playing card marked with a single symbol",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      }
+    ]
+  },
+  {
+    "id": "game-night-5",
+    "title": "Game Night \u2014 No. 5",
+    "theme": "Classic Pastimes",
+    "description": "Gather around for familiar words from cards and board games.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "BISHOP",
+        "clue": "A chess piece that moves diagonally",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "HEART",
+        "clue": "A red card suit shaped like a symbol of love",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BOARD",
+        "clue": "The playing surface for chess or checkers",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CHESS",
+        "clue": "A board game played with kings and queens",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "QUEEN",
+        "clue": "A face card ranked between jack and king",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SCORE",
+        "clue": "The number of points a player has",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CLUB",
+        "clue": "A card suit with a three-leaf symbol",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "ROOK",
+        "clue": "A chess piece shaped like a castle tower",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TURN",
+        "clue": "One player's chance to make a move",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CARD",
+        "clue": "One item in a deck of fifty-two",
+        "row": 8,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "DICE",
+        "clue": "Small numbered cubes rolled in games",
+        "row": 11,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  }
+]

@@ -29,9 +29,9 @@ npm run test:e2e
 ## Collection and content
 
 - 100 independently playable themed mini crosswords across 20 series.
-- 1,185 clues; direct American English definitions.
-- Each series contains five puzzles with different boards and answer selections. Edited series have distinct subthemes, introductions, solving tips, and three answer explanations each; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
-- Open, connected layouts, up to 13 × 13; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
+- 1,135 clues; direct American English definitions.
+- Each series contains five puzzles with different boards and answer selections. All current editions have distinct subthemes, introductions, solving tips, and three answer explanations each; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
+- Open, connected current layouts, up to 11 × 11; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
 - Original word banks and definitions are in `scripts/generate-puzzles.py` and `scripts/word-banks.json`. Run `python3 scripts/generate-puzzles.py` to reproduce `src/data/puzzles.json` (standard library only), then build. This replaces the generated JSON; review changes before accepting them. The shared layout builder is `scripts/crossword_grid.py`. The generator reapplies the series listed in `src/data/editorial-series.json` through `scripts/refine_editorial.py`, so existing edited editions survive regeneration. Run `python3 scripts/refine_editorial.py` to update edited series only. `scripts/refine_gardening.py` remains a gardening-only compatibility entry point.
 - Automatic validation checks matching crossings, no unclued contiguous runs, connected words, numbering, size, unique boards, and answer-set variation.
@@ -45,7 +45,7 @@ Keyboard/touch entry, arrow-key movement, direction switching at crossings, word
 
 PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 100 playable pages and primary site pages.
 
-Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. Sixty noindex `/crosswords/<id>/previous/` pages retain the original gardening, bird, music, market, travel, home, farm, baking, crafts, flowers, pets, and drinks boards; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
+Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in all twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
@@ -71,9 +71,9 @@ Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD
 
 See `docs/search-console.md` for the user's verified-property sitemap submission and launch checks. No Google account actions or indexing requests have been performed by this code.
 
-## Content review batches
+## Content review
 
-Sixty current puzzles have been edited into distinct subjects. The gardening URLs contain Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, and Starting from Seeds. The bird URLs contain Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, and Birds by the Water. The music URLs contain Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance, and Meet the Orchestra. The market URLs contain Fruit Basket Favorites, The Bread Counter, Dairy Case Finds, Pantry Shelf Staples, and Labels, Prices & Checkout. The travel URLs contain A Relaxed Road Trip, At the Train Station, Around the Airport, A Comfortable Hotel Stay, and Postcards & Travel Memories. The home URLs contain In the Living Room, Tools at the Kitchen Counter, Laundry Day Words, At the Front Door, and A Place for Everything. The farm URLs contain Meet the Farm Animals, Across the Grain Fields, A Visit to the Orchard, Around the Horse Stable, and At the Country Fair. The baking URLs contain Measuring and Mixing, A Loaf of Bread, Making a Homemade Pie, A Tray of Cookies, and A Cake to Share. The crafts URLs contain Inside the Sewing Box, A Basket of Knitting, With a Crochet Hook, Piecing a Patchwork Quilt, and Mending Everyday Clothes. The flower URLs contain Parts of a Flowering Plant, At the Flower Shop, Cottage Garden Colors, Visitors Among the Blooms, and Colors and Shapes in Bloom. The pet URLs contain Out for a Dog Walk, Around the Cat Basket, Small Pets and Their Homes, Feathered Pet Friends, and Life in a Fish Tank. The drink URLs contain A Pot of Tea, Morning Coffee Words, A Warm Cup of Cocoa, At the Diner Counter, and Lemonade on the Porch. All use stable IDs and separate edition-2 progress keys.
+All 100 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. Stable IDs and separate edition-2 progress keys preserve access to original saved games.
 
 | Series | Original entries / distinct clue pairs | Current entries / distinct clue pairs |
 | --- | --- | --- |
@@ -89,7 +89,17 @@ Sixty current puzzles have been edited into distinct subjects. The gardening URL
 | Flowers | 64 / 22 | 58 / 58 |
 | Pets | 58 / 20 | 56 / 56 |
 | Drinks | 65 / 22 | 55 / 55 |
+| Movies | 65 / 22 | 55 / 55 |
+| Seaside | 64 / 25 | 55 / 55 |
+| Autumn | 62 / 22 | 58 / 58 |
+| Holidays | 63 / 23 | 57 / 57 |
+| Reading | 64 / 22 | 57 / 57 |
+| Weather | 64 / 21 | 56 / 56 |
+| Workshop | 64 / 21 | 57 / 57 |
+| Games | 57 / 21 | 58 / 58 |
 
-The current collection has 1,185 clue entries. Forty current puzzles still await this editorial treatment; the report keeps their repetition signals visible. `npm run audit:content` checks for identical complete clue sets and validates each edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and remaining numbered titles. The report also lists clues that directly spell out their answer, and edited editions must pass that check. These are review signals, not Google thresholds; warnings do not automatically change indexing. Run `npm run audit:content -- --write` to refresh `docs/content-audit.md` and the JSON report. Production builds run the audit without changing tracked reports.
+The collection has 1,135 clue entries, 1,135 distinct answer/clue pairs, 100 different introductions and 300 answer explanations. Familiar answers still recur across contexts; answer-set overlap is reported separately from exact-clue repetition. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) for all subject titles and review statistics.
+
+`npm run audit:content` checks for identical complete clue sets and validates every edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and numbered titles. Clues that directly spell out their own answer fail validation. These are internal review signals, not Google thresholds; they do not automatically change indexing. Run `npm run audit:content -- --write` to refresh the reports. Production builds audit without changing tracked reports.
 
 The series manifest supplies fixed seeds, source filenames, and archive filenames. An existing series keeps its seed, layout settings, and word order when a new series is added. This prevents previously published edited puzzles from changing silently. Legacy archive files in `src/data/archives/` are immutable snapshots; do not regenerate or overwrite them with current layouts. Build-time archive routing and validation use the same manifest. Archive pages are excluded from the sitemap and marked noindex. Use a new revision whenever changing an existing grid so saved letters cannot be applied to a different puzzle.

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "in-the-workshop",
+    "title": "In the Workshop",
+    "theme": "Classic Pastimes",
+    "description": "A small collection of everyday tools and things to make.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "HAMMER",
+        "clue": "A tool used to drive nails",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "HANDLE",
+        "clue": "The part of a tool you hold",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PLIERS",
+        "clue": "A hand tool used to grip or bend wire",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PAINT",
+        "clue": "A colored coating applied with a brush",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "RULER",
+        "clue": "A straight tool marked for measuring",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LEVEL",
+        "clue": "A tool used to check whether a surface is horizontal",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SCREW",
+        "clue": "A metal fastener with a spiral thread",
+        "row": 8,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TAPE",
+        "clue": "A flexible measuring ___ can be pulled from a case",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WOOD",
+        "clue": "Material cut from the trunk of a tree",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BOLT",
+        "clue": "A metal fastener often paired with a nut",
+        "row": 0,
+        "col": 11,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FILE",
+        "clue": "A rough metal tool used for smoothing an edge",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "NAIL",
+        "clue": "A metal fastener driven into wood",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SAW",
+        "clue": "A tool with teeth used to cut wood",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      }
+    ]
+  },
+  {
+    "id": "in-the-workshop-2",
+    "title": "In the Workshop \u2014 No. 2",
+    "theme": "Classic Pastimes",
+    "description": "A small collection of everyday tools and things to make.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "PLIERS",
+        "clue": "A hand tool used to grip or bend wire",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "HANDLE",
+        "clue": "The part of a tool you hold",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HAMMER",
+        "clue": "A tool used to drive nails",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "WRENCH",
+        "clue": "A tool used to turn nuts and bolts",
+        "row": 0,
+        "col": 11,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DRILL",
+        "clue": "A tool used to make round holes",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SCREW",
+        "clue": "A metal fastener with a spiral thread",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "RULER",
+        "clue": "A straight tool marked for measuring",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CLAMP",
+        "clue": "A tool that holds pieces tightly together",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "GLUE",
+        "clue": "An adhesive used to join materials",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "FILE",
+        "clue": "A rough metal tool used for smoothing an edge",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SAND",
+        "clue": "To smooth wood using abrasive paper",
+        "row": 3,
+        "col": 9,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "WOOD",
+        "clue": "Material cut from the trunk of a tree",
+        "row": 10,
+        "col": 8,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "SAW",
+        "clue": "A tool with teeth used to cut wood",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "in-the-workshop-3",
+    "title": "In the Workshop \u2014 No. 3",
+    "theme": "Classic Pastimes",
+    "description": "A small collection of everyday tools and things to make.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "HANDLE",
+        "clue": "The part of a tool you hold",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "HAMMER",
+        "clue": "A tool used to drive nails",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DRILL",
+        "clue": "A tool used to make round holes",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "BENCH",
+        "clue": "A sturdy table used for workshop tasks",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CLAMP",
+        "clue": "A tool that holds pieces tightly together",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SCREW",
+        "clue": "A metal fastener with a spiral thread",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BOLT",
+        "clue": "A metal fastener often paired with a nut",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SAND",
+        "clue": "To smooth wood using abrasive paper",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "VISE",
+        "clue": "A device fixed to a bench to hold work firmly",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "NAIL",
+        "clue": "A metal fastener driven into wood",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TAPE",
+        "clue": "A flexible measuring ___ can be pulled from a case",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "WOOD",
+        "clue": "Material cut from the trunk of a tree",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "in-the-workshop-4",
+    "title": "In the Workshop \u2014 No. 4",
+    "theme": "Classic Pastimes",
+    "description": "A small collection of everyday tools and things to make.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "WRENCH",
+        "clue": "A tool used to turn nuts and bolts",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "PLIERS",
+        "clue": "A hand tool used to grip or bend wire",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "LEVEL",
+        "clue": "A tool used to check whether a surface is horizontal",
+        "row": 4,
+        "col": 4,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CLAMP",
+        "clue": "A tool that holds pieces tightly together",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "DRILL",
+        "clue": "A tool used to make round holes",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BENCH",
+        "clue": "A sturdy table used for workshop tasks",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BRUSH",
+        "clue": "A tool with bristles used to apply paint",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "VISE",
+        "clue": "A device fixed to a bench to hold work firmly",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SAND",
+        "clue": "To smooth wood using abrasive paper",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "WOOD",
+        "clue": "Material cut from the trunk of a tree",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "NAIL",
+        "clue": "A metal fastener driven into wood",
+        "row": 8,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "GLUE",
+        "clue": "An adhesive used to join materials",
+        "row": 11,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "in-the-workshop-5",
+    "title": "In the Workshop \u2014 No. 5",
+    "theme": "Classic Pastimes",
+    "description": "A small collection of everyday tools and things to make.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "PLIERS",
+        "clue": "A hand tool used to grip or bend wire",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "PAINT",
+        "clue": "A colored coating applied with a brush",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "RULER",
+        "clue": "A straight tool marked for measuring",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BRUSH",
+        "clue": "A tool with bristles used to apply paint",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "LEVEL",
+        "clue": "A tool used to check whether a surface is horizontal",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SCREW",
+        "clue": "A metal fastener with a spiral thread",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "DRILL",
+        "clue": "A tool used to make round holes",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 14
+      },
+      {
+        "answer": "TAPE",
+        "clue": "A flexible measuring ___ can be pulled from a case",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "VISE",
+        "clue": "A device fixed to a bench to hold work firmly",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "BOLT",
+        "clue": "A metal fastener often paired with a nut",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "NAIL",
+        "clue": "A metal fastener driven into wood",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SAND",
+        "clue": "To smooth wood using abrasive paper",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "GLUE",
+        "clue": "An adhesive used to join materials",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 13
+      },
+      {
+        "answer": "SAW",
+        "clue": "A tool with teeth used to cut wood",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 12
+      }
+    ]
+  }
+]

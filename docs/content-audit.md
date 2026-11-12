@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1185 clue entries.
-- 708 distinct answers; 859 distinct answer/clue pairs.
-- 68 different introductions; 32 numbered titles remain.
-- 60 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1135 clue entries.
+- 886 distinct answers; 1135 distinct answer/clue pairs.
+- 100 different introductions; 0 numbered titles remain.
+- 100 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -129,11 +129,91 @@ Current subjects: Out for a Dog Walk, Around the Cat Basket, Small Pets and Thei
 
 Current subjects: A Pot of Tea, Morning Coffee Words, A Warm Cup of Cocoa, At the Diner Counter, Lemonade on the Porch.
 
-The 60 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Movies: five stable URLs
 
-## Next editorial queue
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 65 | 55 |
+| Distinct answer/clue pairs | 22 | 55 |
+| Different introductions | 1 | 5 |
 
-40 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+Current subjects: An Evening at the Movies, Behind the Movie Camera, What Kind of Movie?, Movie Night at Home, In the Silent Picture House.
+
+## Seaside: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 55 |
+| Distinct answer/clue pairs | 25 | 55 |
+| Different introductions | 1 | 5 |
+
+Current subjects: A Day on the Beach, Waves and Changing Tides, Shells Along the Shore, Around a Small Harbor, Birds Beside the Sea.
+
+## Autumn: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 62 | 58 |
+| Distinct answer/clue pairs | 22 | 58 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Leaves Along the Path, At the Autumn Farm Stand, Woodland Neighbors in Fall, Ready for a Crisp Day, An Autumn Front Porch.
+
+## Holidays: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 63 | 57 |
+| Distinct answer/clue pairs | 23 | 57 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Thanksgiving Dinner Words, Setting the Holiday Table, Decorating a Christmas Tree, Wrapping a Small Gift, Sending Holiday Greetings.
+
+## Reading: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 57 |
+| Distinct answer/clue pairs | 22 | 57 |
+| Different introductions | 1 | 5 |
+
+Current subjects: A Visit to the Library, From Cover to Last Page, Inside a Familiar Story, The Sound of a Poem, A Quiet Reading Corner.
+
+## Weather: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 56 |
+| Distinct answer/clue pairs | 21 | 56 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Looking Up at the Clouds, Rain at the Window, A Breeze Through the Trees, Snow on a Winter Morning, Reading the Weather Report.
+
+## Workshop: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 57 |
+| Distinct answer/clue pairs | 21 | 57 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Measuring at the Workbench, Wood and the Saw Cut, Joining the Pieces, The Finishing Touch, A Tidy Tool Bench.
+
+## Games: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 57 | 58 |
+| Distinct answer/clue pairs | 21 | 58 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Across the Chessboard, A Game of Checkers, Dominoes on the Table, Inside a Deck of Cards, A Friendly Board-Game Evening.
+
+The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+
+## Ongoing editorial review
+
+All 100 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -142,20 +222,20 @@ The 60 original layouts remain available as noindex previous editions so browser
 | backyard-birds | 55 | 55 | 5 | 0 |
 | a-cup-of-comfort | 55 | 55 | 5 | 0 |
 | on-the-road | 57 | 57 | 5 | 0 |
-| movie-night | 65 | 22 | 1 | 4 |
+| movie-night | 55 | 55 | 5 | 0 |
 | music-memories | 57 | 57 | 5 | 0 |
-| by-the-sea | 64 | 25 | 1 | 4 |
+| by-the-sea | 55 | 55 | 5 | 0 |
 | cozy-at-home | 57 | 57 | 5 | 0 |
-| autumn-walk | 62 | 22 | 1 | 4 |
-| holiday-table | 63 | 23 | 1 | 4 |
-| a-good-book | 64 | 22 | 1 | 4 |
+| autumn-walk | 58 | 58 | 5 | 0 |
+| holiday-table | 57 | 57 | 5 | 0 |
+| a-good-book | 57 | 57 | 5 | 0 |
 | our-furry-friends | 56 | 56 | 5 | 0 |
 | a-stitch-in-time | 57 | 57 | 5 | 0 |
-| weather-watching | 64 | 21 | 1 | 4 |
+| weather-watching | 56 | 56 | 5 | 0 |
 | market-morning | 58 | 58 | 5 | 0 |
-| in-the-workshop | 64 | 21 | 1 | 4 |
+| in-the-workshop | 57 | 57 | 5 | 0 |
 | a-day-at-the-farm | 58 | 58 | 5 | 0 |
-| game-night | 57 | 21 | 1 | 4 |
+| game-night | 58 | 58 | 5 | 0 |
 | flower-favorites | 58 | 58 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

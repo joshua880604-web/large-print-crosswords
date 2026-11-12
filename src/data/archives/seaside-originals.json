@@ -1,0 +1,569 @@
+[
+  {
+    "id": "by-the-sea",
+    "title": "By the Sea",
+    "theme": "Nature",
+    "description": "A gentle breeze, a sandy shore, and a few easy clues to enjoy.",
+    "difficulty": "Easy",
+    "rows": 9,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "ANCHOR",
+        "clue": "A heavy object used to hold a boat in place",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SHORE",
+        "clue": "Land along the edge of the sea",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PEARL",
+        "clue": "A smooth gem sometimes formed inside an oyster",
+        "row": 4,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MAST",
+        "clue": "The tall pole supporting a boat's sail",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CRAB",
+        "clue": "A sea creature with claws",
+        "row": 3,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BOAT",
+        "clue": "A vessel used to travel on water",
+        "row": 6,
+        "col": 9,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SHIP",
+        "clue": "A large vessel for traveling on water",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SAIL",
+        "clue": "Fabric that catches wind to move a boat",
+        "row": 5,
+        "col": 11,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SALT",
+        "clue": "The seasoning naturally found in seawater",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SEAL",
+        "clue": "A marine mammal with flippers",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "WAVE",
+        "clue": "A moving swell on the surface of water",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PIER",
+        "clue": "A structure extending over the water from shore",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FOAM",
+        "clue": "Bubbles on the top of a breaking wave",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      }
+    ]
+  },
+  {
+    "id": "by-the-sea-2",
+    "title": "By the Sea \u2014 No. 2",
+    "theme": "Nature",
+    "description": "A gentle breeze, a sandy shore, and a few easy clues to enjoy.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "ANCHOR",
+        "clue": "A heavy object used to hold a boat in place",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SHELL",
+        "clue": "A hard covering you might find on the beach",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "PEARL",
+        "clue": "A smooth gem sometimes formed inside an oyster",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "OCEAN",
+        "clue": "A very large body of salt water",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BOAT",
+        "clue": "A vessel used to travel on water",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SALT",
+        "clue": "The seasoning naturally found in seawater",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "SEAL",
+        "clue": "A marine mammal with flippers",
+        "row": 4,
+        "col": 7,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SHIP",
+        "clue": "A large vessel for traveling on water",
+        "row": 8,
+        "col": 4,
+        "direction": "down",
+        "number": 12
+      },
+      {
+        "answer": "DUNE",
+        "clue": "A hill of sand shaped by wind",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SAND",
+        "clue": "Tiny grains found on a beach",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PORT",
+        "clue": "A harbor where ships load and unload",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CLAM",
+        "clue": "A shellfish with two hinged shells",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that warms a day at the beach",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      }
+    ]
+  },
+  {
+    "id": "by-the-sea-3",
+    "title": "By the Sea \u2014 No. 3",
+    "theme": "Nature",
+    "description": "A gentle breeze, a sandy shore, and a few easy clues to enjoy.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "OCEAN",
+        "clue": "A very large body of salt water",
+        "row": 5,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "DUNE",
+        "clue": "A hill of sand shaped by wind",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "COVE",
+        "clue": "A small sheltered bay",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "PIER",
+        "clue": "A structure extending over the water from shore",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SAND",
+        "clue": "Tiny grains found on a beach",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "REEF",
+        "clue": "An underwater ridge often made of coral",
+        "row": 8,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "PORT",
+        "clue": "A harbor where ships load and unload",
+        "row": 8,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CRAB",
+        "clue": "A sea creature with claws",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SEAL",
+        "clue": "A marine mammal with flippers",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BOAT",
+        "clue": "A vessel used to travel on water",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SAIL",
+        "clue": "Fabric that catches wind to move a boat",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SALT",
+        "clue": "The seasoning naturally found in seawater",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that warms a day at the beach",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "by-the-sea-4",
+    "title": "By the Sea \u2014 No. 4",
+    "theme": "Nature",
+    "description": "A gentle breeze, a sandy shore, and a few easy clues to enjoy.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "ANCHOR",
+        "clue": "A heavy object used to hold a boat in place",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SHORE",
+        "clue": "Land along the edge of the sea",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SHELL",
+        "clue": "A hard covering you might find on the beach",
+        "row": 6,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PEARL",
+        "clue": "A smooth gem sometimes formed inside an oyster",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CLAM",
+        "clue": "A shellfish with two hinged shells",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "MAST",
+        "clue": "The tall pole supporting a boat's sail",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "WAVE",
+        "clue": "A moving swell on the surface of water",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "GULL",
+        "clue": "A bird commonly seen near the sea",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SAND",
+        "clue": "Tiny grains found on a beach",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "PIER",
+        "clue": "A structure extending over the water from shore",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "KELP",
+        "clue": "A large brown seaweed",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "TIDE",
+        "clue": "The regular rise and fall of sea level",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "CRAB",
+        "clue": "A sea creature with claws",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that warms a day at the beach",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      }
+    ]
+  },
+  {
+    "id": "by-the-sea-5",
+    "title": "By the Sea \u2014 No. 5",
+    "theme": "Nature",
+    "description": "A gentle breeze, a sandy shore, and a few easy clues to enjoy.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ANCHOR",
+        "clue": "A heavy object used to hold a boat in place",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SHELL",
+        "clue": "A hard covering you might find on the beach",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "MAST",
+        "clue": "The tall pole supporting a boat's sail",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FOAM",
+        "clue": "Bubbles on the top of a breaking wave",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PIER",
+        "clue": "A structure extending over the water from shore",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "GULL",
+        "clue": "A bird commonly seen near the sea",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "KELP",
+        "clue": "A large brown seaweed",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BOAT",
+        "clue": "A vessel used to travel on water",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SEAL",
+        "clue": "A marine mammal with flippers",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "WAVE",
+        "clue": "A moving swell on the surface of water",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that warms a day at the beach",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 1
+      }
+    ]
+  }
+]

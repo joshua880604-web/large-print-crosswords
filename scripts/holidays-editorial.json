@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Thanksgiving Dinner Words",
+    "subtheme": "A Familiar American Meal",
+    "cardDescription": "Gather familiar words for an American Thanksgiving meal, from a roast and its accompaniments to serving and sharing.",
+    "description": "Gather familiar words for an American Thanksgiving meal, from a roast and its accompaniments to serving and sharing.",
+    "focus": "The clues mix foods, an herb, and ordinary meal actions. They identify the words themselves rather than giving a recipe or a timetable for cooking.",
+    "solvingTip": "Look for whether the clue asks for a food, a flavoring, or a meal action. Short herb and meal words can help cross the longer holiday foods.",
+    "words": [
+      [
+        "TURKEY",
+        "Large bird traditionally roasted for many American Thanksgiving meals"
+      ],
+      [
+        "GRAVY",
+        "Savory sauce often served with roast meat and potatoes"
+      ],
+      [
+        "STUFFING",
+        "Seasoned bread mixture served with a holiday roast"
+      ],
+      [
+        "YAM",
+        "Starchy tuber whose name is often used loosely for sweet potatoes in U.S. stores"
+      ],
+      [
+        "CRANBERRY",
+        "Tart red fruit made into a familiar Thanksgiving sauce"
+      ],
+      [
+        "SQUASH",
+        "Autumn crop that includes acorn and butternut varieties"
+      ],
+      [
+        "CORN",
+        "Grain served as kernels or on the cob at a harvest meal"
+      ],
+      [
+        "PIE",
+        "Pastry dish often filled with pumpkin for Thanksgiving"
+      ],
+      [
+        "CRUST",
+        "Outer pastry shell of a holiday pie"
+      ],
+      [
+        "SAGE",
+        "Aromatic herb often used to season bread stuffing"
+      ],
+      [
+        "THYME",
+        "Small-leaved culinary herb whose name sounds like time"
+      ],
+      [
+        "ROAST",
+        "To cook food with dry heat, often in an oven"
+      ],
+      [
+        "BASTE",
+        "To moisten roasting food with liquid or cooking juices"
+      ],
+      [
+        "CARVE",
+        "To cut portions from a cooked whole bird"
+      ],
+      [
+        "SLICE",
+        "One flat serving cut from roast meat"
+      ],
+      [
+        "PLATTER",
+        "Large flat dish used to present a holiday roast"
+      ],
+      [
+        "DINNER",
+        "Main meal shared around a holiday table"
+      ],
+      [
+        "FEAST",
+        "Large celebratory meal"
+      ],
+      [
+        "THANKS",
+        "Expression of gratitude offered at a gathering"
+      ],
+      [
+        "SHARE",
+        "To divide food or enjoyment with others"
+      ]
+    ],
+    "answerNotes": {
+      "YAM": "True yams and sweet potatoes are different plants. The clue acknowledges the loose American store usage rather than treating them as botanically identical.",
+      "THYME": "Thyme sounds like time in ordinary American pronunciation. The herb meaning determines the spelling in this food clue.",
+      "SAGE": "Sage names an herb here. The same word can describe a wise person, but the seasoning context selects the plant.",
+      "STUFFING": "Stuffing is a seasoned mixture served with a roast. It may be cooked separately, so the clue does not require it to be inside the bird.",
+      "PLATTER": "A platter is a large serving dish. It differs from an individual plate used by one diner.",
+      "CARVE": "Carve means cut portions from cooked meat here. The same verb can describe shaping wood in a different setting."
+    },
+    "id": "holiday-table"
+  },
+  {
+    "title": "Setting the Holiday Table",
+    "subtheme": "Tableware and Places",
+    "cardDescription": "Arrange a festive table through familiar words for dishes, utensils, decorations, and guest places.",
+    "description": "Arrange a festive table through familiar words for dishes, utensils, decorations, and guest places.",
+    "focus": "The clues use purpose and location to distinguish serving objects, decorations, individual utensils, and guest places around a set table.",
+    "solvingTip": "Check whether the clue points to an eating utensil, a container, a decoration, or a guest place. Short familiar dish names can help cross longer table-setting words.",
+    "words": [
+      [
+        "PLATE",
+        "Flat dish set before one diner"
+      ],
+      [
+        "BOWL",
+        "Deep rounded dish used for soup or another serving"
+      ],
+      [
+        "FORK",
+        "Eating utensil with several prongs"
+      ],
+      [
+        "KNIFE",
+        "Table utensil used to cut food"
+      ],
+      [
+        "SPOON",
+        "Eating utensil with a shallow rounded bowl"
+      ],
+      [
+        "NAPKIN",
+        "Cloth or paper used to protect clothing or wipe the mouth"
+      ],
+      [
+        "GLASS",
+        "Drinking vessel placed beside a dinner plate"
+      ],
+      [
+        "GOBLET",
+        "Drinking vessel with a bowl raised on a stem"
+      ],
+      [
+        "CHARGER",
+        "Large decorative plate placed beneath a dinner plate"
+      ],
+      [
+        "RUNNER",
+        "Long narrow decorative cloth laid down the center of a table"
+      ],
+      [
+        "CLOTH",
+        "Fabric covering spread over a dining table"
+      ],
+      [
+        "PLACE",
+        "Position assigned to one guest at a table"
+      ],
+      [
+        "SETTING",
+        "Arrangement of dishes and utensils for one diner"
+      ],
+      [
+        "CANDLE",
+        "Wax light used as a table decoration"
+      ],
+      [
+        "VASE",
+        "Container holding flowers in a table display"
+      ],
+      [
+        "CENTERPIECE",
+        "Decorative arrangement in the middle of a dining table"
+      ],
+      [
+        "LABEL",
+        "Small written marker identifying something on a table"
+      ],
+      [
+        "NAME",
+        "Word written on a card to identify a guest"
+      ],
+      [
+        "SEAT",
+        "Place where a dinner guest sits"
+      ],
+      [
+        "HOST",
+        "Person welcoming guests to a meal"
+      ]
+    ],
+    "answerNotes": {
+      "CHARGER": "A charger is a decorative underplate in this context. It does not mean an electrical charging device.",
+      "RUNNER": "A table runner is a narrow length of cloth. Its shape distinguishes it from a cloth covering the entire tabletop.",
+      "GOBLET": "A goblet has a bowl supported on a stem. The clue describes the vessel's form rather than a particular drink.",
+      "SETTING": "A place setting is the group of dishes and utensils arranged for one person. It differs from the table's central decoration.",
+      "CENTERPIECE": "A centerpiece is located in the middle of the display. The American spelling uses center rather than centre.",
+      "HOST": "Host names the person receiving guests here. The clue asks for a role rather than a piece of tableware."
+    },
+    "id": "holiday-table-2"
+  },
+  {
+    "title": "Decorating a Christmas Tree",
+    "subtheme": "Tree Shapes and Trimmings",
+    "cardDescription": "Picture a decorated Christmas tree through familiar ornaments, branches, lights, and supporting objects.",
+    "description": "Picture a decorated Christmas tree through familiar ornaments, branches, lights, and supporting objects.",
+    "focus": "The clues describe both the tree and its decorations. Some words name plant parts or tree types, while others name objects hung or placed around the tree.",
+    "solvingTip": "Ask whether the clue names part of the plant, a decoration, or a support. Short tree and light words can help cross the longer ornament names.",
+    "words": [
+      [
+        "TREE",
+        "Woody plant decorated with lights for Christmas"
+      ],
+      [
+        "ORNAMENT",
+        "Decorative object hung on a holiday tree"
+      ],
+      [
+        "TINSEL",
+        "Thin shiny strips used as a sparkling decoration"
+      ],
+      [
+        "GARLAND",
+        "Long decorative strand draped around a tree"
+      ],
+      [
+        "STAR",
+        "Pointed shape often placed at the top of a Christmas tree"
+      ],
+      [
+        "LIGHT",
+        "Small electric lamp used in a tree decoration"
+      ],
+      [
+        "BULB",
+        "One small electric lamp in a decorative string"
+      ],
+      [
+        "BAUBLE",
+        "Small decorative ball hung on a tree"
+      ],
+      [
+        "HOOK",
+        "Curved hanger used to suspend an ornament"
+      ],
+      [
+        "BRANCH",
+        "Woody limb supporting a hanging decoration"
+      ],
+      [
+        "NEEDLE",
+        "Narrow pointed leaf on many evergreen trees"
+      ],
+      [
+        "PINE",
+        "Evergreen tree commonly bearing needles in bundles"
+      ],
+      [
+        "FIR",
+        "Evergreen tree whose upright cones break apart on the branches"
+      ],
+      [
+        "SPRUCE",
+        "Evergreen tree often recognized by stiff pointed needles"
+      ],
+      [
+        "ANGEL",
+        "Winged figure sometimes used as a tree-top decoration"
+      ],
+      [
+        "RIBBON",
+        "Decorative fabric strip woven among tree branches"
+      ],
+      [
+        "STRING",
+        "Length of connected decorative lights"
+      ],
+      [
+        "STAND",
+        "Base that supports a tree upright"
+      ],
+      [
+        "SKIRT",
+        "Decorative cloth spread around the base of a tree"
+      ],
+      [
+        "TOPPER",
+        "Decoration placed at the highest point of a tree"
+      ]
+    ],
+    "answerNotes": {
+      "NEEDLE": "Needle names an evergreen leaf here. It is a plant part rather than a sewing tool.",
+      "TINSEL": "Tinsel consists of shiny decorative strips. It names the material rather than the entire decorated tree.",
+      "BAUBLE": "A bauble is a small decorative trinket, often a ball in this setting. The clue identifies its holiday use.",
+      "SKIRT": "A tree skirt lies around the base. Its location distinguishes it from decorations hung on branches.",
+      "STAND": "Stand names the supporting base here. It is a noun rather than an instruction to rise to one's feet.",
+      "TOPPER": "A topper is placed at the top. A star or angel can serve that role, but the word names the position-based decoration."
+    },
+    "id": "holiday-table-3"
+  },
+  {
+    "title": "Wrapping a Small Gift",
+    "subtheme": "Paper, Ribbons, and Parcels",
+    "cardDescription": "Prepare a gift through familiar words for paper, containers, folds, and decorative finishing touches.",
+    "description": "Prepare a gift through familiar words for paper, containers, folds, and decorative finishing touches.",
+    "focus": "This puzzle follows the objects and actions involved in wrapping a parcel. Clues distinguish materials from the shapes and fastenings made with them.",
+    "solvingTip": "Look for a material, a container, a folding mark, or a fastening. A ribbon and the knot made from it have different names. Short wrapping words can help cross longer tools.",
+    "words": [
+      [
+        "PAPER",
+        "Thin sheet used to cover a gift box"
+      ],
+      [
+        "BOX",
+        "Rigid container used to hold a present"
+      ],
+      [
+        "TAPE",
+        "Adhesive strip used to secure wrapping paper"
+      ],
+      [
+        "SCISSORS",
+        "Two-bladed hand tool used to cut gift wrap"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip tied around a parcel"
+      ],
+      [
+        "BOW",
+        "Looped knot made as a gift decoration"
+      ],
+      [
+        "TAG",
+        "Small attached card identifying a gift's recipient"
+      ],
+      [
+        "LABEL",
+        "Written marker naming the recipient or contents of a parcel"
+      ],
+      [
+        "TISSUE",
+        "Thin soft paper placed inside a gift bag"
+      ],
+      [
+        "FOLD",
+        "To bend wrapping paper over on itself"
+      ],
+      [
+        "CREASE",
+        "Line left where a sheet has been sharply folded"
+      ],
+      [
+        "WRAP",
+        "To cover a present with paper or another material"
+      ],
+      [
+        "TIE",
+        "To fasten a ribbon or cord into a knot"
+      ],
+      [
+        "KNOT",
+        "Fastening formed by interlacing a cord or ribbon"
+      ],
+      [
+        "GIFT",
+        "Something offered to another person as a present"
+      ],
+      [
+        "BAG",
+        "Flexible handled container that can hold a gift"
+      ],
+      [
+        "CARD",
+        "Small written greeting enclosed with a present"
+      ],
+      [
+        "STRING",
+        "Thin cord used to bind a parcel"
+      ],
+      [
+        "SEAL",
+        "To close a wrapped parcel securely"
+      ],
+      [
+        "PARCEL",
+        "Wrapped package ready to give or send"
+      ]
+    ],
+    "answerNotes": {
+      "TISSUE": "Tissue means thin paper in this clue. It does not refer to the biological material that shares the word.",
+      "CREASE": "A crease is the line created by a fold. The clue asks for the mark rather than the folding action.",
+      "BOW": "Bow is the looped knot and rhymes with go. Ribbon names its material, while bow names the shape made from it.",
+      "TAG": "A gift tag identifies a recipient or sender. Its job distinguishes it from the wrapping that covers the box.",
+      "PARCEL": "Parcel is another word for a wrapped package. The word refers to the whole bundle rather than one sheet of paper.",
+      "SEAL": "Seal is used as a verb meaning close securely. The clue does not ask for the marine animal with the same spelling."
+    },
+    "id": "holiday-table-4"
+  },
+  {
+    "title": "Sending Holiday Greetings",
+    "subtheme": "Cards and Kind Words",
+    "cardDescription": "Write a seasonal greeting through familiar words for cards, mail, messages, and the people receiving them.",
+    "description": "Write a seasonal greeting through familiar words for cards, mail, messages, and the people receiving them.",
+    "focus": "The clues bring together writing materials, postal objects, and ordinary words used in greetings. Some answers name an object; others name a feeling, a person, or an action.",
+    "solvingTip": "Check whether the clue asks for a mailing item, something written, or an action. Short message and writing words can help cross longer postal terms.",
+    "words": [
+      [
+        "CARD",
+        "Printed or handwritten greeting sent for a special occasion"
+      ],
+      [
+        "ENVELOPE",
+        "Paper covering that holds a mailed greeting"
+      ],
+      [
+        "STAMP",
+        "Small adhesive sign showing that postage has been paid"
+      ],
+      [
+        "ADDRESS",
+        "Recipient's location written on the front of an envelope"
+      ],
+      [
+        "POSTMARK",
+        "Postal mark showing where or when an item entered the mail"
+      ],
+      [
+        "MAIL",
+        "Letters and cards sent through a postal service"
+      ],
+      [
+        "LETTER",
+        "Written personal message sent to another person"
+      ],
+      [
+        "NOTE",
+        "Short written message inside a greeting card"
+      ],
+      [
+        "WISH",
+        "Hope expressed for another person's happiness"
+      ],
+      [
+        "GREETING",
+        "Words of welcome or goodwill at a special time"
+      ],
+      [
+        "CHEER",
+        "Good spirits expressed in a friendly seasonal message"
+      ],
+      [
+        "PEACE",
+        "State of calm or absence of conflict named in many greetings"
+      ],
+      [
+        "JOY",
+        "Feeling of great happiness"
+      ],
+      [
+        "THANKS",
+        "Words of gratitude written to someone who helped"
+      ],
+      [
+        "FAMILY",
+        "Relatives addressed together in a household greeting"
+      ],
+      [
+        "FRIEND",
+        "Person known with affection and trust"
+      ],
+      [
+        "SIGN",
+        "To write one's name at the end of a card"
+      ],
+      [
+        "INK",
+        "Colored liquid used by a pen"
+      ],
+      [
+        "PEN",
+        "Handheld writing instrument used to sign a card"
+      ],
+      [
+        "SEAL",
+        "Adhesive or closing mark on an envelope flap"
+      ]
+    ],
+    "answerNotes": {
+      "POSTMARK": "A postmark is applied by the postal service. It differs from the postage stamp attached before mailing.",
+      "ADDRESS": "Address means a destination written on the envelope here. It is not a formal speech in this clue.",
+      "NOTE": "A note is a short message in this context. The word also has a musical meaning that is not requested here.",
+      "SIGN": "Sign is a verb for adding a name. The clue asks for the writing action rather than a roadside marker.",
+      "STAMP": "A postage stamp shows payment of postage. A postmark records postal handling and is a different mark.",
+      "SEAL": "Seal is a noun for a closing mark or adhesive here. The grammar distinguishes it from the action of sealing a parcel."
+    },
+    "id": "holiday-table-5"
+  }
+]

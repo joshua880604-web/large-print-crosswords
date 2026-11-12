@@ -1,0 +1,497 @@
+[
+  {
+    "title": "A Visit to the Library",
+    "subtheme": "Borrowing and Browsing",
+    "cardDescription": "Browse a library through familiar words for shelves, borrowing, book information, and the people who help readers.",
+    "description": "Browse a library through familiar words for shelves, borrowing, book information, and the people who help readers.",
+    "focus": "The clues describe library places, records, and lending actions. Some answers name objects or people; others describe what a reader does with a borrowed book.",
+    "solvingTip": "Check whether a clue asks for a person, a record, a location, or a lending action. Short borrowing words can help cross longer library terms.",
+    "words": [
+      [
+        "LIBRARY",
+        "Place where books are kept for reading or borrowing"
+      ],
+      [
+        "LIBRARIAN",
+        "Person who helps readers find and use library materials"
+      ],
+      [
+        "SHELF",
+        "Horizontal support holding a row of books"
+      ],
+      [
+        "CATALOG",
+        "Organized list of books and other library items"
+      ],
+      [
+        "CARD",
+        "Small identification item used to borrow library books"
+      ],
+      [
+        "LOAN",
+        "Temporary lending of a library item"
+      ],
+      [
+        "BORROW",
+        "To take out a book with permission to return it later"
+      ],
+      [
+        "RETURN",
+        "To bring a borrowed library item back"
+      ],
+      [
+        "RENEW",
+        "To extend the borrowing period of a library book"
+      ],
+      [
+        "DUE",
+        "Required to be returned by a specified date"
+      ],
+      [
+        "HOLD",
+        "Request to reserve a library item for later borrowing"
+      ],
+      [
+        "STACK",
+        "Pile or arranged collection of books"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of library shelves"
+      ],
+      [
+        "DESK",
+        "Service counter where a reader can ask for help"
+      ],
+      [
+        "READER",
+        "Person using or enjoying written material"
+      ],
+      [
+        "TITLE",
+        "Name under which a book is listed"
+      ],
+      [
+        "AUTHOR",
+        "Person who wrote a book"
+      ],
+      [
+        "INDEX",
+        "Alphabetical guide to topics in a book"
+      ],
+      [
+        "ARCHIVE",
+        "Collection preserving records or historical documents"
+      ],
+      [
+        "VOLUME",
+        "One book in a set or series"
+      ]
+    ],
+    "answerNotes": {
+      "CATALOG": "Catalog lists and describes library items. This is the common American spelling; catalogue is another accepted form.",
+      "RENEW": "Renew means extend the borrowing period here. It does not mean replacing the book with a new copy.",
+      "HOLD": "A hold reserves an item for a reader. The word names a request rather than physically gripping a book.",
+      "DUE": "Due describes the required return date. It sounds like dew, but the lending context determines the spelling.",
+      "ARCHIVE": "An archive preserves records or historical materials. The word can name a collection rather than just one book.",
+      "VOLUME": "Volume means one physical book here. The same spelling can describe sound level in another setting."
+    },
+    "id": "a-good-book"
+  },
+  {
+    "title": "From Cover to Last Page",
+    "subtheme": "Parts of a Book",
+    "cardDescription": "Open a book through familiar words for its outside, printed pages, and the guides that help readers find information.",
+    "description": "Open a book through familiar words for its outside, printed pages, and the guides that help readers find information.",
+    "focus": "This puzzle moves between the physical book and the features of its text. Clues identify an item by its position or purpose, such as an outside covering or a guide near the end.",
+    "solvingTip": "Look for whether the clue points to the outside, a page feature, or a guide to the text. Edge and end locations can help separate similar book terms.",
+    "words": [
+      [
+        "COVER",
+        "Outer protective surface of a book"
+      ],
+      [
+        "SPINE",
+        "Bound edge of a book visible when it stands on a shelf"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "LEAF",
+        "One sheet of a book, with a page on each side"
+      ],
+      [
+        "CHAPTER",
+        "Major numbered or titled division of a book"
+      ],
+      [
+        "TITLE",
+        "Name printed on a book's opening display page"
+      ],
+      [
+        "AUTHOR",
+        "Person credited with writing the text"
+      ],
+      [
+        "PREFACE",
+        "Introductory remarks placed before the main text"
+      ],
+      [
+        "CONTENTS",
+        "List of a book's sections and their starting pages"
+      ],
+      [
+        "INDEX",
+        "Alphabetical topic list with page references near a book's end"
+      ],
+      [
+        "GLOSSARY",
+        "List explaining specialized words used in a book"
+      ],
+      [
+        "MARGIN",
+        "Blank space around the edges of a printed page"
+      ],
+      [
+        "FOOTNOTE",
+        "Explanatory note printed at the bottom of a page"
+      ],
+      [
+        "BINDING",
+        "Structure holding a book's pages together"
+      ],
+      [
+        "JACKET",
+        "Removable paper covering around a hardcover book"
+      ],
+      [
+        "BLURB",
+        "Short promotional description printed on a book's cover"
+      ],
+      [
+        "EDITION",
+        "Particular published version of a book"
+      ],
+      [
+        "PRINT",
+        "Letters or words produced on paper"
+      ],
+      [
+        "TEXT",
+        "Main written words of a book"
+      ],
+      [
+        "PAPER",
+        "Thin material on which a book's words are printed"
+      ]
+    ],
+    "answerNotes": {
+      "SPINE": "Spine names the bound book edge here. It does not refer to the backbone inside a person or animal.",
+      "LEAF": "A leaf is one sheet with two page surfaces. Page identifies one side, so the two words count different units.",
+      "GLOSSARY": "A glossary explains words. An index instead points readers to pages where topics occur.",
+      "FOOTNOTE": "A footnote sits at the foot, or bottom, of a page. The location distinguishes it from a note collected at the book's end.",
+      "JACKET": "A book jacket is a removable outer paper covering. It is separate from the book's fixed cover and binding.",
+      "EDITION": "Edition identifies a published version. A changed or revised text can appear in a new edition."
+    },
+    "id": "a-good-book-2"
+  },
+  {
+    "title": "Inside a Familiar Story",
+    "subtheme": "Fiction and Storytelling",
+    "cardDescription": "Explore stories through familiar words for characters, events, narrative forms, and the voice telling the tale.",
+    "description": "Explore stories through familiar words for characters, events, narrative forms, and the voice telling the tale.",
+    "focus": "The clues distinguish a whole type of story from an element within one. Characters, events, places, and narrative devices have their own names. No particular novel or author is required.",
+    "solvingTip": "Check whether the clue names a story form, a character, a place, or a narrative feature. Short tale and action words can help cross longer storytelling terms.",
+    "words": [
+      [
+        "NOVEL",
+        "Long fictional story usually written in prose"
+      ],
+      [
+        "PLOT",
+        "Connected sequence of events in a story"
+      ],
+      [
+        "SCENE",
+        "Story section centered on one event or situation"
+      ],
+      [
+        "HERO",
+        "Leading character admired for courage"
+      ],
+      [
+        "HEROINE",
+        "Female leading character admired for brave actions"
+      ],
+      [
+        "VILLAIN",
+        "Story character associated with harmful or opposing actions"
+      ],
+      [
+        "CLUE",
+        "Detail that helps explain a story's puzzle"
+      ],
+      [
+        "MYSTERY",
+        "Story built around solving an unexplained event"
+      ],
+      [
+        "FICTION",
+        "Writing about imagined characters or events"
+      ],
+      [
+        "FABLE",
+        "Short teaching story often featuring talking animals"
+      ],
+      [
+        "MORAL",
+        "Lesson drawn from a fable or story"
+      ],
+      [
+        "MYTH",
+        "Traditional story associated with a culture's beliefs or origins"
+      ],
+      [
+        "LEGEND",
+        "Traditional tale associated with a remembered person or place"
+      ],
+      [
+        "QUEST",
+        "A story's purposeful search or journey"
+      ],
+      [
+        "TALE",
+        "Another word for a narrated story"
+      ],
+      [
+        "NARRATOR",
+        "Voice or person telling a story"
+      ],
+      [
+        "ENDING",
+        "Final part of a story"
+      ],
+      [
+        "SETTING",
+        "Time and place in which a story happens"
+      ],
+      [
+        "DIALOGUE",
+        "Conversation between story characters"
+      ],
+      [
+        "TWIST",
+        "Unexpected change in a story's direction"
+      ]
+    ],
+    "answerNotes": {
+      "NARRATOR": "The narrator tells the story. The author writes it, and the two need not be the same person or voice.",
+      "SETTING": "Setting identifies the story's time and place. Plot identifies what happens within that setting.",
+      "FABLE": "A fable often uses animals to present a lesson. The lesson itself is the moral rather than the whole story.",
+      "DIALOGUE": "Dialogue is conversation between characters. It differs from descriptive narration about their surroundings.",
+      "TWIST": "A plot twist changes expectations. The clue uses twist for a narrative turn rather than a physical winding motion.",
+      "FICTION": "Fiction presents imagined events or characters. A fictional story can still draw on real places or historical circumstances."
+    },
+    "id": "a-good-book-3"
+  },
+  {
+    "title": "The Sound of a Poem",
+    "subtheme": "Poetry Words",
+    "cardDescription": "Enjoy familiar poetry vocabulary for lines, sounds, images, and recognizable poetic forms.",
+    "description": "Enjoy familiar poetry vocabulary for lines, sounds, images, and recognizable poetic forms.",
+    "focus": "This puzzle introduces poetry through direct definitions. Some clues name a form; others describe sound patterns, a group of lines, or a way language creates an image. Poems do not all use the same pattern.",
+    "solvingTip": "Ask whether a clue names a whole form, one unit, or a sound feature. Short reading and sound words can help cross the longer poetic terms.",
+    "words": [
+      [
+        "POEM",
+        "Literary work often arranged in lines for expressive effect"
+      ],
+      [
+        "POET",
+        "Person who writes poems"
+      ],
+      [
+        "VERSE",
+        "Writing arranged in poetic lines"
+      ],
+      [
+        "RHYME",
+        "Similarity of ending sounds in words"
+      ],
+      [
+        "RHYTHM",
+        "Pattern of movement or flow in spoken language"
+      ],
+      [
+        "LINE",
+        "One horizontal unit of words in a poem"
+      ],
+      [
+        "STANZA",
+        "Grouped set of lines within a poem"
+      ],
+      [
+        "SONNET",
+        "Poetic form traditionally made of fourteen lines"
+      ],
+      [
+        "ODE",
+        "Poem of praise or serious reflection"
+      ],
+      [
+        "HAIKU",
+        "Short Japanese poetic form often presented in three lines in English"
+      ],
+      [
+        "METER",
+        "Regular pattern of stressed and unstressed syllables"
+      ],
+      [
+        "BEAT",
+        "A recurring pulse heard in a spoken poem"
+      ],
+      [
+        "WORD",
+        "Single meaningful unit used in a poem"
+      ],
+      [
+        "IMAGE",
+        "Sensory picture suggested by descriptive language"
+      ],
+      [
+        "SIMILE",
+        "Comparison commonly introduced by like or as"
+      ],
+      [
+        "METAPHOR",
+        "Figure describing one thing as another for comparison"
+      ],
+      [
+        "REPEAT",
+        "To say a word or line again"
+      ],
+      [
+        "SOUND",
+        "What is heard when a poem is spoken aloud"
+      ],
+      [
+        "READ",
+        "To take meaning from written poetic words"
+      ],
+      [
+        "RECITE",
+        "To speak a poem aloud, often from memory"
+      ]
+    ],
+    "answerNotes": {
+      "STANZA": "A stanza groups lines in a poem. It is a larger unit than one line, rather like a verse paragraph.",
+      "SONNET": "A traditional sonnet has fourteen lines. Different sonnet forms organize rhyme and rhythm in different ways.",
+      "HAIKU": "Haiku comes from a Japanese poetic tradition. English presentations often use three lines, but not every English haiku follows one fixed syllable count.",
+      "SIMILE": "A simile commonly uses like or as to make a comparison. A metaphor can state the comparison directly instead.",
+      "METER": "Meter is an organized stress pattern. Rhythm is the broader movement of language and need not follow a regular metrical scheme.",
+      "RHYME": "Rhyme concerns matching sounds rather than matching spellings. Poetry can also use free verse without a regular rhyme pattern."
+    },
+    "id": "a-good-book-4"
+  },
+  {
+    "title": "A Quiet Reading Corner",
+    "subtheme": "Books and Everyday Comforts",
+    "cardDescription": "Settle into a reading corner with familiar furniture, useful objects, and simple words for enjoying a book.",
+    "description": "Settle into a reading corner with familiar furniture, useful objects, and simple words for enjoying a book.",
+    "focus": "The clues describe the small setting around a reader. Some answers name furniture or lighting parts, while others name reading objects or everyday actions.",
+    "solvingTip": "Look for a whole object, one small part, or an action. A marker left in a book and a protective container for glasses have different names. Short reading words can help with longer objects.",
+    "words": [
+      [
+        "ARMCHAIR",
+        "Comfortable seat with supports for both arms"
+      ],
+      [
+        "CUSHION",
+        "Soft pad placed on a reading chair"
+      ],
+      [
+        "LAMP",
+        "Movable light beside a reader's seat"
+      ],
+      [
+        "SHADE",
+        "Cover around a lamp that directs or softens its light"
+      ],
+      [
+        "BULB",
+        "Replaceable light source inside many reading lamps"
+      ],
+      [
+        "TABLE",
+        "Flat-topped furniture holding a book beside a chair"
+      ],
+      [
+        "BOOKMARK",
+        "Strip or object left between pages to mark one's place"
+      ],
+      [
+        "GLASSES",
+        "Pair of lenses worn to help with seeing"
+      ],
+      [
+        "CASE",
+        "Protective container used to store reading spectacles"
+      ],
+      [
+        "SHELF",
+        "Horizontal board where books are stored"
+      ],
+      [
+        "BOOK",
+        "Bound collection of pages for reading"
+      ],
+      [
+        "PAGE",
+        "One printed side turned while reading"
+      ],
+      [
+        "TURN",
+        "To move from one book page to the next"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "REST",
+        "To take a break in a comfortable chair"
+      ],
+      [
+        "QUIET",
+        "Having little noise around a reading place"
+      ],
+      [
+        "CORNER",
+        "Place where two walls meet, used for a reading nook"
+      ],
+      [
+        "THROW",
+        "Small blanket draped over a chair"
+      ],
+      [
+        "MUG",
+        "Handled cup placed beside a reader"
+      ],
+      [
+        "CLOCK",
+        "Device showing the time near a reading chair"
+      ]
+    ],
+    "answerNotes": {
+      "BOOKMARK": "A bookmark marks the reader's place between pages. It is separate from the printed page itself.",
+      "SHADE": "Shade names a lamp covering here. It differs from shade outdoors, though both meanings relate to controlling light.",
+      "BULB": "Bulb means a lighting part in this clue. It is not the underground storage structure of a plant.",
+      "THROW": "Throw is a noun for a small blanket here. The clue does not ask for the action of tossing something.",
+      "GLASSES": "Glasses is a plural-form word for a pair of lenses and their frame. The clue describes spectacles rather than drinking vessels.",
+      "CASE": "Case means a protective container. The reading-spectacles context distinguishes it from a legal matter or a grammatical category."
+    },
+    "id": "a-good-book-5"
+  }
+]

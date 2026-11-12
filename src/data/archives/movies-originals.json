@@ -1,0 +1,577 @@
+[
+  {
+    "id": "movie-night",
+    "title": "Movie Night",
+    "theme": "Classic Pastimes",
+    "description": "Make yourself comfortable. These clues celebrate an evening at the movies.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "SCRIPT",
+        "clue": "The written words for a movie's dialogue",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CINEMA",
+        "clue": "Another word for a movie theater",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TICKET",
+        "clue": "What you buy to enter a movie theater",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ACTOR",
+        "clue": "A person who plays a character",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SCENE",
+        "clue": "One part of a play or movie",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "DRAMA",
+        "clue": "A serious story performed by actors",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "REEL",
+        "clue": "A spool on which film is wound",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SONG",
+        "clue": "A piece of music with words",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ROLE",
+        "clue": "A part played by an actor",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CAST",
+        "clue": "All the performers in a movie",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "STAR",
+        "clue": "A famous leading performer",
+        "row": 11,
+        "col": 7,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "PLOT",
+        "clue": "The main events of a story",
+        "row": 5,
+        "col": 11,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SEAT",
+        "clue": "A place to sit in a theater",
+        "row": 0,
+        "col": 11,
+        "direction": "down",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "movie-night-2",
+    "title": "Movie Night \u2014 No. 2",
+    "theme": "Classic Pastimes",
+    "description": "Make yourself comfortable. These clues celebrate an evening at the movies.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "SCREEN",
+        "clue": "The surface on which a film is shown",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TICKET",
+        "clue": "What you buy to enter a movie theater",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SILENT",
+        "clue": "A movie without recorded spoken dialogue is called this",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "COMEDY",
+        "clue": "A movie meant to make you laugh",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "MOVIE",
+        "clue": "A story shown on a screen",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "DRAMA",
+        "clue": "A serious story performed by actors",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SCENE",
+        "clue": "One part of a play or movie",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "OSCAR",
+        "clue": "A nickname for an Academy Award",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "STAR",
+        "clue": "A famous leading performer",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "FILM",
+        "clue": "Another word for a movie",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "ROLE",
+        "clue": "A part played by an actor",
+        "row": 10,
+        "col": 8,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "SHOW",
+        "clue": "A performance for an audience",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "HERO",
+        "clue": "The brave central character in many stories",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      }
+    ]
+  },
+  {
+    "id": "movie-night-3",
+    "title": "Movie Night \u2014 No. 3",
+    "theme": "Classic Pastimes",
+    "description": "Make yourself comfortable. These clues celebrate an evening at the movies.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "TICKET",
+        "clue": "What you buy to enter a movie theater",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CINEMA",
+        "clue": "Another word for a movie theater",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SILENT",
+        "clue": "A movie without recorded spoken dialogue is called this",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "COMEDY",
+        "clue": "A movie meant to make you laugh",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SCREEN",
+        "clue": "The surface on which a film is shown",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SCENE",
+        "clue": "One part of a play or movie",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "OSCAR",
+        "clue": "A nickname for an Academy Award",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ACTOR",
+        "clue": "A person who plays a character",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "FILM",
+        "clue": "Another word for a movie",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SONG",
+        "clue": "A piece of music with words",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "HERO",
+        "clue": "The brave central character in many stories",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "CAST",
+        "clue": "All the performers in a movie",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "PLOT",
+        "clue": "The main events of a story",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 2
+      }
+    ]
+  },
+  {
+    "id": "movie-night-4",
+    "title": "Movie Night \u2014 No. 4",
+    "theme": "Classic Pastimes",
+    "description": "Make yourself comfortable. These clues celebrate an evening at the movies.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "SILENT",
+        "clue": "A movie without recorded spoken dialogue is called this",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "TICKET",
+        "clue": "What you buy to enter a movie theater",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "COMEDY",
+        "clue": "A movie meant to make you laugh",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CINEMA",
+        "clue": "Another word for a movie theater",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "OSCAR",
+        "clue": "A nickname for an Academy Award",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DRAMA",
+        "clue": "A serious story performed by actors",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SCENE",
+        "clue": "One part of a play or movie",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CAST",
+        "clue": "All the performers in a movie",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "HERO",
+        "clue": "The brave central character in many stories",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SEAT",
+        "clue": "A place to sit in a theater",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "REEL",
+        "clue": "A spool on which film is wound",
+        "row": 9,
+        "col": 2,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "ROLE",
+        "clue": "A part played by an actor",
+        "row": 12,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "SET",
+        "clue": "The scenery built for filming",
+        "row": 10,
+        "col": 6,
+        "direction": "down",
+        "number": 11
+      }
+    ]
+  },
+  {
+    "id": "movie-night-5",
+    "title": "Movie Night \u2014 No. 5",
+    "theme": "Classic Pastimes",
+    "description": "Make yourself comfortable. These clues celebrate an evening at the movies.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "SCRIPT",
+        "clue": "The written words for a movie's dialogue",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SILENT",
+        "clue": "A movie without recorded spoken dialogue is called this",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "TICKET",
+        "clue": "What you buy to enter a movie theater",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "COMEDY",
+        "clue": "A movie meant to make you laugh",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "OSCAR",
+        "clue": "A nickname for an Academy Award",
+        "row": 6,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "SCENE",
+        "clue": "One part of a play or movie",
+        "row": 6,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ACTOR",
+        "clue": "A person who plays a character",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PLOT",
+        "clue": "The main events of a story",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "ROLE",
+        "clue": "A part played by an actor",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "REEL",
+        "clue": "A spool on which film is wound",
+        "row": 4,
+        "col": 11,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "HERO",
+        "clue": "The brave central character in many stories",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "STAR",
+        "clue": "A famous leading performer",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SET",
+        "clue": "The scenery built for filming",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 12
+      }
+    ]
+  }
+]

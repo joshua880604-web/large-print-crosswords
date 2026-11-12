@@ -1,0 +1,497 @@
+[
+  {
+    "title": "An Evening at the Movies",
+    "subtheme": "Theater Visit",
+    "cardDescription": "Take a trip to the movie theater with familiar words for tickets, seating, and the experience around the screen.",
+    "description": "Take a trip to the movie theater with familiar words for tickets, seating, and the experience around the screen.",
+    "focus": "The clues follow a theater visit from admission to finding a seat. Some answers name places or objects, while others describe a person or an action. The setting supplies the everyday meaning.",
+    "solvingTip": "Look for whether the clue asks for admission, a place, a person, or something used during the visit. Short seating and snack words can help cross longer theater words.",
+    "words": [
+      [
+        "TICKET",
+        "Printed or digital proof of admission to a movie"
+      ],
+      [
+        "LOBBY",
+        "Entrance area where moviegoers gather before entering"
+      ],
+      [
+        "USHER",
+        "Person who helps theater visitors find seats"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of theater seats"
+      ],
+      [
+        "ROW",
+        "Line of seats facing a movie screen"
+      ],
+      [
+        "SEAT",
+        "Place where one moviegoer sits"
+      ],
+      [
+        "SCREEN",
+        "Large surface on which a movie is projected"
+      ],
+      [
+        "CURTAIN",
+        "Fabric covering that may hang before a theater screen"
+      ],
+      [
+        "POPCORN",
+        "Puffed corn snack often sold at a movie theater"
+      ],
+      [
+        "SODA",
+        "Fizzy drink sold at a concession stand"
+      ],
+      [
+        "CANDY",
+        "Sweet treat sold in a theater snack box"
+      ],
+      [
+        "MATINEE",
+        "Movie showing held in the afternoon"
+      ],
+      [
+        "PREVIEW",
+        "Short promotional look at a coming movie"
+      ],
+      [
+        "SHOWTIME",
+        "Scheduled starting time of a movie screening"
+      ],
+      [
+        "STUB",
+        "Portion of a paper admission ticket kept after entry"
+      ],
+      [
+        "LINE",
+        "Queue of people waiting to buy tickets"
+      ],
+      [
+        "BOOTH",
+        "Small enclosed station where tickets may be sold"
+      ],
+      [
+        "EXIT",
+        "Way out of a theater auditorium"
+      ],
+      [
+        "ADMIT",
+        "To allow someone to enter a movie showing"
+      ],
+      [
+        "CLAP",
+        "To strike the hands together in applause"
+      ]
+    ],
+    "answerNotes": {
+      "AISLE": "Aisle names the passage between seats. It sounds like isle, a small island, but the theater setting selects the spelling with an initial a.",
+      "MATINEE": "A matinee is an afternoon performance or screening. It identifies the time of day rather than the type of film.",
+      "PREVIEW": "A preview offers a look at something before its full release. A movie trailer is one familiar kind of preview.",
+      "STUB": "A ticket stub is the part retained after a paper ticket is divided. The clue asks for the remaining portion.",
+      "USHER": "Usher is a person who guides visitors in this clue. The same word can be a verb meaning to guide someone.",
+      "ROW": "Row means a line of seats and rhymes with go here. The word has another pronunciation when it means an argument."
+    },
+    "id": "movie-night"
+  },
+  {
+    "title": "Behind the Movie Camera",
+    "subtheme": "Making a Film",
+    "cardDescription": "Explore the people, equipment, and simple production words used when a movie scene is filmed.",
+    "description": "Explore the people, equipment, and simple production words used when a movie scene is filmed.",
+    "focus": "This puzzle looks behind the screen. Clues identify jobs, objects, and stages of filming through direct descriptions. No knowledge of particular actors or release dates is needed.",
+    "solvingTip": "Ask whether a clue names a worker, a piece of equipment, or a unit of filming. One clue asks for written material, while another asks for a single recording attempt.",
+    "words": [
+      [
+        "CAMERA",
+        "Device used to record moving images"
+      ],
+      [
+        "DIRECTOR",
+        "Person who guides actors and the filming of scenes"
+      ],
+      [
+        "ACTOR",
+        "Performer who portrays a character in a movie"
+      ],
+      [
+        "SCRIPT",
+        "Written dialogue and action for a film"
+      ],
+      [
+        "SCENE",
+        "Part of a film showing a particular event or situation"
+      ],
+      [
+        "TAKE",
+        "One recorded attempt at filming a scene"
+      ],
+      [
+        "SET",
+        "Built or arranged surroundings used for filming"
+      ],
+      [
+        "PROP",
+        "Object handled or displayed by an actor in a scene"
+      ],
+      [
+        "COSTUME",
+        "Clothing worn to portray a film character"
+      ],
+      [
+        "MAKEUP",
+        "Cosmetics used to change a performer's appearance"
+      ],
+      [
+        "LIGHT",
+        "Device used to illuminate a filming area"
+      ],
+      [
+        "BOOM",
+        "Long pole that holds a microphone near performers"
+      ],
+      [
+        "LENS",
+        "Optical part of a camera that focuses light"
+      ],
+      [
+        "TRIPOD",
+        "Three-legged support for a camera"
+      ],
+      [
+        "EDIT",
+        "To select and arrange recorded film material"
+      ],
+      [
+        "CUT",
+        "Instruction calling for filming to stop"
+      ],
+      [
+        "CREW",
+        "Group of workers who help make a film"
+      ],
+      [
+        "CAST",
+        "Group of performers in a film"
+      ],
+      [
+        "ROLE",
+        "Character or part played by an actor"
+      ],
+      [
+        "SOUND",
+        "Audio recorded or added for a movie"
+      ]
+    ],
+    "answerNotes": {
+      "TAKE": "A take is one recording attempt. Several takes of the same scene may be filmed before an editor selects material.",
+      "PROP": "Prop is short for property in theatrical use. It names a scene object rather than the performer handling it.",
+      "BOOM": "Boom names a microphone-supporting pole here. It does not mean a loud explosive noise in this equipment clue.",
+      "TRIPOD": "A tripod has three legs. The prefix tri- helps identify the support described in the clue.",
+      "CAST": "The cast consists of performers. The crew includes workers in other production jobs, so the group being described matters.",
+      "CUT": "Cut is an instruction to stop a take here. In editing, the same word can describe a change from one shot to another."
+    },
+    "id": "movie-night-2"
+  },
+  {
+    "title": "What Kind of Movie?",
+    "subtheme": "Genres and Story Clues",
+    "cardDescription": "Match familiar movie types with the characters, moods, and events that help tell a story.",
+    "description": "Match familiar movie types with the characters, moods, and events that help tell a story.",
+    "focus": "The clues combine recognizable film categories with simple story words. A genre describes a type of movie; other answers name a character or an event within one. Some films combine several categories.",
+    "solvingTip": "Check whether the clue asks for a whole movie category or one element of a story. Familiar character and action words can provide crossings for longer genre names.",
+    "words": [
+      [
+        "COMEDY",
+        "Movie type chiefly intended to make an audience laugh"
+      ],
+      [
+        "DRAMA",
+        "Movie type centered on serious character conflicts"
+      ],
+      [
+        "WESTERN",
+        "Movie genre associated with frontier towns and cowboys"
+      ],
+      [
+        "MUSICAL",
+        "Movie type in which songs are a major part of the story"
+      ],
+      [
+        "MYSTERY",
+        "Story centered on solving an unexplained event"
+      ],
+      [
+        "ROMANCE",
+        "Story whose central relationship is a love affair"
+      ],
+      [
+        "THRILLER",
+        "Movie type designed to create suspense and excitement"
+      ],
+      [
+        "FANTASY",
+        "Genre featuring imagined worlds or magical events"
+      ],
+      [
+        "CARTOON",
+        "Animated film often made with drawn or stylized characters"
+      ],
+      [
+        "ADVENTURE",
+        "Story type involving an exciting journey or undertaking"
+      ],
+      [
+        "PLOT",
+        "Sequence of events forming a movie's story"
+      ],
+      [
+        "HERO",
+        "Central character admired for brave actions"
+      ],
+      [
+        "VILLAIN",
+        "Character who opposes others through harmful actions"
+      ],
+      [
+        "QUEST",
+        "Journey undertaken to find or achieve something"
+      ],
+      [
+        "CLUE",
+        "Detail that helps solve a story's mystery"
+      ],
+      [
+        "CHASE",
+        "Sequence in which one character pursues another"
+      ],
+      [
+        "LAUGH",
+        "Sound a viewer may make at a funny scene"
+      ],
+      [
+        "SONG",
+        "Piece of music with words performed in a musical"
+      ],
+      [
+        "STORY",
+        "Account of connected events told by a film"
+      ],
+      [
+        "HEROINE",
+        "Female central character admired for courage"
+      ]
+    ],
+    "answerNotes": {
+      "MUSICAL": "A musical makes songs central to its storytelling. A film can contain background music without belonging to this genre.",
+      "WESTERN": "Western names a film genre here. The frontier setting distinguishes it from a simple direction on a map.",
+      "MYSTERY": "A mystery asks the viewer to work through an unexplained event. A clue is a detail within that larger story.",
+      "PLOT": "Plot is the arrangement of story events. It does not name a piece of land in this film setting.",
+      "QUEST": "A quest is a purposeful search or journey. The word names the undertaking rather than the person carrying it out.",
+      "CARTOON": "Cartoon can name an animated film or a still humorous drawing. The clue specifies the moving-image use."
+    },
+    "id": "movie-night-3"
+  },
+  {
+    "title": "Movie Night at Home",
+    "subtheme": "Television and Comforts",
+    "cardDescription": "Settle in with a crossword about television controls, a comfortable seat, and familiar movie-night objects.",
+    "description": "Settle in with a crossword about television controls, a comfortable seat, and familiar movie-night objects.",
+    "focus": "The clues stay with the home viewing experience. Some answers name controls or actions, while others name a place to rest or something nearby. Ordinary words take their meaning from the living-room setting.",
+    "solvingTip": "Look for a control, an action, or a household object. Turning sound down and stopping playback temporarily are different operations. Short viewing words can help cross longer comfort items.",
+    "words": [
+      [
+        "REMOTE",
+        "Handheld device used to control a television"
+      ],
+      [
+        "CHANNEL",
+        "Television service selected by a number or name"
+      ],
+      [
+        "GUIDE",
+        "On-screen list of programs and viewing times"
+      ],
+      [
+        "BUTTON",
+        "Small control pressed on a television handset"
+      ],
+      [
+        "VOLUME",
+        "Setting that controls how loud the television sounds"
+      ],
+      [
+        "MUTE",
+        "To silence television audio without stopping the picture"
+      ],
+      [
+        "SCREEN",
+        "Flat display on which a home movie picture appears"
+      ],
+      [
+        "SPEAKER",
+        "Device that produces a television's sound"
+      ],
+      [
+        "CAPTION",
+        "Written text displaying spoken words on screen"
+      ],
+      [
+        "PAUSE",
+        "To stop playback temporarily while keeping one's place"
+      ],
+      [
+        "REPLAY",
+        "To show a recorded scene again"
+      ],
+      [
+        "MOVIE",
+        "A filmed story watched on a television or cinema screen"
+      ],
+      [
+        "SOFA",
+        "Upholstered living-room seat for several viewers"
+      ],
+      [
+        "CUSHION",
+        "Soft padded support on a viewing-room seat"
+      ],
+      [
+        "BLANKET",
+        "Warm covering draped over a seated viewer"
+      ],
+      [
+        "POPCORN",
+        "Puffed snack served in a bowl during home viewing"
+      ],
+      [
+        "BOWL",
+        "Round open container holding a movie-night snack"
+      ],
+      [
+        "SNACK",
+        "Small serving of food eaten while watching"
+      ],
+      [
+        "LAMP",
+        "Movable room light beside a comfortable chair"
+      ],
+      [
+        "DIM",
+        "To reduce the brightness of a room light"
+      ]
+    ],
+    "answerNotes": {
+      "REMOTE": "Remote names the handheld controller here. The same word can describe something distant in another context.",
+      "VOLUME": "Volume is the loudness setting in this clue. It does not mean a book or the amount of space an object occupies.",
+      "MUTE": "Mute silences audio while the picture can continue. Pause temporarily stops playback, so the two controls have different jobs.",
+      "CAPTION": "A caption displays speech as written text. It is distinct from a program guide listing titles and times.",
+      "REPLAY": "Replay combines re-, meaning again, with play. It describes viewing recorded material another time.",
+      "DIM": "Dim is a verb meaning reduce brightness here. The clue asks for an action rather than the lamp itself."
+    },
+    "id": "movie-night-4"
+  },
+  {
+    "title": "In the Silent Picture House",
+    "subtheme": "Early Film Vocabulary",
+    "cardDescription": "Visit the world of silent films through familiar words for pictures, gestures, music, and visual comedy.",
+    "description": "Visit the world of silent films through familiar words for pictures, gestures, music, and visual comedy.",
+    "focus": "This puzzle focuses on ways early films presented a story. Direct clues describe visual actions, picture units, and accompanying music. The words do not require remembering a particular performer or film title.",
+    "solvingTip": "Notice whether a clue points to a picture, a gesture, music, or a comic action. Short joke and clothing words can provide crossings for the longer film terms.",
+    "words": [
+      [
+        "SILENT",
+        "Describing a film made without synchronized spoken dialogue"
+      ],
+      [
+        "TITLE",
+        "Text card used to present words between silent-film scenes"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument often used to accompany a silent screening"
+      ],
+      [
+        "ORGAN",
+        "Large keyboard instrument associated with some old movie theaters"
+      ],
+      [
+        "SCORE",
+        "Music composed or arranged to accompany a film"
+      ],
+      [
+        "REEL",
+        "Spool on which a length of motion-picture film is wound"
+      ],
+      [
+        "FRAME",
+        "One still image within a motion-picture sequence"
+      ],
+      [
+        "GAG",
+        "A short visual joke in a comedy scene"
+      ],
+      [
+        "MIME",
+        "To communicate through gestures without speaking"
+      ],
+      [
+        "GESTURE",
+        "Movement of the hands or body that communicates meaning"
+      ],
+      [
+        "SLAPSTICK",
+        "Broad physical comedy involving falls or exaggerated actions"
+      ],
+      [
+        "STAR",
+        "Prominent performer featured in a film"
+      ],
+      [
+        "SCREEN",
+        "Surface used to display a projected silent film"
+      ],
+      [
+        "BLACK",
+        "Color paired with white in a familiar film-format phrase"
+      ],
+      [
+        "WHITE",
+        "Color paired with black in a familiar film-format description"
+      ],
+      [
+        "CHASE",
+        "Comic pursuit shown through moving pictures"
+      ],
+      [
+        "COSTUME",
+        "Outfit used to establish a silent-film character"
+      ],
+      [
+        "HAT",
+        "Headwear used as part of a comic screen outfit"
+      ],
+      [
+        "CANE",
+        "Walking stick sometimes used as a visual comedy prop"
+      ],
+      [
+        "PROJECTION",
+        "Process of casting a film image onto a surface"
+      ]
+    ],
+    "answerNotes": {
+      "SILENT": "Silent films lack synchronized spoken dialogue in their original format. Screenings could still include live music or other sound.",
+      "TITLE": "Text cards between scenes are often called intertitles. The clue uses the shorter word for a card carrying words on screen.",
+      "SCORE": "Score means accompanying music here. It does not refer to points earned in a game.",
+      "REEL": "A reel holds a strip of film. A frame is one image on that strip, so the container and picture unit differ.",
+      "MIME": "Mime is used as a verb for communicating through bodily movement. It does not require spoken dialogue.",
+      "SLAPSTICK": "Slapstick relies on physical actions for comedy. The word names a comic style rather than a particular actor."
+    },
+    "id": "movie-night-5"
+  }
+]

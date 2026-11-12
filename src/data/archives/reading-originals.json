@@ -1,0 +1,569 @@
+[
+  {
+    "id": "a-good-book",
+    "title": "A Good Book",
+    "theme": "Classic Pastimes",
+    "description": "Turn a page and take a break. Simple clues for anyone who enjoys a good story.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "LIBRARY",
+        "clue": "A place where books can be borrowed",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "AUTHOR",
+        "clue": "The person who writes a book",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PROSE",
+        "clue": "Ordinary written language rather than poetry",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PAPER",
+        "clue": "Material on which a book is printed",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "STORY",
+        "clue": "An account of events, real or imagined",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "NOVEL",
+        "clue": "A long work of fiction",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "LINE",
+        "clue": "A row of printed words",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "PAGE",
+        "clue": "One side of a sheet in a book",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "READ",
+        "clue": "Look at and understand written words",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "POEM",
+        "clue": "Writing often arranged in verse",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "TALE",
+        "clue": "Another word for a story",
+        "row": 1,
+        "col": 9,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "INK",
+        "clue": "The colored liquid used in a pen",
+        "row": 6,
+        "col": 9,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "PEN",
+        "clue": "A tool for writing with ink",
+        "row": 0,
+        "col": 12,
+        "direction": "down",
+        "number": 3
+      }
+    ]
+  },
+  {
+    "id": "a-good-book-2",
+    "title": "A Good Book \u2014 No. 2",
+    "theme": "Classic Pastimes",
+    "description": "Turn a page and take a break. Simple clues for anyone who enjoys a good story.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "LIBRARY",
+        "clue": "A place where books can be borrowed",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CHAPTER",
+        "clue": "A main division of a book",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FABLE",
+        "clue": "A short story that teaches a lesson",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "NOVEL",
+        "clue": "A long work of fiction",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PROSE",
+        "clue": "Ordinary written language rather than poetry",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TITLE",
+        "clue": "The name of a book",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "COVER",
+        "clue": "The outside of a book",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "STORY",
+        "clue": "An account of events, real or imagined",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SPINE",
+        "clue": "The part of a book's binding visible on a shelf",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "READ",
+        "clue": "Look at and understand written words",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "POEM",
+        "clue": "Writing often arranged in verse",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TALE",
+        "clue": "Another word for a story",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PAGE",
+        "clue": "One side of a sheet in a book",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      }
+    ]
+  },
+  {
+    "id": "a-good-book-3",
+    "title": "A Good Book \u2014 No. 3",
+    "theme": "Classic Pastimes",
+    "description": "Turn a page and take a break. Simple clues for anyone who enjoys a good story.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "LIBRARY",
+        "clue": "A place where books can be borrowed",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "STORY",
+        "clue": "An account of events, real or imagined",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "NOVEL",
+        "clue": "A long work of fiction",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PROSE",
+        "clue": "Ordinary written language rather than poetry",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "INDEX",
+        "clue": "An alphabetical list of topics at the back of a book",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PAPER",
+        "clue": "Material on which a book is printed",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SHELF",
+        "clue": "A flat board used to hold books",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TITLE",
+        "clue": "The name of a book",
+        "row": 3,
+        "col": 11,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SPINE",
+        "clue": "The part of a book's binding visible on a shelf",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PAGE",
+        "clue": "One side of a sheet in a book",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "LINE",
+        "clue": "A row of printed words",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "READ",
+        "clue": "Look at and understand written words",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "INK",
+        "clue": "The colored liquid used in a pen",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      }
+    ]
+  },
+  {
+    "id": "a-good-book-4",
+    "title": "A Good Book \u2014 No. 4",
+    "theme": "Classic Pastimes",
+    "description": "Turn a page and take a break. Simple clues for anyone who enjoys a good story.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "LIBRARY",
+        "clue": "A place where books can be borrowed",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CHAPTER",
+        "clue": "A main division of a book",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "AUTHOR",
+        "clue": "The person who writes a book",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TITLE",
+        "clue": "The name of a book",
+        "row": 4,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SHELF",
+        "clue": "A flat board used to hold books",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "INDEX",
+        "clue": "An alphabetical list of topics at the back of a book",
+        "row": 1,
+        "col": 12,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PROSE",
+        "clue": "Ordinary written language rather than poetry",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PAGE",
+        "clue": "One side of a sheet in a book",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "LINE",
+        "clue": "A row of printed words",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BOOK",
+        "clue": "A collection of bound pages",
+        "row": 6,
+        "col": 5,
+        "direction": "down",
+        "number": 12
+      },
+      {
+        "answer": "READ",
+        "clue": "Look at and understand written words",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PEN",
+        "clue": "A tool for writing with ink",
+        "row": 2,
+        "col": 10,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "INK",
+        "clue": "The colored liquid used in a pen",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 13
+      }
+    ]
+  },
+  {
+    "id": "a-good-book-5",
+    "title": "A Good Book \u2014 No. 5",
+    "theme": "Classic Pastimes",
+    "description": "Turn a page and take a break. Simple clues for anyone who enjoys a good story.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "LIBRARY",
+        "clue": "A place where books can be borrowed",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CHAPTER",
+        "clue": "A main division of a book",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "AUTHOR",
+        "clue": "The person who writes a book",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "STORY",
+        "clue": "An account of events, real or imagined",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "COVER",
+        "clue": "The outside of a book",
+        "row": 4,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SHELF",
+        "clue": "A flat board used to hold books",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "NOVEL",
+        "clue": "A long work of fiction",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "VERSE",
+        "clue": "A line or section of a poem",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BOOK",
+        "clue": "A collection of bound pages",
+        "row": 2,
+        "col": 9,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "LINE",
+        "clue": "A row of printed words",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PEN",
+        "clue": "A tool for writing with ink",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "INK",
+        "clue": "The colored liquid used in a pen",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      }
+    ]
+  }
+]

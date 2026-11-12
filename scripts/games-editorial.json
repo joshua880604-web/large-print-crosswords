@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Across the Chessboard",
+    "subtheme": "Chess Pieces and Positions",
+    "cardDescription": "Meet familiar chess pieces and board words through direct clues about their shapes, positions, and roles.",
+    "description": "Meet familiar chess pieces and board words through direct clues about their shapes, positions, and roles.",
+    "focus": "The clues identify chess vocabulary without presenting a position to solve. Some answers name a piece; others name a board feature, a result, or an action.",
+    "solvingTip": "Check whether the clue asks for a piece, a board feature, or a playing term. Short color and turn words can help cross the longer piece names.",
+    "words": [
+      [
+        "CHESS",
+        "Two-player strategy game with kings, queens, and pawns"
+      ],
+      [
+        "BOARD",
+        "Checkered playing surface used for a chess game"
+      ],
+      [
+        "SQUARE",
+        "One of the sixty-four spaces on a standard chessboard"
+      ],
+      [
+        "RANK",
+        "Horizontal row of squares on a chessboard"
+      ],
+      [
+        "FILE",
+        "Vertical column of squares on a chessboard"
+      ],
+      [
+        "KING",
+        "Chess piece whose checkmate ends the game"
+      ],
+      [
+        "QUEEN",
+        "Chess piece that moves along ranks, files, or diagonals"
+      ],
+      [
+        "ROOK",
+        "Castle-shaped chess piece moving along ranks and files"
+      ],
+      [
+        "BISHOP",
+        "Chess piece that moves diagonally"
+      ],
+      [
+        "KNIGHT",
+        "Horse-headed chess piece with an L-shaped move"
+      ],
+      [
+        "PAWN",
+        "Small chess piece initially placed in front of the main pieces"
+      ],
+      [
+        "CHECK",
+        "Attack on a king that must be answered legally"
+      ],
+      [
+        "MATE",
+        "Position in which an attacked king has no legal escape"
+      ],
+      [
+        "CASTLE",
+        "To make a special chess move involving a king and a rook"
+      ],
+      [
+        "DRAW",
+        "Chess result in which neither side wins"
+      ],
+      [
+        "MOVE",
+        "One action changing a chess piece's position"
+      ],
+      [
+        "TURN",
+        "One player's opportunity to act"
+      ],
+      [
+        "CAPTURE",
+        "To remove an opposing piece through a legal move"
+      ],
+      [
+        "WHITE",
+        "Traditional name for the side that moves first in chess"
+      ],
+      [
+        "BLACK",
+        "Traditional name for the side moving second in chess"
+      ]
+    ],
+    "answerNotes": {
+      "RANK": "A rank is a horizontal row on the board. A file is a vertical column, so orientation distinguishes the terms.",
+      "FILE": "File is a chess column here. It does not mean a document or a workshop smoothing tool.",
+      "KNIGHT": "The knight is conventionally shown with a horse head. Its L-shaped movement helps distinguish it from other pieces.",
+      "ROOK": "Rook is the formal piece name. Castle describes its familiar tower shape and also appears as a separate move term.",
+      "MATE": "Mate is short for checkmate. Being in check alone is different because a legal response may still be available.",
+      "DRAW": "A draw is a result with no winner. The clue does not use draw for taking a card or making a picture."
+    },
+    "id": "game-night"
+  },
+  {
+    "title": "A Game of Checkers",
+    "subtheme": "Checkers Terms",
+    "cardDescription": "Explore American checkers through familiar board colors, jumping pieces, and words for crowning and capturing.",
+    "description": "Explore American checkers through familiar board colors, jumping pieces, and words for crowning and capturing.",
+    "focus": "The clues use American checkers terminology. Direct definitions describe pieces and board features rather than asking for a move from a diagram.",
+    "solvingTip": "Look for a game name, a piece, a board feature, or an action. An ordinary piece and a crowned piece have different terms. Short color words can help with longer game vocabulary.",
+    "words": [
+      [
+        "CHECKERS",
+        "American name for the board game played by jumping opposing pieces"
+      ],
+      [
+        "DRAUGHTS",
+        "British name for the game called checkers in America"
+      ],
+      [
+        "BOARD",
+        "Checkered playing surface for a jumping-piece game"
+      ],
+      [
+        "SQUARE",
+        "One space in a checkered playing surface"
+      ],
+      [
+        "DARK",
+        "Color description of the squares used for ordinary checkers play"
+      ],
+      [
+        "LIGHT",
+        "Color description of the alternate squares not ordinarily used in checkers"
+      ],
+      [
+        "PIECE",
+        "One playing disk moved in a checkers game"
+      ],
+      [
+        "MAN",
+        "Traditional checkers term for an uncrowned piece"
+      ],
+      [
+        "KING",
+        "Crowned checkers piece with movement in both forward and backward directions"
+      ],
+      [
+        "CROWN",
+        "To promote a checkers piece after reaching the far row"
+      ],
+      [
+        "JUMP",
+        "Move in which a checker passes over an opposing piece"
+      ],
+      [
+        "CAPTURE",
+        "To remove an opponent's piece through a legal jump"
+      ],
+      [
+        "DIAGONAL",
+        "Direction running slantwise between board corners"
+      ],
+      [
+        "MOVE",
+        "One change of a checkers piece's position"
+      ],
+      [
+        "TURN",
+        "Opportunity for one checkers player to act"
+      ],
+      [
+        "ROW",
+        "Line of spaces extending across the board"
+      ],
+      [
+        "PAIR",
+        "A group of two checkers pieces"
+      ],
+      [
+        "STACK",
+        "Two disks placed one on another to mark a crowned piece"
+      ],
+      [
+        "RED",
+        "Common color paired with black in a checkers set"
+      ],
+      [
+        "BLACK",
+        "Common color paired with red in a checkers set"
+      ]
+    ],
+    "answerNotes": {
+      "DRAUGHTS": "Draughts is the British game name. American English commonly calls the game checkers.",
+      "MAN": "Man is a traditional term for an uncrowned checker. In this clue it names a piece rather than a person.",
+      "KING": "A king is a promoted piece. In American checkers, it can move diagonally in both forward and backward directions.",
+      "CROWN": "Crown is a verb for promotion here. A second disk is often stacked on the piece to show its new status.",
+      "DIAGONAL": "Diagonal means slanting across the board's grid. It differs from a horizontal row or vertical column.",
+      "JUMP": "A jump passes over another piece. The clue identifies the movement rather than a named player or a final score."
+    },
+    "id": "game-night-2"
+  },
+  {
+    "title": "Dominoes on the Table",
+    "subtheme": "Tiles and Matching",
+    "cardDescription": "Set out familiar domino words for dotted tiles, matching ends, and simple actions around a game table.",
+    "description": "Set out familiar domino words for dotted tiles, matching ends, and simple actions around a game table.",
+    "focus": "The clues describe domino equipment and common playing vocabulary. Different domino games use different scoring rules, so the definitions stay with the objects and ordinary actions.",
+    "solvingTip": "Ask whether the clue names a tile, a marking, an arrangement, or an action. Equal values on both ends identify a particular kind of tile. Short scoring and playing words can help with longer answers.",
+    "words": [
+      [
+        "DOMINO",
+        "Rectangular game tile divided into two marked ends"
+      ],
+      [
+        "TILE",
+        "One flat playing piece in a domino set"
+      ],
+      [
+        "PIP",
+        "One dot marking a domino's value"
+      ],
+      [
+        "DOUBLE",
+        "Domino with the same number of dots on both ends"
+      ],
+      [
+        "BLANK",
+        "Domino end showing no dots"
+      ],
+      [
+        "END",
+        "One of the two value-bearing halves of a domino"
+      ],
+      [
+        "LINE",
+        "Row of connected dominoes on the table"
+      ],
+      [
+        "CHAIN",
+        "Connected sequence of matching domino tiles"
+      ],
+      [
+        "MATCH",
+        "To pair equal values at adjoining domino ends"
+      ],
+      [
+        "HAND",
+        "Group of dominoes held by one player"
+      ],
+      [
+        "DRAW",
+        "To take another tile from the unused supply"
+      ],
+      [
+        "PLAY",
+        "To place a tile as part of a game"
+      ],
+      [
+        "PASS",
+        "To let play continue without placing a tile"
+      ],
+      [
+        "TURN",
+        "One player's opportunity to place or draw a tile"
+      ],
+      [
+        "SCORE",
+        "Number of points credited in a game"
+      ],
+      [
+        "SPOT",
+        "Another word for a dot on a domino"
+      ],
+      [
+        "SET",
+        "Complete collection of domino tiles for a game"
+      ],
+      [
+        "PAIR",
+        "Two matching or associated tiles"
+      ],
+      [
+        "SHUFFLE",
+        "To mix domino tiles before a game"
+      ],
+      [
+        "TABLE",
+        "Flat surface on which dominoes are arranged"
+      ]
+    ],
+    "answerNotes": {
+      "PIP": "A pip is one dot. Its count contributes to a tile's value, so the clue asks for a marking rather than the whole tile.",
+      "DOUBLE": "A double has equal values on both ends. It does not mean any random pair of two tiles.",
+      "BLANK": "Blank means a zero-dot end here. It is a marked value category rather than a missing or damaged tile.",
+      "HAND": "Hand is a player's held group of tiles. The clue does not mean the body part that physically holds them.",
+      "DRAW": "Draw means take a tile in this clue. It is an action rather than a tied result.",
+      "SHUFFLE": "Shuffling mixes the pieces before play. The word is used for tiles here, as it can also be for cards."
+    },
+    "id": "game-night-3"
+  },
+  {
+    "title": "Inside a Deck of Cards",
+    "subtheme": "Suits and Card Terms",
+    "cardDescription": "Open a deck through a familiar suit symbol, named cards, and the everyday words used to handle a hand.",
+    "description": "Open a deck through a familiar suit symbol, named cards, and the everyday words used to handle a hand.",
+    "focus": "This puzzle identifies card symbols and common playing actions. The clues describe the vocabulary without requiring the rules of a particular card game.",
+    "solvingTip": "Check whether a clue asks for a suit symbol, a named card, a group, or an action. One playing card and the group held by a player have different names.",
+    "words": [
+      [
+        "CARD",
+        "One printed playing piece in a deck"
+      ],
+      [
+        "DECK",
+        "Complete pack of playing cards"
+      ],
+      [
+        "SUIT",
+        "Group of cards sharing one symbol"
+      ],
+      [
+        "HEART",
+        "Red suit symbol shaped like a familiar sign of affection"
+      ],
+      [
+        "SPADE",
+        "Black suit symbol shaped like a pointed leaf with a stem"
+      ],
+      [
+        "CLUB",
+        "Black suit symbol resembling three joined rounded leaves"
+      ],
+      [
+        "DIAMOND",
+        "Red suit symbol shaped like a four-pointed lozenge"
+      ],
+      [
+        "ACE",
+        "Card commonly marked with the letter A"
+      ],
+      [
+        "KING",
+        "Face card commonly marked with the letter K"
+      ],
+      [
+        "QUEEN",
+        "Face card commonly marked with the letter Q"
+      ],
+      [
+        "JACK",
+        "Face card commonly marked with the letter J"
+      ],
+      [
+        "JOKER",
+        "Extra card often pictured as a jester"
+      ],
+      [
+        "PIP",
+        "Small suit mark used to show a number card's value"
+      ],
+      [
+        "HAND",
+        "Cards held by one player"
+      ],
+      [
+        "DEAL",
+        "To distribute cards to players"
+      ],
+      [
+        "SHUFFLE",
+        "To mix cards before dealing"
+      ],
+      [
+        "CUT",
+        "To divide and rearrange parts of a deck before play"
+      ],
+      [
+        "DRAW",
+        "To take a card from an available supply"
+      ],
+      [
+        "DISCARD",
+        "To put a card aside from one's hand"
+      ],
+      [
+        "TRICK",
+        "Group of cards played one per player in a round of certain games"
+      ]
+    ],
+    "answerNotes": {
+      "SUIT": "A suit groups cards by symbol. It does not name clothing in this deck-related clue.",
+      "SPADE": "Spade names a black card symbol here. The same word names a garden digging tool elsewhere.",
+      "CLUB": "Club is a black suit symbol with three rounded lobes. Its shape distinguishes it from the pointed spade.",
+      "JOKER": "A joker is an extra card used in some games. It is separate from the ordinary numbered and face cards of the four suits.",
+      "DEAL": "Deal means distribute cards in this clue. It describes the action rather than a bargain or agreement.",
+      "TRICK": "A trick is a group of played cards in certain games. The term does not mean deception in this playing context."
+    },
+    "id": "game-night-4"
+  },
+  {
+    "title": "A Friendly Board-Game Evening",
+    "subtheme": "Shared Game Vocabulary",
+    "cardDescription": "Gather around the table with familiar words for players, pieces, rules, and the results of a board game.",
+    "description": "Gather around the table with familiar words for players, pieces, rules, and the results of a board game.",
+    "focus": "The clues cover words shared by many games. Some answers name equipment, while others name a stage, a result, or the role of a participant. Individual games can use these terms in different ways.",
+    "solvingTip": "Look for whether the clue names a player, a playing object, a stage, or a result. A cycle of play and equal final scores have different terms. Short result words can help cross longer playing objects.",
+    "words": [
+      [
+        "GAME",
+        "Organized activity played according to rules"
+      ],
+      [
+        "PLAYER",
+        "Person taking part in a game"
+      ],
+      [
+        "BOARD",
+        "Flat playing surface marked with game spaces"
+      ],
+      [
+        "TOKEN",
+        "Small object representing a player or position"
+      ],
+      [
+        "DICE",
+        "Plural name for numbered cubes rolled in games"
+      ],
+      [
+        "DIE",
+        "Singular name for one numbered game cube"
+      ],
+      [
+        "PAWN",
+        "Small playing piece used to mark a position"
+      ],
+      [
+        "SPACE",
+        "One marked place on a game board"
+      ],
+      [
+        "START",
+        "Place or stage where a game begins"
+      ],
+      [
+        "FINISH",
+        "End point of a board-game route"
+      ],
+      [
+        "TURN",
+        "Opportunity for one participant to act"
+      ],
+      [
+        "RULE",
+        "Instruction governing how a game is played"
+      ],
+      [
+        "SCORE",
+        "Total points credited to a player or team"
+      ],
+      [
+        "WIN",
+        "To finish a game as the successful side"
+      ],
+      [
+        "DRAW",
+        "Game result with no winning side"
+      ],
+      [
+        "TIE",
+        "Equal final scores between players or teams"
+      ],
+      [
+        "ROUND",
+        "One complete stage or cycle of play"
+      ],
+      [
+        "TIMER",
+        "Device used to limit the time for a game action"
+      ],
+      [
+        "TEAM",
+        "Group of players acting together"
+      ],
+      [
+        "BOX",
+        "Container holding a board game and its pieces"
+      ]
+    ],
+    "answerNotes": {
+      "DICE": "Dice is the usual plural of die. The clue asking for more than one cube uses the plural form.",
+      "DIE": "Die is singular in traditional game usage. The surrounding game context separates it from the unrelated verb about death.",
+      "TOKEN": "A token stands for a player or position. It names the representative object rather than the person moving it.",
+      "ROUND": "Round is a stage or cycle of play here. It is not a description of a circular shape.",
+      "TIE": "A tie means equal scores in this clue. It does not name a garment or a fastening action.",
+      "TIMER": "A timer measures a permitted interval. It differs from a scoreboard that records points rather than elapsed time."
+    },
+    "id": "game-night-5"
+  }
+]

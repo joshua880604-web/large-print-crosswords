@@ -1,0 +1,553 @@
+[
+  {
+    "id": "autumn-walk",
+    "title": "An Autumn Walk",
+    "theme": "Seasons",
+    "description": "A crisp afternoon and leaves underfoot. Take a relaxed stroll through this puzzle.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ACORN",
+        "clue": "The nut of an oak tree",
+        "row": 6,
+        "col": 4,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MAPLE",
+        "clue": "A tree whose sap is used to make syrup",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SCARF",
+        "clue": "A strip of fabric worn around the neck for warmth",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin layer of ice crystals on a cold morning",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A fruit often picked in an orchard",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "A marked path through the countryside",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "PATH",
+        "clue": "A route for walking",
+        "row": 9,
+        "col": 2,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Part of a tree that may turn gold in fall",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BOOT",
+        "clue": "Footwear that covers the ankle",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PINE",
+        "clue": "An evergreen tree with needles and cones",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grass used to feed farm animals",
+        "row": 12,
+        "col": 2,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "FOG",
+        "clue": "A cloud of tiny water droplets near the ground",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "autumn-walk-2",
+    "title": "An Autumn Walk \u2014 No. 2",
+    "theme": "Seasons",
+    "description": "A crisp afternoon and leaves underfoot. Take a relaxed stroll through this puzzle.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "SCARF",
+        "clue": "A strip of fabric worn around the neck for warmth",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A fruit often picked in an orchard",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CIDER",
+        "clue": "An apple drink often enjoyed in autumn",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin layer of ice crystals on a cold morning",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BOOT",
+        "clue": "Footwear that covers the ankle",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Part of a tree that may turn gold in fall",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PATH",
+        "clue": "A route for walking",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "GOLD",
+        "clue": "A yellow color often seen in fall leaves",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "WIND",
+        "clue": "Moving air",
+        "row": 8,
+        "col": 3,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "COAT",
+        "clue": "An outer garment for chilly weather",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grass used to feed farm animals",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "TEA",
+        "clue": "A warm drink made from leaves",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      }
+    ]
+  },
+  {
+    "id": "autumn-walk-3",
+    "title": "An Autumn Walk \u2014 No. 3",
+    "theme": "Seasons",
+    "description": "A crisp afternoon and leaves underfoot. Take a relaxed stroll through this puzzle.",
+    "difficulty": "Easy",
+    "rows": 9,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "AUTUMN",
+        "clue": "Another name for the season called fall",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "MAPLE",
+        "clue": "A tree whose sap is used to make syrup",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A fruit often picked in an orchard",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "A marked path through the countryside",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin layer of ice crystals on a cold morning",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "COAT",
+        "clue": "An outer garment for chilly weather",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CROW",
+        "clue": "A black bird heard cawing in the trees",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Part of a tree that may turn gold in fall",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "GOLD",
+        "clue": "A yellow color often seen in fall leaves",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PINE",
+        "clue": "An evergreen tree with needles and cones",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "RAKE",
+        "clue": "Tool for gathering fallen leaves",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "OAK",
+        "clue": "A tree that grows acorns",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "NUT",
+        "clue": "A hard-shelled food gathered by squirrels",
+        "row": 5,
+        "col": 10,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "autumn-walk-4",
+    "title": "An Autumn Walk \u2014 No. 4",
+    "theme": "Seasons",
+    "description": "A crisp afternoon and leaves underfoot. Take a relaxed stroll through this puzzle.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "AUTUMN",
+        "clue": "Another name for the season called fall",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "MAPLE",
+        "clue": "A tree whose sap is used to make syrup",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CIDER",
+        "clue": "An apple drink often enjoyed in autumn",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "A marked path through the countryside",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A fruit often picked in an orchard",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "PINE",
+        "clue": "An evergreen tree with needles and cones",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Part of a tree that may turn gold in fall",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "COAT",
+        "clue": "An outer garment for chilly weather",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "WIND",
+        "clue": "Moving air",
+        "row": 7,
+        "col": 5,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "BOOT",
+        "clue": "Footwear that covers the ankle",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TEA",
+        "clue": "A warm drink made from leaves",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "NUT",
+        "clue": "A hard-shelled food gathered by squirrels",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "autumn-walk-5",
+    "title": "An Autumn Walk \u2014 No. 5",
+    "theme": "Seasons",
+    "description": "A crisp afternoon and leaves underfoot. Take a relaxed stroll through this puzzle.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "AUTUMN",
+        "clue": "Another name for the season called fall",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "APPLE",
+        "clue": "A fruit often picked in an orchard",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin layer of ice crystals on a cold morning",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "A marked path through the countryside",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CIDER",
+        "clue": "An apple drink often enjoyed in autumn",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PATH",
+        "clue": "A route for walking",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "GOLD",
+        "clue": "A yellow color often seen in fall leaves",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PINE",
+        "clue": "An evergreen tree with needles and cones",
+        "row": 8,
+        "col": 1,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "FOG",
+        "clue": "A cloud of tiny water droplets near the ground",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grass used to feed farm animals",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "OAK",
+        "clue": "A tree that grows acorns",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TEA",
+        "clue": "A warm drink made from leaves",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "NUT",
+        "clue": "A hard-shelled food gathered by squirrels",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      }
+    ]
+  }
+]

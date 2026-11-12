@@ -3,12 +3,12 @@
 ## Prepared
 
 - Astro static site, local system fonts and no third-party runtime requests.
-- 100 original themed mini crosswords, 20 subjects, 1,185 clues.
+- 100 edited themed mini crosswords across 20 series; 1,135 clues and 300 answer explanations.
 - 100 playable pages and 200 printable puzzle/answer pages.
 - Local progress saving and optional sound, large clues, and enlarged board.
 - Unique indexable titles/descriptions, production canonical URLs, sitemap and robots file.
 - WebSite/WebPage and matching visible breadcrumb data; local sharing image.
-- Post-build SEO audit across all 309 HTML pages.
+- Post-build SEO audit across all 409 HTML pages.
 - Print copies excluded from indexing to avoid competing utility pages.
 
 ## Before public launch

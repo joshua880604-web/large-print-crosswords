@@ -1,0 +1,497 @@
+[
+  {
+    "title": "A Day on the Beach",
+    "subtheme": "Beach Places and Belongings",
+    "cardDescription": "Take a seaside break with familiar words for sand, shoreline features, and things brought on a beach visit.",
+    "description": "Take a seaside break with familiar words for sand, shoreline features, and things brought on a beach visit.",
+    "focus": "The clues mix natural beach features with ordinary objects used during a visit. Some answers name a place or a surface; others name a belonging.",
+    "solvingTip": "Check whether a clue describes the setting or something carried on a visit. Small familiar objects can help cross longer shoreline words.",
+    "words": [
+      [
+        "BEACH",
+        "Sandy or pebbly land beside a sea or lake"
+      ],
+      [
+        "SAND",
+        "Loose small grains covering many beaches"
+      ],
+      [
+        "DUNE",
+        "Mound of windblown sand near a shore"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth spread on sand or used for drying"
+      ],
+      [
+        "BUCKET",
+        "Handled container used to carry beach sand"
+      ],
+      [
+        "SPADE",
+        "Small digging tool used to build a sandcastle"
+      ],
+      [
+        "UMBRELLA",
+        "Portable canopy used to make shade on a beach"
+      ],
+      [
+        "SHADE",
+        "Area sheltered from direct sunlight"
+      ],
+      [
+        "SUN",
+        "Star that lights a clear day at the beach"
+      ],
+      [
+        "HAT",
+        "Head covering worn on a beach outing"
+      ],
+      [
+        "CHAIR",
+        "Portable seat set up beside the shore"
+      ],
+      [
+        "PICNIC",
+        "Meal packed to be eaten outdoors"
+      ],
+      [
+        "BASKET",
+        "Woven container that may hold an outdoor meal"
+      ],
+      [
+        "COOLER",
+        "Insulated box used to carry chilled food or drinks"
+      ],
+      [
+        "SHORE",
+        "Land along the edge of a large body of water"
+      ],
+      [
+        "PEBBLE",
+        "Small rounded stone found on some beaches"
+      ],
+      [
+        "FOOTPRINT",
+        "Mark left by a bare foot in damp sand"
+      ],
+      [
+        "WALK",
+        "To travel on foot along the beach"
+      ],
+      [
+        "REST",
+        "To take a quiet break from activity"
+      ],
+      [
+        "BLANKET",
+        "Large cloth spread out for sitting on the sand"
+      ]
+    ],
+    "answerNotes": {
+      "DUNE": "A dune is formed from sand moved by wind. It names a landform rather than an object carried to the beach.",
+      "SPADE": "Spade names a digging tool here. The same word also names one suit in a deck of cards.",
+      "COOLER": "Cooler is the American word for an insulated carrying box. The clue asks for the container rather than a comparative temperature.",
+      "SHORE": "Shore is the land beside a body of water. Beach describes a sandy or pebbly part of that boundary.",
+      "PEBBLE": "A pebble is a small stone. The clue emphasizes its rounded form rather than the loose grains called sand.",
+      "FOOTPRINT": "A footprint is an impression left behind. It names the mark rather than the foot that made it."
+    },
+    "id": "by-the-sea"
+  },
+  {
+    "title": "Waves and Changing Tides",
+    "subtheme": "Moving Seawater",
+    "cardDescription": "Follow the shoreline through words for waves, tides, and the places where water meets land.",
+    "description": "Follow the shoreline through words for waves, tides, and the places where water meets land.",
+    "focus": "This puzzle describes moving seawater and familiar coastal features. Clues distinguish parts of a wave, changes in water level, and solid structures along a shore.",
+    "solvingTip": "Look for whether a clue asks for a wave part, a tidal movement, or a coastal feature. Opposite movement words and short water terms can provide useful crossings.",
+    "words": [
+      [
+        "WAVE",
+        "Moving ridge of water that may break near a shore"
+      ],
+      [
+        "TIDE",
+        "Regular rise and fall of sea level"
+      ],
+      [
+        "HIGH",
+        "Describing the tide when the sea reaches its upper level"
+      ],
+      [
+        "LOW",
+        "Describing the tide at its lower level"
+      ],
+      [
+        "MOON",
+        "Earth's natural satellite whose gravity strongly influences tides"
+      ],
+      [
+        "CURRENT",
+        "Flow of seawater in a particular direction"
+      ],
+      [
+        "SWELL",
+        "Long rolling wave that may travel far from a storm"
+      ],
+      [
+        "RIPPLE",
+        "Small wave or undulation on water"
+      ],
+      [
+        "FOAM",
+        "Mass of bubbles left by breaking waves"
+      ],
+      [
+        "CREST",
+        "Top of a wave"
+      ],
+      [
+        "TROUGH",
+        "Low area between two wave crests"
+      ],
+      [
+        "EBB",
+        "To move away from shore as the tide falls"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "SURGE",
+        "Strong forward rush of water"
+      ],
+      [
+        "SEA",
+        "Large expanse of salt water"
+      ],
+      [
+        "SANDBAR",
+        "Ridge of sand formed in shallow water"
+      ],
+      [
+        "REEF",
+        "Ridge of rock or coral at or near the sea's surface"
+      ],
+      [
+        "ROCK",
+        "Solid stone exposed along a rugged coast"
+      ],
+      [
+        "JETTY",
+        "Structure projecting from shore into water"
+      ],
+      [
+        "POOL",
+        "Small body of water left among coastal rocks"
+      ]
+    ],
+    "answerNotes": {
+      "TIDE": "Tides describe recurring sea-level changes. They differ from individual waves moving across the water's surface.",
+      "MOON": "The Moon's gravity is a major influence on tides. The Sun also contributes, so the Moon is not the only influence.",
+      "SWELL": "Swell consists of rolling waves that can travel beyond the place where wind generated them. It is a wave term rather than a tidal level.",
+      "CREST": "The crest is the wave's top. The trough is the lower area between crests, so position distinguishes the words.",
+      "EBB": "Ebb describes the falling or outgoing tide. The word names a movement rather than a structure on the shore.",
+      "SANDBAR": "A sandbar is a ridge built from deposited sand. A reef may instead be rock or coral."
+    },
+    "id": "by-the-sea-2"
+  },
+  {
+    "title": "Shells Along the Shore",
+    "subtheme": "Shell Shapes and Parts",
+    "cardDescription": "Look closely at familiar shell names, curved shapes, and the parts that join a two-piece shell.",
+    "description": "Look closely at familiar shell names, curved shapes, and the parts that join a two-piece shell.",
+    "focus": "The clues name shell-bearing animals and visible shell features. Some answers describe a shape or surface; others name a whole animal or a shell part. Direct descriptions introduce the less familiar terms.",
+    "solvingTip": "Check whether the clue asks for an animal, a shell part, or a surface description. A spiral shell and a shell made of two joined halves have different structures.",
+    "words": [
+      [
+        "SHELL",
+        "Hard outer covering made by many mollusks"
+      ],
+      [
+        "CLAM",
+        "Burrowing mollusk with a shell made of two joined halves"
+      ],
+      [
+        "OYSTER",
+        "Irregular-shelled mollusk, some kinds of which produce pearls"
+      ],
+      [
+        "MUSSEL",
+        "Two-shelled mollusk often attached to rocks by strong threads"
+      ],
+      [
+        "SCALLOP",
+        "Mollusk known for a fan-shaped shell with radiating ribs"
+      ],
+      [
+        "WHELK",
+        "Marine snail with a spiral shell, often pointed at one end"
+      ],
+      [
+        "CONCH",
+        "Large marine snail associated with a heavy spiral shell"
+      ],
+      [
+        "SNAIL",
+        "Mollusk commonly associated with one coiled shell"
+      ],
+      [
+        "PEARL",
+        "Rounded object formed inside certain shelled mollusks"
+      ],
+      [
+        "RIDGE",
+        "Raised line running along a shell's surface"
+      ],
+      [
+        "SPIRAL",
+        "Curve that winds around a center and gradually expands"
+      ],
+      [
+        "VALVE",
+        "One of the two shell halves of a clam"
+      ],
+      [
+        "HINGE",
+        "Joint area where two shell halves meet"
+      ],
+      [
+        "SMOOTH",
+        "Having a surface without obvious bumps or ridges"
+      ],
+      [
+        "ROUGH",
+        "Having an uneven textured shell surface"
+      ],
+      [
+        "RIB",
+        "Raised band radiating across a scallop shell"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of a shell"
+      ],
+      [
+        "WHORL",
+        "One complete turn in a coiled shell"
+      ],
+      [
+        "LIMPET",
+        "Marine mollusk with a low cap-shaped shell"
+      ],
+      [
+        "COIL",
+        "A winding loop in a spiral shell"
+      ]
+    ],
+    "answerNotes": {
+      "VALVE": "Valve names one half of a two-part mollusk shell. It is a shell structure here rather than a device controlling liquid flow.",
+      "HINGE": "The hinge connects shell halves at one side. It differs from the free edges that can open apart.",
+      "SCALLOP": "A scallop shell is often recognized by its fan shape and radiating ribs. The clue uses those visible features.",
+      "WHORL": "A whorl is one turn in a coiled structure. The full spiral may contain several whorls.",
+      "LIMPET": "A limpet has a caplike shell. That outline contrasts with the coiled form associated with many other marine snails.",
+      "PEARL": "Pearls can form inside certain mollusks. The clue does not imply that every oyster or every shell contains one."
+    },
+    "id": "by-the-sea-3"
+  },
+  {
+    "title": "Around a Small Harbor",
+    "subtheme": "Boats and Harbor Objects",
+    "cardDescription": "Visit a small harbor through familiar words for boats, their parts, and the objects along a dock.",
+    "description": "Visit a small harbor through familiar words for boats, their parts, and the objects along a dock.",
+    "focus": "This puzzle follows the objects seen where boats gather. Clues describe locations, vessel parts, and simple equipment by their jobs rather than giving sailing instructions.",
+    "solvingTip": "Notice whether the clue names part of a boat, a place beside it, or something used to secure it. The rear, upper surface, and main body have distinct names.",
+    "words": [
+      [
+        "HARBOR",
+        "Sheltered area of water where boats may anchor"
+      ],
+      [
+        "DOCK",
+        "Structure beside which a boat can be secured"
+      ],
+      [
+        "PIER",
+        "Platform extending over water on supporting posts"
+      ],
+      [
+        "BUOY",
+        "Floating marker anchored in the water"
+      ],
+      [
+        "ANCHOR",
+        "Heavy device lowered to hold a boat in place"
+      ],
+      [
+        "ROPE",
+        "Strong thick cord used aboard a boat"
+      ],
+      [
+        "KNOT",
+        "Fastening made by tying cord or rope"
+      ],
+      [
+        "HULL",
+        "Main body of a boat"
+      ],
+      [
+        "BOW",
+        "Front end of a boat"
+      ],
+      [
+        "STERN",
+        "Rear end of a boat"
+      ],
+      [
+        "DECK",
+        "Upper surface on which people stand aboard a vessel"
+      ],
+      [
+        "MAST",
+        "Upright pole supporting a sail"
+      ],
+      [
+        "SAIL",
+        "Large fabric surface that catches wind to move a boat"
+      ],
+      [
+        "OAR",
+        "Long implement used to row a boat"
+      ],
+      [
+        "ROW",
+        "To move a boat with oars"
+      ],
+      [
+        "CABIN",
+        "Enclosed room within a boat"
+      ],
+      [
+        "FERRY",
+        "Boat carrying passengers or vehicles across water"
+      ],
+      [
+        "TUG",
+        "Small powerful boat used to move larger vessels"
+      ],
+      [
+        "SKIFF",
+        "Small light boat often used for rowing"
+      ],
+      [
+        "SLIP",
+        "Assigned narrow space where a boat is berthed"
+      ]
+    ],
+    "answerNotes": {
+      "BOW": "Bow names the front of a vessel and rhymes with cow here. The looped ribbon knot has the same spelling but a different pronunciation.",
+      "STERN": "Stern is the rear of a boat. The word can also describe a serious manner, but the vessel location determines this meaning.",
+      "BUOY": "A buoy is a floating marker held in a position by an anchor or mooring. It differs from the fixed platform of a pier.",
+      "HULL": "The hull is the boat's main body. Deck names an upper surface rather than the whole outer structure.",
+      "SLIP": "Slip is a berth or assigned boat space in this harbor context. It does not describe losing one's footing.",
+      "TUG": "Tug names a compact working boat here. Its job distinguishes it from a passenger ferry."
+    },
+    "id": "by-the-sea-4"
+  },
+  {
+    "title": "Birds Beside the Sea",
+    "subtheme": "Coastal Birds and Movements",
+    "cardDescription": "Meet coastal birds through their recognizable shapes, body parts, and ways of moving near the water.",
+    "description": "Meet coastal birds through their recognizable shapes, body parts, and ways of moving near the water.",
+    "focus": "The clues combine bird names with familiar actions and visible features. Descriptions use shape and behavior rather than requiring a particular coast, season, or plumage color.",
+    "solvingTip": "Ask whether a clue names a bird, a body part, a group, or an action. Short movement words can help cross the longer coastal bird names.",
+    "words": [
+      [
+        "GULL",
+        "Seabird often seen calling and gliding near a harbor"
+      ],
+      [
+        "TERN",
+        "Slender seabird often recognized by pointed wings and a forked tail"
+      ],
+      [
+        "PELICAN",
+        "Large water bird with a pouch beneath its bill"
+      ],
+      [
+        "PUFFIN",
+        "Stocky seabird known for a colorful bill during breeding season"
+      ],
+      [
+        "CORMORANT",
+        "Dark water bird often seen drying its spread wings"
+      ],
+      [
+        "PLOVER",
+        "Small shorebird often seen running and pausing on open beaches"
+      ],
+      [
+        "SANDPIPER",
+        "Shorebird with a slender bill often probing wet sand"
+      ],
+      [
+        "OSPREY",
+        "Fish-catching bird of prey that may nest near a coast"
+      ],
+      [
+        "HERON",
+        "Long-legged water bird that often waits motionless for prey"
+      ],
+      [
+        "EGRET",
+        "Slender heron often associated with white plumage"
+      ],
+      [
+        "BEAK",
+        "Hard mouthpart of a coastal bird"
+      ],
+      [
+        "BILL",
+        "Another word for a bird's projecting mouthpart"
+      ],
+      [
+        "WING",
+        "Body part a seabird extends while gliding"
+      ],
+      [
+        "FEATHER",
+        "One lightweight structure covering a coastal bird"
+      ],
+      [
+        "NEST",
+        "Structure where a coastal bird lays eggs"
+      ],
+      [
+        "FLOCK",
+        "Group of birds gathered or traveling together"
+      ],
+      [
+        "DIVE",
+        "To plunge below the water's surface in pursuit of food"
+      ],
+      [
+        "SOAR",
+        "To fly high with little visible wing flapping"
+      ],
+      [
+        "WADE",
+        "To walk through shallow water"
+      ],
+      [
+        "GLIDE",
+        "To move through the air without actively beating the wings"
+      ]
+    ],
+    "answerNotes": {
+      "PELICAN": "A pelican's pouch hangs beneath its bill. That feature is a more specific clue than size or coastal location alone.",
+      "PUFFIN": "Puffin bills can look especially colorful in breeding season. Their appearance changes, so the clue specifies that context.",
+      "CORMORANT": "Cormorants are familiar for a spread-wing posture after swimming. The clue uses a visible behavior rather than a particular species name.",
+      "OSPREY": "An osprey is a fish-catching bird of prey. It differs from the long-legged birds that hunt by standing in shallow water.",
+      "FLOCK": "Flock names a group of birds. It is a collective word rather than the name of one species.",
+      "WADE": "Wade means move on foot through shallow water. Dive describes going beneath the surface instead."
+    },
+    "id": "by-the-sea-5"
+  }
+]

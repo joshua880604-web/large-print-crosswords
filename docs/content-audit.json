@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1185,
-    "distinctAnswers": 708,
-    "distinctAnswerCluePairs": 859,
-    "distinctIntroductions": 68,
-    "numberedTitles": 32,
-    "editedEditions": 60
+    "clueEntries": 1135,
+    "distinctAnswers": 886,
+    "distinctAnswerCluePairs": 1135,
+    "distinctIntroductions": 100,
+    "numberedTitles": 0,
+    "editedEditions": 100
   },
   "refinedSeries": [
     {
@@ -369,660 +369,464 @@
         "At the Diner Counter",
         "Lemonade on the Porch"
       ]
+    },
+    {
+      "id": "movie-night",
+      "name": "Movies",
+      "before": {
+        "puzzles": 5,
+        "entries": 65,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "movie-night",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "An Evening at the Movies",
+        "Behind the Movie Camera",
+        "What Kind of Movie?",
+        "Movie Night at Home",
+        "In the Silent Picture House"
+      ]
+    },
+    {
+      "id": "by-the-sea",
+      "name": "Seaside",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 25,
+        "uniqueCluePairs": 25,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "by-the-sea",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "A Day on the Beach",
+        "Waves and Changing Tides",
+        "Shells Along the Shore",
+        "Around a Small Harbor",
+        "Birds Beside the Sea"
+      ]
+    },
+    {
+      "id": "autumn-walk",
+      "name": "Autumn",
+      "before": {
+        "puzzles": 5,
+        "entries": 62,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "autumn-walk",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 58,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Leaves Along the Path",
+        "At the Autumn Farm Stand",
+        "Woodland Neighbors in Fall",
+        "Ready for a Crisp Day",
+        "An Autumn Front Porch"
+      ]
+    },
+    {
+      "id": "holiday-table",
+      "name": "Holidays",
+      "before": {
+        "puzzles": 5,
+        "entries": 63,
+        "uniqueAnswers": 23,
+        "uniqueCluePairs": 23,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "holiday-table",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "Thanksgiving Dinner Words",
+        "Setting the Holiday Table",
+        "Decorating a Christmas Tree",
+        "Wrapping a Small Gift",
+        "Sending Holiday Greetings"
+      ]
+    },
+    {
+      "id": "a-good-book",
+      "name": "Reading",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "a-good-book",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Visit to the Library",
+        "From Cover to Last Page",
+        "Inside a Familiar Story",
+        "The Sound of a Poem",
+        "A Quiet Reading Corner"
+      ]
+    },
+    {
+      "id": "weather-watching",
+      "name": "Weather",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "weather-watching",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Looking Up at the Clouds",
+        "Rain at the Window",
+        "A Breeze Through the Trees",
+        "Snow on a Winter Morning",
+        "Reading the Weather Report"
+      ]
+    },
+    {
+      "id": "in-the-workshop",
+      "name": "Workshop",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "in-the-workshop",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Measuring at the Workbench",
+        "Wood and the Saw Cut",
+        "Joining the Pieces",
+        "The Finishing Touch",
+        "A Tidy Tool Bench"
+      ]
+    },
+    {
+      "id": "game-night",
+      "name": "Games",
+      "before": {
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "game-night",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.15
+      },
+      "subjects": [
+        "Across the Chessboard",
+        "A Game of Checkers",
+        "Dominoes on the Table",
+        "Inside a Deck of Cards",
+        "A Friendly Board-Game Evening"
+      ]
     }
   ],
   "selfAnswerClues": [],
-  "repeatedIntroductions": [
-    {
-      "pages": 5,
-      "puzzles": [
-        "movie-night",
-        "movie-night-2",
-        "movie-night-3",
-        "movie-night-4",
-        "movie-night-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "by-the-sea",
-        "by-the-sea-2",
-        "by-the-sea-3",
-        "by-the-sea-4",
-        "by-the-sea-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "autumn-walk",
-        "autumn-walk-2",
-        "autumn-walk-3",
-        "autumn-walk-4",
-        "autumn-walk-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "holiday-table",
-        "holiday-table-2",
-        "holiday-table-3",
-        "holiday-table-4",
-        "holiday-table-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "a-good-book",
-        "a-good-book-2",
-        "a-good-book-3",
-        "a-good-book-4",
-        "a-good-book-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "weather-watching",
-        "weather-watching-2",
-        "weather-watching-3",
-        "weather-watching-4",
-        "weather-watching-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "in-the-workshop",
-        "in-the-workshop-2",
-        "in-the-workshop-3",
-        "in-the-workshop-4",
-        "in-the-workshop-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "game-night",
-        "game-night-2",
-        "game-night-3",
-        "game-night-4",
-        "game-night-5"
-      ]
-    }
-  ],
-  "repeatedClues": [
-    {
-      "answer": "APPLE",
-      "clue": "A fruit often picked in an orchard",
-      "occurrences": 5
-    },
-    {
-      "answer": "DEW",
-      "clue": "Drops of water that form on grass overnight",
-      "occurrences": 5
-    },
-    {
-      "answer": "LIBRARY",
-      "clue": "A place where books can be borrowed",
-      "occurrences": 5
-    },
-    {
-      "answer": "SCENE",
-      "clue": "One part of a play or movie",
-      "occurrences": 5
-    },
-    {
-      "answer": "THANKS",
-      "clue": "An expression of gratitude",
-      "occurrences": 5
-    },
-    {
-      "answer": "TICKET",
-      "clue": "What you buy to enter a movie theater",
-      "occurrences": 5
-    },
-    {
-      "answer": "ANCHOR",
-      "clue": "A heavy object used to hold a boat in place",
-      "occurrences": 4
-    },
-    {
-      "answer": "BOAT",
-      "clue": "A vessel used to travel on water",
-      "occurrences": 4
-    },
-    {
-      "answer": "CHESS",
-      "clue": "A board game played with kings and queens",
-      "occurrences": 4
-    },
-    {
-      "answer": "CLEAR",
-      "clue": "A sky without clouds is this",
-      "occurrences": 4
-    },
-    {
-      "answer": "CLUB",
-      "clue": "A card suit with a three-leaf symbol",
-      "occurrences": 4
-    },
-    {
-      "answer": "COMEDY",
-      "clue": "A movie meant to make you laugh",
-      "occurrences": 4
-    },
-    {
-      "answer": "DAMP",
-      "clue": "Slightly wet",
-      "occurrences": 4
-    },
-    {
-      "answer": "DECK",
-      "clue": "A complete set of playing cards",
-      "occurrences": 4
-    },
-    {
-      "answer": "DRILL",
-      "clue": "A tool used to make round holes",
-      "occurrences": 4
-    },
-    {
-      "answer": "FROST",
-      "clue": "A thin coating of ice crystals",
-      "occurrences": 4
-    },
-    {
-      "answer": "FROST",
-      "clue": "A thin layer of ice crystals on a cold morning",
-      "occurrences": 4
-    },
-    {
-      "answer": "GUEST",
-      "clue": "A person invited to visit",
-      "occurrences": 4
-    },
-    {
-      "answer": "HERO",
-      "clue": "The brave central character in many stories",
-      "occurrences": 4
-    },
-    {
-      "answer": "ICE",
-      "clue": "Frozen water",
-      "occurrences": 4
-    }
-  ],
-  "highestOverlapPairs": [
-    {
-      "first": "a-good-book",
-      "second": "a-good-book-3",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book-3",
-      "second": "a-good-book-4",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "movie-night-4",
-      "second": "movie-night-5",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "in-the-workshop",
-      "second": "in-the-workshop-5",
-      "sharedClues": 9,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "weather-watching",
-      "second": "weather-watching-2",
-      "sharedClues": 9,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "weather-watching",
-      "second": "weather-watching-3",
-      "sharedClues": 9,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "game-night",
-      "second": "game-night-2",
-      "sharedClues": 8,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "holiday-table",
-      "second": "holiday-table-3",
-      "sharedClues": 8,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book-4",
-      "second": "a-good-book-5",
-      "sharedClues": 8,
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "autumn-walk-3",
-      "second": "autumn-walk-4",
-      "sharedClues": 8,
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "by-the-sea-4",
-      "second": "by-the-sea-5",
-      "sharedClues": 8,
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "holiday-table",
-      "second": "holiday-table-5",
-      "sharedClues": 8,
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "game-night-3",
-      "second": "game-night-4",
-      "sharedClues": 7,
-      "jaccard": 0.467,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book",
-      "second": "a-good-book-2",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book",
-      "second": "a-good-book-4",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book-2",
-      "second": "a-good-book-3",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "autumn-walk-3",
-      "second": "autumn-walk-5",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "by-the-sea-2",
-      "second": "by-the-sea-3",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "holiday-table-2",
-      "second": "holiday-table-4",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "in-the-workshop",
-      "second": "in-the-workshop-2",
-      "sharedClues": 8,
-      "jaccard": 0.444,
-      "sameSeries": true
-    }
-  ],
+  "repeatedIntroductions": [],
+  "repeatedClues": [],
+  "highestOverlapPairs": [],
   "highestAnswerOverlapPairs": [
     {
-      "first": "a-good-book",
+      "first": "garden-days-4",
+      "second": "flower-favorites-4",
+      "sharedAnswers": [
+        "BUTTERFLY",
+        "BEETLE",
+        "MOTH",
+        "BEE"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
+      "first": "a-stitch-in-time-2",
+      "second": "autumn-walk-4",
+      "sharedAnswers": [
+        "SWEATER",
+        "MITTEN",
+        "SCARF",
+        "KNIT"
+      ],
+      "jaccard": 0.2,
+      "sameSeries": false
+    },
+    {
+      "first": "flower-favorites",
+      "second": "garden-days-5",
+      "sharedAnswers": [
+        "SPROUT",
+        "SHOOT",
+        "SEED",
+        "ROOT"
+      ],
+      "jaccard": 0.2,
+      "sameSeries": false
+    },
+    {
+      "first": "movie-night-3",
       "second": "a-good-book-3",
       "sharedAnswers": [
-        "LIBRARY",
-        "PROSE",
-        "PAPER",
-        "STORY",
-        "NOVEL",
-        "LINE",
-        "PAGE",
-        "READ",
-        "INK"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book-3",
-      "second": "a-good-book-4",
-      "sharedAnswers": [
-        "LIBRARY",
-        "PROSE",
-        "INDEX",
-        "SHELF",
-        "TITLE",
-        "PAGE",
-        "LINE",
-        "READ",
-        "INK"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "movie-night-4",
-      "second": "movie-night-5",
-      "sharedAnswers": [
-        "SILENT",
-        "TICKET",
-        "COMEDY",
-        "OSCAR",
-        "SCENE",
+        "HEROINE",
         "HERO",
-        "REEL",
-        "ROLE",
-        "SET"
+        "CLUE"
       ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "in-the-workshop",
-      "second": "in-the-workshop-5",
-      "sharedAnswers": [
-        "PLIERS",
-        "PAINT",
-        "RULER",
-        "LEVEL",
-        "SCREW",
-        "TAPE",
-        "BOLT",
-        "NAIL",
-        "SAW"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "weather-watching",
-      "second": "weather-watching-2",
-      "sharedAnswers": [
-        "SHADE",
-        "STORM",
-        "SLEET",
-        "CLEAR",
-        "CLOUD",
-        "DAMP",
-        "THAW",
-        "DEW",
-        "ICE"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "weather-watching",
-      "second": "weather-watching-3",
-      "sharedAnswers": [
-        "SHADE",
-        "SLEET",
-        "DAMP",
-        "THAW",
-        "MIST",
-        "COLD",
-        "DEW",
-        "ICE",
-        "DRY"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
+      "jaccard": 0.158,
+      "sameSeries": false
     },
     {
       "first": "game-night",
       "second": "game-night-2",
       "sharedAnswers": [
-        "BISHOP",
-        "DOMINO",
-        "SCORE",
-        "CHESS",
-        "DECK",
+        "SQUARE",
         "KING",
-        "PAWN",
-        "CLUB"
+        "TURN"
       ],
-      "jaccard": 0.5,
+      "jaccard": 0.15,
       "sameSeries": true
     },
     {
-      "first": "holiday-table",
-      "second": "holiday-table-3",
+      "first": "sunday-baking-3",
+      "second": "a-day-at-the-farm-3",
       "sharedAnswers": [
-        "THANKS",
-        "SPOON",
-        "SHARE",
-        "GUEST",
-        "ROLL",
-        "CORN",
-        "PEAS",
-        "BEAN"
+        "CHERRY",
+        "CORE",
+        "PEEL"
       ],
-      "jaccard": 0.5,
-      "sameSeries": true
+      "jaccard": 0.15,
+      "sameSeries": false
     },
     {
-      "first": "a-good-book-4",
-      "second": "a-good-book-5",
+      "first": "cozy-at-home-5",
+      "second": "in-the-workshop-5",
       "sharedAnswers": [
-        "LIBRARY",
-        "CHAPTER",
-        "AUTHOR",
+        "DRAWER",
         "SHELF",
-        "LINE",
-        "BOOK",
-        "PEN",
-        "INK"
+        "BOX"
       ],
-      "jaccard": 0.471,
-      "sameSeries": true
+      "jaccard": 0.143,
+      "sameSeries": false
     },
     {
-      "first": "autumn-walk-3",
-      "second": "autumn-walk-4",
-      "sharedAnswers": [
-        "AUTUMN",
-        "MAPLE",
-        "APPLE",
-        "TRAIL",
-        "COAT",
-        "LEAF",
-        "PINE",
-        "NUT"
-      ],
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "by-the-sea-4",
-      "second": "by-the-sea-5",
-      "sharedAnswers": [
-        "ANCHOR",
-        "SHELL",
-        "MAST",
-        "WAVE",
-        "GULL",
-        "PIER",
-        "KELP",
-        "SUN"
-      ],
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "holiday-table",
-      "second": "holiday-table-5",
-      "sharedAnswers": [
-        "THANKS",
-        "SPOON",
-        "TABLE",
-        "SHARE",
-        "GUEST",
-        "PEAS",
-        "BEAN",
-        "PIE"
-      ],
-      "jaccard": 0.471,
-      "sameSeries": true
-    },
-    {
-      "first": "game-night-3",
-      "second": "game-night-4",
-      "sharedAnswers": [
-        "SHUFFLE",
-        "HEART",
-        "QUEEN",
-        "TURN",
-        "DECK",
-        "PAWN",
-        "ACE"
-      ],
-      "jaccard": 0.467,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book",
-      "second": "a-good-book-2",
-      "sharedAnswers": [
-        "LIBRARY",
-        "PROSE",
-        "STORY",
-        "NOVEL",
-        "PAGE",
-        "READ",
-        "POEM",
-        "TALE"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book",
-      "second": "a-good-book-4",
-      "sharedAnswers": [
-        "LIBRARY",
-        "AUTHOR",
-        "PROSE",
-        "LINE",
-        "PAGE",
-        "READ",
-        "INK",
-        "PEN"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "a-good-book-2",
-      "second": "a-good-book-3",
-      "sharedAnswers": [
-        "LIBRARY",
-        "NOVEL",
-        "PROSE",
-        "TITLE",
-        "STORY",
-        "SPINE",
-        "READ",
-        "PAGE"
-      ],
-      "jaccard": 0.444,
-      "sameSeries": true
-    },
-    {
-      "first": "autumn-walk-3",
+      "first": "flower-favorites-2",
       "second": "autumn-walk-5",
       "sharedAnswers": [
-        "AUTUMN",
-        "APPLE",
-        "TRAIL",
-        "FROST",
-        "GOLD",
-        "PINE",
-        "OAK",
-        "NUT"
+        "WREATH",
+        "RIBBON",
+        "STEM"
       ],
-      "jaccard": 0.444,
-      "sameSeries": true
+      "jaccard": 0.143,
+      "sameSeries": false
     },
     {
-      "first": "by-the-sea-2",
-      "second": "by-the-sea-3",
+      "first": "game-night",
+      "second": "game-night-4",
       "sharedAnswers": [
-        "OCEAN",
-        "BOAT",
-        "SALT",
-        "SEAL",
-        "DUNE",
-        "SAND",
-        "PORT",
-        "SUN"
+        "QUEEN",
+        "DRAW",
+        "KING"
       ],
-      "jaccard": 0.444,
+      "jaccard": 0.143,
       "sameSeries": true
     },
     {
-      "first": "holiday-table-2",
+      "first": "backyard-birds-2",
+      "second": "our-furry-friends-2",
+      "sharedAnswers": [
+        "PERCH",
+        "TRAY"
+      ],
+      "jaccard": 0.1,
+      "sameSeries": false
+    },
+    {
+      "first": "backyard-birds-4",
+      "second": "a-cup-of-comfort-4",
+      "sharedAnswers": [
+        "EGG",
+        "CUP"
+      ],
+      "jaccard": 0.1,
+      "sameSeries": false
+    },
+    {
+      "first": "backyard-birds-5",
+      "second": "by-the-sea-5",
+      "sharedAnswers": [
+        "TERN",
+        "GULL"
+      ],
+      "jaccard": 0.1,
+      "sameSeries": false
+    },
+    {
+      "first": "cozy-at-home",
+      "second": "movie-night-4",
+      "sharedAnswers": [
+        "CUSHION",
+        "SOFA"
+      ],
+      "jaccard": 0.1,
+      "sameSeries": false
+    },
+    {
+      "first": "our-furry-friends-4",
+      "second": "by-the-sea-5",
+      "sharedAnswers": [
+        "BEAK",
+        "WING"
+      ],
+      "jaccard": 0.1,
+      "sameSeries": false
+    },
+    {
+      "first": "sunday-baking-2",
+      "second": "market-morning-2",
+      "sharedAnswers": [
+        "WHEAT",
+        "LOAF"
+      ],
+      "jaccard": 0.1,
+      "sameSeries": false
+    },
+    {
+      "first": "a-cup-of-comfort",
       "second": "holiday-table-4",
       "sharedAnswers": [
-        "FAMILY",
-        "THANKS",
-        "ROAST",
-        "FEAST",
-        "MEAL",
-        "HOST",
-        "PIE",
-        "YAM"
+        "STRING",
+        "BAG"
       ],
-      "jaccard": 0.444,
-      "sameSeries": true
+      "jaccard": 0.095,
+      "sameSeries": false
     },
     {
-      "first": "in-the-workshop",
-      "second": "in-the-workshop-2",
+      "first": "a-cup-of-comfort",
+      "second": "market-morning-5",
       "sharedAnswers": [
-        "HAMMER",
-        "HANDLE",
-        "PLIERS",
-        "RULER",
-        "SCREW",
-        "WOOD",
-        "FILE",
-        "SAW"
+        "TAG",
+        "BAG"
       ],
-      "jaccard": 0.444,
-      "sameSeries": true
+      "jaccard": 0.095,
+      "sameSeries": false
+    },
+    {
+      "first": "a-cup-of-comfort-2",
+      "second": "cozy-at-home-2",
+      "sharedAnswers": [
+        "SPOON",
+        "POT"
+      ],
+      "jaccard": 0.095,
+      "sameSeries": false
+    },
+    {
+      "first": "a-good-book",
+      "second": "in-the-workshop-5",
+      "sharedAnswers": [
+        "STACK",
+        "SHELF"
+      ],
+      "jaccard": 0.095,
+      "sameSeries": false
+    },
+    {
+      "first": "a-good-book",
+      "second": "market-morning-5",
+      "sharedAnswers": [
+        "AISLE",
+        "CARD"
+      ],
+      "jaccard": 0.095,
+      "sameSeries": false
     }
   ],
   "series": [
@@ -1089,14 +893,14 @@
     {
       "id": "movie-night",
       "puzzles": 5,
-      "entries": 65,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.529,
-      "highestAnswerJaccard": 0.529
+      "entries": 55,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "music-memories",
@@ -1113,14 +917,14 @@
     {
       "id": "by-the-sea",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 25,
-      "uniqueCluePairs": 25,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.471,
-      "highestAnswerJaccard": 0.471
+      "entries": 55,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "cozy-at-home",
@@ -1137,38 +941,38 @@
     {
       "id": "autumn-walk",
       "puzzles": 5,
-      "entries": 62,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.471,
-      "highestAnswerJaccard": 0.471
+      "entries": 58,
+      "uniqueAnswers": 58,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "holiday-table",
       "puzzles": 5,
-      "entries": 63,
-      "uniqueAnswers": 23,
-      "uniqueCluePairs": 23,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.5,
-      "highestAnswerJaccard": 0.5
+      "entries": 57,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
     },
     {
       "id": "a-good-book",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.529,
-      "highestAnswerJaccard": 0.529
+      "entries": 57,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
     },
     {
       "id": "our-furry-friends",
@@ -1197,14 +1001,14 @@
     {
       "id": "weather-watching",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.5,
-      "highestAnswerJaccard": 0.5
+      "entries": 56,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "market-morning",
@@ -1221,14 +1025,14 @@
     {
       "id": "in-the-workshop",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.5,
-      "highestAnswerJaccard": 0.5
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "a-day-at-the-farm",
@@ -1245,14 +1049,14 @@
     {
       "id": "game-night",
       "puzzles": 5,
-      "entries": 57,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.5,
-      "highestAnswerJaccard": 0.5
+      "entries": 58,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.15
     },
     {
       "id": "flower-favorites",

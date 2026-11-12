@@ -127,5 +127,93 @@
     "attempts": 8000,
     "gridSize": 11,
     "minEntries": 10
+  },
+  {
+    "id": "movie-night",
+    "name": "Movies",
+    "theme": "Classic Pastimes",
+    "source": "movies-editorial.json",
+    "archive": "movies-originals.json",
+    "seed": 6710000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "by-the-sea",
+    "name": "Seaside",
+    "theme": "Nature",
+    "source": "seaside-editorial.json",
+    "archive": "seaside-originals.json",
+    "seed": 7210000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "autumn-walk",
+    "name": "Autumn",
+    "theme": "Seasons",
+    "source": "autumn-editorial.json",
+    "archive": "autumn-originals.json",
+    "seed": 7710000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "holiday-table",
+    "name": "Holidays",
+    "theme": "Seasons",
+    "source": "holidays-editorial.json",
+    "archive": "holidays-originals.json",
+    "seed": 8210000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "a-good-book",
+    "name": "Reading",
+    "theme": "Classic Pastimes",
+    "source": "reading-editorial.json",
+    "archive": "reading-originals.json",
+    "seed": 8710000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "weather-watching",
+    "name": "Weather",
+    "theme": "Nature",
+    "source": "weather-editorial.json",
+    "archive": "weather-originals.json",
+    "seed": 9210000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "in-the-workshop",
+    "name": "Workshop",
+    "theme": "Classic Pastimes",
+    "source": "workshop-editorial.json",
+    "archive": "workshop-originals.json",
+    "seed": 9710000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  },
+  {
+    "id": "game-night",
+    "name": "Games",
+    "theme": "Classic Pastimes",
+    "source": "games-editorial.json",
+    "archive": "games-originals.json",
+    "seed": 10210000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
   }
 ]

@@ -1,0 +1,561 @@
+[
+  {
+    "id": "holiday-table",
+    "title": "The Holiday Table",
+    "theme": "Seasons",
+    "description": "Gather around a familiar table. A gentle puzzle about food and togetherness.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "THANKS",
+        "clue": "An expression of gratitude",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SPOON",
+        "clue": "A utensil used for eating soup",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TABLE",
+        "clue": "Furniture around which a meal is shared",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SHARE",
+        "clue": "Give others part of what you have",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "GUEST",
+        "clue": "A person invited to visit",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "FEAST",
+        "clue": "A large meal for a special occasion",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "ROLL",
+        "clue": "A small bread served with dinner",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "CORN",
+        "clue": "A yellow vegetable that grows on a cob",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round green vegetables",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A seed often served as a vegetable",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FORK",
+        "clue": "An eating utensil with prongs",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PIE",
+        "clue": "A dessert with a pastry crust",
+        "row": 5,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "holiday-table-2",
+    "title": "The Holiday Table \u2014 No. 2",
+    "theme": "Seasons",
+    "description": "Gather around a familiar table. A gentle puzzle about food and togetherness.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "FAMILY",
+        "clue": "Relatives gathered together",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "THANKS",
+        "clue": "An expression of gratitude",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "ROAST",
+        "clue": "Cook food with dry heat in an oven",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "GUEST",
+        "clue": "A person invited to visit",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 13
+      },
+      {
+        "answer": "GRAVY",
+        "clue": "A sauce often served with roast turkey",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TOAST",
+        "clue": "A few words spoken while raising a glass",
+        "row": 4,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "FEAST",
+        "clue": "A large meal for a special occasion",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MEAL",
+        "clue": "Breakfast, lunch, or dinner",
+        "row": 1,
+        "col": 9,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CORN",
+        "clue": "A yellow vegetable that grows on a cob",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HOST",
+        "clue": "A person who welcomes guests to a gathering",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "DISH",
+        "clue": "A container in which food is served",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PIE",
+        "clue": "A dessert with a pastry crust",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "YAM",
+        "clue": "A sweet root vegetable",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      }
+    ]
+  },
+  {
+    "id": "holiday-table-3",
+    "title": "The Holiday Table \u2014 No. 3",
+    "theme": "Seasons",
+    "description": "Gather around a familiar table. A gentle puzzle about food and togetherness.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "THANKS",
+        "clue": "An expression of gratitude",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "NAPKIN",
+        "clue": "A cloth or paper used to wipe your mouth at a meal",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SPOON",
+        "clue": "A utensil used for eating soup",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "GUEST",
+        "clue": "A person invited to visit",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SHARE",
+        "clue": "Give others part of what you have",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "MEAL",
+        "clue": "Breakfast, lunch, or dinner",
+        "row": 10,
+        "col": 7,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "CORN",
+        "clue": "A yellow vegetable that grows on a cob",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round green vegetables",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "ROLL",
+        "clue": "A small bread served with dinner",
+        "row": 8,
+        "col": 10,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A seed often served as a vegetable",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "HAM",
+        "clue": "A cured cut of pork often served at holidays",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "YAM",
+        "clue": "A sweet root vegetable",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "holiday-table-4",
+    "title": "The Holiday Table \u2014 No. 4",
+    "theme": "Seasons",
+    "description": "Gather around a familiar table. A gentle puzzle about food and togetherness.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "FAMILY",
+        "clue": "Relatives gathered together",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "THANKS",
+        "clue": "An expression of gratitude",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FEAST",
+        "clue": "A large meal for a special occasion",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PLATE",
+        "clue": "A flat dish used to serve food",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SHARE",
+        "clue": "Give others part of what you have",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ROAST",
+        "clue": "Cook food with dry heat in an oven",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "HOST",
+        "clue": "A person who welcomes guests to a gathering",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "MEAL",
+        "clue": "Breakfast, lunch, or dinner",
+        "row": 8,
+        "col": 2,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "ROLL",
+        "clue": "A small bread served with dinner",
+        "row": 11,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round green vegetables",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "YAM",
+        "clue": "A sweet root vegetable",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PIE",
+        "clue": "A dessert with a pastry crust",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "HAM",
+        "clue": "A cured cut of pork often served at holidays",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "holiday-table-5",
+    "title": "The Holiday Table \u2014 No. 5",
+    "theme": "Seasons",
+    "description": "Gather around a familiar table. A gentle puzzle about food and togetherness.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "THANKS",
+        "clue": "An expression of gratitude",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "GUEST",
+        "clue": "A person invited to visit",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ROAST",
+        "clue": "Cook food with dry heat in an oven",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SPOON",
+        "clue": "A utensil used for eating soup",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SHARE",
+        "clue": "Give others part of what you have",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TABLE",
+        "clue": "Furniture around which a meal is shared",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "GRAVY",
+        "clue": "A sauce often served with roast turkey",
+        "row": 3,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "DISH",
+        "clue": "A container in which food is served",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "HOST",
+        "clue": "A person who welcomes guests to a gathering",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "BEAN",
+        "clue": "A seed often served as a vegetable",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "PEAS",
+        "clue": "Small round green vegetables",
+        "row": 6,
+        "col": 12,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "PIE",
+        "clue": "A dessert with a pastry crust",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HAM",
+        "clue": "A cured cut of pork often served at holidays",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      }
+    ]
+  }
+]

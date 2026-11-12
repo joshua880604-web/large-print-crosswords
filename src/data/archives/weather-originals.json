@@ -1,0 +1,569 @@
+[
+  {
+    "id": "weather-watching",
+    "title": "Weather Watching",
+    "theme": "Nature",
+    "description": "Look to the sky for a relaxed puzzle about everyday weather.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "SHADE",
+        "clue": "An area sheltered from direct sunlight",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "STORM",
+        "clue": "Weather with strong wind and often rain",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SLEET",
+        "clue": "Small ice pellets falling with winter weather",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CLEAR",
+        "clue": "A sky without clouds is this",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CLOUD",
+        "clue": "A visible mass of water droplets in the sky",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Slightly wet",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "THAW",
+        "clue": "To melt after being frozen",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "MIST",
+        "clue": "A fine spray of tiny water droplets",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SNOW",
+        "clue": "White flakes of frozen water",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "COLD",
+        "clue": "Low in temperature",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "HAIL",
+        "clue": "Balls of ice that fall from clouds",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DEW",
+        "clue": "Drops of water that form on grass overnight",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "ICE",
+        "clue": "Frozen water",
+        "row": 7,
+        "col": 5,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "DRY",
+        "clue": "Without moisture",
+        "row": 3,
+        "col": 10,
+        "direction": "across",
+        "number": 5
+      }
+    ]
+  },
+  {
+    "id": "weather-watching-2",
+    "title": "Weather Watching \u2014 No. 2",
+    "theme": "Nature",
+    "description": "Look to the sky for a relaxed puzzle about everyday weather.",
+    "difficulty": "Easy",
+    "rows": 8,
+    "cols": 13,
+    "entries": [
+      {
+        "answer": "BREEZE",
+        "clue": "A gentle wind",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "STORM",
+        "clue": "Weather with strong wind and often rain",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SHADE",
+        "clue": "An area sheltered from direct sunlight",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin coating of ice crystals",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SLEET",
+        "clue": "Small ice pellets falling with winter weather",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CLEAR",
+        "clue": "A sky without clouds is this",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CLOUD",
+        "clue": "A visible mass of water droplets in the sky",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "THAW",
+        "clue": "To melt after being frozen",
+        "row": 2,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Slightly wet",
+        "row": 4,
+        "col": 9,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ICE",
+        "clue": "Frozen water",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "FOG",
+        "clue": "A cloud close to the ground that reduces visibility",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DEW",
+        "clue": "Drops of water that form on grass overnight",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that lights our daytime sky",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      }
+    ]
+  },
+  {
+    "id": "weather-watching-3",
+    "title": "Weather Watching \u2014 No. 3",
+    "theme": "Nature",
+    "description": "Look to the sky for a relaxed puzzle about everyday weather.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "SHADE",
+        "clue": "An area sheltered from direct sunlight",
+        "row": 6,
+        "col": 4,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SLEET",
+        "clue": "Small ice pellets falling with winter weather",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin coating of ice crystals",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "THAW",
+        "clue": "To melt after being frozen",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "COLD",
+        "clue": "Low in temperature",
+        "row": 9,
+        "col": 2,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "MIST",
+        "clue": "A fine spray of tiny water droplets",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Slightly wet",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "WIND",
+        "clue": "Air in motion",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "WARM",
+        "clue": "Comfortably high in temperature",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that lights our daytime sky",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "ICE",
+        "clue": "Frozen water",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DRY",
+        "clue": "Without moisture",
+        "row": 12,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "DEW",
+        "clue": "Drops of water that form on grass overnight",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      }
+    ]
+  },
+  {
+    "id": "weather-watching-4",
+    "title": "Weather Watching \u2014 No. 4",
+    "theme": "Nature",
+    "description": "Look to the sky for a relaxed puzzle about everyday weather.",
+    "difficulty": "Easy",
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "STORM",
+        "clue": "Weather with strong wind and often rain",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CLEAR",
+        "clue": "A sky without clouds is this",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SHADE",
+        "clue": "An area sheltered from direct sunlight",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CLOUD",
+        "clue": "A visible mass of water droplets in the sky",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin coating of ice crystals",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "WARM",
+        "clue": "Comfortably high in temperature",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SNOW",
+        "clue": "White flakes of frozen water",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WIND",
+        "clue": "Air in motion",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MIST",
+        "clue": "A fine spray of tiny water droplets",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Slightly wet",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "GUST",
+        "clue": "A sudden burst of wind",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "DEW",
+        "clue": "Drops of water that form on grass overnight",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "weather-watching-5",
+    "title": "Weather Watching \u2014 No. 5",
+    "theme": "Nature",
+    "description": "Look to the sky for a relaxed puzzle about everyday weather.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "BREEZE",
+        "clue": "A gentle wind",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CLEAR",
+        "clue": "A sky without clouds is this",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FROST",
+        "clue": "A thin coating of ice crystals",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "STORM",
+        "clue": "Weather with strong wind and often rain",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "MIST",
+        "clue": "A fine spray of tiny water droplets",
+        "row": 8,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "GUST",
+        "clue": "A sudden burst of wind",
+        "row": 11,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "COLD",
+        "clue": "Low in temperature",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "HAIL",
+        "clue": "Balls of ice that fall from clouds",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "ICE",
+        "clue": "Frozen water",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DEW",
+        "clue": "Drops of water that form on grass overnight",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SUN",
+        "clue": "The star that lights our daytime sky",
+        "row": 8,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "DRY",
+        "clue": "Without moisture",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      }
+    ]
+  }
+]

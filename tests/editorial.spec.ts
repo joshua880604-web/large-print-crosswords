@@ -12,12 +12,21 @@ import craftsOriginals from '../src/data/archives/crafts-originals.json' with {t
 import flowersOriginals from '../src/data/archives/flowers-originals.json' with {type:'json'};
 import petsOriginals from '../src/data/archives/pets-originals.json' with {type:'json'};
 import drinksOriginals from '../src/data/archives/drinks-originals.json' with {type:'json'};
+import moviesOriginals from '../src/data/archives/movies-originals.json' with {type:'json'};
+import seasideOriginals from '../src/data/archives/seaside-originals.json' with {type:'json'};
+import autumnOriginals from '../src/data/archives/autumn-originals.json' with {type:'json'};
+import holidaysOriginals from '../src/data/archives/holidays-originals.json' with {type:'json'};
+import readingOriginals from '../src/data/archives/reading-originals.json' with {type:'json'};
+import weatherOriginals from '../src/data/archives/weather-originals.json' with {type:'json'};
+import workshopOriginals from '../src/data/archives/workshop-originals.json' with {type:'json'};
+import gamesOriginals from '../src/data/archives/games-originals.json' with {type:'json'};
 import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
-const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals,...bakingOriginals,...craftsOriginals,...flowersOriginals,...petsOriginals,...drinksOriginals];
+const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals,...bakingOriginals,...craftsOriginals,...flowersOriginals,...petsOriginals,...drinksOriginals,...moviesOriginals,...seasideOriginals,...autumnOriginals,...holidaysOriginals,...readingOriginals,...weatherOriginals,...workshopOriginals,...gamesOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
 
 test('edited subjects have distinct reader notes and hidden answer explanations',async({page})=>{
+ test.setTimeout(120_000); // Visit every subject in the complete 100-puzzle collection.
  expect(edited).toHaveLength(editorialSeries.length*5);
  for(const puzzle of edited){
   await page.goto(`/crosswords/${puzzle.id}/`);
@@ -59,6 +68,7 @@ test(`refreshed ${series.id} retains the original saved game and isolates new pr
 }
 
 test('previous editions remain reachable but are not index targets',async({page,request})=>{
+ test.setTimeout(120_000); // Verify all 100 preserved original routes.
  const sitemap=await (await request.get('/sitemap.xml')).text();
  for(const old of originals){
   await page.goto(`/crosswords/${old.id}/previous/`);
