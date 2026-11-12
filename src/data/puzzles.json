@@ -122,110 +122,124 @@
   },
   {
     "id": "sunday-baking",
-    "title": "Sunday Baking",
+    "title": "Measuring and Mixing",
     "theme": "Food & Home",
-    "description": "Something warm from the oven. A comforting crossword for a quiet afternoon.",
+    "subtheme": "Getting Ready to Bake",
+    "series": "sunday-baking",
+    "description": "Start at the mixing bowl with a crossword about measuring tools, familiar recipe instructions, and the actions that bring ingredients together.",
+    "cardDescription": "Measuring tools, mixing actions, and everyday recipe words.",
     "difficulty": "Easy",
-    "rows": 9,
-    "cols": 12,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "BUTTER",
-        "clue": "A spread made from cream",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "DOUGH",
-        "clue": "A mixture of flour and liquid before baking",
+        "answer": "SCRAPER",
+        "clue": "Flexible tool used to clear batter from a bowl's sides",
         "row": 4,
-        "col": 4,
-        "direction": "down",
-        "number": 9
+        "col": 1,
+        "direction": "across",
+        "number": 5
       },
       {
-        "answer": "SUGAR",
-        "clue": "Sweet crystals added to cookie dough",
-        "row": 2,
-        "col": 8,
+        "answer": "RECIPE",
+        "clue": "Written ingredients and directions for making a dish",
+        "row": 4,
+        "col": 7,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "BREAD",
-        "clue": "A food baked in a loaf",
+        "answer": "OUNCE",
+        "clue": "Unit of weight abbreviated oz",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SPOON",
+        "clue": "Utensil with a small rounded bowl used for stirring",
         "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MIXER",
+        "clue": "Appliance with beaters that blend ingredients",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SCALE",
+        "clue": "Kitchen device that measures ingredient weight",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SIFT",
+        "clue": "To pass flour through a fine mesh",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "STIR",
+        "clue": "To move a spoon around in a mixture",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "GRAM",
+        "clue": "Metric unit of mass used on a kitchen scale",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "BOWL",
+        "clue": "Round deep container used for mixing ingredients",
+        "row": 6,
         "col": 0,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "ROLL",
-        "clue": "A small individual bread",
-        "row": 4,
-        "col": 1,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "SALT",
-        "clue": "Seasoning often paired with pepper",
+        "answer": "ADD",
+        "clue": "To put another ingredient into a mixture",
         "row": 2,
-        "col": 8,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "CAKE",
-        "clue": "A sweet treat often served on birthdays",
-        "row": 1,
-        "col": 2,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "TART",
-        "clue": "A small pastry with an open top",
-        "row": 2,
-        "col": 1,
+        "col": 6,
         "direction": "across",
         "number": 4
-      },
-      {
-        "answer": "OATS",
-        "clue": "Grains used in oatmeal cookies",
-        "row": 0,
-        "col": 11,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "TEA",
-        "clue": "A warm drink made by steeping leaves",
-        "row": 0,
-        "col": 9,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "EGG",
-        "clue": "An ingredient that comes in a shell",
-        "row": 4,
-        "col": 6,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "PIE",
-        "clue": "Baked dessert with a pastry crust",
-        "row": 2,
-        "col": 6,
-        "direction": "down",
-        "number": 5
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows the preparation side of baking. Some clues describe a tool or container; others describe an action or a measured amount. The definitions use everyday recipe language rather than asking you to calculate quantities.",
+      "solvingTip": "Look for the job described in the clue: weighing, scraping, stirring, or separating dry ingredients. A tool and the action performed with it may have different names. Short recipe verbs can provide crossings for longer utensil words.",
+      "answerNotes": [
+        {
+          "answer": "OUNCE",
+          "text": "Ounce is a unit of weight in this clue. A fluid ounce measures volume, so the word fluid changes the kind of measurement."
+        },
+        {
+          "answer": "SCALE",
+          "text": "A kitchen scale measures weight rather than the space an ingredient occupies. That distinguishes it from a measuring cup."
+        },
+        {
+          "answer": "SIFT",
+          "text": "Sift is the action of passing a dry ingredient through mesh. It differs from stirring ingredients together in a bowl."
+        }
+      ]
+    }
   },
   {
     "id": "backyard-birds",
@@ -2440,118 +2454,124 @@
   },
   {
     "id": "sunday-baking-2",
-    "title": "Sunday Baking \u2014 No. 2",
+    "title": "A Loaf of Bread",
     "theme": "Food & Home",
-    "description": "Something warm from the oven. A comforting crossword for a quiet afternoon.",
+    "subtheme": "Bread Dough and Baking",
+    "series": "sunday-baking",
+    "description": "Follow a loaf from dough to slice in a crossword about familiar bread ingredients, baking actions, and the parts of a finished loaf.",
+    "cardDescription": "Dough, grain words, and the familiar stages of bread making.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 13,
+    "revision": 2,
+    "rows": 9,
+    "cols": 11,
     "entries": [
       {
-        "answer": "BUTTER",
-        "clue": "A spread made from cream",
-        "row": 6,
+        "answer": "SLICE",
+        "clue": "A thin piece cut from a bread loaf",
+        "row": 3,
         "col": 3,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "COOKIE",
-        "clue": "A small, sweet baked treat",
-        "row": 1,
-        "col": 7,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "CREAM",
-        "clue": "The rich part of milk, used for whipping",
-        "row": 1,
-        "col": 7,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "TIMER",
-        "clue": "A device that tells you when baking time is up",
-        "row": 6,
-        "col": 6,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "YEAST",
-        "clue": "An ingredient that helps bread rise",
-        "row": 9,
-        "col": 5,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "DOUGH",
-        "clue": "A mixture of flour and liquid before baking",
-        "row": 4,
-        "col": 4,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "BREAD",
-        "clue": "A food baked in a loaf",
-        "row": 4,
-        "col": 0,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "SALT",
-        "clue": "Seasoning often paired with pepper",
+        "answer": "TOAST",
+        "clue": "Bread browned by direct heat after it has been baked",
         "row": 0,
-        "col": 10,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "TART",
-        "clue": "A small pastry with an open top",
-        "row": 9,
-        "col": 9,
+        "answer": "CRUST",
+        "clue": "The browned outer surface of baked bread",
+        "row": 3,
+        "col": 6,
         "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "WHEAT",
+        "clue": "Grain commonly used to make bread flour",
+        "row": 7,
+        "col": 2,
+        "direction": "across",
         "number": 11
       },
       {
-        "answer": "ROLL",
-        "clue": "A small individual bread",
-        "row": 11,
-        "col": 9,
+        "answer": "PROOF",
+        "clue": "To let shaped yeast dough expand before baking",
+        "row": 1,
+        "col": 0,
         "direction": "across",
-        "number": 12
+        "number": 3
       },
       {
-        "answer": "CAKE",
-        "clue": "A sweet treat often served on birthdays",
-        "row": 1,
-        "col": 2,
+        "answer": "STEAM",
+        "clue": "Water vapor sometimes introduced during bread baking",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "OVEN",
+        "clue": "Enclosed heated appliance in which a loaf is baked",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "BAKE",
+        "clue": "To cook bread using dry heat in an oven",
+        "row": 0,
+        "col": 7,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "TEA",
-        "clue": "A warm drink made by steeping leaves",
-        "row": 3,
-        "col": 10,
-        "direction": "across",
-        "number": 4
+        "answer": "LOAF",
+        "clue": "A whole shaped piece of bread before slicing",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 8
       },
       {
-        "answer": "EGG",
-        "clue": "An ingredient that comes in a shell",
-        "row": 3,
-        "col": 11,
-        "direction": "down",
+        "answer": "SALT",
+        "clue": "Common seasoning added in a small amount to bread dough",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
         "number": 5
+      },
+      {
+        "answer": "RYE",
+        "clue": "Grain used in pumpernickel and other dark breads",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues cover making and serving bread. Some answers name ingredients or bread types, while others describe work done to dough or a feature of the baked loaf. These are word definitions, so no recipe timing or baking temperature is required.",
+      "solvingTip": "Some words refer to bread before baking, while others refer to the finished loaf. Distinguish an action that lets shaped dough expand from cooking it in the oven. Grain names and short serving words can help with longer answers.",
+      "answerNotes": [
+        {
+          "answer": "TOAST",
+          "text": "Toast is already baked bread that has been browned by further heating. The clue asks for the resulting food rather than raw dough."
+        },
+        {
+          "answer": "CRUST",
+          "text": "The crust is the outer surface of a baked loaf. Crumb can describe the inner texture, so the location named in the clue matters."
+        },
+        {
+          "answer": "PROOF",
+          "text": "Proof is a bread-making verb here. It refers to allowing shaped yeast dough to expand before baking, rather than evidence in an argument."
+        }
+      ]
+    }
   },
   {
     "id": "backyard-birds-2",
@@ -4766,110 +4786,124 @@
   },
   {
     "id": "sunday-baking-3",
-    "title": "Sunday Baking \u2014 No. 3",
+    "title": "Making a Homemade Pie",
     "theme": "Food & Home",
-    "description": "Something warm from the oven. A comforting crossword for a quiet afternoon.",
+    "subtheme": "Pastry and Fruit Fillings",
+    "series": "sunday-baking",
+    "description": "Bring a homemade pie to mind with a crossword about pastry parts, familiar fillings, and the words used for a finished edge or top.",
+    "cardDescription": "Pie parts, fruit fillings, and ways to finish a pastry edge.",
     "difficulty": "Easy",
-    "rows": 9,
-    "cols": 11,
+    "revision": 2,
+    "rows": 11,
+    "cols": 9,
     "entries": [
       {
-        "answer": "COOKIE",
-        "clue": "A small, sweet baked treat",
-        "row": 4,
-        "col": 2,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "BUTTER",
-        "clue": "A spread made from cream",
-        "row": 0,
-        "col": 7,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "YEAST",
-        "clue": "An ingredient that helps bread rise",
-        "row": 2,
-        "col": 3,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "CREAM",
-        "clue": "The rich part of milk, used for whipping",
-        "row": 4,
-        "col": 2,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "BREAD",
-        "clue": "A food baked in a loaf",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "TART",
-        "clue": "A small pastry with an open top",
-        "row": 3,
-        "col": 7,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "ROLL",
-        "clue": "A small individual bread",
+        "answer": "PUMPKIN",
+        "clue": "Orange squash used in a traditional Thanksgiving pie",
         "row": 5,
-        "col": 7,
+        "col": 0,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "OATS",
-        "clue": "Grains used in oatmeal cookies",
-        "row": 5,
+        "answer": "LATTICE",
+        "clue": "Crisscross pattern made from strips of pastry on a pie",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CHERRY",
+        "clue": "Small red stone fruit used in a familiar pie filling",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "BERRY",
+        "clue": "Small juicy fruit such as a blueberry or raspberry",
+        "row": 3,
         "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CRIMP",
+        "clue": "To press a pastry edge into a sealed or decorative pattern",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CORE",
+        "clue": "To remove an apple's central seed-bearing section",
+        "row": 7,
+        "col": 3,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "SALT",
-        "clue": "Seasoning often paired with pepper",
-        "row": 7,
-        "col": 5,
+        "answer": "TART",
+        "clue": "Small open-topped pastry, also a word for a sharp taste",
+        "row": 3,
+        "col": 0,
         "direction": "across",
-        "number": 10
+        "number": 4
       },
       {
-        "answer": "PAN",
-        "clue": "Container used to bake a cake",
-        "row": 6,
-        "col": 6,
-        "direction": "down",
+        "answer": "PEEL",
+        "clue": "To remove the outer skin from fruit before filling a pie",
+        "row": 10,
+        "col": 1,
+        "direction": "across",
         "number": 9
       },
       {
-        "answer": "MIX",
-        "clue": "Stir ingredients together",
-        "row": 8,
-        "col": 2,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "TEA",
-        "clue": "A warm drink made by steeping leaves",
+        "answer": "VENT",
+        "clue": "Small opening cut in a pie top to let steam escape",
         "row": 0,
-        "col": 5,
+        "col": 0,
         "direction": "down",
         "number": 1
+      },
+      {
+        "answer": "RIM",
+        "clue": "Upper outer lip of a pie dish",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PAN",
+        "clue": "Metal baking vessel that can hold a pie",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at the structure of a pie and some ingredients that may go inside it. Clues distinguish a pastry feature from a fruit part or a baking vessel. Fruit names and short words for the pie's parts provide a second way into the grid.",
+      "solvingTip": "Notice whether a clue points to the edge, the top, the filling, or the pan itself. Some words describe making a pattern in pastry, while others name the pattern. Use the fruit clues to help cross the less familiar pastry terms.",
+      "answerNotes": [
+        {
+          "answer": "LATTICE",
+          "text": "A lattice pie top uses crossing strips of pastry with openings between them. It differs from a single unbroken top crust."
+        },
+        {
+          "answer": "CRIMP",
+          "text": "Crimp describes pressing pastry at the edge to seal it or make a pattern. The clue uses it as an action word."
+        },
+        {
+          "answer": "CORE",
+          "text": "Core is used as a verb here, meaning remove the central seed-bearing section of an apple. The instruction asks for an action rather than the fruit part itself."
+        }
+      ]
+    }
   },
   {
     "id": "backyard-birds-3",
@@ -7084,118 +7118,124 @@
   },
   {
     "id": "sunday-baking-4",
-    "title": "Sunday Baking \u2014 No. 4",
+    "title": "A Tray of Cookies",
     "theme": "Food & Home",
-    "description": "Something warm from the oven. A comforting crossword for a quiet afternoon.",
+    "subtheme": "Cookie Batches and Add-ins",
+    "series": "sunday-baking",
+    "description": "Picture a fresh tray of cookies while solving clues about familiar add-ins, baking-sheet tools, and the words used for a batch.",
+    "cardDescription": "Cookie ingredients, baking-sheet tools, and batch words.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 9,
+    "revision": 2,
+    "rows": 9,
+    "cols": 11,
     "entries": [
       {
+        "answer": "SPATULA",
+        "clue": "Broad flat utensil used to lift baked cookies",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CUTTER",
+        "clue": "Shaped tool used to stamp outlines in rolled cookie dough",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "RAISIN",
+        "clue": "Dried grape often added to cookies",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
         "answer": "COOKIE",
-        "clue": "A small, sweet baked treat",
+        "clue": "Small sweet baked treat, called a biscuit in Britain",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "GINGER",
+        "clue": "Pungent flavoring used in snaps and holiday cookies",
         "row": 6,
         "col": 0,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "TIMER",
-        "clue": "A device that tells you when baking time is up",
-        "row": 3,
-        "col": 5,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "YEAST",
-        "clue": "An ingredient that helps bread rise",
-        "row": 3,
-        "col": 1,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "DOUGH",
-        "clue": "A mixture of flour and liquid before baking",
-        "row": 5,
-        "col": 2,
+        "answer": "SUGAR",
+        "clue": "Sweet crystals measured into many cookie recipes",
+        "row": 4,
+        "col": 0,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "ICING",
-        "clue": "A sweet coating spread on a cake",
-        "row": 5,
-        "col": 0,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "ROLL",
-        "clue": "A small individual bread",
-        "row": 7,
-        "col": 5,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "OATS",
-        "clue": "Grains used in oatmeal cookies",
+        "answer": "PECAN",
+        "clue": "Nut commonly used in butter cookies and pralines",
         "row": 0,
-        "col": 4,
+        "col": 10,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "TART",
-        "clue": "A small pastry with an open top",
-        "row": 1,
-        "col": 3,
-        "direction": "across",
-        "number": 2
+        "answer": "BATCH",
+        "clue": "A quantity of cookies prepared or baked together",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 5
       },
       {
-        "answer": "OVEN",
-        "clue": "Kitchen appliance used for baking",
+        "answer": "CHIP",
+        "clue": "Small piece of chocolate mixed into cookie dough",
         "row": 7,
-        "col": 6,
-        "direction": "down",
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "RACK",
+        "clue": "Raised open framework on which baked cookies cool",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
         "number": 10
       },
       {
-        "answer": "EGG",
-        "clue": "An ingredient that comes in a shell",
-        "row": 9,
-        "col": 6,
+        "answer": "OAT",
+        "clue": "Cereal grain used in a familiar raisin cookie",
+        "row": 2,
+        "col": 1,
         "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "PAN",
-        "clue": "Container used to bake a cake",
-        "row": 10,
-        "col": 4,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "PIE",
-        "clue": "Baked dessert with a pastry crust",
-        "row": 10,
-        "col": 4,
-        "direction": "down",
-        "number": 12
-      },
-      {
-        "answer": "MIX",
-        "clue": "Stir ingredients together",
-        "row": 5,
-        "col": 5,
-        "direction": "across",
-        "number": 7
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle combines cookie ingredients with words for shaping, baking, and cooling them. Some answers name equipment, while others name an ingredient or a quantity. The clues stay with familiar home-baking language.",
+      "solvingTip": "Use the clue to separate an add-in from a tool. A solid baking surface and a raised framework for cooling serve different purposes. When a word has several meanings, the cookie setting and the described job help select the intended one.",
+      "answerNotes": [
+        {
+          "answer": "RAISIN",
+          "text": "A raisin is a dried grape. Drying changes its texture and concentrates its sweetness, but the original fruit is still the grape."
+        },
+        {
+          "answer": "COOKIE",
+          "text": "Cookie is the usual American word for this small sweet baked treat. In Britain, biscuit commonly has that meaning; an American biscuit is a different food."
+        },
+        {
+          "answer": "BATCH",
+          "text": "Batch groups items by the way they are prepared or baked together. It does not specify an exact number of cookies."
+        }
+      ]
+    }
   },
   {
     "id": "backyard-birds-4",
@@ -9410,126 +9450,132 @@
   },
   {
     "id": "sunday-baking-5",
-    "title": "Sunday Baking \u2014 No. 5",
+    "title": "A Cake to Share",
     "theme": "Food & Home",
-    "description": "Something warm from the oven. A comforting crossword for a quiet afternoon.",
+    "subtheme": "Cake Layers and Decorations",
+    "series": "sunday-baking",
+    "description": "Finish with a cake-themed crossword about familiar baking words, layers and shapes, and simple icing decorations for a cake to share.",
+    "cardDescription": "Cake textures, icing words, and familiar finishing touches.",
     "difficulty": "Easy",
-    "rows": 9,
-    "cols": 13,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "COOKIE",
-        "clue": "A small, sweet baked treat",
-        "row": 2,
-        "col": 3,
+        "answer": "FROSTING",
+        "clue": "Sweet topping often spread thickly over a cake",
+        "row": 5,
+        "col": 0,
         "direction": "across",
         "number": 5
       },
       {
-        "answer": "BREAD",
-        "clue": "A food baked in a loaf",
+        "answer": "BATTER",
+        "clue": "Pourable mixture that goes into a cake pan before baking",
         "row": 0,
-        "col": 8,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "FLOUR",
-        "clue": "Powder used to make bread and cakes",
-        "row": 0,
-        "col": 4,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "TIMER",
-        "clue": "A device that tells you when baking time is up",
-        "row": 4,
-        "col": 0,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "YEAST",
-        "clue": "An ingredient that helps bread rise",
-        "row": 0,
-        "col": 0,
+        "col": 1,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "ICING",
-        "clue": "A sweet coating spread on a cake",
-        "row": 4,
-        "col": 1,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "DOUGH",
-        "clue": "A mixture of flour and liquid before baking",
-        "row": 4,
-        "col": 8,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "WHISK",
-        "clue": "A kitchen tool used to beat eggs",
-        "row": 3,
-        "col": 12,
+        "answer": "SPONGE",
+        "clue": "Light airy cake whose name also describes an absorbent object",
+        "row": 5,
+        "col": 3,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "CAKE",
-        "clue": "A sweet treat often served on birthdays",
-        "row": 0,
+        "answer": "NOZZLE",
+        "clue": "Shaped tip fitted to a cake-decorating bag",
+        "row": 5,
         "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PIPING",
+        "clue": "Decorating by squeezing icing through a shaped tip",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BUNDT",
+        "clue": "Ring-shaped cake named for its distinctive baking pan",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PLATE",
+        "clue": "Flat dish used to serve a piece of cake",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SWIRL",
+        "clue": "Curved spiral pattern made in icing",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "COCOA",
+        "clue": "Powder made from cacao beans, used to flavor chocolate cake",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LAYER",
+        "clue": "One flat section of a stacked cake",
+        "row": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FOLD",
+        "clue": "To combine a light mixture gently with a lifting motion",
+        "row": 1,
+        "col": 9,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "OATS",
-        "clue": "Grains used in oatmeal cookies",
-        "row": 4,
-        "col": 9,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "SALT",
-        "clue": "Seasoning often paired with pepper",
-        "row": 6,
-        "col": 6,
-        "direction": "across",
-        "number": 13
-      },
-      {
-        "answer": "EGG",
-        "clue": "An ingredient that comes in a shell",
-        "row": 8,
+        "answer": "CAKE",
+        "clue": "Sweet baked dessert often served in celebratory slices",
+        "row": 10,
         "col": 0,
         "direction": "across",
-        "number": 14
-      },
-      {
-        "answer": "PIE",
-        "clue": "Baked dessert with a pastry crust",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "PAN",
-        "clue": "Container used to bake a cake",
-        "row": 5,
-        "col": 7,
-        "direction": "down",
         "number": 11
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues move from cake mixture and texture to serving and decoration. Some answers describe an action, while others name a cake style or finishing detail. The clue wording indicates which use of a familiar word is intended.",
+      "solvingTip": "Look for the difference between the cake itself, a covering, and a decoration. Action clues may describe combining a light mixture gently or squeezing icing into patterns. Short serving and finishing words can provide crossing letters for longer decoration names.",
+      "answerNotes": [
+        {
+          "answer": "SPONGE",
+          "text": "Sponge names a light, airy cake here. The baking context distinguishes it from the absorbent cleaning object with the same name."
+        },
+        {
+          "answer": "NOZZLE",
+          "text": "Nozzle names the shaped tip on a decorating bag. Its opening helps determine the pattern made by the icing."
+        },
+        {
+          "answer": "PIPING",
+          "text": "Piping means squeezing icing through a shaped opening to make lines or patterns. It describes a decorating method rather than the cake itself."
+        }
+      ]
+    }
   },
   {
     "id": "backyard-birds-5",

@@ -1,0 +1,511 @@
+[
+  {
+    "id": "sunday-baking",
+    "title": "Measuring and Mixing",
+    "subtheme": "Getting Ready to Bake",
+    "cardDescription": "Measuring tools, mixing actions, and everyday recipe words.",
+    "description": "Start at the mixing bowl with a crossword about measuring tools, familiar recipe instructions, and the actions that bring ingredients together.",
+    "focus": "This puzzle follows the preparation side of baking. Some clues describe a tool or container; others describe an action or a measured amount. The definitions use everyday recipe language rather than asking you to calculate quantities.",
+    "solvingTip": "Look for the job described in the clue: weighing, scraping, stirring, or separating dry ingredients. A tool and the action performed with it may have different names. Short recipe verbs can provide crossings for longer utensil words.",
+    "words": [
+      [
+        "BOWL",
+        "Round deep container used for mixing ingredients"
+      ],
+      [
+        "WHISK",
+        "Looped-wire tool used to blend eggs or liquids"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small rounded bowl used for stirring"
+      ],
+      [
+        "CUP",
+        "Recipe measure equal to eight U.S. fluid ounces"
+      ],
+      [
+        "TEASPOON",
+        "Small recipe measure equal to one-third of a tablespoon"
+      ],
+      [
+        "SCALE",
+        "Kitchen device that measures ingredient weight"
+      ],
+      [
+        "SIEVE",
+        "Mesh utensil used to sift flour"
+      ],
+      [
+        "SCRAPER",
+        "Flexible tool used to clear batter from a bowl's sides"
+      ],
+      [
+        "MIXER",
+        "Appliance with beaters that blend ingredients"
+      ],
+      [
+        "RECIPE",
+        "Written ingredients and directions for making a dish"
+      ],
+      [
+        "OUNCE",
+        "Unit of weight abbreviated oz"
+      ],
+      [
+        "GRAM",
+        "Metric unit of mass used on a kitchen scale"
+      ],
+      [
+        "LEVEL",
+        "Even with the top of a measuring spoon, rather than heaped"
+      ],
+      [
+        "SIFT",
+        "To pass flour through a fine mesh"
+      ],
+      [
+        "STIR",
+        "To move a spoon around in a mixture"
+      ],
+      [
+        "BLEND",
+        "To combine ingredients into an even mixture"
+      ],
+      [
+        "POUR",
+        "To transfer a liquid in a flowing stream"
+      ],
+      [
+        "ADD",
+        "To put another ingredient into a mixture"
+      ],
+      [
+        "MEASURE",
+        "To determine an ingredient's quantity"
+      ],
+      [
+        "DASH",
+        "A very small amount of an ingredient"
+      ]
+    ],
+    "answerNotes": {
+      "CUP": "A U.S. measuring cup holds eight U.S. fluid ounces. Fluid ounces measure volume; the weight of a cup depends on the ingredient.",
+      "TEASPOON": "Three teaspoons make one U.S. tablespoon. The clue asks for the smaller measure rather than the larger spoonful.",
+      "SCALE": "A kitchen scale measures weight rather than the space an ingredient occupies. That distinguishes it from a measuring cup.",
+      "SIEVE": "Sieve names the mesh utensil; sift is the action of passing an ingredient through it. The clue asks for the tool.",
+      "OUNCE": "Ounce is a unit of weight in this clue. A fluid ounce measures volume, so the word fluid changes the kind of measurement.",
+      "GRAM": "Gram is a metric unit of mass commonly shown on kitchen scales. It is different from a milliliter, which measures volume.",
+      "LEVEL": "A level spoonful has a flat top even with the spoon's rim. A heaped spoonful rises above that edge.",
+      "SIFT": "Sift is the action of passing a dry ingredient through mesh. It differs from stirring ingredients together in a bowl."
+    }
+  },
+  {
+    "id": "sunday-baking-2",
+    "title": "A Loaf of Bread",
+    "subtheme": "Bread Dough and Baking",
+    "cardDescription": "Dough, grain words, and the familiar stages of bread making.",
+    "description": "Follow a loaf from dough to slice in a crossword about familiar bread ingredients, baking actions, and the parts of a finished loaf.",
+    "focus": "The clues cover making and serving bread. Some answers name ingredients or bread types, while others describe work done to dough or a feature of the baked loaf. These are word definitions, so no recipe timing or baking temperature is required.",
+    "solvingTip": "Some words refer to bread before baking, while others refer to the finished loaf. Distinguish an action that lets shaped dough expand from cooking it in the oven. Grain names and short serving words can help with longer answers.",
+    "words": [
+      [
+        "YEAST",
+        "Living ingredient that helps bread dough rise by fermentation"
+      ],
+      [
+        "DOUGH",
+        "Thick unbaked mixture that can be kneaded"
+      ],
+      [
+        "KNEAD",
+        "To work bread dough by pressing and folding it"
+      ],
+      [
+        "RISE",
+        "To expand as gases build up in bread dough"
+      ],
+      [
+        "PROOF",
+        "To let shaped yeast dough expand before baking"
+      ],
+      [
+        "LOAF",
+        "A whole shaped piece of bread before slicing"
+      ],
+      [
+        "CRUST",
+        "The browned outer surface of baked bread"
+      ],
+      [
+        "CRUMB",
+        "The inner texture of a loaf, as well as a tiny bread fragment"
+      ],
+      [
+        "FLOUR",
+        "Powder made by milling grain for baking"
+      ],
+      [
+        "WATER",
+        "Clear liquid used to hydrate bread flour"
+      ],
+      [
+        "SALT",
+        "Common seasoning added in a small amount to bread dough"
+      ],
+      [
+        "ROLL",
+        "Small individual portion of bread, often round"
+      ],
+      [
+        "BAGEL",
+        "Ring-shaped bread traditionally boiled before baking"
+      ],
+      [
+        "RYE",
+        "Grain used in pumpernickel and other dark breads"
+      ],
+      [
+        "WHEAT",
+        "Grain commonly used to make bread flour"
+      ],
+      [
+        "OVEN",
+        "Enclosed heated appliance in which a loaf is baked"
+      ],
+      [
+        "BAKE",
+        "To cook bread using dry heat in an oven"
+      ],
+      [
+        "SLICE",
+        "A thin piece cut from a bread loaf"
+      ],
+      [
+        "TOAST",
+        "Bread browned by direct heat after it has been baked"
+      ],
+      [
+        "STEAM",
+        "Water vapor sometimes introduced during bread baking"
+      ]
+    ],
+    "answerNotes": {
+      "YEAST": "Yeast produces gas during fermentation, helping dough expand. It is a living organism, unlike chemical leaveners such as baking powder.",
+      "KNEAD": "Knead means work dough by pressing and folding. It sounds like need, but the recipe action uses the spelling with an initial k.",
+      "PROOF": "Proof is a bread-making verb here. It refers to allowing shaped yeast dough to expand before baking, rather than evidence in an argument.",
+      "CRUST": "The crust is the outer surface of a baked loaf. Crumb can describe the inner texture, so the location named in the clue matters.",
+      "CRUMB": "Crumb has two baking uses: a small bread fragment and the texture of the inside of a loaf. This clue acknowledges both meanings.",
+      "BAGEL": "A traditional bagel is boiled before it is baked. The ring shape and that preparation step distinguish it from a plain round roll.",
+      "RYE": "Rye is a grain, not a particular loaf shape. It is associated with pumpernickel and other breads, sometimes blended with wheat flour.",
+      "TOAST": "Toast is already baked bread that has been browned by further heating. The clue asks for the resulting food rather than raw dough."
+    }
+  },
+  {
+    "id": "sunday-baking-3",
+    "title": "Making a Homemade Pie",
+    "subtheme": "Pastry and Fruit Fillings",
+    "cardDescription": "Pie parts, fruit fillings, and ways to finish a pastry edge.",
+    "description": "Bring a homemade pie to mind with a crossword about pastry parts, familiar fillings, and the words used for a finished edge or top.",
+    "focus": "This puzzle looks at the structure of a pie and some ingredients that may go inside it. Clues distinguish a pastry feature from a fruit part or a baking vessel. Fruit names and short words for the pie's parts provide a second way into the grid.",
+    "solvingTip": "Notice whether a clue points to the edge, the top, the filling, or the pan itself. Some words describe making a pattern in pastry, while others name the pattern. Use the fruit clues to help cross the less familiar pastry terms.",
+    "words": [
+      [
+        "PASTRY",
+        "Dough used to make a pie shell"
+      ],
+      [
+        "FILLING",
+        "Sweet or savory mixture enclosed by a pie's crust"
+      ],
+      [
+        "LATTICE",
+        "Crisscross pattern made from strips of pastry on a pie"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of a rolled pie crust"
+      ],
+      [
+        "CRIMP",
+        "To press a pastry edge into a sealed or decorative pattern"
+      ],
+      [
+        "FLUTE",
+        "To form a scalloped pattern along a pastry edge"
+      ],
+      [
+        "RIM",
+        "Upper outer lip of a pie dish"
+      ],
+      [
+        "PAN",
+        "Metal baking vessel that can hold a pie"
+      ],
+      [
+        "DISH",
+        "Oven-safe ceramic vessel used to hold a pie"
+      ],
+      [
+        "VENT",
+        "Small opening cut in a pie top to let steam escape"
+      ],
+      [
+        "APPLE",
+        "Fruit often paired with cinnamon in a classic American pie"
+      ],
+      [
+        "CHERRY",
+        "Small red stone fruit used in a familiar pie filling"
+      ],
+      [
+        "PEACH",
+        "Fuzzy-skinned summer fruit used in pies and cobblers"
+      ],
+      [
+        "BERRY",
+        "Small juicy fruit such as a blueberry or raspberry"
+      ],
+      [
+        "PUMPKIN",
+        "Orange squash used in a traditional Thanksgiving pie"
+      ],
+      [
+        "CINNAMON",
+        "Warm spice made from bark, often added to apple filling"
+      ],
+      [
+        "NUTMEG",
+        "Seed spice often grated into custard or pumpkin filling"
+      ],
+      [
+        "TART",
+        "Small open-topped pastry, also a word for a sharp taste"
+      ],
+      [
+        "PEEL",
+        "To remove the outer skin from fruit before filling a pie"
+      ],
+      [
+        "CORE",
+        "To remove an apple's central seed-bearing section"
+      ]
+    ],
+    "answerNotes": {
+      "LATTICE": "A lattice pie top uses crossing strips of pastry with openings between them. It differs from a single unbroken top crust.",
+      "CRIMP": "Crimp describes pressing pastry at the edge to seal it or make a pattern. The clue uses it as an action word.",
+      "FLUTE": "Flute is a pastry verb here: shape a scalloped edge. The same spelling also names a musical instrument, but the pastry context fixes the meaning.",
+      "RIM": "Rim names the upper outer lip of the dish. It is a part of the vessel rather than the fruit mixture inside.",
+      "VENT": "A vent is an opening through which steam can escape. In a covered pie, it may be a small cut in the pastry top.",
+      "CINNAMON": "Cinnamon is made from bark. Nutmeg is a seed spice, so the source named in the clue can distinguish two familiar baking flavors.",
+      "NUTMEG": "Nutmeg is the seed used as a spice, often grated. Mace comes from the covering around that seed and is a different spice.",
+      "TART": "Tart can name an open-topped pastry or describe a sharp, acidic taste. Both meanings belong naturally in a baking setting.",
+      "CORE": "Core is used as a verb here, meaning remove the central seed-bearing section of an apple. The instruction asks for an action rather than the fruit part itself."
+    }
+  },
+  {
+    "id": "sunday-baking-4",
+    "title": "A Tray of Cookies",
+    "subtheme": "Cookie Batches and Add-ins",
+    "cardDescription": "Cookie ingredients, baking-sheet tools, and batch words.",
+    "description": "Picture a fresh tray of cookies while solving clues about familiar add-ins, baking-sheet tools, and the words used for a batch.",
+    "focus": "This puzzle combines cookie ingredients with words for shaping, baking, and cooling them. Some answers name equipment, while others name an ingredient or a quantity. The clues stay with familiar home-baking language.",
+    "solvingTip": "Use the clue to separate an add-in from a tool. A solid baking surface and a raised framework for cooling serve different purposes. When a word has several meanings, the cookie setting and the described job help select the intended one.",
+    "words": [
+      [
+        "COOKIE",
+        "Small sweet baked treat, called a biscuit in Britain"
+      ],
+      [
+        "BATCH",
+        "A quantity of cookies prepared or baked together"
+      ],
+      [
+        "SCOOP",
+        "Rounded utensil used to portion cookie dough"
+      ],
+      [
+        "DROP",
+        "To place spoonfuls of cookie dough onto a baking sheet"
+      ],
+      [
+        "CHIP",
+        "Small piece of chocolate mixed into cookie dough"
+      ],
+      [
+        "OAT",
+        "Cereal grain used in a familiar raisin cookie"
+      ],
+      [
+        "RAISIN",
+        "Dried grape often added to cookies"
+      ],
+      [
+        "PECAN",
+        "Nut commonly used in butter cookies and pralines"
+      ],
+      [
+        "WALNUT",
+        "Wrinkled-shelled nut often chopped for cookies"
+      ],
+      [
+        "GINGER",
+        "Pungent flavoring used in snaps and holiday cookies"
+      ],
+      [
+        "VANILLA",
+        "Flavoring traditionally made from cured orchid pods"
+      ],
+      [
+        "BUTTER",
+        "Dairy fat often creamed with sugar for cookie dough"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystals measured into many cookie recipes"
+      ],
+      [
+        "SHEET",
+        "Flat metal baking surface for a tray of cookies"
+      ],
+      [
+        "SPATULA",
+        "Broad flat utensil used to lift baked cookies"
+      ],
+      [
+        "RACK",
+        "Raised open framework on which baked cookies cool"
+      ],
+      [
+        "COOL",
+        "To lose heat after coming out of the oven"
+      ],
+      [
+        "PRESS",
+        "To flatten cookie dough with a fork or another tool"
+      ],
+      [
+        "CUTTER",
+        "Shaped tool used to stamp outlines in rolled cookie dough"
+      ],
+      [
+        "DOZEN",
+        "A count of twelve cookies"
+      ]
+    ],
+    "answerNotes": {
+      "COOKIE": "Cookie is the usual American word for this small sweet baked treat. In Britain, biscuit commonly has that meaning; an American biscuit is a different food.",
+      "BATCH": "Batch groups items by the way they are prepared or baked together. It does not specify an exact number of cookies.",
+      "SCOOP": "Scoop names a portioning tool here. Its job is to lift out a measured portion of dough, which can help make cookies similar in size.",
+      "RAISIN": "A raisin is a dried grape. Drying changes its texture and concentrates its sweetness, but the original fruit is still the grape.",
+      "VANILLA": "Vanilla flavoring traditionally comes from cured orchid pods. The clue refers to that source rather than an artificial vanilla flavor.",
+      "BUTTER": "Creaming butter and sugar means beating them together. The word creamed in this baking instruction does not mean adding a separate serving of cream.",
+      "SHEET": "Sheet names a flat metal baking surface in this clue. It can name many other flat materials, so the reference to baking identifies its use.",
+      "RACK": "A cooling rack holds baked goods above the counter on an open framework. It is distinct from the solid baking sheet used in the oven.",
+      "DOZEN": "A dozen means twelve. It is a fixed count, whereas a batch can contain different numbers of cookies."
+    }
+  },
+  {
+    "id": "sunday-baking-5",
+    "title": "A Cake to Share",
+    "subtheme": "Cake Layers and Decorations",
+    "cardDescription": "Cake textures, icing words, and familiar finishing touches.",
+    "description": "Finish with a cake-themed crossword about familiar baking words, layers and shapes, and simple icing decorations for a cake to share.",
+    "focus": "The clues move from cake mixture and texture to serving and decoration. Some answers describe an action, while others name a cake style or finishing detail. The clue wording indicates which use of a familiar word is intended.",
+    "solvingTip": "Look for the difference between the cake itself, a covering, and a decoration. Action clues may describe combining a light mixture gently or squeezing icing into patterns. Short serving and finishing words can provide crossing letters for longer decoration names.",
+    "words": [
+      [
+        "CAKE",
+        "Sweet baked dessert often served in celebratory slices"
+      ],
+      [
+        "LAYER",
+        "One flat section of a stacked cake"
+      ],
+      [
+        "ICING",
+        "Sweet coating spread or poured over a cake"
+      ],
+      [
+        "FROSTING",
+        "Sweet topping often spread thickly over a cake"
+      ],
+      [
+        "GLAZE",
+        "Thin coating that sets with a smooth or shiny finish"
+      ],
+      [
+        "PIPING",
+        "Decorating by squeezing icing through a shaped tip"
+      ],
+      [
+        "NOZZLE",
+        "Shaped tip fitted to a cake-decorating bag"
+      ],
+      [
+        "SWIRL",
+        "Curved spiral pattern made in icing"
+      ],
+      [
+        "BORDER",
+        "Decorative edging around the top or base of a cake"
+      ],
+      [
+        "SPRINKLES",
+        "Tiny colored sugar pieces scattered over a cake"
+      ],
+      [
+        "CANDLE",
+        "Small wax light placed on a birthday cake"
+      ],
+      [
+        "PLATE",
+        "Flat dish used to serve a piece of cake"
+      ],
+      [
+        "SLICE",
+        "A portion cut from a cake for serving"
+      ],
+      [
+        "BATTER",
+        "Pourable mixture that goes into a cake pan before baking"
+      ],
+      [
+        "SPONGE",
+        "Light airy cake whose name also describes an absorbent object"
+      ],
+      [
+        "BUNDT",
+        "Ring-shaped cake named for its distinctive baking pan"
+      ],
+      [
+        "COCOA",
+        "Powder made from cacao beans, used to flavor chocolate cake"
+      ],
+      [
+        "CREAM",
+        "To beat butter and sugar together until light and combined"
+      ],
+      [
+        "BEAT",
+        "To mix vigorously with a spoon, whisk, or mixer"
+      ],
+      [
+        "FOLD",
+        "To combine a light mixture gently with a lifting motion"
+      ]
+    ],
+    "answerNotes": {
+      "GLAZE": "A glaze is a thin coating that sets on the surface. It contrasts with a thick spreadable topping, although everyday icing terminology can overlap.",
+      "PIPING": "Piping means squeezing icing through a shaped opening to make lines or patterns. It describes a decorating method rather than the cake itself.",
+      "NOZZLE": "Nozzle names the shaped tip on a decorating bag. Its opening helps determine the pattern made by the icing.",
+      "SWIRL": "Swirl names a curved or spiral pattern. The clue uses it for a mark in icing, though the word can also describe a turning movement.",
+      "BORDER": "A cake border runs around an edge. Its location distinguishes it from a decoration placed in the middle of the cake.",
+      "SPRINKLES": "Sprinkles are tiny decorative sugar pieces. In this clue the word is a plural noun rather than the action of scattering something.",
+      "SPONGE": "Sponge names a light, airy cake here. The baking context distinguishes it from the absorbent cleaning object with the same name.",
+      "BUNDT": "Bundt refers to a cake baked in a distinctive ring-shaped pan. It describes the form, not one fixed flavor or recipe.",
+      "CREAM": "Cream is an action word in this clue: beat butter and sugar together. It does not ask for the dairy liquid also called cream.",
+      "FOLD": "Folding uses a gentle lifting motion to combine mixtures while limiting the loss of trapped air. It differs from vigorous beating."
+    }
+  }
+]

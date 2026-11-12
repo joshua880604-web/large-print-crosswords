@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1218,
-    "distinctAnswers": 583,
-    "distinctAnswerCluePairs": 684,
-    "distinctIntroductions": 48,
-    "numberedTitles": 52,
-    "editedEditions": 35
+    "clueEntries": 1210,
+    "distinctAnswers": 611,
+    "distinctAnswerCluePairs": 718,
+    "distinctIntroductions": 52,
+    "numberedTitles": 48,
+    "editedEditions": 40
   },
   "refinedSeries": [
     {
@@ -219,20 +219,40 @@
         "Around the Horse Stable",
         "At the Country Fair"
       ]
+    },
+    {
+      "id": "sunday-baking",
+      "name": "Baking",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "sunday-baking",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Measuring and Mixing",
+        "A Loaf of Bread",
+        "Making a Homemade Pie",
+        "A Tray of Cookies",
+        "A Cake to Share"
+      ]
     }
   ],
   "selfAnswerClues": [],
   "repeatedIntroductions": [
-    {
-      "pages": 5,
-      "puzzles": [
-        "sunday-baking",
-        "sunday-baking-2",
-        "sunday-baking-3",
-        "sunday-baking-4",
-        "sunday-baking-5"
-      ]
-    },
     {
       "pages": 5,
       "puzzles": [
@@ -431,11 +451,6 @@
       "occurrences": 4
     },
     {
-      "answer": "BREAD",
-      "clue": "A food baked in a loaf",
-      "occurrences": 4
-    },
-    {
       "answer": "BRUSH",
       "clue": "A tool used to groom a pet's coat",
       "occurrences": 4
@@ -454,6 +469,11 @@
       "answer": "CLEAR",
       "clue": "A sky without clouds is this",
       "occurrences": 4
+    },
+    {
+      "answer": "CLUB",
+      "clue": "A card suit with a three-leaf symbol",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
@@ -467,20 +487,6 @@
     {
       "first": "flower-favorites",
       "second": "flower-favorites-3",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "sunday-baking",
-      "second": "sunday-baking-2",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "sunday-baking-2",
-      "second": "sunday-baking-3",
       "sharedClues": 9,
       "jaccard": 0.563,
       "sameSeries": true
@@ -556,13 +562,6 @@
       "sameSeries": true
     },
     {
-      "first": "sunday-baking-4",
-      "second": "sunday-baking-5",
-      "sharedClues": 9,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
       "first": "weather-watching",
       "second": "weather-watching-2",
       "sharedClues": 9,
@@ -595,6 +594,27 @@
       "second": "our-furry-friends-5",
       "sharedClues": 8,
       "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book-4",
+      "second": "a-good-book-5",
+      "sharedClues": 8,
+      "jaccard": 0.471,
+      "sameSeries": true
+    },
+    {
+      "first": "autumn-walk-3",
+      "second": "autumn-walk-4",
+      "sharedClues": 8,
+      "jaccard": 0.471,
+      "sameSeries": true
+    },
+    {
+      "first": "by-the-sea-4",
+      "second": "by-the-sea-5",
+      "sharedClues": 8,
+      "jaccard": 0.471,
       "sameSeries": true
     }
   ],
@@ -629,40 +649,6 @@
         "VASE",
         "STEM",
         "SEED"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "sunday-baking",
-      "second": "sunday-baking-2",
-      "sharedAnswers": [
-        "BUTTER",
-        "DOUGH",
-        "BREAD",
-        "ROLL",
-        "SALT",
-        "CAKE",
-        "TART",
-        "TEA",
-        "EGG"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "sunday-baking-2",
-      "second": "sunday-baking-3",
-      "sharedAnswers": [
-        "BUTTER",
-        "COOKIE",
-        "CREAM",
-        "YEAST",
-        "BREAD",
-        "SALT",
-        "TART",
-        "ROLL",
-        "TEA"
       ],
       "jaccard": 0.563,
       "sameSeries": true
@@ -836,23 +822,6 @@
       "sameSeries": true
     },
     {
-      "first": "sunday-baking-4",
-      "second": "sunday-baking-5",
-      "sharedAnswers": [
-        "COOKIE",
-        "TIMER",
-        "YEAST",
-        "DOUGH",
-        "ICING",
-        "OATS",
-        "EGG",
-        "PAN",
-        "PIE"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
       "first": "weather-watching",
       "second": "weather-watching-2",
       "sharedAnswers": [
@@ -933,6 +902,54 @@
       ],
       "jaccard": 0.5,
       "sameSeries": true
+    },
+    {
+      "first": "a-good-book-4",
+      "second": "a-good-book-5",
+      "sharedAnswers": [
+        "LIBRARY",
+        "CHAPTER",
+        "AUTHOR",
+        "SHELF",
+        "LINE",
+        "BOOK",
+        "PEN",
+        "INK"
+      ],
+      "jaccard": 0.471,
+      "sameSeries": true
+    },
+    {
+      "first": "autumn-walk-3",
+      "second": "autumn-walk-4",
+      "sharedAnswers": [
+        "AUTUMN",
+        "MAPLE",
+        "APPLE",
+        "TRAIL",
+        "COAT",
+        "LEAF",
+        "PINE",
+        "NUT"
+      ],
+      "jaccard": 0.471,
+      "sameSeries": true
+    },
+    {
+      "first": "by-the-sea-4",
+      "second": "by-the-sea-5",
+      "sharedAnswers": [
+        "ANCHOR",
+        "SHELL",
+        "MAST",
+        "WAVE",
+        "GULL",
+        "PIER",
+        "KELP",
+        "SUN"
+      ],
+      "jaccard": 0.471,
+      "sameSeries": true
     }
   ],
   "series": [
@@ -951,14 +968,14 @@
     {
       "id": "sunday-baking",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 56,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "backyard-birds",

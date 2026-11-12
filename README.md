@@ -29,7 +29,7 @@ npm run test:e2e
 ## Collection and content
 
 - 100 independently playable themed mini crosswords across 20 series.
-- 1,218 clues; direct American English definitions.
+- 1,210 clues; direct American English definitions.
 - Each series contains five puzzles with different boards and answer selections. Edited series have distinct subthemes, introductions, solving tips, and three answer explanations each; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected layouts, up to 13 × 13; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
@@ -45,7 +45,7 @@ Keyboard/touch entry, arrow-key movement, direction switching at crossings, word
 
 PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 100 playable pages and primary site pages.
 
-Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. Thirty-five noindex `/crosswords/<id>/previous/` pages retain the original gardening, bird, music, market, travel, home, and farm boards; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
+Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. Forty noindex `/crosswords/<id>/previous/` pages retain the original gardening, bird, music, market, travel, home, farm, and baking boards; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
@@ -73,7 +73,7 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review batches
 
-Thirty-five current puzzles have been edited into distinct subjects. The gardening URLs contain Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, and Starting from Seeds. The bird URLs contain Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, and Birds by the Water. The music URLs contain Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance, and Meet the Orchestra. The market URLs contain Fruit Basket Favorites, The Bread Counter, Dairy Case Finds, Pantry Shelf Staples, and Labels, Prices & Checkout. The travel URLs contain A Relaxed Road Trip, At the Train Station, Around the Airport, A Comfortable Hotel Stay, and Postcards & Travel Memories. The home URLs contain In the Living Room, Tools at the Kitchen Counter, Laundry Day Words, At the Front Door, and A Place for Everything. The farm URLs contain Meet the Farm Animals, Across the Grain Fields, A Visit to the Orchard, Around the Horse Stable, and At the Country Fair. All use stable IDs and separate edition-2 progress keys.
+Forty current puzzles have been edited into distinct subjects. The gardening URLs contain Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, and Starting from Seeds. The bird URLs contain Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, and Birds by the Water. The music URLs contain Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance, and Meet the Orchestra. The market URLs contain Fruit Basket Favorites, The Bread Counter, Dairy Case Finds, Pantry Shelf Staples, and Labels, Prices & Checkout. The travel URLs contain A Relaxed Road Trip, At the Train Station, Around the Airport, A Comfortable Hotel Stay, and Postcards & Travel Memories. The home URLs contain In the Living Room, Tools at the Kitchen Counter, Laundry Day Words, At the Front Door, and A Place for Everything. The farm URLs contain Meet the Farm Animals, Across the Grain Fields, A Visit to the Orchard, Around the Horse Stable, and At the Country Fair. The baking URLs contain Measuring and Mixing, A Loaf of Bread, Making a Homemade Pie, A Tray of Cookies, and A Cake to Share. All use stable IDs and separate edition-2 progress keys.
 
 | Series | Original entries / distinct clue pairs | Current entries / distinct clue pairs |
 | --- | --- | --- |
@@ -84,7 +84,8 @@ Thirty-five current puzzles have been edited into distinct subjects. The gardeni
 | Travel | 64 / 21 | 57 / 57 |
 | Home | 64 / 21 | 57 / 57 |
 | Farm | 65 / 22 | 58 / 58 |
+| Baking | 64 / 22 | 56 / 56 |
 
-The current collection has 1,218 clue entries. Sixty-five current puzzles still await this editorial treatment; the report keeps their repetition signals visible. `npm run audit:content` checks for identical complete clue sets and validates each edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and remaining numbered titles. The report also lists clues that directly spell out their answer, and edited editions must pass that check. These are review signals, not Google thresholds; warnings do not automatically change indexing. Run `npm run audit:content -- --write` to refresh `docs/content-audit.md` and the JSON report. Production builds run the audit without changing tracked reports.
+The current collection has 1,210 clue entries. Sixty current puzzles still await this editorial treatment; the report keeps their repetition signals visible. `npm run audit:content` checks for identical complete clue sets and validates each edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and remaining numbered titles. The report also lists clues that directly spell out their answer, and edited editions must pass that check. These are review signals, not Google thresholds; warnings do not automatically change indexing. Run `npm run audit:content -- --write` to refresh `docs/content-audit.md` and the JSON report. Production builds run the audit without changing tracked reports.
 
 The series manifest supplies fixed seeds, source filenames, and archive filenames. An existing series keeps its seed, layout settings, and word order when a new series is added. This prevents previously published edited puzzles from changing silently. Legacy archive files in `src/data/archives/` are immutable snapshots; do not regenerate or overwrite them with current layouts. Build-time archive routing and validation use the same manifest. Archive pages are excluded from the sitemap and marked noindex. Use a new revision whenever changing an existing grid so saved letters cannot be applied to a different puzzle.

@@ -104,3 +104,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 28 Playwright tests passed, including all thirty-five reader-note sections and archive routes, independent original/current progress for all seven edited families, and discovery under the original farm series name.
 - All five updated print sheets exported as single US Letter pages in Chromium. Output now totals 344 static HTML pages; the canonical sitemap still contains 108 URLs.
 - These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
+
+## Baking editorial batch — 2026-11-12
+
+- Changed only the five current sunday-baking editions. All other 95 current puzzle objects, including the thirty-five previously edited editions, remain unchanged.
+- Subjects: Measuring and Mixing, A Loaf of Bread, Making a Homemade Pie, A Tray of Cookies, and A Cake to Share. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Checked the selected vocabulary and aligned guidance to actual entries, including weight versus fluid volume, bread proofing, pastry edges, cookie-batch words and cake-decorating tools. Measuring-and-mixing notes were visually inspected. These are definitions rather than recipe instructions or dietary advice.
+- Baking series: 64 entries / 22 distinct answer-clue pairs before; 56 entries / 56 distinct pairs after. Collection totals are 100 current puzzles, 1,210 entries, 718 distinct answer-clue pairs, 52 introductions, and 40 edited editions. Sixty current puzzles remain in the editorial queue.
+- The five original baking objects match the previous release exactly. Full regeneration reproduced all 100 current puzzles byte-for-byte and preserved all forty archived layouts. Existing series seeds and results were retained.
+- Build, content/SEO audits, TypeScript and 29 Playwright tests passed, including all forty reader-note sections and archive routes, original/current saved-progress isolation for all eight edited families, and discovery using the original baking series name.
+- All five changed print sheets exported as single US Letter pages in Chromium. Static output totals 349 HTML pages; the canonical sitemap remains at 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.

@@ -7,8 +7,9 @@ import marketOriginals from '../src/data/archives/market-originals.json' with {t
 import travelOriginals from '../src/data/archives/travel-originals.json' with {type:'json'};
 import homeOriginals from '../src/data/archives/home-originals.json' with {type:'json'};
 import farmOriginals from '../src/data/archives/farm-originals.json' with {type:'json'};
+import bakingOriginals from '../src/data/archives/baking-originals.json' with {type:'json'};
 import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
-const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals];
+const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals,...bakingOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
 

@@ -13,6 +13,7 @@ test('home navigation, filtering, and static content',async({page})=>{
  await page.getByLabel('Find a puzzle').fill('on the road');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Find a puzzle').fill('cozy at home');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Find a puzzle').fill('a day at the farm');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
+ await page.getByLabel('Find a puzzle').fill('sunday baking');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Choose a theme').selectOption('Pets');
  await expect(page.getByText('No puzzles match just yet.')).toBeVisible();
  await page.getByLabel('Find a puzzle').fill('');await expect(page.locator('[data-title]:visible')).toHaveCount(5);

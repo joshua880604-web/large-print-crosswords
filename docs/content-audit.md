@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1218 clue entries.
-- 583 distinct answers; 684 distinct answer/clue pairs.
-- 48 different introductions; 52 numbered titles remain.
-- 35 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1210 clue entries.
+- 611 distinct answers; 718 distinct answer/clue pairs.
+- 52 different introductions; 48 numbered titles remain.
+- 40 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -79,16 +79,26 @@ Current subjects: In the Living Room, Tools at the Kitchen Counter, Laundry Day 
 
 Current subjects: Meet the Farm Animals, Across the Grain Fields, A Visit to the Orchard, Around the Horse Stable, At the Country Fair.
 
-The 35 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Baking: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 56 |
+| Distinct answer/clue pairs | 22 | 56 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Measuring and Mixing, A Loaf of Bread, Making a Homemade Pie, A Tray of Cookies, A Cake to Share.
+
+The 40 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-65 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+60 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
 | garden-days | 58 | 58 | 5 | 0 |
-| sunday-baking | 64 | 22 | 1 | 4 |
+| sunday-baking | 56 | 56 | 5 | 0 |
 | backyard-birds | 55 | 55 | 5 | 0 |
 | a-cup-of-comfort | 65 | 22 | 1 | 4 |
 | on-the-road | 57 | 57 | 5 | 0 |
