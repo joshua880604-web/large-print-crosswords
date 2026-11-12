@@ -1,11 +1,14 @@
 import {test,expect} from '@playwright/test';
 import puzzles from '../src/data/puzzles.json' with {type:'json'};
-import originals from '../src/data/archives/gardening-originals.json' with {type:'json'};
+import gardeningOriginals from '../src/data/archives/gardening-originals.json' with {type:'json'};
+import birdOriginals from '../src/data/archives/birds-originals.json' with {type:'json'};
+import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
+const originals=[...gardeningOriginals,...birdOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
 
-test('each gardening subject has distinct reader notes and hidden answer explanations',async({page})=>{
- expect(edited).toHaveLength(5);
+test('edited subjects have distinct reader notes and hidden answer explanations',async({page})=>{
+ expect(edited).toHaveLength(editorialSeries.length*5);
  for(const puzzle of edited){
   await page.goto(`/crosswords/${puzzle.id}/`);
   await expect(page.getByRole('heading',{level:1})).toHaveText(puzzle.title);
@@ -18,8 +21,9 @@ test('each gardening subject has distinct reader notes and hidden answer explana
  }
 });
 
-test('a refreshed puzzle retains the original saved game and isolates new progress',async({page})=>{
- const old=originals[0],fresh=puzzles.find(p=>p.id===old.id)!;
+for(const series of editorialSeries){
+test(`refreshed ${series.id} retains the original saved game and isolates new progress`,async({page})=>{
+ const old=originals.find(p=>p.id===series.id)!,fresh=puzzles.find(p=>p.id===old.id)!;
  const legacyKey=`lpc:v1:${old.id}`,currentKey=`${legacyKey}:edition:2`;
  const oldEntry=old.entries.find(e=>e.direction==='across')!;
  const oldCell=`${oldEntry.row},${oldEntry.col}`;
@@ -41,6 +45,8 @@ test('a refreshed puzzle retains the original saved game and isolates new progre
  await page.getByRole('link',{name:`Try ${fresh.title}`,exact:true}).click();
  await expect(page.locator(`[data-cell="${freshEntry.row},${freshEntry.col}"] input`)).toHaveValue(freshEntry.answer[0]);
 });
+
+}
 
 test('previous editions remain reachable but are not index targets',async({page,request})=>{
  const sitemap=await (await request.get('/sitemap.xml')).text();

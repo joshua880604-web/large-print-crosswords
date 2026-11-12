@@ -1,8 +1,8 @@
 """Shared deterministic connected crossword layout builder."""
 import random
 
-def generate(words,seed):
- random.seed(seed); size=13; grid={}; occupied={}; entries=[]
+def generate(words,seed,size=13):
+ random.seed(seed); grid={}; occupied={}; entries=[]
  words=sorted(words,key=lambda x:-len(x[0]))
  def valid(w,r,c,d):
   dr,dc=(0,1) if d=='across' else (1,0)
@@ -20,7 +20,7 @@ def generate(words,seed):
   return cross
  for w,clue in words:
   candidates=[]
-  if not entries:candidates=[(0,6,(size-len(w))//2,'across')]
+  if not entries:candidates=[(0,size//2,(size-len(w))//2,'across')]
   else:
    for (gr,gc),ch in grid.items():
     for i,letter in enumerate(w):

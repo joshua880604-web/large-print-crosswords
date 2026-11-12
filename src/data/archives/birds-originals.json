@@ -1,0 +1,593 @@
+[
+  {
+    "id": "backyard-birds",
+    "title": "Backyard Birds",
+    "theme": "Nature",
+    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FEATHER",
+        "clue": "One of the light coverings on a bird",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "FEEDER",
+        "clue": "A container that holds food for visiting birds",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ROBIN",
+        "clue": "Bird often known for its orange-red breast",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TALON",
+        "clue": "A sharp claw on a bird of prey",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WING",
+        "clue": "A body part a bird uses to fly",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "WREN",
+        "clue": "A small brown songbird",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "NEST",
+        "clue": "A home built by birds",
+        "row": 9,
+        "col": 7,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "DOVE",
+        "clue": "A bird often used as a symbol of peace",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SWAN",
+        "clue": "A large, long-necked water bird",
+        "row": 8,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CROW",
+        "clue": "A black bird known for its caw",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DUCK",
+        "clue": "Water bird that quacks",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "EGG",
+        "clue": "What a baby bird hatches from",
+        "row": 9,
+        "col": 8,
+        "direction": "down",
+        "number": 11
+      }
+    ]
+  },
+  {
+    "id": "backyard-birds-2",
+    "title": "Backyard Birds \u2014 No. 2",
+    "theme": "Nature",
+    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FEATHER",
+        "clue": "One of the light coverings on a bird",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "FEEDER",
+        "clue": "A container that holds food for visiting birds",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FINCH",
+        "clue": "A small seed-eating songbird",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ROOST",
+        "clue": "A place where birds settle to rest",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TALON",
+        "clue": "A sharp claw on a bird of prey",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "HERON",
+        "clue": "A long-legged bird often seen wading",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "RAVEN",
+        "clue": "A large black bird related to the crow",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "WREN",
+        "clue": "A small brown songbird",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "NEST",
+        "clue": "A home built by birds",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CROW",
+        "clue": "A black bird known for its caw",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SWAN",
+        "clue": "A large, long-necked water bird",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "WING",
+        "clue": "A body part a bird uses to fly",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "OWL",
+        "clue": "A bird often heard hooting at night",
+        "row": 9,
+        "col": 5,
+        "direction": "down",
+        "number": 13
+      },
+      {
+        "answer": "EGG",
+        "clue": "What a baby bird hatches from",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "backyard-birds-3",
+    "title": "Backyard Birds \u2014 No. 3",
+    "theme": "Nature",
+    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "FEEDER",
+        "clue": "A container that holds food for visiting birds",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "FLOCK",
+        "clue": "A group of birds",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ROBIN",
+        "clue": "Bird often known for its orange-red breast",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ROOST",
+        "clue": "A place where birds settle to rest",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TALON",
+        "clue": "A sharp claw on a bird of prey",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "GOOSE",
+        "clue": "A large water bird that honks",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "RAVEN",
+        "clue": "A large black bird related to the crow",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "WING",
+        "clue": "A body part a bird uses to fly",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "DUCK",
+        "clue": "Water bird that quacks",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BEAK",
+        "clue": "The hard mouth part of a bird",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "NEST",
+        "clue": "A home built by birds",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SEED",
+        "clue": "A common food in a bird feeder",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WREN",
+        "clue": "A small brown songbird",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "OWL",
+        "clue": "A bird often heard hooting at night",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      }
+    ]
+  },
+  {
+    "id": "backyard-birds-4",
+    "title": "Backyard Birds \u2014 No. 4",
+    "theme": "Nature",
+    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "FEATHER",
+        "clue": "One of the light coverings on a bird",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "FEEDER",
+        "clue": "A container that holds food for visiting birds",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ROBIN",
+        "clue": "Bird often known for its orange-red breast",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "FINCH",
+        "clue": "A small seed-eating songbird",
+        "row": 4,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "TALON",
+        "clue": "A sharp claw on a bird of prey",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "GOOSE",
+        "clue": "A large water bird that honks",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "RAVEN",
+        "clue": "A large black bird related to the crow",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "DOVE",
+        "clue": "A bird often used as a symbol of peace",
+        "row": 7,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BEAK",
+        "clue": "The hard mouth part of a bird",
+        "row": 9,
+        "col": 6,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SEED",
+        "clue": "A common food in a bird feeder",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "DUCK",
+        "clue": "Water bird that quacks",
+        "row": 12,
+        "col": 3,
+        "direction": "across",
+        "number": 13
+      },
+      {
+        "answer": "CROW",
+        "clue": "A black bird known for its caw",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "NEST",
+        "clue": "A home built by birds",
+        "row": 9,
+        "col": 8,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "OWL",
+        "clue": "A bird often heard hooting at night",
+        "row": 7,
+        "col": 9,
+        "direction": "across",
+        "number": 7
+      }
+    ]
+  },
+  {
+    "id": "backyard-birds-5",
+    "title": "Backyard Birds \u2014 No. 5",
+    "theme": "Nature",
+    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FEEDER",
+        "clue": "A container that holds food for visiting birds",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "FLOCK",
+        "clue": "A group of birds",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "RAVEN",
+        "clue": "A large black bird related to the crow",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HERON",
+        "clue": "A long-legged bird often seen wading",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "BEAK",
+        "clue": "The hard mouth part of a bird",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "WREN",
+        "clue": "A small brown songbird",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CROW",
+        "clue": "A black bird known for its caw",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "DUCK",
+        "clue": "Water bird that quacks",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SWAN",
+        "clue": "A large, long-necked water bird",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "WING",
+        "clue": "A body part a bird uses to fly",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "NEST",
+        "clue": "A home built by birds",
+        "row": 9,
+        "col": 1,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "OWL",
+        "clue": "A bird often heard hooting at night",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "EGG",
+        "clue": "What a baby bird hatches from",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      }
+    ]
+  }
+]

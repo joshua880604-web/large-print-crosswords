@@ -8,6 +8,7 @@ test('home navigation, filtering, and static content',async({page})=>{
  await expect(page.locator('.puzzle-card')).toHaveCount(100);
  await page.getByLabel('Find a puzzle').fill('Garden Tools');
  await expect(page.locator('[data-title]:visible')).toHaveCount(1);
+ await page.getByLabel('Find a puzzle').fill('backyard birds');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Choose a theme').selectOption('Pets');
  await expect(page.getByText('No puzzles match just yet.')).toBeVisible();
  await page.getByLabel('Find a puzzle').fill('');await expect(page.locator('[data-title]:visible')).toHaveCount(5);

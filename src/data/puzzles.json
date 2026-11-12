@@ -229,110 +229,116 @@
   },
   {
     "id": "backyard-birds",
-    "title": "Backyard Birds",
+    "title": "Songbird Neighbors",
     "theme": "Nature",
-    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "subtheme": "Familiar Songbirds",
+    "series": "backyard-birds",
+    "description": "Get to know familiar American songbirds through simple clues about their colors, markings, and common names.",
+    "cardDescription": "Recognize familiar American birds by their markings and names.",
     "difficulty": "Easy",
-    "rows": 12,
+    "revision": 2,
+    "rows": 10,
     "cols": 11,
     "entries": [
       {
-        "answer": "FEATHER",
-        "clue": "One of the light coverings on a bird",
-        "row": 5,
-        "col": 1,
+        "answer": "MOCKINGBIRD",
+        "clue": "Songbird known for imitating other birds' songs",
+        "row": 4,
+        "col": 0,
         "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "GOLDFINCH",
+        "clue": "American ___: a small bird whose male turns bright yellow in breeding season",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
         "number": 5
       },
       {
-        "answer": "FEEDER",
-        "clue": "A container that holds food for visiting birds",
-        "row": 1,
-        "col": 2,
+        "answer": "CARDINAL",
+        "clue": "Bird whose male is bright red and has a pointed crest",
+        "row": 0,
+        "col": 8,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "ROBIN",
-        "clue": "Bird often known for its orange-red breast",
-        "row": 5,
-        "col": 7,
+        "answer": "TITMOUSE",
+        "clue": "Tufted ___: a small gray bird with a pointed crest",
+        "row": 1,
+        "col": 0,
         "direction": "down",
-        "number": 7
+        "number": 3
       },
       {
-        "answer": "TALON",
-        "clue": "A sharp claw on a bird of prey",
-        "row": 5,
-        "col": 4,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "WING",
-        "clue": "A body part a bird uses to fly",
-        "row": 9,
-        "col": 2,
+        "answer": "SPARROW",
+        "clue": "Small brownish bird whose name completes house ___",
+        "row": 7,
+        "col": 0,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "WREN",
-        "clue": "A small brown songbird",
-        "row": 3,
-        "col": 0,
+        "answer": "WARBLER",
+        "clue": "Yellow ___: a small songbird often seen moving through foliage",
+        "row": 2,
+        "col": 2,
         "direction": "across",
-        "number": 4
+        "number": 6
       },
       {
-        "answer": "NEST",
-        "clue": "A home built by birds",
+        "answer": "THRUSH",
+        "clue": "A wood ___ is a songbird known for a flute-like song",
         "row": 9,
-        "col": 7,
+        "col": 5,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "DOVE",
-        "clue": "A bird often used as a symbol of peace",
-        "row": 2,
-        "col": 6,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "SWAN",
-        "clue": "A large, long-necked water bird",
-        "row": 8,
-        "col": 2,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "CROW",
-        "clue": "A black bird known for its caw",
+        "answer": "ROBIN",
+        "clue": "American songbird known for its orange-red breast",
         "row": 0,
-        "col": 0,
+        "col": 5,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "DUCK",
-        "clue": "Water bird that quacks",
-        "row": 2,
-        "col": 6,
-        "direction": "across",
-        "number": 3
+        "answer": "LARK",
+        "clue": "Horned ___: a songbird often found in open fields",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 4
       },
       {
-        "answer": "EGG",
-        "clue": "What a baby bird hatches from",
-        "row": 9,
-        "col": 8,
+        "answer": "JAY",
+        "clue": "Blue ___: a crested bird related to crows",
+        "row": 6,
+        "col": 2,
         "direction": "down",
-        "number": 11
+        "number": 8
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers in this puzzle are bird names rather than feeders, body parts, or nesting materials. Clues point to familiar markings or supply part of a common name. Where males and females look different, the clue specifies which bird it describes.",
+      "solvingTip": "Try a partial name such as 'Baltimore ___' before a longer description. A color is a starting point, but a crest, tail, or name fragment can be more useful. Use crossing letters to distinguish birds with similar colors.",
+      "answerNotes": [
+        {
+          "answer": "GOLDFINCH",
+          "text": "A male American Goldfinch changes appearance with the season. Bright yellow describes its breeding plumage; winter birds are less vivid."
+        },
+        {
+          "answer": "CARDINAL",
+          "text": "Male Northern Cardinals are familiar for red plumage and a crest. Females are mostly warm brown with reddish accents, so the clue identifies the male instead of describing every cardinal as red."
+        },
+        {
+          "answer": "TITMOUSE",
+          "text": "A Tufted Titmouse is a bird, despite the word 'mouse' in its name. Tufted refers to the small pointed crest on its head."
+        }
+      ]
+    }
   },
   {
     "id": "a-cup-of-comfort",
@@ -2471,126 +2477,124 @@
   },
   {
     "id": "backyard-birds-2",
-    "title": "Backyard Birds \u2014 No. 2",
+    "title": "At the Bird Feeder",
     "theme": "Nature",
-    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "subtheme": "Feeding Station",
+    "series": "backyard-birds",
+    "description": "Picture a backyard feeding station, with familiar seeds, a place to perch, and the tools used to keep it tidy.",
+    "cardDescription": "Seeds, feeders, and the simple parts of a feeding station.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 11,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "FEATHER",
-        "clue": "One of the light coverings on a bird",
+        "answer": "PEANUTS",
+        "clue": "Shelled or unshelled nuts sometimes offered to birds",
         "row": 5,
-        "col": 3,
+        "col": 2,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "FEEDER",
-        "clue": "A container that holds food for visiting birds",
-        "row": 5,
-        "col": 3,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "FINCH",
-        "clue": "A small seed-eating songbird",
-        "row": 1,
-        "col": 7,
+        "answer": "HOPPER",
+        "clue": "Feeder style with a seed container above a dispensing opening",
+        "row": 3,
+        "col": 2,
         "direction": "down",
         "number": 5
       },
       {
-        "answer": "ROOST",
-        "clue": "A place where birds settle to rest",
-        "row": 5,
-        "col": 9,
+        "answer": "MILLET",
+        "clue": "Small round grain often included in bird-seed mixes",
+        "row": 0,
+        "col": 7,
         "direction": "down",
-        "number": 8
+        "number": 3
       },
       {
-        "answer": "TALON",
-        "clue": "A sharp claw on a bird of prey",
-        "row": 3,
+        "answer": "BAFFLE",
+        "clue": "Shield fitted to a feeder pole to make climbing harder for squirrels",
+        "row": 2,
         "col": 3,
         "direction": "across",
-        "number": 6
+        "number": 4
       },
       {
-        "answer": "HERON",
-        "clue": "A long-legged bird often seen wading",
-        "row": 9,
-        "col": 2,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "RAVEN",
-        "clue": "A large black bird related to the crow",
-        "row": 7,
+        "answer": "PERCH",
+        "clue": "A small resting place for a bird's feet on a feeder",
+        "row": 8,
         "col": 0,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "WREN",
-        "clue": "A small brown songbird",
-        "row": 6,
+        "answer": "SHELL",
+        "clue": "Outer covering removed from a sunflower seed",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "SCOOP",
+        "clue": "Small utensil used to transfer seed into a feeder",
+        "row": 4,
         "col": 0,
         "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "TUBE",
+        "clue": "Long, narrow cylindrical feeder shape",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
         "number": 9
       },
       {
-        "answer": "NEST",
-        "clue": "A home built by birds",
+        "answer": "TRAY",
+        "clue": "Flat, open platform style of bird feeder",
         "row": 0,
-        "col": 3,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "CROW",
-        "clue": "A black bird known for its caw",
-        "row": 7,
-        "col": 7,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "SWAN",
-        "clue": "A large, long-necked water bird",
-        "row": 0,
-        "col": 0,
-        "direction": "across",
-        "number": 1
-      },
-      {
-        "answer": "WING",
-        "clue": "A body part a bird uses to fly",
-        "row": 0,
-        "col": 1,
+        "col": 4,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "OWL",
-        "clue": "A bird often heard hooting at night",
-        "row": 9,
-        "col": 5,
-        "direction": "down",
-        "number": 13
+        "answer": "SUET",
+        "clue": "Hard animal fat often formed into cakes for feeding birds",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
       },
       {
-        "answer": "EGG",
-        "clue": "What a baby bird hatches from",
-        "row": 1,
-        "col": 3,
+        "answer": "MIX",
+        "clue": "A blend of several kinds of bird seed",
+        "row": 0,
+        "col": 7,
         "direction": "across",
-        "number": 4
+        "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle is about the feeding station rather than identifying the birds that visit. The words include foods, containers, supports, and cleaning tools. It introduces a few feeder terms through direct definitions instead of assuming you already know the equipment.",
+      "solvingTip": "Decide whether a clue asks for food, a container, or one of its parts. 'Tube' and 'tray' describe feeder shapes, while a perch is the place a bird rests its feet. The number of squares will help with short equipment words.",
+      "answerNotes": [
+        {
+          "answer": "HOPPER",
+          "text": "A hopper holds loose material above an outlet. A hopper feeder uses that arrangement to make seed available near its base."
+        },
+        {
+          "answer": "BAFFLE",
+          "text": "A baffle is a shield or obstruction. On a feeder pole it is intended to make climbing more difficult, which explains the equipment term used in the clue."
+        },
+        {
+          "answer": "PERCH",
+          "text": "Perch can mean a fish or a resting place for a bird. Here, the reference to feet and a feeder selects the resting-place meaning."
+        }
+      ]
+    }
   },
   {
     "id": "a-cup-of-comfort-2",
@@ -4729,126 +4733,132 @@
   },
   {
     "id": "backyard-birds-3",
-    "title": "Backyard Birds \u2014 No. 3",
+    "title": "Wings in Motion",
     "theme": "Nature",
-    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "subtheme": "Birds in Flight",
+    "series": "backyard-birds",
+    "description": "Follow a bird into the air with clear clues about wings, feathers, and the different ways birds move through the sky.",
+    "cardDescription": "Flight movements, feathers, and the air around a bird.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 12,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "FEEDER",
-        "clue": "A container that holds food for visiting birds",
-        "row": 4,
-        "col": 3,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "FLOCK",
-        "clue": "A group of birds",
-        "row": 4,
-        "col": 3,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "ROBIN",
-        "clue": "Bird often known for its orange-red breast",
-        "row": 4,
-        "col": 8,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "ROOST",
-        "clue": "A place where birds settle to rest",
-        "row": 6,
+        "answer": "FEATHER",
+        "clue": "One of the lightweight coverings that form a bird's wings and tail",
+        "row": 5,
         "col": 2,
         "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "TALON",
-        "clue": "A sharp claw on a bird of prey",
-        "row": 6,
-        "col": 6,
-        "direction": "down",
         "number": 8
       },
       {
-        "answer": "GOOSE",
-        "clue": "A large water bird that honks",
-        "row": 0,
-        "col": 5,
+        "answer": "SHAFT",
+        "clue": "The central supporting stem of a feather",
+        "row": 4,
+        "col": 6,
         "direction": "down",
-        "number": 2
+        "number": 7
       },
       {
-        "answer": "RAVEN",
-        "clue": "A large black bird related to the crow",
-        "row": 10,
-        "col": 2,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "WING",
-        "clue": "A body part a bird uses to fly",
-        "row": 0,
-        "col": 2,
-        "direction": "across",
-        "number": 1
-      },
-      {
-        "answer": "DUCK",
-        "clue": "Water bird that quacks",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "BEAK",
-        "clue": "The hard mouth part of a bird",
-        "row": 6,
-        "col": 8,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "NEST",
-        "clue": "A home built by birds",
-        "row": 8,
-        "col": 8,
+        "answer": "FLOCK",
+        "clue": "A group of birds traveling together",
+        "row": 7,
+        "col": 6,
         "direction": "across",
         "number": 11
       },
       {
-        "answer": "SEED",
-        "clue": "A common food in a bird feeder",
-        "row": 5,
-        "col": 0,
+        "answer": "GLIDE",
+        "clue": "Travel through the air with wings held out and without flapping",
+        "row": 1,
+        "col": 3,
         "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "QUILL",
+        "clue": "The hollow base of a large feather's shaft",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
         "number": 6
       },
       {
-        "answer": "WREN",
-        "clue": "A small brown songbird",
+        "answer": "HOVER",
+        "clue": "Remain nearly in one place in the air, as a hummingbird can",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "WING",
+        "clue": "A broad body part a bird extends for flying",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SOAR",
+        "clue": "Stay aloft on rising air, often circling without much flapping",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TAIL",
+        "clue": "Rear group of feathers that can help a flying bird steer",
         "row": 0,
-        "col": 2,
+        "col": 5,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "OWL",
-        "clue": "A bird often heard hooting at night",
-        "row": 1,
-        "col": 5,
+        "answer": "LIFT",
+        "clue": "Upward aerodynamic force that helps support a flying bird",
+        "row": 8,
+        "col": 3,
         "direction": "across",
-        "number": 3
+        "number": 12
+      },
+      {
+        "answer": "AIR",
+        "clue": "The mixture of gases through which birds fly",
+        "row": 7,
+        "col": 4,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SKY",
+        "clue": "The open space above us where flying birds are seen",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 9
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers describe movement and flight rather than particular bird species. Some clues ask for an action, such as gliding; others name a body part or a condition in the air. Everyday definitions keep the subject approachable without requiring aerodynamics formulas.",
+      "solvingTip": "Match the form of the clue to the answer. 'Move wings up and down' asks for an action, while 'A broad surface used for flying' asks for a body part. Short movement words can help you cross into longer feather-related answers.",
+      "answerNotes": [
+        {
+          "answer": "GLIDE",
+          "text": "A gliding bird holds its wings out while moving through the air. It is not necessarily gaining height; the word contrasts with active flapping."
+        },
+        {
+          "answer": "QUILL",
+          "text": "Quill can refer to a large feather, but the clue uses the narrower meaning of its hollow base. Quills were also historically used as writing pens."
+        },
+        {
+          "answer": "SOAR",
+          "text": "Soaring often uses rising air to remain aloft or gain height with little flapping. This is why the clue mentions rising air rather than just spread wings."
+        }
+      ]
+    }
   },
   {
     "id": "a-cup-of-comfort-3",
@@ -6987,126 +6997,124 @@
   },
   {
     "id": "backyard-birds-4",
-    "title": "Backyard Birds \u2014 No. 4",
+    "title": "Nests and New Beginnings",
     "theme": "Nature",
-    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "subtheme": "Nests & Young Birds",
+    "series": "backyard-birds",
+    "description": "Explore the words for nests, eggs, and young birds, with gentle clues that distinguish a nest's materials from its occupants.",
+    "cardDescription": "Nest materials, eggs, and the early stages of a bird's life.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 12,
+    "revision": 2,
+    "rows": 9,
+    "cols": 10,
     "entries": [
       {
-        "answer": "FEATHER",
-        "clue": "One of the light coverings on a bird",
-        "row": 6,
-        "col": 3,
+        "answer": "NESTLING",
+        "clue": "Young bird still living in the nest",
+        "row": 3,
+        "col": 1,
         "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "LINING",
+        "clue": "Soft inner layer of a nest",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
         "number": 5
       },
       {
-        "answer": "FEEDER",
-        "clue": "A container that holds food for visiting birds",
-        "row": 4,
-        "col": 4,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "ROBIN",
-        "clue": "Bird often known for its orange-red breast",
-        "row": 9,
-        "col": 4,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "FINCH",
-        "clue": "A small seed-eating songbird",
-        "row": 4,
-        "col": 4,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "TALON",
-        "clue": "A sharp claw on a bird of prey",
+        "answer": "CLUTCH",
+        "clue": "A set of eggs laid by a bird in one nesting attempt",
         "row": 0,
-        "col": 6,
+        "col": 4,
         "direction": "down",
-        "number": 1
+        "number": 3
       },
       {
-        "answer": "GOOSE",
-        "clue": "A large water bird that honks",
-        "row": 8,
+        "answer": "CAVITY",
+        "clue": "A hollow space in a tree that some birds use for nesting",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PARENT",
+        "clue": "An adult bird caring for its young",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HATCH",
+        "clue": "Break out of an egg",
+        "row": 5,
         "col": 0,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "RAVEN",
-        "clue": "A large black bird related to the crow",
-        "row": 1,
-        "col": 5,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "DOVE",
-        "clue": "A bird often used as a symbol of peace",
-        "row": 7,
-        "col": 2,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "BEAK",
-        "clue": "The hard mouth part of a bird",
-        "row": 9,
-        "col": 6,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "SEED",
-        "clue": "A common food in a bird feeder",
-        "row": 10,
+        "answer": "SHELL",
+        "clue": "Hard outer covering of a bird's egg",
+        "row": 4,
         "col": 0,
-        "direction": "across",
-        "number": 12
+        "direction": "down",
+        "number": 7
       },
       {
-        "answer": "DUCK",
-        "clue": "Water bird that quacks",
-        "row": 12,
-        "col": 3,
-        "direction": "across",
-        "number": 13
-      },
-      {
-        "answer": "CROW",
-        "clue": "A black bird known for its caw",
-        "row": 5,
-        "col": 9,
+        "answer": "TWIG",
+        "clue": "Small woody branch used as nesting material",
+        "row": 0,
+        "col": 8,
         "direction": "down",
         "number": 4
       },
       {
         "answer": "NEST",
-        "clue": "A home built by birds",
-        "row": 9,
-        "col": 8,
-        "direction": "down",
-        "number": 11
+        "clue": "Structure built by a bird to hold its eggs or young",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 9
       },
       {
-        "answer": "OWL",
-        "clue": "A bird often heard hooting at night",
+        "answer": "EGG",
+        "clue": "Oval structure from which a young bird can hatch",
         "row": 7,
-        "col": 9,
+        "col": 4,
         "direction": "across",
-        "number": 7
+        "number": 10
+      },
+      {
+        "answer": "CUP",
+        "clue": "The rounded, open shape of many songbird nests",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows nesting vocabulary: what a nest is made of, what it holds, and what young birds are called. Some words have specific birdwatching meanings, so their clues explain the relevant stage or object. The puzzle does not ask you to identify nests in the wild.",
+      "solvingTip": "Read stage words carefully. A young bird still in its nest is different from one that has recently left it. Clues about a building material ask for the material itself, while a group of eggs has its own name.",
+      "answerNotes": [
+        {
+          "answer": "NESTLING",
+          "text": "In common birdwatching usage, a nestling is a young bird that is still in the nest. The term distinguishes that stage from a recently departed fledgling."
+        },
+        {
+          "answer": "CLUTCH",
+          "text": "Clutch names the eggs in one nesting attempt. Brood usually refers to young birds raised together, so the two words describe different stages."
+        },
+        {
+          "answer": "CAVITY",
+          "text": "A cavity is a hollow space. Some birds nest inside tree holes rather than building the familiar open cup among branches."
+        }
+      ]
+    }
   },
   {
     "id": "a-cup-of-comfort-4",
@@ -9293,118 +9301,124 @@
   },
   {
     "id": "backyard-birds-5",
-    "title": "Backyard Birds \u2014 No. 5",
+    "title": "Birds by the Water",
     "theme": "Nature",
-    "description": "Look out the window and listen. Meet some familiar feathered neighbors.",
+    "subtheme": "Waterbirds & Wetlands",
+    "series": "backyard-birds",
+    "description": "Take an easy vocabulary walk beside a pond or shore, meeting familiar waterbirds and the habitats where they gather.",
+    "cardDescription": "Waterbirds and familiar places along ponds and shores.",
     "difficulty": "Easy",
-    "rows": 13,
+    "revision": 2,
+    "rows": 8,
     "cols": 11,
     "entries": [
       {
-        "answer": "FEEDER",
-        "clue": "A container that holds food for visiting birds",
-        "row": 6,
-        "col": 3,
+        "answer": "MALLARD",
+        "clue": "Common duck whose breeding male has a glossy green head",
+        "row": 2,
+        "col": 2,
         "direction": "across",
-        "number": 9
+        "number": 4
       },
       {
-        "answer": "FLOCK",
-        "clue": "A group of birds",
-        "row": 6,
-        "col": 3,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "RAVEN",
-        "clue": "A large black bird related to the crow",
-        "row": 3,
-        "col": 5,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "HERON",
-        "clue": "A long-legged bird often seen wading",
-        "row": 4,
-        "col": 8,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "BEAK",
-        "clue": "The hard mouth part of a bird",
-        "row": 10,
-        "col": 0,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "WREN",
-        "clue": "A small brown songbird",
-        "row": 3,
-        "col": 4,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "CROW",
-        "clue": "A black bird known for its caw",
+        "answer": "DRAKE",
+        "clue": "An adult male duck",
         "row": 0,
-        "col": 4,
+        "col": 3,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "DUCK",
-        "clue": "Water bird that quacks",
-        "row": 0,
-        "col": 2,
+        "answer": "EGRET",
+        "clue": "Snowy ___: a white wading bird with yellow feet",
+        "row": 4,
+        "col": 0,
         "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "GOOSE",
+        "clue": "Waterbird that honks; its plural is geese",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
         "number": 1
       },
       {
-        "answer": "SWAN",
-        "clue": "A large, long-necked water bird",
-        "row": 0,
+        "answer": "GREBE",
+        "clue": "A pied-billed ___ is a diving waterbird with lobed toes",
+        "row": 1,
         "col": 7,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "WING",
-        "clue": "A body part a bird uses to fly",
-        "row": 8,
+        "answer": "REEDS",
+        "clue": "Tall, slender plants often growing at the edge of water",
+        "row": 5,
         "col": 6,
         "direction": "across",
-        "number": 10
+        "number": 9
       },
       {
-        "answer": "NEST",
-        "clue": "A home built by birds",
-        "row": 9,
+        "answer": "MARSH",
+        "clue": "Wetland often covered with grasses and other nonwoody plants",
+        "row": 2,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DUCK",
+        "clue": "A familiar swimming bird that may quack",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "TERN",
+        "clue": "Slender seabird often seen plunge-diving for fish",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "GULL",
+        "clue": "A seabird often seen around beaches and harbors",
+        "row": 4,
         "col": 1,
         "direction": "down",
-        "number": 11
+        "number": 7
       },
       {
-        "answer": "OWL",
-        "clue": "A bird often heard hooting at night",
-        "row": 1,
-        "col": 6,
+        "answer": "LOON",
+        "clue": "Northern diving waterbird known for haunting calls on lakes",
+        "row": 7,
+        "col": 1,
         "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "EGG",
-        "clue": "What a baby bird hatches from",
-        "row": 5,
-        "col": 8,
-        "direction": "across",
-        "number": 8
+        "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle combines waterbird names with a few words for their surroundings. Common names and identifying details help distinguish similar birds. The clues avoid asking for a species based only on color, since several unrelated waterbirds can look white or gray.",
+      "solvingTip": "A partial bird name can be a useful starting point: 'Great blue ___' is more specific than 'a wading bird.' When a clue asks for a habitat rather than an animal, consider words for a pond edge, wetland, or shore.",
+      "answerNotes": [
+        {
+          "answer": "MALLARD",
+          "text": "A breeding male Mallard has a glossy green head, while females are mostly mottled brown. The clue specifies the male so the color description is accurate."
+        },
+        {
+          "answer": "DRAKE",
+          "text": "Drake means an adult male duck, not a separate species. A male Mallard is a drake, while Mallard names the species."
+        },
+        {
+          "answer": "EGRET",
+          "text": "The Snowy Egret has yellow feet, a useful distinction from several other white wading birds. The partial common name gives an additional clue."
+        }
+      ]
+    }
   },
   {
     "id": "a-cup-of-comfort-5",

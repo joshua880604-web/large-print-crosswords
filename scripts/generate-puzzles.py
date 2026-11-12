@@ -51,7 +51,7 @@ for idx,(slug,title,theme,description,words) in enumerate(THEMES):
   out.append(dict(id=identifier,title=puzzle_title,theme=theme,description=description,difficulty='Easy',rows=rows,cols=cols,entries=entries))
 # Interleave themes so the collection offers variety from the first row onward.
 out=[out[t*5+v] for v in range(5) for t in range(len(THEMES))]
-from refine_gardening import refine_collection
+from refine_editorial import refine_collection
 out=refine_collection(out)
 for puzzle in out:print(puzzle['id'],len(puzzle['entries']),f"{puzzle['rows']}x{puzzle['cols']}")
 (ROOT/'src/data/puzzles.json').write_text(json.dumps(out,indent=2)+'\n')

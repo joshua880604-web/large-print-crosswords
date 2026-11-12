@@ -1,10 +1,20 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
 import Game from '../../../components/Game.astro';
-import originals from '../../../data/archives/gardening-originals.json';
+import editorialSeries from '../../../data/editorial-series.json';
+import type gardeningOriginals from '../../../data/archives/gardening-originals.json';
+type OriginalPuzzle=(typeof gardeningOriginals)[number];
 import puzzles from '../../../data/puzzles.json';
-export function getStaticPaths(){return originals.map(puzzle=>({params:{slug:puzzle.id},props:{puzzle}}));}
+export function getStaticPaths(){
+ const modules=import.meta.glob<OriginalPuzzle[]>('../../../data/archives/*-originals.json',{eager:true,import:'default'});
+ const originals=editorialSeries.flatMap(series=>{
+  const data=modules[`../../../data/archives/${series.archive}`];
+  if(!data)throw new Error(`Missing original editions: ${series.archive}`);
+  return data;
+ });
+ return originals.map(puzzle=>({params:{slug:puzzle.id},props:{puzzle}}));
+}
 const {puzzle}=Astro.props;
 const current=puzzles.find(p=>p.id===puzzle.id)!;
 ---
-<Layout noindex title={`${puzzle.title} — Previous Edition`} description="Continue your earlier gardening crossword with its original layout, clues, and progress saved in this browser." active="puzzles"><div class="container game-container"><header class="page-heading"><p class="eyebrow">PREVIOUS EDITION · ORIGINAL LAYOUT</p><h1>{puzzle.title}</h1><p>Continue the puzzle you started before this collection was refreshed. Its original clues and squares are kept here, along with progress saved in this browser.</p></header><p class="notice">Ready for something new? <a href={`/crosswords/${puzzle.id}/`}>Try {current.title}</a>. The two editions save their answers separately.</p><div style="height:24px"></div><Game puzzle={puzzle}/><p class="game-bottom"><a href="/crosswords/">Explore all current puzzles →</a></p></div></Layout>
+<Layout noindex title={`${puzzle.title} — Previous Edition`} description="Continue your earlier crossword with its original layout, clues, and progress saved in this browser." active="puzzles"><div class="container game-container"><header class="page-heading"><p class="eyebrow">PREVIOUS EDITION · ORIGINAL LAYOUT</p><h1>{puzzle.title}</h1><p>Continue the puzzle you started before this collection was refreshed. Its original clues and squares are kept here, along with progress saved in this browser.</p></header><p class="notice">Ready for something new? <a href={`/crosswords/${puzzle.id}/`}>Try {current.title}</a>. The two editions save their answers separately.</p><div style="height:24px"></div><Game puzzle={puzzle}/><p class="game-bottom"><a href="/crosswords/">Explore all current puzzles →</a></p></div></Layout>

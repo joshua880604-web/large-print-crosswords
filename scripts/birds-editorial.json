@@ -1,0 +1,77 @@
+[
+ {
+  "id":"backyard-birds","title":"Songbird Neighbors","subtheme":"Familiar Songbirds","cardDescription":"Recognize familiar American birds by their markings and names.",
+  "description":"Get to know familiar American songbirds through simple clues about their colors, markings, and common names.",
+  "focus":"The answers in this puzzle are bird names rather than feeders, body parts, or nesting materials. Clues point to familiar markings or supply part of a common name. Where males and females look different, the clue specifies which bird it describes.",
+  "solvingTip":"Try a partial name such as 'Baltimore ___' before a longer description. A color is a starting point, but a crest, tail, or name fragment can be more useful. Use crossing letters to distinguish birds with similar colors.",
+  "words":[["ROBIN","American songbird known for its orange-red breast"],["CARDINAL","Bird whose male is bright red and has a pointed crest"],["FINCH","A house ___ is a small seed-eating songbird"],["WREN","Small songbird whose four-letter name begins with a silent W"],["SPARROW","Small brownish bird whose name completes house ___"],["CHICKADEE","Small bird named for its 'chick-a-dee' call"],["WARBLER","Yellow ___: a small songbird often seen moving through foliage"],["ORIOLE","Baltimore ___: a bird whose male is orange and black"],["THRUSH","A wood ___ is a songbird known for a flute-like song"],["STARLING","Common introduced bird with glossy, often speckled plumage"],["GOLDFINCH","American ___: a small bird whose male turns bright yellow in breeding season"],["TITMOUSE","Tufted ___: a small gray bird with a pointed crest"],["CATBIRD","Gray songbird named for a meowing call"],["BLUEBIRD","Eastern ___: a bird whose male has a blue back and rusty breast"],["MOCKINGBIRD","Songbird known for imitating other birds' songs"],["JAY","Blue ___: a crested bird related to crows"],["LARK","Horned ___: a songbird often found in open fields"],["TANAGER","Scarlet ___: a bird whose breeding male is red with black wings"]],
+  "answerNotes":{
+   "CARDINAL":"Male Northern Cardinals are familiar for red plumage and a crest. Females are mostly warm brown with reddish accents, so the clue identifies the male instead of describing every cardinal as red.",
+   "CHICKADEE":"The chickadee's common name echoes one of its calls. A call-based name can be easier to recognize than a technical description of feathers.",
+   "ORIOLE":"Baltimore Oriole is a common American bird name. The orange-and-black description refers to the adult male; females have different coloration.",
+   "CATBIRD":"The Gray Catbird makes a catlike mewing sound, which explains the name. The clue asks for the bird, not an animal that catches birds.",
+   "GOLDFINCH":"A male American Goldfinch changes appearance with the season. Bright yellow describes its breeding plumage; winter birds are less vivid.",
+   "TITMOUSE":"A Tufted Titmouse is a bird, despite the word 'mouse' in its name. Tufted refers to the small pointed crest on its head."
+  }
+ },
+ {
+  "id":"backyard-birds-2","title":"At the Bird Feeder","subtheme":"Feeding Station","cardDescription":"Seeds, feeders, and the simple parts of a feeding station.",
+  "description":"Picture a backyard feeding station, with familiar seeds, a place to perch, and the tools used to keep it tidy.",
+  "focus":"This puzzle is about the feeding station rather than identifying the birds that visit. The words include foods, containers, supports, and cleaning tools. It introduces a few feeder terms through direct definitions instead of assuming you already know the equipment.",
+  "solvingTip":"Decide whether a clue asks for food, a container, or one of its parts. 'Tube' and 'tray' describe feeder shapes, while a perch is the place a bird rests its feet. The number of squares will help with short equipment words.",
+  "words":[["SEED","A common food found in a bird-feeder mix"],["SUNFLOWER","Plant whose seeds are commonly sold as wild-bird food"],["SUET","Hard animal fat often formed into cakes for feeding birds"],["PEANUTS","Shelled or unshelled nuts sometimes offered to birds"],["MILLET","Small round grain often included in bird-seed mixes"],["MIX","A blend of several kinds of bird seed"],["HOPPER","Feeder style with a seed container above a dispensing opening"],["TRAY","Flat, open platform style of bird feeder"],["TUBE","Long, narrow cylindrical feeder shape"],["PERCH","A small resting place for a bird's feet on a feeder"],["HANGER","Support from which a feeder can be suspended"],["BAFFLE","Shield fitted to a feeder pole to make climbing harder for squirrels"],["SHELL","Outer covering removed from a sunflower seed"],["FEEDER","Container that holds food for visiting birds"],["BRUSH","Bristled tool used to scrub a bird feeder"],["SCOOP","Small utensil used to transfer seed into a feeder"],["FILL","Put seed into an empty feeder until it holds the desired amount"],["BATH","Bird ___: a shallow basin that holds water"]],
+  "answerNotes":{
+   "SUET":"Suet is hard animal fat, often sold in cakes mixed with other ingredients. In a bird-feeding clue it names a type of food, not a seed.",
+   "BAFFLE":"A baffle is a shield or obstruction. On a feeder pole it is intended to make climbing more difficult, which explains the equipment term used in the clue.",
+   "PERCH":"Perch can mean a fish or a resting place for a bird. Here, the reference to feet and a feeder selects the resting-place meaning.",
+   "SUNFLOWER":"Sunflower names the plant. Its seeds are common in bird food, while the hard outer shell is a separate part that birds may discard.",
+   "HOPPER":"A hopper holds loose material above an outlet. A hopper feeder uses that arrangement to make seed available near its base.",
+   "TRAY":"A tray feeder offers an open platform. It differs in shape from a tube feeder, so the clue emphasizes flatness rather than a particular bird species."
+  }
+ },
+ {
+  "id":"backyard-birds-3","title":"Wings in Motion","subtheme":"Birds in Flight","cardDescription":"Flight movements, feathers, and the air around a bird.",
+  "description":"Follow a bird into the air with clear clues about wings, feathers, and the different ways birds move through the sky.",
+  "focus":"The answers describe movement and flight rather than particular bird species. Some clues ask for an action, such as gliding; others name a body part or a condition in the air. Everyday definitions keep the subject approachable without requiring aerodynamics formulas.",
+  "solvingTip":"Match the form of the clue to the answer. 'Move wings up and down' asks for an action, while 'A broad surface used for flying' asks for a body part. Short movement words can help you cross into longer feather-related answers.",
+  "words":[["WING","A broad body part a bird extends for flying"],["FEATHER","One of the lightweight coverings that form a bird's wings and tail"],["TAIL","Rear group of feathers that can help a flying bird steer"],["AIR","The mixture of gases through which birds fly"],["LIFT","Upward aerodynamic force that helps support a flying bird"],["GLIDE","Travel through the air with wings held out and without flapping"],["SOAR","Stay aloft on rising air, often circling without much flapping"],["FLAP","Move wings up and down"],["HOVER","Remain nearly in one place in the air, as a hummingbird can"],["FLY","Travel through the air using wings"],["DOWN","Soft, fluffy feathers that help keep a bird warm"],["QUILL","The hollow base of a large feather's shaft"],["SHAFT","The central supporting stem of a feather"],["SKY","The open space above us where flying birds are seen"],["LAND","Come down to rest after flying"],["TAKEOFF","The start of a bird's flight from the ground"],["FLOCK","A group of birds traveling together"],["THERMAL","A rising column of warm air that a soaring bird can use"]],
+  "answerNotes":{
+   "GLIDE":"A gliding bird holds its wings out while moving through the air. It is not necessarily gaining height; the word contrasts with active flapping.",
+   "SOAR":"Soaring often uses rising air to remain aloft or gain height with little flapping. This is why the clue mentions rising air rather than just spread wings.",
+   "DOWN":"Down feathers are soft and insulating. They help retain warmth rather than forming the broad flight surfaces of the outer wing feathers.",
+   "QUILL":"Quill can refer to a large feather, but the clue uses the narrower meaning of its hollow base. Quills were also historically used as writing pens.",
+   "THERMAL":"A thermal is rising warm air. Birds such as vultures can circle in one to gain height, connecting the air term to the action of soaring.",
+   "TAIL":"A bird can spread or adjust its tail feathers during flight. Their role can include steering and braking, rather than providing the main wing surface."
+  }
+ },
+ {
+  "id":"backyard-birds-4","title":"Nests and New Beginnings","subtheme":"Nests & Young Birds","cardDescription":"Nest materials, eggs, and the early stages of a bird's life.",
+  "description":"Explore the words for nests, eggs, and young birds, with gentle clues that distinguish a nest's materials from its occupants.",
+  "focus":"This puzzle follows nesting vocabulary: what a nest is made of, what it holds, and what young birds are called. Some words have specific birdwatching meanings, so their clues explain the relevant stage or object. The puzzle does not ask you to identify nests in the wild.",
+  "solvingTip":"Read stage words carefully. A young bird still in its nest is different from one that has recently left it. Clues about a building material ask for the material itself, while a group of eggs has its own name.",
+  "words":[["NEST","Structure built by a bird to hold its eggs or young"],["EGG","Oval structure from which a young bird can hatch"],["CHICK","A newly hatched young bird"],["HATCH","Break out of an egg"],["BROOD","A group of young birds raised together"],["CLUTCH","A set of eggs laid by a bird in one nesting attempt"],["NESTLING","Young bird still living in the nest"],["FLEDGLING","Young bird that has recently left its nest and is learning to fly"],["TWIG","Small woody branch used as nesting material"],["GRASS","Thin green plant material some birds weave into nests"],["MOSS","Soft green plant sometimes used to line a nest"],["CUP","The rounded, open shape of many songbird nests"],["CAVITY","A hollow space in a tree that some birds use for nesting"],["LINING","Soft inner layer of a nest"],["PARENT","An adult bird caring for its young"],["SHELL","Hard outer covering of a bird's egg"],["WARMTH","Heat an adult bird's body can provide to eggs"],["FEED","Give food to hungry young birds"]],
+  "answerNotes":{
+   "CLUTCH":"Clutch names the eggs in one nesting attempt. Brood usually refers to young birds raised together, so the two words describe different stages.",
+   "NESTLING":"In common birdwatching usage, a nestling is a young bird that is still in the nest. The term distinguishes that stage from a recently departed fledgling.",
+   "FLEDGLING":"A fledgling has recently left the nest and may still depend on its parents. Leaving the nest does not necessarily mean it is already a strong flier.",
+   "CAVITY":"A cavity is a hollow space. Some birds nest inside tree holes rather than building the familiar open cup among branches.",
+   "BROOD":"Brood can be a noun for a group of young birds. It is also used as a verb in other contexts, but this clue asks for the group.",
+   "SHELL":"Here, shell means the outside of an egg. The same word can describe a seed covering, but the nesting context points to the egg meaning."
+  }
+ },
+ {
+  "id":"backyard-birds-5","title":"Birds by the Water","subtheme":"Waterbirds & Wetlands","cardDescription":"Waterbirds and familiar places along ponds and shores.",
+  "description":"Take an easy vocabulary walk beside a pond or shore, meeting familiar waterbirds and the habitats where they gather.",
+  "focus":"This puzzle combines waterbird names with a few words for their surroundings. Common names and identifying details help distinguish similar birds. The clues avoid asking for a species based only on color, since several unrelated waterbirds can look white or gray.",
+  "solvingTip":"A partial bird name can be a useful starting point: 'Great blue ___' is more specific than 'a wading bird.' When a clue asks for a habitat rather than an animal, consider words for a pond edge, wetland, or shore.",
+  "words":[["DUCK","A familiar swimming bird that may quack"],["SWAN","Large waterbird with a very long curved neck, often pictured all white"],["GOOSE","Waterbird that honks; its plural is geese"],["HERON","Great blue ___: a long-legged wading bird"],["EGRET","Snowy ___: a white wading bird with yellow feet"],["LOON","Northern diving waterbird known for haunting calls on lakes"],["GREBE","A pied-billed ___ is a diving waterbird with lobed toes"],["COOT","Dark waterbird whose American species has a pale bill"],["GULL","A seabird often seen around beaches and harbors"],["TERN","Slender seabird often seen plunge-diving for fish"],["PELICAN","Large waterbird with a pouch beneath its bill"],["IBIS","A white ___ is a wading bird with a long curved bill"],["SANDPIPER","Small shorebird often seen probing mud or wet sand for food"],["MALLARD","Common duck whose breeding male has a glossy green head"],["DRAKE","An adult male duck"],["REEDS","Tall, slender plants often growing at the edge of water"],["POND","A small body of still water where ducks may swim"],["MARSH","Wetland often covered with grasses and other nonwoody plants"],["SHORE","Land along the edge of a lake or sea"]],
+  "answerNotes":{
+   "DRAKE":"Drake means an adult male duck, not a separate species. A male Mallard is a drake, while Mallard names the species.",
+   "MALLARD":"A breeding male Mallard has a glossy green head, while females are mostly mottled brown. The clue specifies the male so the color description is accurate.",
+   "EGRET":"The Snowy Egret has yellow feet, a useful distinction from several other white wading birds. The partial common name gives an additional clue.",
+   "PELICAN":"A pelican's bill pouch helps it capture food and drain water. It is not simply a bag in which the bird permanently stores fish.",
+   "MARSH":"A marsh is a wetland dominated by nonwoody plants such as grasses and reeds. The clue asks for the habitat rather than one of the birds found there.",
+   "GREBE":"Grebes have lobed toes rather than the fully webbed feet familiar from ducks. That detail helps distinguish the two kinds of diving waterbirds."
+  }
+ }
+]

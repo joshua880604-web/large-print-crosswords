@@ -38,3 +38,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Full collection regeneration reproduced the inspected JSON exactly and left the legacy archive unchanged.
 - Build, content audit, SEO audit, TypeScript and 22 Playwright tests passed, including print-grid proportion checks, old/new saved-progress isolation, all five note sections, and noindex legacy routes. Total static output is now 314 HTML pages; the canonical sitemap still has 108 URLs.
 - After correcting print-grid proportions and footer spacing without reducing clue text size, all 100 current print sheets exported as single US Letter pages in Chromium. Physical printing and target-user difficulty still need real-world feedback.
+
+## Bird editorial batch — 2026-11-12
+
+- Replaced only the five current backyard-bird editions. The other 95 current puzzles, including the previously edited gardening batch, remain byte-for-byte identical as puzzle objects.
+- Bird subjects: Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, and Birds by the Water. Each has 10–12 clues in a board no larger than 11 × 11, unique introductory and solving text, and three explanations tied to actual answers.
+- Bird series: 67 entries / 21 distinct answer-clue pairs before; 55 entries / 55 distinct pairs after. Reusing a word with a different contextual meaning, such as an eggshell versus a seed shell, is permitted and reported separately from exact-clue repetition.
+- Collection remains 100 current puzzles, now with 1,247 clue entries, 503 distinct answer-clue pairs, 28 distinct introductions, and 10 edited editions. Ninety current puzzles remain in the editorial queue; 72 numbered titles remain visible in the report.
+- The shared series manifest now drives deterministic refinements, preserved-original validation, and previous-edition routes. Existing gardening seeds and results remained unchanged. Full regeneration reproduced all 100 current puzzles exactly, without changing either archive.
+- Build, content/SEO audits, TypeScript and 23 Playwright tests passed. Tests cover both families' saved-game isolation, all ten note sections, all ten noindex archives, and lookup using the renamed series' original name.
+- All five changed bird print sheets exported as single US Letter pages in Chromium. Reader notes visually inspected. Total static HTML output is 319 pages; canonical sitemap coverage stays at 108 URLs.
+- Live Cloudflare deployment status, actual mobile keyboards and physical printers were not verified by these local checks. No target-user or professional editorial review is claimed.

@@ -4,12 +4,12 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1259 clue entries.
-- 410 distinct answers; 469 distinct answer/clue pairs.
-- 24 different introductions; 76 numbered titles remain.
-- 5 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1247 clue entries.
+- 440 distinct answers; 503 distinct answer/clue pairs.
+- 28 different introductions; 72 numbered titles remain.
+- 10 editions have dedicated subject notes and answer explanations.
 
-## Gardening pilot: five stable URLs
+## Gardening: five stable URLs
 
 | Metric | Original five | Current five |
 | --- | ---: | ---: |
@@ -17,17 +17,29 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 | Distinct answer/clue pairs | 21 | 58 |
 | Different introductions | 1 | 5 |
 
-The new subjects are Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, Starting from Seeds. The five old layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+Current subjects: Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, Starting from Seeds.
+
+## Birds: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 67 | 55 |
+| Distinct answer/clue pairs | 21 | 55 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, Birds by the Water.
+
+The 10 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-The other 95 current puzzles are unchanged in this pilot. Their warnings remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using the table below and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+90 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
 | garden-days | 58 | 58 | 5 | 0 |
 | sunday-baking | 64 | 22 | 1 | 4 |
-| backyard-birds | 67 | 21 | 1 | 4 |
+| backyard-birds | 55 | 55 | 5 | 0 |
 | a-cup-of-comfort | 65 | 22 | 1 | 4 |
 | on-the-road | 64 | 21 | 1 | 4 |
 | movie-night | 65 | 22 | 1 | 4 |

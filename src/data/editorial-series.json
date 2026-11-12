@@ -1,0 +1,21 @@
+[
+  {
+    "id": "garden-days",
+    "name": "Gardening",
+    "theme": "Gardening",
+    "source": "gardening-editorial.json",
+    "archive": "gardening-originals.json",
+    "seed": 910000
+  },
+  {
+    "id": "backyard-birds",
+    "name": "Birds",
+    "theme": "Nature",
+    "source": "birds-editorial.json",
+    "archive": "birds-originals.json",
+    "seed": 1210000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
+  }
+]

@@ -2,31 +2,75 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1259,
-    "distinctAnswers": 410,
-    "distinctAnswerCluePairs": 469,
-    "distinctIntroductions": 24,
-    "numberedTitles": 76,
-    "editedEditions": 5
+    "clueEntries": 1247,
+    "distinctAnswers": 440,
+    "distinctAnswerCluePairs": 503,
+    "distinctIntroductions": 28,
+    "numberedTitles": 72,
+    "editedEditions": 10
   },
-  "gardeningBefore": {
-    "entries": 58,
-    "distinctAnswers": 21,
-    "distinctAnswerCluePairs": 21,
-    "distinctIntroductions": 1
-  },
-  "gardeningAfter": {
-    "id": "garden-days",
-    "puzzles": 5,
-    "entries": 58,
-    "uniqueAnswers": 58,
-    "uniqueCluePairs": 58,
-    "uniqueIntroductions": 5,
-    "numberedTitles": 0,
-    "editedEditions": 5,
-    "highestExactClueJaccard": 0,
-    "highestAnswerJaccard": 0
-  },
+  "refinedSeries": [
+    {
+      "id": "garden-days",
+      "name": "Gardening",
+      "before": {
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "garden-days",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 58,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Garden Tools",
+        "Spring Flowers",
+        "The Vegetable Patch",
+        "Backyard Wildlife",
+        "Starting from Seeds"
+      ]
+    },
+    {
+      "id": "backyard-birds",
+      "name": "Birds",
+      "before": {
+        "puzzles": 5,
+        "entries": 67,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "backyard-birds",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Songbird Neighbors",
+        "At the Bird Feeder",
+        "Wings in Motion",
+        "Nests and New Beginnings",
+        "Birds by the Water"
+      ]
+    }
+  ],
   "repeatedIntroductions": [
     {
       "pages": 5,
@@ -36,16 +80,6 @@
         "sunday-baking-3",
         "sunday-baking-4",
         "sunday-baking-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "backyard-birds",
-        "backyard-birds-2",
-        "backyard-birds-3",
-        "backyard-birds-4",
-        "backyard-birds-5"
       ]
     },
     {
@@ -241,11 +275,6 @@
       "occurrences": 5
     },
     {
-      "answer": "FEEDER",
-      "clue": "A container that holds food for visiting birds",
-      "occurrences": 5
-    },
-    {
       "answer": "FIELD",
       "clue": "An open area of land used for crops",
       "occurrences": 5
@@ -286,11 +315,6 @@
       "occurrences": 5
     },
     {
-      "answer": "NEST",
-      "clue": "A home built by birds",
-      "occurrences": 5
-    },
-    {
       "answer": "PETAL",
       "clue": "One of the colored parts surrounding a flower's center",
       "occurrences": 5
@@ -319,16 +343,19 @@
       "answer": "THIMBLE",
       "clue": "A small finger guard used when sewing",
       "occurrences": 5
+    },
+    {
+      "answer": "TICKET",
+      "clue": "What you buy to enter a movie theater",
+      "occurrences": 5
+    },
+    {
+      "answer": "WOOL",
+      "clue": "The fiber obtained from sheep",
+      "occurrences": 5
     }
   ],
   "highestOverlapPairs": [
-    {
-      "first": "backyard-birds-2",
-      "second": "backyard-birds-5",
-      "sharedClues": 10,
-      "jaccard": 0.588,
-      "sameSeries": true
-    },
     {
       "first": "music-memories",
       "second": "music-memories-5",
@@ -400,13 +427,6 @@
       "sameSeries": true
     },
     {
-      "first": "backyard-birds-3",
-      "second": "backyard-birds-4",
-      "sharedClues": 10,
-      "jaccard": 0.556,
-      "sameSeries": true
-    },
-    {
       "first": "our-furry-friends",
       "second": "our-furry-friends-2",
       "sharedClues": 8,
@@ -456,32 +476,28 @@
       "sameSeries": true
     },
     {
-      "first": "backyard-birds",
-      "second": "backyard-birds-2",
+      "first": "cozy-at-home-3",
+      "second": "cozy-at-home-4",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites-2",
+      "second": "flower-favorites-3",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites-3",
+      "second": "flower-favorites-5",
       "sharedClues": 9,
       "jaccard": 0.529,
       "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "backyard-birds-2",
-      "second": "backyard-birds-5",
-      "sharedAnswers": [
-        "FEEDER",
-        "HERON",
-        "RAVEN",
-        "WREN",
-        "NEST",
-        "CROW",
-        "SWAN",
-        "WING",
-        "OWL",
-        "EGG"
-      ],
-      "jaccard": 0.588,
-      "sameSeries": true
-    },
     {
       "first": "music-memories",
       "second": "music-memories-5",
@@ -652,24 +668,6 @@
       "sameSeries": true
     },
     {
-      "first": "backyard-birds-3",
-      "second": "backyard-birds-4",
-      "sharedAnswers": [
-        "FEEDER",
-        "ROBIN",
-        "TALON",
-        "GOOSE",
-        "RAVEN",
-        "DUCK",
-        "BEAK",
-        "NEST",
-        "SEED",
-        "OWL"
-      ],
-      "jaccard": 0.556,
-      "sameSeries": true
-    },
-    {
       "first": "our-furry-friends",
       "second": "our-furry-friends-2",
       "sharedAnswers": [
@@ -787,18 +785,52 @@
       "sameSeries": true
     },
     {
-      "first": "backyard-birds",
-      "second": "backyard-birds-2",
+      "first": "cozy-at-home-3",
+      "second": "cozy-at-home-4",
       "sharedAnswers": [
-        "FEATHER",
-        "FEEDER",
-        "TALON",
-        "WING",
-        "WREN",
-        "NEST",
-        "SWAN",
-        "CROW",
-        "EGG"
+        "CLOSET",
+        "CLOCK",
+        "CHAIR",
+        "TABLE",
+        "WALL",
+        "DESK",
+        "BOOK",
+        "RUG",
+        "KEY"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites-2",
+      "second": "flower-favorites-3",
+      "sharedAnswers": [
+        "VIOLET",
+        "DAISY",
+        "POPPY",
+        "PETAL",
+        "TULIP",
+        "ASTER",
+        "PEONY",
+        "STEM",
+        "SEED"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites-3",
+      "second": "flower-favorites-5",
+      "sharedAnswers": [
+        "VIOLET",
+        "NECTAR",
+        "TULIP",
+        "PEONY",
+        "ASTER",
+        "PETAL",
+        "SEED",
+        "STEM",
+        "VASE"
       ],
       "jaccard": 0.529,
       "sameSeries": true
@@ -832,14 +864,14 @@
     {
       "id": "backyard-birds",
       "puzzles": 5,
-      "entries": 67,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.588,
-      "highestAnswerJaccard": 0.588
+      "entries": 55,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
     },
     {
       "id": "a-cup-of-comfort",

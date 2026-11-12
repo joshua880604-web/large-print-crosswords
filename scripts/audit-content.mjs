@@ -3,7 +3,7 @@ import {readFileSync,writeFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 const read=path=>JSON.parse(readFileSync(new URL(path,import.meta.url),'utf8'));
 const puzzles=read('../src/data/puzzles.json');
-const originals=read('../src/data/archives/gardening-originals.json');
+import {originals,editorialSeries} from './editorial-data.mjs';
 const pairKey=e=>`${e.answer}\u0000${e.clue}`;
 const base=p=>p.series||p.id.replace(/-\d+$/,'');
 function counts(values){const map=new Map();for(const v of values)map.set(v,(map.get(v)||0)+1);return map;}
@@ -30,26 +30,31 @@ const series=[...new Set(puzzles.map(base))].map(id=>{
  const answerMatches=answerOverlap.filter(o=>group.some(p=>p.id===o.first)&&group.some(p=>p.id===o.second));
  return {id,puzzles:group.length,entries:es.length,uniqueAnswers:new Set(es.map(e=>e.answer)).size,uniqueCluePairs:new Set(es.map(pairKey)).size,uniqueIntroductions:new Set(group.map(p=>p.description)).size,numberedTitles:group.filter(p=>p.title.includes('— No.')).length,editedEditions:group.filter(p=>p.editorial).length,highestExactClueJaccard:matches[0]?.jaccard||0,highestAnswerJaccard:answerMatches[0]?.jaccard||0};
 });
-const gardening=puzzles.filter(p=>base(p)==='garden-days');
-assert.equal(gardening.length,5);
-assert.equal(new Set(gardening.map(p=>p.title)).size,5);
-assert.equal(new Set(gardening.map(p=>p.description)).size,5);
-assert.ok(gardening.every(p=>p.editorial&&p.revision===2&&!p.title.includes('— No.')));
-const editedPairs=gardening.flatMap(p=>p.entries.map(pairKey));
-assert.equal(new Set(editedPairs).size,editedPairs.length,'Current gardening subjects must not repeat identical answer/clue pairs');
-const before=originals.flatMap(p=>p.entries);
+const refinedSeries=editorialSeries.map(config=>{
+ const current=puzzles.filter(p=>base(p)===config.id);
+ const previous=originals.filter(p=>base(p)===config.id);
+ assert.equal(current.length,5);assert.equal(previous.length,5);
+ assert.equal(new Set(current.map(p=>p.title)).size,5);
+ assert.equal(new Set(current.map(p=>p.description)).size,5);
+ assert.ok(current.every(p=>p.editorial&&p.revision===2&&!p.title.includes('— No.')));
+ const pairs=current.flatMap(p=>p.entries.map(pairKey));
+ assert.equal(new Set(pairs).size,pairs.length,`Edited ${config.id} subjects must not repeat identical answer/clue pairs`);
+ const es=previous.flatMap(p=>p.entries);
+ return {id:config.id,name:config.name,before:{puzzles:previous.length,entries:es.length,uniqueAnswers:new Set(es.map(e=>e.answer)).size,uniqueCluePairs:new Set(es.map(pairKey)).size,uniqueIntroductions:new Set(previous.map(p=>p.description)).size},after:series.find(s=>s.id===config.id),subjects:current.map(p=>p.title)};
+});
 const report={
  note:'Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.',
  collection:{puzzles:puzzles.length,clueEntries:entries.length,distinctAnswers:new Set(entries.map(e=>e.answer)).size,distinctAnswerCluePairs:pairCounts.size,distinctIntroductions:intros.size,numberedTitles:puzzles.filter(p=>p.title.includes('— No.')).length,editedEditions:puzzles.filter(p=>p.editorial).length},
- gardeningBefore:{entries:before.length,distinctAnswers:new Set(before.map(e=>e.answer)).size,distinctAnswerCluePairs:new Set(before.map(pairKey)).size,distinctIntroductions:new Set(originals.map(p=>p.description)).size},
- gardeningAfter:series.find(s=>s.id==='garden-days'),
+ refinedSeries,
  repeatedIntroductions:[...intros].filter(([,n])=>n>1).map(([text,pages])=>({pages,puzzles:puzzles.filter(p=>p.description===text).map(p=>p.id)})),
  repeatedClues:[...pairCounts].filter(([,n])=>n>1).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])).slice(0,20).map(([key,occurrences])=>{const [answer,clue]=key.split('\u0000');return {answer,clue,occurrences};}),
  highestOverlapPairs:overlap.slice(0,20),highestAnswerOverlapPairs:answerOverlap.slice(0,20),series
 };
-console.log(`CONTENT: ${report.collection.puzzles} puzzles; ${entries.length} entries; ${pairCounts.size} distinct answer/clue pairs; ${intros.size} distinct introductions. Gardening: ${before.length} → ${report.gardeningAfter.entries} entries, ${report.gardeningBefore.distinctAnswerCluePairs} → ${report.gardeningAfter.uniqueCluePairs} distinct pairs. ${report.collection.numberedTitles} numbered titles remain for later editorial work.`);
+console.log(`CONTENT: ${report.collection.puzzles} puzzles; ${entries.length} entries; ${pairCounts.size} distinct answer/clue pairs; ${intros.size} distinct introductions; ${report.collection.editedEditions} edited editions. ${report.collection.numberedTitles} numbered titles remain.`);
+for(const group of refinedSeries)console.log(`${group.name}: ${group.before.entries} → ${group.after.entries} entries; ${group.before.uniqueCluePairs} → ${group.after.uniqueCluePairs} distinct answer/clue pairs.`);
 if(process.argv.includes('--write')){
  writeFileSync(new URL('../docs/content-audit.json',import.meta.url),JSON.stringify(report,null,2)+'\n');
- const md=`# Content audit\n\n${report.note}\n\n## Current collection\n\n- ${report.collection.puzzles} current puzzles; ${entries.length} clue entries.\n- ${report.collection.distinctAnswers} distinct answers; ${pairCounts.size} distinct answer/clue pairs.\n- ${intros.size} different introductions; ${report.collection.numberedTitles} numbered titles remain.\n- ${report.collection.editedEditions} editions have dedicated subject notes and answer explanations.\n\n## Gardening pilot: five stable URLs\n\n| Metric | Original five | Current five |\n| --- | ---: | ---: |\n| Clue entries | ${before.length} | ${report.gardeningAfter.entries} |\n| Distinct answer/clue pairs | ${report.gardeningBefore.distinctAnswerCluePairs} | ${report.gardeningAfter.uniqueCluePairs} |\n| Different introductions | ${report.gardeningBefore.distinctIntroductions} | ${report.gardeningAfter.uniqueIntroductions} |\n\nThe new subjects are ${gardening.map(p=>p.title).join(', ')}. The five old layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.\n\n## Next editorial queue\n\nThe other 95 current puzzles are unchanged in this pilot. Their warnings remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using the table below and real user/search feedback. Similarity alone does not decide whether a page should be indexed.\n\n| Series | Entries | Distinct clue pairs | Different intros | Numbered titles |\n| --- | ---: | ---: | ---: | ---: |\n${series.map(s=>`| ${s.id} | ${s.entries} | ${s.uniqueCluePairs} | ${s.uniqueIntroductions} | ${s.numberedTitles} |`).join('\n')}\n\nSee content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The production build runs the audit without modifying tracked reports.\n`;
+ const blocks=refinedSeries.map(group=>`## ${group.name}: five stable URLs\n\n| Metric | Original five | Current five |\n| --- | ---: | ---: |\n| Clue entries | ${group.before.entries} | ${group.after.entries} |\n| Distinct answer/clue pairs | ${group.before.uniqueCluePairs} | ${group.after.uniqueCluePairs} |\n| Different introductions | ${group.before.uniqueIntroductions} | ${group.after.uniqueIntroductions} |\n\nCurrent subjects: ${group.subjects.join(', ')}.\n`).join('\n');
+ const md=`# Content audit\n\n${report.note}\n\n## Current collection\n\n- ${report.collection.puzzles} current puzzles; ${entries.length} clue entries.\n- ${report.collection.distinctAnswers} distinct answers; ${pairCounts.size} distinct answer/clue pairs.\n- ${intros.size} different introductions; ${report.collection.numberedTitles} numbered titles remain.\n- ${report.collection.editedEditions} editions have dedicated subject notes and answer explanations.\n\n${blocks}\nThe ${originals.length} original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.\n\n## Next editorial queue\n\n${puzzles.length-report.collection.editedEditions} current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.\n\n| Series | Entries | Distinct clue pairs | Different intros | Numbered titles |\n| --- | ---: | ---: | ---: | ---: |\n${series.map(s=>`| ${s.id} | ${s.entries} | ${s.uniqueCluePairs} | ${s.uniqueIntroductions} | ${s.numberedTitles} |`).join('\n')}\n\nSee content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The production build runs the audit without modifying tracked reports.\n`;
  writeFileSync(new URL('../docs/content-audit.md',import.meta.url),md);
 }

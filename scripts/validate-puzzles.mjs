@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
 assert.equal(puzzles.length,100,'Collection must contain 100 puzzles');
 assert.equal(new Set(puzzles.map(p=>p.id)).size,100,'Unique slugs');
-const originals=JSON.parse(readFileSync(new URL('../src/data/archives/gardening-originals.json',import.meta.url),'utf8'));
+import {originals} from './editorial-data.mjs';
 const grids=new Set();let clueCount=0;
 for(const p of [...puzzles,...originals]){
  const map=new Map(),members=new Map(),starts=new Map(),entrySignatures=new Set();
@@ -24,7 +24,7 @@ for(const p of [...puzzles,...originals]){
  const fingerprint=JSON.stringify([...map].sort());assert.ok(!grids.has(fingerprint),`${p.id}: duplicate board`);grids.add(fingerprint);if(puzzles.includes(p))clueCount+=p.entries.length;
  if(p.editorial){
   assert.ok(p.revision>=2&&p.subtheme&&p.cardDescription,'Edited puzzles need a distinct edition and subject');
-  assert.ok(p.rows<=11&&p.cols<=11&&p.entries.length<=12,'Edited gardening puzzles keep a compact, readable board');
+  assert.ok(p.rows<=11&&p.cols<=11&&p.entries.length<=12,'Edited themed puzzles keep a compact, readable board');
   assert.ok(p.editorial.focus&&p.editorial.solvingTip);
   assert.equal(p.editorial.answerNotes.length,3);
   assert.equal(new Set(p.editorial.answerNotes.map(n=>n.answer)).size,3);
