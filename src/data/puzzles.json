@@ -687,102 +687,132 @@
   },
   {
     "id": "music-memories",
-    "title": "Music & Memories",
+    "title": "Radio & Records",
     "theme": "Classic Pastimes",
-    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "subtheme": "Listening at Home",
+    "series": "music-memories",
+    "description": "Settle in with a crossword about records, radios, and the familiar parts that bring recorded music into a room.",
+    "cardDescription": "Records, radio controls, and familiar ways to listen at home.",
     "difficulty": "Easy",
-    "rows": 10,
+    "revision": 2,
+    "rows": 11,
     "cols": 11,
     "entries": [
       {
-        "answer": "VIOLIN",
-        "clue": "A small four-string instrument played with a bow",
-        "row": 6,
-        "col": 1,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "FLUTE",
-        "clue": "A woodwind instrument held sideways",
+        "answer": "TONEARM",
+        "clue": "Pivoting arm that carries a record player's cartridge",
         "row": 5,
-        "col": 4,
-        "direction": "down",
+        "col": 2,
+        "direction": "across",
         "number": 5
       },
       {
-        "answer": "DANCE",
-        "clue": "Move your feet to music",
-        "row": 4,
-        "col": 6,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "RADIO",
-        "clue": "A device for listening to broadcast programs",
+        "answer": "ANTENNA",
+        "clue": "Rod or wire used to receive radio signals",
         "row": 3,
         "col": 2,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "LYRIC",
-        "clue": "A word of a song is part of its ___",
-        "row": 3,
+        "answer": "NEEDLE",
+        "clue": "Common name for the stylus that follows a record's groove",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "VOLUME",
+        "clue": "Control setting that makes recorded sound louder or softer",
+        "row": 1,
         "col": 0,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "CHOIR",
-        "clue": "A group of singers",
-        "row": 7,
-        "col": 6,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "NOTE",
-        "clue": "A single musical sound",
-        "row": 6,
-        "col": 8,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "HARP",
-        "clue": "A large instrument with strings plucked by hand",
+        "answer": "RECORD",
+        "clue": "A grooved disc played on a turntable",
         "row": 5,
-        "col": 10,
+        "col": 7,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "DRUM",
-        "clue": "An instrument played by striking it",
-        "row": 4,
-        "col": 6,
+        "answer": "GROOVE",
+        "clue": "Spiral track on a record that a stylus follows",
+        "row": 8,
+        "col": 5,
         "direction": "across",
-        "number": 4
+        "number": 9
       },
       {
-        "answer": "BELL",
-        "clue": "A ringing instrument often found in a tower",
-        "row": 0,
+        "answer": "VINYL",
+        "clue": "Plastic material used to make many phonograph records",
+        "row": 1,
         "col": 0,
         "direction": "down",
-        "number": 1
+        "number": 2
       },
       {
-        "answer": "TUNE",
-        "clue": "A melody you might hum",
+        "answer": "RADIO",
+        "clue": "Receiver used to listen to broadcast stations",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TUNER",
+        "clue": "Part of a radio used to select a station",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TAPE",
+        "clue": "Long magnetic strip used to record sound",
         "row": 9,
         "col": 1,
         "direction": "across",
         "number": 10
+      },
+      {
+        "answer": "DIAL",
+        "clue": "Round control or scale used to tune many older radios",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "MONO",
+        "clue": "Short form of monophonic, describing single-channel sound",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows the listening equipment rather than asking you to name performers or remember song titles. The answers cover record materials, player parts, and everyday controls. Clues distinguish an object from the sound or recording it carries.",
+      "solvingTip": "Picture which part you would touch: a dial, a sleeve, or the volume control. A clue about the material of a record calls for a different answer from a clue about its spiral track. Crossing letters can help with the longer equipment names.",
+      "answerNotes": [
+        {
+          "answer": "NEEDLE",
+          "text": "Needle is the familiar name for a record player's stylus. It follows the groove, while the tonearm holds the cartridge assembly above the rotating record."
+        },
+        {
+          "answer": "GROOVE",
+          "text": "The groove is the physical path traced by the stylus. A song or track is the recorded content; the clue is asking for the path on the disc."
+        },
+        {
+          "answer": "VINYL",
+          "text": "Vinyl names a material, not every kind of record ever made. Many earlier 78 rpm records were made from shellac-based compounds, so the clue says 'many' rather than 'all.'"
+        }
+      ]
+    }
   },
   {
     "id": "by-the-sea",
@@ -2943,110 +2973,132 @@
   },
   {
     "id": "music-memories-2",
-    "title": "Music & Memories \u2014 No. 2",
+    "title": "At the Piano",
     "theme": "Classic Pastimes",
-    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "subtheme": "Piano Keys & Parts",
+    "series": "music-memories",
+    "description": "Explore a piano's keys, pedals, and everyday musical patterns in a relaxed puzzle that needs no music-reading experience.",
+    "cardDescription": "Keyboard parts, simple musical patterns, and playing at the piano.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 10,
     "cols": 11,
     "entries": [
       {
-        "answer": "VIOLIN",
-        "clue": "A small four-string instrument played with a bow",
-        "row": 6,
-        "col": 1,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "FLUTE",
-        "clue": "A woodwind instrument held sideways",
+        "answer": "OCTAVE",
+        "clue": "Interval from one C to the next C above or below it",
         "row": 5,
-        "col": 4,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "DANCE",
-        "clue": "Move your feet to music",
-        "row": 4,
-        "col": 6,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "LYRIC",
-        "clue": "A word of a song is part of its ___",
-        "row": 3,
         "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "HAMMER",
+        "clue": "Felt-covered part that strikes a piano string",
+        "row": 1,
+        "col": 7,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "WALTZ",
-        "clue": "A ballroom dance in three-quarter time",
-        "row": 3,
-        "col": 0,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "CHOIR",
-        "clue": "A group of singers",
-        "row": 7,
-        "col": 6,
-        "direction": "across",
+        "answer": "CHORD",
+        "clue": "Group of musical notes sounded together",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
         "number": 9
       },
       {
-        "answer": "HARP",
-        "clue": "A large instrument with strings plucked by hand",
-        "row": 5,
-        "col": 10,
+        "answer": "SCALE",
+        "clue": "Sequence of notes arranged in ascending or descending pitch",
+        "row": 3,
+        "col": 5,
         "direction": "down",
         "number": 6
       },
       {
-        "answer": "BEAT",
-        "clue": "The steady pulse of a piece of music",
-        "row": 0,
-        "col": 3,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "BASS",
-        "clue": "The lowest male singing voice",
-        "row": 0,
-        "col": 3,
+        "answer": "SCORE",
+        "clue": "Written music showing the notes to be played",
+        "row": 7,
+        "col": 1,
         "direction": "across",
-        "number": 1
+        "number": 11
       },
       {
-        "answer": "HORN",
-        "clue": "A trumpet is one type of this instrument",
+        "answer": "SHEET",
+        "clue": "A piece of printed music is often called ___ music",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "REST",
+        "clue": "A period of silence indicated in written music",
         "row": 6,
-        "col": 8,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "DUET",
-        "clue": "A performance by two singers",
-        "row": 9,
-        "col": 2,
+        "col": 7,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "DRUM",
-        "clue": "An instrument played by striking it",
+        "answer": "HAND",
+        "clue": "Body part whose fingers press the piano keys",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "NOTE",
+        "clue": "A single musical tone or the written symbol for it",
         "row": 4,
-        "col": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "DUO",
+        "clue": "Two performers playing together, such as a piano ___",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "LID",
+        "clue": "Hinged top cover of a grand piano",
+        "row": 3,
+        "col": 0,
         "direction": "across",
         "number": 4
+      },
+      {
+        "answer": "KEY",
+        "clue": "One of the black or white levers a pianist presses",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues stay close to the keyboard: what the player touches, what is inside an acoustic piano, and a few familiar patterns of notes. No printed notation or performance is required. When a clue describes a mechanical part, it refers to an acoustic piano rather than every digital keyboard.",
+      "solvingTip": "Separate the object from the action it produces. A key is pressed by a finger, while a hammer strikes a string inside an acoustic piano. A clue about several notes together points to a pattern rather than a single piano part.",
+      "answerNotes": [
+        {
+          "answer": "OCTAVE",
+          "text": "Moving from one C to the next C reaches an octave. The interval can begin on any note; C is used as a familiar example rather than as a special requirement."
+        },
+        {
+          "answer": "HAMMER",
+          "text": "In an acoustic piano, pressing a key sets a hammer in motion toward the strings. The finger does not strike the strings directly, which distinguishes the key from the hammer."
+        },
+        {
+          "answer": "CHORD",
+          "text": "A chord brings notes together, while a scale arranges notes in a sequence. The words 'together' and 'ascending or descending' help distinguish the clues."
+        }
+      ]
+    }
   },
   {
     "id": "by-the-sea-2",
@@ -5207,110 +5259,124 @@
   },
   {
     "id": "music-memories-3",
-    "title": "Music & Memories \u2014 No. 3",
+    "title": "Songs & Singing",
     "theme": "Classic Pastimes",
-    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "subtheme": "Voices & Song Parts",
+    "series": "music-memories",
+    "description": "Hum along in your imagination while solving simple clues about voices, song sections, and singing alone or together.",
+    "cardDescription": "Voices, song sections, and the words we sing together.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 12,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "DANCE",
-        "clue": "Move your feet to music",
-        "row": 4,
-        "col": 3,
+        "answer": "REFRAIN",
+        "clue": "A recurring line or phrase in a song",
+        "row": 5,
+        "col": 2,
         "direction": "across",
-        "number": 6
+        "number": 8
       },
       {
-        "answer": "FLUTE",
-        "clue": "A woodwind instrument held sideways",
-        "row": 0,
-        "col": 7,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "LYRIC",
-        "clue": "A word of a song is part of its ___",
-        "row": 1,
-        "col": 7,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "RADIO",
-        "clue": "A device for listening to broadcast programs",
+        "answer": "SOPRANO",
+        "clue": "High choral voice part traditionally above alto",
         "row": 2,
-        "col": 3,
+        "col": 2,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "NOTE",
-        "clue": "A single musical sound",
+        "answer": "BREATH",
+        "clue": "Air taken in before singing a phrase",
         "row": 4,
         "col": 5,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "BELL",
-        "clue": "A ringing instrument often found in a tower",
-        "row": 7,
-        "col": 4,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "SOLO",
-        "clue": "A performance by one person",
-        "row": 6,
-        "col": 0,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "BASS",
-        "clue": "The lowest male singing voice",
-        "row": 7,
-        "col": 4,
+        "answer": "UNISON",
+        "clue": "Singing the same notes together, rather than different harmony parts",
+        "row": 0,
+        "col": 8,
         "direction": "down",
-        "number": 9
+        "number": 2
       },
       {
-        "answer": "HORN",
-        "clue": "A trumpet is one type of this instrument",
+        "answer": "VOICE",
+        "clue": "The sound a person produces when speaking or singing",
         "row": 2,
-        "col": 1,
+        "col": 6,
         "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TENOR",
+        "clue": "Choral voice part traditionally below alto and above bass",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
         "number": 3
       },
       {
-        "answer": "SONG",
-        "clue": "A piece of music meant to be sung",
-        "row": 10,
+        "answer": "CHOIR",
+        "clue": "An organized group of singers",
+        "row": 9,
         "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SOLO",
+        "clue": "A musical performance by one person",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "ALTO",
+        "clue": "Choral voice part traditionally below soprano and above tenor",
+        "row": 7,
+        "col": 5,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "SING",
-        "clue": "Make music with your voice",
-        "row": 6,
+        "answer": "SONG",
+        "clue": "A piece of music written to be sung",
+        "row": 7,
         "col": 0,
-        "direction": "down",
-        "number": 8
+        "direction": "across",
+        "number": 9
       },
       {
-        "answer": "TUNE",
-        "clue": "A melody you might hum",
-        "row": 3,
+        "answer": "HUM",
+        "clue": "Sing a tune with closed lips and no words",
+        "row": 0,
         "col": 7,
         "direction": "across",
-        "number": 5
+        "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle uses the vocabulary of singing without asking you to quote lyrics or identify a recording. Some answers name parts of a song; others describe a voice or a group of performers. The clues explain which meaning is intended when a word can have several uses.",
+      "solvingTip": "Count the performers when a clue describes a group: one, two, or three can point to different short words. For song sections, look for whether the words change or a section returns. Those details are more useful than guessing from length alone.",
+      "answerNotes": [
+        {
+          "answer": "REFRAIN",
+          "text": "A refrain can be a recurring line or phrase. Chorus often names a larger recurring section, although everyday use of the terms can overlap."
+        },
+        {
+          "answer": "UNISON",
+          "text": "In unison, singers follow the same notes together. Harmony involves different pitches sounding together, which is why the clue contrasts the two ideas."
+        },
+        {
+          "answer": "ALTO",
+          "text": "Alto names a voice part in a common choral arrangement. The clue describes its position relative to soprano and tenor rather than assigning it to a particular person."
+        }
+      ]
+    }
   },
   {
     "id": "by-the-sea-3",
@@ -7463,110 +7529,124 @@
   },
   {
     "id": "music-memories-4",
-    "title": "Music & Memories \u2014 No. 4",
+    "title": "Rhythm & Dance",
     "theme": "Classic Pastimes",
-    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "subtheme": "Dance Steps & Timing",
+    "series": "music-memories",
+    "description": "Think of familiar dance steps and a steady musical pulse as you solve a gentle crossword about rhythm and social dancing.",
+    "cardDescription": "Familiar dances and the musical pulse that keeps them moving.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 11,
+    "revision": 2,
+    "rows": 9,
+    "cols": 9,
     "entries": [
       {
-        "answer": "VIOLIN",
-        "clue": "A small four-string instrument played with a bow",
-        "row": 5,
+        "answer": "FOXTROT",
+        "clue": "Smooth ballroom dance whose name ends with trot",
+        "row": 4,
         "col": 1,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "DANCE",
-        "clue": "Move your feet to music",
-        "row": 3,
-        "col": 6,
+        "answer": "WALTZ",
+        "clue": "Ballroom dance usually counted in groups of three beats",
+        "row": 1,
+        "col": 4,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "FLUTE",
-        "clue": "A woodwind instrument held sideways",
-        "row": 7,
-        "col": 2,
+        "answer": "RUMBA",
+        "clue": "Ballroom dance with Cuban roots whose name begins with R",
+        "row": 2,
+        "col": 0,
         "direction": "across",
-        "number": 9
+        "number": 5
       },
       {
-        "answer": "CHOIR",
-        "clue": "A group of singers",
-        "row": 6,
-        "col": 6,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "NOTE",
-        "clue": "A single musical sound",
-        "row": 5,
-        "col": 8,
+        "answer": "TWIST",
+        "clue": "Dance popularized by Chubby Checker in the early 1960s",
+        "row": 4,
+        "col": 7,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "SOLO",
-        "clue": "A performance by one person",
-        "row": 2,
-        "col": 3,
+        "answer": "FLOOR",
+        "clue": "The surface on which dancers take their steps",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "TANGO",
+        "clue": "Ballroom dance strongly associated with Argentina",
+        "row": 0,
+        "col": 6,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "TUNE",
-        "clue": "A melody you might hum",
-        "row": 7,
+        "answer": "STEP",
+        "clue": "One movement of a dancer's foot",
+        "row": 0,
         "col": 5,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "BAND",
-        "clue": "A group of musicians playing together",
-        "row": 9,
-        "col": 3,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "BASS",
-        "clue": "The lowest male singing voice",
-        "row": 2,
-        "col": 0,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "HORN",
-        "clue": "A trumpet is one type of this instrument",
-        "row": 4,
-        "col": 10,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "DRUM",
-        "clue": "An instrument played by striking it",
-        "row": 3,
-        "col": 6,
+        "answer": "SPIN",
+        "clue": "Turn the body around on the dance floor",
+        "row": 6,
+        "col": 5,
         "direction": "across",
-        "number": 4
+        "number": 8
       },
       {
         "answer": "BEAT",
-        "clue": "The steady pulse of a piece of music",
+        "clue": "The regular pulse felt in a piece of music",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TURN",
+        "clue": "A change of direction in a dance",
         "row": 0,
-        "col": 1,
+        "col": 0,
         "direction": "down",
         "number": 1
+      },
+      {
+        "answer": "TAP",
+        "clue": "Dance style named for the sound of metal plates on shoes",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers mix familiar dance names with words for timing and movement. The puzzle does not require you to hear an audio clip or perform a step. Country, time signature, or a partial name gives an extra clue when several dances might otherwise seem possible.",
+      "solvingTip": "A dance name and a timing word can have the same number of letters. Notice whether the clue describes a particular dance, its speed, or a single movement. Start with a familiar name, then use crossings to fill the shorter timing terms.",
+      "answerNotes": [
+        {
+          "answer": "FOXTROT",
+          "text": "Foxtrot is a smooth ballroom dance. The partial-name clue supplies 'trot' to make a longer answer approachable even if you have never learned the steps."
+        },
+        {
+          "answer": "WALTZ",
+          "text": "The familiar ballroom waltz is counted in three beats to a measure. The clue uses the usual dance pattern, not a claim that every composition called a waltz follows the same rules."
+        },
+        {
+          "answer": "TWIST",
+          "text": "The clue asks for the dance associated with Chubby Checker's early-1960s recordings. It does not ask for the singer's name or any lyrics."
+        }
+      ]
+    }
   },
   {
     "id": "by-the-sea-4",
@@ -9759,102 +9839,124 @@
   },
   {
     "id": "music-memories-5",
-    "title": "Music & Memories \u2014 No. 5",
+    "title": "Meet the Orchestra",
     "theme": "Classic Pastimes",
-    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "subtheme": "Orchestral Instruments",
+    "series": "music-memories",
+    "description": "Meet familiar orchestral instruments through direct clues about their shapes, sounds, and the ways musicians play them.",
+    "cardDescription": "Strings, brass, woodwinds, and the parts that help them sound.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 9,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "VIOLIN",
-        "clue": "A small four-string instrument played with a bow",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "PIANO",
-        "clue": "A keyboard instrument with black and white keys",
-        "row": 5,
-        "col": 7,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "CHOIR",
-        "clue": "A group of singers",
-        "row": 3,
-        "col": 4,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "RADIO",
-        "clue": "A device for listening to broadcast programs",
-        "row": 9,
-        "col": 3,
+        "answer": "TROMBONE",
+        "clue": "Brass instrument whose common form uses a long sliding section",
+        "row": 4,
+        "col": 0,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "LYRIC",
-        "clue": "A word of a song is part of its ___",
-        "row": 3,
-        "col": 0,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "DUET",
-        "clue": "A performance by two singers",
-        "row": 9,
+        "answer": "PICCOLO",
+        "clue": "Small relative of the flute that usually sounds an octave higher",
+        "row": 0,
         "col": 5,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "NOTE",
-        "clue": "A single musical sound",
-        "row": 11,
-        "col": 2,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "DRUM",
-        "clue": "An instrument played by striking it",
-        "row": 2,
-        "col": 2,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "BELL",
-        "clue": "A ringing instrument often found in a tower",
+        "answer": "TRUMPET",
+        "clue": "High brass instrument often played with three valves",
         "row": 0,
-        "col": 0,
-        "direction": "down",
+        "col": 1,
+        "direction": "across",
         "number": 1
       },
       {
-        "answer": "TUNE",
-        "clue": "A melody you might hum",
-        "row": 12,
+        "answer": "BASSOON",
+        "clue": "Large, low-pitched woodwind played with a double reed",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "VIOLA",
+        "clue": "Bowed string instrument larger than a violin and tuned a fifth lower",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "FLUTE",
+        "clue": "Woodwind instrument commonly held sideways and played without a reed",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CELLO",
+        "clue": "Bowed string instrument played upright between the seated musician's knees",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BASS",
+        "clue": "Double ___: the large, low-pitched orchestral string instrument",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "OBOE",
+        "clue": "Slender orchestral woodwind played with a double reed",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "REED",
+        "clue": "Thin vibrating blade used in instruments such as a clarinet",
+        "row": 9,
         "col": 5,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "BAND",
-        "clue": "A group of musicians playing together",
-        "row": 0,
-        "col": 0,
-        "direction": "across",
-        "number": 1
+        "answer": "HORN",
+        "clue": "French ___: a coiled brass instrument with a wide bell",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle names instruments and a few of their playing parts. Clues distinguish an instrument from the bow, reed, or other part used with it. Common instrument names are used instead of composers, concert dates, or specialist repertoire.",
+      "solvingTip": "Look for how the sound is made. A clue about plucked strings points somewhere different from one about a reed or a brass bell. A partial name such as 'double ___' can provide a foothold among the longer instrument names.",
+      "answerNotes": [
+        {
+          "answer": "TROMBONE",
+          "text": "The familiar slide trombone changes the length of its tubing with a sliding section. Valve trombones also exist, so the clue describes the common slide form rather than every trombone."
+        },
+        {
+          "answer": "VIOLA",
+          "text": "The viola resembles a violin but is larger and tuned lower. The size and tuning details help distinguish two similar-looking bowed instruments."
+        },
+        {
+          "answer": "BASS",
+          "text": "Double bass is the name of a large orchestral string instrument. Bass can also describe a low voice or register, but the partial instrument name fixes the intended meaning."
+        }
+      ]
+    }
   },
   {
     "id": "by-the-sea-5",

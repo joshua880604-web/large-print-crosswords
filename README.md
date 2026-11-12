@@ -29,8 +29,8 @@ npm run test:e2e
 ## Collection and content
 
 - 100 independently playable themed mini crosswords across 20 series.
-- 1,247 clues; direct American English definitions.
-- Each series contains five puzzles with different boards and answer selections. The gardening and bird series now have ten separately edited subjects, distinct introductions, solving tips, and three answer explanations each; their boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
+- 1,246 clues; direct American English definitions.
+- Each series contains five puzzles with different boards and answer selections. The gardening, bird, and music series now have fifteen separately edited subjects, distinct introductions, solving tips, and three answer explanations each; their boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected layouts, up to 13 × 13; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
 - Original word banks and definitions are in `scripts/generate-puzzles.py` and `scripts/word-banks.json`. Run `python3 scripts/generate-puzzles.py` to reproduce `src/data/puzzles.json` (standard library only), then build. This replaces the generated JSON; review changes before accepting them. The shared layout builder is `scripts/crossword_grid.py`. The generator reapplies the series listed in `src/data/editorial-series.json` through `scripts/refine_editorial.py`, so existing edited editions survive regeneration. Run `python3 scripts/refine_editorial.py` to update edited series only. `scripts/refine_gardening.py` remains a gardening-only compatibility entry point.
@@ -45,7 +45,7 @@ Keyboard/touch entry, arrow-key movement, direction switching at crossings, word
 
 PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 100 playable pages and primary site pages.
 
-Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. Ten noindex `/crosswords/<id>/previous/` pages retain the original gardening and bird boards; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
+Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. Fifteen noindex `/crosswords/<id>/previous/` pages retain the original gardening, bird, and music boards; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
@@ -73,13 +73,14 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review batches
 
-Ten current puzzles have been edited into distinct subjects. The gardening URLs contain Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, and Starting from Seeds. The bird URLs contain Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, and Birds by the Water. All use stable IDs and separate edition-2 progress keys.
+Fifteen current puzzles have been edited into distinct subjects. The gardening URLs contain Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, and Starting from Seeds. The bird URLs contain Songbird Neighbors, At the Bird Feeder, Wings in Motion, Nests and New Beginnings, and Birds by the Water. The music URLs contain Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance, and Meet the Orchestra. All use stable IDs and separate edition-2 progress keys.
 
 | Series | Original entries / distinct clue pairs | Current entries / distinct clue pairs |
 | --- | --- | --- |
 | Gardening | 58 / 21 | 58 / 58 |
 | Birds | 67 / 21 | 55 / 55 |
+| Music | 58 / 21 | 57 / 57 |
 
-The current collection has 1,247 clue entries. Ninety current puzzles still await this editorial treatment; the report keeps their repetition signals visible. `npm run audit:content` checks for identical complete clue sets and validates each edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and remaining numbered titles. These are review signals, not Google thresholds; warnings do not automatically change indexing. Run `npm run audit:content -- --write` to refresh `docs/content-audit.md` and the JSON report. Production builds run the audit without changing tracked reports.
+The current collection has 1,246 clue entries. Eighty-five current puzzles still await this editorial treatment; the report keeps their repetition signals visible. `npm run audit:content` checks for identical complete clue sets and validates each edited series registered in `src/data/editorial-series.json`. It reports exact-clue overlap, answer-set overlap, reused introductions, and remaining numbered titles. The report also lists clues that directly spell out their answer, and edited editions must pass that check. These are review signals, not Google thresholds; warnings do not automatically change indexing. Run `npm run audit:content -- --write` to refresh `docs/content-audit.md` and the JSON report. Production builds run the audit without changing tracked reports.
 
 The series manifest supplies fixed seeds, source filenames, and archive filenames. An existing series keeps its seed, layout settings, and word order when a new series is added. This prevents previously published edited puzzles from changing silently. Legacy archive files in `src/data/archives/` are immutable snapshots; do not regenerate or overwrite them with current layouts. Build-time archive routing and validation use the same manifest. Archive pages are excluded from the sitemap and marked noindex. Use a new revision whenever changing an existing grid so saved letters cannot be applied to a different puzzle.

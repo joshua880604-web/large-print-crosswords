@@ -17,5 +17,16 @@
     "attempts": 8000,
     "gridSize": 11,
     "minEntries": 10
+  },
+  {
+    "id": "music-memories",
+    "name": "Music",
+    "theme": "Classic Pastimes",
+    "source": "music-editorial.json",
+    "archive": "music-originals.json",
+    "seed": 1710000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
   }
 ]

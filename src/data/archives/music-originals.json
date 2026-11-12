@@ -1,0 +1,521 @@
+[
+  {
+    "id": "music-memories",
+    "title": "Music & Memories",
+    "theme": "Classic Pastimes",
+    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "VIOLIN",
+        "clue": "A small four-string instrument played with a bow",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "FLUTE",
+        "clue": "A woodwind instrument held sideways",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DANCE",
+        "clue": "Move your feet to music",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RADIO",
+        "clue": "A device for listening to broadcast programs",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LYRIC",
+        "clue": "A word of a song is part of its ___",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CHOIR",
+        "clue": "A group of singers",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "NOTE",
+        "clue": "A single musical sound",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "HARP",
+        "clue": "A large instrument with strings plucked by hand",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DRUM",
+        "clue": "An instrument played by striking it",
+        "row": 4,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BELL",
+        "clue": "A ringing instrument often found in a tower",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TUNE",
+        "clue": "A melody you might hum",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "music-memories-2",
+    "title": "Music & Memories \u2014 No. 2",
+    "theme": "Classic Pastimes",
+    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "VIOLIN",
+        "clue": "A small four-string instrument played with a bow",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "FLUTE",
+        "clue": "A woodwind instrument held sideways",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DANCE",
+        "clue": "Move your feet to music",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "LYRIC",
+        "clue": "A word of a song is part of its ___",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "WALTZ",
+        "clue": "A ballroom dance in three-quarter time",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CHOIR",
+        "clue": "A group of singers",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "HARP",
+        "clue": "A large instrument with strings plucked by hand",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BEAT",
+        "clue": "The steady pulse of a piece of music",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BASS",
+        "clue": "The lowest male singing voice",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "HORN",
+        "clue": "A trumpet is one type of this instrument",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DUET",
+        "clue": "A performance by two singers",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "DRUM",
+        "clue": "An instrument played by striking it",
+        "row": 4,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "music-memories-3",
+    "title": "Music & Memories \u2014 No. 3",
+    "theme": "Classic Pastimes",
+    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "DANCE",
+        "clue": "Move your feet to music",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "FLUTE",
+        "clue": "A woodwind instrument held sideways",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "LYRIC",
+        "clue": "A word of a song is part of its ___",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "RADIO",
+        "clue": "A device for listening to broadcast programs",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "NOTE",
+        "clue": "A single musical sound",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "BELL",
+        "clue": "A ringing instrument often found in a tower",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SOLO",
+        "clue": "A performance by one person",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BASS",
+        "clue": "The lowest male singing voice",
+        "row": 7,
+        "col": 4,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "HORN",
+        "clue": "A trumpet is one type of this instrument",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SONG",
+        "clue": "A piece of music meant to be sung",
+        "row": 10,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SING",
+        "clue": "Make music with your voice",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TUNE",
+        "clue": "A melody you might hum",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      }
+    ]
+  },
+  {
+    "id": "music-memories-4",
+    "title": "Music & Memories \u2014 No. 4",
+    "theme": "Classic Pastimes",
+    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "VIOLIN",
+        "clue": "A small four-string instrument played with a bow",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DANCE",
+        "clue": "Move your feet to music",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "FLUTE",
+        "clue": "A woodwind instrument held sideways",
+        "row": 7,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CHOIR",
+        "clue": "A group of singers",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "NOTE",
+        "clue": "A single musical sound",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SOLO",
+        "clue": "A performance by one person",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TUNE",
+        "clue": "A melody you might hum",
+        "row": 7,
+        "col": 5,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "BAND",
+        "clue": "A group of musicians playing together",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "BASS",
+        "clue": "The lowest male singing voice",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "HORN",
+        "clue": "A trumpet is one type of this instrument",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DRUM",
+        "clue": "An instrument played by striking it",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BEAT",
+        "clue": "The steady pulse of a piece of music",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "music-memories-5",
+    "title": "Music & Memories \u2014 No. 5",
+    "theme": "Classic Pastimes",
+    "description": "Tap your toes to a familiar tune. No music knowledge needed beyond the everyday.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "VIOLIN",
+        "clue": "A small four-string instrument played with a bow",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PIANO",
+        "clue": "A keyboard instrument with black and white keys",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CHOIR",
+        "clue": "A group of singers",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RADIO",
+        "clue": "A device for listening to broadcast programs",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LYRIC",
+        "clue": "A word of a song is part of its ___",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DUET",
+        "clue": "A performance by two singers",
+        "row": 9,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "NOTE",
+        "clue": "A single musical sound",
+        "row": 11,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DRUM",
+        "clue": "An instrument played by striking it",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BELL",
+        "clue": "A ringing instrument often found in a tower",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TUNE",
+        "clue": "A melody you might hum",
+        "row": 12,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BAND",
+        "clue": "A group of musicians playing together",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      }
+    ]
+  }
+]

@@ -49,3 +49,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 23 Playwright tests passed. Tests cover both families' saved-game isolation, all ten note sections, all ten noindex archives, and lookup using the renamed series' original name.
 - All five changed bird print sheets exported as single US Letter pages in Chromium. Reader notes visually inspected. Total static HTML output is 319 pages; canonical sitemap coverage stays at 108 URLs.
 - Live Cloudflare deployment status, actual mobile keyboards and physical printers were not verified by these local checks. No target-user or professional editorial review is claimed.
+
+## Music editorial batch — 2026-11-12
+
+- Changed only the five current music-memories puzzles. All other 95 current puzzle objects, including the gardening and bird editions, remain identical to the previous release.
+- Subjects: Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance, and Meet the Orchestra. Each has 11–12 clues in a board no larger than 11 × 11, distinct topic/solving text, and three answer explanations. No knowledge of copyrighted lyrics or recording dates is required.
+- Music series: 58 entries / 21 distinct answer-clue pairs before; 57 entries / 57 distinct pairs after. Collection remains 100 current puzzles, now with 1,246 entries, 539 distinct answer-clue pairs, 32 distinct introductions and 15 edited editions. Eighty-five puzzles remain in the editorial queue.
+- Preserved the five original music layouts and added them to the existing manifest. Full generation reproduced all 100 current puzzles exactly and left all 15 original archives unchanged.
+- Added a content-audit check for clues that directly include their own answer as a whole word; edited editions fail that check. No such clues remain in the current collection. This check does not evaluate all forms of ambiguity or factual accuracy.
+- Build, content/SEO audits, TypeScript and 24 Playwright tests passed, including saved-game isolation for all three edited families, all fifteen note sections/archive routes, and query-string metadata handling with an ampersand in a real current puzzle title.
+- All five new music print sheets exported as a single US Letter page in Chromium; the piano reader notes were visually inspected. Total static HTML output is 324 pages, with 108 canonical sitemap URLs.
+- These are local build/browser results. Cloudflare completion, target-user difficulty, physical printing and professional editorial review are not established by these checks.

@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1247,
-    "distinctAnswers": 440,
-    "distinctAnswerCluePairs": 503,
-    "distinctIntroductions": 28,
-    "numberedTitles": 72,
-    "editedEditions": 10
+    "clueEntries": 1246,
+    "distinctAnswers": 470,
+    "distinctAnswerCluePairs": 539,
+    "distinctIntroductions": 32,
+    "numberedTitles": 68,
+    "editedEditions": 15
   },
   "refinedSeries": [
     {
@@ -69,8 +69,39 @@
         "Nests and New Beginnings",
         "Birds by the Water"
       ]
+    },
+    {
+      "id": "music-memories",
+      "name": "Music",
+      "before": {
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "music-memories",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Radio & Records",
+        "At the Piano",
+        "Songs & Singing",
+        "Rhythm & Dance",
+        "Meet the Orchestra"
+      ]
     }
   ],
+  "selfAnswerClues": [],
   "repeatedIntroductions": [
     {
       "pages": 5,
@@ -110,16 +141,6 @@
         "movie-night-3",
         "movie-night-4",
         "movie-night-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "music-memories",
-        "music-memories-2",
-        "music-memories-3",
-        "music-memories-4",
-        "music-memories-5"
       ]
     },
     {
@@ -357,13 +378,6 @@
   ],
   "highestOverlapPairs": [
     {
-      "first": "music-memories",
-      "second": "music-memories-5",
-      "sharedClues": 8,
-      "jaccard": 0.571,
-      "sameSeries": true
-    },
-    {
       "first": "a-day-at-the-farm",
       "second": "a-day-at-the-farm-3",
       "sharedClues": 9,
@@ -495,25 +509,16 @@
       "sharedClues": 9,
       "jaccard": 0.529,
       "sameSeries": true
+    },
+    {
+      "first": "market-morning-2",
+      "second": "market-morning-4",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "music-memories",
-      "second": "music-memories-5",
-      "sharedAnswers": [
-        "VIOLIN",
-        "RADIO",
-        "LYRIC",
-        "CHOIR",
-        "NOTE",
-        "DRUM",
-        "BELL",
-        "TUNE"
-      ],
-      "jaccard": 0.571,
-      "sameSeries": true
-    },
     {
       "first": "a-day-at-the-farm",
       "second": "a-day-at-the-farm-3",
@@ -834,6 +839,23 @@
       ],
       "jaccard": 0.529,
       "sameSeries": true
+    },
+    {
+      "first": "market-morning-2",
+      "second": "market-morning-4",
+      "sharedAnswers": [
+        "CHEESE",
+        "CARROT",
+        "PEACH",
+        "LEMON",
+        "MELON",
+        "BEAN",
+        "MILK",
+        "PEAS",
+        "BAG"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
     }
   ],
   "series": [
@@ -912,14 +934,14 @@
     {
       "id": "music-memories",
       "puzzles": 5,
-      "entries": 58,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.571,
-      "highestAnswerJaccard": 0.571
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "by-the-sea",

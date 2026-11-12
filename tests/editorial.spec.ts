@@ -2,8 +2,9 @@ import {test,expect} from '@playwright/test';
 import puzzles from '../src/data/puzzles.json' with {type:'json'};
 import gardeningOriginals from '../src/data/archives/gardening-originals.json' with {type:'json'};
 import birdOriginals from '../src/data/archives/birds-originals.json' with {type:'json'};
+import musicOriginals from '../src/data/archives/music-originals.json' with {type:'json'};
 import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
-const originals=[...gardeningOriginals,...birdOriginals];
+const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
 
