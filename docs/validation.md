@@ -27,3 +27,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - TypeScript checks and 18 Playwright tests passed, including query-string canonical handling, escaped text consistency, image serving, print noindex, and the actual 404 response, plus gameplay/accessibility regressions.
 - User reports Search Console ownership verified, with sitemap submission still pending. No Google account action or indexing request was performed by the agent.
 - Live-domain HTTP/TLS/redirect verification remains blocked by the current environment's unchanged outbound allowlist. All automated results above refer to the generated build or its local preview, not an externally verified deployment.
+
+## Gardening editorial pilot — 2026-11-12
+
+- Changed exactly five current gardening puzzles; the other 95 layouts and clues remain unchanged. Stable current URLs retained.
+- Five original grids preserved byte-for-byte in the legacy archive and verified by the same structural checks. Revisioned progress keys and a previous-edition link allow saved original games to remain playable without contaminating new grids.
+- Five new subjects use boards no larger than 11 × 11, with 11–12 clues each, individual introductions/tips, and three explanations tied to actual answers. No professional or target-user review is claimed.
+- Gardening: 58 entries / 21 distinct answer-clue pairs before; 58 entries / 58 distinct pairs after. All five intros differ. Collection remains 100 current puzzles / 1,259 entries; current distinct answer-clue pairs rise from 433 to 469.
+- Committed content-overlap report generated. It explicitly retains the other 95 puzzles' review signals; no automatic noindex changes made to current puzzles.
+- Full collection regeneration reproduced the inspected JSON exactly and left the legacy archive unchanged.
+- Build, content audit, SEO audit, TypeScript and 22 Playwright tests passed, including print-grid proportion checks, old/new saved-progress isolation, all five note sections, and noindex legacy routes. Total static output is now 314 HTML pages; the canonical sitemap still has 108 URLs.
+- After correcting print-grid proportions and footer spacing without reducing clue text size, all 100 current print sheets exported as single US Letter pages in Chromium. Physical printing and target-user difficulty still need real-world feedback.

@@ -20,6 +20,7 @@ npm run preview -- --port 4321
 npm test
 npm run typecheck
 npm run audit:seo
+npm run audit:content
 npm run test:e2e
 ```
 
@@ -29,10 +30,10 @@ npm run test:e2e
 
 - 100 independently playable themed mini crosswords across 20 subjects.
 - 1,259 clues; direct American English definitions.
-- Each series contains five puzzles with different boards and answer selections. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
+- Each series contains five puzzles with different boards and answer selections. The gardening pilot now has five separately edited subjects, distinct introductions, solving tips, and three answer explanations each; its boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected layouts, up to 13 × 13; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
-- Original word banks and definitions are in `scripts/generate-puzzles.py` and `scripts/word-banks.json`. Run `python3 scripts/generate-puzzles.py` to reproduce `src/data/puzzles.json` (standard library only), then build. This replaces the generated JSON; review changes before accepting them.
+- Original word banks and definitions are in `scripts/generate-puzzles.py` and `scripts/word-banks.json`. Run `python3 scripts/generate-puzzles.py` to reproduce `src/data/puzzles.json` (standard library only), then build. This replaces the generated JSON; review changes before accepting them. The shared layout builder is `scripts/crossword_grid.py`. The generator reapplies `scripts/gardening-editorial.json` through `scripts/refine_gardening.py`, so the five edited editions survive regeneration. Run `python3 scripts/refine_gardening.py` to update only those five.
 - Automatic validation checks matching crossings, no unclued contiguous runs, connected words, numbering, size, unique boards, and answer-set variation.
 - Content has not been tested with target users or independently edited by a professional crossword editor. No medical benefit or search ranking is promised.
 
@@ -44,7 +45,7 @@ Keyboard/touch entry, arrow-key movement, direction switching at crossings, word
 
 PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 100 playable pages and primary site pages.
 
-Local storage keys use `lpc:v1:<puzzle-id>`, `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
+Original editions use `lpc:v1:<puzzle-id>` for progress. Refreshed editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. Five noindex `/crosswords/<id>/previous/` pages retain the original gardening boards; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
@@ -69,3 +70,11 @@ Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD
 `public/social-card.png` is a committed 1200 × 630 share image. It is served locally and referenced by Open Graph and Twitter Card metadata. To regenerate it, run `npm run social:generate` with a supported local Chromium installation; image generation is not part of the Cloudflare build.
 
 See `docs/search-console.md` for the user's verified-property sitemap submission and launch checks. No Google account actions or indexing requests have been performed by this code.
+
+## Content review pilot
+
+The five original gardening URLs now contain Garden Tools, Spring Flowers, The Vegetable Patch, Backyard Wildlife, and Starting from Seeds. Only these five current puzzles changed; the other 95 keep their layouts and clues. The gardening pilot has 58 clue entries with 58 distinct answer/clue pairs, compared with 58 entries drawn from 21 pairs before editing. The current collection still has 1,259 clue entries in total.
+
+`npm run audit:content` checks for identical complete clue sets and verifies the gardening pilot's subject and note requirements. It also reports exact-clue overlap, reused introductions, and remaining numbered titles. These are editorial review signals, not Google thresholds; warnings do not automatically change indexing. Run `npm run audit:content -- --write` to refresh the committed `docs/content-audit.md` and JSON report. The production build runs the audit without writing tracked reports.
+
+The five original layouts are archived in `src/data/archives/gardening-originals.json`; do not regenerate or replace this archive with the revised layouts. Archive pages are excluded from the sitemap and marked noindex. Keep stable puzzle IDs and use a new revision when changing an existing grid so saved letters cannot be silently applied to a different puzzle.

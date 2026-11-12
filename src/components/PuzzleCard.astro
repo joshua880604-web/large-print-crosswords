@@ -2,4 +2,4 @@
 import MiniGrid from './MiniGrid.astro';
 const {puzzle,index=0}=Astro.props;
 ---
-<a class={`puzzle-card tone-${index%4}`} href={`/crosswords/${puzzle.id}/`}><div class="card-art"><span class="pill">{puzzle.theme}</span><MiniGrid puzzle={puzzle}/><span class="card-arrow" aria-hidden="true">→</span></div><div class="card-body"><div class="card-meta">EASY <span>•</span> {puzzle.rows} × {puzzle.cols}</div><h3>{puzzle.title}</h3><p>{puzzle.entries.length} familiar clues. A little moment for you.</p><span class="card-link">Play or print <span aria-hidden="true">→</span></span></div></a>
+<a class={`puzzle-card tone-${index%4}`} href={`/crosswords/${puzzle.id}/`}><div class="card-art"><span class="pill">{puzzle.subtheme||puzzle.theme}</span><MiniGrid puzzle={puzzle}/><span class="card-arrow" aria-hidden="true">→</span></div><div class="card-body"><div class="card-meta">EASY <span>•</span> {puzzle.rows} × {puzzle.cols}</div><h3>{puzzle.title}</h3><p>{puzzle.cardDescription||`${puzzle.entries.length} familiar clues. A little moment for you.`}</p><span class="card-link">Play or print <span aria-hidden="true">→</span></span></div></a>

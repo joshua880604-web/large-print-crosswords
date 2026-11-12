@@ -5,13 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev --host 0.0.0.0",
-    "build": "node scripts/validate-puzzles.mjs && ASTRO_TELEMETRY_DISABLED=1 astro build && node scripts/audit-seo.mjs",
+    "build": "node scripts/validate-puzzles.mjs && node scripts/audit-content.mjs && ASTRO_TELEMETRY_DISABLED=1 astro build && node scripts/audit-seo.mjs",
     "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview --host 0.0.0.0",
     "test": "node scripts/validate-puzzles.mjs",
     "test:e2e": "playwright test",
     "typecheck": "tsc --noEmit",
     "audit:seo": "node scripts/audit-seo.mjs",
-    "social:generate": "node scripts/generate-social-card.mjs"
+    "social:generate": "node scripts/generate-social-card.mjs",
+    "audit:content": "node scripts/audit-content.mjs"
   },
   "dependencies": {
     "astro": "^5.16.0"

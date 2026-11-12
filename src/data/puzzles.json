@@ -1,102 +1,124 @@
 [
   {
     "id": "garden-days",
-    "title": "Garden Days",
+    "title": "Garden Tools",
     "theme": "Gardening",
-    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "subtheme": "Tools & Supplies",
+    "series": "garden-days",
+    "description": "Picture the familiar jobs of digging, watering, and supporting plants as you work through this easy garden-tool crossword.",
+    "cardDescription": "Hand tools and everyday helpers for tending a garden.",
     "difficulty": "Easy",
-    "rows": 9,
-    "cols": 11,
+    "revision": 2,
+    "rows": 11,
+    "cols": 9,
     "entries": [
       {
-        "answer": "BLOOM",
-        "clue": "A flower on a plant",
-        "row": 3,
-        "col": 4,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "HERB",
-        "clue": "A plant grown to flavor food",
-        "row": 0,
-        "col": 4,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "SEED",
-        "clue": "A tiny beginning for a new plant",
-        "row": 1,
-        "col": 2,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "SHED",
-        "clue": "A small building for garden tools",
-        "row": 1,
-        "col": 2,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "ROSE",
-        "clue": "A fragrant flower with thorns",
-        "row": 2,
-        "col": 6,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "MOSS",
-        "clue": "A soft green plant that grows in damp places",
-        "row": 3,
-        "col": 8,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "HOSE",
-        "clue": "A flexible tube used to water a garden",
+        "answer": "SHOVEL",
+        "clue": "Tool with a broad scoop for moving loose soil",
         "row": 5,
         "col": 3,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "STEM",
-        "clue": "The stalk that holds up a flower",
+        "answer": "HANDLE",
+        "clue": "The part of a garden tool held in the hand",
         "row": 5,
-        "col": 5,
+        "col": 4,
         "direction": "down",
         "number": 8
       },
       {
-        "answer": "RAKE",
-        "clue": "Tool used to gather fallen leaves",
+        "answer": "GLOVES",
+        "clue": "Protective coverings worn on the hands",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SHEARS",
+        "clue": "Two-bladed tool used to trim a hedge",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "APRON",
+        "clue": "Protective garment tied over clothes while working",
         "row": 7,
-        "col": 2,
+        "col": 0,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "BEE",
-        "clue": "A buzzing insect that visits flowers",
-        "row": 3,
+        "answer": "BRUSH",
+        "clue": "Bristled tool for cleaning dirt from garden equipment",
+        "row": 0,
         "col": 0,
         "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SPADE",
+        "clue": "Digging tool with a flat, rectangular blade",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "STAKE",
+        "clue": "A pointed post used to support a growing plant",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
         "number": 4
       },
       {
-        "answer": "SUN",
-        "clue": "Our closest star, which helps plants grow",
-        "row": 6,
-        "col": 8,
+        "answer": "WHEEL",
+        "clue": "Round part that lets a garden cart roll",
+        "row": 2,
+        "col": 0,
         "direction": "across",
-        "number": 9
+        "number": 5
+      },
+      {
+        "answer": "HOSE",
+        "clue": "Flexible tube that carries water to a garden",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CAN",
+        "clue": "A watering ___ has a handle and a spout",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 6
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle stays in the tool shed: digging, carrying, watering, and keeping plants supported. The answers name tools and supplies rather than flowers or vegetables, so each clue gives you a specific garden job to picture.",
+      "solvingTip": "Look for the job in the clue. A tool for lifting soil is different from one for gathering leaves. At a crossing, check both words before changing a letter that already fits.",
+      "answerNotes": [
+        {
+          "answer": "SPADE",
+          "text": "A spade is typically associated with a flat blade and straight cutting edge. A shovel generally has a more scooped blade, although everyday names for the two can overlap."
+        },
+        {
+          "answer": "STAKE",
+          "text": "A stake is a support post, not the string used to fasten a plant to it. The clue asks for the post itself."
+        },
+        {
+          "answer": "CAN",
+          "text": "A watering can is a portable container with a spout. The fill-in-the-blank clue supplies 'watering' so the short answer is the container's name."
+        }
+      ]
+    }
   },
   {
     "id": "sunday-baking",
@@ -2205,102 +2227,132 @@
   },
   {
     "id": "garden-days-2",
-    "title": "Garden Days \u2014 No. 2",
+    "title": "Spring Flowers",
     "theme": "Gardening",
-    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "subtheme": "Spring Blooms",
+    "series": "garden-days",
+    "description": "Take a stroll past tulips, daffodils, and other familiar blooms in this gentle spring-flower crossword.",
+    "cardDescription": "Recognizable spring flowers and the parts of a bloom.",
     "difficulty": "Easy",
-    "rows": 10,
-    "cols": 9,
+    "revision": 2,
+    "rows": 11,
+    "cols": 11,
     "entries": [
       {
-        "answer": "BLOOM",
-        "clue": "A flower on a plant",
+        "answer": "DAFFODIL",
+        "clue": "Spring flower with a trumpet-shaped center, often yellow",
         "row": 6,
-        "col": 4,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "LAWN",
-        "clue": "An area of neatly cut grass",
-        "row": 6,
-        "col": 5,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "ROOT",
-        "clue": "Part of a plant that grows underground",
-        "row": 5,
-        "col": 7,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "BULB",
-        "clue": "An underground plant part from which a tulip grows",
-        "row": 3,
-        "col": 4,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "SOIL",
-        "clue": "Earth in which plants grow",
-        "row": 5,
-        "col": 1,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "STEM",
-        "clue": "The stalk that holds up a flower",
-        "row": 5,
-        "col": 1,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "SEED",
-        "clue": "A tiny beginning for a new plant",
-        "row": 7,
-        "col": 0,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "HERB",
-        "clue": "A plant grown to flavor food",
-        "row": 3,
-        "col": 1,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "ROSE",
-        "clue": "A fragrant flower with thorns",
-        "row": 0,
         "col": 2,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "VINE",
-        "clue": "A plant with long climbing stems",
-        "row": 9,
-        "col": 3,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "POT",
-        "clue": "Container for a houseplant",
+        "answer": "PRIMROSE",
+        "clue": "Early-blooming flower whose name ends in 'rose'",
         "row": 1,
-        "col": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "AZALEA",
+        "clue": "Flowering shrub related to the rhododendron",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "VIOLET",
+        "clue": "Small flower whose name is also a shade of purple",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "TULIP",
+        "clue": "Spring flower with a cup-shaped bloom, often grown from a bulb",
+        "row": 1,
+        "col": 2,
         "direction": "across",
         "number": 2
+      },
+      {
+        "answer": "WHITE",
+        "clue": "The color of snow and many daffodil petals",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PETAL",
+        "clue": "One of the colored parts surrounding a flower's center",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "BLOOM",
+        "clue": "Another word for an open flower",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "LILAC",
+        "clue": "Shrub known for fragrant clusters of purple or white flowers",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "STEM",
+        "clue": "Stalk that supports a flower",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "IRIS",
+        "clue": "Flower with bearded varieties and a name shared with part of the eye",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BULB",
+        "clue": "Underground storage structure from which a tulip grows",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 4
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues focus on recognizable garden flowers and the visible parts of a bloom. They use common names rather than Latin plant names. Flowering dates vary with climate, so seasonal clues refer to familiar patterns rather than a fixed month.",
+      "solvingTip": "Start with a flower name you recognize. Short answers about flower parts can help you cross into a longer name. If two flowers seem possible, use the number of squares and the crossing letters together.",
+      "answerNotes": [
+        {
+          "answer": "DAFFODIL",
+          "text": "The central trumpet is a useful visual clue for a daffodil. Its surrounding petal-like parts make the bloom easy to recognize even when the color is not yellow."
+        },
+        {
+          "answer": "PETAL",
+          "text": "Petals are the colored parts around the center of many flowers. The clue asks for one part, so the answer is singular."
+        },
+        {
+          "answer": "LILAC",
+          "text": "Lilac commonly names both a flowering shrub and a pale purple color. In this puzzle, the clue describes the fragrant shrub."
+        }
+      ]
+    }
   },
   {
     "id": "sunday-baking-2",
@@ -4449,102 +4501,124 @@
   },
   {
     "id": "garden-days-3",
-    "title": "Garden Days \u2014 No. 3",
+    "title": "The Vegetable Patch",
     "theme": "Gardening",
-    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "subtheme": "Vegetable Gardening",
+    "series": "garden-days",
+    "description": "Explore familiar kitchen-garden crops, from crisp roots to leafy greens, with clear clues about what each plant produces.",
+    "cardDescription": "Everyday crops you might grow in a kitchen garden.",
     "difficulty": "Easy",
-    "rows": 10,
-    "cols": 12,
+    "revision": 2,
+    "rows": 11,
+    "cols": 9,
     "entries": [
       {
-        "answer": "GARDEN",
-        "clue": "A place to grow flowers or vegetables",
-        "row": 4,
-        "col": 2,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "WATER",
-        "clue": "What a thirsty plant needs",
-        "row": 3,
-        "col": 3,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "LAWN",
-        "clue": "An area of neatly cut grass",
-        "row": 1,
-        "col": 7,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "ROOT",
-        "clue": "Part of a plant that grows underground",
-        "row": 7,
-        "col": 3,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "SEED",
-        "clue": "A tiny beginning for a new plant",
-        "row": 1,
-        "col": 5,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "WEED",
-        "clue": "An unwanted plant in a flower bed",
-        "row": 3,
-        "col": 7,
+        "answer": "LETTUCE",
+        "clue": "Leafy vegetable often used as the base of a green salad",
+        "row": 5,
+        "col": 1,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "VINE",
-        "clue": "A plant with long climbing stems",
-        "row": 6,
+        "answer": "SPINACH",
+        "clue": "Leafy green famously eaten by the cartoon sailor Popeye",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TURNIP",
+        "clue": "Round root vegetable often white below and purple near the top",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CARROT",
+        "clue": "Orange root vegetable often eaten raw or cooked",
+        "row": 7,
         "col": 0,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "HOSE",
-        "clue": "A flexible tube used to water a garden",
-        "row": 0,
-        "col": 9,
-        "direction": "down",
-        "number": 2
+        "answer": "POTATO",
+        "clue": "Starchy underground tuber often baked or mashed",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 11
       },
       {
-        "answer": "SHED",
-        "clue": "A small building for garden tools",
+        "answer": "RADISH",
+        "clue": "Small, peppery root vegetable often red outside and white inside",
         "row": 0,
-        "col": 8,
+        "col": 2,
         "direction": "across",
         "number": 1
       },
       {
-        "answer": "STEM",
-        "clue": "The stalk that holds up a flower",
-        "row": 6,
-        "col": 6,
+        "answer": "ONION",
+        "clue": "Layered vegetable that can make your eyes water when cut",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "KALE",
+        "clue": "Leafy green often sold with curly leaves",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BEAN",
+        "clue": "Kidney or pinto, for example",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "BEET",
+        "clue": "Root vegetable often deep red, and also available in golden varieties",
+        "row": 7,
+        "col": 7,
         "direction": "down",
         "number": 9
       },
       {
-        "answer": "SUN",
-        "clue": "Our closest star, which helps plants grow",
-        "row": 6,
+        "answer": "PEA",
+        "clue": "Small round green vegetable found in a pod",
+        "row": 8,
         "col": 6,
         "direction": "across",
-        "number": 9
+        "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle follows the edible harvest: roots, leaves, pods, and familiar salad ingredients. The clues distinguish the part we eat and use everyday American food names. There are no growing-zone numbers or specialist gardening abbreviations to decode.",
+      "solvingTip": "Notice whether the clue describes a root, leaf, or pod. That small detail can separate several vegetables with similar lengths. A clue for one vegetable takes a singular answer unless it explicitly asks for more than one.",
+      "answerNotes": [
+        {
+          "answer": "POTATO",
+          "text": "A potato is a tuber, an enlarged underground stem. Carrots and radishes are roots; the different plant parts give the clues more precise meanings."
+        },
+        {
+          "answer": "BEET",
+          "text": "Beets are often red, but some varieties are golden. The clue allows both while still pointing to the familiar root vegetable."
+        },
+        {
+          "answer": "PEA",
+          "text": "The word 'small' describes the vegetable, not the length of a plural answer. This clue asks for one pea, which fits three squares."
+        }
+      ]
+    }
   },
   {
     "id": "sunday-baking-3",
@@ -6669,110 +6743,132 @@
   },
   {
     "id": "garden-days-4",
-    "title": "Garden Days \u2014 No. 4",
+    "title": "Backyard Wildlife",
     "theme": "Gardening",
-    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "subtheme": "Garden Visitors",
+    "series": "garden-days",
+    "description": "Meet the birds, insects, and other small animals you might notice while spending a quiet moment in the yard.",
+    "cardDescription": "Birds, pollinators, and other small backyard visitors.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 10,
+    "revision": 2,
+    "rows": 11,
+    "cols": 11,
     "entries": [
       {
-        "answer": "SOIL",
-        "clue": "Earth in which plants grow",
-        "row": 6,
-        "col": 1,
+        "answer": "BUTTERFLY",
+        "clue": "Insect that begins as a caterpillar and later has broad, colorful wings",
+        "row": 5,
+        "col": 0,
         "direction": "across",
-        "number": 5
+        "number": 6
       },
       {
-        "answer": "MOSS",
-        "clue": "A soft green plant that grows in damp places",
+        "answer": "SQUIRREL",
+        "clue": "Bushy-tailed animal often seen gathering acorns",
         "row": 3,
         "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "LADYBUG",
+        "clue": "Small, often red-and-black beetle known for eating aphids",
+        "row": 2,
+        "col": 8,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "LAWN",
-        "clue": "An area of neatly cut grass",
-        "row": 6,
-        "col": 4,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "WEED",
-        "clue": "An unwanted plant in a flower bed",
-        "row": 8,
-        "col": 4,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "HERB",
-        "clue": "A plant grown to flavor food",
-        "row": 7,
-        "col": 6,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "BULB",
-        "clue": "An underground plant part from which a tulip grows",
-        "row": 10,
-        "col": 6,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "CLAY",
-        "clue": "Heavy, sticky soil used to make pots",
-        "row": 9,
-        "col": 8,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "ROSE",
-        "clue": "A fragrant flower with thorns",
-        "row": 4,
-        "col": 0,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "RAKE",
-        "clue": "Tool used to gather fallen leaves",
-        "row": 1,
-        "col": 3,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "ROOT",
-        "clue": "Part of a plant that grows underground",
-        "row": 1,
-        "col": 3,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "POT",
-        "clue": "Container for a houseplant",
+        "answer": "SPIDER",
+        "clue": "Eight-legged animal that may spin a web",
         "row": 0,
         "col": 5,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "SUN",
-        "clue": "Our closest star, which helps plants grow",
+        "answer": "BEETLE",
+        "clue": "Insect with hard front wings covering its flying wings",
         "row": 9,
-        "col": 2,
+        "col": 0,
         "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SNAIL",
+        "clue": "Slow-moving animal that carries a coiled shell",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "WREN",
+        "clue": "Small songbird whose name sounds like 'ren'",
+        "row": 7,
+        "col": 5,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "NEST",
+        "clue": "Structure a bird builds to hold its eggs",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MOTH",
+        "clue": "Winged insect often drawn to porch lights at night",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
         "number": 9
+      },
+      {
+        "answer": "BEE",
+        "clue": "Honey-making insect that carries pollen between flowers",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ANT",
+        "clue": "Small insect often seen walking in a line toward food",
+        "row": 3,
+        "col": 8,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "WEB",
+        "clue": "Silken structure a spider spins",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 7
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks beyond the plants to the living things around them. Some clues describe an animal's body or movement; others name something it builds. The collection includes pollinators, birds, and occasional nibblers rather than treating every visitor as a pest.",
+      "solvingTip": "Look for the distinguishing detail: honey, a shell, a web, or a long pair of ears. A clue about something an animal builds asks for the object, not the animal that made it.",
+      "answerNotes": [
+        {
+          "answer": "LADYBUG",
+          "text": "Ladybug is the familiar American name for this beetle; ladybird is common in British English. Many ladybugs feed on aphids, making them welcome garden visitors."
+        },
+        {
+          "answer": "SPIDER",
+          "text": "Spiders have eight legs and are arachnids, not insects. Insects such as ants and bees have six legs, a distinction that makes this clue specific."
+        },
+        {
+          "answer": "SNAIL",
+          "text": "The coiled shell helps distinguish a snail from a slug. Both can turn up among garden plants."
+        }
+      ]
+    }
   },
   {
     "id": "sunday-baking-4",
@@ -8945,118 +9041,132 @@
   },
   {
     "id": "garden-days-5",
-    "title": "Garden Days \u2014 No. 5",
+    "title": "Starting from Seeds",
     "theme": "Gardening",
-    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "subtheme": "Seed Starting",
+    "series": "garden-days",
+    "description": "Follow a seed's beginning, from choosing a pot and adding water to spotting the first shoot, in this easy growing-themed puzzle.",
+    "cardDescription": "The small steps from a seed packet to a young plant.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 9,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "GARDEN",
-        "clue": "A place to grow flowers or vegetables",
-        "row": 6,
-        "col": 3,
+        "answer": "COMPOST",
+        "clue": "Decayed organic material often added to garden soil",
+        "row": 4,
+        "col": 2,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "SHED",
-        "clue": "A small building for garden tools",
-        "row": 3,
-        "col": 6,
+        "answer": "WARMTH",
+        "clue": "Gentle heat that many seeds need to begin growing",
+        "row": 1,
+        "col": 4,
         "direction": "down",
-        "number": 5
+        "number": 3
       },
       {
-        "answer": "MOSS",
-        "clue": "A soft green plant that grows in damp places",
-        "row": 3,
-        "col": 3,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "RAKE",
-        "clue": "Tool used to gather fallen leaves",
-        "row": 6,
-        "col": 5,
+        "answer": "SPROUT",
+        "clue": "Begin to grow, as a seed does",
+        "row": 4,
+        "col": 7,
         "direction": "down",
         "number": 8
       },
       {
-        "answer": "ROSE",
-        "clue": "A fragrant flower with thorns",
-        "row": 9,
-        "col": 2,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "LAWN",
-        "clue": "An area of neatly cut grass",
-        "row": 3,
-        "col": 8,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "STEM",
-        "clue": "The stalk that holds up a flower",
+        "answer": "SHOOT",
+        "clue": "Young upward-growing part of a plant",
         "row": 0,
-        "col": 3,
+        "col": 8,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "HERB",
-        "clue": "A plant grown to flavor food",
-        "row": 7,
-        "col": 2,
-        "direction": "down",
+        "answer": "DEPTH",
+        "clue": "How far below the surface a seed is planted",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
         "number": 9
       },
       {
-        "answer": "SEED",
-        "clue": "A tiny beginning for a new plant",
+        "answer": "WATER",
+        "clue": "Liquid used to moisten a seed's growing medium",
         "row": 9,
-        "col": 4,
-        "direction": "down",
+        "col": 5,
+        "direction": "across",
         "number": 12
       },
       {
-        "answer": "ROOT",
-        "clue": "Part of a plant that grows underground",
-        "row": 1,
+        "answer": "SEED",
+        "clue": "Small plant structure sown to grow a new plant",
+        "row": 3,
         "col": 0,
-        "direction": "across",
-        "number": 3
+        "direction": "down",
+        "number": 6
       },
       {
-        "answer": "WEED",
-        "clue": "An unwanted plant in a flower bed",
-        "row": 12,
-        "col": 1,
+        "answer": "THIN",
+        "clue": "Remove extra seedlings so the remaining ones have room",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SOIL",
+        "clue": "Earth in which a young plant can take root",
+        "row": 2,
+        "col": 7,
         "direction": "across",
-        "number": 13
+        "number": 5
+      },
+      {
+        "answer": "TRAY",
+        "clue": "Flat container that can hold several small seed pots",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Plant part that takes up water from below the soil",
+        "row": 6,
+        "col": 7,
+        "direction": "across",
+        "number": 11
       },
       {
         "answer": "POT",
-        "clue": "Container for a houseplant",
+        "clue": "Plant container commonly made of clay or plastic",
         "row": 0,
-        "col": 1,
+        "col": 2,
         "direction": "down",
         "number": 1
-      },
-      {
-        "answer": "BEE",
-        "clue": "A buzzing insect that visits flowers",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers follow the early stages of growing a plant: containers, moisture, planting depth, and new growth. The clues explain their context directly. This is a vocabulary puzzle, not a planting calendar; the right conditions depend on the seed being grown.",
+      "solvingTip": "Think about what happens above and below the soil. A root grows downward, while a shoot develops upward. Action clues such as 'Plant seeds in soil' call for a verb rather than the name of a tool.",
+      "answerNotes": [
+        {
+          "answer": "DEPTH",
+          "text": "Planting depth describes how far below the surface a seed is placed. Seed packets give different recommendations, so there is no single depth for every crop."
+        },
+        {
+          "answer": "THIN",
+          "text": "In gardening, thin can be a verb meaning to remove some seedlings so others have more room. It does not refer to the shape of a seedling here."
+        },
+        {
+          "answer": "ROOT",
+          "text": "A root takes up water and anchors the plant. A shoot is the young upward-growing part, so the direction described in a clue helps you choose between them."
+        }
+      ]
+    }
   },
   {
     "id": "sunday-baking-5",

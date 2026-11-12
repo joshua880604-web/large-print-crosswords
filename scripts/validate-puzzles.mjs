@@ -3,8 +3,9 @@ import assert from 'node:assert/strict';
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
 assert.equal(puzzles.length,100,'Collection must contain 100 puzzles');
 assert.equal(new Set(puzzles.map(p=>p.id)).size,100,'Unique slugs');
+const originals=JSON.parse(readFileSync(new URL('../src/data/archives/gardening-originals.json',import.meta.url),'utf8'));
 const grids=new Set();let clueCount=0;
-for(const p of puzzles){
+for(const p of [...puzzles,...originals]){
  const map=new Map(),members=new Map(),starts=new Map(),entrySignatures=new Set();
  assert.ok(p.entries.length>=8,`${p.id}: at least eight clues`);
  assert.ok(p.rows<=13&&p.cols<=13,`${p.id}: maximum board size`);
@@ -20,11 +21,20 @@ for(const p of puzzles){
  const seen=new Set([p.entries[0]]),queue=[p.entries[0]];
  while(queue.length){const e=queue.shift();for(const group of members.values()){if(group.includes(e))for(const other of group)if(!seen.has(other)){seen.add(other);queue.push(other);}}}
  assert.equal(seen.size,p.entries.length,`${p.id}: disconnected grid`);
- const fingerprint=JSON.stringify([...map].sort());assert.ok(!grids.has(fingerprint),`${p.id}: duplicate board`);grids.add(fingerprint);clueCount+=p.entries.length;
+ const fingerprint=JSON.stringify([...map].sort());assert.ok(!grids.has(fingerprint),`${p.id}: duplicate board`);grids.add(fingerprint);if(puzzles.includes(p))clueCount+=p.entries.length;
+ if(p.editorial){
+  assert.ok(p.revision>=2&&p.subtheme&&p.cardDescription,'Edited puzzles need a distinct edition and subject');
+  assert.ok(p.rows<=11&&p.cols<=11&&p.entries.length<=12,'Edited gardening puzzles keep a compact, readable board');
+  assert.ok(p.editorial.focus&&p.editorial.solvingTip);
+  assert.equal(p.editorial.answerNotes.length,3);
+  assert.equal(new Set(p.editorial.answerNotes.map(n=>n.answer)).size,3);
+  for(const note of p.editorial.answerNotes){assert.ok(p.entries.some(e=>e.answer===note.answer),'Notes must describe actual answers');assert.ok(note.text.trim().length>20);}
+ }
 }
 // Within a five-puzzle series, require meaningful differences in the answer sets.
 for(let i=0;i<puzzles.length;i++)for(let j=i+1;j<puzzles.length;j++){
  const a=puzzles[i],b=puzzles[j];if(a.id.replace(/-\d+$/,'')!==b.id.replace(/-\d+$/,''))continue;
  const as=new Set(a.entries.map(e=>e.answer)),bs=new Set(b.entries.map(e=>e.answer));const overlap=[...as].filter(x=>bs.has(x)).length;assert.ok(as.size-overlap>=3&&bs.size-overlap>=3,'Series needs at least three different answers each');assert.ok(overlap/(as.size+bs.size-overlap)<=.60,'Series overlap threshold');
 }
-console.log(`PASS: ${puzzles.length} unique, connected puzzles; ${clueCount} clues; matching crossings, complete clues, valid numbering, bounds, and series variation.`);
+for(const old of originals){const current=puzzles.find(p=>p.id===old.id);assert.ok(current?.revision>=2,'Every archived layout has a current edition');assert.ok(!old.revision,'Originals retain their legacy progress key');}
+console.log(`PASS: ${puzzles.length} unique, connected puzzles; ${clueCount} clues; matching crossings, complete clues, valid numbering, bounds, and series variation; ${originals.length} preserved legacy layouts validated.`);

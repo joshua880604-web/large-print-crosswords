@@ -1,0 +1,1049 @@
+{
+  "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
+  "collection": {
+    "puzzles": 100,
+    "clueEntries": 1259,
+    "distinctAnswers": 410,
+    "distinctAnswerCluePairs": 469,
+    "distinctIntroductions": 24,
+    "numberedTitles": 76,
+    "editedEditions": 5
+  },
+  "gardeningBefore": {
+    "entries": 58,
+    "distinctAnswers": 21,
+    "distinctAnswerCluePairs": 21,
+    "distinctIntroductions": 1
+  },
+  "gardeningAfter": {
+    "id": "garden-days",
+    "puzzles": 5,
+    "entries": 58,
+    "uniqueAnswers": 58,
+    "uniqueCluePairs": 58,
+    "uniqueIntroductions": 5,
+    "numberedTitles": 0,
+    "editedEditions": 5,
+    "highestExactClueJaccard": 0,
+    "highestAnswerJaccard": 0
+  },
+  "repeatedIntroductions": [
+    {
+      "pages": 5,
+      "puzzles": [
+        "sunday-baking",
+        "sunday-baking-2",
+        "sunday-baking-3",
+        "sunday-baking-4",
+        "sunday-baking-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "backyard-birds",
+        "backyard-birds-2",
+        "backyard-birds-3",
+        "backyard-birds-4",
+        "backyard-birds-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "a-cup-of-comfort",
+        "a-cup-of-comfort-2",
+        "a-cup-of-comfort-3",
+        "a-cup-of-comfort-4",
+        "a-cup-of-comfort-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "on-the-road",
+        "on-the-road-2",
+        "on-the-road-3",
+        "on-the-road-4",
+        "on-the-road-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "movie-night",
+        "movie-night-2",
+        "movie-night-3",
+        "movie-night-4",
+        "movie-night-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "music-memories",
+        "music-memories-2",
+        "music-memories-3",
+        "music-memories-4",
+        "music-memories-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "by-the-sea",
+        "by-the-sea-2",
+        "by-the-sea-3",
+        "by-the-sea-4",
+        "by-the-sea-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "cozy-at-home",
+        "cozy-at-home-2",
+        "cozy-at-home-3",
+        "cozy-at-home-4",
+        "cozy-at-home-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "autumn-walk",
+        "autumn-walk-2",
+        "autumn-walk-3",
+        "autumn-walk-4",
+        "autumn-walk-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "holiday-table",
+        "holiday-table-2",
+        "holiday-table-3",
+        "holiday-table-4",
+        "holiday-table-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "a-good-book",
+        "a-good-book-2",
+        "a-good-book-3",
+        "a-good-book-4",
+        "a-good-book-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "our-furry-friends",
+        "our-furry-friends-2",
+        "our-furry-friends-3",
+        "our-furry-friends-4",
+        "our-furry-friends-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "a-stitch-in-time",
+        "a-stitch-in-time-2",
+        "a-stitch-in-time-3",
+        "a-stitch-in-time-4",
+        "a-stitch-in-time-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "weather-watching",
+        "weather-watching-2",
+        "weather-watching-3",
+        "weather-watching-4",
+        "weather-watching-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "market-morning",
+        "market-morning-2",
+        "market-morning-3",
+        "market-morning-4",
+        "market-morning-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "in-the-workshop",
+        "in-the-workshop-2",
+        "in-the-workshop-3",
+        "in-the-workshop-4",
+        "in-the-workshop-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "a-day-at-the-farm",
+        "a-day-at-the-farm-2",
+        "a-day-at-the-farm-3",
+        "a-day-at-the-farm-4",
+        "a-day-at-the-farm-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "game-night",
+        "game-night-2",
+        "game-night-3",
+        "game-night-4",
+        "game-night-5"
+      ]
+    },
+    {
+      "pages": 5,
+      "puzzles": [
+        "flower-favorites",
+        "flower-favorites-2",
+        "flower-favorites-3",
+        "flower-favorites-4",
+        "flower-favorites-5"
+      ]
+    }
+  ],
+  "repeatedClues": [
+    {
+      "answer": "APPLE",
+      "clue": "A fruit often picked in an orchard",
+      "occurrences": 5
+    },
+    {
+      "answer": "CLOCK",
+      "clue": "An object that tells the time",
+      "occurrences": 5
+    },
+    {
+      "answer": "CLOSET",
+      "clue": "A small space for storing clothes",
+      "occurrences": 5
+    },
+    {
+      "answer": "DEW",
+      "clue": "Drops of water that form on grass overnight",
+      "occurrences": 5
+    },
+    {
+      "answer": "FEEDER",
+      "clue": "A container that holds food for visiting birds",
+      "occurrences": 5
+    },
+    {
+      "answer": "FIELD",
+      "clue": "An open area of land used for crops",
+      "occurrences": 5
+    },
+    {
+      "answer": "HORSE",
+      "clue": "A large animal used for riding",
+      "occurrences": 5
+    },
+    {
+      "answer": "LACE",
+      "clue": "A delicate fabric with an open pattern",
+      "occurrences": 5
+    },
+    {
+      "answer": "LAKE",
+      "clue": "A large body of water surrounded by land",
+      "occurrences": 5
+    },
+    {
+      "answer": "LAMB",
+      "clue": "A young sheep",
+      "occurrences": 5
+    },
+    {
+      "answer": "LIBRARY",
+      "clue": "A place where books can be borrowed",
+      "occurrences": 5
+    },
+    {
+      "answer": "MILE",
+      "clue": "A US distance equal to 5,280 feet",
+      "occurrences": 5
+    },
+    {
+      "answer": "MILK",
+      "clue": "A dairy drink sold by the gallon",
+      "occurrences": 5
+    },
+    {
+      "answer": "NEST",
+      "clue": "A home built by birds",
+      "occurrences": 5
+    },
+    {
+      "answer": "PETAL",
+      "clue": "One of the colored parts surrounding a flower's center",
+      "occurrences": 5
+    },
+    {
+      "answer": "SCENE",
+      "clue": "One part of a play or movie",
+      "occurrences": 5
+    },
+    {
+      "answer": "SEED",
+      "clue": "A small plant beginning that can be sown",
+      "occurrences": 5
+    },
+    {
+      "answer": "STEM",
+      "clue": "The stalk supporting a flower",
+      "occurrences": 5
+    },
+    {
+      "answer": "THANKS",
+      "clue": "An expression of gratitude",
+      "occurrences": 5
+    },
+    {
+      "answer": "THIMBLE",
+      "clue": "A small finger guard used when sewing",
+      "occurrences": 5
+    }
+  ],
+  "highestOverlapPairs": [
+    {
+      "first": "backyard-birds-2",
+      "second": "backyard-birds-5",
+      "sharedClues": 10,
+      "jaccard": 0.588,
+      "sameSeries": true
+    },
+    {
+      "first": "music-memories",
+      "second": "music-memories-5",
+      "sharedClues": 8,
+      "jaccard": 0.571,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm",
+      "second": "a-day-at-the-farm-3",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm",
+      "second": "a-day-at-the-farm-5",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "a-stitch-in-time",
+      "second": "a-stitch-in-time-2",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "cozy-at-home",
+      "second": "cozy-at-home-5",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites",
+      "second": "flower-favorites-3",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "market-morning",
+      "second": "market-morning-2",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "on-the-road",
+      "second": "on-the-road-5",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "sunday-baking",
+      "second": "sunday-baking-2",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "sunday-baking-2",
+      "second": "sunday-baking-3",
+      "sharedClues": 9,
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "backyard-birds-3",
+      "second": "backyard-birds-4",
+      "sharedClues": 10,
+      "jaccard": 0.556,
+      "sameSeries": true
+    },
+    {
+      "first": "our-furry-friends",
+      "second": "our-furry-friends-2",
+      "sharedClues": 8,
+      "jaccard": 0.533,
+      "sameSeries": true
+    },
+    {
+      "first": "our-furry-friends-2",
+      "second": "our-furry-friends-3",
+      "sharedClues": 8,
+      "jaccard": 0.533,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-3",
+      "second": "a-cup-of-comfort-5",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm",
+      "second": "a-day-at-the-farm-4",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book",
+      "second": "a-good-book-3",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book-3",
+      "second": "a-good-book-4",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-stitch-in-time",
+      "second": "a-stitch-in-time-5",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "backyard-birds",
+      "second": "backyard-birds-2",
+      "sharedClues": 9,
+      "jaccard": 0.529,
+      "sameSeries": true
+    }
+  ],
+  "highestAnswerOverlapPairs": [
+    {
+      "first": "backyard-birds-2",
+      "second": "backyard-birds-5",
+      "sharedAnswers": [
+        "FEEDER",
+        "HERON",
+        "RAVEN",
+        "WREN",
+        "NEST",
+        "CROW",
+        "SWAN",
+        "WING",
+        "OWL",
+        "EGG"
+      ],
+      "jaccard": 0.588,
+      "sameSeries": true
+    },
+    {
+      "first": "music-memories",
+      "second": "music-memories-5",
+      "sharedAnswers": [
+        "VIOLIN",
+        "RADIO",
+        "LYRIC",
+        "CHOIR",
+        "NOTE",
+        "DRUM",
+        "BELL",
+        "TUNE"
+      ],
+      "jaccard": 0.571,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm",
+      "second": "a-day-at-the-farm-3",
+      "sharedAnswers": [
+        "FENCE",
+        "HORSE",
+        "FIELD",
+        "SHEEP",
+        "LAMB",
+        "SILO",
+        "WOOL",
+        "COW",
+        "HEN"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm",
+      "second": "a-day-at-the-farm-5",
+      "sharedAnswers": [
+        "FENCE",
+        "HORSE",
+        "FIELD",
+        "CHICK",
+        "CALF",
+        "LAMB",
+        "DUCK",
+        "WOOL",
+        "COW"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "a-stitch-in-time",
+      "second": "a-stitch-in-time-2",
+      "sharedAnswers": [
+        "THIMBLE",
+        "ZIPPER",
+        "COTTON",
+        "SKEIN",
+        "PATCH",
+        "YARN",
+        "LACE",
+        "PIN",
+        "HEM"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "cozy-at-home",
+      "second": "cozy-at-home-5",
+      "sharedAnswers": [
+        "PILLOW",
+        "CLOSET",
+        "TOWEL",
+        "FRAME",
+        "CLOCK",
+        "ROOM",
+        "DESK",
+        "BED",
+        "RUG"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "flower-favorites",
+      "second": "flower-favorites-3",
+      "sharedAnswers": [
+        "NECTAR",
+        "VIOLET",
+        "PEONY",
+        "DAISY",
+        "PETAL",
+        "ROSE",
+        "VASE",
+        "STEM",
+        "SEED"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "market-morning",
+      "second": "market-morning-2",
+      "sharedAnswers": [
+        "CHEESE",
+        "PEACH",
+        "BREAD",
+        "MELON",
+        "APPLE",
+        "PEAS",
+        "SALE",
+        "MILK",
+        "BAG"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "on-the-road",
+      "second": "on-the-road-5",
+      "sharedAnswers": [
+        "MOTEL",
+        "BEACH",
+        "TRAIN",
+        "TENT",
+        "RAIL",
+        "MILE",
+        "LAKE",
+        "PARK",
+        "BAG"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "sunday-baking",
+      "second": "sunday-baking-2",
+      "sharedAnswers": [
+        "BUTTER",
+        "DOUGH",
+        "BREAD",
+        "ROLL",
+        "SALT",
+        "CAKE",
+        "TART",
+        "TEA",
+        "EGG"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "sunday-baking-2",
+      "second": "sunday-baking-3",
+      "sharedAnswers": [
+        "BUTTER",
+        "COOKIE",
+        "CREAM",
+        "YEAST",
+        "BREAD",
+        "SALT",
+        "TART",
+        "ROLL",
+        "TEA"
+      ],
+      "jaccard": 0.563,
+      "sameSeries": true
+    },
+    {
+      "first": "backyard-birds-3",
+      "second": "backyard-birds-4",
+      "sharedAnswers": [
+        "FEEDER",
+        "ROBIN",
+        "TALON",
+        "GOOSE",
+        "RAVEN",
+        "DUCK",
+        "BEAK",
+        "NEST",
+        "SEED",
+        "OWL"
+      ],
+      "jaccard": 0.556,
+      "sameSeries": true
+    },
+    {
+      "first": "our-furry-friends",
+      "second": "our-furry-friends-2",
+      "sharedAnswers": [
+        "TREAT",
+        "FETCH",
+        "TAIL",
+        "BOWL",
+        "PURR",
+        "MEOW",
+        "FUR",
+        "DOG"
+      ],
+      "jaccard": 0.533,
+      "sameSeries": true
+    },
+    {
+      "first": "our-furry-friends-2",
+      "second": "our-furry-friends-3",
+      "sharedAnswers": [
+        "COLLAR",
+        "BRUSH",
+        "FETCH",
+        "TAIL",
+        "MEOW",
+        "BOWL",
+        "SIT",
+        "DOG"
+      ],
+      "jaccard": 0.533,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-3",
+      "second": "a-cup-of-comfort-5",
+      "sharedAnswers": [
+        "COFFEE",
+        "KETTLE",
+        "STEAM",
+        "LEMON",
+        "SUGAR",
+        "HONEY",
+        "MILK",
+        "CUP",
+        "SIP"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm",
+      "second": "a-day-at-the-farm-4",
+      "sharedAnswers": [
+        "FENCE",
+        "HORSE",
+        "FIELD",
+        "SHEEP",
+        "CALF",
+        "LAMB",
+        "DUCK",
+        "SILO",
+        "WOOL"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book",
+      "second": "a-good-book-3",
+      "sharedAnswers": [
+        "LIBRARY",
+        "PROSE",
+        "PAPER",
+        "STORY",
+        "NOVEL",
+        "LINE",
+        "PAGE",
+        "READ",
+        "INK"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book-3",
+      "second": "a-good-book-4",
+      "sharedAnswers": [
+        "LIBRARY",
+        "PROSE",
+        "INDEX",
+        "SHELF",
+        "TITLE",
+        "PAGE",
+        "LINE",
+        "READ",
+        "INK"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "a-stitch-in-time",
+      "second": "a-stitch-in-time-5",
+      "sharedAnswers": [
+        "THIMBLE",
+        "STITCH",
+        "COTTON",
+        "PATCH",
+        "CUFF",
+        "KNIT",
+        "LACE",
+        "SILK",
+        "PIN"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    },
+    {
+      "first": "backyard-birds",
+      "second": "backyard-birds-2",
+      "sharedAnswers": [
+        "FEATHER",
+        "FEEDER",
+        "TALON",
+        "WING",
+        "WREN",
+        "NEST",
+        "SWAN",
+        "CROW",
+        "EGG"
+      ],
+      "jaccard": 0.529,
+      "sameSeries": true
+    }
+  ],
+  "series": [
+    {
+      "id": "garden-days",
+      "puzzles": 5,
+      "entries": 58,
+      "uniqueAnswers": 58,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "sunday-baking",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    },
+    {
+      "id": "backyard-birds",
+      "puzzles": 5,
+      "entries": 67,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.588,
+      "highestAnswerJaccard": 0.588
+    },
+    {
+      "id": "a-cup-of-comfort",
+      "puzzles": 5,
+      "entries": 65,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.529,
+      "highestAnswerJaccard": 0.529
+    },
+    {
+      "id": "on-the-road",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    },
+    {
+      "id": "movie-night",
+      "puzzles": 5,
+      "entries": 65,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.529,
+      "highestAnswerJaccard": 0.529
+    },
+    {
+      "id": "music-memories",
+      "puzzles": 5,
+      "entries": 58,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.571,
+      "highestAnswerJaccard": 0.571
+    },
+    {
+      "id": "by-the-sea",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 25,
+      "uniqueCluePairs": 25,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.471,
+      "highestAnswerJaccard": 0.471
+    },
+    {
+      "id": "cozy-at-home",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    },
+    {
+      "id": "autumn-walk",
+      "puzzles": 5,
+      "entries": 62,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.471,
+      "highestAnswerJaccard": 0.471
+    },
+    {
+      "id": "holiday-table",
+      "puzzles": 5,
+      "entries": 63,
+      "uniqueAnswers": 23,
+      "uniqueCluePairs": 23,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.5,
+      "highestAnswerJaccard": 0.5
+    },
+    {
+      "id": "a-good-book",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.529,
+      "highestAnswerJaccard": 0.529
+    },
+    {
+      "id": "our-furry-friends",
+      "puzzles": 5,
+      "entries": 58,
+      "uniqueAnswers": 20,
+      "uniqueCluePairs": 20,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.533,
+      "highestAnswerJaccard": 0.533
+    },
+    {
+      "id": "a-stitch-in-time",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    },
+    {
+      "id": "weather-watching",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.5,
+      "highestAnswerJaccard": 0.5
+    },
+    {
+      "id": "market-morning",
+      "puzzles": 5,
+      "entries": 65,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    },
+    {
+      "id": "in-the-workshop",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.5,
+      "highestAnswerJaccard": 0.5
+    },
+    {
+      "id": "a-day-at-the-farm",
+      "puzzles": 5,
+      "entries": 65,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    },
+    {
+      "id": "game-night",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 21,
+      "uniqueCluePairs": 21,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.5,
+      "highestAnswerJaccard": 0.5
+    },
+    {
+      "id": "flower-favorites",
+      "puzzles": 5,
+      "entries": 64,
+      "uniqueAnswers": 22,
+      "uniqueCluePairs": 22,
+      "uniqueIntroductions": 1,
+      "numberedTitles": 4,
+      "editedEditions": 0,
+      "highestExactClueJaccard": 0.563,
+      "highestAnswerJaccard": 0.563
+    }
+  ]
+}

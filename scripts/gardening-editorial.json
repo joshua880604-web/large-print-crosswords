@@ -1,0 +1,77 @@
+[
+ {
+  "id":"garden-days","title":"Garden Tools","subtheme":"Tools & Supplies","cardDescription":"Hand tools and everyday helpers for tending a garden.",
+  "description":"Picture the familiar jobs of digging, watering, and supporting plants as you work through this easy garden-tool crossword.",
+  "focus":"This puzzle stays in the tool shed: digging, carrying, watering, and keeping plants supported. The answers name tools and supplies rather than flowers or vegetables, so each clue gives you a specific garden job to picture.",
+  "solvingTip":"Look for the job in the clue. A tool for lifting soil is different from one for gathering leaves. At a crossing, check both words before changing a letter that already fits.",
+  "words":[["TROWEL","Small hand tool used to dig holes for young plants"],["RAKE","Long-handled tool with teeth for gathering leaves"],["HOSE","Flexible tube that carries water to a garden"],["SPADE","Digging tool with a flat, rectangular blade"],["SHEARS","Two-bladed tool used to trim a hedge"],["GLOVES","Protective coverings worn on the hands"],["CART","Small wheeled vehicle for carrying garden supplies"],["BUCKET","Round container with a handle for carrying water"],["FORK","A garden digging ___ has several sturdy metal tines"],["SHOVEL","Tool with a broad scoop for moving loose soil"],["APRON","Protective garment tied over clothes while working"],["CAN","A watering ___ has a handle and a spout"],["TWINE","Strong string used to tie plants to supports"],["STAKE","A pointed post used to support a growing plant"],["HANDLE","The part of a garden tool held in the hand"],["SPRAYER","Device that applies liquid as a fine mist"],["WHEEL","Round part that lets a garden cart roll"],["BRUSH","Bristled tool for cleaning dirt from garden equipment"]],
+  "answerNotes":{
+   "TROWEL":"A trowel is sized for one hand and small planting holes. A shovel is larger and suited to moving more soil, which is why the clues distinguish a hand tool from a broad scoop.",
+   "SPADE":"A spade is typically associated with a flat blade and straight cutting edge. A shovel generally has a more scooped blade, although everyday names for the two can overlap.",
+   "TWINE":"Twine is a strong string. Gardeners use it to fasten stems to supports, leaving room for the plant to grow instead of tying a tight knot around the stem.",
+   "FORK":"A garden fork has sturdy tines for working soil. The garden context separates it from the smaller fork used at a dinner table.",
+   "STAKE":"A stake is a support post, not the string used to fasten a plant to it. The clue asks for the post itself.",
+   "CAN":"A watering can is a portable container with a spout. The fill-in-the-blank clue supplies 'watering' so the short answer is the container's name."
+  }
+ },
+ {
+  "id":"garden-days-2","title":"Spring Flowers","subtheme":"Spring Blooms","cardDescription":"Recognizable spring flowers and the parts of a bloom.",
+  "description":"Take a stroll past tulips, daffodils, and other familiar blooms in this gentle spring-flower crossword.",
+  "focus":"The clues focus on recognizable garden flowers and the visible parts of a bloom. They use common names rather than Latin plant names. Flowering dates vary with climate, so seasonal clues refer to familiar patterns rather than a fixed month.",
+  "solvingTip":"Start with a flower name you recognize. Short answers about flower parts can help you cross into a longer name. If two flowers seem possible, use the number of squares and the crossing letters together.",
+  "words":[["TULIP","Spring flower with a cup-shaped bloom, often grown from a bulb"],["DAFFODIL","Spring flower with a trumpet-shaped center, often yellow"],["IRIS","Flower with bearded varieties and a name shared with part of the eye"],["CROCUS","Small, cup-shaped flower often among the first to bloom after winter"],["LILAC","Shrub known for fragrant clusters of purple or white flowers"],["PANSY","Garden flower whose markings can look like a little face"],["PEONY","Garden flower known for large, many-petaled blooms in late spring"],["AZALEA","Flowering shrub related to the rhododendron"],["PETAL","One of the colored parts surrounding a flower's center"],["BLOOM","Another word for an open flower"],["BUD","A flower before it opens"],["BULB","Underground storage structure from which a tulip grows"],["VIOLET","Small flower whose name is also a shade of purple"],["PRIMROSE","Early-blooming flower whose name ends in 'rose'"],["STEM","Stalk that supports a flower"],["PURPLE","The color made by mixing red and blue, seen in many irises"],["PINK","A pale red color seen in many spring flowers"],["WHITE","The color of snow and many daffodil petals"]],
+  "answerNotes":{
+   "DAFFODIL":"The central trumpet is a useful visual clue for a daffodil. Its surrounding petal-like parts make the bloom easy to recognize even when the color is not yellow.",
+   "BULB":"A bulb stores resources underground. Tulips and daffodils grow from bulbs; a bulb is not the same thing as a seed.",
+   "CROCUS":"Crocuses are often associated with the first flowers after winter. They grow from corms, which are underground storage structures distinct from true bulbs.",
+   "BUD":"A bud is an unopened stage of a flower. Bloom can describe an open flower, making these two short answers useful contrasts.",
+   "LILAC":"Lilac commonly names both a flowering shrub and a pale purple color. In this puzzle, the clue describes the fragrant shrub.",
+   "PETAL":"Petals are the colored parts around the center of many flowers. The clue asks for one part, so the answer is singular."
+  }
+ },
+ {
+  "id":"garden-days-3","title":"The Vegetable Patch","subtheme":"Vegetable Gardening","cardDescription":"Everyday crops you might grow in a kitchen garden.",
+  "description":"Explore familiar kitchen-garden crops, from crisp roots to leafy greens, with clear clues about what each plant produces.",
+  "focus":"This puzzle follows the edible harvest: roots, leaves, pods, and familiar salad ingredients. The clues distinguish the part we eat and use everyday American food names. There are no growing-zone numbers or specialist gardening abbreviations to decode.",
+  "solvingTip":"Notice whether the clue describes a root, leaf, or pod. That small detail can separate several vegetables with similar lengths. A clue for one vegetable takes a singular answer unless it explicitly asks for more than one.",
+  "words":[["CARROT","Orange root vegetable often eaten raw or cooked"],["TOMATO","Red salad fruit that grows on a vine"],["PEA","Small round green vegetable found in a pod"],["BEAN","Kidney or pinto, for example"],["LETTUCE","Leafy vegetable often used as the base of a green salad"],["RADISH","Small, peppery root vegetable often red outside and white inside"],["ONION","Layered vegetable that can make your eyes water when cut"],["KALE","Leafy green often sold with curly leaves"],["CORN","Vegetable with kernels growing on a cob"],["BEET","Root vegetable often deep red, and also available in golden varieties"],["SQUASH","Zucchini and butternut are types of this vegetable"],["CABBAGE","Leafy head vegetable often shredded for coleslaw"],["CELERY","Vegetable with crisp stalks often served with peanut butter"],["POTATO","Starchy underground tuber often baked or mashed"],["PEPPER","Bell ___: a hollow vegetable sold in green, red, and other colors"],["SPINACH","Leafy green famously eaten by the cartoon sailor Popeye"],["CUCUMBER","Long green salad vegetable often used to make pickles"],["TURNIP","Round root vegetable often white below and purple near the top"]],
+  "answerNotes":{
+   "TOMATO":"A tomato is botanically a fruit because it develops from a flower and contains seeds. It still belongs in a kitchen-garden puzzle, where it is commonly treated as a vegetable in cooking.",
+   "POTATO":"A potato is a tuber, an enlarged underground stem. Carrots and radishes are roots; the different plant parts give the clues more precise meanings.",
+   "PEA":"The word 'small' describes the vegetable, not the length of a plural answer. This clue asks for one pea, which fits three squares.",
+   "CABBAGE":"Coleslaw is a useful everyday association for cabbage. Lettuce also forms leafy heads, so the serving example helps separate the two.",
+   "SQUASH":"Squash names a group that includes summer types such as zucchini and winter types such as butternut. The clue intentionally names both.",
+   "BEET":"Beets are often red, but some varieties are golden. The clue allows both while still pointing to the familiar root vegetable."
+  }
+ },
+ {
+  "id":"garden-days-4","title":"Backyard Wildlife","subtheme":"Garden Visitors","cardDescription":"Birds, pollinators, and other small backyard visitors.",
+  "description":"Meet the birds, insects, and other small animals you might notice while spending a quiet moment in the yard.",
+  "focus":"This puzzle looks beyond the plants to the living things around them. Some clues describe an animal's body or movement; others name something it builds. The collection includes pollinators, birds, and occasional nibblers rather than treating every visitor as a pest.",
+  "solvingTip":"Look for the distinguishing detail: honey, a shell, a web, or a long pair of ears. A clue about something an animal builds asks for the object, not the animal that made it.",
+  "words":[["ROBIN","Common American songbird with an orange-red breast"],["BEE","Honey-making insect that carries pollen between flowers"],["BUTTERFLY","Insect that begins as a caterpillar and later has broad, colorful wings"],["WORM","Long, legless animal often found wriggling in garden soil"],["TOAD","Squat amphibian often associated with bumpy skin"],["LADYBUG","Small, often red-and-black beetle known for eating aphids"],["SQUIRREL","Bushy-tailed animal often seen gathering acorns"],["RABBIT","Long-eared animal that may nibble garden greens"],["MOTH","Winged insect often drawn to porch lights at night"],["SPIDER","Eight-legged animal that may spin a web"],["ANT","Small insect often seen walking in a line toward food"],["WREN","Small songbird whose name sounds like 'ren'"],["FROG","Jumping amphibian often pictured with smooth skin near a pond"],["SNAIL","Slow-moving animal that carries a coiled shell"],["BEETLE","Insect with hard front wings covering its flying wings"],["NEST","Structure a bird builds to hold its eggs"],["WEB","Silken structure a spider spins"],["FEATHER","One of the light coverings on a bird's body"]],
+  "answerNotes":{
+   "LADYBUG":"Ladybug is the familiar American name for this beetle; ladybird is common in British English. Many ladybugs feed on aphids, making them welcome garden visitors.",
+   "SPIDER":"Spiders have eight legs and are arachnids, not insects. Insects such as ants and bees have six legs, a distinction that makes this clue specific.",
+   "NEST":"The clue describes the structure, so the answer is nest rather than the name of a bird. Not all birds build the same kind of nest.",
+   "BEE":"The honey-making detail distinguishes this answer from other striped insects. Bees also carry pollen as they visit flowers.",
+   "SNAIL":"The coiled shell helps distinguish a snail from a slug. Both can turn up among garden plants.",
+   "WEB":"A web is the structure, while a spider is its maker. Pairing these ideas can help you follow whether a clue asks for an animal or an object."
+  }
+ },
+ {
+  "id":"garden-days-5","title":"Starting from Seeds","subtheme":"Seed Starting","cardDescription":"The small steps from a seed packet to a young plant.",
+  "description":"Follow a seed's beginning, from choosing a pot and adding water to spotting the first shoot, in this easy growing-themed puzzle.",
+  "focus":"The answers follow the early stages of growing a plant: containers, moisture, planting depth, and new growth. The clues explain their context directly. This is a vocabulary puzzle, not a planting calendar; the right conditions depend on the seed being grown.",
+  "solvingTip":"Think about what happens above and below the soil. A root grows downward, while a shoot develops upward. Action clues such as 'Plant seeds in soil' call for a verb rather than the name of a tool.",
+  "words":[["SEED","Small plant structure sown to grow a new plant"],["SOIL","Earth in which a young plant can take root"],["POT","Plant container commonly made of clay or plastic"],["TRAY","Flat container that can hold several small seed pots"],["WATER","Liquid used to moisten a seed's growing medium"],["LIGHT","What a sunny window or a grow lamp provides"],["ROOT","Plant part that takes up water from below the soil"],["SHOOT","Young upward-growing part of a plant"],["SPROUT","Begin to grow, as a seed does"],["LABEL","Marker that identifies what was planted"],["COMPOST","Decayed organic material often added to garden soil"],["DEPTH","How far below the surface a seed is planted"],["DRAIN","Let excess water flow out of a container"],["DAMP","Slightly wet, rather than soaked"],["WARMTH","Gentle heat that many seeds need to begin growing"],["PACKET","Small paper envelope in which seeds are often sold"],["THIN","Remove extra seedlings so the remaining ones have room"],["SOW","Plant seeds in soil"]],
+  "answerNotes":{
+   "ROOT":"A root takes up water and anchors the plant. A shoot is the young upward-growing part, so the direction described in a clue helps you choose between them.",
+   "SOW":"Sow means to plant seeds. It sounds like 'so,' but its spelling is tied to the gardening action described in the clue.",
+   "DAMP":"Damp means slightly wet. It is different from soaked, which is why the clue emphasizes a little moisture rather than standing water.",
+   "THIN":"In gardening, thin can be a verb meaning to remove some seedlings so others have more room. It does not refer to the shape of a seedling here.",
+   "DEPTH":"Planting depth describes how far below the surface a seed is placed. Seed packets give different recommendations, so there is no single depth for every crop.",
+   "LABEL":"A label identifies the contents of a pot or tray. It can record the plant name without relying on remembering where each seed was sown."
+  }
+ }
+]

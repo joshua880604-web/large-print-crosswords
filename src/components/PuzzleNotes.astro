@@ -1,0 +1,4 @@
+---
+const {editorial}=Astro.props;
+---
+<section class="puzzle-notes" aria-labelledby="puzzle-notes-heading"><p class="eyebrow">A LITTLE MORE ABOUT THIS PUZZLE</p><h2 id="puzzle-notes-heading">What to expect</h2><p>{editorial.focus}</p><h3>A solving tip</h3><p>{editorial.solvingTip}</p><details class="answer-explanations"><summary>A closer look at three answers (spoilers)</summary><p class="notes-intro">These notes explain a few of the words and distinctions used in this puzzle.</p><dl>{editorial.answerNotes.map(note=><div><dt>{note.answer}</dt><dd>{note.text}</dd></div>)}</dl></details></section>

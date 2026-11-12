@@ -1,5 +1,5 @@
 type Entry={answer:string;clue:string;row:number;col:number;direction:string;number:number};
-type Puzzle={id:string;entries:Entry[];rows:number;cols:number};
+type Puzzle={id:string;entries:Entry[];rows:number;cols:number;revision?:number};
 
 for (const root of document.querySelectorAll<HTMLElement>('.game-root')) {
  const p:Puzzle=JSON.parse(root.dataset.puzzle!);
@@ -17,7 +17,16 @@ for (const root of document.querySelectorAll<HTMLElement>('.game-root')) {
  const status=root.querySelector<HTMLElement>('.game-status')!;
  const safeGet=(k:string)=>{try{return localStorage.getItem(k)}catch{return null}};
  const safeSet=(k:string,v:string)=>{try{localStorage.setItem(k,v);return true}catch{return false}};
- const storageKey=`lpc:v1:${p.id}`;
+ const legacyKey=`lpc:v1:${p.id}`;
+ const storageKey=p.revision?`${legacyKey}:edition:${p.revision}`:legacyKey;
+ if(p.revision){
+  try {
+   const legacy=JSON.parse(safeGet(legacyKey)||'{}');
+   const hasProgress=legacy&&typeof legacy==='object'&&!Array.isArray(legacy)&&Object.values(legacy).some(value=>typeof value==='string'&&/^[A-Z]$/.test(value));
+   const notice=root.querySelector<HTMLElement>('.previous-progress');
+   if(notice)notice.hidden=!hasProgress;
+  } catch {}
+ }
  let saved:Record<string,string>={};
  try {
   const raw=JSON.parse(safeGet(storageKey)||'{}');

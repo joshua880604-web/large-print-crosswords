@@ -1,0 +1,521 @@
+[
+  {
+    "id": "garden-days",
+    "title": "Garden Days",
+    "theme": "Gardening",
+    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "difficulty": "Easy",
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BLOOM",
+        "clue": "A flower on a plant",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "HERB",
+        "clue": "A plant grown to flavor food",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SEED",
+        "clue": "A tiny beginning for a new plant",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SHED",
+        "clue": "A small building for garden tools",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ROSE",
+        "clue": "A fragrant flower with thorns",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "MOSS",
+        "clue": "A soft green plant that grows in damp places",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HOSE",
+        "clue": "A flexible tube used to water a garden",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "STEM",
+        "clue": "The stalk that holds up a flower",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "RAKE",
+        "clue": "Tool used to gather fallen leaves",
+        "row": 7,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BEE",
+        "clue": "A buzzing insect that visits flowers",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SUN",
+        "clue": "Our closest star, which helps plants grow",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "garden-days-2",
+    "title": "Garden Days \u2014 No. 2",
+    "theme": "Gardening",
+    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "BLOOM",
+        "clue": "A flower on a plant",
+        "row": 6,
+        "col": 4,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LAWN",
+        "clue": "An area of neatly cut grass",
+        "row": 6,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Part of a plant that grows underground",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BULB",
+        "clue": "An underground plant part from which a tulip grows",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SOIL",
+        "clue": "Earth in which plants grow",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "STEM",
+        "clue": "The stalk that holds up a flower",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SEED",
+        "clue": "A tiny beginning for a new plant",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "HERB",
+        "clue": "A plant grown to flavor food",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "ROSE",
+        "clue": "A fragrant flower with thorns",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "VINE",
+        "clue": "A plant with long climbing stems",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "POT",
+        "clue": "Container for a houseplant",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 2
+      }
+    ]
+  },
+  {
+    "id": "garden-days-3",
+    "title": "Garden Days \u2014 No. 3",
+    "theme": "Gardening",
+    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "GARDEN",
+        "clue": "A place to grow flowers or vegetables",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "WATER",
+        "clue": "What a thirsty plant needs",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "LAWN",
+        "clue": "An area of neatly cut grass",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Part of a plant that grows underground",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SEED",
+        "clue": "A tiny beginning for a new plant",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "WEED",
+        "clue": "An unwanted plant in a flower bed",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "VINE",
+        "clue": "A plant with long climbing stems",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "HOSE",
+        "clue": "A flexible tube used to water a garden",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SHED",
+        "clue": "A small building for garden tools",
+        "row": 0,
+        "col": 8,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "STEM",
+        "clue": "The stalk that holds up a flower",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SUN",
+        "clue": "Our closest star, which helps plants grow",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "garden-days-4",
+    "title": "Garden Days \u2014 No. 4",
+    "theme": "Gardening",
+    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "SOIL",
+        "clue": "Earth in which plants grow",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "MOSS",
+        "clue": "A soft green plant that grows in damp places",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LAWN",
+        "clue": "An area of neatly cut grass",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WEED",
+        "clue": "An unwanted plant in a flower bed",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "HERB",
+        "clue": "A plant grown to flavor food",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "BULB",
+        "clue": "An underground plant part from which a tulip grows",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CLAY",
+        "clue": "Heavy, sticky soil used to make pots",
+        "row": 9,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "ROSE",
+        "clue": "A fragrant flower with thorns",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "RAKE",
+        "clue": "Tool used to gather fallen leaves",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Part of a plant that grows underground",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "POT",
+        "clue": "Container for a houseplant",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SUN",
+        "clue": "Our closest star, which helps plants grow",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "garden-days-5",
+    "title": "Garden Days \u2014 No. 5",
+    "theme": "Gardening",
+    "description": "A little time among the flowers. Enjoy familiar words from the garden.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "GARDEN",
+        "clue": "A place to grow flowers or vegetables",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SHED",
+        "clue": "A small building for garden tools",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MOSS",
+        "clue": "A soft green plant that grows in damp places",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "RAKE",
+        "clue": "Tool used to gather fallen leaves",
+        "row": 6,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ROSE",
+        "clue": "A fragrant flower with thorns",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LAWN",
+        "clue": "An area of neatly cut grass",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "STEM",
+        "clue": "The stalk that holds up a flower",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HERB",
+        "clue": "A plant grown to flavor food",
+        "row": 7,
+        "col": 2,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SEED",
+        "clue": "A tiny beginning for a new plant",
+        "row": 9,
+        "col": 4,
+        "direction": "down",
+        "number": 12
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Part of a plant that grows underground",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "WEED",
+        "clue": "An unwanted plant in a flower bed",
+        "row": 12,
+        "col": 1,
+        "direction": "across",
+        "number": 13
+      },
+      {
+        "answer": "POT",
+        "clue": "Container for a houseplant",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BEE",
+        "clue": "A buzzing insect that visits flowers",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  }
+]
