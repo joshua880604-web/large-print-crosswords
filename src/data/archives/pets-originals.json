@@ -1,0 +1,521 @@
+[
+  {
+    "id": "our-furry-friends",
+    "title": "Our Furry Friends",
+    "theme": "Pets",
+    "description": "A friendly little puzzle about the animals who share our homes.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "KITTEN",
+        "clue": "A young cat",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TREAT",
+        "clue": "A small snack used to reward a pet",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FETCH",
+        "clue": "A game in which a dog brings an object back",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "TAIL",
+        "clue": "The part a happy dog often wags",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BOWL",
+        "clue": "A round dish for pet food",
+        "row": 7,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BARK",
+        "clue": "The sharp call of a dog",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "PURR",
+        "clue": "The low rumbling sound of a contented cat",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "MEOW",
+        "clue": "The sound a cat makes",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "FUR",
+        "clue": "The soft hair covering a cat",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BED",
+        "clue": "A soft place for a pet to sleep",
+        "row": 7,
+        "col": 2,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "DOG",
+        "clue": "A pet that barks",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "our-furry-friends-2",
+    "title": "Our Furry Friends \u2014 No. 2",
+    "theme": "Pets",
+    "description": "A friendly little puzzle about the animals who share our homes.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "COLLAR",
+        "clue": "A band worn around a pet's neck",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "TREAT",
+        "clue": "A small snack used to reward a pet",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "LEASH",
+        "clue": "A strap used to walk a dog",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "BRUSH",
+        "clue": "A tool used to groom a pet's coat",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "FETCH",
+        "clue": "A game in which a dog brings an object back",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TAIL",
+        "clue": "The part a happy dog often wags",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PURR",
+        "clue": "The low rumbling sound of a contented cat",
+        "row": 7,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "MEOW",
+        "clue": "The sound a cat makes",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BOWL",
+        "clue": "A round dish for pet food",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FUR",
+        "clue": "The soft hair covering a cat",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SIT",
+        "clue": "A common command asking a dog to lower its hindquarters",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DOG",
+        "clue": "A pet that barks",
+        "row": 1,
+        "col": 8,
+        "direction": "across",
+        "number": 3
+      }
+    ]
+  },
+  {
+    "id": "our-furry-friends-3",
+    "title": "Our Furry Friends \u2014 No. 3",
+    "theme": "Pets",
+    "description": "A friendly little puzzle about the animals who share our homes.",
+    "difficulty": "Easy",
+    "rows": 8,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "COLLAR",
+        "clue": "A band worn around a pet's neck",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "FETCH",
+        "clue": "A game in which a dog brings an object back",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BRUSH",
+        "clue": "A tool used to groom a pet's coat",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TAIL",
+        "clue": "The part a happy dog often wags",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BOWL",
+        "clue": "A round dish for pet food",
+        "row": 2,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "WALK",
+        "clue": "An outing on foot with your dog",
+        "row": 0,
+        "col": 11,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MEOW",
+        "clue": "The sound a cat makes",
+        "row": 0,
+        "col": 8,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BONE",
+        "clue": "A hard dog chew shaped like part of a skeleton",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SIT",
+        "clue": "A common command asking a dog to lower its hindquarters",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DOG",
+        "clue": "A pet that barks",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TOY",
+        "clue": "An object a pet plays with",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "our-furry-friends-4",
+    "title": "Our Furry Friends \u2014 No. 4",
+    "theme": "Pets",
+    "description": "A friendly little puzzle about the animals who share our homes.",
+    "difficulty": "Easy",
+    "rows": 9,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "COLLAR",
+        "clue": "A band worn around a pet's neck",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "FETCH",
+        "clue": "A game in which a dog brings an object back",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LEASH",
+        "clue": "A strap used to walk a dog",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BRUSH",
+        "clue": "A tool used to groom a pet's coat",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BARK",
+        "clue": "The sharp call of a dog",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BOWL",
+        "clue": "A round dish for pet food",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "WALK",
+        "clue": "An outing on foot with your dog",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SIT",
+        "clue": "A common command asking a dog to lower its hindquarters",
+        "row": 6,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "VET",
+        "clue": "A doctor who cares for animals",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "BED",
+        "clue": "A soft place for a pet to sleep",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "TOY",
+        "clue": "An object a pet plays with",
+        "row": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "CAT",
+        "clue": "A pet that purrs",
+        "row": 1,
+        "col": 9,
+        "direction": "across",
+        "number": 4
+      }
+    ]
+  },
+  {
+    "id": "our-furry-friends-5",
+    "title": "Our Furry Friends \u2014 No. 5",
+    "theme": "Pets",
+    "description": "A friendly little puzzle about the animals who share our homes.",
+    "difficulty": "Easy",
+    "rows": 13,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "COLLAR",
+        "clue": "A band worn around a pet's neck",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TREAT",
+        "clue": "A small snack used to reward a pet",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "LEASH",
+        "clue": "A strap used to walk a dog",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BRUSH",
+        "clue": "A tool used to groom a pet's coat",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TAIL",
+        "clue": "The part a happy dog often wags",
+        "row": 5,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "WALK",
+        "clue": "An outing on foot with your dog",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "MEOW",
+        "clue": "The sound a cat makes",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BONE",
+        "clue": "A hard dog chew shaped like part of a skeleton",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BED",
+        "clue": "A soft place for a pet to sleep",
+        "row": 0,
+        "col": 8,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SIT",
+        "clue": "A common command asking a dog to lower its hindquarters",
+        "row": 10,
+        "col": 3,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "FUR",
+        "clue": "The soft hair covering a cat",
+        "row": 8,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CAT",
+        "clue": "A pet that purrs",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      }
+    ]
+  }
+]

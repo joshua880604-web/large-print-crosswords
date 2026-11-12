@@ -1409,102 +1409,132 @@
   },
   {
     "id": "our-furry-friends",
-    "title": "Our Furry Friends",
+    "title": "Out for a Dog Walk",
     "theme": "Pets",
-    "description": "A friendly little puzzle about the animals who share our homes.",
+    "subtheme": "Walking and Playing with Dogs",
+    "series": "our-furry-friends",
+    "description": "Head out for a gentle dog-themed crossword about walking equipment, familiar movements, and the simple words heard during play and training.",
+    "cardDescription": "Dog-walking equipment, familiar actions, and simple training words.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 10,
-    "cols": 9,
+    "cols": 10,
     "entries": [
       {
-        "answer": "KITTEN",
-        "clue": "A young cat",
-        "row": 4,
-        "col": 3,
+        "answer": "HARNESS",
+        "clue": "Set of straps fitted around a dog's body for attaching a lead",
+        "row": 5,
+        "col": 2,
         "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "TREAT",
-        "clue": "A small snack used to reward a pet",
-        "row": 0,
-        "col": 6,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "FETCH",
-        "clue": "A game in which a dog brings an object back",
-        "row": 0,
-        "col": 4,
-        "direction": "across",
-        "number": 1
-      },
-      {
-        "answer": "TAIL",
-        "clue": "The part a happy dog often wags",
-        "row": 4,
-        "col": 5,
-        "direction": "down",
         "number": 8
       },
       {
-        "answer": "BOWL",
-        "clue": "A round dish for pet food",
-        "row": 7,
-        "col": 2,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "BARK",
-        "clue": "The sharp call of a dog",
-        "row": 1,
+        "answer": "LEASH",
+        "clue": "Strap or cord held to guide a dog on a walk",
+        "row": 3,
         "col": 3,
         "direction": "down",
-        "number": 3
+        "number": 5
       },
       {
-        "answer": "PURR",
-        "clue": "The low rumbling sound of a contented cat",
+        "answer": "TREAT",
+        "clue": "Small food reward offered during dog training",
         "row": 3,
-        "col": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "STICK",
+        "clue": "Small length of wood sometimes carried by a dog",
+        "row": 3,
+        "col": 5,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "MEOW",
-        "clue": "The sound a cat makes",
-        "row": 2,
-        "col": 5,
+        "answer": "PATH",
+        "clue": "Narrow route followed through a park",
+        "row": 7,
+        "col": 0,
         "direction": "across",
-        "number": 5
+        "number": 10
       },
       {
-        "answer": "FUR",
-        "clue": "The soft hair covering a cat",
-        "row": 2,
-        "col": 1,
+        "answer": "PARK",
+        "clue": "Public green space where people may walk dogs",
+        "row": 0,
+        "col": 9,
         "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HEEL",
+        "clue": "Command asking a dog to walk close beside its handler",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
         "number": 4
       },
       {
-        "answer": "BED",
-        "clue": "A soft place for a pet to sleep",
-        "row": 7,
-        "col": 2,
+        "answer": "GATE",
+        "clue": "Movable barrier at the entrance to a fenced area",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "WAG",
+        "clue": "To move a tail from side to side",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SIT",
+        "clue": "Command asking a dog to rest on its haunches",
+        "row": 5,
+        "col": 8,
         "direction": "down",
         "number": 9
       },
       {
-        "answer": "DOG",
-        "clue": "A pet that barks",
-        "row": 9,
+        "answer": "TAG",
+        "clue": "Small identification plate attached to a pet's collar",
+        "row": 7,
         "col": 2,
-        "direction": "across",
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "PAW",
+        "clue": "A dog's foot, often leaving a print in soft ground",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
         "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle brings together things used on a walk and words describing what a dog does. Some clues ask for equipment or a place, while others ask for an action or a familiar command. Everyday meanings and direct definitions provide the way into the grid.",
+      "solvingTip": "Check whether the clue describes something worn, something held, a place, or an action. A command can use an ordinary word in a special way. Short movement words can help cross longer names for walking equipment.",
+      "answerNotes": [
+        {
+          "answer": "HARNESS",
+          "text": "A harness is an arrangement of body straps. Its position distinguishes it from a collar around the neck, and the clue asks for the whole piece of equipment."
+        },
+        {
+          "answer": "LEASH",
+          "text": "Leash is the common American word for the strap or cord held on a dog walk. Lead is another word for the same item."
+        },
+        {
+          "answer": "HEEL",
+          "text": "Heel is a training command asking for a position close beside the handler. The clue does not use the word for the back part of a human foot."
+        }
+      ]
+    }
   },
   {
     "id": "a-stitch-in-time",
@@ -3785,110 +3815,124 @@
   },
   {
     "id": "our-furry-friends-2",
-    "title": "Our Furry Friends \u2014 No. 2",
+    "title": "Around the Cat Basket",
     "theme": "Pets",
-    "description": "A friendly little puzzle about the animals who share our homes.",
+    "subtheme": "Cats at Home",
+    "series": "our-furry-friends",
+    "description": "Enjoy a quiet cat-themed crossword about young cats, resting places, and familiar movements and objects around the house.",
+    "cardDescription": "Young cats, resting places, and everyday household actions.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 11,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "COLLAR",
-        "clue": "A band worn around a pet's neck",
-        "row": 4,
-        "col": 1,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "TREAT",
-        "clue": "A small snack used to reward a pet",
-        "row": 3,
-        "col": 6,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "LEASH",
-        "clue": "A strap used to walk a dog",
-        "row": 4,
-        "col": 4,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "BRUSH",
-        "clue": "A tool used to groom a pet's coat",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "FETCH",
-        "clue": "A game in which a dog brings an object back",
-        "row": 1,
-        "col": 1,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "TAIL",
-        "clue": "The part a happy dog often wags",
-        "row": 3,
-        "col": 6,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "PURR",
-        "clue": "The low rumbling sound of a contented cat",
-        "row": 7,
+        "answer": "CUSHION",
+        "clue": "Soft padded support inside a pet basket",
+        "row": 5,
         "col": 2,
-        "direction": "down",
+        "direction": "across",
         "number": 8
       },
       {
-        "answer": "MEOW",
-        "clue": "The sound a cat makes",
-        "row": 2,
-        "col": 0,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "BOWL",
-        "clue": "A round dish for pet food",
+        "answer": "STRETCH",
+        "clue": "To extend the body and limbs after resting",
         "row": 0,
-        "col": 9,
+        "col": 2,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "FUR",
-        "clue": "The soft hair covering a cat",
-        "row": 10,
-        "col": 0,
+        "answer": "LITTER",
+        "clue": "Absorbent material placed in a cat's toilet tray",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "KITTEN",
+        "clue": "A young domestic cat",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PERCH",
+        "clue": "Raised resting place from which a cat can look around",
+        "row": 9,
+        "col": 4,
         "direction": "across",
         "number": 11
       },
       {
-        "answer": "SIT",
-        "clue": "A common command asking a dog to lower its hindquarters",
-        "row": 7,
-        "col": 4,
+        "answer": "GROOM",
+        "clue": "To clean the coat by licking or brushing",
+        "row": 2,
+        "col": 1,
         "direction": "across",
-        "number": 9
+        "number": 5
       },
       {
-        "answer": "DOG",
-        "clue": "A pet that barks",
-        "row": 1,
-        "col": 8,
+        "answer": "TRAY",
+        "clue": "Shallow open container that can hold cat litter",
+        "row": 7,
+        "col": 6,
         "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TAIL",
+        "clue": "Long rear appendage a cat may hold upright",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CAT",
+        "clue": "Domestic feline commonly kept as a household pet",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "TOY",
+        "clue": "Object provided for a cat to play with",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
         "number": 3
+      },
+      {
+        "answer": "NAP",
+        "clue": "A short period of sleep in a sunny spot",
+        "row": 7,
+        "col": 4,
+        "direction": "down",
+        "number": 9
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues combine cat vocabulary with resting places, everyday actions, and household objects. Some words name a movement, while others name a place, a body part, or an item used at home. The definitions describe the intended everyday meaning.",
+      "solvingTip": "Look for whether a clue asks for an action, a resting place, or a household object. A place to rest and the act of resting have different names. Short familiar words can help with longer cat-related answers.",
+      "answerNotes": [
+        {
+          "answer": "LITTER",
+          "text": "Litter is the absorbent material in this clue. The word can also name a group of newborn animals, so the reference to a tray distinguishes its use."
+        },
+        {
+          "answer": "KITTEN",
+          "text": "Kitten is the word for a young cat. It identifies an age group rather than one particular breed."
+        },
+        {
+          "answer": "PERCH",
+          "text": "Perch is a raised resting place here. The same spelling also names a fish, but the cat's resting location fixes the household meaning."
+        }
+      ]
+    }
   },
   {
     "id": "a-stitch-in-time-2",
@@ -6153,102 +6197,124 @@
   },
   {
     "id": "our-furry-friends-3",
-    "title": "Our Furry Friends \u2014 No. 3",
+    "title": "Small Pets and Their Homes",
     "theme": "Pets",
-    "description": "A friendly little puzzle about the animals who share our homes.",
+    "subtheme": "Small Mammal Companions",
+    "series": "our-furry-friends",
+    "description": "Explore the world of small pets with a crossword about familiar mammals, the objects around them, and the ways they move.",
+    "cardDescription": "Small pet names, enclosure words, and familiar movements.",
     "difficulty": "Easy",
-    "rows": 8,
-    "cols": 12,
+    "revision": 2,
+    "rows": 10,
+    "cols": 9,
     "entries": [
       {
-        "answer": "COLLAR",
-        "clue": "A band worn around a pet's neck",
-        "row": 3,
-        "col": 3,
+        "answer": "BURROW",
+        "clue": "Tunnel or underground home dug by an animal",
+        "row": 4,
+        "col": 2,
         "direction": "across",
-        "number": 8
+        "number": 5
       },
       {
-        "answer": "FETCH",
-        "clue": "A game in which a dog brings an object back",
-        "row": 0,
-        "col": 3,
+        "answer": "RABBIT",
+        "clue": "Long-eared mammal that often moves by hopping",
+        "row": 1,
+        "col": 2,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "BRUSH",
-        "clue": "A tool used to groom a pet's coat",
-        "row": 2,
-        "col": 8,
-        "direction": "down",
-        "number": 7
+        "answer": "HUTCH",
+        "clue": "Raised or enclosed shelter traditionally associated with rabbits",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
       },
       {
-        "answer": "TAIL",
-        "clue": "The part a happy dog often wags",
-        "row": 0,
+        "answer": "MOUSE",
+        "clue": "Small rodent whose plural is mice",
+        "row": 3,
         "col": 6,
         "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "BOWL",
-        "clue": "A round dish for pet food",
-        "row": 2,
-        "col": 8,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "WALK",
-        "clue": "An outing on foot with your dog",
-        "row": 0,
-        "col": 11,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "MEOW",
-        "clue": "The sound a cat makes",
-        "row": 0,
-        "col": 8,
-        "direction": "across",
         "number": 4
       },
       {
-        "answer": "BONE",
-        "clue": "A hard dog chew shaped like part of a skeleton",
-        "row": 1,
+        "answer": "WHEEL",
+        "clue": "Round exercise device a hamster can run inside",
+        "row": 5,
         "col": 0,
-        "direction": "across",
+        "direction": "down",
         "number": 6
       },
       {
-        "answer": "SIT",
-        "clue": "A common command asking a dog to lower its hindquarters",
-        "row": 5,
-        "col": 8,
-        "direction": "across",
+        "answer": "CAGE",
+        "clue": "Enclosure with bars or wire sides",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
         "number": 9
       },
       {
-        "answer": "DOG",
-        "clue": "A pet that barks",
-        "row": 0,
+        "answer": "NEST",
+        "clue": "Cozy resting structure made from gathered material",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "CAVY",
+        "clue": "Another name for a guinea pig",
+        "row": 2,
         "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grasses or other forage eaten by pet rabbits",
+        "row": 0,
+        "col": 4,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "TOY",
-        "clue": "An object a pet plays with",
+        "answer": "RAT",
+        "clue": "Long-tailed rodent generally larger than a mouse",
         "row": 5,
-        "col": 10,
+        "col": 8,
         "direction": "down",
-        "number": 10
+        "number": 7
+      },
+      {
+        "answer": "HOP",
+        "clue": "To move with a short springing jump",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle combines small mammal names with words for homes, food, and movement. Clues describe familiar features or uses rather than asking for breed knowledge. The setting helps distinguish everyday words with more than one meaning.",
+      "solvingTip": "Notice whether the answer names an animal, a home, or a movement. A dwelling dug underground and a structure built above ground have different names. Use familiar short words before working on the longer animal or enclosure terms.",
+      "answerNotes": [
+        {
+          "answer": "BURROW",
+          "text": "A burrow is a tunnel or underground dwelling made by an animal. Borrow has a different spelling and meaning despite looking similar."
+        },
+        {
+          "answer": "HUTCH",
+          "text": "Hutch is a shelter word often associated with rabbits. It can also name a piece of household furniture, but the animal context fixes this meaning."
+        },
+        {
+          "answer": "MOUSE",
+          "text": "Mouse has the irregular plural mice. The clue refers to the animal rather than a computer pointing device."
+        }
+      ]
+    }
   },
   {
     "id": "a-stitch-in-time-3",
@@ -8505,110 +8571,124 @@
   },
   {
     "id": "our-furry-friends-4",
-    "title": "Our Furry Friends \u2014 No. 4",
+    "title": "Feathered Pet Friends",
     "theme": "Pets",
-    "description": "A friendly little puzzle about the animals who share our homes.",
+    "subtheme": "Birds Kept as Companions",
+    "series": "our-furry-friends",
+    "description": "Meet some feathered companions through a crossword about familiar pet birds, their body parts, and the sounds and actions associated with them.",
+    "cardDescription": "Familiar pet birds, their body parts, and the sounds they make.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 9,
-    "cols": 12,
+    "cols": 11,
     "entries": [
       {
-        "answer": "COLLAR",
-        "clue": "A band worn around a pet's neck",
+        "answer": "PARROT",
+        "clue": "Hook-billed bird, some kinds of which can imitate human speech",
         "row": 4,
         "col": 2,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "FETCH",
-        "clue": "A game in which a dog brings an object back",
-        "row": 1,
-        "col": 2,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "LEASH",
-        "clue": "A strap used to walk a dog",
-        "row": 4,
-        "col": 5,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "BRUSH",
-        "clue": "A tool used to groom a pet's coat",
-        "row": 3,
-        "col": 7,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "BARK",
-        "clue": "The sharp call of a dog",
-        "row": 3,
-        "col": 7,
-        "direction": "across",
-        "number": 6
-      },
-      {
-        "answer": "BOWL",
-        "clue": "A round dish for pet food",
-        "row": 1,
-        "col": 4,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "WALK",
-        "clue": "An outing on foot with your dog",
-        "row": 0,
-        "col": 10,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "SIT",
-        "clue": "A common command asking a dog to lower its hindquarters",
-        "row": 6,
-        "col": 7,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "VET",
-        "clue": "A doctor who cares for animals",
-        "row": 3,
-        "col": 0,
         "direction": "across",
         "number": 5
       },
       {
-        "answer": "BED",
-        "clue": "A soft place for a pet to sleep",
-        "row": 1,
+        "answer": "AVIARY",
+        "clue": "Large enclosure in which birds can fly",
+        "row": 0,
         "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PREEN",
+        "clue": "To clean and arrange feathers with the beak",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CHIRP",
+        "clue": "To make a short high-pitched bird sound",
+        "row": 2,
+        "col": 2,
         "direction": "across",
         "number": 3
       },
       {
-        "answer": "TOY",
-        "clue": "An object a pet plays with",
-        "row": 6,
-        "col": 9,
+        "answer": "TWEET",
+        "clue": "Short light call made by a small bird",
+        "row": 4,
+        "col": 7,
         "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FINCH",
+        "clue": "Small seed-eating bird with a short stout beak",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
         "number": 10
       },
       {
-        "answer": "CAT",
-        "clue": "A pet that purrs",
-        "row": 1,
-        "col": 9,
+        "answer": "BEAK",
+        "clue": "Bird's hard projecting mouthpart",
+        "row": 7,
+        "col": 6,
         "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CAGE",
+        "clue": "Barred enclosure often pictured as a pet bird's home",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "WING",
+        "clue": "Feathered forelimb a bird uses for flight",
+        "row": 5,
+        "col": 7,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SING",
+        "clue": "To produce a sequence of musical bird sounds",
+        "row": 2,
+        "col": 10,
+        "direction": "down",
         "number": 4
+      },
+      {
+        "answer": "SEED",
+        "clue": "Small plant structure eaten by many pet birds",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues cover bird names, visible features, sounds, and a few objects in a bird's surroundings. Some words have broader everyday meanings. The definitions identify their bird-related use without requiring an identification guide.",
+      "solvingTip": "Check whether a clue names a kind of bird, one body part, an object, or an action. A hard mouthpart and a feathered forelimb have different names. Use the short sound and action clues to help cross longer bird-related words.",
+      "answerNotes": [
+        {
+          "answer": "PARROT",
+          "text": "Parrots are known for curved beaks, and some can imitate sounds or speech. That ability is not a promise about every individual bird."
+        },
+        {
+          "answer": "AVIARY",
+          "text": "An aviary is an enclosure with space for birds to fly. It names the structure rather than a particular bird species."
+        },
+        {
+          "answer": "PREEN",
+          "text": "Preening involves cleaning and arranging feathers with the beak. The word is used for feather care here, although preen can also describe a person taking pride in their appearance."
+        }
+      ]
+    }
   },
   {
     "id": "a-stitch-in-time-4",
@@ -10833,110 +10913,124 @@
   },
   {
     "id": "our-furry-friends-5",
-    "title": "Our Furry Friends \u2014 No. 5",
+    "title": "Life in a Fish Tank",
     "theme": "Pets",
-    "description": "A friendly little puzzle about the animals who share our homes.",
+    "subtheme": "Aquarium Words",
+    "series": "our-furry-friends",
+    "description": "Look into a fish tank through an easy crossword about familiar aquarium fish, their body parts, and the objects around them.",
+    "cardDescription": "Fish, their body parts, and familiar aquarium objects.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 11,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "COLLAR",
-        "clue": "A band worn around a pet's neck",
-        "row": 6,
-        "col": 2,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "TREAT",
-        "clue": "A small snack used to reward a pet",
+        "answer": "GOLDFISH",
+        "clue": "Common pet fish often pictured as orange or golden",
         "row": 5,
-        "col": 7,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "LEASH",
-        "clue": "A strap used to walk a dog",
-        "row": 6,
-        "col": 4,
-        "direction": "down",
+        "col": 1,
+        "direction": "across",
         "number": 6
       },
       {
-        "answer": "BRUSH",
-        "clue": "A tool used to groom a pet's coat",
-        "row": 10,
-        "col": 0,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "TAIL",
-        "clue": "The part a happy dog often wags",
-        "row": 5,
-        "col": 7,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "WALK",
-        "clue": "An outing on foot with your dog",
-        "row": 3,
-        "col": 10,
+        "answer": "GRAVEL",
+        "clue": "Small stones used to cover the bottom of a fish tank",
+        "row": 0,
+        "col": 3,
         "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "MEOW",
-        "clue": "The sound a cat makes",
-        "row": 3,
-        "col": 7,
-        "direction": "across",
         "number": 2
       },
       {
-        "answer": "BONE",
-        "clue": "A hard dog chew shaped like part of a skeleton",
-        "row": 0,
-        "col": 8,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "BED",
-        "clue": "A soft place for a pet to sleep",
-        "row": 0,
-        "col": 8,
-        "direction": "across",
-        "number": 1
-      },
-      {
-        "answer": "SIT",
-        "clue": "A common command asking a dog to lower its hindquarters",
-        "row": 10,
-        "col": 3,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "FUR",
-        "clue": "The soft hair covering a cat",
-        "row": 8,
-        "col": 1,
+        "answer": "FILTER",
+        "clue": "Device that removes material from aquarium water as it passes through",
+        "row": 5,
+        "col": 5,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "CAT",
-        "clue": "A pet that purrs",
-        "row": 8,
-        "col": 6,
+        "answer": "SCHOOL",
+        "clue": "Group of fish swimming together in a coordinated way",
+        "row": 7,
+        "col": 0,
         "direction": "across",
         "number": 8
+      },
+      {
+        "answer": "FLAKE",
+        "clue": "Thin dry piece of prepared fish food",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "ALGAE",
+        "clue": "Simple photosynthetic organisms that may form a coating in a tank",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SCALE",
+        "clue": "One of the small overlapping plates on many fish",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "GLASS",
+        "clue": "Transparent material used for many aquarium walls",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TETRA",
+        "clue": "Small schooling aquarium fish, as in the neon variety",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TAIL",
+        "clue": "Rear part of a fish that helps propel it through water",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "TANK",
+        "clue": "Container commonly made of glass to hold pet fish",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle brings together fish names, swimming vocabulary, and familiar aquarium objects. Clues distinguish parts of a fish from parts of its surroundings. Everyday words may have a particular meaning in this watery setting.",
+      "solvingTip": "Decide whether a clue asks for a fish, a body part, a food form, or an object in the tank. A small plate covering a fish and small stones covering the bottom have different names. Short familiar words can help with longer fish or equipment names.",
+      "answerNotes": [
+        {
+          "answer": "GOLDFISH",
+          "text": "Goldfish occur in more colors than gold or orange. The clue uses a familiar pictured appearance rather than a rule for every fish."
+        },
+        {
+          "answer": "FILTER",
+          "text": "Filter names a device through which water passes to remove material. Pump names a device that moves air or water, which is a different function."
+        },
+        {
+          "answer": "SCHOOL",
+          "text": "School describes fish moving together in a coordinated group. It is not a building for lessons in this watery context."
+        }
+      ]
+    }
   },
   {
     "id": "a-stitch-in-time-5",

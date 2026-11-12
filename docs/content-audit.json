@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1197,
-    "distinctAnswers": 659,
-    "distinctAnswerCluePairs": 790,
-    "distinctIntroductions": 60,
-    "numberedTitles": 40,
-    "editedEditions": 50
+    "clueEntries": 1195,
+    "distinctAnswers": 684,
+    "distinctAnswerCluePairs": 826,
+    "distinctIntroductions": 64,
+    "numberedTitles": 36,
+    "editedEditions": 55
   },
   "refinedSeries": [
     {
@@ -309,6 +309,36 @@
         "Visitors Among the Blooms",
         "Colors and Shapes in Bloom"
       ]
+    },
+    {
+      "id": "our-furry-friends",
+      "name": "Pets",
+      "before": {
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 20,
+        "uniqueCluePairs": 20,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "our-furry-friends",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Out for a Dog Walk",
+        "Around the Cat Basket",
+        "Small Pets and Their Homes",
+        "Feathered Pet Friends",
+        "Life in a Fish Tank"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -371,16 +401,6 @@
         "a-good-book-3",
         "a-good-book-4",
         "a-good-book-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "our-furry-friends",
-        "our-furry-friends-2",
-        "our-furry-friends-3",
-        "our-furry-friends-4",
-        "our-furry-friends-5"
       ]
     },
     {
@@ -456,16 +476,6 @@
       "occurrences": 4
     },
     {
-      "answer": "BOWL",
-      "clue": "A round dish for pet food",
-      "occurrences": 4
-    },
-    {
-      "answer": "BRUSH",
-      "clue": "A tool used to groom a pet's coat",
-      "occurrences": 4
-    },
-    {
       "answer": "CHAI",
       "clue": "A spiced tea often served with milk",
       "occurrences": 4
@@ -491,11 +501,6 @@
       "occurrences": 4
     },
     {
-      "answer": "COLLAR",
-      "clue": "A band worn around a pet's neck",
-      "occurrences": 4
-    },
-    {
       "answer": "COMEDY",
       "clue": "A movie meant to make you laugh",
       "occurrences": 4
@@ -514,23 +519,24 @@
       "answer": "DECK",
       "clue": "A complete set of playing cards",
       "occurrences": 4
+    },
+    {
+      "answer": "DRILL",
+      "clue": "A tool used to make round holes",
+      "occurrences": 4
+    },
+    {
+      "answer": "FROST",
+      "clue": "A thin coating of ice crystals",
+      "occurrences": 4
+    },
+    {
+      "answer": "FROST",
+      "clue": "A thin layer of ice crystals on a cold morning",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
-    {
-      "first": "our-furry-friends",
-      "second": "our-furry-friends-2",
-      "sharedClues": 8,
-      "jaccard": 0.533,
-      "sameSeries": true
-    },
-    {
-      "first": "our-furry-friends-2",
-      "second": "our-furry-friends-3",
-      "sharedClues": 8,
-      "jaccard": 0.533,
-      "sameSeries": true
-    },
     {
       "first": "a-cup-of-comfort-3",
       "second": "a-cup-of-comfort-5",
@@ -595,13 +601,6 @@
       "sameSeries": true
     },
     {
-      "first": "our-furry-friends-2",
-      "second": "our-furry-friends-5",
-      "sharedClues": 8,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
       "first": "a-good-book-4",
       "second": "a-good-book-5",
       "sharedClues": 8,
@@ -656,41 +655,30 @@
       "sharedClues": 8,
       "jaccard": 0.444,
       "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-3",
+      "second": "a-cup-of-comfort-4",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book",
+      "second": "a-good-book-2",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book",
+      "second": "a-good-book-4",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "our-furry-friends",
-      "second": "our-furry-friends-2",
-      "sharedAnswers": [
-        "TREAT",
-        "FETCH",
-        "TAIL",
-        "BOWL",
-        "PURR",
-        "MEOW",
-        "FUR",
-        "DOG"
-      ],
-      "jaccard": 0.533,
-      "sameSeries": true
-    },
-    {
-      "first": "our-furry-friends-2",
-      "second": "our-furry-friends-3",
-      "sharedAnswers": [
-        "COLLAR",
-        "BRUSH",
-        "FETCH",
-        "TAIL",
-        "MEOW",
-        "BOWL",
-        "SIT",
-        "DOG"
-      ],
-      "jaccard": 0.533,
-      "sameSeries": true
-    },
     {
       "first": "a-cup-of-comfort-3",
       "second": "a-cup-of-comfort-5",
@@ -843,22 +831,6 @@
       "sameSeries": true
     },
     {
-      "first": "our-furry-friends-2",
-      "second": "our-furry-friends-5",
-      "sharedAnswers": [
-        "COLLAR",
-        "TREAT",
-        "LEASH",
-        "BRUSH",
-        "TAIL",
-        "MEOW",
-        "FUR",
-        "SIT"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
       "first": "a-good-book-4",
       "second": "a-good-book-5",
       "sharedAnswers": [
@@ -981,6 +953,54 @@
         "SPOON",
         "MINT",
         "CUP"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-3",
+      "second": "a-cup-of-comfort-4",
+      "sharedAnswers": [
+        "KETTLE",
+        "STEAM",
+        "LEMON",
+        "TOAST",
+        "SUGAR",
+        "HONEY",
+        "CHAI",
+        "CUP"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book",
+      "second": "a-good-book-2",
+      "sharedAnswers": [
+        "LIBRARY",
+        "PROSE",
+        "STORY",
+        "NOVEL",
+        "PAGE",
+        "READ",
+        "POEM",
+        "TALE"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-good-book",
+      "second": "a-good-book-4",
+      "sharedAnswers": [
+        "LIBRARY",
+        "AUTHOR",
+        "PROSE",
+        "LINE",
+        "PAGE",
+        "READ",
+        "INK",
+        "PEN"
       ],
       "jaccard": 0.444,
       "sameSeries": true
@@ -1134,14 +1154,14 @@
     {
       "id": "our-furry-friends",
       "puzzles": 5,
-      "entries": 58,
-      "uniqueAnswers": 20,
-      "uniqueCluePairs": 20,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.533,
-      "highestAnswerJaccard": 0.533
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
     },
     {
       "id": "a-stitch-in-time",

@@ -137,3 +137,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 31 Playwright tests passed, including all fifty reader-note sections and archive routes, original/current saved-progress isolation for all ten edited families, and discovery using the original flower series name.
 - All five changed print sheets exported as single US Letter pages in Chromium. Static output totals 359 HTML pages; the canonical sitemap remains at 108 URLs.
 - These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
+
+## Pets editorial batch — 2026-11-12
+
+- Changed only the five current our-furry-friends editions. All other 95 current puzzle objects, including the fifty previously edited editions, remain unchanged.
+- Subjects: Out for a Dog Walk, Around the Cat Basket, Small Pets and Their Homes, Feathered Pet Friends, and Life in a Fish Tank. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Reviewed the selected definitions and aligned guidance with the actual walking equipment, cat resting places, small mammals, bird sounds and aquarium vocabulary. Fish-tank notes were visually inspected. The material defines words rather than prescribing care routines, diets or animal-health assessments.
+- Pets series: 58 entries / 20 distinct answer-clue pairs before; 56 entries / 56 distinct pairs after. Collection totals are 100 current puzzles, 1,195 entries, 826 distinct answer-clue pairs, 64 introductions, and 55 edited editions. Forty-five current puzzles remain in the editorial queue.
+- The five original pet objects match the previous release exactly. Full regeneration reproduced all 100 current puzzles byte-for-byte and preserved all fifty-five archived layouts. Existing series seeds and results were retained.
+- Build, content/SEO audits, TypeScript and 32 Playwright tests passed, including all fifty-five reader-note sections and archive routes, original/current saved-progress isolation for all eleven edited families, and discovery using the original pet series name.
+- All five updated print sheets exported as single US Letter pages in Chromium. Static output totals 364 HTML pages; the canonical sitemap remains at 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.

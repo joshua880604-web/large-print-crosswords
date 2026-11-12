@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1197 clue entries.
-- 659 distinct answers; 790 distinct answer/clue pairs.
-- 60 different introductions; 40 numbered titles remain.
-- 50 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1195 clue entries.
+- 684 distinct answers; 826 distinct answer/clue pairs.
+- 64 different introductions; 36 numbered titles remain.
+- 55 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -109,11 +109,21 @@ Current subjects: Inside the Sewing Box, A Basket of Knitting, With a Crochet Ho
 
 Current subjects: Parts of a Flowering Plant, At the Flower Shop, Cottage Garden Colors, Visitors Among the Blooms, Colors and Shapes in Bloom.
 
-The 50 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Pets: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 58 | 56 |
+| Distinct answer/clue pairs | 20 | 56 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Out for a Dog Walk, Around the Cat Basket, Small Pets and Their Homes, Feathered Pet Friends, Life in a Fish Tank.
+
+The 55 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-50 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+45 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -129,7 +139,7 @@ The 50 original layouts remain available as noindex previous editions so browser
 | autumn-walk | 62 | 22 | 1 | 4 |
 | holiday-table | 63 | 23 | 1 | 4 |
 | a-good-book | 64 | 22 | 1 | 4 |
-| our-furry-friends | 58 | 20 | 1 | 4 |
+| our-furry-friends | 56 | 56 | 5 | 0 |
 | a-stitch-in-time | 57 | 57 | 5 | 0 |
 | weather-watching | 64 | 21 | 1 | 4 |
 | market-morning | 58 | 58 | 5 | 0 |
