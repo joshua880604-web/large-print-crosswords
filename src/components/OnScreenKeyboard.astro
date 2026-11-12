@@ -1,0 +1,15 @@
+---
+const {id}=Astro.props;
+const rows=['QWERTYUIOP','ASDFGHJKL','ZXCVBNM'];
+---
+<section class="puzzle-keyboard" id={`keyboard-${id}`} role="group" aria-label="On-screen crossword keyboard" hidden>
+ <div class="puzzle-keyboard-inner">
+  <div class="keyboard-heading"><span>ON-SCREEN KEYBOARD</span><button type="button" data-keyboard-action="hide">Hide keyboard <span aria-hidden="true">⌄</span></button></div>
+  <div class="keyboard-clue"><strong data-keyboard-number></strong><span data-keyboard-clue></span></div>
+  <div class="keyboard-word" aria-hidden="true"></div>
+  <div class="keyboard-letters" role="group" aria-label="Letter keys. Use arrow keys to move between keys.">
+   {rows.map((row,r)=><div class="keyboard-row" data-key-row={r}>{Array.from(row).map((letter,c)=><button type="button" class="letter-key" data-letter={letter} data-key-row={r} data-key-col={c} aria-label={`Type ${letter}`} tabindex={r===0&&c===0?0:-1}>{letter}</button>)}</div>)}
+  </div>
+  <div class="keyboard-tools"><button type="button" data-keyboard-action="delete">Delete</button><button type="button" data-keyboard-action="next">Next word <span aria-hidden="true">→</span></button><button type="button" data-keyboard-action="system">Use system keyboard</button></div>
+ </div>
+</section>

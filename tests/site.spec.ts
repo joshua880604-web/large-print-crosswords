@@ -74,3 +74,62 @@ test('blocked storage still permits play',async({page})=>{
 test('daily selection rotates to a prebuilt puzzle after the build date',async({page})=>{
  const future=new Date('2027-03-15T16:00:00Z');await page.clock.install({time:future});await page.goto('/daily/');const day=Math.floor(Date.parse('2027-03-15T12:00:00Z')/86400000);await expect(page).toHaveURL(new RegExp(`/crosswords/${puzzles[day%puzzles.length].id}/$`));await expect(page.locator('.game-root')).toBeVisible();
 });
+
+test('on-screen keyboard shares input, deletion, hints and saved progress',async({page})=>{
+ await page.goto('/crosswords/garden-days/');
+ const entry=puzzles[0].entries.find(e=>e.direction==='across')!;
+ const first=page.locator(`[data-cell="${entry.row},${entry.col}"] input`);
+ await expect(page.getByRole('group',{name:'On-screen crossword keyboard',exact:true})).toBeHidden();
+ await page.locator(`[data-entry="${entry.number}-across"]`).click();
+ await page.getByRole('button',{name:'Use on-screen keyboard',exact:true}).click();
+ const keyboard=page.getByRole('group',{name:'On-screen crossword keyboard',exact:true});
+ await expect(keyboard).toBeVisible();await expect(first).toHaveAttribute('inputmode','none');
+ await keyboard.getByRole('button',{name:'Type Z',exact:true}).click();await expect(first).toHaveValue('Z');
+ await keyboard.getByRole('button',{name:'Delete',exact:true}).click();await expect(first).toHaveValue('');await expect(first).toBeFocused();
+ for(const letter of entry.answer)await keyboard.getByRole('button',{name:`Type ${letter}`,exact:true}).click();
+ await expect(page.locator('.keyboard-word')).toHaveText(entry.answer);
+ await keyboard.getByRole('button',{name:'Next word',exact:true}).click();await expect(page.locator('[data-keyboard-number]')).not.toHaveText(`${entry.number} Across`);
+ const selected=page.locator('.cell.selected input');await page.getByRole('button',{name:'Reveal letter',exact:true}).click();await expect(selected).not.toHaveValue('');await expect(page.locator('.keyboard-word')).toContainText(await selected.inputValue());
+ await page.reload();await expect(first).toHaveValue(entry.answer[0]);await expect(first).toHaveAttribute('inputmode','none');
+ await page.locator(`[data-entry="${entry.number}-across"]`).click();await expect(keyboard).toBeVisible();
+ await keyboard.getByRole('button',{name:'Use system keyboard',exact:true}).click();await expect(keyboard).toBeHidden();await expect(first).toHaveAttribute('inputmode','text');
+ await page.reload();await expect(first).toHaveAttribute('inputmode','text');
+});
+
+test('on-screen letter keys support roving keyboard focus and physical input',async({page})=>{
+ await page.goto('/crosswords/garden-days/');await page.getByRole('button',{name:'Use on-screen keyboard',exact:true}).click();
+ const keyboard=page.getByRole('group',{name:'On-screen crossword keyboard',exact:true});
+ await expect(keyboard.locator('[data-letter][tabindex="0"]')).toHaveCount(1);
+ await keyboard.getByRole('button',{name:'Type Q',exact:true}).focus();await page.keyboard.press('ArrowRight');await expect(keyboard.getByRole('button',{name:'Type W',exact:true})).toBeFocused();
+ await page.keyboard.press('ArrowDown');await expect(keyboard.getByRole('button',{name:'Type S',exact:true})).toBeFocused();
+ await page.keyboard.press('Enter');
+ await expect(page.locator('.keyboard-word')).toContainText('S');await page.keyboard.type('AB');await expect(page.locator('.keyboard-word')).toContainText('AB');
+ await keyboard.getByRole('button',{name:'Hide keyboard',exact:true}).focus();await page.keyboard.press('Escape');await expect(keyboard).toBeHidden();await expect(page.locator('[data-action=keyboard]')).toBeFocused();
+ await page.keyboard.press('Enter');await expect(keyboard).toBeVisible();
+ const results=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();expect(results.violations.map(v=>({id:v.id,nodes:v.nodes.map(n=>n.target)}))).toEqual([]);
+});
+
+test('mobile on-screen keyboard keeps selected square visible and remembers native preference',async({browser})=>{
+ const context=await browser.newContext({viewport:{width:390,height:844},hasTouch:true,isMobile:true});const page=await context.newPage();
+ await page.goto('http://127.0.0.1:4321/crosswords/garden-days/');
+ const keyboard=page.getByRole('group',{name:'On-screen crossword keyboard',exact:true});
+ await expect(keyboard).toBeHidden();await page.locator('.clue-button').first().tap();await expect(keyboard).toBeVisible();
+ await expect(page.locator('.cell.selected input')).toHaveAttribute('inputmode','none');
+ await keyboard.getByRole('button',{name:'Type A',exact:true}).tap();
+ await expect.poll(async()=>page.evaluate(()=>{const cell=document.querySelector('.cell.selected')!.getBoundingClientRect(),panel=document.querySelector('.puzzle-keyboard')!.getBoundingClientRect();return cell.top>=0&&cell.bottom<=panel.top;})).toBeTruthy();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await expect.poll(async()=>page.evaluate(()=>{const board=document.querySelector('.board-scroll')!.getBoundingClientRect(),panel=document.querySelector('.puzzle-keyboard')!.getBoundingClientRect();return board.top>=0&&board.bottom<=panel.top;})).toBeTruthy();
+ await keyboard.getByRole('button',{name:'Hide keyboard',exact:true}).tap();await expect(keyboard).toBeHidden();
+ await page.locator('.cell.selected input').tap();await expect(keyboard).toBeVisible();
+ await keyboard.getByRole('button',{name:'Use system keyboard',exact:true}).tap();await expect(keyboard).toBeHidden();
+ await page.reload();await page.locator('.clue-button').first().tap();await expect(keyboard).toBeHidden();await expect(page.locator('.cell.selected input')).toHaveAttribute('inputmode','text');
+ await page.setViewportSize({width:320,height:568});await page.getByRole('button',{name:'Use on-screen keyboard',exact:true}).click();await expect(keyboard).toBeVisible();expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
+ await page.emulateMedia({media:'print'});await expect(keyboard).toBeHidden();await context.close();
+});
+
+test('an entire puzzle can be completed using on-screen keys',async({page})=>{
+ await page.goto('/crosswords/garden-days/');await page.getByRole('button',{name:'Use on-screen keyboard',exact:true}).click();
+ const keyboard=page.getByRole('group',{name:'On-screen crossword keyboard',exact:true});
+ for(const entry of puzzles[0].entries){await page.locator(`[data-entry="${entry.number}-${entry.direction}"]`).click();await page.locator(`[data-cell="${entry.row},${entry.col}"] input`).focus();for(const letter of entry.answer)await keyboard.getByRole('button',{name:`Type ${letter}`,exact:true}).click();}
+ await expect(page.getByRole('heading',{name:'A lovely little victory!'})).toBeVisible();
+});

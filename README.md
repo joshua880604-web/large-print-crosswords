@@ -37,13 +37,13 @@ npm run test:e2e
 
 ## Features
 
-Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, and opt-in synthesized sound. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
+Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, opt-in synthesized sound, and a docked on-screen QWERTY keyboard. Small touch devices use on-screen mode on first interaction by default; computers start with physical/system input. Users can switch modes, hide the panel, and navigate its letter keys with arrow keys. The selected clue and entered letters remain above the keys, and the selected grid square scrolls above the panel. Browser support for suppressing native touch keyboards varies; physical keyboard input remains enabled in either mode. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
 
 `/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 100 puzzles; it does not generate new content daily.
 
 PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter and uses separate answer routes. Print copies are `noindex,follow`; the sitemap includes the 100 playable pages and primary site pages.
 
-Local storage keys use `lpc:v1:<puzzle-id>`, `lpc:sound`, and `lpc:large`. No credentials or environment variables are required by the application.
+Local storage keys use `lpc:v1:<puzzle-id>`, `lpc:sound`, `lpc:large`, and `lpc:keyboard`. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
@@ -57,6 +57,6 @@ Local storage keys use `lpc:v1:<puzzle-id>`, `lpc:sound`, and `lpc:large`. No cr
 4. Choose one primary hostname and redirect the other. Canonical URLs use `https://largeprintcrosswords.com`.
 5. Verify HTTPS, mobile play, print output, privacy text, and the sitemap on the real domain before submitting it to Search Console.
 
-No Cloudflare account changes, domain DNS updates, or production deployment have been performed. Update the privacy page to identify the selected host and its policy before public launch. No analytics or advertising are included.
+The user has connected Cloudflare Pages to this GitHub repository and configured the custom domain. Pushing to `main` triggers the configured build and deployment; a successful push does not prove the Cloudflare build has completed. This coding environment has no Cloudflare account credentials, and live-site checks may require permitting the domain in its outbound network settings. No analytics or advertising are included.
 
 Each cloud task is already isolated: use this checkout directly; do not create a Git worktree unless the user asks for one.
