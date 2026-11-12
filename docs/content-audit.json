@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1239,
-    "distinctAnswers": 504,
-    "distinctAnswerCluePairs": 576,
-    "distinctIntroductions": 36,
-    "numberedTitles": 64,
-    "editedEditions": 20
+    "clueEntries": 1232,
+    "distinctAnswers": 526,
+    "distinctAnswerCluePairs": 612,
+    "distinctIntroductions": 40,
+    "numberedTitles": 60,
+    "editedEditions": 25
   },
   "refinedSeries": [
     {
@@ -129,6 +129,36 @@
         "Pantry Shelf Staples",
         "Labels, Prices & Checkout"
       ]
+    },
+    {
+      "id": "on-the-road",
+      "name": "Travel",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 21,
+        "uniqueCluePairs": 21,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "on-the-road",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "A Relaxed Road Trip",
+        "At the Train Station",
+        "Around the Airport",
+        "A Comfortable Hotel Stay",
+        "Postcards & Travel Memories"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -151,16 +181,6 @@
         "a-cup-of-comfort-3",
         "a-cup-of-comfort-4",
         "a-cup-of-comfort-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "on-the-road",
-        "on-the-road-2",
-        "on-the-road-3",
-        "on-the-road-4",
-        "on-the-road-5"
       ]
     },
     {
@@ -331,11 +351,6 @@
       "occurrences": 5
     },
     {
-      "answer": "LAKE",
-      "clue": "A large body of water surrounded by land",
-      "occurrences": 5
-    },
-    {
       "answer": "LAMB",
       "clue": "A young sheep",
       "occurrences": 5
@@ -343,11 +358,6 @@
     {
       "answer": "LIBRARY",
       "clue": "A place where books can be borrowed",
-      "occurrences": 5
-    },
-    {
-      "answer": "MILE",
-      "clue": "A US distance equal to 5,280 feet",
       "occurrences": 5
     },
     {
@@ -394,6 +404,16 @@
       "answer": "ANCHOR",
       "clue": "A heavy object used to hold a boat in place",
       "occurrences": 4
+    },
+    {
+      "answer": "ASTER",
+      "clue": "A star-shaped flower often blooming in late summer",
+      "occurrences": 4
+    },
+    {
+      "answer": "BOAT",
+      "clue": "A vessel used to travel on water",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
@@ -428,13 +448,6 @@
     {
       "first": "flower-favorites",
       "second": "flower-favorites-3",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "on-the-road",
-      "second": "on-the-road-5",
       "sharedClues": 9,
       "jaccard": 0.563,
       "sameSeries": true
@@ -531,10 +544,17 @@
       "sameSeries": true
     },
     {
-      "first": "on-the-road",
-      "second": "on-the-road-4",
+      "first": "a-day-at-the-farm-2",
+      "second": "a-day-at-the-farm-4",
       "sharedClues": 9,
-      "jaccard": 0.529,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm-3",
+      "second": "a-day-at-the-farm-4",
+      "sharedClues": 9,
+      "jaccard": 0.5,
       "sameSeries": true
     }
   ],
@@ -620,23 +640,6 @@
         "VASE",
         "STEM",
         "SEED"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "on-the-road",
-      "second": "on-the-road-5",
-      "sharedAnswers": [
-        "MOTEL",
-        "BEACH",
-        "TRAIN",
-        "TENT",
-        "RAIL",
-        "MILE",
-        "LAKE",
-        "PARK",
-        "BAG"
       ],
       "jaccard": 0.563,
       "sameSeries": true
@@ -861,20 +864,37 @@
       "sameSeries": true
     },
     {
-      "first": "on-the-road",
-      "second": "on-the-road-4",
+      "first": "a-day-at-the-farm-2",
+      "second": "a-day-at-the-farm-4",
       "sharedAnswers": [
-        "TICKET",
-        "MOTEL",
-        "BEACH",
-        "TENT",
-        "RAIL",
-        "MILE",
-        "TRIP",
-        "LAKE",
-        "CAR"
+        "HORSE",
+        "FIELD",
+        "FOAL",
+        "WOOL",
+        "LAMB",
+        "BARN",
+        "CALF",
+        "PIG",
+        "HAY"
       ],
-      "jaccard": 0.529,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "a-day-at-the-farm-3",
+      "second": "a-day-at-the-farm-4",
+      "sharedAnswers": [
+        "FIELD",
+        "FENCE",
+        "HORSE",
+        "SHEEP",
+        "LAMB",
+        "WOOL",
+        "SILO",
+        "HAY",
+        "EGG"
+      ],
+      "jaccard": 0.5,
       "sameSeries": true
     }
   ],
@@ -930,14 +950,14 @@
     {
       "id": "on-the-road",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 21,
-      "uniqueCluePairs": 21,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     },
     {
       "id": "movie-night",

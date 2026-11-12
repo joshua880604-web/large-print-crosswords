@@ -4,8 +4,9 @@ import gardeningOriginals from '../src/data/archives/gardening-originals.json' w
 import birdOriginals from '../src/data/archives/birds-originals.json' with {type:'json'};
 import musicOriginals from '../src/data/archives/music-originals.json' with {type:'json'};
 import marketOriginals from '../src/data/archives/market-originals.json' with {type:'json'};
+import travelOriginals from '../src/data/archives/travel-originals.json' with {type:'json'};
 import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
-const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals];
+const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
 

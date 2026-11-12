@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1239 clue entries.
-- 504 distinct answers; 576 distinct answer/clue pairs.
-- 36 different introductions; 64 numbered titles remain.
-- 20 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1232 clue entries.
+- 526 distinct answers; 612 distinct answer/clue pairs.
+- 40 different introductions; 60 numbered titles remain.
+- 25 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -49,11 +49,21 @@ Current subjects: Radio & Records, At the Piano, Songs & Singing, Rhythm & Dance
 
 Current subjects: Fruit Basket Favorites, The Bread Counter, Dairy Case Finds, Pantry Shelf Staples, Labels, Prices & Checkout.
 
-The 20 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Travel: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 57 |
+| Distinct answer/clue pairs | 21 | 57 |
+| Different introductions | 1 | 5 |
+
+Current subjects: A Relaxed Road Trip, At the Train Station, Around the Airport, A Comfortable Hotel Stay, Postcards & Travel Memories.
+
+The 25 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-80 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+75 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -61,7 +71,7 @@ The 20 original layouts remain available as noindex previous editions so browser
 | sunday-baking | 64 | 22 | 1 | 4 |
 | backyard-birds | 55 | 55 | 5 | 0 |
 | a-cup-of-comfort | 65 | 22 | 1 | 4 |
-| on-the-road | 64 | 21 | 1 | 4 |
+| on-the-road | 57 | 57 | 5 | 0 |
 | movie-night | 65 | 22 | 1 | 4 |
 | music-memories | 57 | 57 | 5 | 0 |
 | by-the-sea | 64 | 25 | 1 | 4 |

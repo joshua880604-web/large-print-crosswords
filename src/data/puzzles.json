@@ -457,118 +457,132 @@
   },
   {
     "id": "on-the-road",
-    "title": "On the Road",
+    "title": "A Relaxed Road Trip",
     "theme": "Travel",
-    "description": "A scenic drive and a new destination. Take this little trip at your own pace.",
+    "subtheme": "Roads & Car Travel",
+    "series": "on-the-road",
+    "description": "Picture an easy drive and solve familiar clues about road connections, car parts, and the signs along the way.",
+    "cardDescription": "Familiar road signs, car parts, and words for the journey.",
     "difficulty": "Easy",
-    "rows": 9,
-    "cols": 13,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "TICKET",
-        "clue": "Proof that you have paid for a ride",
-        "row": 4,
-        "col": 3,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "MOTEL",
-        "clue": "Roadside lodging often used by travelers",
-        "row": 2,
-        "col": 3,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "BEACH",
-        "clue": "A sandy place beside the sea",
-        "row": 1,
-        "col": 5,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "TRAIN",
-        "clue": "A vehicle that travels on rails",
-        "row": 4,
-        "col": 8,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "TENT",
-        "clue": "A portable shelter made of fabric",
-        "row": 8,
-        "col": 6,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "RAIL",
-        "clue": "A steel track on which a train runs",
+        "answer": "MIRROR",
+        "clue": "Reflective car fitting used to see behind or beside the vehicle",
         "row": 5,
-        "col": 8,
+        "col": 1,
         "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "MILE",
-        "clue": "A US distance equal to 5,280 feet",
-        "row": 3,
-        "col": 11,
-        "direction": "down",
         "number": 6
       },
       {
-        "answer": "CAMP",
-        "clue": "Stay overnight in a tent",
-        "row": 3,
-        "col": 9,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "TRIP",
-        "clue": "A journey away from home",
+        "answer": "DETOUR",
+        "clue": "An alternative driving path around a closed road",
         "row": 0,
-        "col": 12,
+        "col": 4,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "LAKE",
-        "clue": "A large body of water surrounded by land",
-        "row": 5,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "PARK",
-        "clue": "A public green space for a walk",
+        "answer": "BRIDGE",
+        "clue": "Structure that carries a road over water or another obstacle",
         "row": 4,
-        "col": 1,
+        "col": 6,
         "direction": "down",
-        "number": 7
+        "number": 4
       },
       {
-        "answer": "BAG",
-        "clue": "Something used to carry your belongings",
+        "answer": "WHEEL",
+        "clue": "Round part around which a vehicle tire is fitted",
         "row": 1,
-        "col": 5,
+        "col": 2,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "CAR",
-        "clue": "A common four-wheeled vehicle",
-        "row": 1,
-        "col": 10,
+        "answer": "LANE",
+        "clue": "One marked strip of a road carrying a line of vehicles",
+        "row": 9,
+        "col": 3,
         "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BELT",
+        "clue": "Seat ___: restraint fastened across a passenger",
+        "row": 4,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "MILE",
+        "clue": "US distance unit equal to 5,280 feet",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TIRE",
+        "clue": "Rubber covering fitted around a vehicle's wheel",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TOLL",
+        "clue": "Fee charged for using certain roads or bridges",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SEAT",
+        "clue": "Place where a passenger sits in a car",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "RAMP",
+        "clue": "Short connecting roadway used to enter or leave a highway",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
         "number": 3
+      },
+      {
+        "answer": "GAS",
+        "clue": "Fuel for many cars, in everyday American speech",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 9
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle stays with driving vocabulary rather than mixing trains, planes, and lodging into one list. The clues name common road features and parts of a car. Distance and vehicle terms follow ordinary American usage, with short definitions to help separate similar road words.",
+      "solvingTip": "Notice whether a clue asks for a road connection, a distance, a charge, or a car part. A fee and the structure used to cross water have different names. Partial phrases and crossing letters can give you a start among the short driving words.",
+      "answerNotes": [
+        {
+          "answer": "MILE",
+          "text": "The ordinary US mile is 5,280 feet. The clue specifies a US road distance rather than a nautical mile, which is a different unit."
+        },
+        {
+          "answer": "TIRE",
+          "text": "Tire is the American spelling used here. Tyre names the same vehicle part in British English, but would change the letters in the grid."
+        },
+        {
+          "answer": "TOLL",
+          "text": "Toll names a charge for using a road or bridge. It is not the name of the bridge, the route, or the booth where a payment might be collected."
+        }
+      ]
+    }
   },
   {
     "id": "movie-night",
@@ -2749,118 +2763,124 @@
   },
   {
     "id": "on-the-road-2",
-    "title": "On the Road \u2014 No. 2",
+    "title": "At the Train Station",
     "theme": "Travel",
-    "description": "A scenic drive and a new destination. Take this little trip at your own pace.",
+    "subtheme": "Rail Journeys",
+    "series": "on-the-road",
+    "description": "Take a gentle vocabulary trip through a train station, using clear clues about rail travel and the parts of a passenger train.",
+    "cardDescription": "Platforms, tickets, and the parts of a passenger train.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 11,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "TICKET",
-        "clue": "Proof that you have paid for a ride",
-        "row": 6,
-        "col": 3,
+        "answer": "SCHEDULE",
+        "clue": "Published list of planned train times",
+        "row": 5,
+        "col": 0,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "HOTEL",
-        "clue": "A place to book a room for the night",
-        "row": 4,
+        "answer": "COUPLER",
+        "clue": "Device that connects one rail vehicle to another",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ENGINE",
+        "clue": "Diesel ___: a power-producing machine in many locomotives",
+        "row": 0,
         "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "DEPOT",
+        "clue": "Another common American word for a railway station",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "COACH",
+        "clue": "Passenger rail car with seats rather than sleeping berths",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TRACK",
+        "clue": "The route formed by rails and their supporting structure",
+        "row": 2,
+        "col": 1,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "ATLAS",
-        "clue": "A book of maps",
-        "row": 5,
-        "col": 8,
-        "direction": "down",
-        "number": 5
-      },
-      {
         "answer": "TRAIN",
-        "clue": "A vehicle that travels on rails",
-        "row": 8,
-        "col": 6,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "BEACH",
-        "clue": "A sandy place beside the sea",
+        "clue": "Connected rail vehicles traveling together",
         "row": 3,
-        "col": 5,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "BOAT",
-        "clue": "A small watercraft",
-        "row": 3,
-        "col": 5,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "LAKE",
-        "clue": "A large body of water surrounded by land",
-        "row": 7,
         "col": 0,
         "direction": "across",
-        "number": 8
+        "number": 6
       },
       {
-        "answer": "TRIP",
-        "clue": "A journey away from home",
-        "row": 8,
-        "col": 6,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "CAMP",
-        "clue": "Stay overnight in a tent",
-        "row": 11,
-        "col": 3,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "TENT",
-        "clue": "A portable shelter made of fabric",
+        "answer": "DINER",
+        "clue": "Railcar in which passengers can eat meals",
         "row": 0,
-        "col": 8,
-        "direction": "down",
+        "col": 0,
+        "direction": "across",
         "number": 1
       },
       {
-        "answer": "MILE",
-        "clue": "A US distance equal to 5,280 feet",
-        "row": 1,
-        "col": 5,
+        "answer": "RAIL",
+        "clue": "One of the steel running surfaces beneath a train's wheels",
+        "row": 7,
+        "col": 6,
         "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "ROAD",
-        "clue": "A route used by cars",
-        "row": 9,
-        "col": 4,
-        "direction": "down",
         "number": 10
       },
       {
-        "answer": "MAP",
-        "clue": "A drawing that shows places and roads",
+        "answer": "TIME",
+        "clue": "On ___: arriving at the scheduled hour",
         "row": 6,
-        "col": 1,
+        "col": 8,
         "direction": "down",
-        "number": 6
+        "number": 9
+      },
+      {
+        "answer": "TIE",
+        "clue": "American name for a crosspiece supporting railroad rails",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 11
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers cover station terminology, track components, and different passenger cars. Common names such as depot are defined through their rail context, while short part-names help connect the longer travel words. The clues describe vocabulary rather than a particular route or timetable.",
+      "solvingTip": "Look for whether the clue describes a structure, a person, or an accommodation. A sleeping place and a seated passenger car have different names. Use a recognizable short rail word to help cross into a longer station term.",
+      "answerNotes": [
+        {
+          "answer": "DEPOT",
+          "text": "Depot is a common American term for a station or transport facility. In this puzzle the rail-travel context narrows its meaning."
+        },
+        {
+          "answer": "COACH",
+          "text": "Coach can mean a bus, a teacher, or a passenger rail car. The references to seats and sleeping berths select the rail-car meaning here."
+        },
+        {
+          "answer": "DINER",
+          "text": "Diner can name a person eating or a type of restaurant. On a passenger train, it is also a familiar name for a dining car."
+        }
+      ]
+    }
   },
   {
     "id": "movie-night-2",
@@ -5049,118 +5069,132 @@
   },
   {
     "id": "on-the-road-3",
-    "title": "On the Road \u2014 No. 3",
+    "title": "Around the Airport",
     "theme": "Travel",
-    "description": "A scenic drive and a new destination. Take this little trip at your own pace.",
+    "subtheme": "Airport & Flight",
+    "series": "on-the-road",
+    "description": "Explore familiar airport and airplane words with direct clues about boarding, luggage, and the journey through a terminal.",
+    "cardDescription": "Gates, luggage, boarding, and familiar airplane parts.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 11,
-    "cols": 13,
+    "cols": 11,
     "entries": [
       {
-        "answer": "TICKET",
-        "clue": "Proof that you have paid for a ride",
-        "row": 6,
-        "col": 3,
+        "answer": "TERMINAL",
+        "clue": "Airport building with check-in and boarding areas",
+        "row": 5,
+        "col": 1,
         "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "TRAIN",
-        "clue": "A vehicle that travels on rails",
-        "row": 6,
-        "col": 8,
-        "direction": "down",
         "number": 9
       },
       {
-        "answer": "ROUTE",
-        "clue": "The planned course of a journey",
+        "answer": "SEATBELT",
+        "clue": "Passenger restraint fastened for takeoff and landing",
         "row": 3,
-        "col": 3,
+        "col": 7,
         "direction": "down",
-        "number": 4
+        "number": 7
       },
       {
-        "answer": "ATLAS",
-        "clue": "A book of maps",
-        "row": 8,
-        "col": 8,
+        "answer": "FLIGHT",
+        "clue": "A journey made through the air in an aircraft",
+        "row": 10,
+        "col": 2,
         "direction": "across",
         "number": 12
       },
       {
-        "answer": "FERRY",
-        "clue": "A boat that carries people across water",
-        "row": 3,
-        "col": 0,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "MOTEL",
-        "clue": "Roadside lodging often used by travelers",
-        "row": 0,
-        "col": 1,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "ROAD",
-        "clue": "A route used by cars",
-        "row": 6,
-        "col": 11,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "BOAT",
-        "clue": "A small watercraft",
-        "row": 1,
-        "col": 0,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "LAKE",
-        "clue": "A large body of water surrounded by land",
-        "row": 3,
-        "col": 7,
+        "answer": "CABIN",
+        "clue": "The enclosed passenger compartment of an airplane",
+        "row": 2,
+        "col": 5,
         "direction": "down",
         "number": 5
       },
       {
-        "answer": "MILE",
-        "clue": "A US distance equal to 5,280 feet",
-        "row": 7,
-        "col": 0,
-        "direction": "across",
-        "number": 11
+        "answer": "PILOT",
+        "clue": "Person who operates an aircraft's flight controls",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 2
       },
       {
-        "answer": "BAG",
-        "clue": "Something used to carry your belongings",
-        "row": 4,
-        "col": 6,
+        "answer": "AISLE",
+        "clue": "Passage between rows of airplane seats",
+        "row": 3,
+        "col": 5,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "CAB",
-        "clue": "Another word for a taxi",
-        "row": 6,
-        "col": 5,
+        "answer": "WING",
+        "clue": "Broad side structure that provides much of an airplane's lift",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TAIL",
+        "clue": "The rear section of an airplane",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "GATE",
+        "clue": "Airport area where passengers board a particular flight",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CREW",
+        "clue": "The group working aboard an aircraft",
+        "row": 4,
+        "col": 3,
         "direction": "down",
         "number": 8
       },
       {
-        "answer": "MAP",
-        "clue": "A drawing that shows places and roads",
+        "answer": "PASS",
+        "clue": "Boarding ___: document or digital record used when entering a flight",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BAG",
+        "clue": "One item of luggage, such as a suitcase",
         "row": 7,
-        "col": 0,
-        "direction": "down",
-        "number": 11
+        "col": 7,
+        "direction": "across",
+        "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle uses everyday airport vocabulary without asking for airport codes, airline brands, or live flight information. The clues distinguish a document, an airport place, and a part of the plane. Some travel words have several meanings, so their context is part of the clue.",
+      "solvingTip": "First decide whether the answer should be a place, a document, or a person. Read partial phrases such as 'boarding ___' together. For a plane part, notice whether the clue refers to the wings, the tail, or the passenger compartment.",
+      "answerNotes": [
+        {
+          "answer": "CABIN",
+          "text": "Cabin can mean a small house or a compartment in a vehicle. The reference to passengers inside an airplane selects the compartment meaning."
+        },
+        {
+          "answer": "GATE",
+          "text": "At an airport, gate names the boarding area associated with a flight. It does not necessarily mean a freestanding hinged barrier."
+        },
+        {
+          "answer": "CREW",
+          "text": "Crew names the people working aboard the aircraft, not everyone traveling on it. Passengers and crew have different roles in the wording of the clue."
+        }
+      ]
+    }
   },
   {
     "id": "movie-night-3",
@@ -7333,118 +7367,124 @@
   },
   {
     "id": "on-the-road-4",
-    "title": "On the Road \u2014 No. 4",
+    "title": "A Comfortable Hotel Stay",
     "theme": "Travel",
-    "description": "A scenic drive and a new destination. Take this little trip at your own pace.",
+    "subtheme": "Hotels & Lodging",
+    "series": "on-the-road",
+    "description": "Settle into a crossword about familiar hotel spaces, room furnishings, and the everyday words used when arranging a stay.",
+    "cardDescription": "Rooms, reservations, and everyday comforts at a hotel.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 12,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "TICKET",
-        "clue": "Proof that you have paid for a ride",
-        "row": 4,
-        "col": 3,
+        "answer": "ELEVATOR",
+        "clue": "American word for a lift carrying people between floors",
+        "row": 5,
+        "col": 1,
         "direction": "across",
-        "number": 5
+        "number": 6
       },
       {
-        "answer": "ROUTE",
-        "clue": "The planned course of a journey",
+        "answer": "RESERVE",
+        "clue": "Arrange for a room to be held in advance",
         "row": 0,
-        "col": 7,
+        "col": 4,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "ATLAS",
-        "clue": "A book of maps",
+        "answer": "PILLOW",
+        "clue": "Soft support for the head while sleeping",
         "row": 3,
-        "col": 3,
+        "col": 2,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "BEACH",
-        "clue": "A sandy place beside the sea",
-        "row": 6,
-        "col": 1,
-        "direction": "across",
-        "number": 8
+        "answer": "MOTEL",
+        "clue": "Roadside lodging whose name combines motor and hotel",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 5
       },
       {
-        "answer": "MOTEL",
-        "clue": "Roadside lodging often used by travelers",
+        "answer": "SUITE",
+        "clue": "A connected set of rooms offered as one accommodation",
         "row": 1,
-        "col": 6,
+        "col": 0,
         "direction": "across",
         "number": 2
       },
       {
-        "answer": "TENT",
-        "clue": "A portable shelter made of fabric",
-        "row": 4,
-        "col": 8,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "LAKE",
-        "clue": "A large body of water surrounded by land",
-        "row": 1,
-        "col": 10,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "TRIP",
-        "clue": "A journey away from home",
+        "answer": "LINEN",
+        "clue": "Collective word often used for sheets and similar household fabrics",
         "row": 7,
-        "col": 8,
+        "col": 6,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "RAIL",
-        "clue": "A steel track on which a train runs",
-        "row": 7,
-        "col": 9,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "MILE",
-        "clue": "A US distance equal to 5,280 feet",
-        "row": 9,
+        "answer": "FLOOR",
+        "clue": "Hotel building level, abbreviated fl.",
+        "row": 1,
         "col": 8,
-        "direction": "across",
-        "number": 12
+        "direction": "down",
+        "number": 3
       },
       {
-        "answer": "BOAT",
-        "clue": "A small watercraft",
-        "row": 6,
-        "col": 1,
-        "direction": "down",
+        "answer": "BOOK",
+        "clue": "Make a reservation for accommodation",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
         "number": 8
       },
       {
-        "answer": "CAR",
-        "clue": "A common four-wheeled vehicle",
-        "row": 8,
-        "col": 0,
+        "answer": "ROOM",
+        "clue": "An individual space a hotel guest books for a stay",
+        "row": 0,
+        "col": 4,
         "direction": "across",
-        "number": 11
+        "number": 1
       },
       {
-        "answer": "MAP",
-        "clue": "A drawing that shows places and roads",
-        "row": 5,
-        "col": 11,
+        "answer": "KEY",
+        "clue": "Device used to unlock a hotel room, sometimes in card form",
+        "row": 6,
+        "col": 9,
         "direction": "down",
         "number": 7
+      },
+      {
+        "answer": "BED",
+        "clue": "Piece of furniture provided for sleeping",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 8
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues follow the lodging experience: arriving, finding a room, and recognizing what is inside it. Common American hotel words are used. A room name, a fabric term, and a reservation verb call for different kinds of answers.",
+      "solvingTip": "Check whether the clue asks for a room type, a furnishing, a building feature, or an action. A set of connected rooms is different from a single room. Words about arranging accommodation can also have everyday meanings outside hotels.",
+      "answerNotes": [
+        {
+          "answer": "ELEVATOR",
+          "text": "Elevator is the ordinary American term used here. Lift is common in British English for the same kind of transport between floors."
+        },
+        {
+          "answer": "MOTEL",
+          "text": "Motel combines motor and hotel. The name reflects lodging associated with road travel and convenient access by car; actual building and parking layouts vary."
+        },
+        {
+          "answer": "SUITE",
+          "text": "Suite refers to connected rooms treated as one accommodation. It sounds like sweet, but the hotel context points to rooms rather than a taste."
+        }
+      ]
+    }
   },
   {
     "id": "movie-night-4",
@@ -9657,110 +9697,124 @@
   },
   {
     "id": "on-the-road-5",
-    "title": "On the Road \u2014 No. 5",
+    "title": "Postcards & Travel Memories",
     "theme": "Travel",
-    "description": "A scenic drive and a new destination. Take this little trip at your own pace.",
+    "subtheme": "Photos & Keepsakes",
+    "series": "on-the-road",
+    "description": "Remember a favorite trip through words for postcards, photographs, written messages, and small keepsakes brought home.",
+    "cardDescription": "Pictures, postcards, and the small things that recall a trip.",
     "difficulty": "Easy",
-    "rows": 8,
-    "cols": 12,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "MOTEL",
-        "clue": "Roadside lodging often used by travelers",
+        "answer": "POSTCARD",
+        "clue": "Picture card mailed with a short greeting",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "HOTEL",
-        "clue": "A place to book a room for the night",
-        "row": 3,
-        "col": 5,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "ATLAS",
-        "clue": "A book of maps",
-        "row": 3,
-        "col": 7,
-        "direction": "down",
         "number": 6
       },
       {
-        "answer": "TRAIN",
-        "clue": "A vehicle that travels on rails",
-        "row": 4,
-        "col": 7,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "BEACH",
-        "clue": "A sandy place beside the sea",
-        "row": 3,
-        "col": 1,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "PARK",
-        "clue": "A public green space for a walk",
-        "row": 3,
-        "col": 9,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "TENT",
-        "clue": "A portable shelter made of fabric",
-        "row": 2,
-        "col": 11,
+        "answer": "MESSAGE",
+        "clue": "The written greeting on a card sent from a trip",
+        "row": 1,
+        "col": 5,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "RAIL",
-        "clue": "A steel track on which a train runs",
+        "answer": "MEMORY",
+        "clue": "Something remembered from an earlier experience",
         "row": 7,
-        "col": 2,
+        "col": 4,
         "direction": "across",
-        "number": 10
+        "number": 9
       },
       {
-        "answer": "LAKE",
-        "clue": "A large body of water surrounded by land",
+        "answer": "MAGNET",
+        "clue": "Small keepsake that can cling to a steel refrigerator door",
         "row": 0,
-        "col": 2,
+        "col": 3,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "MILE",
-        "clue": "A US distance equal to 5,280 feet",
+        "answer": "SCENE",
+        "clue": "A photographed setting, or part of a play",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "WRITE",
+        "clue": "Put words on paper to describe a trip",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PRINT",
+        "clue": "A photograph produced on paper rather than viewed only on a screen",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FRAME",
+        "clue": "Bordered holder used to display a photograph",
         "row": 0,
         "col": 0,
         "direction": "across",
         "number": 1
       },
       {
-        "answer": "MAP",
-        "clue": "A drawing that shows places and roads",
-        "row": 0,
-        "col": 0,
-        "direction": "down",
-        "number": 1
+        "answer": "PHOTO",
+        "clue": "A common short word for a picture made with a camera",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
       },
       {
-        "answer": "BAG",
-        "clue": "Something used to carry your belongings",
-        "row": 3,
-        "col": 1,
+        "answer": "VIEW",
+        "clue": "A scene seen from a particular place",
+        "row": 1,
+        "col": 9,
         "direction": "down",
         "number": 4
+      },
+      {
+        "answer": "INK",
+        "clue": "Colored liquid used by many writing pens",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at remembering a journey rather than planning transportation. The clues cover photographs, notes, and mailed greetings. They describe the object or action needed, so you can solve without recalling a particular destination, postal rate, or historical date.",
+      "solvingTip": "A general photograph and a paper print can have different names. Look for whether the clue describes the picture itself, a holder, or a written greeting. Short writing words can help you cross into the longer keepsake terms.",
+      "answerNotes": [
+        {
+          "answer": "POSTCARD",
+          "text": "A postcard can carry a short greeting without being put in an envelope. The clue describes the familiar picture-and-message format rather than a specific destination."
+        },
+        {
+          "answer": "PRINT",
+          "text": "Print is used here for a photograph on paper. It can also be a verb, but the clue asks for the finished physical picture."
+        },
+        {
+          "answer": "FRAME",
+          "text": "A frame holds or surrounds a displayed photograph. An album stores photographs together, so the clue's reference to display helps distinguish the two."
+        }
+      ]
+    }
   },
   {
     "id": "movie-night-5",

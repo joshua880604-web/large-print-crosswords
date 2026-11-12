@@ -1,0 +1,497 @@
+[
+  {
+    "id": "on-the-road",
+    "title": "A Relaxed Road Trip",
+    "subtheme": "Roads & Car Travel",
+    "cardDescription": "Familiar road signs, car parts, and words for the journey.",
+    "description": "Picture an easy drive and solve familiar clues about road connections, car parts, and the signs along the way.",
+    "focus": "This puzzle stays with driving vocabulary rather than mixing trains, planes, and lodging into one list. The clues name common road features and parts of a car. Distance and vehicle terms follow ordinary American usage, with short definitions to help separate similar road words.",
+    "solvingTip": "Notice whether a clue asks for a road connection, a distance, a charge, or a car part. A fee and the structure used to cross water have different names. Partial phrases and crossing letters can give you a start among the short driving words.",
+    "words": [
+      [
+        "CAR",
+        "A familiar four-wheeled passenger vehicle driven on roads"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a driving journey"
+      ],
+      [
+        "MAP",
+        "Drawing that shows roads and locations"
+      ],
+      [
+        "MILE",
+        "US distance unit equal to 5,280 feet"
+      ],
+      [
+        "EXIT",
+        "A way off a highway, often marked with a number"
+      ],
+      [
+        "RAMP",
+        "Short connecting roadway used to enter or leave a highway"
+      ],
+      [
+        "LANE",
+        "One marked strip of a road carrying a line of vehicles"
+      ],
+      [
+        "SIGN",
+        "Posted notice giving road directions or traffic information"
+      ],
+      [
+        "TOLL",
+        "Fee charged for using certain roads or bridges"
+      ],
+      [
+        "GAS",
+        "Fuel for many cars, in everyday American speech"
+      ],
+      [
+        "TIRE",
+        "Rubber covering fitted around a vehicle's wheel"
+      ],
+      [
+        "TRUNK",
+        "Enclosed storage space at the back of many cars"
+      ],
+      [
+        "SEAT",
+        "Place where a passenger sits in a car"
+      ],
+      [
+        "BELT",
+        "Seat ___: restraint fastened across a passenger"
+      ],
+      [
+        "WHEEL",
+        "Round part around which a vehicle tire is fitted"
+      ],
+      [
+        "DETOUR",
+        "An alternative driving path around a closed road"
+      ],
+      [
+        "ROAD",
+        "Prepared surface along which cars travel"
+      ],
+      [
+        "MIRROR",
+        "Reflective car fitting used to see behind or beside the vehicle"
+      ],
+      [
+        "HOOD",
+        "Cover over the engine compartment of many cars"
+      ],
+      [
+        "BRIDGE",
+        "Structure that carries a road over water or another obstacle"
+      ]
+    ],
+    "answerNotes": {
+      "MILE": "The ordinary US mile is 5,280 feet. The clue specifies a US road distance rather than a nautical mile, which is a different unit.",
+      "RAMP": "A ramp is the connecting roadway; an exit is a place to leave the highway. An exit may use a ramp, so the clue's emphasis on the connection helps select the answer.",
+      "TOLL": "Toll names a charge for using a road or bridge. It is not the name of the bridge, the route, or the booth where a payment might be collected.",
+      "TRUNK": "Trunk is the familiar American term for a car's enclosed luggage compartment. British English commonly uses boot for the same feature.",
+      "TIRE": "Tire is the American spelling used here. Tyre names the same vehicle part in British English, but would change the letters in the grid.",
+      "HOOD": "Hood is the American word for the engine cover of many cars. Bonnet is common in British English; this clue uses the American vehicle meaning rather than a clothing meaning."
+    }
+  },
+  {
+    "id": "on-the-road-2",
+    "title": "At the Train Station",
+    "subtheme": "Rail Journeys",
+    "cardDescription": "Platforms, tickets, and the parts of a passenger train.",
+    "description": "Take a gentle vocabulary trip through a train station, using clear clues about rail travel and the parts of a passenger train.",
+    "focus": "The answers cover station terminology, track components, and different passenger cars. Common names such as depot are defined through their rail context, while short part-names help connect the longer travel words. The clues describe vocabulary rather than a particular route or timetable.",
+    "solvingTip": "Look for whether the clue describes a structure, a person, or an accommodation. A sleeping place and a seated passenger car have different names. Use a recognizable short rail word to help cross into a longer station term.",
+    "words": [
+      [
+        "TRAIN",
+        "Connected rail vehicles traveling together"
+      ],
+      [
+        "RAIL",
+        "One of the steel running surfaces beneath a train's wheels"
+      ],
+      [
+        "TRACK",
+        "The route formed by rails and their supporting structure"
+      ],
+      [
+        "PLATFORM",
+        "Raised area beside the track where passengers wait to board"
+      ],
+      [
+        "TICKET",
+        "Proof of payment for a train journey"
+      ],
+      [
+        "SCHEDULE",
+        "Published list of planned train times"
+      ],
+      [
+        "STATION",
+        "Railway stopping place where passengers can board or leave"
+      ],
+      [
+        "DEPOT",
+        "Another common American word for a railway station"
+      ],
+      [
+        "ENGINE",
+        "Diesel ___: a power-producing machine in many locomotives"
+      ],
+      [
+        "COACH",
+        "Passenger rail car with seats rather than sleeping berths"
+      ],
+      [
+        "SLEEPER",
+        "Passenger rail car equipped for overnight rest"
+      ],
+      [
+        "DINER",
+        "Railcar in which passengers can eat meals"
+      ],
+      [
+        "BERTH",
+        "A built-in sleeping place on a train"
+      ],
+      [
+        "CONDUCTOR",
+        "Train employee who may check tickets and assist passengers"
+      ],
+      [
+        "STOP",
+        "A scheduled place where a train pauses"
+      ],
+      [
+        "ARRIVAL",
+        "The act of a train reaching its destination or station"
+      ],
+      [
+        "DEPARTURE",
+        "The act of a train leaving its station"
+      ],
+      [
+        "TIME",
+        "On ___: arriving at the scheduled hour"
+      ],
+      [
+        "TIE",
+        "American name for a crosspiece supporting railroad rails"
+      ],
+      [
+        "COUPLER",
+        "Device that connects one rail vehicle to another"
+      ]
+    ],
+    "answerNotes": {
+      "BERTH": "Berth means a sleeping place in this travel context. It sounds like birth, but describes an accommodation rather than the beginning of a life.",
+      "COACH": "Coach can mean a bus, a teacher, or a passenger rail car. The references to seats and sleeping berths select the rail-car meaning here.",
+      "DINER": "Diner can name a person eating or a type of restaurant. On a passenger train, it is also a familiar name for a dining car.",
+      "DEPOT": "Depot is a common American term for a station or transport facility. In this puzzle the rail-travel context narrows its meaning.",
+      "TIE": "A railroad tie is a crosspiece supporting the rails. Sleeper is the common British term for that component, while this puzzle uses sleeper for an overnight passenger car.",
+      "CONDUCTOR": "A train conductor has a transport role, unlike a musician who directs an orchestra. The clue identifies the job through tickets and passengers."
+    }
+  },
+  {
+    "id": "on-the-road-3",
+    "title": "Around the Airport",
+    "subtheme": "Airport & Flight",
+    "cardDescription": "Gates, luggage, boarding, and familiar airplane parts.",
+    "description": "Explore familiar airport and airplane words with direct clues about boarding, luggage, and the journey through a terminal.",
+    "focus": "This puzzle uses everyday airport vocabulary without asking for airport codes, airline brands, or live flight information. The clues distinguish a document, an airport place, and a part of the plane. Some travel words have several meanings, so their context is part of the clue.",
+    "solvingTip": "First decide whether the answer should be a place, a document, or a person. Read partial phrases such as 'boarding ___' together. For a plane part, notice whether the clue refers to the wings, the tail, or the passenger compartment.",
+    "words": [
+      [
+        "PLANE",
+        "Common short name for a powered fixed-wing flying vehicle"
+      ],
+      [
+        "PILOT",
+        "Person who operates an aircraft's flight controls"
+      ],
+      [
+        "GATE",
+        "Airport area where passengers board a particular flight"
+      ],
+      [
+        "FLIGHT",
+        "A journey made through the air in an aircraft"
+      ],
+      [
+        "WING",
+        "Broad side structure that provides much of an airplane's lift"
+      ],
+      [
+        "RUNWAY",
+        "Prepared strip used for an airplane's takeoff or landing"
+      ],
+      [
+        "TERMINAL",
+        "Airport building with check-in and boarding areas"
+      ],
+      [
+        "BOARD",
+        "Get onto an aircraft as a passenger"
+      ],
+      [
+        "PASS",
+        "Boarding ___: document or digital record used when entering a flight"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of airplane seats"
+      ],
+      [
+        "CABIN",
+        "The enclosed passenger compartment of an airplane"
+      ],
+      [
+        "PASSPORT",
+        "Travel booklet used to establish identity and nationality abroad"
+      ],
+      [
+        "LUGGAGE",
+        "Suitcases and other bags taken on a trip"
+      ],
+      [
+        "TAG",
+        "Label attached to a checked bag to help identify and route it"
+      ],
+      [
+        "SEATBELT",
+        "Passenger restraint fastened for takeoff and landing"
+      ],
+      [
+        "WINDOW",
+        "Transparent opening through which a passenger can look outside"
+      ],
+      [
+        "CREW",
+        "The group working aboard an aircraft"
+      ],
+      [
+        "TAIL",
+        "The rear section of an airplane"
+      ],
+      [
+        "DESK",
+        "A counter where an airport agent may help passengers"
+      ],
+      [
+        "BAG",
+        "One item of luggage, such as a suitcase"
+      ]
+    ],
+    "answerNotes": {
+      "PASS": "Pass has many meanings. Boarding pass fixes the airport document meaning; it may be a printed item or a digital record rather than always a piece of paper.",
+      "GATE": "At an airport, gate names the boarding area associated with a flight. It does not necessarily mean a freestanding hinged barrier.",
+      "RUNWAY": "A runway is used for takeoff and landing. Taxiways connect runways with other airport areas, so those related surfaces have different jobs.",
+      "CABIN": "Cabin can mean a small house or a compartment in a vehicle. The reference to passengers inside an airplane selects the compartment meaning.",
+      "PASSPORT": "A passport is an identity and nationality document for international travel. It is different from a boarding pass, which is associated with entering a particular flight.",
+      "CREW": "Crew names the people working aboard the aircraft, not everyone traveling on it. Passengers and crew have different roles in the wording of the clue."
+    }
+  },
+  {
+    "id": "on-the-road-4",
+    "title": "A Comfortable Hotel Stay",
+    "subtheme": "Hotels & Lodging",
+    "cardDescription": "Rooms, reservations, and everyday comforts at a hotel.",
+    "description": "Settle into a crossword about familiar hotel spaces, room furnishings, and the everyday words used when arranging a stay.",
+    "focus": "The clues follow the lodging experience: arriving, finding a room, and recognizing what is inside it. Common American hotel words are used. A room name, a fabric term, and a reservation verb call for different kinds of answers.",
+    "solvingTip": "Check whether the clue asks for a room type, a furnishing, a building feature, or an action. A set of connected rooms is different from a single room. Words about arranging accommodation can also have everyday meanings outside hotels.",
+    "words": [
+      [
+        "HOTEL",
+        "Building offering lodging in rooms for paying guests"
+      ],
+      [
+        "MOTEL",
+        "Roadside lodging whose name combines motor and hotel"
+      ],
+      [
+        "LOBBY",
+        "Public entrance and reception area of a hotel"
+      ],
+      [
+        "ROOM",
+        "An individual space a hotel guest books for a stay"
+      ],
+      [
+        "KEY",
+        "Device used to unlock a hotel room, sometimes in card form"
+      ],
+      [
+        "GUEST",
+        "Person staying at a hotel"
+      ],
+      [
+        "SUITE",
+        "A connected set of rooms offered as one accommodation"
+      ],
+      [
+        "BELLHOP",
+        "Hotel employee who helps carry guests' luggage"
+      ],
+      [
+        "ELEVATOR",
+        "American word for a lift carrying people between floors"
+      ],
+      [
+        "FLOOR",
+        "Hotel building level, abbreviated fl."
+      ],
+      [
+        "LINEN",
+        "Collective word often used for sheets and similar household fabrics"
+      ],
+      [
+        "TOWEL",
+        "Cloth used to dry the body or hands"
+      ],
+      [
+        "PILLOW",
+        "Soft support for the head while sleeping"
+      ],
+      [
+        "BED",
+        "Piece of furniture provided for sleeping"
+      ],
+      [
+        "STAY",
+        "A period spent lodging at a place"
+      ],
+      [
+        "RATE",
+        "Quoted charge for a room for a stated period"
+      ],
+      [
+        "RESERVE",
+        "Arrange for a room to be held in advance"
+      ],
+      [
+        "BOOK",
+        "Make a reservation for accommodation"
+      ],
+      [
+        "NIGHT",
+        "The usual overnight unit used when describing a hotel stay"
+      ],
+      [
+        "LAMP",
+        "A bedside light that can be switched on for reading"
+      ]
+    ],
+    "answerNotes": {
+      "SUITE": "Suite refers to connected rooms treated as one accommodation. It sounds like sweet, but the hotel context points to rooms rather than a taste.",
+      "MOTEL": "Motel combines motor and hotel. The name reflects lodging associated with road travel and convenient access by car; actual building and parking layouts vary.",
+      "ELEVATOR": "Elevator is the ordinary American term used here. Lift is common in British English for the same kind of transport between floors.",
+      "LINEN": "Hotels may use linen as a collective term for sheets and other fabrics. It does not mean that every item is made from the flax fiber also called linen.",
+      "BOOK": "Book is used as a verb meaning to reserve accommodation. The clue does not refer to a bound collection of pages.",
+      "RATE": "Rate names the quoted room charge for a period of time. The clue asks for the pricing term rather than a particular amount or a promise about what a hotel includes."
+    }
+  },
+  {
+    "id": "on-the-road-5",
+    "title": "Postcards & Travel Memories",
+    "subtheme": "Photos & Keepsakes",
+    "cardDescription": "Pictures, postcards, and the small things that recall a trip.",
+    "description": "Remember a favorite trip through words for postcards, photographs, written messages, and small keepsakes brought home.",
+    "focus": "This puzzle looks at remembering a journey rather than planning transportation. The clues cover photographs, notes, and mailed greetings. They describe the object or action needed, so you can solve without recalling a particular destination, postal rate, or historical date.",
+    "solvingTip": "A general photograph and a paper print can have different names. Look for whether the clue describes the picture itself, a holder, or a written greeting. Short writing words can help you cross into the longer keepsake terms.",
+    "words": [
+      [
+        "POSTCARD",
+        "Picture card mailed with a short greeting"
+      ],
+      [
+        "PHOTO",
+        "A common short word for a picture made with a camera"
+      ],
+      [
+        "CAMERA",
+        "Device used to take photographs"
+      ],
+      [
+        "STAMP",
+        "Small adhesive item showing that postage has been paid"
+      ],
+      [
+        "ALBUM",
+        "Book or collection used to keep photographs together"
+      ],
+      [
+        "SOUVENIR",
+        "Object kept as a reminder of a place visited"
+      ],
+      [
+        "MAGNET",
+        "Small keepsake that can cling to a steel refrigerator door"
+      ],
+      [
+        "JOURNAL",
+        "Written record that can describe each day of a trip"
+      ],
+      [
+        "MEMORY",
+        "Something remembered from an earlier experience"
+      ],
+      [
+        "VIEW",
+        "A scene seen from a particular place"
+      ],
+      [
+        "SCENE",
+        "A photographed setting, or part of a play"
+      ],
+      [
+        "FRAME",
+        "Bordered holder used to display a photograph"
+      ],
+      [
+        "PRINT",
+        "A photograph produced on paper rather than viewed only on a screen"
+      ],
+      [
+        "ADDRESS",
+        "Information showing where a mailed greeting should be delivered"
+      ],
+      [
+        "MESSAGE",
+        "The written greeting on a card sent from a trip"
+      ],
+      [
+        "MAIL",
+        "Send a card or letter through the postal system"
+      ],
+      [
+        "WRITE",
+        "Put words on paper to describe a trip"
+      ],
+      [
+        "INK",
+        "Colored liquid used by many writing pens"
+      ],
+      [
+        "PEN",
+        "Handheld tool used to write a postcard in ink"
+      ],
+      [
+        "ENVELOPE",
+        "Paper covering used to hold a mailed letter"
+      ]
+    ],
+    "answerNotes": {
+      "POSTCARD": "A postcard can carry a short greeting without being put in an envelope. The clue describes the familiar picture-and-message format rather than a specific destination.",
+      "ALBUM": "Album can refer to recorded music or a collection of photographs. Here, the surrounding travel and picture words select the photograph meaning.",
+      "STAMP": "A postage stamp indicates payment for mailing. It is different from the address, which tells the postal service where the item is intended to go.",
+      "SOUVENIR": "A souvenir is kept because it recalls a place or experience. It does not need to be expensive or bought from a particular kind of shop.",
+      "PRINT": "Print is used here for a photograph on paper. It can also be a verb, but the clue asks for the finished physical picture.",
+      "FRAME": "A frame holds or surrounds a displayed photograph. An album stores photographs together, so the clue's reference to display helps distinguish the two."
+    }
+  }
+]

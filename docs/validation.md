@@ -71,3 +71,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 25 Playwright tests passed, including all twenty reader-note sections, all twenty previous-edition routes, saved-game isolation in all four edited families, and discovery using the original market series name.
 - All five updated print sheets exported as single US Letter pages in Chromium. Bread-counter notes visually inspected. Static output now has 329 HTML pages; canonical sitemap coverage remains 108 URLs.
 - These checks do not establish Cloudflare deployment completion, physical printer behavior, target-user difficulty, professional review or Google indexing/ranking.
+
+## Travel editorial batch — 2026-11-12
+
+- Replaced only the five current on-the-road editions. The other 95 puzzle objects, including all twenty previously edited puzzles, remain unchanged.
+- Subjects: A Relaxed Road Trip, At the Train Station, Around the Airport, A Comfortable Hotel Stay, and Postcards & Travel Memories. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations tied to actual answers.
+- Tightened selected definitions and aligned topic guidance to the placed vocabulary, including American vehicle terms, railway car meanings, the motor/hotel blend, and physical photo keepsakes. No live fares, airline policies, postal prices, or current schedules are asserted.
+- Travel series: 64 entries / 21 distinct answer-clue pairs before; 57 entries / 57 distinct pairs after. The collection remains 100 current puzzles with 1,232 entries, 612 distinct answer-clue pairs, 40 introductions, and 25 edited editions. Seventy-five current puzzles still await editorial work.
+- Preserved all five earlier travel boards. Exact full regeneration and byte-preserved archives verified for all 100 current puzzles and 25 original editions. Existing gardening, bird, music and market seeds/results were retained.
+- Build, content/SEO audits, TypeScript and 26 Playwright tests passed, including all twenty-five note sections and archive routes, independent old/new progress in all five edited families, and search discovery under the original travel series name.
+- All five new travel print sheets exported as single US Letter pages in Chromium. Hotel reader notes visually inspected. Static HTML output now totals 334 pages, while the canonical sitemap remains at 108 URLs.
+- Local verification does not establish Cloudflare deployment completion, target-user difficulty, physical printer results, professional review, or Google indexing/ranking.
