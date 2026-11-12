@@ -2224,110 +2224,132 @@
   },
   {
     "id": "flower-favorites",
-    "title": "Flower Favorites",
+    "title": "Parts of a Flowering Plant",
     "theme": "Gardening",
-    "description": "A colorful little collection of flowers and the things that help them grow.",
+    "subtheme": "Plant Parts Up Close",
+    "series": "flower-favorites",
+    "description": "Take a closer look at a flowering plant with a crossword about its blossoms, supporting parts, and new growth.",
+    "cardDescription": "Flower parts and the stems, leaves, and roots that support them.",
     "difficulty": "Easy",
-    "rows": 13,
+    "revision": 2,
+    "rows": 11,
     "cols": 11,
     "entries": [
       {
-        "answer": "NECTAR",
-        "clue": "A sweet liquid in flowers that attracts bees",
-        "row": 6,
+        "answer": "SPROUT",
+        "clue": "A small new growth emerging from a seed",
+        "row": 5,
         "col": 2,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "VIOLET",
-        "clue": "A small flower whose name is also a purple color",
-        "row": 1,
-        "col": 5,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "PEONY",
-        "clue": "A garden plant known for large, rounded blooms",
+        "answer": "POLLEN",
+        "clue": "Fine powderlike material produced in a flower's anthers",
         "row": 5,
         "col": 3,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "PANSY",
-        "clue": "A small garden flower with a face-like pattern",
-        "row": 8,
-        "col": 1,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "DAISY",
-        "clue": "A flower often drawn with white petals and a yellow center",
-        "row": 2,
-        "col": 3,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "PETAL",
-        "clue": "One of the colored parts surrounding a flower's center",
-        "row": 8,
-        "col": 1,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "LILY",
-        "clue": "A flower whose name also completes calla ___",
-        "row": 4,
-        "col": 5,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "ROSE",
-        "clue": "A flower known for fragrance and thorns",
-        "row": 6,
-        "col": 7,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "VASE",
-        "clue": "A container for a bouquet",
-        "row": 11,
+        "answer": "BRANCH",
+        "clue": "Woody limb growing from a larger plant stem",
+        "row": 10,
         "col": 0,
         "direction": "across",
         "number": 11
       },
       {
-        "answer": "STEM",
-        "clue": "The stalk supporting a flower",
-        "row": 8,
+        "answer": "NECTAR",
+        "clue": "Sweet liquid produced by flowers that attracts visiting animals",
+        "row": 2,
         "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ANTHER",
+        "clue": "Pollen-producing part at the tip of a stamen",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SEPAL",
+        "clue": "One of the outer flower parts that often protect an unopened bud",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SHOOT",
+        "clue": "New growth consisting of a young stem and its leaves",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SEED",
+        "clue": "Plant structure containing an embryo that can start a new plant",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Usually flat green plant part that captures sunlight",
+        "row": 8,
+        "col": 3,
         "direction": "across",
         "number": 10
       },
       {
-        "answer": "SEED",
-        "clue": "A small plant beginning that can be sown",
-        "row": 6,
-        "col": 9,
-        "direction": "down",
+        "answer": "ROOT",
+        "clue": "Plant part that usually grows underground and absorbs water",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
         "number": 8
       },
       {
-        "answer": "BUD",
-        "clue": "An unopened flower",
-        "row": 0,
-        "col": 3,
+        "answer": "TIP",
+        "clue": "The outermost end of a growing plant stem",
+        "row": 7,
+        "col": 10,
         "direction": "down",
-        "number": 1
+        "number": 9
+      },
+      {
+        "answer": "POD",
+        "clue": "Seed case that can split open when mature",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle moves from familiar leaves and roots to some smaller parts of a flower. The clues describe where a part is or what it does. A few botanical names sit alongside everyday garden words, with crossing letters to help.",
+      "solvingTip": "Notice whether a clue asks for a whole flower, one small part, or something supporting the plant. Location words such as tip and underground can help. Use the short everyday answers before tackling the longer botanical terms.",
+      "answerNotes": [
+        {
+          "answer": "POLLEN",
+          "text": "Pollen is made in anthers and can be transferred to a flower's stigma during pollination. It is not a seed, which develops later after fertilization."
+        },
+        {
+          "answer": "NECTAR",
+          "text": "Nectar is a sweet liquid that can feed visiting animals. Some visitors sip it while brushing against flower parts, which can move pollen."
+        },
+        {
+          "answer": "ANTHER",
+          "text": "The anther produces pollen and is part of the stamen. The slender filament supports it, so the clue identifies the pollen-producing part."
+        }
+      ]
+    }
   },
   {
     "id": "garden-days-2",
@@ -4578,118 +4600,132 @@
   },
   {
     "id": "flower-favorites-2",
-    "title": "Flower Favorites \u2014 No. 2",
+    "title": "At the Flower Shop",
     "theme": "Gardening",
-    "description": "A colorful little collection of flowers and the things that help them grow.",
+    "subtheme": "Bouquets and Floral Supplies",
+    "series": "flower-favorites",
+    "description": "Visit the flower shop through a crossword about bouquets, familiar arrangements, and the supplies used to gather and display cut flowers.",
+    "cardDescription": "Flower arrangements, containers, and the supplies used to put them together.",
     "difficulty": "Easy",
-    "rows": 13,
-    "cols": 12,
+    "revision": 2,
+    "rows": 11,
+    "cols": 10,
     "entries": [
       {
-        "answer": "BOUQUET",
-        "clue": "A bunch of flowers arranged together",
-        "row": 6,
-        "col": 3,
+        "answer": "FLORIST",
+        "clue": "Person who sells and arranges cut flowers",
+        "row": 5,
+        "col": 2,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "VIOLET",
-        "clue": "A small flower whose name is also a purple color",
+        "answer": "WREATH",
+        "clue": "Ring-shaped arrangement of flowers or greenery",
         "row": 1,
-        "col": 9,
+        "col": 8,
         "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "DAISY",
-        "clue": "A flower often drawn with white petals and a yellow center",
-        "row": 2,
-        "col": 7,
-        "direction": "across",
         "number": 3
       },
       {
-        "answer": "POPPY",
-        "clue": "A flower often associated with red petals",
+        "answer": "RIBBON",
+        "clue": "Narrow decorative fabric strip tied around a bouquet",
         "row": 5,
-        "col": 4,
+        "col": 5,
         "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "PETAL",
-        "clue": "One of the colored parts surrounding a flower's center",
-        "row": 8,
-        "col": 4,
-        "direction": "across",
         "number": 8
       },
       {
-        "answer": "PANSY",
-        "clue": "A small garden flower with a face-like pattern",
-        "row": 9,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "TULIP",
-        "clue": "A spring flower with a cup-shaped bloom",
-        "row": 4,
-        "col": 7,
+        "answer": "SHEARS",
+        "clue": "Strong cutting tool used to shorten flower stems",
+        "row": 2,
+        "col": 4,
         "direction": "across",
         "number": 4
       },
       {
-        "answer": "ASTER",
-        "clue": "A star-shaped flower often blooming in late summer",
+        "answer": "BUNCH",
+        "clue": "A group of cut flowers gathered together",
         "row": 8,
-        "col": 7,
-        "direction": "down",
-        "number": 9
+        "col": 5,
+        "direction": "across",
+        "number": 10
       },
       {
-        "answer": "PEONY",
-        "clue": "A garden plant known for large, rounded blooms",
-        "row": 4,
-        "col": 11,
+        "answer": "VASE",
+        "clue": "Open container used to display cut flowers in water",
+        "row": 0,
+        "col": 4,
         "direction": "down",
-        "number": 5
+        "number": 1
       },
       {
         "answer": "STEM",
-        "clue": "The stalk supporting a flower",
-        "row": 9,
-        "col": 3,
+        "clue": "Cut flower's supporting length placed into a vase",
+        "row": 0,
+        "col": 6,
         "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SNIP",
+        "clue": "To make a small cut while preparing flower stems",
+        "row": 10,
+        "col": 4,
+        "direction": "across",
         "number": 11
       },
       {
-        "answer": "ROOT",
-        "clue": "The part of a flower that takes up water from soil",
-        "row": 12,
-        "col": 7,
-        "direction": "across",
-        "number": 13
+        "answer": "FOAM",
+        "clue": "Spongy floral material that can hold arranged stems in place",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 7
       },
       {
-        "answer": "SEED",
-        "clue": "A small plant beginning that can be sown",
-        "row": 11,
+        "answer": "WRAP",
+        "clue": "Paper or other covering placed around a gift bouquet",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TAPE",
+        "clue": "Narrow adhesive strip used to secure floral supplies",
+        "row": 3,
         "col": 1,
         "direction": "across",
-        "number": 12
+        "number": 5
       },
       {
-        "answer": "BUD",
-        "clue": "An unopened flower",
-        "row": 0,
-        "col": 7,
+        "answer": "BOW",
+        "clue": "Decorative knot made with loops of ribbon",
+        "row": 5,
+        "col": 0,
         "direction": "down",
-        "number": 1
+        "number": 6
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues focus on arranging and presenting flowers. Some answers name a container or supply, while others describe the shape of an arrangement or an action used to prepare it. Everyday words can take a particular meaning at a florist's counter.",
+      "solvingTip": "Ask whether the clue describes something holding flowers, tying them together, or shaping the arrangement. A ring-shaped display, a ribbon knot, and a plain group of flowers have different names. Short supply and action words can help with longer shop and arrangement words.",
+      "answerNotes": [
+        {
+          "answer": "FLORIST",
+          "text": "A florist sells or arranges flowers. The clue asks for the person rather than the container or the arrangement."
+        },
+        {
+          "answer": "WREATH",
+          "text": "A wreath is arranged in a ring. Its circular form distinguishes it from a long garland or a hand-held bouquet."
+        },
+        {
+          "answer": "VASE",
+          "text": "A vase holds and displays cut flowers. A plant pot commonly holds roots and growing material, which is a different purpose."
+        }
+      ]
+    }
   },
   {
     "id": "garden-days-3",
@@ -6924,118 +6960,124 @@
   },
   {
     "id": "flower-favorites-3",
-    "title": "Flower Favorites \u2014 No. 3",
+    "title": "Cottage Garden Colors",
     "theme": "Gardening",
-    "description": "A colorful little collection of flowers and the things that help them grow.",
+    "subtheme": "Familiar Garden Flowers",
+    "series": "flower-favorites",
+    "description": "Picture a colorful cottage garden while solving clues about familiar flowers and the shapes that help identify them.",
+    "cardDescription": "Garden flower names identified by their familiar shapes and features.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 13,
+    "revision": 2,
+    "rows": 11,
+    "cols": 11,
     "entries": [
       {
-        "answer": "VIOLET",
-        "clue": "A small flower whose name is also a purple color",
+        "answer": "SNAPDRAGON",
+        "clue": "Flower named for a dragonlike blossom that can open when squeezed",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "NECTAR",
-        "clue": "A sweet liquid in flowers that attracts bees",
-        "row": 2,
+        "answer": "FOXGLOVE",
+        "clue": "Tall garden plant with hanging tubular flowers along a spike",
+        "row": 0,
         "col": 8,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "DAISY",
-        "clue": "A flower often drawn with white petals and a yellow center",
-        "row": 3,
-        "col": 4,
         "direction": "down",
         "number": 4
       },
       {
-        "answer": "TULIP",
-        "clue": "A spring flower with a cup-shaped bloom",
-        "row": 3,
-        "col": 6,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "POPPY",
-        "clue": "A flower often associated with red petals",
+        "answer": "VERBENA",
+        "clue": "Garden plant bearing clusters of small flowers, often used in containers",
         "row": 7,
-        "col": 0,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "PEONY",
-        "clue": "A garden plant known for large, rounded blooms",
-        "row": 5,
-        "col": 1,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "ASTER",
-        "clue": "A star-shaped flower often blooming in late summer",
-        "row": 6,
-        "col": 8,
+        "col": 4,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "PETAL",
-        "clue": "One of the colored parts surrounding a flower's center",
-        "row": 7,
-        "col": 3,
+        "answer": "SALVIA",
+        "clue": "Garden plant in the sage genus, often grown for upright flower spikes",
+        "row": 0,
+        "col": 6,
         "direction": "down",
-        "number": 12
-      },
-      {
-        "answer": "ROSE",
-        "clue": "A flower known for fragrance and thorns",
-        "row": 6,
-        "col": 12,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "SEED",
-        "clue": "A small plant beginning that can be sown",
-        "row": 3,
-        "col": 1,
-        "direction": "across",
         "number": 3
       },
       {
-        "answer": "LEAF",
-        "clue": "A green part of a flowering plant",
-        "row": 11,
-        "col": 3,
-        "direction": "across",
-        "number": 13
+        "answer": "COSMOS",
+        "clue": "Airy garden flower whose name also means the universe",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
       },
       {
-        "answer": "STEM",
-        "clue": "The stalk supporting a flower",
-        "row": 5,
+        "answer": "DAHLIA",
+        "clue": "Garden flower known for blooms ranging from small pompons to broad dinner-plate forms",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DAISY",
+        "clue": "Flower commonly pictured with a yellow center and white rays",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "STOCK",
+        "clue": "Fragrant garden flower whose name also means a shop's supply",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PANSY",
+        "clue": "Flower whose blotched petals can resemble a little face",
+        "row": 6,
         "col": 10,
         "direction": "down",
         "number": 8
       },
       {
-        "answer": "VASE",
-        "clue": "A container for a bouquet",
+        "answer": "PEONY",
+        "clue": "Garden flower known for large blooms, often with many petals",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "IRIS",
+        "clue": "Flower whose name is also the colored part of an eye",
         "row": 0,
         "col": 3,
-        "direction": "down",
-        "number": 1
+        "direction": "across",
+        "number": 2
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle is a collection of garden flower names. Clues point to a recognizable shape, growth habit, or familiar feature. Colors and flowering times can vary among varieties and locations, so the wording avoids treating one appearance as universal.",
+      "solvingTip": "Look for the shape or growth habit described in a clue, such as hanging tubes or upright flower spikes. Several names also have familiar meanings outside the garden. Use the whole description because many garden flowers share a color.",
+      "answerNotes": [
+        {
+          "answer": "SNAPDRAGON",
+          "text": "Snapdragon gets its familiar name from the blossom's dragonlike shape and opening action. The clue uses that shape rather than a specific flower color."
+        },
+        {
+          "answer": "COSMOS",
+          "text": "Cosmos is a garden flower name and a word for the universe. That second meaning gives a clue independent of flower color."
+        },
+        {
+          "answer": "DAHLIA",
+          "text": "Dahlias have many flower forms and sizes. Small pompon and large dinner-plate forms are examples, not features shared by every dahlia."
+        }
+      ]
+    }
   },
   {
     "id": "garden-days-4",
@@ -9254,118 +9296,124 @@
   },
   {
     "id": "flower-favorites-4",
-    "title": "Flower Favorites \u2014 No. 4",
+    "title": "Visitors Among the Blooms",
     "theme": "Gardening",
-    "description": "A colorful little collection of flowers and the things that help them grow.",
+    "subtheme": "Flowers and Pollinators",
+    "series": "flower-favorites",
+    "description": "Watch the flower visitors through a crossword about familiar pollinators, the parts they use, and their movements among blossoms.",
+    "cardDescription": "Winged flower visitors and the words for moving between blossoms.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 11,
     "cols": 11,
     "entries": [
       {
-        "answer": "BOUQUET",
-        "clue": "A bunch of flowers arranged together",
-        "row": 6,
-        "col": 1,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "POLLEN",
-        "clue": "The powdery material carried between flowers by bees",
+        "answer": "HUMMINGBIRD",
+        "clue": "Small hovering bird that may drink from tubular flowers",
         "row": 5,
-        "col": 2,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "PANSY",
-        "clue": "A small garden flower with a face-like pattern",
-        "row": 10,
         "col": 0,
         "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "ASTER",
-        "clue": "A star-shaped flower often blooming in late summer",
-        "row": 4,
-        "col": 7,
-        "direction": "down",
         "number": 6
       },
       {
-        "answer": "DAISY",
-        "clue": "A flower often drawn with white petals and a yellow center",
-        "row": 4,
-        "col": 6,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "BLOOM",
-        "clue": "Another word for a blossom",
-        "row": 8,
-        "col": 1,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "VASE",
-        "clue": "A container for a bouquet",
-        "row": 2,
+        "answer": "BUTTERFLY",
+        "clue": "Winged insect often seen visiting flowers, with club-tipped antennae",
+        "row": 0,
         "col": 9,
         "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "ROOT",
-        "clue": "The part of a flower that takes up water from soil",
-        "row": 8,
-        "col": 7,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "ROSE",
-        "clue": "A flower known for fragrance and thorns",
-        "row": 7,
-        "col": 9,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "SEED",
-        "clue": "A small plant beginning that can be sown",
-        "row": 1,
-        "col": 6,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "IRIS",
-        "clue": "A flower named for the Greek goddess of the rainbow",
-        "row": 1,
-        "col": 3,
-        "direction": "across",
         "number": 2
       },
       {
-        "answer": "LILY",
-        "clue": "A flower whose name also completes calla ___",
+        "answer": "ANTENNA",
+        "clue": "Slender sensory feeler on an insect's head",
         "row": 0,
-        "col": 3,
+        "col": 5,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "STEM",
-        "clue": "The stalk supporting a flower",
-        "row": 10,
+        "answer": "TONGUE",
+        "clue": "Feeding organ a bee can extend to reach floral nectar",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BEETLE",
+        "clue": "Insect with hardened front wings, some kinds of which pollinate flowers",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "VISIT",
+        "clue": "To stop at a flower while moving through a garden",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "HOVER",
+        "clue": "To remain in one place in the air near a flower",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "MOTH",
+        "clue": "Often night-active winged relative of a butterfly",
+        "row": 3,
         "col": 7,
         "direction": "across",
-        "number": 13
+        "number": 5
+      },
+      {
+        "answer": "LAND",
+        "clue": "To come to rest on a flower after flying",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "WING",
+        "clue": "Body part that lets a butterfly fly between blossoms",
+        "row": 7,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BEE",
+        "clue": "Buzzing insect that can carry pollen between flowers",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle connects flowers with visiting animals. Some clues name an animal or a body part, while others describe movement. Not every flower visit transfers pollen, so visiting and pollinating are treated as related ideas rather than identical actions.",
+      "solvingTip": "Notice whether a clue asks for a visitor, a body part, or a movement. Some answers name insects, while another names a bird. Short action words can give useful crossings for longer animal names.",
+      "answerNotes": [
+        {
+          "answer": "HUMMINGBIRD",
+          "text": "Hummingbirds are birds rather than insects. Their hovering flight and visits to tubular flowers distinguish the animal in this clue."
+        },
+        {
+          "answer": "BUTTERFLY",
+          "text": "Butterflies typically have club-tipped antennae. This familiar feature is useful in the clue, though flower visitors should not be identified by color alone."
+        },
+        {
+          "answer": "ANTENNA",
+          "text": "Antenna is singular; antennae is the usual plural for insect feelers. The clue asks for one feeler."
+        }
+      ]
+    }
   },
   {
     "id": "garden-days-5",
@@ -11600,117 +11648,131 @@
   },
   {
     "id": "flower-favorites-5",
-    "title": "Flower Favorites \u2014 No. 5",
+    "title": "Colors and Shapes in Bloom",
     "theme": "Gardening",
-    "description": "A colorful little collection of flowers and the things that help them grow.",
+    "subtheme": "Describing Flowers",
+    "series": "flower-favorites",
+    "description": "Describe the garden in a crossword about flower colors, familiar bloom shapes, patterned petals, and scent.",
+    "cardDescription": "Color words, flower shapes, petal patterns, and scent.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 11,
     "cols": 11,
     "entries": [
       {
-        "answer": "NECTAR",
-        "clue": "A sweet liquid in flowers that attracts bees",
-        "row": 6,
+        "answer": "STRIPED",
+        "clue": "Marked with lines of contrasting color on the petals",
+        "row": 5,
         "col": 2,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "POLLEN",
-        "clue": "The powdery material carried between flowers by bees",
-        "row": 1,
-        "col": 2,
+        "answer": "FRILLED",
+        "clue": "Having finely flounced or fringelike petal edges",
+        "row": 3,
+        "col": 5,
         "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "VIOLET",
-        "clue": "A small flower whose name is also a purple color",
-        "row": 2,
-        "col": 0,
-        "direction": "across",
         "number": 4
       },
       {
-        "answer": "TULIP",
-        "clue": "A spring flower with a cup-shaped bloom",
-        "row": 6,
-        "col": 5,
+        "answer": "SINGLE",
+        "clue": "Describing a garden flower with a basic rather than multiplied petal arrangement",
+        "row": 5,
+        "col": 2,
         "direction": "down",
-        "number": 9
+        "number": 8
       },
       {
-        "answer": "PEONY",
-        "clue": "A garden plant known for large, rounded blooms",
-        "row": 10,
-        "col": 5,
-        "direction": "across",
-        "number": 12
-      },
-      {
-        "answer": "PETAL",
-        "clue": "One of the colored parts surrounding a flower's center",
-        "row": 8,
-        "col": 1,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "ASTER",
-        "clue": "A star-shaped flower often blooming in late summer",
+        "answer": "VIOLET",
+        "clue": "Purple hue that shares its name with a small spring flower",
         "row": 0,
-        "col": 5,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "BULB",
-        "clue": "The underground storage part of a tulip",
-        "row": 4,
-        "col": 0,
-        "direction": "across",
+        "answer": "SCENT",
+        "clue": "The smell given off by a flower",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
         "number": 5
       },
       {
-        "answer": "IRIS",
-        "clue": "A flower named for the Greek goddess of the rainbow",
-        "row": 5,
-        "col": 7,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "SEED",
-        "clue": "A small plant beginning that can be sown",
-        "row": 8,
-        "col": 7,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "VASE",
-        "clue": "A container for a bouquet",
-        "row": 5,
-        "col": 9,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "STEM",
-        "clue": "The stalk supporting a flower",
+        "answer": "SPIKE",
+        "clue": "Elongated flower cluster with stalkless blooms attached along its axis",
         "row": 1,
-        "col": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "GOLD",
+        "clue": "Rich yellow color often associated with marigold blooms",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PINK",
+        "clue": "Color between red and white, common in carnations",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BELL",
+        "clue": "Hanging flower shape resembling an instrument rung by a clapper",
+        "row": 3,
+        "col": 0,
         "direction": "across",
         "number": 3
       },
       {
-        "answer": "BUD",
-        "clue": "An unopened flower",
-        "row": 4,
+        "answer": "STAR",
+        "clue": "Flower outline with points radiating like a familiar night-sky symbol",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "RED",
+        "clue": "Color of a stop sign and many classic roses",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CUP",
+        "clue": "Rounded open flower shape resembling a small drinking vessel",
+        "row": 5,
         "col": 0,
         "direction": "down",
-        "number": 5
+        "number": 7
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues focus on how flowers look or smell rather than asking for plant names. Some answers are color words; others describe a shape, a marking, or the arrangement of petals. Familiar comparisons help identify the intended description.",
+      "solvingTip": "Check whether the clue asks for a color, a shape, a pattern, or a smell-related word. Look for line markings or decorative petal edges. Some shape clues use everyday objects as comparisons, while petal arrangement clues use their own descriptive terms.",
+      "answerNotes": [
+        {
+          "answer": "STRIPED",
+          "text": "Striped refers to lines of contrasting color. Spotted describes dots instead, so the kind of marking distinguishes the words."
+        },
+        {
+          "answer": "SINGLE",
+          "text": "Single describes a flower's basic petal arrangement in horticultural use. It does not mean that the whole plant produces only one flower."
+        },
+        {
+          "answer": "VIOLET",
+          "text": "Violet can name a purple hue or a small flowering plant. This clue uses the color meaning while mentioning the shared flower name."
+        }
+      ]
+    }
   }
 ]

@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1203 clue entries.
-- 637 distinct answers; 753 distinct answer/clue pairs.
-- 56 different introductions; 44 numbered titles remain.
-- 45 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1197 clue entries.
+- 659 distinct answers; 790 distinct answer/clue pairs.
+- 60 different introductions; 40 numbered titles remain.
+- 50 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -99,11 +99,21 @@ Current subjects: Measuring and Mixing, A Loaf of Bread, Making a Homemade Pie, 
 
 Current subjects: Inside the Sewing Box, A Basket of Knitting, With a Crochet Hook, Piecing a Patchwork Quilt, Mending Everyday Clothes.
 
-The 45 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Flowers: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 64 | 58 |
+| Distinct answer/clue pairs | 22 | 58 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Parts of a Flowering Plant, At the Flower Shop, Cottage Garden Colors, Visitors Among the Blooms, Colors and Shapes in Bloom.
+
+The 50 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-55 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+50 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -126,6 +136,6 @@ The 45 original layouts remain available as noindex previous editions so browser
 | in-the-workshop | 64 | 21 | 1 | 4 |
 | a-day-at-the-farm | 58 | 58 | 5 | 0 |
 | game-night | 57 | 21 | 1 | 4 |
-| flower-favorites | 64 | 22 | 1 | 4 |
+| flower-favorites | 58 | 58 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

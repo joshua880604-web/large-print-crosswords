@@ -1,0 +1,513 @@
+[
+  {
+    "id": "flower-favorites",
+    "title": "Parts of a Flowering Plant",
+    "subtheme": "Plant Parts Up Close",
+    "cardDescription": "Flower parts and the stems, leaves, and roots that support them.",
+    "description": "Take a closer look at a flowering plant with a crossword about its blossoms, supporting parts, and new growth.",
+    "focus": "This puzzle moves from familiar leaves and roots to some smaller parts of a flower. The clues describe where a part is or what it does. A few botanical names sit alongside everyday garden words, with crossing letters to help.",
+    "solvingTip": "Notice whether a clue asks for a whole flower, one small part, or something supporting the plant. Location words such as tip and underground can help. Use the short everyday answers before tackling the longer botanical terms.",
+    "words": [
+      [
+        "PETAL",
+        "One of the often colorful parts surrounding a flower's center"
+      ],
+      [
+        "STEM",
+        "Main plant structure that supports leaves and flowers"
+      ],
+      [
+        "LEAF",
+        "Usually flat green plant part that captures sunlight"
+      ],
+      [
+        "SEPAL",
+        "One of the outer flower parts that often protect an unopened bud"
+      ],
+      [
+        "POLLEN",
+        "Fine powderlike material produced in a flower's anthers"
+      ],
+      [
+        "ANTHER",
+        "Pollen-producing part at the tip of a stamen"
+      ],
+      [
+        "STAMEN",
+        "Flower part made up of a filament and an anther"
+      ],
+      [
+        "NECTAR",
+        "Sweet liquid produced by flowers that attracts visiting animals"
+      ],
+      [
+        "BLOOM",
+        "Another word for an open flower"
+      ],
+      [
+        "BUD",
+        "Unopened growth that may develop into a flower or leaf"
+      ],
+      [
+        "SEED",
+        "Plant structure containing an embryo that can start a new plant"
+      ],
+      [
+        "ROOT",
+        "Plant part that usually grows underground and absorbs water"
+      ],
+      [
+        "VEIN",
+        "One of the branching lines that carries water through a leaf"
+      ],
+      [
+        "STALK",
+        "Slender support holding a flower or leaf"
+      ],
+      [
+        "BRANCH",
+        "Woody limb growing from a larger plant stem"
+      ],
+      [
+        "SHOOT",
+        "New growth consisting of a young stem and its leaves"
+      ],
+      [
+        "TIP",
+        "The outermost end of a growing plant stem"
+      ],
+      [
+        "POD",
+        "Seed case that can split open when mature"
+      ],
+      [
+        "SAP",
+        "Fluid carried through a plant's tissues"
+      ],
+      [
+        "SPROUT",
+        "A small new growth emerging from a seed"
+      ]
+    ],
+    "answerNotes": {
+      "PETAL": "Petals are often the most colorful parts of a flower, but not every flower has large or showy ones. The clue uses often rather than treating color as universal.",
+      "SEPAL": "Sepals are the outer flower parts that commonly enclose the bud. They are often green and differ from the petals inside them.",
+      "POLLEN": "Pollen is made in anthers and can be transferred to a flower's stigma during pollination. It is not a seed, which develops later after fertilization.",
+      "ANTHER": "The anther produces pollen and is part of the stamen. The slender filament supports it, so the clue identifies the pollen-producing part.",
+      "STAMEN": "A stamen includes a filament and an anther. It names the whole structure, whereas anther names one part of it.",
+      "NECTAR": "Nectar is a sweet liquid that can feed visiting animals. Some visitors sip it while brushing against flower parts, which can move pollen.",
+      "ROOT": "Roots commonly absorb water and dissolved minerals and help anchor a plant. The clue says usually underground because some roots are exposed above ground.",
+      "VEIN": "Leaf veins contain tissues that transport materials through the leaf. The branching pattern is the visible feature used in the clue.",
+      "POD": "A pod is a kind of seed case, such as the one around peas. Not every seed-bearing structure is called a pod."
+    }
+  },
+  {
+    "id": "flower-favorites-2",
+    "title": "At the Flower Shop",
+    "subtheme": "Bouquets and Floral Supplies",
+    "cardDescription": "Flower arrangements, containers, and the supplies used to put them together.",
+    "description": "Visit the flower shop through a crossword about bouquets, familiar arrangements, and the supplies used to gather and display cut flowers.",
+    "focus": "The clues focus on arranging and presenting flowers. Some answers name a container or supply, while others describe the shape of an arrangement or an action used to prepare it. Everyday words can take a particular meaning at a florist's counter.",
+    "solvingTip": "Ask whether the clue describes something holding flowers, tying them together, or shaping the arrangement. A ring-shaped display, a ribbon knot, and a plain group of flowers have different names. Short supply and action words can help with longer shop and arrangement words.",
+    "words": [
+      [
+        "BOUQUET",
+        "An arranged bunch of cut flowers, often given as a gift"
+      ],
+      [
+        "FLORIST",
+        "Person who sells and arranges cut flowers"
+      ],
+      [
+        "VASE",
+        "Open container used to display cut flowers in water"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative fabric strip tied around a bouquet"
+      ],
+      [
+        "STEM",
+        "Cut flower's supporting length placed into a vase"
+      ],
+      [
+        "WRAP",
+        "Paper or other covering placed around a gift bouquet"
+      ],
+      [
+        "SHEARS",
+        "Strong cutting tool used to shorten flower stems"
+      ],
+      [
+        "WATER",
+        "Liquid placed in a vase to supply cut flowers with moisture"
+      ],
+      [
+        "FOAM",
+        "Spongy floral material that can hold arranged stems in place"
+      ],
+      [
+        "WIRE",
+        "Thin bendable metal strand used to support floral work"
+      ],
+      [
+        "TAPE",
+        "Narrow adhesive strip used to secure floral supplies"
+      ],
+      [
+        "BOW",
+        "Decorative knot made with loops of ribbon"
+      ],
+      [
+        "BUNCH",
+        "A group of cut flowers gathered together"
+      ],
+      [
+        "SPRAY",
+        "An arrangement or branching stem bearing several flowers"
+      ],
+      [
+        "WREATH",
+        "Ring-shaped arrangement of flowers or greenery"
+      ],
+      [
+        "GARLAND",
+        "Long decorative strand of flowers or greenery"
+      ],
+      [
+        "POSY",
+        "A small bunch of flowers"
+      ],
+      [
+        "TRIM",
+        "To shorten or neaten cut flower stems"
+      ],
+      [
+        "SNIP",
+        "To make a small cut while preparing flower stems"
+      ],
+      [
+        "TIE",
+        "To fasten a gathered bouquet with string or ribbon"
+      ]
+    ],
+    "answerNotes": {
+      "BOUQUET": "A bouquet is an arranged group of cut flowers. The word can also describe an aroma, but the reference to a gift selects the flower meaning.",
+      "FLORIST": "A florist sells or arranges flowers. The clue asks for the person rather than the container or the arrangement.",
+      "VASE": "A vase holds and displays cut flowers. A plant pot commonly holds roots and growing material, which is a different purpose.",
+      "FOAM": "Floral foam can support stems in an arrangement. The clue uses the material name, not a recommendation about how to handle or dispose of it.",
+      "BOW": "Bow means a looped ribbon knot here and rhymes with go. The spelling also has meanings pronounced like cow, so the floral setting helps.",
+      "SPRAY": "Spray has a floral meaning: a branching stem or an arrangement of flowers. The clue does not refer to a mist of liquid.",
+      "WREATH": "A wreath is arranged in a ring. Its circular form distinguishes it from a long garland or a hand-held bouquet.",
+      "GARLAND": "A garland is a long decorative strand. Its length and strand form distinguish it from a circular wreath.",
+      "POSY": "A posy is a small bunch of flowers. The word describes the arrangement rather than one particular flower species."
+    }
+  },
+  {
+    "id": "flower-favorites-3",
+    "title": "Cottage Garden Colors",
+    "subtheme": "Familiar Garden Flowers",
+    "cardDescription": "Garden flower names identified by their familiar shapes and features.",
+    "description": "Picture a colorful cottage garden while solving clues about familiar flowers and the shapes that help identify them.",
+    "focus": "This puzzle is a collection of garden flower names. Clues point to a recognizable shape, growth habit, or familiar feature. Colors and flowering times can vary among varieties and locations, so the wording avoids treating one appearance as universal.",
+    "solvingTip": "Look for the shape or growth habit described in a clue, such as hanging tubes or upright flower spikes. Several names also have familiar meanings outside the garden. Use the whole description because many garden flowers share a color.",
+    "words": [
+      [
+        "ROSE",
+        "Garden flower often associated with romance and prickly stems"
+      ],
+      [
+        "DAISY",
+        "Flower commonly pictured with a yellow center and white rays"
+      ],
+      [
+        "POPPY",
+        "Flower known for delicate papery petals and a seed-filled capsule"
+      ],
+      [
+        "PEONY",
+        "Garden flower known for large blooms, often with many petals"
+      ],
+      [
+        "IRIS",
+        "Flower whose name is also the colored part of an eye"
+      ],
+      [
+        "ASTER",
+        "Daisy-like garden flower whose name comes from a word for star"
+      ],
+      [
+        "PHLOX",
+        "Garden plant known for clusters of small five-lobed flowers"
+      ],
+      [
+        "HOLLYHOCK",
+        "Tall cottage-garden plant with flowers spaced along an upright stalk"
+      ],
+      [
+        "FOXGLOVE",
+        "Tall garden plant with hanging tubular flowers along a spike"
+      ],
+      [
+        "COSMOS",
+        "Airy garden flower whose name also means the universe"
+      ],
+      [
+        "ZINNIA",
+        "Colorful garden flower with daisy-like heads, often grown for cutting"
+      ],
+      [
+        "MARIGOLD",
+        "Garden flower often grown for golden or orange blooms"
+      ],
+      [
+        "PANSY",
+        "Flower whose blotched petals can resemble a little face"
+      ],
+      [
+        "PETUNIA",
+        "Common bedding flower with a flared trumpet shape"
+      ],
+      [
+        "VERBENA",
+        "Garden plant bearing clusters of small flowers, often used in containers"
+      ],
+      [
+        "DAHLIA",
+        "Garden flower known for blooms ranging from small pompons to broad dinner-plate forms"
+      ],
+      [
+        "STOCK",
+        "Fragrant garden flower whose name also means a shop's supply"
+      ],
+      [
+        "SNAPDRAGON",
+        "Flower named for a dragonlike blossom that can open when squeezed"
+      ],
+      [
+        "SALVIA",
+        "Garden plant in the sage genus, often grown for upright flower spikes"
+      ],
+      [
+        "LUPINE",
+        "Garden plant with upright flower spikes and handlike divided leaves"
+      ]
+    ],
+    "answerNotes": {
+      "ROSE": "Roses commonly have prickles on their stems. Everyday speech often calls them thorns, but prickle is the more precise botanical term.",
+      "IRIS": "Iris names both a flower and the colored ring in an eye. The shared spelling provides a direct second meaning to help identify the flower.",
+      "ASTER": "Aster is linked to a word meaning star. The daisy-like shape gives another cue besides the name's origin.",
+      "HOLLYHOCK": "Hollyhocks carry flowers along tall upright stalks. The tall habit and arrangement of flowers help distinguish them from low bedding plants.",
+      "COSMOS": "Cosmos is a garden flower name and a word for the universe. That second meaning gives a clue independent of flower color.",
+      "PANSY": "Many pansies have blotches that suggest a face. The clue describes that familiar appearance without claiming that every variety has identical markings.",
+      "PETUNIA": "Petunia flowers have a flared funnel or trumpet form. Shape is more useful than one fixed color because petunias come in many colors.",
+      "DAHLIA": "Dahlias have many flower forms and sizes. Small pompon and large dinner-plate forms are examples, not features shared by every dahlia.",
+      "STOCK": "Stock is a flower name here. The shop-supply meaning is a separate everyday use of the same word.",
+      "SNAPDRAGON": "Snapdragon gets its familiar name from the blossom's dragonlike shape and opening action. The clue uses that shape rather than a specific flower color."
+    }
+  },
+  {
+    "id": "flower-favorites-4",
+    "title": "Visitors Among the Blooms",
+    "subtheme": "Flowers and Pollinators",
+    "cardDescription": "Winged flower visitors and the words for moving between blossoms.",
+    "description": "Watch the flower visitors through a crossword about familiar pollinators, the parts they use, and their movements among blossoms.",
+    "focus": "This puzzle connects flowers with visiting animals. Some clues name an animal or a body part, while others describe movement. Not every flower visit transfers pollen, so visiting and pollinating are treated as related ideas rather than identical actions.",
+    "solvingTip": "Notice whether a clue asks for a visitor, a body part, or a movement. Some answers name insects, while another names a bird. Short action words can give useful crossings for longer animal names.",
+    "words": [
+      [
+        "BEE",
+        "Buzzing insect that can carry pollen between flowers"
+      ],
+      [
+        "BUTTERFLY",
+        "Winged insect often seen visiting flowers, with club-tipped antennae"
+      ],
+      [
+        "MOTH",
+        "Often night-active winged relative of a butterfly"
+      ],
+      [
+        "BEETLE",
+        "Insect with hardened front wings, some kinds of which pollinate flowers"
+      ],
+      [
+        "HUMMINGBIRD",
+        "Small hovering bird that may drink from tubular flowers"
+      ],
+      [
+        "WING",
+        "Body part that lets a butterfly fly between blossoms"
+      ],
+      [
+        "ANTENNA",
+        "Slender sensory feeler on an insect's head"
+      ],
+      [
+        "TONGUE",
+        "Feeding organ a bee can extend to reach floral nectar"
+      ],
+      [
+        "HOVER",
+        "To remain in one place in the air near a flower"
+      ],
+      [
+        "FLUTTER",
+        "To move with light rapid wingbeats among blossoms"
+      ],
+      [
+        "VISIT",
+        "To stop at a flower while moving through a garden"
+      ],
+      [
+        "SIP",
+        "To drink a small amount of nectar"
+      ],
+      [
+        "DUST",
+        "To lightly cover a surface with fine particles such as pollen"
+      ],
+      [
+        "TRANSFER",
+        "To move pollen from one place to another"
+      ],
+      [
+        "BLOSSOM",
+        "An open flower visited by a pollinating animal"
+      ],
+      [
+        "NECTAR",
+        "Sweet liquid a hummingbird may drink from a flower"
+      ],
+      [
+        "POLLEN",
+        "Material carried from anthers that can reach another flower's stigma"
+      ],
+      [
+        "SCENT",
+        "A flower's smell that may help attract a visitor"
+      ],
+      [
+        "COLOR",
+        "Visible hue that can help a flower attract pollinators"
+      ],
+      [
+        "LAND",
+        "To come to rest on a flower after flying"
+      ]
+    ],
+    "answerNotes": {
+      "BEE": "Bees can carry pollen between flowers as they forage. A visit can contribute to pollination when pollen reaches an appropriate receptive flower part.",
+      "BUTTERFLY": "Butterflies typically have club-tipped antennae. This familiar feature is useful in the clue, though flower visitors should not be identified by color alone.",
+      "MOTH": "Many moths are active at night, but some fly by day. The word often keeps the clue from making an absolute claim.",
+      "BEETLE": "Beetles have hardened front wings that cover their flight wings. Some visit and pollinate flowers, although not every beetle is a pollinator.",
+      "HUMMINGBIRD": "Hummingbirds are birds rather than insects. Their hovering flight and visits to tubular flowers distinguish the animal in this clue.",
+      "ANTENNA": "Antenna is singular; antennae is the usual plural for insect feelers. The clue asks for one feeler.",
+      "NECTAR": "Nectar is a liquid food source for many flower visitors. It differs from pollen, which is the material involved in the transfer described elsewhere in the puzzle.",
+      "POLLEN": "Pollination involves pollen reaching a receptive stigma. Simply visiting a blossom does not guarantee that this transfer occurs.",
+      "COLOR": "Color is the American spelling used here. Different pollinators respond to different visual cues; the clue does not name one color as a universal favorite."
+    }
+  },
+  {
+    "id": "flower-favorites-5",
+    "title": "Colors and Shapes in Bloom",
+    "subtheme": "Describing Flowers",
+    "cardDescription": "Color words, flower shapes, petal patterns, and scent.",
+    "description": "Describe the garden in a crossword about flower colors, familiar bloom shapes, patterned petals, and scent.",
+    "focus": "The clues focus on how flowers look or smell rather than asking for plant names. Some answers are color words; others describe a shape, a marking, or the arrangement of petals. Familiar comparisons help identify the intended description.",
+    "solvingTip": "Check whether the clue asks for a color, a shape, a pattern, or a smell-related word. Look for line markings or decorative petal edges. Some shape clues use everyday objects as comparisons, while petal arrangement clues use their own descriptive terms.",
+    "words": [
+      [
+        "RED",
+        "Color of a stop sign and many classic roses"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow and many gardenia blooms"
+      ],
+      [
+        "PINK",
+        "Color between red and white, common in carnations"
+      ],
+      [
+        "GOLD",
+        "Rich yellow color often associated with marigold blooms"
+      ],
+      [
+        "VIOLET",
+        "Purple hue that shares its name with a small spring flower"
+      ],
+      [
+        "BLUE",
+        "Color of a clear daytime sky and some delphinium blooms"
+      ],
+      [
+        "BELL",
+        "Hanging flower shape resembling an instrument rung by a clapper"
+      ],
+      [
+        "CUP",
+        "Rounded open flower shape resembling a small drinking vessel"
+      ],
+      [
+        "STAR",
+        "Flower outline with points radiating like a familiar night-sky symbol"
+      ],
+      [
+        "SPIKE",
+        "Elongated flower cluster with stalkless blooms attached along its axis"
+      ],
+      [
+        "CLUSTER",
+        "Group of flowers growing close together"
+      ],
+      [
+        "TUBULAR",
+        "Long and hollow in shape, like a narrow pipe"
+      ],
+      [
+        "RUFFLED",
+        "Having wavy or crinkled petal edges, like gathered fabric"
+      ],
+      [
+        "FRILLED",
+        "Having finely flounced or fringelike petal edges"
+      ],
+      [
+        "SINGLE",
+        "Describing a garden flower with a basic rather than multiplied petal arrangement"
+      ],
+      [
+        "DOUBLE",
+        "Describing a garden flower with extra petals compared with its basic form"
+      ],
+      [
+        "STRIPED",
+        "Marked with lines of contrasting color on the petals"
+      ],
+      [
+        "SPOTTED",
+        "Marked with small dots of color on the petals"
+      ],
+      [
+        "FRAGRANT",
+        "Having a noticeable pleasant floral smell"
+      ],
+      [
+        "SCENT",
+        "The smell given off by a flower"
+      ]
+    ],
+    "answerNotes": {
+      "VIOLET": "Violet can name a purple hue or a small flowering plant. This clue uses the color meaning while mentioning the shared flower name.",
+      "BELL": "Bell names the shape here rather than a particular species. The hanging form resembles the body of a bell.",
+      "CUP": "Cup describes a rounded open form. Many different flowers can have that shape, so the answer is a description rather than a plant name.",
+      "SPIKE": "In botanical use, a spike is an elongated cluster with flowers attached directly along its central axis. The clue gives that arrangement rather than merely asking for something tall.",
+      "TUBULAR": "Tubular means shaped like a tube. It describes the form of a flower rather than its color, scent, or growing season.",
+      "SINGLE": "Single describes a flower's basic petal arrangement in horticultural use. It does not mean that the whole plant produces only one flower.",
+      "DOUBLE": "Double flowers have additional petals compared with the basic form. The term does not promise exactly twice as many petals.",
+      "STRIPED": "Striped refers to lines of contrasting color. Spotted describes dots instead, so the kind of marking distinguishes the words.",
+      "FRAGRANT": "Fragrant is an adjective describing a noticeable pleasant smell. Scent is the noun for the smell itself."
+    }
+  }
+]

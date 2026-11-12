@@ -126,3 +126,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 30 Playwright tests passed, including all forty-five reader-note sections and archive routes, original/current saved-progress isolation for all nine edited families, and discovery using the original crafts series name.
 - All five updated print sheets exported as single US Letter pages in Chromium. Static output totals 354 HTML pages; the canonical sitemap remains at 108 URLs.
 - These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
+
+## Flowers editorial batch — 2026-11-12
+
+- Changed only the five current flower-favorites editions. All other 95 current puzzle objects, including the forty-five previously edited editions, remain unchanged.
+- Subjects: Parts of a Flowering Plant, At the Flower Shop, Cottage Garden Colors, Visitors Among the Blooms, and Colors and Shapes in Bloom. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Reviewed the selected definitions and aligned guidance to actual plant parts, flower-shop supplies, flower names, visiting animals, and descriptive words. Clarified pollen versus nectar, qualified variable flower appearances and animal activity, and distinguished a flower visit from successful pollination. Cottage-garden notes were visually inspected.
+- Flowers series: 64 entries / 22 distinct answer-clue pairs before; 58 entries / 58 distinct pairs after. Collection totals are 100 current puzzles, 1,197 entries, 790 distinct answer-clue pairs, 60 introductions, and 50 edited editions. Fifty current puzzles remain in the editorial queue.
+- The five original flower objects match the previous release exactly. Full regeneration reproduced all 100 current puzzles byte-for-byte and preserved all fifty archived layouts. Existing series seeds and results were retained.
+- Build, content/SEO audits, TypeScript and 31 Playwright tests passed, including all fifty reader-note sections and archive routes, original/current saved-progress isolation for all ten edited families, and discovery using the original flower series name.
+- All five changed print sheets exported as single US Letter pages in Chromium. Static output totals 359 HTML pages; the canonical sitemap remains at 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.

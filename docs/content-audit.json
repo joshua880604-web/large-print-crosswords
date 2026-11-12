@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1203,
-    "distinctAnswers": 637,
-    "distinctAnswerCluePairs": 753,
-    "distinctIntroductions": 56,
-    "numberedTitles": 44,
-    "editedEditions": 45
+    "clueEntries": 1197,
+    "distinctAnswers": 659,
+    "distinctAnswerCluePairs": 790,
+    "distinctIntroductions": 60,
+    "numberedTitles": 40,
+    "editedEditions": 50
   },
   "refinedSeries": [
     {
@@ -279,6 +279,36 @@
         "Piecing a Patchwork Quilt",
         "Mending Everyday Clothes"
       ]
+    },
+    {
+      "id": "flower-favorites",
+      "name": "Flowers",
+      "before": {
+        "puzzles": 5,
+        "entries": 64,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "flower-favorites",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 58,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Parts of a Flowering Plant",
+        "At the Flower Shop",
+        "Cottage Garden Colors",
+        "Visitors Among the Blooms",
+        "Colors and Shapes in Bloom"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -382,16 +412,6 @@
         "game-night-4",
         "game-night-5"
       ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
-        "flower-favorites",
-        "flower-favorites-2",
-        "flower-favorites-3",
-        "flower-favorites-4",
-        "flower-favorites-5"
-      ]
     }
   ],
   "repeatedClues": [
@@ -411,23 +431,8 @@
       "occurrences": 5
     },
     {
-      "answer": "PETAL",
-      "clue": "One of the colored parts surrounding a flower's center",
-      "occurrences": 5
-    },
-    {
       "answer": "SCENE",
       "clue": "One part of a play or movie",
-      "occurrences": 5
-    },
-    {
-      "answer": "SEED",
-      "clue": "A small plant beginning that can be sown",
-      "occurrences": 5
-    },
-    {
-      "answer": "STEM",
-      "clue": "The stalk supporting a flower",
       "occurrences": 5
     },
     {
@@ -443,11 +448,6 @@
     {
       "answer": "ANCHOR",
       "clue": "A heavy object used to hold a boat in place",
-      "occurrences": 4
-    },
-    {
-      "answer": "ASTER",
-      "clue": "A star-shaped flower often blooming in late summer",
       "occurrences": 4
     },
     {
@@ -494,16 +494,29 @@
       "answer": "COLLAR",
       "clue": "A band worn around a pet's neck",
       "occurrences": 4
+    },
+    {
+      "answer": "COMEDY",
+      "clue": "A movie meant to make you laugh",
+      "occurrences": 4
+    },
+    {
+      "answer": "CUP",
+      "clue": "A small drinking vessel with a handle",
+      "occurrences": 4
+    },
+    {
+      "answer": "DAMP",
+      "clue": "Slightly wet",
+      "occurrences": 4
+    },
+    {
+      "answer": "DECK",
+      "clue": "A complete set of playing cards",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
-    {
-      "first": "flower-favorites",
-      "second": "flower-favorites-3",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
     {
       "first": "our-furry-friends",
       "second": "our-furry-friends-2",
@@ -535,20 +548,6 @@
     {
       "first": "a-good-book-3",
       "second": "a-good-book-4",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "flower-favorites-2",
-      "second": "flower-favorites-3",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "flower-favorites-3",
-      "second": "flower-favorites-5",
       "sharedClues": 9,
       "jaccard": 0.529,
       "sameSeries": true
@@ -624,38 +623,42 @@
       "sameSeries": true
     },
     {
-      "first": "flower-favorites",
-      "second": "flower-favorites-2",
+      "first": "holiday-table",
+      "second": "holiday-table-5",
       "sharedClues": 8,
       "jaccard": 0.471,
       "sameSeries": true
     },
     {
-      "first": "flower-favorites",
-      "second": "flower-favorites-5",
+      "first": "game-night-3",
+      "second": "game-night-4",
+      "sharedClues": 7,
+      "jaccard": 0.467,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort",
+      "second": "a-cup-of-comfort-3",
       "sharedClues": 8,
-      "jaccard": 0.471,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-2",
+      "second": "a-cup-of-comfort-4",
+      "sharedClues": 8,
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-2",
+      "second": "a-cup-of-comfort-5",
+      "sharedClues": 8,
+      "jaccard": 0.444,
       "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "flower-favorites",
-      "second": "flower-favorites-3",
-      "sharedAnswers": [
-        "NECTAR",
-        "VIOLET",
-        "PEONY",
-        "DAISY",
-        "PETAL",
-        "ROSE",
-        "VASE",
-        "STEM",
-        "SEED"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
     {
       "first": "our-furry-friends",
       "second": "our-furry-friends-2",
@@ -735,40 +738,6 @@
         "LINE",
         "READ",
         "INK"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "flower-favorites-2",
-      "second": "flower-favorites-3",
-      "sharedAnswers": [
-        "VIOLET",
-        "DAISY",
-        "POPPY",
-        "PETAL",
-        "TULIP",
-        "ASTER",
-        "PEONY",
-        "STEM",
-        "SEED"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
-      "first": "flower-favorites-3",
-      "second": "flower-favorites-5",
-      "sharedAnswers": [
-        "VIOLET",
-        "NECTAR",
-        "TULIP",
-        "PEONY",
-        "ASTER",
-        "PETAL",
-        "SEED",
-        "STEM",
-        "VASE"
       ],
       "jaccard": 0.529,
       "sameSeries": true
@@ -938,35 +907,82 @@
       "sameSeries": true
     },
     {
-      "first": "flower-favorites",
-      "second": "flower-favorites-2",
+      "first": "holiday-table",
+      "second": "holiday-table-5",
       "sharedAnswers": [
-        "VIOLET",
-        "PEONY",
-        "PANSY",
-        "DAISY",
-        "PETAL",
-        "STEM",
-        "SEED",
-        "BUD"
+        "THANKS",
+        "SPOON",
+        "TABLE",
+        "SHARE",
+        "GUEST",
+        "PEAS",
+        "BEAN",
+        "PIE"
       ],
       "jaccard": 0.471,
       "sameSeries": true
     },
     {
-      "first": "flower-favorites",
-      "second": "flower-favorites-5",
+      "first": "game-night-3",
+      "second": "game-night-4",
       "sharedAnswers": [
-        "NECTAR",
-        "VIOLET",
-        "PEONY",
-        "PETAL",
-        "VASE",
-        "STEM",
-        "SEED",
-        "BUD"
+        "SHUFFLE",
+        "HEART",
+        "QUEEN",
+        "TURN",
+        "DECK",
+        "PAWN",
+        "ACE"
       ],
-      "jaccard": 0.471,
+      "jaccard": 0.467,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort",
+      "second": "a-cup-of-comfort-3",
+      "sharedAnswers": [
+        "KETTLE",
+        "COFFEE",
+        "TOAST",
+        "COCOA",
+        "SCONE",
+        "SUGAR",
+        "CHAI",
+        "SIP"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-2",
+      "second": "a-cup-of-comfort-4",
+      "sharedAnswers": [
+        "STEAM",
+        "CIDER",
+        "LEMON",
+        "BREW",
+        "TRAY",
+        "CHAI",
+        "POT",
+        "CUP"
+      ],
+      "jaccard": 0.444,
+      "sameSeries": true
+    },
+    {
+      "first": "a-cup-of-comfort-2",
+      "second": "a-cup-of-comfort-5",
+      "sharedAnswers": [
+        "COFFEE",
+        "HANDLE",
+        "STEAM",
+        "CIDER",
+        "LEMON",
+        "SPOON",
+        "MINT",
+        "CUP"
+      ],
+      "jaccard": 0.444,
       "sameSeries": true
     }
   ],
@@ -1202,14 +1218,14 @@
     {
       "id": "flower-favorites",
       "puzzles": 5,
-      "entries": 64,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 58,
+      "uniqueAnswers": 58,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     }
   ]
 }
