@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 100 current puzzles; 1225 clue entries.
-- 556 distinct answers; 648 distinct answer/clue pairs.
-- 44 different introductions; 56 numbered titles remain.
-- 30 editions have dedicated subject notes and answer explanations.
+- 100 current puzzles; 1218 clue entries.
+- 583 distinct answers; 684 distinct answer/clue pairs.
+- 48 different introductions; 52 numbered titles remain.
+- 35 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -69,11 +69,21 @@ Current subjects: A Relaxed Road Trip, At the Train Station, Around the Airport,
 
 Current subjects: In the Living Room, Tools at the Kitchen Counter, Laundry Day Words, At the Front Door, A Place for Everything.
 
-The 30 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+## Farm: five stable URLs
+
+| Metric | Original five | Current five |
+| --- | ---: | ---: |
+| Clue entries | 65 | 58 |
+| Distinct answer/clue pairs | 22 | 58 |
+| Different introductions | 1 | 5 |
+
+Current subjects: Meet the Farm Animals, Across the Grain Fields, A Visit to the Orchard, Around the Horse Stable, At the Country Fair.
+
+The 35 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Next editorial queue
 
-70 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
+65 current puzzles still await this editorial treatment. Their review signals remain visible rather than being hidden by a passing site-wide quality score. Choose the next series using this table and real user/search feedback. Similarity alone does not decide whether a page should be indexed.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -94,7 +104,7 @@ The 30 original layouts remain available as noindex previous editions so browser
 | weather-watching | 64 | 21 | 1 | 4 |
 | market-morning | 58 | 58 | 5 | 0 |
 | in-the-workshop | 64 | 21 | 1 | 4 |
-| a-day-at-the-farm | 65 | 22 | 1 | 4 |
+| a-day-at-the-farm | 58 | 58 | 5 | 0 |
 | game-night | 57 | 21 | 1 | 4 |
 | flower-favorites | 64 | 22 | 1 | 4 |
 

@@ -61,5 +61,16 @@
     "attempts": 8000,
     "gridSize": 11,
     "minEntries": 10
+  },
+  {
+    "id": "a-day-at-the-farm",
+    "name": "Farm",
+    "theme": "Nature",
+    "source": "farm-editorial.json",
+    "archive": "farm-originals.json",
+    "seed": 3710000,
+    "attempts": 8000,
+    "gridSize": 11,
+    "minEntries": 10
   }
 ]

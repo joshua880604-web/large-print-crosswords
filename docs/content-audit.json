@@ -2,12 +2,12 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 100,
-    "clueEntries": 1225,
-    "distinctAnswers": 556,
-    "distinctAnswerCluePairs": 648,
-    "distinctIntroductions": 44,
-    "numberedTitles": 56,
-    "editedEditions": 30
+    "clueEntries": 1218,
+    "distinctAnswers": 583,
+    "distinctAnswerCluePairs": 684,
+    "distinctIntroductions": 48,
+    "numberedTitles": 52,
+    "editedEditions": 35
   },
   "refinedSeries": [
     {
@@ -189,6 +189,36 @@
         "At the Front Door",
         "A Place for Everything"
       ]
+    },
+    {
+      "id": "a-day-at-the-farm",
+      "name": "Farm",
+      "before": {
+        "puzzles": 5,
+        "entries": 65,
+        "uniqueAnswers": 22,
+        "uniqueCluePairs": 22,
+        "uniqueIntroductions": 1
+      },
+      "after": {
+        "id": "a-day-at-the-farm",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "Meet the Farm Animals",
+        "Across the Grain Fields",
+        "A Visit to the Orchard",
+        "Around the Horse Stable",
+        "At the Country Fair"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -306,16 +336,6 @@
     {
       "pages": 5,
       "puzzles": [
-        "a-day-at-the-farm",
-        "a-day-at-the-farm-2",
-        "a-day-at-the-farm-3",
-        "a-day-at-the-farm-4",
-        "a-day-at-the-farm-5"
-      ]
-    },
-    {
-      "pages": 5,
-      "puzzles": [
         "game-night",
         "game-night-2",
         "game-night-3",
@@ -346,23 +366,8 @@
       "occurrences": 5
     },
     {
-      "answer": "FIELD",
-      "clue": "An open area of land used for crops",
-      "occurrences": 5
-    },
-    {
-      "answer": "HORSE",
-      "clue": "A large animal used for riding",
-      "occurrences": 5
-    },
-    {
       "answer": "LACE",
       "clue": "A delicate fabric with an open pattern",
-      "occurrences": 5
-    },
-    {
-      "answer": "LAMB",
-      "clue": "A young sheep",
       "occurrences": 5
     },
     {
@@ -406,11 +411,6 @@
       "occurrences": 5
     },
     {
-      "answer": "WOOL",
-      "clue": "The fiber obtained from sheep",
-      "occurrences": 5
-    },
-    {
       "answer": "ANCHOR",
       "clue": "A heavy object used to hold a boat in place",
       "occurrences": 4
@@ -434,23 +434,29 @@
       "answer": "BREAD",
       "clue": "A food baked in a loaf",
       "occurrences": 4
+    },
+    {
+      "answer": "BRUSH",
+      "clue": "A tool used to groom a pet's coat",
+      "occurrences": 4
+    },
+    {
+      "answer": "CHAI",
+      "clue": "A spiced tea often served with milk",
+      "occurrences": 4
+    },
+    {
+      "answer": "CHESS",
+      "clue": "A board game played with kings and queens",
+      "occurrences": 4
+    },
+    {
+      "answer": "CLEAR",
+      "clue": "A sky without clouds is this",
+      "occurrences": 4
     }
   ],
   "highestOverlapPairs": [
-    {
-      "first": "a-day-at-the-farm",
-      "second": "a-day-at-the-farm-3",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "a-day-at-the-farm",
-      "second": "a-day-at-the-farm-5",
-      "sharedClues": 9,
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
     {
       "first": "a-stitch-in-time",
       "second": "a-stitch-in-time-2",
@@ -501,13 +507,6 @@
       "sameSeries": true
     },
     {
-      "first": "a-day-at-the-farm",
-      "second": "a-day-at-the-farm-4",
-      "sharedClues": 9,
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
       "first": "a-good-book",
       "second": "a-good-book-3",
       "sharedClues": 9,
@@ -550,20 +549,6 @@
       "sameSeries": true
     },
     {
-      "first": "a-day-at-the-farm-2",
-      "second": "a-day-at-the-farm-4",
-      "sharedClues": 9,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "a-day-at-the-farm-3",
-      "second": "a-day-at-the-farm-4",
-      "sharedClues": 9,
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
       "first": "in-the-workshop",
       "second": "in-the-workshop-5",
       "sharedClues": 9,
@@ -576,43 +561,44 @@
       "sharedClues": 9,
       "jaccard": 0.5,
       "sameSeries": true
+    },
+    {
+      "first": "weather-watching",
+      "second": "weather-watching-2",
+      "sharedClues": 9,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "weather-watching",
+      "second": "weather-watching-3",
+      "sharedClues": 9,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "game-night",
+      "second": "game-night-2",
+      "sharedClues": 8,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "holiday-table",
+      "second": "holiday-table-3",
+      "sharedClues": 8,
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "our-furry-friends-2",
+      "second": "our-furry-friends-5",
+      "sharedClues": 8,
+      "jaccard": 0.5,
+      "sameSeries": true
     }
   ],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "a-day-at-the-farm",
-      "second": "a-day-at-the-farm-3",
-      "sharedAnswers": [
-        "FENCE",
-        "HORSE",
-        "FIELD",
-        "SHEEP",
-        "LAMB",
-        "SILO",
-        "WOOL",
-        "COW",
-        "HEN"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
-    {
-      "first": "a-day-at-the-farm",
-      "second": "a-day-at-the-farm-5",
-      "sharedAnswers": [
-        "FENCE",
-        "HORSE",
-        "FIELD",
-        "CHICK",
-        "CALF",
-        "LAMB",
-        "DUCK",
-        "WOOL",
-        "COW"
-      ],
-      "jaccard": 0.563,
-      "sameSeries": true
-    },
     {
       "first": "a-stitch-in-time",
       "second": "a-stitch-in-time-2",
@@ -731,23 +717,6 @@
       "sameSeries": true
     },
     {
-      "first": "a-day-at-the-farm",
-      "second": "a-day-at-the-farm-4",
-      "sharedAnswers": [
-        "FENCE",
-        "HORSE",
-        "FIELD",
-        "SHEEP",
-        "CALF",
-        "LAMB",
-        "DUCK",
-        "SILO",
-        "WOOL"
-      ],
-      "jaccard": 0.529,
-      "sameSeries": true
-    },
-    {
       "first": "a-good-book",
       "second": "a-good-book-3",
       "sharedAnswers": [
@@ -850,40 +819,6 @@
       "sameSeries": true
     },
     {
-      "first": "a-day-at-the-farm-2",
-      "second": "a-day-at-the-farm-4",
-      "sharedAnswers": [
-        "HORSE",
-        "FIELD",
-        "FOAL",
-        "WOOL",
-        "LAMB",
-        "BARN",
-        "CALF",
-        "PIG",
-        "HAY"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
-      "first": "a-day-at-the-farm-3",
-      "second": "a-day-at-the-farm-4",
-      "sharedAnswers": [
-        "FIELD",
-        "FENCE",
-        "HORSE",
-        "SHEEP",
-        "LAMB",
-        "WOOL",
-        "SILO",
-        "HAY",
-        "EGG"
-      ],
-      "jaccard": 0.5,
-      "sameSeries": true
-    },
-    {
       "first": "in-the-workshop",
       "second": "in-the-workshop-5",
       "sharedAnswers": [
@@ -913,6 +848,88 @@
         "EGG",
         "PAN",
         "PIE"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "weather-watching",
+      "second": "weather-watching-2",
+      "sharedAnswers": [
+        "SHADE",
+        "STORM",
+        "SLEET",
+        "CLEAR",
+        "CLOUD",
+        "DAMP",
+        "THAW",
+        "DEW",
+        "ICE"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "weather-watching",
+      "second": "weather-watching-3",
+      "sharedAnswers": [
+        "SHADE",
+        "SLEET",
+        "DAMP",
+        "THAW",
+        "MIST",
+        "COLD",
+        "DEW",
+        "ICE",
+        "DRY"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "game-night",
+      "second": "game-night-2",
+      "sharedAnswers": [
+        "BISHOP",
+        "DOMINO",
+        "SCORE",
+        "CHESS",
+        "DECK",
+        "KING",
+        "PAWN",
+        "CLUB"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "holiday-table",
+      "second": "holiday-table-3",
+      "sharedAnswers": [
+        "THANKS",
+        "SPOON",
+        "SHARE",
+        "GUEST",
+        "ROLL",
+        "CORN",
+        "PEAS",
+        "BEAN"
+      ],
+      "jaccard": 0.5,
+      "sameSeries": true
+    },
+    {
+      "first": "our-furry-friends-2",
+      "second": "our-furry-friends-5",
+      "sharedAnswers": [
+        "COLLAR",
+        "TREAT",
+        "LEASH",
+        "BRUSH",
+        "TAIL",
+        "MEOW",
+        "FUR",
+        "SIT"
       ],
       "jaccard": 0.5,
       "sameSeries": true
@@ -1126,14 +1143,14 @@
     {
       "id": "a-day-at-the-farm",
       "puzzles": 5,
-      "entries": 65,
-      "uniqueAnswers": 22,
-      "uniqueCluePairs": 22,
-      "uniqueIntroductions": 1,
-      "numberedTitles": 4,
-      "editedEditions": 0,
-      "highestExactClueJaccard": 0.563,
-      "highestAnswerJaccard": 0.563
+      "entries": 58,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
     },
     {
       "id": "game-night",

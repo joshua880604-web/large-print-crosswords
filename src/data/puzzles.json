@@ -1968,110 +1968,132 @@
   },
   {
     "id": "a-day-at-the-farm",
-    "title": "A Day at the Farm",
+    "title": "Meet the Farm Animals",
     "theme": "Nature",
-    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "subtheme": "Barnyard Neighbors",
+    "series": "a-day-at-the-farm",
+    "description": "Spend a little time in the barnyard with an easy crossword about familiar farm animals, their young, and the words used to describe them.",
+    "cardDescription": "Familiar farm animals, their young, and what covers or feeds them.",
     "difficulty": "Easy",
-    "rows": 12,
-    "cols": 8,
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "FENCE",
-        "clue": "A barrier around a field",
-        "row": 5,
-        "col": 0,
+        "answer": "ROOSTER",
+        "clue": "Adult male chicken",
+        "row": 4,
+        "col": 2,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "HORSE",
-        "clue": "A large animal used for riding",
-        "row": 1,
-        "col": 4,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "FIELD",
-        "clue": "An open area of land used for crops",
-        "row": 3,
-        "col": 1,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "CHICK",
-        "clue": "A newly hatched chicken",
-        "row": 5,
-        "col": 3,
+        "answer": "STRAW",
+        "clue": "Dry grain stalks used as animal bedding",
+        "row": 4,
+        "col": 5,
         "direction": "down",
         "number": 8
       },
       {
-        "answer": "SHEEP",
-        "clue": "An animal raised for wool",
-        "row": 1,
+        "answer": "FLOCK",
+        "clue": "A group of sheep",
+        "row": 2,
         "col": 3,
-        "direction": "across",
-        "number": 2
+        "direction": "down",
+        "number": 5
       },
       {
-        "answer": "CALF",
-        "clue": "A young cow",
-        "row": 8,
-        "col": 3,
+        "answer": "HOOF",
+        "clue": "Hard covering at the end of a cow's foot",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "HERD",
+        "clue": "A group of cattle",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "GOAT",
+        "clue": "Hoofed farm animal whose young is called a kid",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "DUCK",
+        "clue": "Web-footed farm bird often heard quacking",
+        "row": 6,
+        "col": 0,
         "direction": "across",
         "number": 9
       },
       {
         "answer": "LAMB",
-        "clue": "A young sheep",
-        "row": 8,
-        "col": 5,
-        "direction": "down",
-        "number": 10
-      },
-      {
-        "answer": "DUCK",
-        "clue": "A farm bird that quacks",
-        "row": 9,
-        "col": 0,
+        "clue": "Young animal born to a ewe",
+        "row": 7,
+        "col": 4,
         "direction": "across",
         "number": 11
       },
       {
-        "answer": "SILO",
-        "clue": "A tall structure used to store grain",
-        "row": 4,
-        "col": 4,
+        "answer": "WOOL",
+        "clue": "Fiber shorn from a sheep's fleece",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CALF",
+        "clue": "Young animal born to a cow",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "HEN",
+        "clue": "Adult female chicken",
+        "row": 2,
+        "col": 8,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "WOOL",
-        "clue": "The fiber obtained from sheep",
-        "row": 3,
-        "col": 7,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "COW",
-        "clue": "A farm animal that gives milk",
-        "row": 9,
-        "col": 2,
-        "direction": "down",
-        "number": 12
-      },
-      {
-        "answer": "HEN",
-        "clue": "A female chicken",
-        "row": 0,
-        "col": 6,
-        "direction": "down",
-        "number": 1
+        "answer": "PIG",
+        "clue": "Farm animal with a snout and a curly tail",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 2
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle brings together animal names and a few related barnyard words. Some clues ask for an adult animal, while others ask for its young or a group. The wording tells you which kind of name is needed.",
+      "solvingTip": "Check whether the clue names a young animal, an adult, a body part, or a group. The same short word can have another meaning away from the farm. Use the animal named in the clue and any crossing letters to narrow it down.",
+      "answerNotes": [
+        {
+          "answer": "ROOSTER",
+          "text": "Rooster is the usual American English name for an adult male chicken. A hen is the adult female."
+        },
+        {
+          "answer": "STRAW",
+          "text": "Straw consists of dry stalks left from grain crops. Hay is dried forage, commonly grass or legumes; the two words describe different materials."
+        },
+        {
+          "answer": "FLOCK",
+          "text": "Flock can name a group of sheep as well as a group of birds. The clue specifies the sheep meaning."
+        }
+      ]
+    }
   },
   {
     "id": "game-night",
@@ -4280,118 +4302,124 @@
   },
   {
     "id": "a-day-at-the-farm-2",
-    "title": "A Day at the Farm \u2014 No. 2",
+    "title": "Across the Grain Fields",
     "theme": "Nature",
-    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "subtheme": "Fieldwork and Grains",
+    "series": "a-day-at-the-farm",
+    "description": "Take a gentle trip across the fields with a crossword about grain crops, their plant parts, and familiar words for planting and harvesting.",
+    "cardDescription": "Grain crops, plant parts, and familiar fieldwork words.",
     "difficulty": "Easy",
-    "rows": 10,
-    "cols": 12,
+    "revision": 2,
+    "rows": 9,
+    "cols": 11,
     "entries": [
       {
-        "answer": "GOOSE",
-        "clue": "A farm bird that honks",
+        "answer": "TRACTOR",
+        "clue": "Powered farm vehicle that can pull equipment",
         "row": 3,
-        "col": 3,
+        "col": 2,
         "direction": "across",
         "number": 5
       },
       {
-        "answer": "HORSE",
-        "clue": "A large animal used for riding",
-        "row": 2,
-        "col": 5,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "FIELD",
-        "clue": "An open area of land used for crops",
-        "row": 6,
-        "col": 3,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "GATE",
-        "clue": "A hinged opening in a fence",
+        "answer": "FURROW",
+        "clue": "Long narrow trench made by a plow",
         "row": 0,
-        "col": 7,
+        "col": 3,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "FOAL",
-        "clue": "A young horse",
-        "row": 6,
-        "col": 3,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "WOOL",
-        "clue": "The fiber obtained from sheep",
-        "row": 9,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "LAMB",
-        "clue": "A young sheep",
-        "row": 6,
-        "col": 6,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "PLOW",
-        "clue": "A farm tool used to turn the soil",
-        "row": 6,
-        "col": 0,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "BARN",
-        "clue": "A large farm building for animals or storage",
-        "row": 9,
-        "col": 6,
-        "direction": "across",
-        "number": 11
-      },
-      {
-        "answer": "CALF",
-        "clue": "A young cow",
+        "answer": "BARLEY",
+        "clue": "Grain often served as small chewy pearls in soup",
         "row": 1,
-        "col": 6,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "HEN",
-        "clue": "A female chicken",
-        "row": 7,
-        "col": 9,
-        "direction": "down",
-        "number": 9
-      },
-      {
-        "answer": "PIG",
-        "clue": "A farm animal that oinks",
-        "row": 1,
-        "col": 3,
+        "col": 8,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "HAY",
-        "clue": "Dried grass stored as animal feed",
-        "row": 7,
-        "col": 9,
+        "answer": "STALK",
+        "clue": "Main upright stem of a corn plant",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PLOW",
+        "clue": "Farm implement that turns over soil before planting",
+        "row": 5,
+        "col": 0,
         "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "REAP",
+        "clue": "To cut and gather a ripe grain crop",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "OATS",
+        "clue": "Grain used to make traditional rolled breakfast cereal",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SEED",
+        "clue": "Small plant structure sown to start a crop",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "EAR",
+        "clue": "Seed-bearing part of a corn plant, also a hearing organ",
+        "row": 5,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ROW",
+        "clue": "A straight line of planted crops",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
         "number": 9
+      },
+      {
+        "answer": "RYE",
+        "clue": "Grain associated with dark bread and pumpernickel",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 10
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The clues move between crops, pieces of a plant, and work done in a field. An everyday word can take a particular meaning in farming. Each clue points to the intended object or action without requiring machinery specifications.",
+      "solvingTip": "Notice whether the clue asks for something that grows, a part of that plant, a tool, or an action. Short crop names can provide useful crossing letters. Read the whole definition before choosing between two related fieldwork words.",
+      "answerNotes": [
+        {
+          "answer": "FURROW",
+          "text": "Furrow names a narrow trench in the soil. It can also describe a crease in a brow, but the plow fixes the field meaning."
+        },
+        {
+          "answer": "PLOW",
+          "text": "Plow is the standard American spelling; plough is common in British English. Here it names the implement used to turn soil."
+        },
+        {
+          "answer": "REAP",
+          "text": "Reap means cut and gather a crop. Sowing begins a growing season, while reaping belongs to the harvest."
+        }
+      ]
+    }
   },
   {
     "id": "game-night-2",
@@ -6584,118 +6612,132 @@
   },
   {
     "id": "a-day-at-the-farm-3",
-    "title": "A Day at the Farm \u2014 No. 3",
+    "title": "A Visit to the Orchard",
     "theme": "Nature",
-    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "subtheme": "Fruit Trees and Harvest",
+    "series": "a-day-at-the-farm",
+    "description": "Visit the orchard through a crossword about familiar tree fruits, the parts of a fruit tree, and everyday harvest words.",
+    "cardDescription": "Fruit names, tree parts, and a few orchard harvest words.",
     "difficulty": "Easy",
+    "revision": 2,
     "rows": 11,
-    "cols": 9,
+    "cols": 10,
     "entries": [
       {
-        "answer": "FIELD",
-        "clue": "An open area of land used for crops",
-        "row": 4,
-        "col": 4,
+        "answer": "APRICOT",
+        "clue": "Small orange-colored stone fruit often dried",
+        "row": 5,
+        "col": 1,
         "direction": "across",
-        "number": 5
+        "number": 7
       },
       {
-        "answer": "FENCE",
-        "clue": "A barrier around a field",
-        "row": 4,
-        "col": 4,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "HORSE",
-        "clue": "A large animal used for riding",
+        "answer": "LADDER",
+        "clue": "Equipment with rungs used to reach high branches",
         "row": 0,
-        "col": 6,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "GOOSE",
-        "clue": "A farm bird that honks",
-        "row": 5,
-        "col": 0,
-        "direction": "across",
-        "number": 7
-      },
-      {
-        "answer": "SHEEP",
-        "clue": "An animal raised for wool",
-        "row": 8,
-        "col": 2,
-        "direction": "across",
-        "number": 8
-      },
-      {
-        "answer": "LAMB",
-        "clue": "A young sheep",
-        "row": 4,
-        "col": 7,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "GOAT",
-        "clue": "A farm animal known for its beard",
-        "row": 5,
-        "col": 0,
-        "direction": "down",
-        "number": 7
-      },
-      {
-        "answer": "WOOL",
-        "clue": "The fiber obtained from sheep",
-        "row": 3,
-        "col": 2,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "SILO",
-        "clue": "A tall structure used to store grain",
-        "row": 1,
         "col": 3,
-        "direction": "across",
+        "direction": "down",
         "number": 2
       },
       {
-        "answer": "HEN",
-        "clue": "A female chicken",
-        "row": 8,
-        "col": 3,
+        "answer": "CHERRY",
+        "clue": "Small round stone fruit often sold with its slender stem",
+        "row": 5,
+        "col": 5,
         "direction": "down",
         "number": 9
       },
       {
-        "answer": "HAY",
-        "clue": "Dried grass stored as animal feed",
+        "answer": "BASKET",
+        "clue": "Woven container used for gathering fruit",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "FRUIT",
+        "clue": "Seed-bearing produce such as apples and peaches",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "TRUNK",
+        "clue": "Main woody stem of a tree",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CORE",
+        "clue": "Central seed-bearing section of an apple",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PICK",
+        "clue": "To pluck fruit from a tree",
         "row": 0,
-        "col": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Underground plant part that absorbs water",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "PEEL",
+        "clue": "Outer skin removed from a piece of fruit",
+        "row": 0,
+        "col": 0,
         "direction": "across",
         "number": 1
       },
       {
-        "answer": "EGG",
-        "clue": "Something collected from a hen's nest",
-        "row": 8,
-        "col": 5,
+        "answer": "PEAR",
+        "clue": "Fruit whose familiar shape is narrow at the top and wider below",
+        "row": 5,
+        "col": 2,
         "direction": "down",
-        "number": 10
+        "number": 8
       },
       {
-        "answer": "COW",
-        "clue": "A farm animal that gives milk",
-        "row": 3,
+        "answer": "PIT",
+        "clue": "Hard stone inside a peach",
+        "row": 0,
         "col": 0,
-        "direction": "across",
-        "number": 3
+        "direction": "down",
+        "number": 1
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle looks at fruit from the tree to the picking basket. Clues distinguish tree parts from fruit parts and describe familiar fruits by a characteristic feature. No knowledge of named cultivars or growing zones is needed.",
+      "solvingTip": "Use the clue to decide whether the answer is a fruit, part of a tree, part of the fruit, or something used at harvest. A single large stone and a central seed-bearing section have different names. Crossing letters can help separate similar fruit names.",
+      "answerNotes": [
+        {
+          "answer": "APRICOT",
+          "text": "Apricots are stone fruits, like peaches and plums. The clue uses their familiar small size, orange color, and dried form."
+        },
+        {
+          "answer": "TRUNK",
+          "text": "Trunk means the main woody stem here. The fruit-tree setting distinguishes it from a car storage compartment or a large travel chest."
+        },
+        {
+          "answer": "CORE",
+          "text": "An apple core is the central section containing the seeds. It is not the same structure as the single hard pit of a peach."
+        }
+      ]
+    }
   },
   {
     "id": "game-night-3",
@@ -8904,126 +8946,124 @@
   },
   {
     "id": "a-day-at-the-farm-4",
-    "title": "A Day at the Farm \u2014 No. 4",
+    "title": "Around the Horse Stable",
     "theme": "Nature",
-    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "subtheme": "Horses and Their Care",
+    "series": "a-day-at-the-farm",
+    "description": "Step into the stable with an easy crossword about horses, riding equipment, and the familiar words used in their daily care.",
+    "cardDescription": "Horse names, riding equipment, and stable vocabulary.",
     "difficulty": "Easy",
-    "rows": 11,
-    "cols": 11,
+    "revision": 2,
+    "rows": 10,
+    "cols": 10,
     "entries": [
       {
-        "answer": "FENCE",
-        "clue": "A barrier around a field",
+        "answer": "STALLION",
+        "clue": "An adult male horse that has not been gelded",
         "row": 5,
-        "col": 3,
+        "col": 0,
         "direction": "across",
         "number": 6
       },
       {
-        "answer": "HORSE",
-        "clue": "A large animal used for riding",
-        "row": 1,
+        "answer": "STIRRUP",
+        "clue": "Hanging foot support on a riding saddle",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BRIDLE",
+        "clue": "Headgear used to guide a horse when riding",
+        "row": 7,
         "col": 4,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "GALLOP",
+        "clue": "Fast four-beat running gait of a horse",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "STALL",
+        "clue": "Individual compartment for a horse in a stable",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "HORSE",
+        "clue": "Large hoofed animal commonly ridden with a saddle",
+        "row": 2,
+        "col": 0,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "SHEEP",
-        "clue": "An animal raised for wool",
-        "row": 2,
-        "col": 7,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "FIELD",
-        "clue": "An open area of land used for crops",
-        "row": 5,
-        "col": 3,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "FOAL",
-        "clue": "A young horse",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "SILO",
-        "clue": "A tall structure used to store grain",
-        "row": 2,
-        "col": 7,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "BARN",
-        "clue": "A large farm building for animals or storage",
-        "row": 3,
-        "col": 2,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "WOOL",
-        "clue": "The fiber obtained from sheep",
-        "row": 7,
-        "col": 1,
-        "direction": "down",
-        "number": 8
-      },
-      {
-        "answer": "LAMB",
-        "clue": "A young sheep",
+        "answer": "TAIL",
+        "clue": "Horse's rear appendage that can swish away flies",
         "row": 0,
-        "col": 2,
+        "col": 8,
         "direction": "down",
         "number": 1
       },
       {
-        "answer": "DUCK",
-        "clue": "A farm bird that quacks",
-        "row": 9,
-        "col": 3,
+        "answer": "TROT",
+        "clue": "A horse's two-beat gait, faster than a walk",
+        "row": 8,
+        "col": 0,
         "direction": "across",
-        "number": 11
+        "number": 8
       },
       {
-        "answer": "CALF",
-        "clue": "A young cow",
-        "row": 0,
-        "col": 9,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "HAY",
-        "clue": "Dried grass stored as animal feed",
-        "row": 1,
-        "col": 4,
+        "answer": "HOOF",
+        "clue": "Hard outer covering of a horse's foot",
+        "row": 2,
+        "col": 0,
         "direction": "across",
         "number": 3
       },
       {
-        "answer": "EGG",
-        "clue": "Something collected from a hen's nest",
-        "row": 7,
-        "col": 3,
+        "answer": "PONY",
+        "clue": "A horse of a small type, rather than simply a young one",
+        "row": 9,
+        "col": 5,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "PIG",
-        "clue": "A farm animal that oinks",
-        "row": 6,
+        "answer": "HAY",
+        "clue": "Dried grass or other forage fed to horses",
+        "row": 1,
         "col": 7,
         "direction": "across",
-        "number": 7
+        "number": 2
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "The answers include names for horses, items of riding equipment, and words for movement and stable surroundings. The clues describe what an item does or where it goes, so a rider's technical background is not required.",
+      "solvingTip": "Watch for clues about a type of horse, equipment, movement, or a body part. Headgear used to guide a horse and a support for a rider's foot serve different purposes. Let the described job and the crossing letters help with longer equipment names.",
+      "answerNotes": [
+        {
+          "answer": "STIRRUP",
+          "text": "A stirrup supports a rider's foot and hangs from the saddle. Its position distinguishes it from the reins held in the hands."
+        },
+        {
+          "answer": "BRIDLE",
+          "text": "A bridle is riding headgear used to help guide a horse. A halter is generally used for leading or tying, so the purpose distinguishes the items."
+        },
+        {
+          "answer": "TROT",
+          "text": "The trot is a two-beat gait. The walk and gallop have different footfall patterns, so the beat count helps identify the movement."
+        }
+      ]
+    }
   },
   {
     "id": "game-night-4",
@@ -11232,118 +11272,132 @@
   },
   {
     "id": "a-day-at-the-farm-5",
-    "title": "A Day at the Farm \u2014 No. 5",
+    "title": "At the Country Fair",
     "theme": "Nature",
-    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "subtheme": "Displays and Prize Ribbons",
+    "series": "a-day-at-the-farm",
+    "description": "Enjoy a visit to a country fair through familiar words for exhibits, homemade entries, and the ribbons awarded after judging.",
+    "cardDescription": "Rural fair exhibits, homemade entries, and judging words.",
     "difficulty": "Easy",
-    "rows": 12,
+    "revision": 2,
+    "rows": 11,
     "cols": 11,
     "entries": [
       {
-        "answer": "FENCE",
-        "clue": "A barrier around a field",
+        "answer": "EXHIBIT",
+        "clue": "An item or collection put on public view",
         "row": 5,
-        "col": 3,
-        "direction": "across",
-        "number": 5
-      },
-      {
-        "answer": "GOOSE",
-        "clue": "A farm bird that honks",
-        "row": 1,
-        "col": 7,
-        "direction": "down",
-        "number": 3
-      },
-      {
-        "answer": "HORSE",
-        "clue": "A large animal used for riding",
-        "row": 1,
-        "col": 4,
-        "direction": "down",
-        "number": 2
-      },
-      {
-        "answer": "FIELD",
-        "clue": "An open area of land used for crops",
-        "row": 5,
-        "col": 3,
-        "direction": "down",
-        "number": 5
-      },
-      {
-        "answer": "CHICK",
-        "clue": "A newly hatched chicken",
-        "row": 5,
-        "col": 6,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "DUCK",
-        "clue": "A farm bird that quacks",
-        "row": 9,
-        "col": 3,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "WOOL",
-        "clue": "The fiber obtained from sheep",
-        "row": 8,
-        "col": 0,
+        "col": 2,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "BARN",
-        "clue": "A large farm building for animals or storage",
-        "row": 3,
-        "col": 2,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "LAMB",
-        "clue": "A young sheep",
-        "row": 0,
-        "col": 2,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "GATE",
-        "clue": "A hinged opening in a fence",
-        "row": 1,
-        "col": 7,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "CALF",
-        "clue": "A young cow",
-        "row": 8,
-        "col": 6,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "CROP",
-        "clue": "A plant grown and harvested on a farm",
-        "row": 6,
-        "col": 1,
+        "answer": "DISPLAY",
+        "clue": "An arrangement of objects put out for people to see",
+        "row": 4,
+        "col": 5,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "COW",
-        "clue": "A farm animal that gives milk",
-        "row": 9,
+        "answer": "PARADE",
+        "clue": "Organized procession of people or decorated vehicles",
+        "row": 7,
         "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ARENA",
+        "clue": "Enclosed area used for a livestock show",
+        "row": 3,
+        "col": 2,
         "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ENTRY",
+        "clue": "An item submitted for a competition",
+        "row": 10,
+        "col": 1,
+        "direction": "across",
         "number": 11
+      },
+      {
+        "answer": "QUILT",
+        "clue": "Layered stitched bedcover entered in a needlework display",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CRAFT",
+        "clue": "An activity that makes decorative objects by hand",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TENT",
+        "clue": "Fabric shelter supported by poles",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BLUE",
+        "clue": "Traditional first-place ribbon color at many U.S. fairs",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CAKE",
+        "clue": "Sweet baked dessert often entered in a decorating contest",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RED",
+        "clue": "Traditional second-place ribbon color at many U.S. fairs",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "PIE",
+        "clue": "Baked dish with pastry and a sweet or savory filling",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
       }
-    ]
+    ],
+    "editorial": {
+      "focus": "This puzzle focuses on the display side of a rural fair: things people enter, places they show them, and words used in judging. A fair may include many other activities, but these clues stay with familiar exhibits and prizes.",
+      "solvingTip": "Ask whether a clue describes an entered item, a display place, a person, or an award. Some everyday words change meaning in a competition. Color clues specify the United States convention to help identify a prize ribbon.",
+      "answerNotes": [
+        {
+          "answer": "EXHIBIT",
+          "text": "Exhibit is used as a noun here for something put on public view. As a verb it can mean to display that item."
+        },
+        {
+          "answer": "ENTRY",
+          "text": "Entry names an item submitted to a contest. It does not mean a doorway or the act of arriving in this clue."
+        },
+        {
+          "answer": "QUILT",
+          "text": "A quilt has layers joined by stitching. It can be displayed and judged for needlework rather than entered as a food or livestock exhibit."
+        }
+      ]
+    }
   },
   {
     "id": "game-night-5",

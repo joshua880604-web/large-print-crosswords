@@ -1,0 +1,509 @@
+[
+  {
+    "id": "a-day-at-the-farm",
+    "title": "Meet the Farm Animals",
+    "subtheme": "Barnyard Neighbors",
+    "cardDescription": "Familiar farm animals, their young, and what covers or feeds them.",
+    "description": "Spend a little time in the barnyard with an easy crossword about familiar farm animals, their young, and the words used to describe them.",
+    "focus": "This puzzle brings together animal names and a few related barnyard words. Some clues ask for an adult animal, while others ask for its young or a group. The wording tells you which kind of name is needed.",
+    "solvingTip": "Check whether the clue names a young animal, an adult, a body part, or a group. The same short word can have another meaning away from the farm. Use the animal named in the clue and any crossing letters to narrow it down.",
+    "words": [
+      [
+        "COW",
+        "Adult female cattle animal"
+      ],
+      [
+        "CALF",
+        "Young animal born to a cow"
+      ],
+      [
+        "SHEEP",
+        "Farm animal known for its woolly fleece"
+      ],
+      [
+        "LAMB",
+        "Young animal born to a ewe"
+      ],
+      [
+        "PIG",
+        "Farm animal with a snout and a curly tail"
+      ],
+      [
+        "PIGLET",
+        "Young animal born to a sow"
+      ],
+      [
+        "GOAT",
+        "Hoofed farm animal whose young is called a kid"
+      ],
+      [
+        "KID",
+        "A young goat"
+      ],
+      [
+        "HEN",
+        "Adult female chicken"
+      ],
+      [
+        "ROOSTER",
+        "Adult male chicken"
+      ],
+      [
+        "DUCK",
+        "Web-footed farm bird often heard quacking"
+      ],
+      [
+        "GOOSE",
+        "Long-necked farm bird known for honking"
+      ],
+      [
+        "DONKEY",
+        "Long-eared animal known for braying"
+      ],
+      [
+        "MULE",
+        "Offspring of a male donkey and a female horse"
+      ],
+      [
+        "WOOL",
+        "Fiber shorn from a sheep's fleece"
+      ],
+      [
+        "HOOF",
+        "Hard covering at the end of a cow's foot"
+      ],
+      [
+        "HERD",
+        "A group of cattle"
+      ],
+      [
+        "FLOCK",
+        "A group of sheep"
+      ],
+      [
+        "FEED",
+        "Food supplied to farm animals"
+      ],
+      [
+        "STRAW",
+        "Dry grain stalks used as animal bedding"
+      ]
+    ],
+    "answerNotes": {
+      "CALF": "Calf is the young cattle animal here. The word can also name part of a human leg; the reference to a cow selects the animal meaning.",
+      "LAMB": "A lamb is a young sheep. Ewe names an adult female, so the age and parent named in the clue matter.",
+      "KID": "Kid has a specific animal meaning: a young goat. Its familiar use for a child is not the meaning requested here.",
+      "ROOSTER": "Rooster is the usual American English name for an adult male chicken. A hen is the adult female.",
+      "HERD": "Herd is used for cattle as a group. It sounds like heard, but the clue asks for a group name rather than something perceived by the ears.",
+      "FLOCK": "Flock can name a group of sheep as well as a group of birds. The clue specifies the sheep meaning.",
+      "MULE": "A mule has a male donkey and a female horse as parents. A hinny has the reverse parentage.",
+      "STRAW": "Straw consists of dry stalks left from grain crops. Hay is dried forage, commonly grass or legumes; the two words describe different materials."
+    }
+  },
+  {
+    "id": "a-day-at-the-farm-2",
+    "title": "Across the Grain Fields",
+    "subtheme": "Fieldwork and Grains",
+    "cardDescription": "Grain crops, plant parts, and familiar fieldwork words.",
+    "description": "Take a gentle trip across the fields with a crossword about grain crops, their plant parts, and familiar words for planting and harvesting.",
+    "focus": "The clues move between crops, pieces of a plant, and work done in a field. An everyday word can take a particular meaning in farming. Each clue points to the intended object or action without requiring machinery specifications.",
+    "solvingTip": "Notice whether the clue asks for something that grows, a part of that plant, a tool, or an action. Short crop names can provide useful crossing letters. Read the whole definition before choosing between two related fieldwork words.",
+    "words": [
+      [
+        "TRACTOR",
+        "Powered farm vehicle that can pull equipment"
+      ],
+      [
+        "PLOW",
+        "Farm implement that turns over soil before planting"
+      ],
+      [
+        "HARROW",
+        "Toothed farm implement used to break up soil clods"
+      ],
+      [
+        "FURROW",
+        "Long narrow trench made by a plow"
+      ],
+      [
+        "SOIL",
+        "Earth in which crop roots grow"
+      ],
+      [
+        "SEED",
+        "Small plant structure sown to start a crop"
+      ],
+      [
+        "CROP",
+        "Plants grown together for food or another useful product"
+      ],
+      [
+        "CORN",
+        "Grain crop with kernels arranged on cobs"
+      ],
+      [
+        "WHEAT",
+        "Grain commonly milled into flour for bread"
+      ],
+      [
+        "OATS",
+        "Grain used to make traditional rolled breakfast cereal"
+      ],
+      [
+        "RYE",
+        "Grain associated with dark bread and pumpernickel"
+      ],
+      [
+        "BARLEY",
+        "Grain often served as small chewy pearls in soup"
+      ],
+      [
+        "GRAIN",
+        "The harvested seeds of cereal crops, collectively"
+      ],
+      [
+        "STALK",
+        "Main upright stem of a corn plant"
+      ],
+      [
+        "EAR",
+        "Seed-bearing part of a corn plant, also a hearing organ"
+      ],
+      [
+        "SILK",
+        "Fine threadlike strands at the tip of a corn cob"
+      ],
+      [
+        "KERNEL",
+        "One grain on a corn cob"
+      ],
+      [
+        "SOW",
+        "To put seeds into the ground for growing"
+      ],
+      [
+        "REAP",
+        "To cut and gather a ripe grain crop"
+      ],
+      [
+        "ROW",
+        "A straight line of planted crops"
+      ]
+    ],
+    "answerNotes": {
+      "PLOW": "Plow is the standard American spelling; plough is common in British English. Here it names the implement used to turn soil.",
+      "HARROW": "A harrow works the soil with teeth or discs, breaking clods or smoothing the surface. A plow and a harrow have related but different jobs.",
+      "FURROW": "Furrow names a narrow trench in the soil. It can also describe a crease in a brow, but the plow fixes the field meaning.",
+      "EAR": "An ear of corn is the seed-bearing structure on the plant. The word is shared with the body part, which makes the crop context useful.",
+      "SILK": "Corn silk is the cluster of fine strands associated with an ear of corn. In this clue, silk refers to those plant strands rather than woven fabric.",
+      "KERNEL": "A kernel is an individual grain, such as one on a corn cob. The cob supports many kernels; it is not itself a single kernel.",
+      "SOW": "Sow means plant seeds here and rhymes with go. The word for an adult female pig has the same spelling but a different pronunciation.",
+      "REAP": "Reap means cut and gather a crop. Sowing begins a growing season, while reaping belongs to the harvest."
+    }
+  },
+  {
+    "id": "a-day-at-the-farm-3",
+    "title": "A Visit to the Orchard",
+    "subtheme": "Fruit Trees and Harvest",
+    "cardDescription": "Fruit names, tree parts, and a few orchard harvest words.",
+    "description": "Visit the orchard through a crossword about familiar tree fruits, the parts of a fruit tree, and everyday harvest words.",
+    "focus": "This puzzle looks at fruit from the tree to the picking basket. Clues distinguish tree parts from fruit parts and describe familiar fruits by a characteristic feature. No knowledge of named cultivars or growing zones is needed.",
+    "solvingTip": "Use the clue to decide whether the answer is a fruit, part of a tree, part of the fruit, or something used at harvest. A single large stone and a central seed-bearing section have different names. Crossing letters can help separate similar fruit names.",
+    "words": [
+      [
+        "ORCHARD",
+        "An area planted with fruit trees"
+      ],
+      [
+        "APPLE",
+        "Tree fruit often pressed into cider"
+      ],
+      [
+        "PEAR",
+        "Fruit whose familiar shape is narrow at the top and wider below"
+      ],
+      [
+        "PEACH",
+        "Fuzzy-skinned fruit with a large stone inside"
+      ],
+      [
+        "PLUM",
+        "Smooth-skinned stone fruit often purple in color"
+      ],
+      [
+        "CHERRY",
+        "Small round stone fruit often sold with its slender stem"
+      ],
+      [
+        "APRICOT",
+        "Small orange-colored stone fruit often dried"
+      ],
+      [
+        "FRUIT",
+        "Seed-bearing produce such as apples and peaches"
+      ],
+      [
+        "BRANCH",
+        "Woody limb extending from a tree's main stem"
+      ],
+      [
+        "TRUNK",
+        "Main woody stem of a tree"
+      ],
+      [
+        "ROOT",
+        "Underground plant part that absorbs water"
+      ],
+      [
+        "BLOSSOM",
+        "A flower on a fruit tree"
+      ],
+      [
+        "BUD",
+        "Small unopened growth that may become a leaf or flower"
+      ],
+      [
+        "PIT",
+        "Hard stone inside a peach"
+      ],
+      [
+        "CORE",
+        "Central seed-bearing section of an apple"
+      ],
+      [
+        "PEEL",
+        "Outer skin removed from a piece of fruit"
+      ],
+      [
+        "RIPE",
+        "Ready to eat or harvest, as mature fruit"
+      ],
+      [
+        "PICK",
+        "To pluck fruit from a tree"
+      ],
+      [
+        "LADDER",
+        "Equipment with rungs used to reach high branches"
+      ],
+      [
+        "BASKET",
+        "Woven container used for gathering fruit"
+      ]
+    ],
+    "answerNotes": {
+      "ORCHARD": "An orchard is land planted with fruit or nut trees. In this puzzle the clues focus on fruit trees rather than nut crops.",
+      "PEACH": "A peach commonly has fuzzy skin and a large inner stone. Nectarines are closely related fruits with smooth skin.",
+      "APRICOT": "Apricots are stone fruits, like peaches and plums. The clue uses their familiar small size, orange color, and dried form.",
+      "TRUNK": "Trunk means the main woody stem here. The fruit-tree setting distinguishes it from a car storage compartment or a large travel chest.",
+      "BLOSSOM": "Blossom names a flower, especially one on a fruit tree. The flower and the later fruit are different stages of development.",
+      "PIT": "Pit is the usual American word for the hard stone inside a peach. It differs from the softer central core of an apple.",
+      "CORE": "An apple core is the central section containing the seeds. It is not the same structure as the single hard pit of a peach.",
+      "RIPE": "Ripe describes fruit that has reached a suitable stage for eating or harvest. The clue asks for a condition rather than a particular fruit."
+    }
+  },
+  {
+    "id": "a-day-at-the-farm-4",
+    "title": "Around the Horse Stable",
+    "subtheme": "Horses and Their Care",
+    "cardDescription": "Horse names, riding equipment, and stable vocabulary.",
+    "description": "Step into the stable with an easy crossword about horses, riding equipment, and the familiar words used in their daily care.",
+    "focus": "The answers include names for horses, items of riding equipment, and words for movement and stable surroundings. The clues describe what an item does or where it goes, so a rider's technical background is not required.",
+    "solvingTip": "Watch for clues about a type of horse, equipment, movement, or a body part. Headgear used to guide a horse and a support for a rider's foot serve different purposes. Let the described job and the crossing letters help with longer equipment names.",
+    "words": [
+      [
+        "HORSE",
+        "Large hoofed animal commonly ridden with a saddle"
+      ],
+      [
+        "PONY",
+        "A horse of a small type, rather than simply a young one"
+      ],
+      [
+        "FOAL",
+        "A young horse of either sex"
+      ],
+      [
+        "MARE",
+        "An adult female horse"
+      ],
+      [
+        "STALLION",
+        "An adult male horse that has not been gelded"
+      ],
+      [
+        "SADDLE",
+        "Rider's seat fastened on a horse's back"
+      ],
+      [
+        "BRIDLE",
+        "Headgear used to guide a horse when riding"
+      ],
+      [
+        "REINS",
+        "Straps a rider holds to guide a horse"
+      ],
+      [
+        "HALTER",
+        "Headgear used to lead or tie a horse"
+      ],
+      [
+        "STIRRUP",
+        "Hanging foot support on a riding saddle"
+      ],
+      [
+        "GROOM",
+        "To brush and clean a horse's coat"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool used to clean a horse's coat"
+      ],
+      [
+        "MANE",
+        "Long hair along a horse's neck"
+      ],
+      [
+        "TAIL",
+        "Horse's rear appendage that can swish away flies"
+      ],
+      [
+        "TROT",
+        "A horse's two-beat gait, faster than a walk"
+      ],
+      [
+        "WALK",
+        "A horse's slow four-beat gait"
+      ],
+      [
+        "GALLOP",
+        "Fast four-beat running gait of a horse"
+      ],
+      [
+        "STALL",
+        "Individual compartment for a horse in a stable"
+      ],
+      [
+        "HAY",
+        "Dried grass or other forage fed to horses"
+      ],
+      [
+        "HOOF",
+        "Hard outer covering of a horse's foot"
+      ]
+    ],
+    "answerNotes": {
+      "PONY": "Pony describes a small type of horse, not a horse's age. A foal is a young horse and may grow into a large adult.",
+      "FOAL": "Foal can refer to a young horse of either sex. Colt and filly are more specific names for a young male and young female.",
+      "MARE": "Mare names an adult female horse. The clue asks for the adult rather than the young female, called a filly.",
+      "BRIDLE": "A bridle is riding headgear used to help guide a horse. A halter is generally used for leading or tying, so the purpose distinguishes the items.",
+      "REINS": "Reins are straps held by the rider. Rein, rain, and reign sound alike in ordinary American pronunciation, but have different spellings and meanings.",
+      "HALTER": "A halter is headgear for leading or tying a horse. The clue describes that handling purpose rather than the rider's seat or foot support.",
+      "STIRRUP": "A stirrup supports a rider's foot and hangs from the saddle. Its position distinguishes it from the reins held in the hands.",
+      "TROT": "The trot is a two-beat gait. The walk and gallop have different footfall patterns, so the beat count helps identify the movement.",
+      "HAY": "Hay is dried forage used as animal feed. Straw is made from dry grain stalks and is commonly used as bedding."
+    }
+  },
+  {
+    "id": "a-day-at-the-farm-5",
+    "title": "At the Country Fair",
+    "subtheme": "Displays and Prize Ribbons",
+    "cardDescription": "Rural fair exhibits, homemade entries, and judging words.",
+    "description": "Enjoy a visit to a country fair through familiar words for exhibits, homemade entries, and the ribbons awarded after judging.",
+    "focus": "This puzzle focuses on the display side of a rural fair: things people enter, places they show them, and words used in judging. A fair may include many other activities, but these clues stay with familiar exhibits and prizes.",
+    "solvingTip": "Ask whether a clue describes an entered item, a display place, a person, or an award. Some everyday words change meaning in a competition. Color clues specify the United States convention to help identify a prize ribbon.",
+    "words": [
+      [
+        "FAIR",
+        "Community event with exhibits, contests, and entertainment"
+      ],
+      [
+        "EXHIBIT",
+        "An item or collection put on public view"
+      ],
+      [
+        "RIBBON",
+        "Narrow fabric award given after judging"
+      ],
+      [
+        "JUDGE",
+        "Person who evaluates entries in a competition"
+      ],
+      [
+        "PRIZE",
+        "Award given to a winning entry"
+      ],
+      [
+        "BOOTH",
+        "Small stand used by a seller or exhibitor"
+      ],
+      [
+        "TENT",
+        "Fabric shelter supported by poles"
+      ],
+      [
+        "ARENA",
+        "Enclosed area used for a livestock show"
+      ],
+      [
+        "PARADE",
+        "Organized procession of people or decorated vehicles"
+      ],
+      [
+        "QUILT",
+        "Layered stitched bedcover entered in a needlework display"
+      ],
+      [
+        "JAM",
+        "Fruit preserve that might be entered in a canning contest"
+      ],
+      [
+        "PIE",
+        "Baked dish with pastry and a sweet or savory filling"
+      ],
+      [
+        "CAKE",
+        "Sweet baked dessert often entered in a decorating contest"
+      ],
+      [
+        "CRAFT",
+        "An activity that makes decorative objects by hand"
+      ],
+      [
+        "ENTRY",
+        "An item submitted for a competition"
+      ],
+      [
+        "DISPLAY",
+        "An arrangement of objects put out for people to see"
+      ],
+      [
+        "SHOW",
+        "An event where animals or other entries are presented"
+      ],
+      [
+        "WINNER",
+        "Person or entry awarded first place"
+      ],
+      [
+        "BLUE",
+        "Traditional first-place ribbon color at many U.S. fairs"
+      ],
+      [
+        "RED",
+        "Traditional second-place ribbon color at many U.S. fairs"
+      ]
+    ],
+    "answerNotes": {
+      "EXHIBIT": "Exhibit is used as a noun here for something put on public view. As a verb it can mean to display that item.",
+      "RIBBON": "A ribbon is a fabric award in this setting. Its color may communicate a placing or judging result, depending on the fair's system.",
+      "JUDGE": "Judge names the person evaluating entries here. The same word can be a verb meaning to evaluate, so the wording asking for a person matters.",
+      "BOOTH": "A booth is a small stand or space for a seller or exhibitor. It need not be a fully enclosed room.",
+      "QUILT": "A quilt has layers joined by stitching. It can be displayed and judged for needlework rather than entered as a food or livestock exhibit.",
+      "JAM": "Jam is the fruit preserve in this clue. A traffic jam is an unrelated use of the same short word.",
+      "ENTRY": "Entry names an item submitted to a contest. It does not mean a doorway or the act of arriving in this clue.",
+      "BLUE": "Blue is traditionally associated with first place at many U.S. fairs. Individual fairs and judging systems can use ribbons differently.",
+      "RED": "Red often indicates second place in a U.S. placing system. The clue specifies that convention; ribbon colors are not universal."
+    }
+  }
+]

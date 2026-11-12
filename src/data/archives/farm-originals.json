@@ -1,0 +1,577 @@
+[
+  {
+    "id": "a-day-at-the-farm",
+    "title": "A Day at the Farm",
+    "theme": "Nature",
+    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 8,
+    "entries": [
+      {
+        "answer": "FENCE",
+        "clue": "A barrier around a field",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "HORSE",
+        "clue": "A large animal used for riding",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "FIELD",
+        "clue": "An open area of land used for crops",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CHICK",
+        "clue": "A newly hatched chicken",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "SHEEP",
+        "clue": "An animal raised for wool",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CALF",
+        "clue": "A young cow",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LAMB",
+        "clue": "A young sheep",
+        "row": 8,
+        "col": 5,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "DUCK",
+        "clue": "A farm bird that quacks",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SILO",
+        "clue": "A tall structure used to store grain",
+        "row": 4,
+        "col": 4,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "WOOL",
+        "clue": "The fiber obtained from sheep",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "COW",
+        "clue": "A farm animal that gives milk",
+        "row": 9,
+        "col": 2,
+        "direction": "down",
+        "number": 12
+      },
+      {
+        "answer": "HEN",
+        "clue": "A female chicken",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "id": "a-day-at-the-farm-2",
+    "title": "A Day at the Farm \u2014 No. 2",
+    "theme": "Nature",
+    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "difficulty": "Easy",
+    "rows": 10,
+    "cols": 12,
+    "entries": [
+      {
+        "answer": "GOOSE",
+        "clue": "A farm bird that honks",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "HORSE",
+        "clue": "A large animal used for riding",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "FIELD",
+        "clue": "An open area of land used for crops",
+        "row": 6,
+        "col": 3,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "GATE",
+        "clue": "A hinged opening in a fence",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FOAL",
+        "clue": "A young horse",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "WOOL",
+        "clue": "The fiber obtained from sheep",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "LAMB",
+        "clue": "A young sheep",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PLOW",
+        "clue": "A farm tool used to turn the soil",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BARN",
+        "clue": "A large farm building for animals or storage",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CALF",
+        "clue": "A young cow",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "HEN",
+        "clue": "A female chicken",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "PIG",
+        "clue": "A farm animal that oinks",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grass stored as animal feed",
+        "row": 7,
+        "col": 9,
+        "direction": "across",
+        "number": 9
+      }
+    ]
+  },
+  {
+    "id": "a-day-at-the-farm-3",
+    "title": "A Day at the Farm \u2014 No. 3",
+    "theme": "Nature",
+    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "FIELD",
+        "clue": "An open area of land used for crops",
+        "row": 4,
+        "col": 4,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "FENCE",
+        "clue": "A barrier around a field",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "HORSE",
+        "clue": "A large animal used for riding",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "GOOSE",
+        "clue": "A farm bird that honks",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SHEEP",
+        "clue": "An animal raised for wool",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LAMB",
+        "clue": "A young sheep",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "GOAT",
+        "clue": "A farm animal known for its beard",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "WOOL",
+        "clue": "The fiber obtained from sheep",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SILO",
+        "clue": "A tall structure used to store grain",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "HEN",
+        "clue": "A female chicken",
+        "row": 8,
+        "col": 3,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grass stored as animal feed",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "EGG",
+        "clue": "Something collected from a hen's nest",
+        "row": 8,
+        "col": 5,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "COW",
+        "clue": "A farm animal that gives milk",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      }
+    ]
+  },
+  {
+    "id": "a-day-at-the-farm-4",
+    "title": "A Day at the Farm \u2014 No. 4",
+    "theme": "Nature",
+    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "difficulty": "Easy",
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FENCE",
+        "clue": "A barrier around a field",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "HORSE",
+        "clue": "A large animal used for riding",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SHEEP",
+        "clue": "An animal raised for wool",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "FIELD",
+        "clue": "An open area of land used for crops",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FOAL",
+        "clue": "A young horse",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SILO",
+        "clue": "A tall structure used to store grain",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BARN",
+        "clue": "A large farm building for animals or storage",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "WOOL",
+        "clue": "The fiber obtained from sheep",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "LAMB",
+        "clue": "A young sheep",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DUCK",
+        "clue": "A farm bird that quacks",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CALF",
+        "clue": "A young cow",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "HAY",
+        "clue": "Dried grass stored as animal feed",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "EGG",
+        "clue": "Something collected from a hen's nest",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "PIG",
+        "clue": "A farm animal that oinks",
+        "row": 6,
+        "col": 7,
+        "direction": "across",
+        "number": 7
+      }
+    ]
+  },
+  {
+    "id": "a-day-at-the-farm-5",
+    "title": "A Day at the Farm \u2014 No. 5",
+    "theme": "Nature",
+    "description": "Enjoy familiar farm animals, fields, and country sights.",
+    "difficulty": "Easy",
+    "rows": 12,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FENCE",
+        "clue": "A barrier around a field",
+        "row": 5,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "GOOSE",
+        "clue": "A farm bird that honks",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HORSE",
+        "clue": "A large animal used for riding",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FIELD",
+        "clue": "An open area of land used for crops",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CHICK",
+        "clue": "A newly hatched chicken",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DUCK",
+        "clue": "A farm bird that quacks",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "WOOL",
+        "clue": "The fiber obtained from sheep",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BARN",
+        "clue": "A large farm building for animals or storage",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LAMB",
+        "clue": "A young sheep",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "GATE",
+        "clue": "A hinged opening in a fence",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CALF",
+        "clue": "A young cow",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CROP",
+        "clue": "A plant grown and harvested on a farm",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "COW",
+        "clue": "A farm animal that gives milk",
+        "row": 9,
+        "col": 5,
+        "direction": "down",
+        "number": 11
+      }
+    ]
+  }
+]

@@ -93,3 +93,14 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Build, content/SEO audits, TypeScript and 27 Playwright tests passed, including all thirty reader-note sections and archive routes, saved-game isolation for all six edited families, and discovery under the original home series name.
 - All five changed print sheets exported as single US Letter pages in Chromium. Static output totals 339 HTML pages; the canonical sitemap remains at 108 URLs.
 - These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
+
+## Farm editorial batch — 2026-11-12
+
+- Changed only the five current a-day-at-the-farm editions. All other 95 current puzzle objects, including the thirty previously edited editions, remain unchanged.
+- Subjects: Meet the Farm Animals, Across the Grain Fields, A Visit to the Orchard, Around the Horse Stable, and At the Country Fair. Each has 11–12 clues on a board no larger than 11 × 11, a distinct introduction and solving tip, and three explanations of actual answers.
+- Reviewed the selected vocabulary and aligned guidance to the actual entries, including animal group names, plant parts, horse equipment and movements, and fair displays. U.S. fair ribbon-color clues are qualified rather than presented as universal rules. Orchard notes were visually inspected.
+- Farm series: 65 entries / 22 distinct answer-clue pairs before; 58 entries / 58 distinct pairs after. Collection totals are 100 current puzzles, 1,218 entries, 684 distinct answer-clue pairs, 48 introductions, and 35 edited editions. Sixty-five current puzzles remain in the editorial queue.
+- All five original farm objects match the previous release exactly. Full generation reproduced all 100 current puzzles byte-for-byte and left all thirty-five archived layouts unchanged. Existing series seeds and results were preserved.
+- Build, content/SEO audits, TypeScript and 28 Playwright tests passed, including all thirty-five reader-note sections and archive routes, independent original/current progress for all seven edited families, and discovery under the original farm series name.
+- All five updated print sheets exported as single US Letter pages in Chromium. Output now totals 344 static HTML pages; the canonical sitemap still contains 108 URLs.
+- These local checks do not establish Cloudflare deployment completion, physical printer results, target-user difficulty, professional editorial review, or Google indexing/ranking.
