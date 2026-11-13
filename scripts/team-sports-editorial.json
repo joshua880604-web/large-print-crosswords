@@ -97,7 +97,7 @@
       ],
       [
         "PUNT",
-        "Kick made by dropping the ball from the hands before kicking it"
+        "Kick made from the hands before the dropped ball touches the ground"
       ],
       [
         "KICK",
@@ -267,7 +267,7 @@
       ],
       [
         "CORNER",
-        "Kick taken from a boundary junction after certain defensive touches"
+        "Kick awarded when a defender last touches a ball over the goal line without a goal"
       ],
       [
         "THROW",

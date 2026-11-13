@@ -2,6 +2,9 @@ import {readFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
 import {originals,editorialSeries} from './editorial-data.mjs';
+const archiveCorrections=JSON.parse(readFileSync(new URL('../src/data/archive-clue-clarifications.json',import.meta.url),'utf8'));
+assert.equal(new Set(archiveCorrections.map(c=>`${c.answer}\0${c.originalClue}`)).size,archiveCorrections.length,'Unique archive correction targets');
+for(const correction of archiveCorrections){assert.ok(correction.clue.trim().length>3&&correction.reason);assert.ok(originals.some(p=>p.entries.some(e=>e.answer===correction.answer&&e.clue===correction.originalClue)),'Archive clarification must match a preserved original clue');}
 assert.equal(puzzles.length,editorialSeries.length*5,'Each registered series must contain five puzzles');
 assert.equal(new Set(puzzles.map(p=>p.id)).size,puzzles.length,'Unique slugs');
 const grids=new Set();let clueCount=0;

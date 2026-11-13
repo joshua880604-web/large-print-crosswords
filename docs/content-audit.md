@@ -361,7 +361,7 @@ Subjects: Reading an American Road Map, Mountains and Valleys, Following Rivers 
 - 52 clues; 52 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Capital Stops in the Northeast, Capital Stops in the Southeast, Capital Stops in the Midwest, Capital Stops in the South Central States, Capital Stops in the West.
+Subjects: Capital Stops in the Northeast, Capital Stops in the Southeast, Capital Stops in the Midwest, Capital Stops from the Gulf to the Rockies, Capital Stops in the West.
 
 ## American History: five first editions
 

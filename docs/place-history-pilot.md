@@ -2,7 +2,7 @@
 
 ## Published content scope
 
-The pilot adds twenty first editions in four series, bringing the collection from 200 to 220 puzzles. All 200 previously published puzzle objects and all 100 archived originals are unchanged. The new puzzles have their own IDs and revision-1 progress keys. There are three new interest collections, not a set of fifty state landing pages:
+The pilot adds twenty first editions in four series, bringing the collection from 200 to 220 puzzles. At pilot publication, all 200 previously published puzzle objects and all 100 archived originals were unchanged. The subsequent [full-catalog review](puzzle-review-2026-11-13.md) clarifies selected wording while retaining every answer placement and progress key. The new puzzles have their own IDs and revision-1 progress keys. There are three new interest collections, not a set of fifty state landing pages:
 
 - `/geography-crosswords/`: five map/landscape puzzles and five regional US capital-city puzzles. The capitals section links directly to the five actual games. Multiword clues state when to omit spaces or supply part of a name; regional routes are puzzle groupings rather than an official regional classification.
 - `/american-history-crosswords/`: five selected scenes about printing in 1776, the 1869 rail connection, letters/telegraph messages, early flight, and Erie Canal work. These do not purport to be a complete US history curriculum or experiences shared by every older reader.

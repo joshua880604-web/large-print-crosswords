@@ -1377,7 +1377,7 @@
       },
       {
         "answer": "BORROW",
-        "clue": "To take out a book with permission to return it later",
+        "clue": "To take a library book for temporary use and return it later",
         "row": 7,
         "col": 1,
         "direction": "across",
@@ -3417,7 +3417,7 @@
       },
       {
         "answer": "EBB",
-        "clue": "To move away from shore as the tide falls",
+        "clue": "To recede, as tidal water when its level falls",
         "row": 4,
         "col": 2,
         "direction": "across",
@@ -3575,7 +3575,7 @@
         },
         {
           "answer": "LADLE",
-          "text": "A ladle has a deep bowl for transferring liquids such as soup. That shape separates it from the flatter tool described by a turning or lifting clue."
+          "text": "A ladle has a deep bowl for transferring liquids such as soup. Its shape distinguishes it from a flatter spatula used for turning food."
         }
       ]
     }
@@ -5305,7 +5305,7 @@
     ],
     "editorial": {
       "focus": "The answers describe movement and flight rather than particular bird species. Some clues ask for an action, such as gliding; others name a body part or a condition in the air. Everyday definitions keep the subject approachable without requiring aerodynamics formulas.",
-      "solvingTip": "Match the form of the clue to the answer. 'Move wings up and down' asks for an action, while 'A broad surface used for flying' asks for a body part. Short movement words can help you cross into longer feather-related answers.",
+      "solvingTip": "Match the form of the clue to the answer. Traveling through the air with wings held out asks for an action, while a broad body part used for flying asks for a body part. Short movement and air words can help you cross into longer feather-related answers.",
       "answerNotes": [
         {
           "answer": "GLIDE",
@@ -7442,7 +7442,7 @@
     "entries": [
       {
         "answer": "BUTTERFLY",
-        "clue": "Insect that begins as a caterpillar and later has broad, colorful wings",
+        "clue": "Broad-winged insect whose larval stage is a caterpillar",
         "row": 5,
         "col": 0,
         "direction": "across",
@@ -10007,7 +10007,7 @@
     ],
     "editorial": {
       "focus": "The answers follow the early stages of growing a plant: containers, moisture, planting depth, and new growth. The clues explain their context directly. This is a vocabulary puzzle, not a planting calendar; the right conditions depend on the seed being grown.",
-      "solvingTip": "Think about what happens above and below the soil. A root grows downward, while a shoot develops upward. Action clues such as 'Plant seeds in soil' call for a verb rather than the name of a tool.",
+      "solvingTip": "Think about what happens above and below the soil. A root takes up water, while a shoot is young stem-and-leaf growth. An instruction to remove extra seedlings asks for an action rather than a container or tool.",
       "answerNotes": [
         {
           "answer": "DEPTH",
@@ -10257,7 +10257,7 @@
     ],
     "editorial": {
       "focus": "This puzzle combines waterbird names with a few words for their surroundings. Common names and identifying details help distinguish similar birds. The clues avoid asking for a species based only on color, since several unrelated waterbirds can look white or gray.",
-      "solvingTip": "A partial bird name can be a useful starting point: 'Great blue ___' is more specific than 'a wading bird.' When a clue asks for a habitat rather than an animal, consider words for a pond edge, wetland, or shore.",
+      "solvingTip": "A partial bird name can be a useful starting point: 'pied-billed ___' is more specific than 'a diving bird.' When a clue asks for a habitat rather than an animal, consider words for a pond edge, wetland, or shore.",
       "answerNotes": [
         {
           "answer": "MALLARD",
@@ -10741,7 +10741,7 @@
     ],
     "editorial": {
       "focus": "This puzzle names instruments and a few of their playing parts. Clues distinguish an instrument from the bow, reed, or other part used with it. Common instrument names are used instead of composers, concert dates, or specialist repertoire.",
-      "solvingTip": "Look for how the sound is made. A clue about plucked strings points somewhere different from one about a reed or a brass bell. A partial name such as 'double ___' can provide a foothold among the longer instrument names.",
+      "solvingTip": "Look for how the sound is made. A clue about a double reed points to a different family from one about a brass instrument's slide or valves. A partial name such as 'double ___' can provide a foothold among the longer instrument names.",
       "answerNotes": [
         {
           "answer": "TROMBONE",
@@ -10829,7 +10829,7 @@
       },
       {
         "answer": "BILL",
-        "clue": "Another word for a bird's projecting mouthpart",
+        "clue": "Spoon___: bird name ending with a word for its mouthpart",
         "row": 0,
         "col": 3,
         "direction": "down",
@@ -10853,7 +10853,7 @@
       },
       {
         "answer": "BEAK",
-        "clue": "Hard mouthpart of a coastal bird",
+        "clue": "Bird's hard mouthpart, rhyming with peak",
         "row": 0,
         "col": 6,
         "direction": "down",
@@ -11636,7 +11636,7 @@
     "entries": [
       {
         "answer": "PRESSURE",
-        "clue": "Atmospheric force measured by a barometer",
+        "clue": "Air's force per unit area, measured by a barometer",
         "row": 5,
         "col": 1,
         "direction": "across",
@@ -12636,7 +12636,7 @@
     "entries": [
       {
         "answer": "STRIKE",
-        "clue": "One counted pitch or swing against a batter",
+        "clue": "A batter's swing and miss, for example",
         "row": 4,
         "col": 1,
         "direction": "across",
@@ -12692,7 +12692,7 @@
       },
       {
         "answer": "HIT",
-        "clue": "Batted ball allowing a batter to reach safely without an error",
+        "clue": "Fair batted ball that lets the batter reach safely without an error or fielder's choice",
         "row": 6,
         "col": 0,
         "direction": "across",
@@ -12821,7 +12821,7 @@
       },
       {
         "answer": "HIT",
-        "clue": "Safely reached base credited to the batter from a batted ball",
+        "clue": "Batter's credited safe reach on a fair ball, excluding an error or fielder's choice",
         "row": 3,
         "col": 0,
         "direction": "across",
@@ -12850,7 +12850,7 @@
       "answerNotes": [
         {
           "answer": "INNING",
-          "text": "An inning has a top and a bottom. The two halves give the visiting and home teams their turns at batting."
+          "text": "An inning is divided into a top and a bottom. Visitors bat in the top and the home team in the bottom; the final bottom half is not always needed."
         },
         {
           "answer": "HOMER",
@@ -13426,7 +13426,7 @@
       },
       {
         "answer": "GATE",
-        "clue": "Opening suggested by the shape of a croquet hoop",
+        "clue": "Hinged entrance barrier beside a croquet lawn",
         "row": 1,
         "col": 7,
         "direction": "across",
@@ -13579,7 +13579,7 @@
       },
       {
         "answer": "ACE",
-        "clue": "Serve the receiver does not touch",
+        "clue": "Legal serve that wins a point without the receiver touching it",
         "row": 7,
         "col": 2,
         "direction": "down",
@@ -13604,7 +13604,7 @@
         },
         {
           "answer": "DEUCE",
-          "text": "Deuce is the level score reached at forty-all and after later equal points. A player must then gain the required advantage."
+          "text": "Deuce is the level score reached at forty-all and after later equal points. In standard advantage scoring, a player needs two consecutive points from deuce to win the game."
         },
         {
           "answer": "LOVE",
@@ -13805,7 +13805,7 @@
       },
       {
         "answer": "PUNT",
-        "clue": "Kick made by dropping the ball from the hands before kicking it",
+        "clue": "Kick made from the hands before the dropped ball touches the ground",
         "row": 0,
         "col": 10,
         "direction": "down",
@@ -13991,7 +13991,7 @@
     "entries": [
       {
         "answer": "CORNER",
-        "clue": "Kick taken from a boundary junction after certain defensive touches",
+        "clue": "Kick awarded when a defender last touches a ball over the goal line without a goal",
         "row": 5,
         "col": 2,
         "direction": "across",
@@ -14563,7 +14563,7 @@
       },
       {
         "answer": "GEAR",
-        "clue": "Toothed wheel used in a bicycle\u2019s drive system",
+        "clue": "Drive setting selected to change pedaling effort on a bicycle",
         "row": 2,
         "col": 0,
         "direction": "across",
@@ -15217,7 +15217,7 @@
       },
       {
         "answer": "ACOUSTIC",
-        "clue": "Describing an instrument whose sound comes directly from vibration",
+        "clue": "Describing an instrument that produces its normal sound without electronic amplification",
         "row": 3,
         "col": 5,
         "direction": "down",
@@ -15306,7 +15306,7 @@
         },
         {
           "answer": "ACOUSTIC",
-          "text": "Acoustic identifies sound produced directly by vibration. An acoustic instrument can still be recorded or amplified."
+          "text": "An acoustic instrument produces its normal sound without needing an electronic amplifier. A microphone or pickup can still be used to record or amplify it."
         },
         {
           "answer": "REFRAIN",
@@ -16402,7 +16402,7 @@
       },
       {
         "answer": "ALTO",
-        "clue": "Lower standard treble choral voice part",
+        "clue": "Part immediately below soprano in a standard four-part choir",
         "row": 3,
         "col": 7,
         "direction": "down",
@@ -18274,7 +18274,7 @@
     "entries": [
       {
         "answer": "TWILIGHT",
-        "clue": "Period of partial light before night or after dawn",
+        "clue": "Partial daylight before sunrise or after sunset",
         "row": 5,
         "col": 1,
         "direction": "across",
@@ -18367,7 +18367,7 @@
       "answerNotes": [
         {
           "answer": "TWILIGHT",
-          "text": "Twilight is partial daylight near sunrise or sunset. The evening setting here points toward the start of night."
+          "text": "Twilight is the partial light before sunrise or after sunset. This puzzle's evening setting refers to the light that remains after sunset."
         },
         {
           "answer": "LANTERN",
@@ -20218,7 +20218,7 @@
     "entries": [
       {
         "answer": "LIFEJACKET",
-        "clue": "Buoyant wearable aid carried for boating",
+        "clue": "Buoyant garment worn to help a person stay afloat",
         "row": 4,
         "col": 0,
         "direction": "across",
@@ -21045,7 +21045,7 @@
       "answerNotes": [
         {
           "answer": "MIDNIGHT",
-          "text": "Midnight is the boundary between calendar days. It differs from noon, the middle of daylight hours by clock convention."
+          "text": "Midnight marks the boundary between calendar days. Noon is twelve o'clock in the daytime; the actual midpoint of daylight can differ from clock noon."
         },
         {
           "answer": "CALENDAR",
@@ -21194,7 +21194,7 @@
     "entries": [
       {
         "answer": "SHAMROCK",
-        "clue": "Three-leaf sprig traditionally associated with Ireland",
+        "clue": "Three-leaflet sprig traditionally associated with Ireland",
         "row": 4,
         "col": 1,
         "direction": "across",
@@ -21287,7 +21287,7 @@
       "answerNotes": [
         {
           "answer": "SHAMROCK",
-          "text": "A shamrock is traditionally a three-leaf sprig. It is not the same idea as the four-leaf clover associated with luck."
+          "text": "A shamrock is traditionally pictured with three leaflets. The familiar lucky 'four-leaf clover' has an extra leaflet."
         },
         {
           "answer": "CLOVER",
@@ -22387,7 +22387,7 @@
       }
     ],
     "editorial": {
-      "focus": "The clues distinguish materials from actions and finished forms. Direct definitions introduce the two named paper arts.",
+      "focus": "The clues distinguish materials from actions and finished forms. Direct definitions introduce collage alongside familiar paper shapes, cutting tools, and folding terms.",
       "solvingTip": "Look for an object, an edge, a folding mark, or a whole craft form.",
       "answerNotes": [
         {
@@ -23436,7 +23436,7 @@
       },
       {
         "answer": "PEEL",
-        "clue": "Outer skin removed from a citrus fruit",
+        "clue": "To remove a citrus fruit's outer skin",
         "row": 7,
         "col": 6,
         "direction": "across",
@@ -24952,7 +24952,7 @@
       }
     ],
     "editorial": {
-      "focus": "The clues distinguish a waterway from its parts and connections. Flow direction gives words such as upstream and downstream their meaning.",
+      "focus": "The clues distinguish flowing water from a river's source, channel, and banks. Other answers name standing water, shore features, and structures that hold water back.",
       "solvingTip": "Notice whether the clue describes the start of a river, its side, its flow, or where it ends.",
       "answerNotes": [
         {
@@ -25577,12 +25577,12 @@
   },
   {
     "id": "state-capital-stops-4",
-    "title": "Capital Stops in the South Central States",
+    "title": "Capital Stops from the Gulf to the Rockies",
     "theme": "State Capitals",
-    "subtheme": "Capital Stops in the South Central States",
+    "subtheme": "Capital Stops from the Gulf to the Rockies",
     "series": "state-capital-stops",
-    "description": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
-    "cardDescription": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
+    "description": "Explore state capitals from the Gulf states toward the Rocky Mountains, with river and map words to help the crossings.",
+    "cardDescription": "Explore state capitals from the Gulf states toward the Rocky Mountains, with river and map words to help the crossings.",
     "difficulty": "Easy",
     "revision": 1,
     "rows": 11,
@@ -25670,7 +25670,7 @@
       }
     ],
     "editorial": {
-      "focus": "This route groups several south-central and neighboring capitals rather than presenting an official regional boundary. City clues name their states directly.",
+      "focus": "This puzzle groups Gulf-state, south-central, and Rocky Mountain capitals for a word-game route. The state names in the clues identify the cities; it is not an official regional classification.",
       "solvingTip": "Do not assume that the most famous city is the capital. For a two-word city, write the letters together without a blank square.",
       "answerNotes": [
         {
@@ -25783,7 +25783,7 @@
       }
     ],
     "editorial": {
-      "focus": "These place clues cover western states, including Alaska and Hawaii. A two-word capital can appear without spaces, while a clue may explicitly ask for just one part of a name.",
+      "focus": "These place clues cover western states, including Alaska and Hawaii. A two-word capital is entered without spaces when the clue says so, and short direction and landscape words help with crossings.",
       "solvingTip": "A city famous for tourism or business is not always the capital. Check the state clue and the answer length before entering it.",
       "answerNotes": [
         {
@@ -26412,8 +26412,8 @@
     "theme": "Texas",
     "subtheme": "A Morning on a Texas Ranch",
     "series": "texas-scenes",
-    "description": "Step into a Texas cattle-ranch scene with longhorns, working tack, gates, and grazing land.",
-    "cardDescription": "Step into a Texas cattle-ranch scene with longhorns, working tack, gates, and grazing land.",
+    "description": "Step into a Texas cattle-ranch scene with longhorns, riding tack, ropes, and livestock terms.",
+    "cardDescription": "Step into a Texas cattle-ranch scene with longhorns, riding tack, ropes, and livestock terms.",
     "difficulty": "Easy",
     "revision": 1,
     "rows": 10,
@@ -26502,7 +26502,7 @@
     ],
     "editorial": {
       "focus": "This scene uses cattle and ranch-equipment words associated with Texas ranching. Many are used elsewhere too; the longhorn gives the puzzle a particular regional connection.",
-      "solvingTip": "Distinguish the animal from the herd, its enclosure, and the equipment used by a rider. Direct definitions explain the working terms.",
+      "solvingTip": "Distinguish an animal or herd from the riding equipment and the tools used to handle livestock. Direct definitions explain the working terms.",
       "answerNotes": [
         {
           "answer": "LONGHORN",
@@ -26736,7 +26736,7 @@
     ],
     "editorial": {
       "focus": "The pecan is Texas\u2019s state tree, and pecan pie connects that local reference with familiar kitchen words. The clues describe ingredients and objects rather than giving a baking recipe.",
-      "solvingTip": "Look for the nut, its edible part, the pastry, or a kitchen tool. A word can name a container here rather than an ingredient.",
+      "solvingTip": "Look for the nut, its outer covering, the pastry, or a kitchen item. A word can name a container here rather than an ingredient.",
       "answerNotes": [
         {
           "answer": "RECIPE",
@@ -26880,8 +26880,8 @@
     "theme": "Texas",
     "subtheme": "A Road Trip Across Texas",
     "series": "texas-scenes",
-    "description": "Travel between Texas cities, a border river, and familiar landmarks using direct geographic clues.",
-    "cardDescription": "Travel between Texas cities, a border river, and familiar landmarks using direct geographic clues.",
+    "description": "Travel between Texas cities, a national park, and a historic mission using direct geographic clues.",
+    "cardDescription": "Travel between Texas cities, a national park, and a historic mission using direct geographic clues.",
     "difficulty": "Easy",
     "revision": 1,
     "rows": 11,

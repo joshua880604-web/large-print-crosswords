@@ -9,6 +9,7 @@
 - Unique indexable titles/descriptions, production canonical URLs, sitemap and robots file.
 - WebSite/WebPage and matching visible breadcrumb data; local sharing image.
 - Post-build SEO audit across all 774 HTML pages.
+- Full-catalog editorial reading and clue-only corrections recorded in [the November 13 review](puzzle-review-2026-11-13.md); answer placements and progress keys retained.
 - Print copies excluded from indexing to avoid competing utility pages.
 
 ## Before public launch

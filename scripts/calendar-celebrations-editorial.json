@@ -66,7 +66,7 @@
     "answerNotes": {
       "HAND": "Hand is a clock pointer in this clue. It does not mean a body part.",
       "TOAST": "Toast names a spoken gesture of goodwill here. It is not browned bread.",
-      "MIDNIGHT": "Midnight is the boundary between calendar days. It differs from noon, the middle of daylight hours by clock convention.",
+      "MIDNIGHT": "Midnight marks the boundary between calendar days. Noon is twelve o'clock in the daytime; the actual midpoint of daylight can differ from clock noon.",
       "CALENDAR": "A calendar organizes dates. A clock measures and displays time within a day."
     },
     "id": "calendar-celebrations",
@@ -154,7 +154,7 @@
     "words": [
       [
         "SHAMROCK",
-        "Three-leaf sprig traditionally associated with Ireland"
+        "Three-leaflet sprig traditionally associated with Ireland"
       ],
       [
         "CLOVER",
@@ -210,7 +210,7 @@
       ]
     ],
     "answerNotes": {
-      "SHAMROCK": "A shamrock is traditionally a three-leaf sprig. It is not the same idea as the four-leaf clover associated with luck.",
+      "SHAMROCK": "A shamrock is traditionally pictured with three leaflets. The familiar lucky 'four-leaf clover' has an extra leaflet.",
       "HARP": "The harp is an Irish cultural symbol. The clue asks for the instrument rather than its player.",
       "FIDDLE": "Fiddle is a name for the violin in a traditional-music setting. It does not necessarily identify a different instrument.",
       "CLOVER": "Clover leaves commonly have three leaflets. A leaflet is one division of the compound leaf."

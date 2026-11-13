@@ -12,7 +12,8 @@
     "typecheck": "tsc --noEmit",
     "audit:seo": "node scripts/audit-seo.mjs",
     "social:generate": "node scripts/generate-social-card.mjs",
-    "audit:content": "node scripts/audit-content.mjs"
+    "audit:content": "node scripts/audit-content.mjs",
+    "audit:playthrough": "node scripts/audit-playthrough.mjs"
   },
   "dependencies": {
     "astro": "^5.16.0"

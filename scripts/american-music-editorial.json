@@ -231,7 +231,7 @@
       ],
       [
         "ACOUSTIC",
-        "Describing an instrument whose sound comes directly from vibration"
+        "Describing an instrument that produces its normal sound without electronic amplification"
       ],
       [
         "BANJO",
@@ -285,7 +285,7 @@
     "answerNotes": {
       "MANDOLIN": "A common mandolin has paired strings called courses. The small body and paired strings distinguish it from a standard guitar.",
       "REFRAIN": "A refrain returns within a song. The repeated section can help listeners join in.",
-      "ACOUSTIC": "Acoustic identifies sound produced directly by vibration. An acoustic instrument can still be recorded or amplified.",
+      "ACOUSTIC": "An acoustic instrument produces its normal sound without needing an electronic amplifier. A microphone or pickup can still be used to record or amplify it.",
       "BALLAD": "A ballad is a narrative song here. The clue uses the storytelling form rather than a particular title."
     },
     "id": "american-music-4",

@@ -166,7 +166,7 @@
       ],
       [
         "HIT",
-        "Batted ball allowing a batter to reach safely without an error"
+        "Fair batted ball that lets the batter reach safely without an error or fielder's choice"
       ],
       [
         "CATCH",
@@ -198,7 +198,7 @@
       ],
       [
         "STRIKE",
-        "One counted pitch or swing against a batter"
+        "A batter's swing and miss, for example"
       ],
       [
         "FOUL",
@@ -235,7 +235,7 @@
       ],
       [
         "HIT",
-        "Safely reached base credited to the batter from a batted ball"
+        "Batter's credited safe reach on a fair ball, excluding an error or fielder's choice"
       ],
       [
         "ERROR",
@@ -283,7 +283,7 @@
       ]
     ],
     "answerNotes": {
-      "INNING": "An inning has a top and a bottom. The two halves give the visiting and home teams their turns at batting.",
+      "INNING": "An inning is divided into a top and a bottom. Visitors bat in the top and the home team in the bottom; the final bottom half is not always needed.",
       "ERROR": "Error names a recorded fielding mistake. Not every unsuccessful play is automatically scored as an error.",
       "HOMER": "Homer is a familiar short form of home run. The clue uses a baseball result rather than a person\u2019s name.",
       "DOUBLE": "A double credits a two-base hit. It identifies the hit result rather than two separate singles."

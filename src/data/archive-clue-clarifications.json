@@ -1,0 +1,14 @@
+[
+  {
+    "answer": "ROOT",
+    "originalClue": "The part of a flower that takes up water from soil",
+    "clue": "Plant part that takes up water from soil",
+    "reason": "A root belongs to the plant, not the flower."
+  },
+  {
+    "answer": "YAM",
+    "originalClue": "A sweet root vegetable",
+    "clue": "Starchy edible tuber, distinct from a sweet potato",
+    "reason": "True yams are tubers and differ from sweet potatoes."
+  }
+]

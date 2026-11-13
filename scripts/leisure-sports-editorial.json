@@ -271,7 +271,7 @@
       ],
       [
         "GATE",
-        "Opening suggested by the shape of a croquet hoop"
+        "Hinged entrance barrier beside a croquet lawn"
       ],
       [
         "PEG",
@@ -328,7 +328,7 @@
       ],
       [
         "ACE",
-        "Serve the receiver does not touch"
+        "Legal serve that wins a point without the receiver touching it"
       ],
       [
         "DEUCE",
@@ -357,7 +357,7 @@
     ],
     "answerNotes": {
       "LOVE": "Love means zero in tennis scoring. The sporting context differs from affection in everyday use.",
-      "DEUCE": "Deuce is the level score reached at forty-all and after later equal points. A player must then gain the required advantage.",
+      "DEUCE": "Deuce is the level score reached at forty-all and after later equal points. In standard advantage scoring, a player needs two consecutive points from deuce to win the game.",
       "VOLLEY": "A volley is hit before a bounce. It differs from a groundstroke played after the ball reaches the court.",
       "ACE": "An ace is an untouched legal serve. The word has a separate meaning as a playing card."
     },

@@ -2,11 +2,11 @@
   {
     "id": "texas-scenes",
     "title": "A Morning on a Texas Ranch",
-    "description": "Step into a Texas cattle-ranch scene with longhorns, working tack, gates, and grazing land.",
-    "cardDescription": "Step into a Texas cattle-ranch scene with longhorns, working tack, gates, and grazing land.",
+    "description": "Step into a Texas cattle-ranch scene with longhorns, riding tack, ropes, and livestock terms.",
+    "cardDescription": "Step into a Texas cattle-ranch scene with longhorns, riding tack, ropes, and livestock terms.",
     "subtheme": "A Morning on a Texas Ranch",
     "focus": "This scene uses cattle and ranch-equipment words associated with Texas ranching. Many are used elsewhere too; the longhorn gives the puzzle a particular regional connection.",
-    "solvingTip": "Distinguish the animal from the herd, its enclosure, and the equipment used by a rider. Direct definitions explain the working terms.",
+    "solvingTip": "Distinguish an animal or herd from the riding equipment and the tools used to handle livestock. Direct definitions explain the working terms.",
     "words": [
       [
         "LONGHORN",
@@ -160,7 +160,7 @@
     "cardDescription": "Gather pecans, pastry, and familiar baking tools around a Texas-associated dessert table.",
     "subtheme": "Pecan Pie at the Texas Table",
     "focus": "The pecan is Texas’s state tree, and pecan pie connects that local reference with familiar kitchen words. The clues describe ingredients and objects rather than giving a baking recipe.",
-    "solvingTip": "Look for the nut, its edible part, the pastry, or a kitchen tool. A word can name a container here rather than an ingredient.",
+    "solvingTip": "Look for the nut, its outer covering, the pastry, or a kitchen item. A word can name a container here rather than an ingredient.",
     "words": [
       [
         "PECAN",
@@ -310,8 +310,8 @@
   {
     "id": "texas-scenes-5",
     "title": "A Road Trip Across Texas",
-    "description": "Travel between Texas cities, a border river, and familiar landmarks using direct geographic clues.",
-    "cardDescription": "Travel between Texas cities, a border river, and familiar landmarks using direct geographic clues.",
+    "description": "Travel between Texas cities, a national park, and a historic mission using direct geographic clues.",
+    "cardDescription": "Travel between Texas cities, a national park, and a historic mission using direct geographic clues.",
     "subtheme": "A Road Trip Across Texas",
     "focus": "This Texas route includes named places and map features rather than a real driving itinerary. The clues give clear location hints, and some place names omit their spaces in the grid.",
     "solvingTip": "Start with a city or landmark you recognize. A short map or road word can provide crossings for a longer geographic name.",

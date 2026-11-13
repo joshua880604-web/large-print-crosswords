@@ -239,11 +239,11 @@
   },
   {
     "id": "state-capital-stops-4",
-    "title": "Capital Stops in the South Central States",
-    "description": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
-    "cardDescription": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
-    "subtheme": "Capital Stops in the South Central States",
-    "focus": "This route groups several south-central and neighboring capitals rather than presenting an official regional boundary. City clues name their states directly.",
+    "title": "Capital Stops from the Gulf to the Rockies",
+    "description": "Explore state capitals from the Gulf states toward the Rocky Mountains, with river and map words to help the crossings.",
+    "cardDescription": "Explore state capitals from the Gulf states toward the Rocky Mountains, with river and map words to help the crossings.",
+    "subtheme": "Capital Stops from the Gulf to the Rockies",
+    "focus": "This puzzle groups Gulf-state, south-central, and Rocky Mountain capitals for a word-game route. The state names in the clues identify the cities; it is not an official regional classification.",
     "solvingTip": "Do not assume that the most famous city is the capital. For a two-word city, write the letters together without a blank square.",
     "words": [
       [
@@ -317,7 +317,7 @@
     "description": "Head west through capital-city clues, with map directions and landscape words to open the crossings.",
     "cardDescription": "Head west through capital-city clues, with map directions and landscape words to open the crossings.",
     "subtheme": "Capital Stops in the West",
-    "focus": "These place clues cover western states, including Alaska and Hawaii. A two-word capital can appear without spaces, while a clue may explicitly ask for just one part of a name.",
+    "focus": "These place clues cover western states, including Alaska and Hawaii. A two-word capital is entered without spaces when the clue says so, and short direction and landscape words help with crossings.",
     "solvingTip": "A city famous for tourism or business is not always the capital. Check the state clue and the answer length before entering it.",
     "words": [
       [

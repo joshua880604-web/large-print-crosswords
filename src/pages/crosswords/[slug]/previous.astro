@@ -2,6 +2,7 @@
 import Layout from '../../../layouts/Layout.astro';
 import Game from '../../../components/Game.astro';
 import editorialSeries from '../../../data/editorial-series.json';
+import archiveClueClarifications from '../../../data/archive-clue-clarifications.json';
 import type gardeningOriginals from '../../../data/archives/gardening-originals.json';
 type OriginalPuzzle=(typeof gardeningOriginals)[number];
 import puzzles from '../../../data/puzzles.json';
@@ -13,9 +14,16 @@ export function getStaticPaths(){
   if(!data)throw new Error(`Missing original editions: ${series.archive}`);
   return data;
  });
- return originals.map(puzzle=>({params:{slug:puzzle.id},props:{puzzle}}));
+ return originals.map(original=>{
+  const clarifications=archiveClueClarifications.filter(c=>original.entries.some(e=>e.answer===c.answer&&e.clue===c.originalClue));
+  const puzzle={...original,entries:original.entries.map(entry=>{
+   const correction=clarifications.find(c=>c.answer===entry.answer&&c.originalClue===entry.clue);
+   return correction?{...entry,clue:correction.clue}:entry;
+  })};
+  return {params:{slug:puzzle.id},props:{puzzle,clarifications}};
+ });
 }
-const {puzzle}=Astro.props;
+const {puzzle,clarifications}=Astro.props;
 const current=puzzles.find(p=>p.id===puzzle.id)!;
 ---
-<Layout noindex title={`${puzzle.title} — Previous Edition`} description="Continue your earlier crossword with its original layout, clues, and progress saved in this browser." active="puzzles"><div class="container game-container"><header class="page-heading"><p class="eyebrow">PREVIOUS EDITION · ORIGINAL LAYOUT</p><h1>{puzzle.title}</h1><p>Continue the puzzle you started before this collection was refreshed. Its original clues and squares are kept here, along with progress saved in this browser.</p></header><p class="notice">Ready for something new? <a href={`/crosswords/${puzzle.id}/`}>Try {current.title}</a>. The two editions save their answers separately.</p><div style="height:24px"></div><Game puzzle={puzzle}/><p class="game-bottom"><a href="/crosswords/">Explore all current puzzles →</a></p></div></Layout>
+<Layout noindex title={`${puzzle.title} — Previous Edition`} description="Continue your earlier crossword with its original layout and progress saved in this browser, with clearly marked clue clarifications where needed." active="puzzles"><div class="container game-container"><header class="page-heading"><p class="eyebrow">PREVIOUS EDITION · ORIGINAL LAYOUT</p><h1>{puzzle.title}</h1><p>Continue the puzzle you started before this collection was refreshed. {clarifications.length?'A clue definition has been clarified. Your original squares, answers, and saved progress are unchanged.':'Its original clues and squares are kept here, along with progress saved in this browser.'}</p></header><p class="notice">Ready for something new? <a href={`/crosswords/${puzzle.id}/`}>Try {current.title}</a>. The two editions save their answers separately.</p>{clarifications.length>0&&<details class="answer-details"><summary>About the clarified clue wording</summary><p>These small wording corrections keep the same answers and positions. The earlier definitions are shown here for reference.</p><ul>{clarifications.map(c=><li><p><strong>Earlier wording:</strong> {c.originalClue}</p><p><strong>Clarified wording:</strong> {c.clue}</p><p>{c.reason}</p></li>)}</ul></details>}<div style="height:24px"></div><Game puzzle={puzzle}/><p class="game-bottom"><a href="/crosswords/">Explore all current puzzles →</a></p></div></Layout>

@@ -267,7 +267,7 @@
       ],
       [
         "TWILIGHT",
-        "Period of partial light before night or after dawn"
+        "Partial daylight before sunrise or after sunset"
       ],
       [
         "NIGHT",
@@ -283,7 +283,7 @@
       ]
     ],
     "answerNotes": {
-      "TWILIGHT": "Twilight is partial daylight near sunrise or sunset. The evening setting here points toward the start of night.",
+      "TWILIGHT": "Twilight is the partial light before sunrise or after sunset. This puzzle's evening setting refers to the light that remains after sunset.",
       "SHADOW": "A shadow results from blocked light. It differs from the light source making it visible.",
       "GLOW": "Glow is a soft steady light in this clue. It does not require a sharp flashing pattern.",
       "LANTERN": "A lantern encloses a light source. The clue names the whole portable object rather than its flame or bulb."

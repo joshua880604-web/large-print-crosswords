@@ -21,9 +21,27 @@ import weatherOriginals from '../src/data/archives/weather-originals.json' with 
 import workshopOriginals from '../src/data/archives/workshop-originals.json' with {type:'json'};
 import gamesOriginals from '../src/data/archives/games-originals.json' with {type:'json'};
 import editorialSeries from '../src/data/editorial-series.json' with {type:'json'};
+import archiveCorrections from '../src/data/archive-clue-clarifications.json' with {type:'json'};
 const originals=[...gardeningOriginals,...birdOriginals,...musicOriginals,...marketOriginals,...travelOriginals,...homeOriginals,...farmOriginals,...bakingOriginals,...craftsOriginals,...flowersOriginals,...petsOriginals,...drinksOriginals,...moviesOriginals,...seasideOriginals,...autumnOriginals,...holidaysOriginals,...readingOriginals,...weatherOriginals,...workshopOriginals,...gamesOriginals];
 
 const edited=puzzles.filter(p=>'revision' in p);
+
+for(const correction of archiveCorrections)test(`archive definition ${correction.answer} is clarified without losing its original saved board`,async({page})=>{
+ const old=originals.find(p=>p.entries.some(e=>e.answer===correction.answer&&e.clue===correction.originalClue))!;
+ const entry=old.entries.find(e=>e.answer===correction.answer&&e.clue===correction.originalClue)!;
+ const key=`lpc:v1:${old.id}`,cell=`${entry.row},${entry.col}`,saved=JSON.stringify({[cell]:entry.answer[0]});
+ await page.goto(`/crosswords/${old.id}/previous/`);
+ await page.evaluate(({key,saved})=>localStorage.setItem(key,saved),{key,saved});await page.reload();
+ await expect(page.locator(`[data-cell="${cell}"] input`)).toHaveValue(entry.answer[0]);
+ await expect(page.locator(`[data-entry="${entry.number}-${entry.direction}"]`)).toContainText(correction.clue);
+ const actual=await page.locator('.game-root').evaluate(el=>JSON.parse((el as HTMLElement).dataset.puzzle!));
+ const placement=(entries:typeof old.entries)=>entries.map(e=>[e.answer,e.number,e.row,e.col,e.direction]);
+ expect(placement(actual.entries)).toEqual(placement(old.entries));
+ expect(await page.evaluate(key=>localStorage.getItem(key),key)).toBe(saved);
+ await page.getByText('About the clarified clue wording',{exact:true}).click();
+ await expect(page.locator('.answer-details')).toContainText(correction.originalClue);
+ await expect(page.locator('.answer-details')).toContainText(correction.reason);
+});
 
 test('edited subjects have distinct reader notes and hidden answer explanations',async({page})=>{
  test.setTimeout(180_000); // Visit every subject in the complete collection.
