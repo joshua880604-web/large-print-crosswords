@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 220 current puzzles; 2467 clue entries.
-- 1472 distinct answers; 2467 distinct answer/clue pairs.
-- 220 different introductions; 0 numbered titles remain.
-- 220 editions have dedicated subject notes and answer explanations.
+- 300 current puzzles; 3360 clue entries.
+- 1859 distinct answers; 3360 distinct answer/clue pairs.
+- 300 different introductions; 0 numbered titles remain.
+- 300 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -377,11 +377,123 @@ Subjects: Printing the News in 1776, Joining the Rails at Promontory, Letters an
 
 Subjects: A Morning on a Texas Ranch, Texas Wildflowers in Spring, Pecan Pie at the Texas Table, An Evening at a Texas Dance Hall, A Road Trip Across Texas.
 
+## Neighborhood Stops: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: At the Neighborhood Barber Shop, At the Shoe Repair Counter, Outside the Fire Station, Waiting at the Bus Stop, At the Corner Newsstand.
+
+## Hands-on Hobbies: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Jigsaw on the Table, A Cross-Stitch Sampler, Working at a Small Loom, Beads on the Craft Tray, Folding an Origami Crane.
+
+## American Landmarks: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: The Statue in New York Harbor, Across the Golden Gate, A View into the Grand Canyon, Four Faces at Mount Rushmore, The Tall Monument on the Mall.
+
+## Classic American Stops: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Covered Bridge Visit, Inside a Lighthouse Museum, At the Old Schoolhouse Museum, Shelves in a General Store, An Evening at the Drive-In.
+
+## Backyard Nature Studies: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Around a Freshwater Pond, A Honeybee Colony, Caterpillars and Cocoons, Bark and Tree Rings, Animal Tracks in Mud.
+
+## Evening Sky: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: The Moon’s Changing Shape, Stars and Familiar Sky Patterns, A Telescope on Its Tripod, Neighbors in the Solar System, Meteors and Comets.
+
+## Water and Wildlife: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Birds of the Woodland Edge, Mammals by the Creek, Frogs and Their Neighbors, A Turtle on a Log, Fish in a River.
+
+## Home Inventions: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Telephone on the Hall Table, A Familiar Film Camera, The Home Sewing Machine, A Kitchen Timer and Clock, Inside a Vacuum Cleaner.
+
+## Local Outings: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Walk through a Museum, A Botanical Garden Visit, At the Neighborhood Craft Fair, The Community Bandstand, At the County History Room.
+
+## Garden Details: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Compost and Soil, A Trellis of Garden Peas, Bulbs and Other Underground Stores, At the Rose Arbor, A Patch of Garden Berries.
+
+## Kitchen Word Science: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Textures at the Table, Ways to Prepare Vegetables, A Little Kitchen Chemistry, The Spice Grinder, Measuring Liquids.
+
+## Clothes and Fabrics: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Patterns in the Closet, A Button and a Zipper, The Shape of a Shirt, Familiar Fabric Names, A Rainy-Day Outfit.
+
+## Weather and Light Tools: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Reading a Thermometer, A Compass in the Hand, Weather Instruments at a Glance, Light and Shadows, Magnets on the Fridge.
+
+## Everyday Wordplay: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Words That Sound Alike, Words for Groups, Everyday American Spellings, A Word About Time, Sounds Around the House.
+
+## Recreation Room: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Friendly Game of Bingo, A Round of Shuffleboard, Mini Golf by the Park, A Pitch of Horseshoes, A Friendly Cribbage Board.
+
+## Simple Machines: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Levers and Lifting, A Pulley and a Rope, Wheels and Axles, Gears at Work, Ramps and Screws.
+
 The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 220 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 300 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -429,5 +541,21 @@ All 220 current puzzles have dedicated editorial content. Continue reviewing clu
 | state-capital-stops | 52 | 52 | 5 | 0 |
 | american-history-scenes | 55 | 55 | 5 | 0 |
 | texas-scenes | 53 | 53 | 5 | 0 |
+| neighborhood-stops | 56 | 56 | 5 | 0 |
+| hands-on-hobbies | 55 | 55 | 5 | 0 |
+| american-landmarks | 55 | 55 | 5 | 0 |
+| classic-american-stops | 57 | 57 | 5 | 0 |
+| backyard-nature-studies | 56 | 56 | 5 | 0 |
+| evening-sky | 57 | 57 | 5 | 0 |
+| water-and-wildlife | 54 | 54 | 5 | 0 |
+| home-inventions | 55 | 55 | 5 | 0 |
+| local-outings | 56 | 56 | 5 | 0 |
+| garden-details | 56 | 56 | 5 | 0 |
+| kitchen-word-science | 56 | 56 | 5 | 0 |
+| clothes-and-fabrics | 56 | 56 | 5 | 0 |
+| weather-and-light-tools | 55 | 55 | 5 | 0 |
+| everyday-wordplay | 57 | 57 | 5 | 0 |
+| recreation-room | 56 | 56 | 5 | 0 |
+| simple-machines | 56 | 56 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

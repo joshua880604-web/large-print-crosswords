@@ -1,0 +1,401 @@
+[
+  {
+    "id": "backyard-nature-studies",
+    "title": "Around a Freshwater Pond",
+    "description": "Explore the shallow edge of a freshwater pond, where plants, insects, and amphibians share a small habitat.",
+    "cardDescription": "Explore the shallow edge of a freshwater pond, where plants, insects, and amphibians share a small habitat.",
+    "subtheme": "Around a Freshwater Pond",
+    "focus": "The scene distinguishes an animal from its young and a waterside plant from its growing place. Some pond creatures change shape as they develop.",
+    "solvingTip": "Use the habitat and body description together. A life-stage clue calls for a stage name rather than the adult animal.",
+    "words": [
+      [
+        "FROG",
+        "Leaping amphibian often heard calling beside a pond"
+      ],
+      [
+        "TADPOLE",
+        "Aquatic young frog before its adult legs fully develop"
+      ],
+      [
+        "DRAGONFLY",
+        "Long-bodied flying insect often hovering over pond water"
+      ],
+      [
+        "CATTAIL",
+        "Wetland plant with a dense brown cylindrical flower head"
+      ],
+      [
+        "NEWT",
+        "Small amphibian with a tail retained as an adult"
+      ],
+      [
+        "REED",
+        "Tall grasslike waterside plant with a hollow or jointed stem"
+      ],
+      [
+        "SNAIL",
+        "Slow-moving pond animal with a coiled shell"
+      ],
+      [
+        "MARSH",
+        "Wetland dominated by soft-stemmed vegetation"
+      ],
+      [
+        "POND",
+        "Small body of still fresh water in this scene"
+      ],
+      [
+        "BANK",
+        "Sloping land at the edge of the water"
+      ],
+      [
+        "MUD",
+        "Wet soft earth beneath a pond visitor's boots"
+      ],
+      [
+        "EGG",
+        "Early life stage laid in water by many frogs"
+      ],
+      [
+        "WATER",
+        "Liquid filling the pond's basin"
+      ],
+      [
+        "WING",
+        "One of the paired flight surfaces on an adult pond insect"
+      ],
+      [
+        "LEAF",
+        "Flat green plant part floating at the water's surface"
+      ]
+    ],
+    "answerNotes": {
+      "FROG": "A frog is an amphibian. Its young commonly begin life as aquatic tadpoles, though frog life cycles vary.",
+      "TADPOLE": "A tadpole is a life stage, not a separate species. In a typical frog life cycle, its body changes as it develops.",
+      "DRAGONFLY": "A dragonfly has aquatic young and a flying adult stage. It is an insect, unlike a frog or snail.",
+      "CATTAIL": "Cattails grow in wetlands and have long narrow leaves. The distinctive brown head helps identify the plant in this clue.",
+      "NEWT": "A newt is a kind of salamander. An adult frog usually lacks the long tail that a newt keeps."
+    },
+    "requiredAnswers": [
+      "DRAGONFLY"
+    ]
+  },
+  {
+    "id": "backyard-nature-studies-2",
+    "title": "A Honeybee Colony",
+    "description": "Look inside the vocabulary of a honeybee colony, from its wax chambers to the different bees that live together.",
+    "cardDescription": "Look inside the vocabulary of a honeybee colony, from its wax chambers to the different bees that live together.",
+    "subtheme": "A Honeybee Colony",
+    "focus": "These clues concern honeybees rather than every bee species. The names for colony members describe different biological roles, and food words distinguish floral ingredients from stored products.",
+    "solvingTip": "Separate the insect’s role from the material or structure. Use the short hive words to cross longer flower-related answers.",
+    "words": [
+      [
+        "QUEEN",
+        "Principal egg-laying female in a honeybee colony"
+      ],
+      [
+        "DRONE",
+        "Male honeybee in a colony"
+      ],
+      [
+        "WORKER",
+        "Female honeybee that gathers food and maintains the colony"
+      ],
+      [
+        "COMB",
+        "Structure of adjoining wax chambers built by honeybees"
+      ],
+      [
+        "NECTAR",
+        "Sweet floral liquid collected by honeybees"
+      ],
+      [
+        "HIVE",
+        "Home or enclosure occupied by a honeybee colony"
+      ],
+      [
+        "HONEY",
+        "Sweet food made and stored by honeybees"
+      ],
+      [
+        "WAX",
+        "Material honeybees use to construct their hexagonal chambers"
+      ],
+      [
+        "BROOD",
+        "Collective term for a colony's developing young"
+      ],
+      [
+        "POLLEN",
+        "Flower powder collected as a protein source by honeybees"
+      ],
+      [
+        "CELL",
+        "One hexagonal chamber in a honeybee's wax structure"
+      ],
+      [
+        "SWARM",
+        "Group of bees leaving together to establish a new colony"
+      ],
+      [
+        "STING",
+        "Defensive piercing structure on a female honeybee"
+      ],
+      [
+        "WING",
+        "Thin flight surface on the side of a honeybee's body"
+      ]
+    ],
+    "answerNotes": {
+      "QUEEN": "A queen's central role is reproduction. The name does not mean she directs colony activity like a human ruler.",
+      "DRONE": "Drone identifies the male. Worker honeybees are female and perform many of the colony's everyday tasks.",
+      "WORKER": "Worker honeybees carry out different jobs as they mature. They are distinct from the colony's principal egg-laying queen.",
+      "COMB": "Comb contains cells used for food storage and developing young. The structure is different from the hive enclosing the colony.",
+      "NECTAR": "Nectar supplies sugars. Pollen is the powdery material associated with a flower's male reproductive structures."
+    },
+    "requiredAnswers": [
+      "HIVE",
+      "WORKER"
+    ]
+  },
+  {
+    "id": "backyard-nature-studies-3",
+    "title": "Caterpillars and Cocoons",
+    "description": "Follow the names used for the stages of butterflies and moths, including the difference between a pupa and its covering.",
+    "cardDescription": "Follow the names used for the stages of butterflies and moths, including the difference between a pupa and its covering.",
+    "subtheme": "Caterpillars and Cocoons",
+    "focus": "A life stage and an enclosing structure are different things. The clues make that distinction explicit while connecting familiar flying insects with their younger forms.",
+    "solvingTip": "Read whether a definition asks for a stage, a covering, or a body part. Those categories help separate similar insect words.",
+    "words": [
+      [
+        "LARVA",
+        "Immature feeding stage represented by a caterpillar"
+      ],
+      [
+        "PUPA",
+        "Insect life stage between larva and adult in complete metamorphosis"
+      ],
+      [
+        "CHRYSALIS",
+        "Name commonly given to a butterfly's pupa"
+      ],
+      [
+        "COCOON",
+        "Protective silk covering spun by many moth caterpillars"
+      ],
+      [
+        "SILK",
+        "Fine fiber a caterpillar may spin into a protective case"
+      ],
+      [
+        "EGG",
+        "Life stage from which a caterpillar hatches"
+      ],
+      [
+        "ANTENNA",
+        "One of an adult moth's paired head feelers"
+      ],
+      [
+        "INSECT",
+        "Six-legged animal group containing moths and butterflies"
+      ],
+      [
+        "WING",
+        "Adult butterfly body part bearing tiny colored scales"
+      ],
+      [
+        "MOTH",
+        "Flying insect whose caterpillar may spin a silk case"
+      ],
+      [
+        "FEED",
+        "To eat leaves, as a growing caterpillar does"
+      ],
+      [
+        "GROW",
+        "To increase in size during a caterpillar's feeding stage"
+      ],
+      [
+        "STAGE",
+        "One distinct period in an insect's life cycle"
+      ],
+      [
+        "BUTTERFLY",
+        "Adult insect whose pupa is commonly called a chrysalis"
+      ]
+    ],
+    "answerNotes": {
+      "LARVA": "Larva is the stage name. Caterpillar is the familiar term for the larva of a butterfly or moth.",
+      "PUPA": "A pupa is the developing insect, not a silk case around it. Changes to the adult form occur during this stage.",
+      "CHRYSALIS": "A chrysalis is a butterfly pupa. It should not be confused with a cocoon, which is an outer silk covering.",
+      "COCOON": "A cocoon encloses a pupa. Many moths make one, but a cocoon is not part of every moth's life cycle.",
+      "SILK": "Silk is the fiber used for a cocoon. The insect inside is called a pupa."
+    },
+    "requiredAnswers": [
+      "CHRYSALIS",
+      "COCOON"
+    ]
+  },
+  {
+    "id": "backyard-nature-studies-4",
+    "title": "Bark and Tree Rings",
+    "description": "Study the parts of a woody tree through the surface of a stump and the layers beneath its bark.",
+    "cardDescription": "Study the parts of a woody tree through the surface of a stump and the layers beneath its bark.",
+    "subtheme": "Bark and Tree Rings",
+    "focus": "Tree layers have different jobs and locations. Growth rings often reflect yearly cycles in temperate trees, but counting rings is not an infallible rule for every tree or growing condition.",
+    "solvingTip": "Location words matter here: outside, growing layer, and center point to different tree parts. Use those distinctions before filling the crossings.",
+    "words": [
+      [
+        "CAMBIUM",
+        "Thin growth layer producing new wood and inner bark"
+      ],
+      [
+        "BARK",
+        "Protective outer covering of a woody trunk"
+      ],
+      [
+        "SAPWOOD",
+        "Outer younger wood that conducts water in a tree"
+      ],
+      [
+        "HEARTWOOD",
+        "Older inner wood near the center of many trunks"
+      ],
+      [
+        "RING",
+        "Circular growth band visible on a cut tree stump"
+      ],
+      [
+        "SAP",
+        "Watery fluid transported within a plant"
+      ],
+      [
+        "ROOT",
+        "Tree part anchoring the plant below ground"
+      ],
+      [
+        "TRUNK",
+        "Main upright woody stem of a tree"
+      ],
+      [
+        "GRAIN",
+        "Pattern showing the direction of wood fibers"
+      ],
+      [
+        "KNOT",
+        "Hard spot in wood where a branch was attached"
+      ],
+      [
+        "STUMP",
+        "Short trunk portion left after a tree is cut"
+      ],
+      [
+        "CORE",
+        "Central region inside a cylindrical sample of wood"
+      ],
+      [
+        "GROWTH",
+        "Increase in a tree's size over time"
+      ],
+      [
+        "WOOD",
+        "Hard fibrous material forming most of a tree trunk"
+      ],
+      [
+        "SPLIT",
+        "To separate wood along a crack"
+      ]
+    ],
+    "answerNotes": {
+      "CAMBIUM": "The vascular cambium produces new tissues in a woody stem. It lies between the wood and the inner bark.",
+      "BARK": "Bark covers the outside of a woody stem. The growth rings visible on a cut stump are in the wood beneath it.",
+      "SAPWOOD": "Sapwood is the outer functional wood. Older inner wood may become heartwood.",
+      "HEARTWOOD": "Heartwood is distinct from the water-conducting sapwood. Its presence and color vary among tree species.",
+      "RING": "Growth rings often follow annual growing cycles in temperate trees. Unusual conditions can complicate a simple one-ring-per-year count."
+    },
+    "requiredAnswers": [
+      "CAMBIUM"
+    ]
+  },
+  {
+    "id": "backyard-nature-studies-5",
+    "title": "Animal Tracks in Mud",
+    "description": "Examine the vocabulary of footprints and trails left by familiar animals near a muddy path.",
+    "cardDescription": "Examine the vocabulary of footprints and trails left by familiar animals near a muddy path.",
+    "subtheme": "Animal Tracks in Mud",
+    "focus": "A mark can suggest the kind of foot that made it. These clues describe vocabulary and recognizable features; an actual identification can also depend on size, movement, and surrounding signs.",
+    "solvingTip": "Check whether the clue names an animal, a foot part, a single mark, or a sequence of marks. The category narrows the possibilities.",
+    "words": [
+      [
+        "TRACK",
+        "Mark left on the ground by an animal's foot"
+      ],
+      [
+        "HOOF",
+        "Hard foot covering that can leave a deer's split impression"
+      ],
+      [
+        "CLAW",
+        "Curved pointed nail that may show ahead of a toe print"
+      ],
+      [
+        "RACCOON",
+        "Masked mammal whose forefeet can leave handlike impressions"
+      ],
+      [
+        "GAIT",
+        "Pattern of movement revealed by a sequence of footprints"
+      ],
+      [
+        "PRINT",
+        "Impression pressed into soft ground by a foot"
+      ],
+      [
+        "PAW",
+        "Soft-footed animal's foot, as on a fox"
+      ],
+      [
+        "TOE",
+        "One digit that may leave a small impression"
+      ],
+      [
+        "TRAIL",
+        "Sequence of marks showing an animal's route"
+      ],
+      [
+        "MUD",
+        "Soft wet ground that can hold clear footprints"
+      ],
+      [
+        "SAND",
+        "Loose grains that may preserve a passing animal's marks"
+      ],
+      [
+        "FOX",
+        "Bushy-tailed wild canine that leaves paw marks"
+      ],
+      [
+        "DEER",
+        "Hoofed woodland mammal often seen near a meadow"
+      ],
+      [
+        "RABBIT",
+        "Long-eared animal that commonly moves by hopping"
+      ],
+      [
+        "WEBBED",
+        "Joined by skin between the toes, as many swimming birds' feet are"
+      ]
+    ],
+    "answerNotes": {
+      "TRACK": "A track is one sign of an animal's passage. A trail can include a succession of such marks.",
+      "HOOF": "Deer have cloven hooves. A hoof impression differs from the paw print of a fox or raccoon.",
+      "CLAW": "Claw marks can help describe a print, but their presence alone does not identify every animal reliably.",
+      "RACCOON": "A raccoon's front tracks often suggest small hands. Several features together are more useful than one isolated resemblance.",
+      "GAIT": "Gait concerns how an animal moves, such as walking or bounding. It is different from the shape of one print."
+    },
+    "requiredAnswers": [
+      "TRACK"
+    ]
+  }
+]

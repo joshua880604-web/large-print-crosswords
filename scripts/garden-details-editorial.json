@@ -1,0 +1,400 @@
+[
+  {
+    "id": "garden-details",
+    "title": "Compost and Soil",
+    "description": "Look closely at soil ingredients and the organic materials found in a garden’s compost area.",
+    "cardDescription": "Look closely at soil ingredients and the organic materials found in a garden’s compost area.",
+    "subtheme": "Compost and Soil",
+    "focus": "Particle sizes and organic matter describe different aspects of soil. The clues distinguish loam from a single mineral fraction and humus from both fresh leaves and the food with a similar name.",
+    "solvingTip": "Sort the definitions into particle, mixture, process, or organic material. The shortest garden words help with the less familiar soil terms.",
+    "words": [
+      [
+        "HUMUS",
+        "Dark relatively stable organic matter formed as material decomposes"
+      ],
+      [
+        "LOAM",
+        "Soil texture containing a mixture of sand, silt, and clay"
+      ],
+      [
+        "COMPOST",
+        "Decomposed organic material made from collected plant and other suitable matter"
+      ],
+      [
+        "MULCH",
+        "Layer spread over the soil surface around plants"
+      ],
+      [
+        "SILT",
+        "Soil particle size between sand and clay"
+      ],
+      [
+        "CLAY",
+        "Finest of the three main mineral soil particle groups"
+      ],
+      [
+        "SAND",
+        "Coarsest of the three main mineral soil particle groups"
+      ],
+      [
+        "SOIL",
+        "Earthy growing medium beneath a garden's plants"
+      ],
+      [
+        "LEAF",
+        "Fallen tree part added to many garden compost piles"
+      ],
+      [
+        "WORM",
+        "Burrowing animal often found in moist garden soil"
+      ],
+      [
+        "AIR",
+        "Gas-filled space needed within a well-structured soil"
+      ],
+      [
+        "WATER",
+        "Liquid occupying some of a soil's pore spaces"
+      ],
+      [
+        "PILE",
+        "Heap of collected material in a compost area"
+      ],
+      [
+        "ROT",
+        "To decay as organic material breaks down"
+      ]
+    ],
+    "answerNotes": {
+      "HUMUS": "Humus is soil organic matter. Its spelling differs from hummus, the chickpea-based food.",
+      "LOAM": "Loam combines mineral particle sizes. It is not simply another name for compost or for any fertile soil.",
+      "COMPOST": "Compost is a product of managed decomposition. Its ingredients and degree of breakdown affect its properties.",
+      "MULCH": "Mulch covers the surface. Compost can be used as mulch, but the two words describe different things: a material and a use.",
+      "SILT": "Silt particles are smaller than sand and larger than clay. These names describe mineral size fractions rather than organic ingredients."
+    },
+    "requiredAnswers": [
+      "HUMUS"
+    ]
+  },
+  {
+    "id": "garden-details-2",
+    "title": "A Trellis of Garden Peas",
+    "description": "Follow climbing peas through their supports, curling structures, and seed-bearing pods.",
+    "cardDescription": "Follow climbing peas through their supports, curling structures, and seed-bearing pods.",
+    "subtheme": "A Trellis of Garden Peas",
+    "focus": "Peas use tendrils to hold onto supports. This differs from plants that climb mainly by winding their stems, so the clues keep the plant and its climbing mechanism connected.",
+    "solvingTip": "Distinguish the living climbing part from the support supplied by a gardener. A fruit, a seed, and a stem are also separate structures.",
+    "words": [
+      [
+        "TENDRIL",
+        "Slender curling plant structure a pea uses to grasp support"
+      ],
+      [
+        "TRELLIS",
+        "Framework provided for climbing garden plants"
+      ],
+      [
+        "POD",
+        "Seed-bearing fruit of a pea plant"
+      ],
+      [
+        "TWINE",
+        "Strong thin cord used for tying garden supports"
+      ],
+      [
+        "VINE",
+        "Climbing or trailing plant stem, as in a pea planting"
+      ],
+      [
+        "POLE",
+        "Tall upright support beside a climbing plant"
+      ],
+      [
+        "SEED",
+        "Individual pea from which a new plant can grow"
+      ],
+      [
+        "STEM",
+        "Plant axis bearing leaves and supporting growth"
+      ],
+      [
+        "LEAF",
+        "Flat green structure carrying out much of a pea plant's photosynthesis"
+      ],
+      [
+        "CLIMB",
+        "To grow upward along a supporting framework"
+      ],
+      [
+        "ROOT",
+        "Plant structure anchoring the pea below ground"
+      ],
+      [
+        "TIE",
+        "To fasten a support with a piece of cord"
+      ],
+      [
+        "PEA",
+        "Small round seed inside this garden plant's pod"
+      ],
+      [
+        "STAKE",
+        "Pointed support pushed into garden soil"
+      ]
+    ],
+    "answerNotes": {
+      "TENDRIL": "A pea uses tendrils to hold nearby supports. Many climbing beans instead wind their stems, which is a different mechanism.",
+      "TRELLIS": "A trellis is a support, not a living plant part. Its openings give tendrils or stems places to hold.",
+      "POD": "A pea pod is a fruit in botanical terms. The individual peas inside are seeds.",
+      "TWINE": "Twine is a supplied material. It differs from a tendril grown by the pea plant itself.",
+      "VINE": "Vine describes a growth habit. Different vines attach or climb in different ways."
+    },
+    "requiredAnswers": [
+      "TENDRIL"
+    ]
+  },
+  {
+    "id": "garden-details-3",
+    "title": "Bulbs and Other Underground Stores",
+    "description": "Separate familiar underground plant structures through examples from flowers and the vegetable garden.",
+    "cardDescription": "Separate familiar underground plant structures through examples from flowers and the vegetable garden.",
+    "subtheme": "Bulbs and Other Underground Stores",
+    "focus": "Bulbs, corms, tubers, and rhizomes are not interchangeable botanical terms. The clues identify their structures and use specific examples, including a true bulb and a solid corm.",
+    "solvingTip": "Use the plant example with the structural definition. Layered, solid, swollen, and horizontal describe different storage forms.",
+    "words": [
+      [
+        "BULB",
+        "Underground storage structure with fleshy leaf bases, as in an onion"
+      ],
+      [
+        "CORM",
+        "Solid swollen underground stem, as in a crocus"
+      ],
+      [
+        "TUBER",
+        "Swollen storage structure exemplified by a potato stem"
+      ],
+      [
+        "RHIZOME",
+        "Horizontal stem often growing underground, as in bearded iris"
+      ],
+      [
+        "DAHLIA",
+        "Garden flower that stores food in tuberous roots"
+      ],
+      [
+        "IRIS",
+        "Bearded ___, flowering plant commonly grown from a rhizome"
+      ],
+      [
+        "TULIP",
+        "Spring flower growing from a true bulb"
+      ],
+      [
+        "CROCUS",
+        "Early spring flower growing from a corm"
+      ],
+      [
+        "ONION",
+        "Kitchen vegetable whose layered underground part is a bulb"
+      ],
+      [
+        "LEAF",
+        "Plant organ whose fleshy base forms part of a true bulb"
+      ],
+      [
+        "SHOOT",
+        "New upward-growing stem and leaves"
+      ],
+      [
+        "ROOT",
+        "Underground organ that absorbs water and anchors a plant"
+      ],
+      [
+        "STORAGE",
+        "Function served by these food-holding plant structures"
+      ],
+      [
+        "BUD",
+        "Undeveloped growing point from which a shoot may emerge"
+      ]
+    ],
+    "answerNotes": {
+      "BULB": "A bulb contains fleshy leaf bases around a short stem. An onion provides a familiar example of that layered structure.",
+      "CORM": "A corm is solid stem tissue. It differs from the layered fleshy leaf bases of a true bulb.",
+      "TUBER": "A potato is a stem tuber. Other plants, such as dahlias, have tuberous roots rather than the same stem structure.",
+      "RHIZOME": "A rhizome is a stem, even when it lies below ground. Some irises have bulbs, so the clue specifically names bearded iris.",
+      "DAHLIA": "Dahlia storage structures are tuberous roots. They should not be described as potato-like stem tubers."
+    },
+    "requiredAnswers": [
+      "CORM",
+      "TUBER"
+    ]
+  },
+  {
+    "id": "garden-details-4",
+    "title": "At the Rose Arbor",
+    "description": "Examine a rose plant and its garden framework through precise plant parts and familiar outdoor structures.",
+    "cardDescription": "Examine a rose plant and its garden framework through precise plant parts and familiar outdoor structures.",
+    "subtheme": "At the Rose Arbor",
+    "focus": "Roses have prickles rather than true botanical thorns. A climbing rose’s long canes are generally trained onto a support, while the arbor and lattice belong to the garden structure.",
+    "solvingTip": "Decide whether each clue names the plant or its support. A flowering part, a fruit, and a protective projection have different names.",
+    "words": [
+      [
+        "PRICKLE",
+        "Sharp surface outgrowth on a rose stem"
+      ],
+      [
+        "CANE",
+        "Long woody stem of a rose plant"
+      ],
+      [
+        "HIP",
+        "Fruit that develops on a rose after flowering"
+      ],
+      [
+        "ARBOR",
+        "Garden framework forming a sheltered passage or sitting place"
+      ],
+      [
+        "LATTICE",
+        "Framework of crossed narrow strips used as a plant support"
+      ],
+      [
+        "ROSE",
+        "Flowering shrub featured on this garden framework"
+      ],
+      [
+        "PETAL",
+        "One colored segment surrounding a rose flower's center"
+      ],
+      [
+        "BUD",
+        "Unopened flower on a rose cane"
+      ],
+      [
+        "STEM",
+        "Plant axis supporting a rose's leaves and flowers"
+      ],
+      [
+        "SCENT",
+        "Fragrance noticed near a blooming rose"
+      ],
+      [
+        "TRELLIS",
+        "Open support against which long rose canes may be trained"
+      ],
+      [
+        "ARCH",
+        "Curved overhead shape of some garden entrances"
+      ],
+      [
+        "SUPPORT",
+        "Structure helping a long rose cane stay in position"
+      ],
+      [
+        "LEAF",
+        "Green plant part along a rose stem"
+      ],
+      [
+        "TWINE",
+        "Cord used to secure a stem to a garden framework"
+      ]
+    ],
+    "answerNotes": {
+      "PRICKLE": "A rose's sharp projections are botanically prickles. True thorns are modified branches, a different structure.",
+      "CANE": "Rose growers call the longer stems canes. Climbing roses have long canes that can be trained onto supports rather than true twining vines.",
+      "HIP": "A rose hip is the fruit. It is different from the unopened flower bud that appears before the bloom.",
+      "ARBOR": "An arbor is a garden structure that can support plants. It is separate from the living rose growing over it.",
+      "LATTICE": "Lattice has an open crisscross pattern. It can form part of an arbor or a trellis."
+    },
+    "requiredAnswers": [
+      "PRICKLE"
+    ]
+  },
+  {
+    "id": "garden-details-5",
+    "title": "A Patch of Garden Berries",
+    "description": "Explore berry plants through their growth habits, harvest words, and a few distinctive fruits.",
+    "cardDescription": "Explore berry plants through their growth habits, harvest words, and a few distinctive fruits.",
+    "subtheme": "A Patch of Garden Berries",
+    "focus": "The everyday word berry includes fruits with different botanical structures. These clues use common garden names while distinguishing a strawberry runner from a bramble’s woody cane.",
+    "solvingTip": "A clue about spreading or new growth may name a plant structure. A fruit clue gives a familiar garden name rather than a strict botanical category.",
+    "words": [
+      [
+        "RUNNER",
+        "Horizontal strawberry stem that can form new plantlets"
+      ],
+      [
+        "BRAMBLE",
+        "Prickly shrub group including blackberries and raspberries"
+      ],
+      [
+        "RASPBERRY",
+        "Fruit that usually leaves its central receptacle behind when picked"
+      ],
+      [
+        "BLUEBERRY",
+        "Small blue fruit growing on a woody shrub"
+      ],
+      [
+        "CURRANT",
+        "Small clustered fruit also sold in red or black varieties"
+      ],
+      [
+        "STRAWBERRY",
+        "Red garden fruit whose plant commonly spreads by runners"
+      ],
+      [
+        "CANE",
+        "Woody stem of a raspberry or blackberry plant"
+      ],
+      [
+        "BLACKBERRY",
+        "Dark bramble fruit retaining its central core when picked"
+      ],
+      [
+        "GOOSEBERRY",
+        "Round shrub fruit whose plant often has spiny stems"
+      ],
+      [
+        "RIPE",
+        "Mature and ready to pick, as garden fruit"
+      ],
+      [
+        "FRUIT",
+        "Seed-bearing plant structure harvested from a berry patch"
+      ],
+      [
+        "HARVEST",
+        "To gather a crop when it is ready"
+      ],
+      [
+        "PICK",
+        "To remove an individual ripe fruit from its plant"
+      ],
+      [
+        "ROW",
+        "Straight line of plants in a garden patch"
+      ],
+      [
+        "NET",
+        "Open mesh used to cover some fruit plantings"
+      ],
+      [
+        "BUD",
+        "Small developing shoot on a berry cane"
+      ]
+    ],
+    "answerNotes": {
+      "RUNNER": "A strawberry runner is a stem used in vegetative spread. New plantlets can take root at points along it.",
+      "BRAMBLE": "Bramble is a familiar collective word for these plants. It is not a name for the fruit alone.",
+      "RASPBERRY": "A picked raspberry is commonly hollow at the center. A blackberry generally retains the central receptacle within the picked fruit.",
+      "BLUEBERRY": "Blueberries grow on shrubs rather than on strawberry-like runners. Common food names do not all reflect the same botanical fruit type.",
+      "CURRANT": "Fresh currants grow on shrubs. They are distinct from the dried small grapes also marketed as Zante currants."
+    },
+    "requiredAnswers": [
+      "RUNNER"
+    ]
+  }
+]

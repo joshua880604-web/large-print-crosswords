@@ -1,0 +1,392 @@
+[
+  {
+    "id": "neighborhood-stops",
+    "title": "At the Neighborhood Barber Shop",
+    "description": "Look around a barber shop through familiar grooming tools, the chair, and the small actions of a haircut.",
+    "cardDescription": "Look around a barber shop through familiar grooming tools, the chair, and the small actions of a haircut.",
+    "subtheme": "At the Neighborhood Barber Shop",
+    "focus": "This scene uses the ordinary names of grooming tools and shop furnishings. A cutting tool, its preparation material, and a customer’s protective covering have different jobs.",
+    "solvingTip": "Look for the object’s purpose rather than its size. Use an everyday seat or protective covering to help cross a less familiar grooming term.",
+    "words": [
+      [
+        "BARBER",
+        "Person whose trade includes cutting hair and shaving beards"
+      ],
+      [
+        "COMB",
+        "Toothed grooming tool drawn through hair"
+      ],
+      [
+        "RAZOR",
+        "Sharp-edged shaving tool"
+      ],
+      [
+        "STROP",
+        "Leather strip traditionally used to hone a straight shaving blade"
+      ],
+      [
+        "LATHER",
+        "Foamy soap preparation used for a traditional shave"
+      ],
+      [
+        "CLIPPER",
+        "Powered hair-cutting tool with moving toothed blades"
+      ],
+      [
+        "BRUSH",
+        "Bristled grooming tool kept beside a barber's combs"
+      ],
+      [
+        "CAPE",
+        "Protective covering draped around a haircut customer"
+      ],
+      [
+        "CHAIR",
+        "Seat occupied by a customer during a haircut"
+      ],
+      [
+        "MIRROR",
+        "Reflective surface showing the back or front of a haircut"
+      ],
+      [
+        "SCISSORS",
+        "Paired cutting blades used to shorten hair"
+      ],
+      [
+        "TRIM",
+        "To shorten hair by cutting off a small amount"
+      ],
+      [
+        "PART",
+        "Line dividing hair combed in different directions"
+      ],
+      [
+        "SHAVE",
+        "To remove facial hair close to the skin"
+      ],
+      [
+        "SINK",
+        "Basin where a barber can wash equipment or hands"
+      ]
+    ],
+    "answerNotes": {
+      "BARBER": "A barber is a person doing a grooming trade. The clue asks for the worker rather than the place or a tool.",
+      "COMB": "A comb has teeth that separate or arrange hair. A brush uses bristles instead.",
+      "RAZOR": "A razor is used for shaving. Scissors cut between two blades, which is a different mechanism.",
+      "STROP": "A strop is used to maintain a straight razor's edge. The clue names the strip, not the blade itself.",
+      "LATHER": "Lather is the foamy material. It is different from a brush that may spread it."
+    },
+    "requiredAnswers": [
+      "BARBER"
+    ]
+  },
+  {
+    "id": "neighborhood-stops-2",
+    "title": "At the Shoe Repair Counter",
+    "description": "Discover the parts of a shoe and the materials and tools used by a traditional repairer.",
+    "cardDescription": "Discover the parts of a shoe and the materials and tools used by a traditional repairer.",
+    "subtheme": "At the Shoe Repair Counter",
+    "focus": "The clues separate a shoe’s outer bottom, upper covering, and inner layers. Traditional workshop names appear beside familiar clothing words, with direct definitions for the less common tools.",
+    "solvingTip": "Use a body location to identify a shoe part. A clue about a worker or a shaping form asks for a different kind of answer from a material.",
+    "words": [
+      [
+        "COBBLER",
+        "Traditional name for a person who repairs shoes"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "LAST",
+        "Foot-shaped form used in making or repairing a shoe"
+      ],
+      [
+        "AWL",
+        "Pointed hand tool used to pierce holes in leather"
+      ],
+      [
+        "UPPER",
+        "Shoe covering above the bottom and around the foot"
+      ],
+      [
+        "HEEL",
+        "Raised rear part beneath a shoe"
+      ],
+      [
+        "LACE",
+        "Cord threaded through a shoe's small openings"
+      ],
+      [
+        "LEATHER",
+        "Animal-hide material used for many traditional shoes"
+      ],
+      [
+        "POLISH",
+        "Preparation rubbed on a shoe to improve its finish"
+      ],
+      [
+        "STITCH",
+        "One sewn loop joining pieces of shoe material"
+      ],
+      [
+        "LINING",
+        "Inner material covering the inside of a shoe"
+      ],
+      [
+        "REPAIR",
+        "To restore a worn shoe to usable condition"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool used to spread or buff shoe polish"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing a shoe repair"
+      ]
+    ],
+    "answerNotes": {
+      "COBBLER": "Cobbler names the repairer here. The same word can name a baked fruit dessert in another setting.",
+      "SOLE": "The sole is the shoe's bottom. An insole is inside the shoe, while a heel is the raised rear portion.",
+      "LAST": "A shoemaker's last supports and shapes the work. This noun is different from last meaning final.",
+      "AWL": "An awl pierces a small hole. Its short name should not be confused with all, which sounds the same.",
+      "UPPER": "The upper surrounds the foot above the sole. It names a shoe section, not simply a relative height."
+    },
+    "requiredAnswers": [
+      "COBBLER"
+    ]
+  },
+  {
+    "id": "neighborhood-stops-3",
+    "title": "Outside the Fire Station",
+    "description": "Identify familiar station vehicles, protective equipment, and the objects used by a fire crew.",
+    "cardDescription": "Identify familiar station vehicles, protective equipment, and the objects used by a fire crew.",
+    "subtheme": "Outside the Fire Station",
+    "focus": "The station scene combines vehicles, protective clothing, and water-supply equipment. A warning sound and the vehicle carrying it have different names.",
+    "solvingTip": "Look for a vehicle, a wearable item, or a water-related object. Short equipment words help with the longer station terms.",
+    "words": [
+      [
+        "HYDRANT",
+        "Street fixture from which firefighters can draw water"
+      ],
+      [
+        "SIREN",
+        "Loud warning device carried by a responding fire vehicle"
+      ],
+      [
+        "LADDER",
+        "Runged equipment used by firefighters to reach higher places"
+      ],
+      [
+        "HELMET",
+        "Protective headgear worn by a fire crew member"
+      ],
+      [
+        "ENGINE",
+        "Common name for a fire vehicle equipped to pump water"
+      ],
+      [
+        "HOSE",
+        "Flexible water-carrying tube coiled at a fire station"
+      ],
+      [
+        "BOOT",
+        "Protective footwear worn by a firefighter"
+      ],
+      [
+        "DOOR",
+        "Large movable panel through which a station vehicle exits"
+      ],
+      [
+        "CREW",
+        "Group assigned to work together on a fire vehicle"
+      ],
+      [
+        "BELL",
+        "Ringing signal associated with traditional fire stations"
+      ],
+      [
+        "TRUCK",
+        "Large road vehicle that can carry fire equipment"
+      ],
+      [
+        "RESCUE",
+        "Act of bringing a person away from danger"
+      ],
+      [
+        "STATION",
+        "Building where fire crews and their vehicles are based"
+      ],
+      [
+        "ALARM",
+        "Signal calling attention to a possible fire"
+      ]
+    ],
+    "answerNotes": {
+      "HYDRANT": "A hydrant is a water-supply fitting. A hose is the flexible tube connected to convey the water.",
+      "SIREN": "A siren makes a warning sound. The clue asks for the device rather than the vehicle's engine.",
+      "LADDER": "A ladder provides a series of rungs. The word names equipment rather than a building's stairs.",
+      "HELMET": "A helmet covers and protects the head. Boots and other protective garments serve different body locations.",
+      "ENGINE": "A fire engine is a vehicle in this clue. Engine can also name the power-producing machine inside a vehicle."
+    },
+    "requiredAnswers": [
+      "HYDRANT"
+    ]
+  },
+  {
+    "id": "neighborhood-stops-4",
+    "title": "Waiting at the Bus Stop",
+    "description": "Follow a local bus journey through route information, boarding places, and familiar fare words.",
+    "cardDescription": "Follow a local bus journey through route information, boarding places, and familiar fare words.",
+    "subtheme": "Waiting at the Bus Stop",
+    "focus": "This scene uses common American bus-travel language. A route is a course, a fare is a charge, and a transfer connects parts of a journey; actual systems can handle tickets differently.",
+    "solvingTip": "Check whether the clue asks for information, a payment, a person, or a place to wait. The travel context selects the meaning of several ordinary words.",
+    "words": [
+      [
+        "TRANSFER",
+        "Pass or permission allowing a rider to change to another bus"
+      ],
+      [
+        "FARE",
+        "Charge paid for a ride on a public bus"
+      ],
+      [
+        "SHELTER",
+        "Covered waiting structure at some bus stops"
+      ],
+      [
+        "CURB",
+        "Raised roadside edge beside a bus boarding area"
+      ],
+      [
+        "ROUTE",
+        "Planned course followed by a local bus"
+      ],
+      [
+        "BUS",
+        "Large road vehicle carrying passengers along a public route"
+      ],
+      [
+        "STOP",
+        "Designated place where a public bus picks up riders"
+      ],
+      [
+        "TICKET",
+        "Paper or electronic record authorizing a bus ride"
+      ],
+      [
+        "TIMETABLE",
+        "Published list of planned bus departure times"
+      ],
+      [
+        "DRIVER",
+        "Person operating a local passenger bus"
+      ],
+      [
+        "SEAT",
+        "Individual sitting place aboard a bus"
+      ],
+      [
+        "AISLE",
+        "Passage between seating rows inside a bus"
+      ],
+      [
+        "RAMP",
+        "Sloping boarding aid fitted to some passenger buses"
+      ],
+      [
+        "LOOP",
+        "Route arrangement that returns around a circuit"
+      ]
+    ],
+    "answerNotes": {
+      "TRANSFER": "A transfer connects parts of a transit trip. Its format and validity depend on the local system.",
+      "FARE": "Fare is the travel charge. It sounds like fair but has a different spelling and meaning.",
+      "SHELTER": "A shelter provides a place to wait out of the weather. Not every bus stop has one.",
+      "CURB": "Curb is the common American spelling for the roadside edge. Kerb is used in British English.",
+      "ROUTE": "A route describes the course taken. A schedule or timetable instead describes planned times."
+    },
+    "requiredAnswers": [
+      "FARE"
+    ]
+  },
+  {
+    "id": "neighborhood-stops-5",
+    "title": "At the Corner Newsstand",
+    "description": "Browse a newspaper through headlines, credited writers, columns, and the objects at a small newsstand.",
+    "cardDescription": "Browse a newspaper through headlines, credited writers, columns, and the objects at a small newsstand.",
+    "subtheme": "At the Corner Newsstand",
+    "focus": "The clues distinguish a newspaper’s text and page features from the people preparing it and the objects displaying it. They do not ask about current headlines or named publications.",
+    "solvingTip": "Look for a page feature, a writer’s credit, or a shop object. Short paper words can help cross the longer newsroom terms.",
+    "words": [
+      [
+        "HEADLINE",
+        "Prominent title above a newspaper story"
+      ],
+      [
+        "BYLINE",
+        "Printed line identifying a news story's writer"
+      ],
+      [
+        "COLUMN",
+        "Vertical division of newspaper text, or a recurring signed feature"
+      ],
+      [
+        "EDITOR",
+        "Person who selects or prepares material for publication"
+      ],
+      [
+        "EDITION",
+        "Particular published issue or version of a newspaper"
+      ],
+      [
+        "COMIC",
+        "Humorous illustrated strip printed in a newspaper"
+      ],
+      [
+        "PUZZLE",
+        "Word or number challenge appearing in a newspaper section"
+      ],
+      [
+        "PHOTO",
+        "Short name for a camera image accompanying a news story"
+      ],
+      [
+        "PAGE",
+        "One printed side of a newspaper sheet"
+      ],
+      [
+        "NEWS",
+        "Reports of recent events printed for readers"
+      ],
+      [
+        "PRINT",
+        "To reproduce newspaper words on paper"
+      ],
+      [
+        "STAND",
+        "Small sales structure offering newspapers and magazines"
+      ],
+      [
+        "RACK",
+        "Display frame holding copies of a newspaper"
+      ],
+      [
+        "SHEET",
+        "Flat piece of paper making up part of a newspaper"
+      ]
+    ],
+    "answerNotes": {
+      "HEADLINE": "A headline identifies a story. A byline instead credits the writer.",
+      "BYLINE": "A byline is an authorship credit. It is different from the story's headline or the paper's overall title.",
+      "COLUMN": "Column has both a layout meaning and a recurring-feature meaning. The clue names those publishing uses.",
+      "EDITOR": "An editor helps prepare or select material. The role differs from a vendor selling the finished paper.",
+      "EDITION": "An edition identifies a version or issue. It is not the stand that displays the paper."
+    },
+    "requiredAnswers": [
+      "HEADLINE",
+      "BYLINE"
+    ]
+  }
+]

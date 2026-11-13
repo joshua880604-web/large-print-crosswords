@@ -1,0 +1,394 @@
+[
+  {
+    "id": "recreation-room",
+    "title": "A Friendly Game of Bingo",
+    "description": "Find the words for a familiar American bingo session, from the caller’s numbers to the marks on a card.",
+    "cardDescription": "Find the words for a familiar American bingo session, from the caller’s numbers to the marks on a card.",
+    "subtheme": "A Friendly Game of Bingo",
+    "focus": "Bingo formats vary. These clues refer to the familiar American card game while separating the person announcing numbers, the marking tool, and the possible lines on a card.",
+    "solvingTip": "A clue may name the player’s equipment, an arrangement of squares, or a role. Read the category before choosing a short game word.",
+    "words": [
+      [
+        "BINGO",
+        "Number-matching game in which players mark spaces on cards"
+      ],
+      [
+        "DAUBER",
+        "Ink marker commonly used to mark a bingo card"
+      ],
+      [
+        "CALLER",
+        "Person announcing the drawn bingo numbers"
+      ],
+      [
+        "DIAGONAL",
+        "Line running from one corner toward the opposite corner"
+      ],
+      [
+        "FREE",
+        "Word on the center space of many American bingo cards"
+      ],
+      [
+        "CARD",
+        "Printed grid on which a bingo player marks numbers"
+      ],
+      [
+        "NUMBER",
+        "Value announced after a bingo ball is drawn"
+      ],
+      [
+        "ROW",
+        "Horizontal line of spaces on a bingo card"
+      ],
+      [
+        "COLUMN",
+        "Vertical line of spaces on a bingo card"
+      ],
+      [
+        "MARK",
+        "To identify a called space on one's card"
+      ],
+      [
+        "SPACE",
+        "Individual square within the card's grid"
+      ],
+      [
+        "WIN",
+        "To satisfy the announced pattern before competing players"
+      ],
+      [
+        "GAME",
+        "Organized round played under stated rules"
+      ],
+      [
+        "BALL",
+        "Numbered sphere drawn in a traditional bingo session"
+      ]
+    ],
+    "answerNotes": {
+      "BINGO": "American bingo commonly uses a 75-ball format. Other formats exist, so a feature of one version is not a rule for all bingo.",
+      "DAUBER": "A dauber marks the selected spaces. Some players instead use counters or electronic versions.",
+      "CALLER": "The caller announces results of the draw. That role is separate from the players marking their own cards.",
+      "DIAGONAL": "A diagonal differs from a horizontal row or a vertical column. Which patterns win depends on the round's announced rules.",
+      "FREE": "Many standard American cards have a free center space. Other bingo formats do not necessarily use that layout."
+    },
+    "requiredAnswers": [
+      "BINGO",
+      "DAUBER"
+    ]
+  },
+  {
+    "id": "recreation-room-2",
+    "title": "A Round of Shuffleboard",
+    "description": "Compare the familiar words for court and table shuffleboard through their equipment and sliding motion.",
+    "cardDescription": "Compare the familiar words for court and table shuffleboard through their equipment and sliding motion.",
+    "subtheme": "A Round of Shuffleboard",
+    "focus": "Court and table versions use different equipment. The clues identify which version is meant when a cue, a disc, or a weighted puck appears, and avoid assuming one scoring system fits every version.",
+    "solvingTip": "Read the version named in the clue. The shared sliding action connects the scene, but the equipment words are more specific.",
+    "words": [
+      [
+        "CUE",
+        "Long pushing stick used in court shuffleboard"
+      ],
+      [
+        "DISC",
+        "Flat round piece pushed along a shuffleboard court"
+      ],
+      [
+        "PUCK",
+        "Common name for a weighted sliding piece in table shuffleboard"
+      ],
+      [
+        "COURT",
+        "Long marked playing surface for the outdoor version"
+      ],
+      [
+        "ZONE",
+        "Marked scoring area toward which a playing piece slides"
+      ],
+      [
+        "TABLE",
+        "Raised playing surface used for the indoor tabletop version"
+      ],
+      [
+        "SCORE",
+        "Total of points earned in a shuffleboard round"
+      ],
+      [
+        "LINE",
+        "Painted boundary on a shuffleboard court"
+      ],
+      [
+        "SLIDE",
+        "To move a playing piece smoothly along the surface"
+      ],
+      [
+        "PUSH",
+        "To apply forward force with a court game's cue"
+      ],
+      [
+        "WEIGHT",
+        "Another name for a heavy sliding piece in the table game"
+      ],
+      [
+        "END",
+        "One completed sequence of play in court shuffleboard"
+      ],
+      [
+        "POINT",
+        "Single scoring unit in the game"
+      ],
+      [
+        "TEAM",
+        "Group of players competing together"
+      ]
+    ],
+    "answerNotes": {
+      "CUE": "Court shuffleboard uses a cue to push a disc. Table shuffleboard is normally played by sliding weights by hand.",
+      "DISC": "Disc identifies the court piece here. The table version uses weighted pieces often called weights or pucks.",
+      "PUCK": "Puck is used for the table piece in this clue. Terminology varies, and weights is another familiar name.",
+      "COURT": "Court distinguishes the floor or outdoor game from the smaller tabletop game. Its scoring markings belong to that version.",
+      "ZONE": "A scoring zone is a region of the surface. Its value and boundaries depend on the version and rules being used."
+    },
+    "requiredAnswers": [
+      "CUE"
+    ]
+  },
+  {
+    "id": "recreation-room-3",
+    "title": "Mini Golf by the Park",
+    "description": "Follow a miniature-golf course through putting equipment, playful obstacles, and simple scorekeeping words.",
+    "cardDescription": "Follow a miniature-golf course through putting equipment, playful obstacles, and simple scorekeeping words.",
+    "subtheme": "Mini Golf by the Park",
+    "focus": "Miniature golf uses short putting holes and often decorative obstacles. The clues keep the course features separate from the score and the individual stroke.",
+    "solvingTip": "Picture the path of the ball. A tool, a target opening, and a barrier each have a different role in reaching the hole.",
+    "words": [
+      [
+        "MINIGOLF",
+        "Short form for the putting game played on small obstacle-filled courses"
+      ],
+      [
+        "PUTTER",
+        "Golf club used to roll the ball toward a nearby hole"
+      ],
+      [
+        "OBSTACLE",
+        "Course feature that blocks or complicates the ball's route"
+      ],
+      [
+        "WINDMILL",
+        "Rotating-sail structure often copied as a miniature-golf feature"
+      ],
+      [
+        "STROKE",
+        "One counted attempt to hit the golf ball with the club"
+      ],
+      [
+        "TUNNEL",
+        "Covered passage through which a mini-golf ball may roll"
+      ],
+      [
+        "BRIDGE",
+        "Small raised crossing on a themed putting course"
+      ],
+      [
+        "HOLE",
+        "One numbered playing section of a miniature-golf course"
+      ],
+      [
+        "CUP",
+        "Recessed target opening that receives the ball"
+      ],
+      [
+        "BALL",
+        "Small round object rolled with a putter"
+      ],
+      [
+        "PAR",
+        "Reference number of strokes assigned to a hole"
+      ],
+      [
+        "SCORE",
+        "Recorded number of strokes for a player"
+      ],
+      [
+        "TEE",
+        "Starting area of a miniature-golf hole"
+      ],
+      [
+        "TURN",
+        "One player's opportunity to play"
+      ]
+    ],
+    "answerNotes": {
+      "MINIGOLF": "Mini golf is written without a space in the grid. It is also called miniature golf.",
+      "PUTTER": "A putter is designed for the putting stroke. It differs from the longer-distance clubs used on a full-size course.",
+      "OBSTACLE": "An obstacle changes the route or difficulty of a hole. Its decorative appearance does not define the scoring rule.",
+      "WINDMILL": "A windmill is a familiar themed obstacle. Not every miniature-golf course includes one.",
+      "STROKE": "Strokes are the basic scoring units. A player's goal is usually to finish a hole in as few as possible under the course's rules."
+    },
+    "requiredAnswers": [
+      "MINIGOLF"
+    ]
+  },
+  {
+    "id": "recreation-room-4",
+    "title": "A Pitch of Horseshoes",
+    "description": "Recognize the equipment and familiar result words used in a recreational game of horseshoes.",
+    "cardDescription": "Recognize the equipment and familiar result words used in a recreational game of horseshoes.",
+    "subtheme": "A Pitch of Horseshoes",
+    "focus": "The game centers on pitching shoes toward a stake. A ringer has a particular position around the stake, while scoring for other positions depends on the rules being followed.",
+    "solvingTip": "Use the result’s position rather than assuming a point value. Equipment, playing area, and throwing action are separate categories.",
+    "words": [
+      [
+        "RINGER",
+        "Thrown horseshoe that surrounds the stake"
+      ],
+      [
+        "LEANER",
+        "Horseshoe resting against the stake without surrounding it"
+      ],
+      [
+        "HORSESHOE",
+        "U-shaped metal object pitched toward a stake in this game"
+      ],
+      [
+        "STAKE",
+        "Upright metal target in a horseshoe pit"
+      ],
+      [
+        "PITCH",
+        "To throw a horseshoe toward the target"
+      ],
+      [
+        "PIT",
+        "Prepared landing area around a horseshoe stake"
+      ],
+      [
+        "SAND",
+        "Granular material used in some horseshoe landing areas"
+      ],
+      [
+        "CLAY",
+        "Fine-textured material used in many horseshoe pits"
+      ],
+      [
+        "SHOE",
+        "Short game term for one of the U-shaped throwing pieces"
+      ],
+      [
+        "POINT",
+        "Unit used to keep score in a horseshoe game"
+      ],
+      [
+        "PAIR",
+        "Set of two pitching shoes"
+      ],
+      [
+        "COURT",
+        "Complete playing area containing the horseshoe targets"
+      ],
+      [
+        "ARC",
+        "Curved path followed by a thrown shoe"
+      ],
+      [
+        "TOSS",
+        "Gentle throwing action used in a casual game"
+      ]
+    ],
+    "answerNotes": {
+      "RINGER": "A ringer encircles the stake under the game's definition. A shoe merely leaning against it is not automatically a ringer.",
+      "LEANER": "Leaner describes the shoe's resting position. Its scoring treatment depends on the chosen rules.",
+      "HORSESHOE": "The game's pitching shoes have a specialized design. The name connects them with the familiar curved protective shoe for a horse's hoof.",
+      "STAKE": "The stake is the target. The pit is the surrounding landing area.",
+      "PITCH": "Pitch names the action in this sport. It has different meanings in music and in other games."
+    },
+    "requiredAnswers": [
+      "RINGER"
+    ]
+  },
+  {
+    "id": "recreation-room-5",
+    "title": "A Friendly Cribbage Board",
+    "description": "Explore a traditional card game through its pegged board, counting terms, and the dealer’s extra hand.",
+    "cardDescription": "Explore a traditional card game through its pegged board, counting terms, and the dealer’s extra hand.",
+    "subtheme": "A Friendly Cribbage Board",
+    "focus": "Cribbage combines card combinations with movement along a scoring board. The clues identify familiar standard scoring ideas while avoiding an assumption that every game uses the same target total.",
+    "solvingTip": "A clue about the board may have a different answer from a clue about the cards. A precise scoring total can identify a longer game word.",
+    "words": [
+      [
+        "CRIB",
+        "Extra cribbage hand assembled from players' discards for the dealer"
+      ],
+      [
+        "PEG",
+        "Small marker moved through holes in a cribbage board"
+      ],
+      [
+        "FIFTEEN",
+        "Card total scoring two points in standard cribbage"
+      ],
+      [
+        "RUN",
+        "Sequence of consecutive card ranks counted in cribbage"
+      ],
+      [
+        "JACK",
+        "Card rank relevant to the cribbage scoring terms nobs and heels"
+      ],
+      [
+        "BOARD",
+        "Perforated scoring track used with cribbage pegs"
+      ],
+      [
+        "HAND",
+        "Cards held by one player before being counted"
+      ],
+      [
+        "DEAL",
+        "To distribute cards to the players"
+      ],
+      [
+        "DECK",
+        "Complete set of playing cards used for the game"
+      ],
+      [
+        "CARD",
+        "Single rectangular playing piece bearing a rank and suit"
+      ],
+      [
+        "PAIR",
+        "Two cards of equal rank counted together"
+      ],
+      [
+        "COUNT",
+        "To add the value of scoring card combinations"
+      ],
+      [
+        "SCORE",
+        "Number of points a player has earned"
+      ],
+      [
+        "HOLE",
+        "Small opening receiving a peg in the board"
+      ],
+      [
+        "FINISH",
+        "To reach the game's agreed scoring goal"
+      ]
+    ],
+    "answerNotes": {
+      "CRIB": "The crib belongs to the dealer for scoring. It is separate from the cards retained in each player's own hand.",
+      "PEG": "Pegs show scoring progress. Using successive positions helps display the current and preceding score.",
+      "FIFTEEN": "In standard cribbage, combinations totaling fifteen score two points. The clue names the total rather than the points awarded.",
+      "RUN": "A run uses consecutive ranks. It is different from a pair of cards sharing the same rank.",
+      "JACK": "These familiar terms concern a jack in specific positions. Their conditions differ, so the clue asks only for the rank."
+    },
+    "requiredAnswers": [
+      "CRIB",
+      "PEG",
+      "FIFTEEN"
+    ]
+  }
+]

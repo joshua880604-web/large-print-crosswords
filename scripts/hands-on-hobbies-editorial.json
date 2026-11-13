@@ -1,0 +1,393 @@
+[
+  {
+    "id": "hands-on-hobbies",
+    "title": "A Jigsaw on the Table",
+    "description": "Piece together familiar words for a picture puzzle’s borders, tabs, and sorting work.",
+    "cardDescription": "Piece together familiar words for a picture puzzle’s borders, tabs, and sorting work.",
+    "subtheme": "A Jigsaw on the Table",
+    "focus": "This puzzle concerns the physical picture puzzle made of fitting pieces. A few answers name an edge or a corner, while others describe an action used to arrange the pieces.",
+    "solvingTip": "Separate a piece’s shape from the completed picture. Use the short sorting and turning words to cross the longer puzzle terms.",
+    "words": [
+      [
+        "JIGSAW",
+        "Type of picture puzzle assembled from interlocking pieces"
+      ],
+      [
+        "CORNER",
+        "Puzzle piece position with two outside edges meeting"
+      ],
+      [
+        "BORDER",
+        "Outer band of pieces around a completed picture puzzle"
+      ],
+      [
+        "TAB",
+        "Small projecting part of a jigsaw piece that fits a neighboring hollow"
+      ],
+      [
+        "PIECE",
+        "One separate fitting unit of a jigsaw picture"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of a rectangular picture puzzle"
+      ],
+      [
+        "PICTURE",
+        "Image formed when a jigsaw is completed"
+      ],
+      [
+        "BOX",
+        "Container holding loose puzzle pieces before assembly"
+      ],
+      [
+        "TRAY",
+        "Shallow support used to keep a group of puzzle pieces together"
+      ],
+      [
+        "SORT",
+        "To arrange loose puzzle pieces into groups"
+      ],
+      [
+        "JOIN",
+        "To connect fitting picture-puzzle pieces"
+      ],
+      [
+        "FIT",
+        "To match the shape and space of a neighboring puzzle piece"
+      ],
+      [
+        "TURN",
+        "To rotate a loose piece while checking its orientation"
+      ],
+      [
+        "PATTERN",
+        "Repeated visual design that can help identify matching pieces"
+      ]
+    ],
+    "answerNotes": {
+      "JIGSAW": "Jigsaw names the picture puzzle here. The same word can name a cutting saw in a workshop.",
+      "CORNER": "In a usual rectangular jigsaw, a corner lies where two outside edges meet. Other puzzle shapes can have different boundaries.",
+      "BORDER": "The border surrounds the image. Sorting edge pieces is one possible approach, not a rule every solver must follow.",
+      "TAB": "A tab projects outward. The neighboring hollow receives it; the two shapes help pieces interlock.",
+      "PIECE": "A piece is one unit in the assembled picture. Its shape and printed image both provide clues to placement."
+    },
+    "requiredAnswers": [
+      "JIGSAW"
+    ]
+  },
+  {
+    "id": "hands-on-hobbies-2",
+    "title": "A Cross-Stitch Sampler",
+    "description": "Explore counted embroidery through fabric, thread, small squares, and the tools used for a sampler.",
+    "cardDescription": "Explore counted embroidery through fabric, thread, small squares, and the tools used for a sampler.",
+    "subtheme": "A Cross-Stitch Sampler",
+    "focus": "The clues introduce the vocabulary of counted cross-stitch without requiring a pattern to follow. Materials and supporting objects have different names, and direct definitions explain the specialized words.",
+    "solvingTip": "Look for fabric, thread, a holding tool, or a counting action. Start with a short tool part before trying a longer embroidery word.",
+    "words": [
+      [
+        "SAMPLER",
+        "Decorative embroidery displaying stitches, designs, or an alphabet"
+      ],
+      [
+        "FLOSS",
+        "Stranded embroidery thread often made of cotton"
+      ],
+      [
+        "AIDA",
+        "Four-letter name for evenly gridded cotton cross-stitch fabric"
+      ],
+      [
+        "HOOP",
+        "Ring-shaped frame holding embroidery fabric taut"
+      ],
+      [
+        "CROSS",
+        "Shape formed by two diagonally intersecting embroidery stitches"
+      ],
+      [
+        "NEEDLE",
+        "Thread-carrying hand tool used for counted embroidery"
+      ],
+      [
+        "THREAD",
+        "Fine strand drawn through embroidery fabric"
+      ],
+      [
+        "COUNT",
+        "To determine how many fabric squares a design spans"
+      ],
+      [
+        "GRID",
+        "Regular network of small squares guiding counted stitching"
+      ],
+      [
+        "ROW",
+        "One horizontal line of stitches in a sampler"
+      ],
+      [
+        "STITCH",
+        "One sewn unit forming part of an embroidered design"
+      ],
+      [
+        "EYE",
+        "Threading hole in an embroidery needle"
+      ],
+      [
+        "SEW",
+        "To form fabric stitches using a needle and strand"
+      ],
+      [
+        "CLOTH",
+        "Woven material serving as an embroidery support"
+      ]
+    ],
+    "answerNotes": {
+      "SAMPLER": "A sampler can display an alphabet or examples of stitches. The word names the finished embroidery rather than the thread.",
+      "FLOSS": "Embroidery floss is thread that can be separated into strands. Dental floss has a different use despite the shared word.",
+      "AIDA": "Aida cloth has a regular grid useful in counted cross-stitch. The fabric name differs from the loose thread worked through it.",
+      "HOOP": "An embroidery hoop holds the fabric while it is worked. It is separate from the fabric's printed or woven grid.",
+      "CROSS": "The X shape gives cross-stitch its name. The clue asks for that shape rather than a religious object."
+    },
+    "requiredAnswers": [
+      "SAMPLER"
+    ]
+  },
+  {
+    "id": "hands-on-hobbies-3",
+    "title": "Working at a Small Loom",
+    "description": "Discover weaving through the threads, moving parts, and edges of a small loom.",
+    "cardDescription": "Discover weaving through the threads, moving parts, and edges of a small loom.",
+    "subtheme": "Working at a Small Loom",
+    "focus": "This scene distinguishes lengthwise threads from crosswise ones and names the parts that guide them. The clues describe vocabulary rather than a weaving procedure.",
+    "solvingTip": "Use position words to separate the two thread directions. Short ordinary words can help with a specialized loom part.",
+    "words": [
+      [
+        "LOOM",
+        "Frame or machine on which threads are woven into cloth"
+      ],
+      [
+        "WARP",
+        "Lengthwise threads held under tension on a loom"
+      ],
+      [
+        "WEFT",
+        "Crosswise thread passed through a loom's lengthwise threads"
+      ],
+      [
+        "SHUTTLE",
+        "Weaving tool carrying crosswise yarn through an opening"
+      ],
+      [
+        "HEDDLE",
+        "Loom device with an opening that controls a lengthwise thread"
+      ],
+      [
+        "BEATER",
+        "Loom part used to press newly woven thread into place"
+      ],
+      [
+        "REED",
+        "Comblike loom part that spaces threads and helps pack the weave"
+      ],
+      [
+        "SHED",
+        "Opening between separated warp threads on a loom"
+      ],
+      [
+        "YARN",
+        "Spun strand supplied to a weaving project"
+      ],
+      [
+        "THREAD",
+        "Fine strand forming one element of woven fabric"
+      ],
+      [
+        "SELVAGE",
+        "Finished lengthwise edge of woven cloth"
+      ],
+      [
+        "WOVEN",
+        "Made by interlacing crossing sets of threads"
+      ],
+      [
+        "ROW",
+        "One line of newly placed thread across a weaving"
+      ],
+      [
+        "CLOTH",
+        "Fabric produced by interlacing threads on a loom"
+      ]
+    ],
+    "answerNotes": {
+      "LOOM": "A loom holds and organizes threads during weaving. It differs from the finished fabric it produces.",
+      "WARP": "Warp threads run lengthwise in the woven cloth. Weft passes across them.",
+      "WEFT": "Weft travels across the warp. The two words name different thread directions, not two different fiber materials.",
+      "SHUTTLE": "A shuttle carries the weft through the shed. It is a tool rather than the entire loom.",
+      "HEDDLE": "A heddle helps separate warp threads to make a weaving opening. Its opening carries a thread, not the shuttle itself."
+    },
+    "requiredAnswers": [
+      "LOOM",
+      "WARP",
+      "WEFT"
+    ]
+  },
+  {
+    "id": "hands-on-hobbies-4",
+    "title": "Beads on the Craft Tray",
+    "description": "Explore small jewelry pieces through their shapes, fastening parts, and connecting materials.",
+    "cardDescription": "Explore small jewelry pieces through their shapes, fastening parts, and connecting materials.",
+    "subtheme": "Beads on the Craft Tray",
+    "focus": "These clues distinguish a whole necklace or bracelet from a small component. Everyday meanings provide a route into a few beadwork terms without asking about gem prices.",
+    "solvingTip": "Look for something worn, a small connecting part, or a material. A hanging ornament and a fastening serve different purposes.",
+    "words": [
+      [
+        "CLASP",
+        "Fastening used to close a necklace or bracelet"
+      ],
+      [
+        "PENDANT",
+        "Ornament hanging from a necklace chain"
+      ],
+      [
+        "CRIMP",
+        "Small tube or bead compressed to secure jewelry wire"
+      ],
+      [
+        "SPACER",
+        "Small bead or component separating larger decorative beads"
+      ],
+      [
+        "PEARL",
+        "Gem that can form inside certain mollusks"
+      ],
+      [
+        "BEAD",
+        "Small pierced decorative object threaded onto a strand"
+      ],
+      [
+        "STRING",
+        "To thread a row of beads onto a strand"
+      ],
+      [
+        "THREAD",
+        "Fine flexible strand passed through small beads"
+      ],
+      [
+        "WIRE",
+        "Thin metal strand used in some jewelry making"
+      ],
+      [
+        "LOOP",
+        "Curved closed shape used to connect jewelry parts"
+      ],
+      [
+        "CHARM",
+        "Small decorative object attached to a bracelet"
+      ],
+      [
+        "CHAIN",
+        "Series of connected links used as jewelry"
+      ],
+      [
+        "NECKLACE",
+        "Jewelry worn around the neck"
+      ],
+      [
+        "BRACELET",
+        "Jewelry worn around the wrist"
+      ],
+      [
+        "PLIERS",
+        "Gripping tool used to bend jewelry wire"
+      ]
+    ],
+    "answerNotes": {
+      "CLASP": "A clasp closes the jewelry. It differs from the decorative pendant hanging from a chain.",
+      "PENDANT": "A pendant hangs as a decorative element. Its name describes that position rather than the chain itself.",
+      "CRIMP": "A crimp secures a wire by being compressed. The clue names the fastener rather than a decorative gemstone.",
+      "SPACER": "A spacer helps organize the arrangement. It can be decorative as well as keeping other beads apart.",
+      "PEARL": "Pearls can be natural or cultured. Imitation pearl beads may instead be made from other materials."
+    },
+    "requiredAnswers": [
+      "CLASP"
+    ]
+  },
+  {
+    "id": "hands-on-hobbies-5",
+    "title": "Folding an Origami Crane",
+    "description": "Explore paper-folding vocabulary through flat sheets, pointed corners, and a familiar bird model.",
+    "cardDescription": "Explore paper-folding vocabulary through flat sheets, pointed corners, and a familiar bird model.",
+    "subtheme": "Folding an Origami Crane",
+    "focus": "This scene concerns origami rather than cutting and pasting a collage. Named fold shapes are described in plain words, and a few answers identify parts of a folded model.",
+    "solvingTip": "Picture a flat sheet before the finished bird. A fold is an action or shape; a crease is the line it leaves.",
+    "words": [
+      [
+        "ORIGAMI",
+        "Japanese art of forming figures by folding paper"
+      ],
+      [
+        "CREASE",
+        "Line left in paper after a sharp fold"
+      ],
+      [
+        "VALLEY",
+        "Fold type resembling a trough when viewed from above"
+      ],
+      [
+        "MOUNTAIN",
+        "Fold type appearing as a raised ridge"
+      ],
+      [
+        "CRANE",
+        "Long-legged bird represented by a familiar origami model"
+      ],
+      [
+        "FOLD",
+        "To bend a paper sheet back over itself for a model"
+      ],
+      [
+        "SQUARE",
+        "Four-equal-sided starting sheet often used in origami"
+      ],
+      [
+        "CORNER",
+        "Point where two adjacent edges of a paper sheet meet"
+      ],
+      [
+        "FLAP",
+        "Loose folded section of a paper model"
+      ],
+      [
+        "EDGE",
+        "One outer boundary of a flat origami sheet"
+      ],
+      [
+        "MODEL",
+        "Finished representation made from folded paper"
+      ],
+      [
+        "PAPER",
+        "Thin sheet material used for a traditional folded crane"
+      ],
+      [
+        "DIAGONAL",
+        "Line joining opposite corners of a square sheet"
+      ],
+      [
+        "POINT",
+        "Sharp projecting tip of a folded paper shape"
+      ]
+    ],
+    "answerNotes": {
+      "ORIGAMI": "Origami is a paper-folding art. The clue identifies the form of craft rather than a specific folding sequence.",
+      "CREASE": "A crease is the resulting line. Fold can instead name the action that makes it.",
+      "VALLEY": "A valley fold forms a recessed V shape from the chosen viewing side. A mountain fold appears as a raised ridge.",
+      "MOUNTAIN": "Mountain and valley are viewpoint-based fold names. The words borrow familiar landscape shapes.",
+      "CRANE": "The paper crane is a familiar origami figure. The clue asks for the bird rather than construction machinery."
+    },
+    "requiredAnswers": [
+      "ORIGAMI"
+    ]
+  }
+]

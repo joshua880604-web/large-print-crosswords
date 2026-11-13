@@ -1,0 +1,387 @@
+[
+  {
+    "id": "everyday-wordplay",
+    "title": "Words That Sound Alike",
+    "description": "Try familiar American English sound-alike words, each supported by a direct meaning clue.",
+    "cardDescription": "Try familiar American English sound-alike words, each supported by a direct meaning clue.",
+    "subtheme": "Words That Sound Alike",
+    "focus": "A sound-alike hint points to pronunciation, while the definition identifies the spelling needed in the grid. These clues use common pronunciations and supply the meaning so that the sound is not the only guide.",
+    "solvingTip": "Read both halves of the clue. A word sounding like another answer still has to match the stated meaning and the crossing letters.",
+    "words": [
+      [
+        "HARE",
+        "Long-eared animal whose name sounds like hair"
+      ],
+      [
+        "KNIGHT",
+        "Medieval armored warrior whose name sounds like night"
+      ],
+      [
+        "FLOUR",
+        "Ground grain for baking whose name sounds like flower"
+      ],
+      [
+        "THYME",
+        "Culinary herb whose name sounds like time"
+      ],
+      [
+        "STEEL",
+        "Iron-based alloy whose name sounds like steal"
+      ],
+      [
+        "WRITE",
+        "To put words on paper, sounding like right"
+      ],
+      [
+        "SEA",
+        "Large body of salt water, sounding like see"
+      ],
+      [
+        "SON",
+        "Male child in a family, sounding like sun"
+      ],
+      [
+        "MALE",
+        "Word for a boy or man, sounding like mail"
+      ],
+      [
+        "PLAIN",
+        "Simple or undecorated, sounding like plane"
+      ],
+      [
+        "SALE",
+        "Event offering goods at reduced prices, sounding like sail"
+      ],
+      [
+        "TAIL",
+        "Animal's rear extension, sounding like tale"
+      ],
+      [
+        "MEET",
+        "To come together with someone, sounding like meat"
+      ],
+      [
+        "RIGHT",
+        "Opposite of left, sounding like a verb for putting words on paper"
+      ]
+    ],
+    "answerNotes": {
+      "HARE": "Hare and hair sound alike in common American pronunciation. The animal definition chooses the spelling needed here.",
+      "KNIGHT": "Knight begins with a silent k. The historical role distinguishes it from night, the dark part of a day.",
+      "FLOUR": "Flour names the baking ingredient. Flower names a plant's bloom despite the shared pronunciation.",
+      "THYME": "Thyme is the herb spelling. The silent letters make the sound-alike hint useful alongside the definition.",
+      "STEEL": "Steel is a material. Steal is a verb with the same common pronunciation but a different spelling and meaning."
+    },
+    "requiredAnswers": [
+      "HARE"
+    ]
+  },
+  {
+    "id": "everyday-wordplay-2",
+    "title": "Words for Groups",
+    "description": "Find familiar collective words and number groups through people, animals, and everyday objects.",
+    "cardDescription": "Find familiar collective words and number groups through people, animals, and everyday objects.",
+    "subtheme": "Words for Groups",
+    "focus": "Some group words describe a shared activity, while others specify a number or arrangement. The clues keep those categories distinct instead of treating every collection as interchangeable.",
+    "solvingTip": "Decide whether a clue gives an exact count, an activity, or a physical arrangement. A number word can be more precise than a general collective noun.",
+    "words": [
+      [
+        "DOZEN",
+        "Group of exactly twelve items"
+      ],
+      [
+        "CHOIR",
+        "Organized group of singers performing together"
+      ],
+      [
+        "CREW",
+        "Group working together aboard a boat or on another shared job"
+      ],
+      [
+        "TRIO",
+        "Group containing exactly three members"
+      ],
+      [
+        "STACK",
+        "Pile of objects arranged one above another"
+      ],
+      [
+        "FLOCK",
+        "Group of sheep or birds considered together"
+      ],
+      [
+        "HERD",
+        "Group of cattle moving or feeding together"
+      ],
+      [
+        "SWARM",
+        "Large moving group of bees"
+      ],
+      [
+        "TEAM",
+        "Group cooperating in a game or shared task"
+      ],
+      [
+        "PAIR",
+        "Set containing exactly two matching or associated items"
+      ],
+      [
+        "BUNCH",
+        "Cluster of bananas attached together"
+      ],
+      [
+        "BUNDLE",
+        "Collection of objects gathered or tied into one package"
+      ],
+      [
+        "CLUSTER",
+        "Close grouping of similar things, such as stars or grapes"
+      ],
+      [
+        "CROWD",
+        "Large gathering of people in one place"
+      ]
+    ],
+    "answerNotes": {
+      "DOZEN": "Dozen gives an exact count. A bunch or crowd does not specify one fixed number.",
+      "CHOIR": "A choir is a singing ensemble. An audience listens, while this group performs.",
+      "CREW": "Crew describes people with a shared task. Its size depends on the work rather than a fixed count.",
+      "TRIO": "Trio specifies three. It can describe musicians or another three-member group.",
+      "STACK": "Stack describes an arrangement. It differs from bundle, where objects are gathered or tied together."
+    },
+    "requiredAnswers": [
+      "DOZEN"
+    ]
+  },
+  {
+    "id": "everyday-wordplay-3",
+    "title": "Everyday American Spellings",
+    "description": "Practice common United States spellings through familiar objects and meanings rather than obscure spelling rules.",
+    "cardDescription": "Practice common United States spellings through familiar objects and meanings rather than obscure spelling rules.",
+    "subtheme": "Everyday American Spellings",
+    "focus": "The clues request usual American forms. Some alternatives also appear in American names and publications, so these choices describe common usage rather than declaring every other form incorrect.",
+    "solvingTip": "Match the meaning first, then use the American spelling requested. Crossings can help with a single or doubled consonant and an omitted letter.",
+    "words": [
+      [
+        "JEWELRY",
+        "Usual American spelling for decorative rings, necklaces, and similar items"
+      ],
+      [
+        "CENTER",
+        "Usual American spelling for the middle of something"
+      ],
+      [
+        "THEATER",
+        "Common American spelling for a place where plays are performed"
+      ],
+      [
+        "GRAY",
+        "Common American spelling for the color between black and white"
+      ],
+      [
+        "LICENSE",
+        "Usual American spelling for an official permit"
+      ],
+      [
+        "COLOR",
+        "Usual American spelling for a hue such as red or blue"
+      ],
+      [
+        "NEIGHBOR",
+        "Usual American spelling for a person living next door"
+      ],
+      [
+        "FAVOR",
+        "Usual American spelling for a helpful act done for someone"
+      ],
+      [
+        "TRAVELER",
+        "Usual American spelling for a person making a journey"
+      ],
+      [
+        "TIRE",
+        "Usual American spelling for a vehicle wheel's rubber covering"
+      ],
+      [
+        "PLOW",
+        "Usual American spelling for an implement that turns soil"
+      ],
+      [
+        "CATALOG",
+        "Common American spelling for an ordered list of goods"
+      ],
+      [
+        "METER",
+        "Usual American spelling for the metric unit of length"
+      ],
+      [
+        "LITER",
+        "Usual American spelling for the metric unit of liquid volume"
+      ]
+    ],
+    "answerNotes": {
+      "JEWELRY": "Jewelry is the common American form. Jewellery is usual in British English.",
+      "CENTER": "Center is common in American English. Centre may still appear in proper names and in other English varieties.",
+      "THEATER": "Theater is common in the United States. Theatre also occurs in American names and usage, so it is not universally excluded.",
+      "GRAY": "Gray is the usual American form. Grey also appears in American proper names and other contexts.",
+      "LICENSE": "American English uses license as both noun and verb. Some other varieties distinguish the noun licence from the verb license."
+    },
+    "requiredAnswers": [
+      "JEWELRY"
+    ]
+  },
+  {
+    "id": "everyday-wordplay-4",
+    "title": "A Word About Time",
+    "description": "Match familiar time words with periods, positions in a sequence, and parts of a day.",
+    "cardDescription": "Match familiar time words with periods, positions in a sequence, and parts of a day.",
+    "subtheme": "A Word About Time",
+    "focus": "Some words specify exact units, while others are relative or depend on context. The clues distinguish a fixed ten-year period from broader historical language and from the light around sunrise or sunset.",
+    "solvingTip": "Ask whether the clue gives a count, a relation to now, or a part of the day. Relative words do not imply a precise number of minutes.",
+    "words": [
+      [
+        "DECADE",
+        "Period of ten years"
+      ],
+      [
+        "CENTURY",
+        "Period of one hundred years"
+      ],
+      [
+        "ERA",
+        "Long historical period identified by a distinctive character"
+      ],
+      [
+        "DAWN",
+        "Early morning light before and around sunrise"
+      ],
+      [
+        "DUSK",
+        "Fading light around the end of evening twilight"
+      ],
+      [
+        "MONTH",
+        "Calendar division with a name such as April"
+      ],
+      [
+        "SEASON",
+        "One of the year's familiar divisions, such as autumn"
+      ],
+      [
+        "WEEK",
+        "Period of seven days"
+      ],
+      [
+        "PAST",
+        "Time before the present"
+      ],
+      [
+        "PRESENT",
+        "Time occurring now rather than before or afterward"
+      ],
+      [
+        "FUTURE",
+        "Time that has not yet arrived"
+      ],
+      [
+        "LATER",
+        "At a time after the one being considered"
+      ],
+      [
+        "SOON",
+        "Before much more time has passed"
+      ],
+      [
+        "NOON",
+        "Twelve o'clock in the middle of the daytime clock cycle"
+      ]
+    ],
+    "answerNotes": {
+      "DECADE": "A decade contains ten years. The word alone does not require one particular starting year.",
+      "CENTURY": "A century contains one hundred years. Numbered historical centuries use a naming convention that differs from casually naming the 1900s.",
+      "ERA": "Era has no single fixed duration in ordinary historical use. It differs from an exact unit such as a decade.",
+      "DAWN": "Dawn refers to the beginning of daylight. It is not simply another name for midnight or for the Sun at its highest point.",
+      "DUSK": "Dusk belongs to the evening transition toward darkness. Exact usage can vary, unlike an exact clock unit."
+    },
+    "requiredAnswers": [
+      "DECADE"
+    ]
+  },
+  {
+    "id": "everyday-wordplay-5",
+    "title": "Sounds Around the House",
+    "description": "Recognize everyday sound words through a door, a clock, an appliance, and a few small household actions.",
+    "cardDescription": "Recognize everyday sound words through a door, a clock, an appliance, and a few small household actions.",
+    "subtheme": "Sounds Around the House",
+    "focus": "Sound words describe an impression rather than a precisely measured tone. The clues supply a familiar source to separate similar short words and encourage reading the whole description.",
+    "solvingTip": "Use the source and the character of the sound together. A sustained noise and a single impact usually call for different words.",
+    "words": [
+      [
+        "SQUEAK",
+        "High thin sound from a dry hinge or a small toy"
+      ],
+      [
+        "CHIME",
+        "Clear musical ringing from a doorbell or set of bells"
+      ],
+      [
+        "RATTLE",
+        "Repeated clattering of loose parts in a container"
+      ],
+      [
+        "WHIR",
+        "Steady soft spinning sound from a small motor"
+      ],
+      [
+        "HISS",
+        "Continuous rushing sound like escaping air"
+      ],
+      [
+        "CLICK",
+        "Short sharp sound when a latch snaps shut"
+      ],
+      [
+        "CREAK",
+        "Strained groaning sound of an old floorboard underfoot"
+      ],
+      [
+        "TICK",
+        "Small regular beat made by a traditional clock"
+      ],
+      [
+        "HUM",
+        "Low steady sound from a running refrigerator"
+      ],
+      [
+        "BUZZ",
+        "Vibrating sound associated with an electric door buzzer"
+      ],
+      [
+        "RING",
+        "Clear repeated sound of a traditional telephone bell"
+      ],
+      [
+        "THUD",
+        "Dull heavy impact sound of a book landing on a rug"
+      ],
+      [
+        "DRIP",
+        "Sound and action of a single water drop falling"
+      ],
+      [
+        "TAP",
+        "Light brief knock made with a fingertip"
+      ]
+    ],
+    "answerNotes": {
+      "SQUEAK": "Squeak suggests a brief high-pitched sound. Creak often suggests a lower strained sound from moving wood or a hinge.",
+      "CHIME": "Chime emphasizes a musical ringing quality. It differs from the low impact suggested by thud.",
+      "RATTLE": "A rattle is a series of small impacts. It can also name a toy designed to make that sound.",
+      "WHIR": "Whir suggests rapid rotation. It differs from the separate regular beats represented by tick.",
+      "HISS": "Hiss describes a sustained rushing noise. The clue gives a sound example rather than instructions to inspect an appliance."
+    },
+    "requiredAnswers": [
+      "SQUEAK"
+    ]
+  }
+]

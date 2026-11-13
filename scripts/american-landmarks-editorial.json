@@ -1,0 +1,397 @@
+[
+  {
+    "id": "american-landmarks",
+    "title": "The Statue in New York Harbor",
+    "description": "Explore the Statue of Liberty through familiar shapes, symbolic objects, and the material of its outer skin.",
+    "cardDescription": "Explore the Statue of Liberty through familiar shapes, symbolic objects, and the material of its outer skin.",
+    "subtheme": "The Statue in New York Harbor",
+    "focus": "The statue’s symbolic objects, metal surface, and harbor setting offer several ways to recognize the landmark. An object held by the figure has a different name from the whole figure.",
+    "solvingTip": "Separate the figure from the objects it holds. Use an object or a harbor feature to begin, then try the material and country names.",
+    "words": [
+      [
+        "LIBERTY",
+        "Freedom represented by New York Harbor's famous robed statue"
+      ],
+      [
+        "TORCH",
+        "Raised light-bearing object held by the Statue of Liberty"
+      ],
+      [
+        "COPPER",
+        "Metal forming the Statue of Liberty's outer skin"
+      ],
+      [
+        "PEDESTAL",
+        "Raised supporting base beneath a statue"
+      ],
+      [
+        "FRANCE",
+        "Country that gave the Statue of Liberty to the United States"
+      ],
+      [
+        "STATUE",
+        "Sculpted figure standing on a supporting base"
+      ],
+      [
+        "CROWN",
+        "Headpiece worn by the Statue of Liberty"
+      ],
+      [
+        "TABLET",
+        "Inscribed object held against the statue's body"
+      ],
+      [
+        "ROBE",
+        "Long garment represented on the statue"
+      ],
+      [
+        "ISLAND",
+        "Water-surrounded land supporting the statue's site"
+      ],
+      [
+        "HARBOR",
+        "Sheltered water associated with the statue's New York setting"
+      ],
+      [
+        "NEWYORK",
+        "State associated with the famous Liberty statue, with spaces omitted"
+      ],
+      [
+        "STEPS",
+        "Stairway units leading upward in a large structure"
+      ],
+      [
+        "BEACON",
+        "Light or symbol serving as a guide"
+      ]
+    ],
+    "answerNotes": {
+      "LIBERTY": "Liberty is the idea represented by the statue. It names the concept rather than the pedestal beneath the figure.",
+      "TORCH": "The torch is held aloft. The tablet is a different object held closer to the figure's body.",
+      "COPPER": "The outer copper surface developed its green patina over time. The statue was not originally painted green to create that appearance.",
+      "PEDESTAL": "A pedestal supports the figure. It is separate from the figure's robe, crown, and symbolic objects.",
+      "FRANCE": "The statue was a gift from France. The American pedestal and the French-made statue formed separate parts of the project."
+    },
+    "requiredAnswers": [
+      "LIBERTY",
+      "TORCH"
+    ]
+  },
+  {
+    "id": "american-landmarks-2",
+    "title": "Across the Golden Gate",
+    "description": "Explore a famous suspension bridge through cables, towers, water, and its recognizable color.",
+    "cardDescription": "Explore a famous suspension bridge through cables, towers, water, and its recognizable color.",
+    "subtheme": "Across the Golden Gate",
+    "focus": "The bridge spans the Golden Gate strait. Its name refers to that water passage, while structural clues identify the parts carrying and supporting a roadway.",
+    "solvingTip": "Look for a bridge part, a land or water feature, or a color word. The names and structures provide different entry points.",
+    "words": [
+      [
+        "GOLDENGATE",
+        "San Francisco strait spanned by a famous suspension bridge, with spaces omitted"
+      ],
+      [
+        "CABLE",
+        "Long tension member helping support a suspension bridge"
+      ],
+      [
+        "ORANGE",
+        "Color completing the bridge's official shade, International ___"
+      ],
+      [
+        "MARIN",
+        "California county at the north end of the Golden Gate Bridge"
+      ],
+      [
+        "STRAIT",
+        "Narrow water passage beneath the Golden Gate Bridge"
+      ],
+      [
+        "BRIDGE",
+        "Structure carrying a roadway across a gap or waterway"
+      ],
+      [
+        "TOWER",
+        "Tall bridge support rising above the roadway"
+      ],
+      [
+        "SPAN",
+        "Length of bridge between supports"
+      ],
+      [
+        "DECK",
+        "Road-carrying surface of a bridge"
+      ],
+      [
+        "STEEL",
+        "Strong metal alloy used in suspension-bridge construction"
+      ],
+      [
+        "FOG",
+        "Low cloud often associated with the San Francisco coast"
+      ],
+      [
+        "BAY",
+        "Sheltered water body east of the Golden Gate strait"
+      ],
+      [
+        "PACIFIC",
+        "Ocean west of the Golden Gate"
+      ],
+      [
+        "ANCHOR",
+        "To secure a bridge cable firmly at its end"
+      ]
+    ],
+    "answerNotes": {
+      "GOLDENGATE": "Golden Gate is the name of the strait as well as the bridge. The bridge's color is a separate clue.",
+      "CABLE": "Suspension cables carry loads through tension. A roadway deck is a different part of the structure.",
+      "ORANGE": "International Orange is the familiar bridge color name. It is distinct from the gold suggested by Golden Gate.",
+      "MARIN": "The bridge links San Francisco with Marin County. The clue asks for the county name rather than the strait.",
+      "STRAIT": "A strait connects larger bodies of water. Golden Gate is the passage between San Francisco Bay and the Pacific."
+    },
+    "requiredAnswers": [
+      "GOLDENGATE"
+    ]
+  },
+  {
+    "id": "american-landmarks-3",
+    "title": "A View into the Grand Canyon",
+    "description": "Explore a great Arizona landscape through its river, rock layers, rims, and deep-cut landforms.",
+    "cardDescription": "Explore a great Arizona landscape through its river, rock layers, rims, and deep-cut landforms.",
+    "subtheme": "A View into the Grand Canyon",
+    "focus": "The named river and state anchor the scene. Other clues describe landform shapes and long-term erosion rather than giving a hiking itinerary.",
+    "solvingTip": "Use a familiar river or state name first. A clue about an upper edge differs from one about the deep land below it.",
+    "words": [
+      [
+        "COLORADO",
+        "River flowing through the Grand Canyon"
+      ],
+      [
+        "ARIZONA",
+        "US state containing Grand Canyon National Park"
+      ],
+      [
+        "EROSION",
+        "Wearing away and movement of rock or soil by water and other agents"
+      ],
+      [
+        "RIM",
+        "Upper edge of a large canyon"
+      ],
+      [
+        "LAYER",
+        "One distinct bed visible in a stack of rock"
+      ],
+      [
+        "CANYON",
+        "Deep steep-sided valley carved through rock"
+      ],
+      [
+        "RIVER",
+        "Natural flowing watercourse at the bottom of a canyon"
+      ],
+      [
+        "ROCK",
+        "Solid natural material exposed in canyon walls"
+      ],
+      [
+        "GORGE",
+        "Deep narrow valley with steep rock sides"
+      ],
+      [
+        "CLIFF",
+        "Steep exposed rock face along high ground"
+      ],
+      [
+        "PLATEAU",
+        "Broad raised land with a relatively level top"
+      ],
+      [
+        "MILE",
+        "US distance unit used for a park road or trail"
+      ],
+      [
+        "VISTA",
+        "Wide scenic view from an overlook"
+      ],
+      [
+        "TRAIL",
+        "Path followed on foot through a landscape"
+      ]
+    ],
+    "answerNotes": {
+      "COLORADO": "The Colorado River flows through the canyon. It should not be confused with the state of Colorado, which shares its name.",
+      "ARIZONA": "Grand Canyon National Park is in Arizona. The clue asks for the state rather than the river.",
+      "EROSION": "Erosion removes and transports material. It helps explain a landscape over time rather than one brief event.",
+      "RIM": "A rim is an upper edge. It differs from the river channel far below.",
+      "LAYER": "A rock layer is one bed within a larger sequence. Different layers can record different conditions in the past."
+    },
+    "requiredAnswers": [
+      "COLORADO",
+      "ARIZONA"
+    ]
+  },
+  {
+    "id": "american-landmarks-4",
+    "title": "Four Faces at Mount Rushmore",
+    "description": "Explore the carved monument through its stone, setting, sculptor, and presidential figures.",
+    "cardDescription": "Explore the carved monument through its stone, setting, sculptor, and presidential figures.",
+    "subtheme": "Four Faces at Mount Rushmore",
+    "focus": "The clues name the Mount Rushmore sculpture and selected features of it. The Black Hills also have a wider history and significance beyond the monument.",
+    "solvingTip": "Separate a figure’s surname from a material or a land feature. Short shape and counting words help cross longer names.",
+    "words": [
+      [
+        "RUSHMORE",
+        "Mountain with four large carved presidential faces"
+      ],
+      [
+        "GRANITE",
+        "Hard rock into which the Rushmore faces were carved"
+      ],
+      [
+        "FOUR",
+        "Number of presidential faces on Mount Rushmore"
+      ],
+      [
+        "WASHINGTON",
+        "President represented alongside Jefferson, Roosevelt, and Lincoln"
+      ],
+      [
+        "BORGLUM",
+        "Surname of Gutzon, the sculptor associated with Mount Rushmore"
+      ],
+      [
+        "SCULPTURE",
+        "Artwork shaped or carved in three dimensions"
+      ],
+      [
+        "FACES",
+        "Fronts of heads represented in the monument"
+      ],
+      [
+        "JEFFERSON",
+        "Thomas among the presidents carved at Mount Rushmore"
+      ],
+      [
+        "ROOSEVELT",
+        "Theodore among the presidents carved at Mount Rushmore"
+      ],
+      [
+        "LINCOLN",
+        "Abraham among the presidents carved at Mount Rushmore"
+      ],
+      [
+        "DAKOTA",
+        "State-name word completing South ___"
+      ],
+      [
+        "HILLS",
+        "Raised landforms in the region named the Black ___"
+      ],
+      [
+        "STONE",
+        "General word for the material a carver shapes"
+      ],
+      [
+        "CHISEL",
+        "Edged tool associated with shaping stone"
+      ],
+      [
+        "CARVE",
+        "To shape a figure by removing material"
+      ],
+      [
+        "VIEW",
+        "Scene seen when looking toward a monument"
+      ]
+    ],
+    "answerNotes": {
+      "RUSHMORE": "Mount Rushmore is in the Black Hills of South Dakota. The area is sacred to the Lakota and has a history beyond the sculpture.",
+      "GRANITE": "Granite is the rock material. The clue does not ask for a president or the sculptor.",
+      "FOUR": "The monument shows four presidents. Counting the figures is different from identifying their individual surnames.",
+      "WASHINGTON": "George Washington is one of the four figures. The clue uses the surname rather than the capital city named after him.",
+      "BORGLUM": "Gutzon Borglum led the monument's design and carving. His son Lincoln Borglum also worked on the project."
+    },
+    "requiredAnswers": [
+      "RUSHMORE"
+    ]
+  },
+  {
+    "id": "american-landmarks-5",
+    "title": "The Tall Monument on the Mall",
+    "description": "Explore the Washington Monument through its tapered form, stone materials, and pointed top.",
+    "cardDescription": "Explore the Washington Monument through its tapered form, stone materials, and pointed top.",
+    "subtheme": "The Tall Monument on the Mall",
+    "focus": "The monument is an obelisk built from blocks, rather than one enormous single stone. Clues combine its setting with clear shape and construction words.",
+    "solvingTip": "Look for a form, a material, or a place around the structure. A support at the bottom and a point at the top have different names.",
+    "words": [
+      [
+        "OBELISK",
+        "Tall four-sided tapering monument with a pyramid-shaped top"
+      ],
+      [
+        "MARBLE",
+        "Stone forming much of the Washington Monument's exterior"
+      ],
+      [
+        "ALUMINUM",
+        "Metal forming the Washington Monument's small pyramidal tip"
+      ],
+      [
+        "MALL",
+        "National ___: Washington park setting of the monument"
+      ],
+      [
+        "BASE",
+        "Lowest supporting portion of a tall monument"
+      ],
+      [
+        "WASHINGTON",
+        "US president honored by the tall monument on the National Mall"
+      ],
+      [
+        "GRANITE",
+        "Hard stone also used in the monument's construction"
+      ],
+      [
+        "STONE",
+        "Natural building material cut into monument blocks"
+      ],
+      [
+        "POINT",
+        "Sharp tip at the top of a tapered structure"
+      ],
+      [
+        "CAPITAL",
+        "City serving as the seat of a nation's government"
+      ],
+      [
+        "COLUMN",
+        "Tall upright architectural form"
+      ],
+      [
+        "HEIGHT",
+        "Vertical distance from a monument's bottom to its top"
+      ],
+      [
+        "PLAZA",
+        "Open public area near a large structure"
+      ],
+      [
+        "SKY",
+        "Visible expanse behind the top of a tall monument"
+      ]
+    ],
+    "answerNotes": {
+      "OBELISK": "An obelisk has a tapering shaft and pointed top. The Washington Monument uses this form but is built from many blocks.",
+      "MARBLE": "Marble forms much of the exterior. The structure also incorporates other materials rather than being one solid marble block.",
+      "ALUMINUM": "The cap is aluminum, using the common American spelling. It is a small part of the monument rather than the main exterior stone.",
+      "MALL": "The National Mall is a public landscape in Washington, DC. Mall does not mean a shopping center in this clue.",
+      "BASE": "The base is the bottom portion. Its position contrasts with the pointed top rather than naming a material."
+    },
+    "requiredAnswers": [
+      "OBELISK"
+    ]
+  }
+]

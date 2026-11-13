@@ -43,10 +43,13 @@ for(const correction of archiveCorrections)test(`archive definition ${correction
  await expect(page.locator('.answer-details')).toContainText(correction.reason);
 });
 
-test('edited subjects have distinct reader notes and hidden answer explanations',async({page})=>{
- test.setTimeout(180_000); // Visit every subject in the complete collection.
+// Keep coverage bounded per test as the collection grows, and identify the
+// affected series directly if its rendered notes or spoiler controls regress.
+for(const series of editorialSeries)test(`edited series ${series.id} has reader notes and hidden answer explanations`,async({page})=>{
  expect(edited).toHaveLength(editorialSeries.length*5);
- for(const puzzle of edited){
+ const subjects=edited.filter(p=>p.series===series.id);
+ expect(subjects).toHaveLength(5);
+ for(const puzzle of subjects){
   await page.goto(`/crosswords/${puzzle.id}/`);
   await expect(page.getByRole('heading',{level:1})).toHaveText(puzzle.title);
   await expect(page.locator('.puzzle-notes')).toContainText(puzzle.editorial!.focus);

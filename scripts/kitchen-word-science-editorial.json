@@ -1,0 +1,388 @@
+[
+  {
+    "id": "kitchen-word-science",
+    "title": "Textures at the Table",
+    "description": "Describe familiar food textures through clear words for how a bite feels rather than how it tastes.",
+    "cardDescription": "Describe familiar food textures through clear words for how a bite feels rather than how it tastes.",
+    "subtheme": "Textures at the Table",
+    "focus": "Texture and flavor are different qualities. These clues use common food examples to separate smoothness, firmness, moisture, and the sounds associated with a bite.",
+    "solvingTip": "Look at the example and the physical quality together. Words about sweetness or seasoning would answer a different kind of clue.",
+    "words": [
+      [
+        "CRUNCHY",
+        "Making repeated brittle breaking sounds when chewed, like granola"
+      ],
+      [
+        "CREAMY",
+        "Having a rich smooth consistency like a thick custard"
+      ],
+      [
+        "FLAKY",
+        "Separating into thin layers, as a well-made pastry can"
+      ],
+      [
+        "TENDER",
+        "Easy to bite or cut, rather than tough"
+      ],
+      [
+        "CHEWY",
+        "Requiring repeated jaw movement before swallowing, like a firm caramel"
+      ],
+      [
+        "CRISP",
+        "Firm and breaking cleanly, as a fresh celery stalk"
+      ],
+      [
+        "SMOOTH",
+        "Free of lumps or graininess, as a well-blended sauce"
+      ],
+      [
+        "JUICY",
+        "Containing plenty of liquid that is released in a bite"
+      ],
+      [
+        "THICK",
+        "Having a dense consistency, as a concentrated soup"
+      ],
+      [
+        "THIN",
+        "Runny rather than dense, as a diluted sauce"
+      ],
+      [
+        "SOFT",
+        "Yielding readily to light pressure, as a ripe peach"
+      ],
+      [
+        "FIRM",
+        "Holding its shape under light pressure, as a set custard"
+      ],
+      [
+        "LUMPY",
+        "Containing uneven clumps, as an incompletely mixed batter"
+      ],
+      [
+        "STICKY",
+        "Tending to cling to fingers, as a tacky glaze"
+      ]
+    ],
+    "answerNotes": {
+      "CRUNCHY": "Crunchy describes the texture and sound of breaking food. It is different from a flavor such as sweet or salty.",
+      "CREAMY": "Creamy can describe a texture even when a food contains no dairy cream. The clue asks about consistency.",
+      "FLAKY": "Flaky describes layers that separate. It is different from a uniformly smooth or chewy texture.",
+      "TENDER": "Tender concerns how readily a food yields. It does not by itself identify how moist or strongly flavored the food is.",
+      "CHEWY": "Chewy emphasizes resistance during chewing. It contrasts with a brittle food that breaks quickly."
+    },
+    "requiredAnswers": [
+      "CRUNCHY"
+    ]
+  },
+  {
+    "id": "kitchen-word-science-2",
+    "title": "Ways to Prepare Vegetables",
+    "description": "Match common preparation verbs with the different shapes and actions used at a kitchen counter.",
+    "cardDescription": "Match common preparation verbs with the different shapes and actions used at a kitchen counter.",
+    "subtheme": "Ways to Prepare Vegetables",
+    "focus": "Cutting vegetables into slices, small cubes, or very fine pieces produces different results. The clues also separate removing an outer layer from removing a central portion.",
+    "solvingTip": "Pay attention to the resulting size and shape. A verb describing an action is different from the name of the piece it creates.",
+    "words": [
+      [
+        "MINCE",
+        "To cut a vegetable into very fine pieces"
+      ],
+      [
+        "DICE",
+        "To cut food into small roughly equal cubes"
+      ],
+      [
+        "SLICE",
+        "To cut food into broad thin pieces"
+      ],
+      [
+        "GRATE",
+        "To rub food against a rough perforated surface to make small shreds"
+      ],
+      [
+        "CORE",
+        "To remove the central seed-bearing section of a pepper or similar produce"
+      ],
+      [
+        "CHOP",
+        "To cut vegetables into pieces with repeated downward strokes"
+      ],
+      [
+        "PEEL",
+        "To remove a vegetable's outer skin"
+      ],
+      [
+        "SHRED",
+        "To cut food into long narrow strips"
+      ],
+      [
+        "RINSE",
+        "To pass clean water over the surface of produce"
+      ],
+      [
+        "TRIM",
+        "To cut away unwanted ends or edges"
+      ],
+      [
+        "CUBE",
+        "Three-dimensional block shape made by dicing"
+      ],
+      [
+        "WASH",
+        "To clean the surface of a vegetable with water"
+      ],
+      [
+        "SEED",
+        "To remove the small reproductive structures from a pepper"
+      ],
+      [
+        "MASH",
+        "To crush a cooked vegetable into a soft mass"
+      ]
+    ],
+    "answerNotes": {
+      "MINCE": "Mincing produces smaller pieces than ordinary chopping. The exact size depends on the preparation rather than one universal measurement.",
+      "DICE": "Dice is a verb in this clue. Cube elsewhere in the scene names the three-dimensional shape of one piece.",
+      "SLICE": "A slice is broad and relatively thin. It differs from a small cube made by dicing.",
+      "GRATE": "Grating uses a toothed or perforated surface. It differs from cutting with a single smooth blade.",
+      "CORE": "Core is an action here. It can also be a noun naming the central part being removed."
+    },
+    "requiredAnswers": [
+      "MINCE"
+    ]
+  },
+  {
+    "id": "kitchen-word-science-3",
+    "title": "A Little Kitchen Chemistry",
+    "description": "Explore ordinary ingredients and changes of state through direct definitions found in everyday cooking.",
+    "cardDescription": "Explore ordinary ingredients and changes of state through direct definitions found in everyday cooking.",
+    "subtheme": "A Little Kitchen Chemistry",
+    "focus": "This scene names physical properties and familiar ingredients without giving a recipe. Melting, freezing, and dissolving describe different changes even when they all occur in a kitchen.",
+    "solvingTip": "Separate a substance from a process. Ask whether the clue describes a gas, a structure, or an action happening to an ingredient.",
+    "words": [
+      [
+        "DISSOLVE",
+        "To become dispersed in a liquid at the molecular or ionic level, as sugar does in water"
+      ],
+      [
+        "YEAST",
+        "Microscopic fungus used to help many bread doughs rise"
+      ],
+      [
+        "GLUTEN",
+        "Protein network developed when wheat flour is mixed with water and worked"
+      ],
+      [
+        "STARCH",
+        "Plant carbohydrate used to thicken many sauces"
+      ],
+      [
+        "STEAM",
+        "Water in its gaseous state"
+      ],
+      [
+        "SALT",
+        "Common seasoning whose main compound is sodium chloride"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystalline ingredient that dissolves in tea"
+      ],
+      [
+        "ACID",
+        "Chemical category illustrated by the citric compound in lemon juice"
+      ],
+      [
+        "BASE",
+        "Chemical category illustrated by baking soda's mild alkalinity"
+      ],
+      [
+        "FOAM",
+        "Mass of gas bubbles dispersed in a liquid or soft mixture"
+      ],
+      [
+        "GEL",
+        "Soft semisolid network, as in a set jelly"
+      ],
+      [
+        "MELT",
+        "To change from solid to liquid, as butter does when warmed"
+      ],
+      [
+        "FREEZE",
+        "To change a liquid into a solid by cooling"
+      ],
+      [
+        "BOIL",
+        "To form vapor bubbles throughout a heated liquid"
+      ]
+    ],
+    "answerNotes": {
+      "DISSOLVE": "Dissolving is different from melting. Sugar can disperse in water without first turning into a pure liquid.",
+      "YEAST": "Baker's yeast produces gas during fermentation. It is a living fungus rather than another name for baking soda.",
+      "GLUTEN": "Gluten contributes structure to wheat dough. The term names a protein network, not a starch or a raising agent.",
+      "STARCH": "Starch behaves differently from sugar in a mixture. Heating it with water can produce thickening through gelatinization.",
+      "STEAM": "Water vapor itself is invisible. The visible white cloud around a kettle contains tiny condensed liquid droplets."
+    },
+    "requiredAnswers": [
+      "DISSOLVE"
+    ]
+  },
+  {
+    "id": "kitchen-word-science-4",
+    "title": "The Spice Grinder",
+    "description": "Find the words for grinding tools, particle sizes, and the aromatic ingredients stored nearby.",
+    "cardDescription": "Find the words for grinding tools, particle sizes, and the aromatic ingredients stored nearby.",
+    "subtheme": "The Spice Grinder",
+    "focus": "The bowl and the pounding tool of a traditional grinding set have separate names. Other clues describe the texture of the result rather than a particular spice or recipe.",
+    "solvingTip": "Read whether the clue asks for a tool, an action, or a particle size. Fine and coarse describe opposite ends of the same comparison.",
+    "words": [
+      [
+        "MORTAR",
+        "Heavy bowl in which spices are pounded"
+      ],
+      [
+        "PESTLE",
+        "Rounded hand tool used to pound ingredients in a heavy bowl"
+      ],
+      [
+        "COARSE",
+        "Made up of relatively large particles after grinding"
+      ],
+      [
+        "FINE",
+        "Made up of very small particles, as a powdery grind"
+      ],
+      [
+        "AROMA",
+        "Noticeable fragrance released by freshly ground spices"
+      ],
+      [
+        "GRINDER",
+        "Device that reduces whole spices to smaller particles"
+      ],
+      [
+        "POWDER",
+        "Dry material reduced to very small loose particles"
+      ],
+      [
+        "WHOLE",
+        "Unground, as spices sold before crushing"
+      ],
+      [
+        "CRUSH",
+        "To break an ingredient into smaller pieces by pressure"
+      ],
+      [
+        "GRIND",
+        "To reduce particles by rubbing or mechanical crushing"
+      ],
+      [
+        "SEED",
+        "Plant reproductive structure used as a spice in coriander"
+      ],
+      [
+        "POD",
+        "Seed-containing structure surrounding green cardamom"
+      ],
+      [
+        "JAR",
+        "Container used to store a ground spice"
+      ],
+      [
+        "LID",
+        "Removable cover keeping a spice container closed"
+      ]
+    ],
+    "answerNotes": {
+      "MORTAR": "The mortar holds the ingredients. The pestle is the hand-held pounding or grinding tool used inside it.",
+      "PESTLE": "The pestle is the moving tool. Its name is paired with mortar, the bowl supporting the ingredients.",
+      "COARSE": "Coarse describes particle size rather than flavor strength. A coarse grind can still have a strong aroma.",
+      "FINE": "Fine is relative to the intended preparation. It contrasts with coarse rather than identifying a specific spice.",
+      "AROMA": "Aroma concerns smell. It is different from texture, which describes the physical feel of the particles."
+    },
+    "requiredAnswers": [
+      "MORTAR",
+      "PESTLE"
+    ]
+  },
+  {
+    "id": "kitchen-word-science-5",
+    "title": "Measuring Liquids",
+    "description": "Read the vocabulary of measuring vessels, marked levels, and familiar American liquid units.",
+    "cardDescription": "Read the vocabulary of measuring vessels, marked levels, and familiar American liquid units.",
+    "subtheme": "Measuring Liquids",
+    "focus": "The unit clues use customary United States liquid measure where specified. A fluid ounce measures volume, and the curved liquid surface has its own name.",
+    "solvingTip": "Check whether the clue wants a container, a measurement, or a visible feature. Do not substitute a weight unit for a liquid-volume definition.",
+    "words": [
+      [
+        "VOLUME",
+        "Amount of three-dimensional space occupied by a liquid"
+      ],
+      [
+        "MENISCUS",
+        "Curved surface of a liquid seen inside a narrow measuring vessel"
+      ],
+      [
+        "GALLON",
+        "United States liquid unit containing four quarts"
+      ],
+      [
+        "LITER",
+        "Metric liquid-volume unit commonly spelled this way in American English"
+      ],
+      [
+        "OUNCE",
+        "Fluid ___, liquid-volume unit with sixteen to a United States pint"
+      ],
+      [
+        "PITCHER",
+        "Handled vessel used to pour a drink"
+      ],
+      [
+        "FUNNEL",
+        "Wide-mouthed tool directing liquid into a narrow opening"
+      ],
+      [
+        "PINT",
+        "United States liquid unit equal to two cups"
+      ],
+      [
+        "QUART",
+        "United States liquid unit equal to two pints"
+      ],
+      [
+        "CUP",
+        "United States customary kitchen measure equal to eight fluid ounces"
+      ],
+      [
+        "POUR",
+        "To transfer liquid by tipping its container"
+      ],
+      [
+        "MARK",
+        "Short line identifying a measured amount on a vessel"
+      ],
+      [
+        "LEVEL",
+        "Height reached by liquid in a measuring container"
+      ],
+      [
+        "LINE",
+        "Printed horizontal indicator beside a measuring scale"
+      ]
+    ],
+    "answerNotes": {
+      "VOLUME": "Volume is different from weight or mass. A fluid ounce measures volume, while an ordinary weight ounce measures something else.",
+      "MENISCUS": "A meniscus curves because of interactions among the liquid, vessel, and surrounding air. The word names the surface shape rather than a unit.",
+      "GALLON": "The United States liquid gallon has four quarts. An imperial gallon is a different quantity, so the system matters.",
+      "LITER": "Liter is the usual American spelling of litre. Both spellings refer to the same metric unit.",
+      "OUNCE": "Fluid is essential in this definition. It distinguishes this volume unit from an ounce used for weight."
+    },
+    "requiredAnswers": [
+      "VOLUME"
+    ]
+  }
+]

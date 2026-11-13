@@ -1,0 +1,392 @@
+[
+  {
+    "id": "weather-and-light-tools",
+    "title": "Reading a Thermometer",
+    "description": "Recognize temperature scales and the visible parts of traditional liquid-in-glass thermometers.",
+    "cardDescription": "Recognize temperature scales and the visible parts of traditional liquid-in-glass thermometers.",
+    "subtheme": "Reading a Thermometer",
+    "focus": "Different instruments use different sensing methods. These clues specify the liquid-in-glass design where needed and distinguish a scale name from the liquid or glass component.",
+    "solvingTip": "Check whether a word names a unit step, a measurement system, or a physical part. The shorter parts help cross the longer scale names.",
+    "words": [
+      [
+        "DEGREE",
+        "Unit step on a Celsius or Fahrenheit temperature scale"
+      ],
+      [
+        "CELSIUS",
+        "Temperature scale with water freezing near zero at ordinary pressure"
+      ],
+      [
+        "FAHRENHEIT",
+        "Temperature scale commonly used for American weather reports"
+      ],
+      [
+        "MERCURY",
+        "Silvery liquid metal historically used in some glass thermometers"
+      ],
+      [
+        "ALCOHOL",
+        "Type of colored liquid used in some glass thermometers"
+      ],
+      [
+        "SCALE",
+        "Ordered markings showing temperature values"
+      ],
+      [
+        "BULB",
+        "Reservoir at the bottom of many liquid-in-glass thermometers"
+      ],
+      [
+        "TUBE",
+        "Narrow glass passage containing the rising liquid column"
+      ],
+      [
+        "GLASS",
+        "Transparent material enclosing a traditional thermometer column"
+      ],
+      [
+        "READ",
+        "To determine the indicated temperature from its markings"
+      ],
+      [
+        "WARM",
+        "Having a relatively high temperature compared with cool"
+      ],
+      [
+        "COLD",
+        "Having a relatively low temperature compared with warm"
+      ],
+      [
+        "ZERO",
+        "Number at water's ordinary freezing point on the Celsius scale"
+      ],
+      [
+        "MARK",
+        "Short printed line identifying a value on the scale"
+      ]
+    ],
+    "answerNotes": {
+      "DEGREE": "A degree is a step on these named scales. Their steps are not the same size, so the scale name matters.",
+      "CELSIUS": "The Celsius scale places ordinary water's freezing point near zero degrees. Pressure and dissolved substances affect exact physical conditions.",
+      "FAHRENHEIT": "Fahrenheit is widely used in United States forecasts. It places water's freezing point at 32 degrees under standard reference conditions.",
+      "MERCURY": "Mercury was used in many traditional thermometers. Modern instruments may use other liquids or electronic sensors instead.",
+      "ALCOHOL": "Alcohol-based liquids can make a visible expanding column. The particular liquid and coloring depend on the instrument."
+    },
+    "requiredAnswers": [
+      "DEGREE",
+      "CELSIUS"
+    ]
+  },
+  {
+    "id": "weather-and-light-tools-2",
+    "title": "A Compass in the Hand",
+    "description": "Explore directions and the parts of a magnetic compass through plain descriptions of how its pointer and dial are read.",
+    "cardDescription": "Explore directions and the parts of a magnetic compass through plain descriptions of how its pointer and dial are read.",
+    "subtheme": "A Compass in the Hand",
+    "focus": "A magnetic compass responds to Earth’s magnetic field. Magnetic north and geographic north are different references, so the clues do not treat the instrument as automatically pointing to the exact geographic pole.",
+    "solvingTip": "Separate the whole instrument from its pointer and direction markings. A bearing is a direction measurement rather than a place.",
+    "words": [
+      [
+        "COMPASS",
+        "Magnetic instrument used to indicate directions"
+      ],
+      [
+        "NEEDLE",
+        "Magnetized pointer that turns inside a traditional direction-finding instrument"
+      ],
+      [
+        "BEARING",
+        "Direction expressed as an angle from a reference direction"
+      ],
+      [
+        "ROSE",
+        "Compass ___, diagram showing directions on a map or dial"
+      ],
+      [
+        "MAGNET",
+        "Object producing a magnetic field, such as a compass needle"
+      ],
+      [
+        "NORTH",
+        "Direction opposite south on a standard compass card"
+      ],
+      [
+        "SOUTH",
+        "Direction opposite north on a standard compass card"
+      ],
+      [
+        "EAST",
+        "Direction opposite west on a standard compass card"
+      ],
+      [
+        "WEST",
+        "Direction opposite east on a standard compass card"
+      ],
+      [
+        "DIAL",
+        "Marked circular face surrounding a direction pointer"
+      ],
+      [
+        "POINTER",
+        "Indicator showing a reading on an instrument"
+      ],
+      [
+        "CASE",
+        "Protective outer housing of a pocket compass"
+      ],
+      [
+        "TURN",
+        "To rotate an instrument or its movable ring"
+      ],
+      [
+        "MAP",
+        "Drawing of an area used alongside direction information"
+      ]
+    ],
+    "answerNotes": {
+      "COMPASS": "A magnetic compass aligns with the local magnetic field. Its north reference differs from geographic true north by magnetic declination.",
+      "NEEDLE": "The needle can rotate to align with the magnetic field. The surrounding case and markings do not perform that alignment.",
+      "BEARING": "A bearing describes direction. It is different from a distance along a route.",
+      "ROSE": "A compass rose displays directional references. The word rose names a diagram here rather than a flower.",
+      "MAGNET": "A magnet interacts with other magnetic fields. This property allows a suitably supported needle to align with Earth's field."
+    },
+    "requiredAnswers": [
+      "COMPASS"
+    ]
+  },
+  {
+    "id": "weather-and-light-tools-3",
+    "title": "Weather Instruments at a Glance",
+    "description": "Match common outdoor weather measurements with the instruments designed to observe them.",
+    "cardDescription": "Match common outdoor weather measurements with the instruments designed to observe them.",
+    "subtheme": "Weather Instruments at a Glance",
+    "focus": "Rainfall amount, wind speed, wind direction, and air pressure are separate measurements. The clues give the function directly, with shorter measurement and component words to support the technical names.",
+    "solvingTip": "Identify the quantity first. Speed and direction need different wind instruments, just as rainfall and air pressure need different devices.",
+    "words": [
+      [
+        "BAROMETER",
+        "Instrument measuring atmospheric pressure"
+      ],
+      [
+        "RAINGAUGE",
+        "Instrument that collects precipitation to measure its amount"
+      ],
+      [
+        "ANEMOMETER",
+        "Instrument measuring wind speed"
+      ],
+      [
+        "WINDVANE",
+        "Turning weather instrument indicating wind direction"
+      ],
+      [
+        "HUMIDITY",
+        "Measure describing water vapor present in the air"
+      ],
+      [
+        "WEATHER",
+        "Atmospheric conditions observed at a place and time"
+      ],
+      [
+        "RAIN",
+        "Liquid precipitation collected by a gauge"
+      ],
+      [
+        "WIND",
+        "Moving air observed by a vane and anemometer"
+      ],
+      [
+        "PRESSURE",
+        "Force per unit area measured by a barometer"
+      ],
+      [
+        "MEASURE",
+        "To determine the amount of a physical quantity"
+      ],
+      [
+        "CUP",
+        "Small rotating catcher on a common wind-speed instrument"
+      ],
+      [
+        "TUBE",
+        "Narrow cylindrical collector in some precipitation gauges"
+      ],
+      [
+        "INCH",
+        "Length unit used in many American rainfall reports"
+      ],
+      [
+        "SCALE",
+        "Set of ordered markings from which a gauge is read"
+      ],
+      [
+        "AIR",
+        "Mixture of gases whose pressure a weather instrument measures"
+      ]
+    ],
+    "answerNotes": {
+      "BAROMETER": "A barometer measures air pressure. It does not directly measure rainfall or wind speed.",
+      "RAINGAUGE": "Rain gauge is written without a space in the grid. It measures collected precipitation rather than the speed of falling drops.",
+      "ANEMOMETER": "An anemometer measures speed. A wind vane identifies direction, a separate property.",
+      "WINDVANE": "Wind vane is written without a space. Weather reports conventionally name wind for the direction it comes from.",
+      "HUMIDITY": "Humidity concerns water vapor in air. Relative humidity compares the amount present with a temperature-dependent saturation level."
+    },
+    "requiredAnswers": [
+      "RAINGAUGE"
+    ]
+  },
+  {
+    "id": "weather-and-light-tools-4",
+    "title": "Light and Shadows",
+    "description": "Look at the words for blocked, scattered, and reflected light through familiar objects such as mirrors and glass.",
+    "cardDescription": "Look at the words for blocked, scattered, and reflected light through familiar objects such as mirrors and glass.",
+    "subtheme": "Light and Shadows",
+    "focus": "Materials interact with light in different ways. A translucent material passes scattered light, an opaque one blocks direct transmission, and a mirror reflects light to form an image.",
+    "solvingTip": "Choose the behavior described by the clue. Passing, blocking, bending, and reflecting light are different actions.",
+    "words": [
+      [
+        "OPAQUE",
+        "Not allowing visible light to pass through"
+      ],
+      [
+        "TRANSLUCENT",
+        "Passing light while scattering it so details are blurred"
+      ],
+      [
+        "REFLECT",
+        "To send light back from a surface"
+      ],
+      [
+        "PRISM",
+        "Transparent optical shape that can separate white light into colors"
+      ],
+      [
+        "SHADOW",
+        "Darker region formed where an object blocks light from a source"
+      ],
+      [
+        "SOURCE",
+        "Object or place from which light is emitted"
+      ],
+      [
+        "MIRROR",
+        "Reflective surface used to form an image"
+      ],
+      [
+        "BEAM",
+        "Directed bundle of light traveling from a source"
+      ],
+      [
+        "ANGLE",
+        "Measure of the turn between two light paths"
+      ],
+      [
+        "GLASS",
+        "Transparent solid used in many windows and lenses"
+      ],
+      [
+        "LIGHT",
+        "Visible electromagnetic radiation reaching the eye"
+      ],
+      [
+        "DARK",
+        "Having little or no visible illumination"
+      ],
+      [
+        "RAY",
+        "Line used to represent a direction of light travel"
+      ],
+      [
+        "COLOR",
+        "Visual quality associated with different visible wavelengths"
+      ]
+    ],
+    "answerNotes": {
+      "OPAQUE": "Opaque describes blocked transmission. It does not mean a surface cannot reflect light.",
+      "TRANSLUCENT": "Translucent differs from transparent, which allows a clearer view through a material. Both differ from opaque.",
+      "REFLECT": "Reflection sends light back. Refraction changes its direction as it passes between materials.",
+      "PRISM": "A prism can separate colors because different wavelengths refract by different amounts. It does not create those colors from nothing.",
+      "SHADOW": "A shadow depends on the source, object, and receiving area. Its softness and size change with their geometry."
+    },
+    "requiredAnswers": [
+      "OPAQUE"
+    ]
+  },
+  {
+    "id": "weather-and-light-tools-5",
+    "title": "Magnets on the Fridge",
+    "description": "Explore magnetic poles, familiar materials, and the words for forces acting across a small gap.",
+    "cardDescription": "Explore magnetic poles, familiar materials, and the words for forces acting across a small gap.",
+    "subtheme": "Magnets on the Fridge",
+    "focus": "Not every metal is strongly attracted to an ordinary magnet. These clues focus on familiar magnetic behavior while separating the material, the field, and the direction of the force.",
+    "solvingTip": "Use the relationship in the clue. Like and unlike poles behave differently, and a material name differs from the force acting on it.",
+    "words": [
+      [
+        "MAGNET",
+        "Object producing a field that can attract iron"
+      ],
+      [
+        "REPEL",
+        "To push away magnetically, as two like poles do"
+      ],
+      [
+        "ATTRACT",
+        "To pull toward, as unlike magnetic poles do"
+      ],
+      [
+        "STEEL",
+        "Iron-based material commonly attracted to a refrigerator magnet"
+      ],
+      [
+        "FIELD",
+        "Region described by the magnetic influence around an object"
+      ],
+      [
+        "POLE",
+        "Either end region of a bar magnet's strongest attraction"
+      ],
+      [
+        "NORTH",
+        "One of the two conventional magnetic pole names"
+      ],
+      [
+        "SOUTH",
+        "Magnetic pole name paired with north"
+      ],
+      [
+        "IRON",
+        "Metal strongly attracted by an ordinary magnet"
+      ],
+      [
+        "FORCE",
+        "Push or pull exerted in a magnetic interaction"
+      ],
+      [
+        "COMPASS",
+        "Direction-finding instrument containing a freely turning magnet"
+      ],
+      [
+        "BAR",
+        "Straight rectangular shape of a familiar classroom magnet"
+      ],
+      [
+        "LOOP",
+        "Closed curved path, as in a coil of wire"
+      ],
+      [
+        "METAL",
+        "Material category that includes iron, copper, and aluminum"
+      ]
+    ],
+    "answerNotes": {
+      "MAGNET": "A magnet can attract certain materials strongly. It does not attract every metal in the same way.",
+      "REPEL": "Like magnetic poles repel. Unlike poles attract, so the relationship between the poles matters.",
+      "ATTRACT": "Attraction draws objects together. It is different from repulsion, which pushes them apart.",
+      "STEEL": "Many steels are strongly magnetic, but some stainless steel types respond weakly or not at all. Steel is not a promise of identical magnetic behavior.",
+      "FIELD": "A magnetic field can act across a gap. Its strength and direction vary with position."
+    },
+    "requiredAnswers": [
+      "MAGNET"
+    ]
+  }
+]

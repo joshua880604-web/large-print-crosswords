@@ -1,0 +1,387 @@
+[
+  {
+    "id": "home-inventions",
+    "title": "A Telephone on the Hall Table",
+    "description": "Return to a familiar landline telephone and the words for its handset, controls, and connection.",
+    "cardDescription": "Return to a familiar landline telephone and the words for its handset, controls, and connection.",
+    "subtheme": "A Telephone on the Hall Table",
+    "focus": "The clues describe a traditional corded telephone rather than every modern phone. Some objects have several everyday names, so the definitions specify their parts and functions.",
+    "solvingTip": "Look for whether the clue names a whole unit, a control, or a sound. Short calling words will help with the longer equipment names.",
+    "words": [
+      [
+        "HANDSET",
+        "Telephone part held with both an earpiece and a mouthpiece"
+      ],
+      [
+        "RECEIVER",
+        "Telephone term traditionally used for the part held to the ear"
+      ],
+      [
+        "ROTARY",
+        "Describing a telephone dial that turns and returns"
+      ],
+      [
+        "RINGER",
+        "Device in a telephone that sounds an incoming-call alert"
+      ],
+      [
+        "HOOK",
+        "Telephone cradle switch, as in taking a phone off the ___"
+      ],
+      [
+        "DIAL",
+        "Circular numbered control on an older telephone"
+      ],
+      [
+        "CORD",
+        "Flexible cable joining a traditional handset to its base"
+      ],
+      [
+        "NUMBER",
+        "Sequence of digits identifying a telephone connection"
+      ],
+      [
+        "CALL",
+        "Attempt to reach someone by telephone"
+      ],
+      [
+        "LINE",
+        "Connection carrying a conventional landline conversation"
+      ],
+      [
+        "TONE",
+        "Steady sound heard before dialing on many phone systems"
+      ],
+      [
+        "PHONE",
+        "Short everyday name for a telephone"
+      ],
+      [
+        "SPEAK",
+        "To send words into the telephone's mouthpiece"
+      ],
+      [
+        "LISTEN",
+        "To hear the other person's voice through the earpiece"
+      ]
+    ],
+    "answerNotes": {
+      "HANDSET": "A handset combines the parts held near the ear and mouth. It is distinct from the telephone base resting on the table.",
+      "RECEIVER": "Receiver can mean the listening component or, informally, the handset. The wording here specifies its traditional listening role.",
+      "ROTARY": "A rotary dial sends pulses as it returns. The word describes the mechanism rather than the sound of the bell.",
+      "RINGER": "The ringer produces the alert. The voice heard during a call comes through the listening component instead.",
+      "HOOK": "Off the hook refers to lifting the handset from its resting switch. It does not require a literal wall hook on every telephone."
+    },
+    "requiredAnswers": [
+      "HANDSET"
+    ]
+  },
+  {
+    "id": "home-inventions-2",
+    "title": "A Familiar Film Camera",
+    "description": "Look through the parts of a film camera, from the light-controlling opening to the place where the picture is composed.",
+    "cardDescription": "Look through the parts of a film camera, from the light-controlling opening to the place where the picture is composed.",
+    "subtheme": "A Familiar Film Camera",
+    "focus": "The scene uses a film camera to make the vocabulary concrete. A shutter controls exposure time, an aperture is an opening, and a viewfinder helps compose the picture.",
+    "solvingTip": "Use each part’s job to distinguish it. Making an image sharp, letting light in, and enlarging the view require different words.",
+    "words": [
+      [
+        "CAMERA",
+        "Device used to record a photograph on film"
+      ],
+      [
+        "SHUTTER",
+        "Camera mechanism that opens to admit light for an exposure"
+      ],
+      [
+        "APERTURE",
+        "Adjustable opening controlling how much light enters a camera"
+      ],
+      [
+        "VIEWFINDER",
+        "Camera viewing window used to compose a picture"
+      ],
+      [
+        "FOCUS",
+        "Camera adjustment that makes the subject appear sharp"
+      ],
+      [
+        "LENS",
+        "Optical assembly at the front of a camera"
+      ],
+      [
+        "FILM",
+        "Light-sensitive strip loaded into a traditional camera"
+      ],
+      [
+        "FRAME",
+        "One picture area on a roll of photographic film"
+      ],
+      [
+        "FLASH",
+        "Brief burst of added light for a photograph"
+      ],
+      [
+        "TRIPOD",
+        "Three-legged support used to steady a camera"
+      ],
+      [
+        "ZOOM",
+        "To vary a lens's focal length for a wider or closer view"
+      ],
+      [
+        "IMAGE",
+        "Picture formed by a camera's optical system"
+      ],
+      [
+        "CASE",
+        "Protective container for carrying a camera"
+      ],
+      [
+        "CAP",
+        "Removable protective cover for a camera lens"
+      ]
+    ],
+    "answerNotes": {
+      "CAMERA": "This scene concerns a film camera. Digital cameras share some parts but record the image differently.",
+      "SHUTTER": "The shutter controls exposure duration. The aperture controls the size of the light-passing opening.",
+      "APERTURE": "Aperture refers to the opening, not the time it remains exposed. Both aperture and shutter timing affect an exposure.",
+      "VIEWFINDER": "A viewfinder helps frame the subject. Its view need not be identical in design across all camera types.",
+      "FOCUS": "Focus concerns sharpness at the subject's distance. Zoom changes the lens's focal length rather than simply correcting focus."
+    },
+    "requiredAnswers": [
+      "SHUTTER"
+    ]
+  },
+  {
+    "id": "home-inventions-3",
+    "title": "The Home Sewing Machine",
+    "description": "Recognize the moving parts and familiar materials of a household sewing machine.",
+    "cardDescription": "Recognize the moving parts and familiar materials of a household sewing machine.",
+    "subtheme": "The Home Sewing Machine",
+    "focus": "The clues distinguish the lower thread supply, the operator’s control, and the parts that move fabric. Some familiar words have a specific mechanical meaning in this setting.",
+    "solvingTip": "A clue may ask for a component, a material, or the result of sewing. Use that distinction to separate short words with several meanings.",
+    "words": [
+      [
+        "BOBBIN",
+        "Small spool holding the lower thread in many sewing machines"
+      ],
+      [
+        "PEDAL",
+        "Foot-operated control used to run many sewing machines"
+      ],
+      [
+        "TENSION",
+        "Adjustment controlling how tightly sewing threads are held"
+      ],
+      [
+        "DOG",
+        "Feed ___, toothed machine part that advances fabric"
+      ],
+      [
+        "FOOT",
+        "Presser ___, part that holds fabric against the feeding mechanism"
+      ],
+      [
+        "NEEDLE",
+        "Pointed machine part carrying thread through fabric"
+      ],
+      [
+        "SPOOL",
+        "Cylinder holding the upper sewing thread"
+      ],
+      [
+        "THREAD",
+        "Fine strand that forms a sewn stitch"
+      ],
+      [
+        "STITCH",
+        "Single unit of sewing formed by the machine"
+      ],
+      [
+        "FEED",
+        "To move fabric forward through the sewing mechanism"
+      ],
+      [
+        "HEM",
+        "Folded and sewn finish at a fabric edge"
+      ],
+      [
+        "SEAM",
+        "Line of stitching joining pieces of fabric"
+      ],
+      [
+        "WHEEL",
+        "Round hand-operated part used to turn the machine mechanism"
+      ],
+      [
+        "BELT",
+        "Flexible drive loop found on many older sewing machines"
+      ]
+    ],
+    "answerNotes": {
+      "BOBBIN": "The bobbin supplies the lower thread in a typical lockstitch machine. The upper thread comes from another spool.",
+      "PEDAL": "A pedal is operated by the foot. It differs from the presser foot that rests on the fabric.",
+      "TENSION": "Balanced thread tension helps form a suitable stitch. The word names a thread-control setting rather than speed.",
+      "DOG": "Feed dogs move the fabric beneath the presser foot. Dog has a mechanical meaning in this phrase rather than naming an animal.",
+      "FOOT": "The presser foot holds the work against the feed dogs. It is separate from the operator's foot pedal."
+    },
+    "requiredAnswers": [
+      "BOBBIN"
+    ]
+  },
+  {
+    "id": "home-inventions-4",
+    "title": "A Kitchen Timer and Clock",
+    "description": "Compare a clock’s time-of-day display with a timer’s measured interval through familiar mechanical parts and sounds.",
+    "cardDescription": "Compare a clock’s time-of-day display with a timer’s measured interval through familiar mechanical parts and sounds.",
+    "subtheme": "A Kitchen Timer and Clock",
+    "focus": "A clock tells the time of day; a timer measures an interval. The clues use traditional dial and spring-driven mechanisms without assuming that every modern device contains those parts.",
+    "solvingTip": "Watch whether the clue asks for a period, a moving component, or an alert. Those categories separate several short familiar words.",
+    "words": [
+      [
+        "TIMER",
+        "Device that measures a chosen interval before giving an alert"
+      ],
+      [
+        "SPRING",
+        "Coiled part storing energy in a wind-up mechanism"
+      ],
+      [
+        "GEAR",
+        "Toothed wheel transferring motion inside a mechanical clock"
+      ],
+      [
+        "HAND",
+        "Pointer moving around a traditional clock face"
+      ],
+      [
+        "MINUTE",
+        "Time unit equal to sixty seconds"
+      ],
+      [
+        "WIND",
+        "To turn a key or knob to store energy in a spring"
+      ],
+      [
+        "DIAL",
+        "Numbered face read on an analog kitchen clock"
+      ],
+      [
+        "ALARM",
+        "Audible signal announcing that a set time has arrived"
+      ],
+      [
+        "SECOND",
+        "Time unit equal to one sixtieth of a minute"
+      ],
+      [
+        "HOUR",
+        "Time unit equal to sixty minutes"
+      ],
+      [
+        "CLOCK",
+        "Device displaying the time of day"
+      ],
+      [
+        "BELL",
+        "Metal sounder used in some traditional kitchen timers"
+      ],
+      [
+        "TICK",
+        "Short repeated sound associated with a mechanical clock"
+      ],
+      [
+        "KNOB",
+        "Small turning control used to set a timer"
+      ]
+    ],
+    "answerNotes": {
+      "TIMER": "A timer measures elapsed time or counts down an interval. A clock generally displays the time of day.",
+      "SPRING": "Winding a spring stores mechanical energy. Electronic timers do not necessarily contain this kind of drive.",
+      "GEAR": "Gears transmit rotation through contacting teeth. Different gear sizes can alter the rate of motion.",
+      "HAND": "A hand indicates a value on a dial. A digital display uses numerals without moving pointers.",
+      "MINUTE": "A minute contains sixty seconds. It is a duration whether measured by a mechanical or an electronic device."
+    },
+    "requiredAnswers": [
+      "TIMER"
+    ]
+  },
+  {
+    "id": "home-inventions-5",
+    "title": "Inside a Vacuum Cleaner",
+    "description": "Identify the parts that move air, collect dust, and make a household vacuum cleaner easier to use.",
+    "cardDescription": "Identify the parts that move air, collect dust, and make a household vacuum cleaner easier to use.",
+    "subtheme": "Inside a Vacuum Cleaner",
+    "focus": "Different machines collect debris in bags or bins, but airflow and suction connect their main functions. The clues separate a collecting container, a cleaning attachment, and the motor producing the motion.",
+    "solvingTip": "Use the function of each part. A storage space is different from a cleaning head or a flexible connection.",
+    "words": [
+      [
+        "SUCTION",
+        "Drawing action caused by lower air pressure in a vacuum cleaner"
+      ],
+      [
+        "FILTER",
+        "Component that traps particles as air passes through it"
+      ],
+      [
+        "NOZZLE",
+        "Cleaning attachment at the working end of a vacuum hose"
+      ],
+      [
+        "MOTOR",
+        "Powered component driving a vacuum cleaner's fan"
+      ],
+      [
+        "BIN",
+        "Rigid dirt-collecting container in a bagless vacuum"
+      ],
+      [
+        "VACUUM",
+        "First word in the name of a common powered floor cleaner"
+      ],
+      [
+        "HOSE",
+        "Flexible tube connecting a vacuum body to an attachment"
+      ],
+      [
+        "BRUSH",
+        "Bristled part that helps loosen debris at the cleaning head"
+      ],
+      [
+        "BAG",
+        "Replaceable dirt collector in some vacuum models"
+      ],
+      [
+        "DUST",
+        "Fine household particles drawn into the cleaner"
+      ],
+      [
+        "CORD",
+        "Electrical cable supplying a plug-in vacuum"
+      ],
+      [
+        "WHEEL",
+        "Round support allowing a vacuum body to roll"
+      ],
+      [
+        "HANDLE",
+        "Part gripped when pushing an upright cleaner"
+      ],
+      [
+        "SWITCH",
+        "Control used to turn a vacuum on or off"
+      ]
+    ],
+    "answerNotes": {
+      "SUCTION": "A vacuum cleaner uses a pressure difference to move air and debris. Suction is the familiar name for that drawing action.",
+      "FILTER": "A filter is in the airflow path. It is different from a nozzle that directs air into the machine.",
+      "NOZZLE": "A nozzle helps direct incoming airflow. Its shape depends on the surface or space the attachment is intended to reach.",
+      "MOTOR": "The motor supplies motion to the fan or other mechanisms. The collected dirt is stored elsewhere.",
+      "BIN": "Some machines use a bin and others use a bag. The clue specifies the bagless design."
+    },
+    "requiredAnswers": [
+      "SUCTION"
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "clothes-and-fabrics",
+    "title": "Patterns in the Closet",
+    "description": "Identify familiar fabric patterns by their lines, shapes, and repeated motifs.",
+    "cardDescription": "Identify familiar fabric patterns by their lines, shapes, and repeated motifs.",
+    "subtheme": "Patterns in the Closet",
+    "focus": "Pattern words describe visual arrangements, while weave words describe how strands cross. A fabric can have both a particular weave and a printed pattern.",
+    "solvingTip": "Look for the arrangement of colors and shapes. A plain color, crossing bands, and a teardrop motif each suggest a different word.",
+    "words": [
+      [
+        "PAISLEY",
+        "Pattern of curved teardrop-shaped motifs"
+      ],
+      [
+        "TARTAN",
+        "Pattern of intersecting colored bands traditionally associated with Scottish cloth"
+      ],
+      [
+        "TWILL",
+        "Weave producing characteristic diagonal ribs in cloth"
+      ],
+      [
+        "DENIM",
+        "Sturdy cotton fabric commonly made with a diagonal-rib weave"
+      ],
+      [
+        "SOLID",
+        "Having one uniform color rather than a repeated design"
+      ],
+      [
+        "PLAID",
+        "Pattern of crossing horizontal and vertical colored bands"
+      ],
+      [
+        "STRIPE",
+        "Long narrow band in a repeated fabric design"
+      ],
+      [
+        "CHECK",
+        "Small square formed by intersecting contrasting lines"
+      ],
+      [
+        "DOT",
+        "Small round spot in a polka-patterned fabric"
+      ],
+      [
+        "FLORAL",
+        "Decorated with a flower-based design"
+      ],
+      [
+        "PRINT",
+        "Colored design applied to a fabric's surface"
+      ],
+      [
+        "WEAVE",
+        "Arrangement produced by interlacing lengthwise and crosswise threads"
+      ],
+      [
+        "LINE",
+        "Long narrow mark forming part of a striped pattern"
+      ],
+      [
+        "COLOR",
+        "Visual hue distinguishing one band from another"
+      ]
+    ],
+    "answerNotes": {
+      "PAISLEY": "Paisley describes a decorative motif. The cloth bearing it can be made from different fibers and weaves.",
+      "TARTAN": "Tartan is a particular checked pattern tradition. Plaid is a broader everyday American term often used for crossing-band designs.",
+      "TWILL": "Twill describes the interlacing structure. It is different from a pattern printed onto the surface.",
+      "DENIM": "Denim is a fabric, commonly woven as twill. Its familiar blue appearance is not a rule for every piece of denim.",
+      "SOLID": "Solid describes appearance here. It does not mean the cloth is stiff or physically unbendable."
+    },
+    "requiredAnswers": [
+      "PAISLEY"
+    ]
+  },
+  {
+    "id": "clothes-and-fabrics-2",
+    "title": "A Button and a Zipper",
+    "description": "Explore clothing fasteners through the small components that hold everyday garments together.",
+    "cardDescription": "Explore clothing fasteners through the small components that hold everyday garments together.",
+    "subtheme": "A Button and a Zipper",
+    "focus": "Different fasteners close in different ways. Some names identify a whole device, while others name a moving part, a single projection, or a matching opening.",
+    "solvingTip": "Check singular and plural forms carefully. A whole fastener and one small component can have different answers of similar length.",
+    "words": [
+      [
+        "ZIPPER",
+        "Fastener whose interlocking rows close as a small piece slides along them"
+      ],
+      [
+        "SLIDER",
+        "Moving part that opens or closes a zipper"
+      ],
+      [
+        "TOOTH",
+        "One individual projection in an interlocking fastener row"
+      ],
+      [
+        "TEETH",
+        "Plural name for the interlocking projections of many zippers"
+      ],
+      [
+        "EYE",
+        "Small loop paired with a hook in a clothing fastener"
+      ],
+      [
+        "SNAP",
+        "Clothing fastener whose two parts press together with a click"
+      ],
+      [
+        "BUTTON",
+        "Small disk passed through a garment's matching opening"
+      ],
+      [
+        "LOOP",
+        "Curved strip or ring through which a fastening piece may pass"
+      ],
+      [
+        "HOOK",
+        "Bent fastening piece that catches in a matching eye"
+      ],
+      [
+        "BUCKLE",
+        "Frame and catch used to secure many belts"
+      ],
+      [
+        "CLASP",
+        "Small closing device joining two ends of an accessory"
+      ],
+      [
+        "BELT",
+        "Waistband accessory often secured with a buckle"
+      ],
+      [
+        "FASTEN",
+        "To join garment edges so they remain closed"
+      ],
+      [
+        "TAB",
+        "Small projecting piece pulled to move a zipper's slider"
+      ]
+    ],
+    "answerNotes": {
+      "ZIPPER": "A zipper joins two rows of interlocking elements. The slider brings them together or separates them.",
+      "SLIDER": "The slider moves along the rows. A pull tab gives the fingers something to grip while moving it.",
+      "TOOTH": "Tooth is singular. Teeth is its irregular plural, which matters when matching the clue to the answer.",
+      "TEETH": "Teeth is the plural form. Some zipper designs use a continuous coil rather than separate traditional teeth.",
+      "EYE": "The eye is the receiving loop. This mechanical use differs from the body organ with the same name."
+    },
+    "requiredAnswers": [
+      "ZIPPER"
+    ]
+  },
+  {
+    "id": "clothes-and-fabrics-3",
+    "title": "The Shape of a Shirt",
+    "description": "Find the names for a shirt’s edges, panels, and openings through the familiar outline of a garment.",
+    "cardDescription": "Find the names for a shirt’s edges, panels, and openings through the familiar outline of a garment.",
+    "subtheme": "The Shape of a Shirt",
+    "focus": "Some clothing terms describe where a part sits, while others describe its construction. The clues distinguish a shoulder panel, an opening reinforcement, and the finish along an edge.",
+    "solvingTip": "Picture the garment from top to bottom. The location of an opening or seam can help before you know the technical term.",
+    "words": [
+      [
+        "PLACKET",
+        "Finished strip or opening area carrying a shirt's buttons or buttonholes"
+      ],
+      [
+        "YOKE",
+        "Shaped garment panel across the shoulders of many shirts"
+      ],
+      [
+        "CUFF",
+        "Finished band or edge around the wrist end of a sleeve"
+      ],
+      [
+        "COLLAR",
+        "Part of a shirt fitted around the neck opening"
+      ],
+      [
+        "HEM",
+        "Folded and secured finish along a shirt's lower edge"
+      ],
+      [
+        "SLEEVE",
+        "Shirt section covering an arm"
+      ],
+      [
+        "POCKET",
+        "Small attached compartment for carrying a pen or other item"
+      ],
+      [
+        "SEAM",
+        "Stitched line joining separate pieces of a shirt"
+      ],
+      [
+        "FRONT",
+        "Side of a shirt commonly carrying the central button opening"
+      ],
+      [
+        "BACK",
+        "Shirt panel opposite the chest side"
+      ],
+      [
+        "BUTTON",
+        "Small fastener sewn beside a shirt opening"
+      ],
+      [
+        "FOLD",
+        "To bend cloth over itself along a line"
+      ],
+      [
+        "TAIL",
+        "Lower hanging part of a shirt that may be tucked in"
+      ],
+      [
+        "COTTON",
+        "Plant fiber commonly used to make shirts"
+      ]
+    ],
+    "answerNotes": {
+      "PLACKET": "A placket reinforces or finishes an opening. On many shirts it runs down the center front.",
+      "YOKE": "A yoke is a structural panel. Its name also has an unrelated farming meaning, so the garment context matters.",
+      "CUFF": "A cuff is at the sleeve's lower end. It differs from the collar around the neck opening.",
+      "COLLAR": "A collar frames the neck. It can have different shapes without changing the basic name.",
+      "HEM": "A hem finishes an edge. A seam generally joins pieces together, which is a different construction role."
+    },
+    "requiredAnswers": [
+      "PLACKET"
+    ]
+  },
+  {
+    "id": "clothes-and-fabrics-4",
+    "title": "Familiar Fabric Names",
+    "description": "Compare everyday fabrics through their fibers, surface textures, and methods of construction.",
+    "cardDescription": "Compare everyday fabrics through their fibers, surface textures, and methods of construction.",
+    "subtheme": "Familiar Fabric Names",
+    "focus": "Some names identify a fiber, some a fabric, and some a weave or finish. The clues make those distinctions explicit rather than treating every textile word as the same kind of category.",
+    "solvingTip": "Use a clue’s category as well as its texture description. A plant fiber and a weaving method require different answers.",
+    "words": [
+      [
+        "VELVET",
+        "Fabric with a dense short raised pile giving a soft surface"
+      ],
+      [
+        "SATIN",
+        "Smooth lustrous weave with long surface floats"
+      ],
+      [
+        "RAYON",
+        "Manufactured fiber made from regenerated cellulose"
+      ],
+      [
+        "FELT",
+        "Textile made by matting or bonding fibers rather than ordinary weaving"
+      ],
+      [
+        "LINEN",
+        "Textile fiber obtained from the flax plant"
+      ],
+      [
+        "COTTON",
+        "Soft plant fiber from the seed hairs of its namesake crop"
+      ],
+      [
+        "WOOL",
+        "Animal fiber commonly shorn from sheep"
+      ],
+      [
+        "SILK",
+        "Fiber produced by silkworms and used for smooth textiles"
+      ],
+      [
+        "DENIM",
+        "Sturdy fabric familiar from blue jeans"
+      ],
+      [
+        "TWEED",
+        "Rough-textured woven cloth often used for jackets"
+      ],
+      [
+        "FLEECE",
+        "Soft napped fabric, also a word for a sheep's coat"
+      ],
+      [
+        "FLANNEL",
+        "Soft woven fabric often brushed for a fuzzy surface"
+      ],
+      [
+        "NYLON",
+        "Synthetic fiber familiar from stockings and lightweight fabrics"
+      ],
+      [
+        "WEAVE",
+        "To interlace lengthwise and crosswise strands into cloth"
+      ]
+    ],
+    "answerNotes": {
+      "VELVET": "Velvet is defined by its pile construction rather than one mandatory fiber. It can be made from several materials.",
+      "SATIN": "Satin describes a weave structure. It is not necessarily made of silk.",
+      "RAYON": "Rayon begins with cellulose but is processed into a manufactured fiber. It differs from both unprocessed plant fiber and fully synthetic nylon.",
+      "FELT": "Felt need not have the regular crossing threads of woven cloth. Its fibers are consolidated into a sheet.",
+      "LINEN": "Linen comes from flax. Cotton is another plant fiber but comes from a different part of a different plant."
+    },
+    "requiredAnswers": [
+      "VELVET"
+    ]
+  },
+  {
+    "id": "clothes-and-fabrics-5",
+    "title": "A Rainy-Day Outfit",
+    "description": "Picture clothing and accessories chosen for a wet-weather walk, from a protective coat to its small closures.",
+    "cardDescription": "Picture clothing and accessories chosen for a wet-weather walk, from a protective coat to its small closures.",
+    "subtheme": "A Rainy-Day Outfit",
+    "focus": "A whole garment, its body parts, and a material property have separate names. The clues describe ordinary rainwear without assuming every coat uses the same fabric or fastening.",
+    "solvingTip": "Use where the item sits or what it does. A head covering, a wrist edge, and a hand-carried shelter are different objects.",
+    "words": [
+      [
+        "RAINCOAT",
+        "Outer garment worn to keep rainfall off the body"
+      ],
+      [
+        "UMBRELLA",
+        "Hand-held folding canopy raised against rain"
+      ],
+      [
+        "WATERPROOF",
+        "Designed to prevent water from passing through under specified conditions"
+      ],
+      [
+        "HOOD",
+        "Attached head covering on many rain jackets"
+      ],
+      [
+        "CAPE",
+        "Sleeveless outer covering hanging from the shoulders"
+      ],
+      [
+        "BOOT",
+        "High protective footwear worn for a wet walk"
+      ],
+      [
+        "ZIPPER",
+        "Sliding front closure on many rain jackets"
+      ],
+      [
+        "SLEEVE",
+        "Raincoat section covering the arm"
+      ],
+      [
+        "POCKET",
+        "Small garment compartment that may have a protective flap"
+      ],
+      [
+        "COAT",
+        "Outer garment worn over ordinary clothing"
+      ],
+      [
+        "RUBBER",
+        "Flexible water-resistant material used in many rain boots"
+      ],
+      [
+        "SNAP",
+        "Press-together fastener used on some rainwear"
+      ],
+      [
+        "HEM",
+        "Finished lower edge of a raincoat"
+      ],
+      [
+        "CUFF",
+        "Wrist-end finish of a rain jacket's sleeve"
+      ]
+    ],
+    "answerNotes": {
+      "RAINCOAT": "A raincoat is a garment intended for wet weather. Its materials and level of protection depend on its construction.",
+      "UMBRELLA": "An umbrella is carried rather than worn like a coat. Its canopy and support ribs open around a central shaft.",
+      "WATERPROOF": "Waterproof describes a material or construction property. Real products have limits depending on pressure, wear, seams, and their stated rating.",
+      "HOOD": "A hood covers the head and is part of the garment. It differs from a separate hat or a hand-held umbrella.",
+      "CAPE": "A cape hangs over the body without ordinary fitted sleeves. A rain cape is one wet-weather version."
+    },
+    "requiredAnswers": [
+      "RAINCOAT"
+    ]
+  }
+]

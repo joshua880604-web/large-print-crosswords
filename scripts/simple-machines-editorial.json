@@ -1,0 +1,391 @@
+[
+  {
+    "id": "simple-machines",
+    "title": "Levers and Lifting",
+    "description": "Recognize a lever’s parts through a supported bar, a turning point, and the forces used to move a load.",
+    "cardDescription": "Recognize a lever’s parts through a supported bar, a turning point, and the forces used to move a load.",
+    "subtheme": "Levers and Lifting",
+    "focus": "A lever turns around a support. Its geometry can trade a greater movement distance for a smaller required force, but it does not create energy or eliminate the work of lifting.",
+    "solvingTip": "Look for the part’s role: turning point, applied force, or object being moved. Several ordinary words have precise meanings in this scene.",
+    "words": [
+      [
+        "LEVER",
+        "Rigid bar turning about a support to move a load"
+      ],
+      [
+        "FULCRUM",
+        "Support or turning point about which a lever rotates"
+      ],
+      [
+        "LOAD",
+        "Object or resistance moved by a simple machine"
+      ],
+      [
+        "EFFORT",
+        "Applied input force used to operate a simple machine"
+      ],
+      [
+        "ARM",
+        "Lever ___, perpendicular distance from a pivot to a force's line of action"
+      ],
+      [
+        "PIVOT",
+        "Point about which a rigid object turns"
+      ],
+      [
+        "BAR",
+        "Long rigid piece used as a simple levering tool"
+      ],
+      [
+        "BEAM",
+        "Long structural member supported in a balance"
+      ],
+      [
+        "PRY",
+        "To move something using a levering action"
+      ],
+      [
+        "LIFT",
+        "To raise a load to a higher position"
+      ],
+      [
+        "BALANCE",
+        "To bring opposing turning effects into equilibrium"
+      ],
+      [
+        "SCALE",
+        "Weighing instrument that may use a balanced beam"
+      ],
+      [
+        "POINT",
+        "Specific location at which a force is applied"
+      ],
+      [
+        "FORCE",
+        "Push or pull acting on an object"
+      ]
+    ],
+    "answerNotes": {
+      "LEVER": "A lever rotates around a fulcrum. The distances from that support determine how its forces and movements relate.",
+      "FULCRUM": "The fulcrum is the pivot support. It is different from the load being moved or the effort applied by the user.",
+      "LOAD": "Load names what is being acted on. Effort names the applied force used to act on it.",
+      "EFFORT": "Effort is an input force. A machine may reduce the force needed by increasing the distance over which that force acts.",
+      "ARM": "The effective lever arm is the perpendicular distance from the pivot to the force's line of action. It need not equal the full length of the bar."
+    },
+    "requiredAnswers": [
+      "LEVER",
+      "FULCRUM"
+    ]
+  },
+  {
+    "id": "simple-machines-2",
+    "title": "A Pulley and a Rope",
+    "description": "Follow a rope around a grooved wheel and distinguish the names for the support, moving load, and lifting arrangement.",
+    "cardDescription": "Follow a rope around a grooved wheel and distinguish the names for the support, moving load, and lifting arrangement.",
+    "subtheme": "A Pulley and a Rope",
+    "focus": "A pulley can change a force’s direction, and a multiple-pulley arrangement can change the force needed. The number of supporting rope sections matters more than simply counting visible wheels.",
+    "solvingTip": "Separate the wheel itself from the whole arrangement. The short rope and support words can provide crossings for the technical term.",
+    "words": [
+      [
+        "PULLEY",
+        "Grooved wheel over which a rope runs to transmit a pulling force"
+      ],
+      [
+        "SHEAVE",
+        "Grooved wheel within a pulley block"
+      ],
+      [
+        "TACKLE",
+        "Rope-and-pulley arrangement used together for lifting"
+      ],
+      [
+        "GROOVE",
+        "Channel around a pulley wheel that guides a rope"
+      ],
+      [
+        "AXLE",
+        "Central shaft supporting a rotating pulley wheel"
+      ],
+      [
+        "ROPE",
+        "Flexible line running around a pulley wheel"
+      ],
+      [
+        "LOAD",
+        "Weight or object raised by the lifting arrangement"
+      ],
+      [
+        "LIFT",
+        "To raise an object with a rope system"
+      ],
+      [
+        "HOOK",
+        "Curved attachment holding a suspended load"
+      ],
+      [
+        "BLOCK",
+        "Frame containing one or more pulley wheels"
+      ],
+      [
+        "CORD",
+        "Thin flexible line usable with a small pulley"
+      ],
+      [
+        "WHEEL",
+        "Round rotating part of the mechanism"
+      ],
+      [
+        "TURN",
+        "To rotate as a rope moves around the rim"
+      ],
+      [
+        "WEIGHT",
+        "Downward gravitational force acting on a suspended object"
+      ]
+    ],
+    "answerNotes": {
+      "PULLEY": "A single fixed pulley mainly changes the direction of pulling. Arrangements with moving pulleys can also provide a force advantage.",
+      "SHEAVE": "Sheave names the wheel. A block may contain one or more sheaves and the frame supporting them.",
+      "TACKLE": "A block and tackle combines rope and pulley blocks. Its mechanical advantage depends on the way the load is supported.",
+      "GROOVE": "The groove helps keep the rope on the wheel. It differs from the axle at the center of rotation.",
+      "AXLE": "The wheel turns around or with an axle, depending on the design. The rope runs at the rim rather than through that central shaft."
+    },
+    "requiredAnswers": [
+      "PULLEY",
+      "SHEAVE"
+    ]
+  },
+  {
+    "id": "simple-machines-3",
+    "title": "Wheels and Axles",
+    "description": "Examine the center, edge, and supporting parts of an ordinary wheel through familiar carts and wagons.",
+    "cardDescription": "Examine the center, edge, and supporting parts of an ordinary wheel through familiar carts and wagons.",
+    "subtheme": "Wheels and Axles",
+    "focus": "Wheel parts have names based on their position and function. A bearing supports relative motion, while lubrication can reduce friction; neither is simply another name for the axle itself.",
+    "solvingTip": "Picture the center and the outside edge. A radial part connects them, while a supporting part allows rotation.",
+    "words": [
+      [
+        "AXLE",
+        "Shaft supporting or connecting rotating wheels"
+      ],
+      [
+        "HUB",
+        "Central part of a wheel surrounding its axle"
+      ],
+      [
+        "RIM",
+        "Outer circular edge of a wheel"
+      ],
+      [
+        "SPOKE",
+        "One radial member connecting a wheel's center and outer edge"
+      ],
+      [
+        "BEARING",
+        "Component supporting motion between a rotating shaft and its support"
+      ],
+      [
+        "WHEEL",
+        "Round part that rolls beneath a cart"
+      ],
+      [
+        "ROLL",
+        "To move while turning over a surface"
+      ],
+      [
+        "ROTATE",
+        "To turn around an axis"
+      ],
+      [
+        "CART",
+        "Small wheeled vehicle used to carry a load"
+      ],
+      [
+        "WAGON",
+        "Four-wheeled carrying vehicle often pulled by a handle or team"
+      ],
+      [
+        "GREASE",
+        "Semisolid lubricant used on some moving mechanical parts"
+      ],
+      [
+        "ROUND",
+        "Circular in shape, like a wheel"
+      ],
+      [
+        "HOLE",
+        "Opening through the center of a component"
+      ],
+      [
+        "LOAD",
+        "Cargo or weight supported by a wheeled vehicle"
+      ]
+    ],
+    "answerNotes": {
+      "AXLE": "An axle supports the wheel arrangement. Depending on the design, the wheel or the axle may rotate relative to the other.",
+      "HUB": "The hub occupies the center. The rim forms the outside edge, with spokes connecting them in a spoked wheel.",
+      "RIM": "The rim is at the circumference. It is distinct from the central hub and the axle passing through the center.",
+      "SPOKE": "A spoke runs outward from the hub toward the rim. Not all wheels use separate spokes.",
+      "BEARING": "A bearing permits controlled relative movement. Designs can use rolling elements or sliding surfaces."
+    },
+    "requiredAnswers": [
+      "WHEEL",
+      "AXLE"
+    ]
+  },
+  {
+    "id": "simple-machines-4",
+    "title": "Gears at Work",
+    "description": "Identify toothed wheels and the words describing how they transfer rotation from one shaft to another.",
+    "cardDescription": "Identify toothed wheels and the words describing how they transfer rotation from one shaft to another.",
+    "subtheme": "Gears at Work",
+    "focus": "Gear size and arrangement affect speed, direction, and turning force. Directly meshing external gears turn in opposite directions, but not every gear system follows that same simple layout.",
+    "solvingTip": "Watch singular and plural forms. A component name differs from a relationship such as speed ratio or from the turning effect called torque.",
+    "words": [
+      [
+        "PINION",
+        "Smaller gear in a meshing pair"
+      ],
+      [
+        "IDLER",
+        "Intermediate gear used between driving and driven gears"
+      ],
+      [
+        "TORQUE",
+        "Turning effect of a force about an axis"
+      ],
+      [
+        "BEVEL",
+        "Type of gear with teeth on a conical surface"
+      ],
+      [
+        "MESH",
+        "To engage so that one gear's teeth fit between another's"
+      ],
+      [
+        "GEAR",
+        "Toothed wheel used to transmit rotary motion"
+      ],
+      [
+        "TOOTH",
+        "One projecting element on the edge of a gear"
+      ],
+      [
+        "TEETH",
+        "Plural name for a gear's projecting elements"
+      ],
+      [
+        "RATIO",
+        "Numerical relationship between two gear tooth counts"
+      ],
+      [
+        "TURN",
+        "To rotate around a shaft"
+      ],
+      [
+        "SHAFT",
+        "Long rotating rod carrying a gear"
+      ],
+      [
+        "DRIVE",
+        "To supply motion to another mechanical part"
+      ],
+      [
+        "SPEED",
+        "Rate at which a rotating gear turns"
+      ],
+      [
+        "ROTATE",
+        "To move around a central axis"
+      ]
+    ],
+    "answerNotes": {
+      "PINION": "Pinion commonly names the smaller member of a gear pair. Its tooth count helps determine the speed relationship.",
+      "IDLER": "An idler can alter direction or spacing. In a simple gear train it does not independently change the overall tooth-count ratio between the first and last gears.",
+      "TORQUE": "Torque is a turning effect. It differs from rotational speed, even though a gear system relates the two through power transfer.",
+      "BEVEL": "Bevel gears transmit rotation between intersecting shaft axes. Their shape differs from ordinary cylindrical spur gears.",
+      "MESH": "Meshing allows teeth to transfer motion. Two directly meshing external gears rotate in opposite directions."
+    },
+    "requiredAnswers": [
+      "GEAR"
+    ]
+  },
+  {
+    "id": "simple-machines-5",
+    "title": "Ramps and Screws",
+    "description": "Compare inclined surfaces and spiral threads through the everyday vocabulary of simple machines.",
+    "cardDescription": "Compare inclined surfaces and spiral threads through the everyday vocabulary of simple machines.",
+    "subtheme": "Ramps and Screws",
+    "focus": "A ramp trades distance for the force needed to raise a load. A screw uses an inclined path wrapped around a shaft, while a wedge applies force through sloping surfaces.",
+    "solvingTip": "Look at the shape and the motion. A straight incline, a spiral ridge, and a tapered splitting shape require different names.",
+    "words": [
+      [
+        "RAMP",
+        "Sloping surface connecting two different heights"
+      ],
+      [
+        "SCREW",
+        "Fastener or machine with a helical ridge around a shaft"
+      ],
+      [
+        "THREAD",
+        "Helical ridge around a screw or inside a matching nut"
+      ],
+      [
+        "WEDGE",
+        "Tapered tool whose sloping sides separate or lift material"
+      ],
+      [
+        "SPIRAL",
+        "Winding path suggested by a screw's thread"
+      ],
+      [
+        "SLOPE",
+        "Steepness of an inclined surface"
+      ],
+      [
+        "INCLINE",
+        "Surface that rises at an angle rather than staying level"
+      ],
+      [
+        "RISE",
+        "Vertical height gained along a ramp"
+      ],
+      [
+        "RUN",
+        "Horizontal distance associated with a slope"
+      ],
+      [
+        "TURN",
+        "To rotate a screw around its axis"
+      ],
+      [
+        "BOLT",
+        "Threaded fastener commonly paired with a nut"
+      ],
+      [
+        "NUT",
+        "Internally threaded piece fitted onto a bolt"
+      ],
+      [
+        "POINT",
+        "Tapered tip at the end of many screws"
+      ],
+      [
+        "FORCE",
+        "Push or pull applied to move a load along a ramp"
+      ]
+    ],
+    "answerNotes": {
+      "RAMP": "A ramp allows a load to rise over a longer path. Ideally this reduces the needed force while increasing the distance traveled.",
+      "SCREW": "A screw's thread follows a spiral path around its shaft. Rotation can produce forward motion when the thread engages a matching surface.",
+      "THREAD": "Thread names the ridge and groove system. It has a mechanical meaning here rather than meaning sewing fiber.",
+      "WEDGE": "A wedge uses inclined surfaces to redirect force. It differs from a ramp that remains stationary while a load travels over it.",
+      "SPIRAL": "A screw thread is a three-dimensional helix. Spiral is the familiar everyday description used in this clue."
+    },
+    "requiredAnswers": [
+      "RAMP",
+      "SCREW"
+    ]
+  }
+]

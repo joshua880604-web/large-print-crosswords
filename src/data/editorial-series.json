@@ -479,5 +479,181 @@
     "gridSize": 11,
     "minEntries": 10,
     "revision": 1
+  },
+  {
+    "id": "neighborhood-stops",
+    "name": "Neighborhood Stops",
+    "theme": "Everyday Places",
+    "source": "neighborhood-stops-editorial.json",
+    "seed": 22710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "hands-on-hobbies",
+    "name": "Hands-on Hobbies",
+    "theme": "Crafts",
+    "source": "hands-on-hobbies-editorial.json",
+    "seed": 23210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "american-landmarks",
+    "name": "American Landmarks",
+    "theme": "Travel",
+    "source": "american-landmarks-editorial.json",
+    "seed": 23710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "classic-american-stops",
+    "name": "Classic American Stops",
+    "theme": "Travel",
+    "source": "classic-american-stops-editorial.json",
+    "seed": 24210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "backyard-nature-studies",
+    "name": "Backyard Nature Studies",
+    "theme": "Nature",
+    "source": "backyard-nature-studies-editorial.json",
+    "seed": 24710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "evening-sky",
+    "name": "Evening Sky",
+    "theme": "Nature",
+    "source": "evening-sky-editorial.json",
+    "seed": 25210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "water-and-wildlife",
+    "name": "Water and Wildlife",
+    "theme": "Nature",
+    "source": "water-and-wildlife-editorial.json",
+    "seed": 25710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "home-inventions",
+    "name": "Home Inventions",
+    "theme": "Food & Home",
+    "source": "home-inventions-editorial.json",
+    "seed": 26210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "local-outings",
+    "name": "Local Outings",
+    "theme": "Travel",
+    "source": "local-outings-editorial.json",
+    "seed": 26710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "garden-details",
+    "name": "Garden Details",
+    "theme": "Gardening",
+    "source": "garden-details-editorial.json",
+    "seed": 27210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "kitchen-word-science",
+    "name": "Kitchen Word Science",
+    "theme": "Food & Home",
+    "source": "kitchen-word-science-editorial.json",
+    "seed": 27710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "clothes-and-fabrics",
+    "name": "Clothes and Fabrics",
+    "theme": "Food & Home",
+    "source": "clothes-and-fabrics-editorial.json",
+    "seed": 28210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "weather-and-light-tools",
+    "name": "Weather and Light Tools",
+    "theme": "Everyday Science",
+    "source": "weather-and-light-tools-editorial.json",
+    "seed": 28710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "everyday-wordplay",
+    "name": "Everyday Wordplay",
+    "theme": "Words & Ideas",
+    "source": "everyday-wordplay-editorial.json",
+    "seed": 29210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "recreation-room",
+    "name": "Recreation Room",
+    "theme": "Classic Pastimes",
+    "source": "recreation-room-editorial.json",
+    "seed": 29710000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "simple-machines",
+    "name": "Simple Machines",
+    "theme": "Everyday Science",
+    "source": "simple-machines-editorial.json",
+    "seed": 30210000,
+    "attempts": 15000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
   }
 ]

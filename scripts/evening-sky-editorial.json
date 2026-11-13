@@ -1,0 +1,393 @@
+[
+  {
+    "id": "evening-sky",
+    "title": "The Moon’s Changing Shape",
+    "description": "Recognize the words used for the Moon’s illuminated shapes as seen from Earth during its monthly cycle.",
+    "cardDescription": "Recognize the words used for the Moon’s illuminated shapes as seen from Earth during its monthly cycle.",
+    "subtheme": "The Moon’s Changing Shape",
+    "focus": "Moon phases describe how much of the sunlit half we see. They normally result from the changing viewing geometry, rather than Earth casting a shadow on the Moon.",
+    "solvingTip": "A clue about increasing or decreasing illumination asks for a change word. A shape clue asks for a named phase.",
+    "words": [
+      [
+        "PHASE",
+        "One of the Moon's apparent illuminated shapes"
+      ],
+      [
+        "CRESCENT",
+        "Moon shape showing less than half its face as a curved sliver"
+      ],
+      [
+        "QUARTER",
+        "Phase name used when half the Moon's visible disk is lit"
+      ],
+      [
+        "WAXING",
+        "Growing in visible illuminated area, as the Moon does"
+      ],
+      [
+        "WANING",
+        "Decreasing in visible illuminated area after a full Moon"
+      ],
+      [
+        "MOON",
+        "Earth's natural satellite whose phases we observe"
+      ],
+      [
+        "FULL",
+        "Phase in which the Moon's visible disk appears entirely lit"
+      ],
+      [
+        "NEW",
+        "Phase in which the Moon is near the Sun's direction in our sky"
+      ],
+      [
+        "GIBBOUS",
+        "Moon shape illuminated more than half but less than completely"
+      ],
+      [
+        "ORBIT",
+        "Path followed by the Moon around Earth"
+      ],
+      [
+        "LIGHT",
+        "Sunshine reflected from the lunar surface"
+      ],
+      [
+        "EARTH",
+        "Planet from which these lunar shapes are viewed"
+      ],
+      [
+        "SUN",
+        "Star supplying the illumination reflected by the Moon"
+      ],
+      [
+        "TIDE",
+        "Periodic rise and fall of sea level influenced strongly by the Moon"
+      ]
+    ],
+    "answerNotes": {
+      "PHASE": "Phases depend on the positions of the Sun, Earth, and Moon. Earth's shadow produces a lunar eclipse rather than the usual monthly phase sequence.",
+      "CRESCENT": "A crescent shows less than half of the apparent lunar disk illuminated. Gibbous describes more than half but less than full.",
+      "QUARTER": "Quarter refers to the Moon's progress around its cycle. The visible illuminated portion at this phase looks like half a disk.",
+      "WAXING": "Waxing describes increasing illumination as seen from Earth. Waning describes the decrease.",
+      "WANING": "Waning concerns the apparent lit portion. The Moon itself is not shrinking."
+    },
+    "requiredAnswers": [
+      "PHASE"
+    ]
+  },
+  {
+    "id": "evening-sky-2",
+    "title": "Stars and Familiar Sky Patterns",
+    "description": "Find recognizable northern sky names alongside the ordinary words used to describe lights and patterns overhead.",
+    "cardDescription": "Find recognizable northern sky names alongside the ordinary words used to describe lights and patterns overhead.",
+    "subtheme": "Stars and Familiar Sky Patterns",
+    "focus": "Some familiar sky patterns are parts of larger constellations. The clues distinguish the Big Dipper from its constellation and identify Polaris by its position rather than its brightness.",
+    "solvingTip": "Proper names are supported by direct descriptions. The short direction and shape words can provide useful crossing letters.",
+    "words": [
+      [
+        "ORION",
+        "Constellation named for a hunter and known for three belt stars"
+      ],
+      [
+        "DIPPER",
+        "Big ___, familiar seven-star pattern within Ursa Major"
+      ],
+      [
+        "POLARIS",
+        "Star near the north celestial pole, also called the North Star"
+      ],
+      [
+        "BEAR",
+        "Animal represented by the constellation name Ursa Major"
+      ],
+      [
+        "SUN",
+        "The star nearest to Earth"
+      ],
+      [
+        "PATTERN",
+        "Recognizable arrangement of points in the night sky"
+      ],
+      [
+        "STAR",
+        "Distant luminous body seen as a point at night"
+      ],
+      [
+        "NORTH",
+        "Direction associated with the pole near Polaris"
+      ],
+      [
+        "SKY",
+        "Apparent dome overhead where constellations are seen"
+      ],
+      [
+        "BELT",
+        "Three-star feature in the middle of Orion"
+      ],
+      [
+        "HUNTER",
+        "Figure represented by the constellation Orion"
+      ],
+      [
+        "POINT",
+        "Tiny dotlike appearance of a distant light"
+      ],
+      [
+        "LIGHT",
+        "Visible energy reaching us from a star"
+      ],
+      [
+        "NIGHT",
+        "Dark part of the day suited to seeing many stars"
+      ],
+      [
+        "CLUSTER",
+        "Group of stars physically associated in space"
+      ]
+    ],
+    "answerNotes": {
+      "ORION": "Orion is a constellation. Its three prominent belt stars form one easily recognized pattern within it.",
+      "DIPPER": "The Big Dipper is an asterism within Ursa Major. It is not a separate constellation.",
+      "POLARIS": "Polaris is useful as a northern direction marker. It is not the brightest star in the night sky.",
+      "BEAR": "Ursa Major means Great Bear. The Big Dipper occupies part of that larger constellation.",
+      "SUN": "The Sun is a star, even though it looks very different from the distant points we see at night."
+    },
+    "requiredAnswers": [
+      "ORION",
+      "POLARIS"
+    ]
+  },
+  {
+    "id": "evening-sky-3",
+    "title": "A Telescope on Its Tripod",
+    "description": "Look at the parts of a small telescope and the support that keeps its view steady.",
+    "cardDescription": "Look at the parts of a small telescope and the support that keeps its view steady.",
+    "subtheme": "A Telescope on Its Tripod",
+    "focus": "Different telescope designs gather light with lenses, mirrors, or both. The clues identify parts by their roles, separating the main opening, viewing component, and supporting structure.",
+    "solvingTip": "Identify the job first: gathering light, sharpening the image, looking through it, or holding the instrument still.",
+    "words": [
+      [
+        "TELESCOPE",
+        "Instrument that gathers light to show distant objects in detail"
+      ],
+      [
+        "EYEPIECE",
+        "Small viewing component at the observer's end of a telescope"
+      ],
+      [
+        "APERTURE",
+        "Diameter of a telescope's main light-gathering opening"
+      ],
+      [
+        "TRIPOD",
+        "Three-legged stand supporting a small telescope"
+      ],
+      [
+        "FOCUS",
+        "Adjustment that makes the viewed image appear sharp"
+      ],
+      [
+        "LENS",
+        "Curved transparent optical piece used in a refracting design"
+      ],
+      [
+        "MIRROR",
+        "Reflecting optical surface used in a reflecting design"
+      ],
+      [
+        "TUBE",
+        "Long body holding a small telescope's optical parts"
+      ],
+      [
+        "MOUNT",
+        "Support that holds and aims the optical tube"
+      ],
+      [
+        "GLASS",
+        "Transparent material used in many optical lenses"
+      ],
+      [
+        "CAP",
+        "Removable cover protecting the front opening"
+      ],
+      [
+        "VIEW",
+        "Scene seen through the instrument"
+      ],
+      [
+        "IMAGE",
+        "Optical representation formed by collected light"
+      ],
+      [
+        "KNOB",
+        "Small turning control used for an adjustment"
+      ]
+    ],
+    "answerNotes": {
+      "TELESCOPE": "A telescope gathers light to form an image. Its design determines whether lenses, mirrors, or a combination do the main optical work.",
+      "EYEPIECE": "The eyepiece is where the observer looks. It is distinct from the main lens or mirror gathering light.",
+      "APERTURE": "Aperture describes the size of the opening. It is not another word for magnification.",
+      "TRIPOD": "Three legs provide a stable support on a range of surfaces. The mount above them holds and aims the instrument.",
+      "FOCUS": "Focus changes image sharpness. Merely making an image larger does not guarantee that it will look clearer."
+    },
+    "requiredAnswers": [
+      "TELESCOPE"
+    ]
+  },
+  {
+    "id": "evening-sky-4",
+    "title": "Neighbors in the Solar System",
+    "description": "Name the eight planets and the familiar objects and motions associated with the Sun’s planetary system.",
+    "cardDescription": "Name the eight planets and the familiar objects and motions associated with the Sun’s planetary system.",
+    "subtheme": "Neighbors in the Solar System",
+    "focus": "This scene uses the modern eight-planet grouping. Planet names are paired with clear distinguishing descriptions, while the shorter clues concern paths, satellites, and the central star.",
+    "solvingTip": "Read each planet’s defining feature carefully. Order, size, and a familiar visible characteristic provide different routes to an answer.",
+    "words": [
+      [
+        "MERCURY",
+        "Planet with the smallest orbit around the Sun"
+      ],
+      [
+        "VENUS",
+        "Second planet from the Sun, often called the Evening Star"
+      ],
+      [
+        "JUPITER",
+        "Largest planet in our solar system"
+      ],
+      [
+        "URANUS",
+        "Seventh planet from the Sun, with a strongly tilted axis"
+      ],
+      [
+        "PLANET",
+        "Category shared by the eight major worlds orbiting our Sun"
+      ],
+      [
+        "EARTH",
+        "Third planet from the Sun and our home"
+      ],
+      [
+        "MARS",
+        "Fourth planet, often nicknamed the Red Planet"
+      ],
+      [
+        "SATURN",
+        "Sixth planet, especially known for its prominent ring system"
+      ],
+      [
+        "NEPTUNE",
+        "Eighth and most distant of the eight planets"
+      ],
+      [
+        "ORBIT",
+        "Path of a planet around its star"
+      ],
+      [
+        "SUN",
+        "Star at the center of our planetary system"
+      ],
+      [
+        "MOON",
+        "Natural satellite orbiting a planet"
+      ],
+      [
+        "RING",
+        "Band of orbiting material especially prominent around Saturn"
+      ],
+      [
+        "SPACE",
+        "Vast region beyond Earth's atmosphere"
+      ]
+    ],
+    "answerNotes": {
+      "MERCURY": "Mercury is the innermost of the eight planets. Its name here refers to a planet rather than a metallic element.",
+      "VENUS": "Venus is a planet despite its familiar star nickname. It can also appear as the Morning Star.",
+      "JUPITER": "Jupiter is a giant planet. Being the largest does not make it the closest to the Sun.",
+      "URANUS": "Uranus rotates with its axis tilted greatly relative to its orbital plane. The clue also gives its position in planetary order.",
+      "PLANET": "The modern list contains eight planets. Pluto is classified as a dwarf planet rather than a ninth member of that list."
+    },
+    "requiredAnswers": [
+      "PLANET"
+    ]
+  },
+  {
+    "id": "evening-sky-5",
+    "title": "Meteors and Comets",
+    "description": "Separate the names for icy visitors, rocky space bodies, and the brief streaks seen when material enters our atmosphere.",
+    "cardDescription": "Separate the names for icy visitors, rocky space bodies, and the brief streaks seen when material enters our atmosphere.",
+    "subtheme": "Meteors and Comets",
+    "focus": "A space object, an atmospheric light event, and a surviving piece on the ground have different names. Comet tails also have a direction set mainly by the Sun’s influence.",
+    "solvingTip": "Pay attention to location: in space, glowing in the atmosphere, or on the ground. Each location suggests a different term.",
+    "words": [
+      [
+        "METEOR",
+        "Luminous streak produced when a small space body enters the atmosphere"
+      ],
+      [
+        "METEORITE",
+        "Piece of space material that survives its fall to the ground"
+      ],
+      [
+        "COMET",
+        "Icy solar-system body that may develop a glowing head and tails"
+      ],
+      [
+        "ASTEROID",
+        "Small rocky body orbiting the Sun, many found between Mars and Jupiter"
+      ],
+      [
+        "TAIL",
+        "Streaming material extending away from a comet's head"
+      ],
+      [
+        "DUST",
+        "Fine particles released by an active comet"
+      ],
+      [
+        "ICE",
+        "Frozen material present in a comet's nucleus"
+      ],
+      [
+        "ROCK",
+        "Solid mineral material common in an asteroid"
+      ],
+      [
+        "ORBIT",
+        "Curving route followed by a comet around the Sun"
+      ],
+      [
+        "STREAK",
+        "Brief bright line a meteor makes across the sky"
+      ],
+      [
+        "SKY",
+        "Overhead region where a meteor shower is observed"
+      ],
+      [
+        "SUN",
+        "Star whose heat can activate a comet"
+      ],
+      [
+        "GLOW",
+        "Soft or steady light surrounding an active comet's head"
+      ],
+      [
+        "SPACE",
+        "Region where an asteroid travels before approaching Earth"
+      ]
+    ],
+    "answerNotes": {
+      "METEOR": "A meteor is the light phenomenon. The incoming body is a meteoroid, and a surviving piece reaching the ground is a meteorite.",
+      "METEORITE": "A meteorite is material recovered on the ground. It differs from the brief visible meteor seen during atmospheric entry.",
+      "COMET": "A comet can release gas and dust as it approaches the Sun. Its tails do not simply trail behind its direction of travel.",
+      "ASTEROID": "Asteroids are generally rocky bodies. The belt between Mars and Jupiter contains many, though not all, of them.",
+      "TAIL": "The Sun's radiation and solar wind shape comet tails. A tail generally points away from the Sun rather than directly backward along the orbit."
+    },
+    "requiredAnswers": [
+      "METEOR",
+      "COMET"
+    ]
+  }
+]

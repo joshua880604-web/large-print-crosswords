@@ -1,0 +1,392 @@
+[
+  {
+    "id": "classic-american-stops",
+    "title": "A Covered Bridge Visit",
+    "description": "Look over an old-fashioned covered bridge through its timber, roof, supports, and crossing route.",
+    "cardDescription": "Look over an old-fashioned covered bridge through its timber, roof, supports, and crossing route.",
+    "subtheme": "A Covered Bridge Visit",
+    "focus": "A covered bridge encloses the roadway structure with a roof and sides. The clues describe parts of a traditional timber crossing without requiring a construction drawing.",
+    "solvingTip": "Separate a part carrying the load from a part sheltering it. Short river and road words help with the structural terms.",
+    "words": [
+      [
+        "TRUSS",
+        "Framework of connected members supporting many covered bridges"
+      ],
+      [
+        "TIMBER",
+        "Large wood pieces used in a traditional bridge frame"
+      ],
+      [
+        "PORTAL",
+        "Entrance opening at the end of a covered bridge"
+      ],
+      [
+        "ROOF",
+        "Upper covering sheltering a bridge's timber structure"
+      ],
+      [
+        "SPAN",
+        "Bridge section extending between supports"
+      ],
+      [
+        "BRIDGE",
+        "Structure carrying a route over a river or gap"
+      ],
+      [
+        "DECK",
+        "Surface that carries traffic across a bridge"
+      ],
+      [
+        "RIVER",
+        "Flowing water often crossed by a covered bridge"
+      ],
+      [
+        "POST",
+        "Upright support in a wooden structure"
+      ],
+      [
+        "ROAD",
+        "Vehicle route passing through a bridge"
+      ],
+      [
+        "BANK",
+        "Land beside a waterway at the end of a crossing"
+      ],
+      [
+        "ARCH",
+        "Curved supporting structural form"
+      ],
+      [
+        "VIEW",
+        "Scene visible from beside a bridge"
+      ],
+      [
+        "WOOD",
+        "Fibrous tree material used in bridge carpentry"
+      ]
+    ],
+    "answerNotes": {
+      "TRUSS": "A truss supports loads through a connected framework. The roof is a different part covering the structure.",
+      "TIMBER": "Timber is the structural wood. It names a material rather than the complete bridge.",
+      "PORTAL": "The portal is the entrance opening. It is not the entire length of the crossing.",
+      "ROOF": "A roof protects parts of a covered bridge from weather. Its purpose is separate from carrying the roadway load.",
+      "SPAN": "A span is the section between supports. A bridge can have one span or several."
+    },
+    "requiredAnswers": [
+      "TRUSS"
+    ]
+  },
+  {
+    "id": "classic-american-stops-2",
+    "title": "Inside a Lighthouse Museum",
+    "description": "Explore a lighthouse through its beacon, optical parts, and the objects associated with its keeper.",
+    "cardDescription": "Explore a lighthouse through its beacon, optical parts, and the objects associated with its keeper.",
+    "subtheme": "Inside a Lighthouse Museum",
+    "focus": "The clues describe historical lighting and the tower around it. Different lighthouses used different light sources; the puzzle names equipment rather than a current navigation signal.",
+    "solvingTip": "Check whether the clue asks for a whole structure, a light-making part, or a person. Short lamp words help cross longer names.",
+    "words": [
+      [
+        "LIGHTHOUSE",
+        "Coastal tower carrying a light to guide vessels"
+      ],
+      [
+        "FRESNEL",
+        "Surname attached to a famous segmented lighthouse lens"
+      ],
+      [
+        "LENS",
+        "Optical glass element used to direct a lighthouse beam"
+      ],
+      [
+        "KEEPER",
+        "Person traditionally responsible for tending a lighthouse"
+      ],
+      [
+        "BEACON",
+        "Light or signal serving as a navigational guide"
+      ],
+      [
+        "LANTERN",
+        "Glazed chamber at the top of many lighthouse towers"
+      ],
+      [
+        "TOWER",
+        "Tall structure raising a coastal light above its surroundings"
+      ],
+      [
+        "STAIRS",
+        "Series of steps leading upward inside a lighthouse"
+      ],
+      [
+        "LIGHT",
+        "Visible illumination sent toward the sea"
+      ],
+      [
+        "COAST",
+        "Land bordering the sea near a lighthouse"
+      ],
+      [
+        "CLIFF",
+        "Steep rock face on which a coastal tower may stand"
+      ],
+      [
+        "ROOM",
+        "Enclosed space within a lighthouse station"
+      ],
+      [
+        "OIL",
+        "Fuel used in some historical lighthouse lamps"
+      ],
+      [
+        "WICK",
+        "Fiber strip drawing lamp fuel toward a flame"
+      ],
+      [
+        "FLASH",
+        "Brief burst in a light's repeated signal pattern"
+      ]
+    ],
+    "answerNotes": {
+      "LIGHTHOUSE": "A lighthouse carries a navigational light. The museum setting does not imply the building is still operating with its original equipment.",
+      "FRESNEL": "A Fresnel lens uses stepped sections to redirect light while reducing bulk. The name recalls Augustin-Jean Fresnel.",
+      "LENS": "A lens changes the path of light. It is separate from the lamp that produces the light.",
+      "KEEPER": "A keeper cared for the light and station. Many modern lights operate without a resident keeper.",
+      "BEACON": "A beacon is a guiding signal. The tower is the structure that may carry it."
+    },
+    "requiredAnswers": [
+      "LENS",
+      "BEACON"
+    ]
+  },
+  {
+    "id": "classic-american-stops-3",
+    "title": "At the Old Schoolhouse Museum",
+    "description": "Explore a preserved classroom through familiar writing tools, books, and everyday objects.",
+    "cardDescription": "Explore a preserved classroom through familiar writing tools, books, and everyday objects.",
+    "subtheme": "At the Old Schoolhouse Museum",
+    "focus": "This is a museum scene rather than a school worksheet. The clues identify objects used in some earlier classrooms without suggesting that every school used the same furnishings.",
+    "solvingTip": "Look for a writing surface, a teaching object, or a room fitting. Familiar short words can help with the older classroom terms.",
+    "words": [
+      [
+        "SLATE",
+        "Small reusable writing board used in some earlier classrooms"
+      ],
+      [
+        "CHALK",
+        "Soft writing material used on a classroom board"
+      ],
+      [
+        "PRIMER",
+        "Introductory reading book used by a beginning reader"
+      ],
+      [
+        "INKWELL",
+        "Small container supplying ink for a dipping pen"
+      ],
+      [
+        "STOVE",
+        "Heating appliance found in some one-room schoolhouses"
+      ],
+      [
+        "DESK",
+        "Work surface at which a pupil could sit"
+      ],
+      [
+        "BELL",
+        "Ringing instrument used to mark a school session"
+      ],
+      [
+        "LESSON",
+        "Unit of teaching prepared for a class"
+      ],
+      [
+        "READER",
+        "Book containing texts used for reading practice"
+      ],
+      [
+        "SPELL",
+        "To give the letters of a written word in order"
+      ],
+      [
+        "PEN",
+        "Writing implement dipped into an ink supply"
+      ],
+      [
+        "MAP",
+        "Drawing of places displayed for geography lessons"
+      ],
+      [
+        "BOOK",
+        "Bound printed volume kept on a classroom shelf"
+      ],
+      [
+        "ALPHABET",
+        "Ordered set of letters used in a writing system"
+      ]
+    ],
+    "answerNotes": {
+      "SLATE": "A writing slate could be cleaned and reused. Its material and purpose differ from a printed workbook.",
+      "CHALK": "Chalk leaves a mark on a board. It is the writing material rather than the board itself.",
+      "PRIMER": "Primer is a book word here. The same spelling can name a preparatory paint coating in another setting.",
+      "INKWELL": "An inkwell holds writing fluid. It is separate from a pen's point or the paper receiving the marks.",
+      "STOVE": "A stove could heat a classroom. The clue asks for the appliance, not the fuel burned in it."
+    },
+    "requiredAnswers": [
+      "SLATE"
+    ]
+  },
+  {
+    "id": "classic-american-stops-4",
+    "title": "Shelves in a General Store",
+    "description": "Visit a traditional general-store scene through bulk goods, containers, and the counter where purchases were recorded.",
+    "cardDescription": "Visit a traditional general-store scene through bulk goods, containers, and the counter where purchases were recorded.",
+    "subtheme": "Shelves in a General Store",
+    "focus": "The clues identify old-fashioned retail objects rather than brand names or historical prices. A selling container and the goods inside it have different names.",
+    "solvingTip": "Look for a container, a measuring object, or a written record. Short packaging words can help with the longer store fittings.",
+    "words": [
+      [
+        "BARREL",
+        "Large curved-sided wooden container used for bulk store goods"
+      ],
+      [
+        "BOLT",
+        "Roll or folded length of cloth sold from a store counter"
+      ],
+      [
+        "LEDGER",
+        "Book recording a store's accounts"
+      ],
+      [
+        "SCOOP",
+        "Bowl-shaped utensil used to transfer loose store goods"
+      ],
+      [
+        "COUNTER",
+        "Raised shop surface where purchases are handled"
+      ],
+      [
+        "FABRIC",
+        "Cloth sold by length in a general store"
+      ],
+      [
+        "SCALE",
+        "Device used to weigh bulk goods before sale"
+      ],
+      [
+        "CRATE",
+        "Strong open container used to transport store supplies"
+      ],
+      [
+        "BIN",
+        "Open compartment holding loose goods"
+      ],
+      [
+        "JAR",
+        "Rigid container storing small goods or food"
+      ],
+      [
+        "LID",
+        "Removable top on a storage container"
+      ],
+      [
+        "TIN",
+        "Metal container for a store's packaged goods"
+      ],
+      [
+        "SALE",
+        "Exchange of goods for payment"
+      ],
+      [
+        "SOAP",
+        "Cleaning product stocked beside other household supplies"
+      ]
+    ],
+    "answerNotes": {
+      "BARREL": "A barrel is a container in this clue. It is not the hitting section of a baseball bat.",
+      "BOLT": "A bolt of fabric is a commercial length of cloth. It is different from a threaded metal fastener.",
+      "LEDGER": "A ledger holds financial records. It differs from a list of the store's opening hours or the labels on its shelves.",
+      "SCOOP": "A scoop moves loose goods from a bin. It names the utensil rather than one fixed unit of weight.",
+      "COUNTER": "A counter is the retail work surface. It is not a person or device that counts in this clue."
+    },
+    "requiredAnswers": [
+      "LEDGER"
+    ]
+  },
+  {
+    "id": "classic-american-stops-5",
+    "title": "An Evening at the Drive-In",
+    "description": "Explore a drive-in movie through parked cars, the outdoor screen, and the equipment used to show a feature.",
+    "cardDescription": "Explore a drive-in movie through parked cars, the outdoor screen, and the equipment used to show a feature.",
+    "subtheme": "An Evening at the Drive-In",
+    "focus": "This scene concerns watching a film from a vehicle. Older speaker arrangements and radio sound both appear in the vocabulary; individual theaters can use different systems.",
+    "solvingTip": "Separate the picture-making equipment from the sound equipment and the parking space. Short setting words help with the longer theater terms.",
+    "words": [
+      [
+        "PROJECTOR",
+        "Machine casting a film's images onto a drive-in screen"
+      ],
+      [
+        "SPEAKER",
+        "Sound-producing device traditionally hung beside some drive-in cars"
+      ],
+      [
+        "BOOTH",
+        "Small enclosed room housing a cinema's projection equipment"
+      ],
+      [
+        "DOUBLE",
+        "Word completing ___ feature, a program of two movies"
+      ],
+      [
+        "LOT",
+        "Open area where drive-in viewers park their vehicles"
+      ],
+      [
+        "SCREEN",
+        "Large outdoor surface on which a drive-in movie is shown"
+      ],
+      [
+        "CAR",
+        "Road vehicle in which a drive-in viewer sits"
+      ],
+      [
+        "ROW",
+        "Line of parked vehicles facing an outdoor screen"
+      ],
+      [
+        "TICKET",
+        "Admission record for a drive-in showing"
+      ],
+      [
+        "FEATURE",
+        "Main film in a cinema program"
+      ],
+      [
+        "SNACK",
+        "Small food item bought during a movie outing"
+      ],
+      [
+        "TRAY",
+        "Flat support holding a drive-in meal or refreshments"
+      ],
+      [
+        "RADIO",
+        "Car receiver used for sound at some drive-in theaters"
+      ],
+      [
+        "DUSK",
+        "Evening period when daylight is fading"
+      ]
+    ],
+    "answerNotes": {
+      "PROJECTOR": "A projector makes the displayed image. It is separate from the speaker or radio carrying the soundtrack.",
+      "SPEAKER": "Some older drive-ins used individual speakers. Others use radio transmission, so the clue describes a traditional arrangement.",
+      "BOOTH": "A projection booth houses equipment. It differs from a concession counter selling food.",
+      "DOUBLE": "A double feature presents two films. The term describes the program rather than two seats in one car.",
+      "LOT": "A lot is a parking area here. It does not describe a large quantity."
+    },
+    "requiredAnswers": [
+      "PROJECTOR"
+    ]
+  }
+]

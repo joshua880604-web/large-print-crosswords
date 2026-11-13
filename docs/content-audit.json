@@ -1,13 +1,13 @@
 {
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
-    "puzzles": 220,
-    "clueEntries": 2467,
-    "distinctAnswers": 1472,
-    "distinctAnswerCluePairs": 2467,
-    "distinctIntroductions": 220,
+    "puzzles": 300,
+    "clueEntries": 3360,
+    "distinctAnswers": 1859,
+    "distinctAnswerCluePairs": 3360,
+    "distinctIntroductions": 300,
     "numberedTitles": 0,
-    "editedEditions": 220
+    "editedEditions": 300
   },
   "refinedSeries": [
     {
@@ -1329,6 +1329,486 @@
         "An Evening at a Texas Dance Hall",
         "A Road Trip Across Texas"
       ]
+    },
+    {
+      "id": "neighborhood-stops",
+      "name": "Neighborhood Stops",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "neighborhood-stops",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "At the Neighborhood Barber Shop",
+        "At the Shoe Repair Counter",
+        "Outside the Fire Station",
+        "Waiting at the Bus Stop",
+        "At the Corner Newsstand"
+      ]
+    },
+    {
+      "id": "hands-on-hobbies",
+      "name": "Hands-on Hobbies",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "hands-on-hobbies",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Jigsaw on the Table",
+        "A Cross-Stitch Sampler",
+        "Working at a Small Loom",
+        "Beads on the Craft Tray",
+        "Folding an Origami Crane"
+      ]
+    },
+    {
+      "id": "american-landmarks",
+      "name": "American Landmarks",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "american-landmarks",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "The Statue in New York Harbor",
+        "Across the Golden Gate",
+        "A View into the Grand Canyon",
+        "Four Faces at Mount Rushmore",
+        "The Tall Monument on the Mall"
+      ]
+    },
+    {
+      "id": "classic-american-stops",
+      "name": "Classic American Stops",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "classic-american-stops",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "A Covered Bridge Visit",
+        "Inside a Lighthouse Museum",
+        "At the Old Schoolhouse Museum",
+        "Shelves in a General Store",
+        "An Evening at the Drive-In"
+      ]
+    },
+    {
+      "id": "backyard-nature-studies",
+      "name": "Backyard Nature Studies",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "backyard-nature-studies",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Around a Freshwater Pond",
+        "A Honeybee Colony",
+        "Caterpillars and Cocoons",
+        "Bark and Tree Rings",
+        "Animal Tracks in Mud"
+      ]
+    },
+    {
+      "id": "evening-sky",
+      "name": "Evening Sky",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "evening-sky",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.158
+      },
+      "subjects": [
+        "The Moon’s Changing Shape",
+        "Stars and Familiar Sky Patterns",
+        "A Telescope on Its Tripod",
+        "Neighbors in the Solar System",
+        "Meteors and Comets"
+      ]
+    },
+    {
+      "id": "water-and-wildlife",
+      "name": "Water and Wildlife",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "water-and-wildlife",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Birds of the Woodland Edge",
+        "Mammals by the Creek",
+        "Frogs and Their Neighbors",
+        "A Turtle on a Log",
+        "Fish in a River"
+      ]
+    },
+    {
+      "id": "home-inventions",
+      "name": "Home Inventions",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "home-inventions",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "A Telephone on the Hall Table",
+        "A Familiar Film Camera",
+        "The Home Sewing Machine",
+        "A Kitchen Timer and Clock",
+        "Inside a Vacuum Cleaner"
+      ]
+    },
+    {
+      "id": "local-outings",
+      "name": "Local Outings",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "local-outings",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Walk through a Museum",
+        "A Botanical Garden Visit",
+        "At the Neighborhood Craft Fair",
+        "The Community Bandstand",
+        "At the County History Room"
+      ]
+    },
+    {
+      "id": "garden-details",
+      "name": "Garden Details",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "garden-details",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.15
+      },
+      "subjects": [
+        "Compost and Soil",
+        "A Trellis of Garden Peas",
+        "Bulbs and Other Underground Stores",
+        "At the Rose Arbor",
+        "A Patch of Garden Berries"
+      ]
+    },
+    {
+      "id": "kitchen-word-science",
+      "name": "Kitchen Word Science",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "kitchen-word-science",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "Textures at the Table",
+        "Ways to Prepare Vegetables",
+        "A Little Kitchen Chemistry",
+        "The Spice Grinder",
+        "Measuring Liquids"
+      ]
+    },
+    {
+      "id": "clothes-and-fabrics",
+      "name": "Clothes and Fabrics",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "clothes-and-fabrics",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.15
+      },
+      "subjects": [
+        "Patterns in the Closet",
+        "A Button and a Zipper",
+        "The Shape of a Shirt",
+        "Familiar Fabric Names",
+        "A Rainy-Day Outfit"
+      ]
+    },
+    {
+      "id": "weather-and-light-tools",
+      "name": "Weather and Light Tools",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "weather-and-light-tools",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.158
+      },
+      "subjects": [
+        "Reading a Thermometer",
+        "A Compass in the Hand",
+        "Weather Instruments at a Glance",
+        "Light and Shadows",
+        "Magnets on the Fridge"
+      ]
+    },
+    {
+      "id": "everyday-wordplay",
+      "name": "Everyday Wordplay",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "everyday-wordplay",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Words That Sound Alike",
+        "Words for Groups",
+        "Everyday American Spellings",
+        "A Word About Time",
+        "Sounds Around the House"
+      ]
+    },
+    {
+      "id": "recreation-room",
+      "name": "Recreation Room",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "recreation-room",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "A Friendly Game of Bingo",
+        "A Round of Shuffleboard",
+        "Mini Golf by the Park",
+        "A Pitch of Horseshoes",
+        "A Friendly Cribbage Board"
+      ]
+    },
+    {
+      "id": "simple-machines",
+      "name": "Simple Machines",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "simple-machines",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.15
+      },
+      "subjects": [
+        "Levers and Lifting",
+        "A Pulley and a Rope",
+        "Wheels and Axles",
+        "Gears at Work",
+        "Ramps and Screws"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -1390,6 +1870,19 @@
       "sameSeries": false
     },
     {
+      "first": "evening-sky-3",
+      "second": "home-inventions-2",
+      "sharedAnswers": [
+        "TRIPOD",
+        "IMAGE",
+        "FOCUS",
+        "LENS",
+        "CAP"
+      ],
+      "jaccard": 0.278,
+      "sameSeries": false
+    },
+    {
       "first": "movie-night",
       "second": "ballpark-baseball-5",
       "sharedAnswers": [
@@ -1413,6 +1906,18 @@
         "ALTO"
       ],
       "jaccard": 0.278,
+      "sameSeries": false
+    },
+    {
+      "first": "backyard-nature-studies",
+      "second": "water-and-wildlife-3",
+      "sharedAnswers": [
+        "TADPOLE",
+        "POND",
+        "NEWT",
+        "EGG"
+      ],
+      "jaccard": 0.235,
       "sameSeries": false
     },
     {
@@ -1476,6 +1981,18 @@
       "sameSeries": false
     },
     {
+      "first": "treasured-collections-3",
+      "second": "home-inventions-2",
+      "sharedAnswers": [
+        "CAMERA",
+        "FOCUS",
+        "FRAME",
+        "LENS"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
       "first": "treasured-collections-5",
       "second": "american-history-scenes-2",
       "sharedAnswers": [
@@ -1524,6 +2041,18 @@
       "sameSeries": false
     },
     {
+      "first": "geography-journeys-2",
+      "second": "american-landmarks-3",
+      "sharedAnswers": [
+        "PLATEAU",
+        "TRAIL",
+        "CLIFF",
+        "ROCK"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
       "first": "music-memories-5",
       "second": "instrument-families-3",
       "sharedAnswers": [
@@ -1533,54 +2062,6 @@
         "REED"
       ],
       "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "team-sports-3",
-      "second": "winter-comforts-3",
-      "sharedAnswers": [
-        "SKATE",
-        "GLOVE",
-        "RINK",
-        "ICE"
-      ],
-      "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "thanksgiving-together-5",
-      "second": "calendar-celebrations-2",
-      "sharedAnswers": [
-        "KINDNESS",
-        "FRIEND",
-        "SHARE",
-        "NOTE"
-      ],
-      "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "a-stitch-in-time-2",
-      "second": "autumn-walk-4",
-      "sharedAnswers": [
-        "SWEATER",
-        "MITTEN",
-        "SCARF",
-        "KNIT"
-      ],
-      "jaccard": 0.2,
-      "sameSeries": false
-    },
-    {
-      "first": "flower-favorites",
-      "second": "garden-days-5",
-      "sharedAnswers": [
-        "SPROUT",
-        "SHOOT",
-        "SEED",
-        "ROOT"
-      ],
-      "jaccard": 0.2,
       "sameSeries": false
     }
   ],
@@ -2112,6 +2593,198 @@
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
       "highestAnswerJaccard": 0
+    },
+    {
+      "id": "neighborhood-stops",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "hands-on-hobbies",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "american-landmarks",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "classic-american-stops",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "backyard-nature-studies",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "evening-sky",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.158
+    },
+    {
+      "id": "water-and-wildlife",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "home-inventions",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "local-outings",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "garden-details",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.15
+    },
+    {
+      "id": "kitchen-word-science",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
+    },
+    {
+      "id": "clothes-and-fabrics",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.15
+    },
+    {
+      "id": "weather-and-light-tools",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.158
+    },
+    {
+      "id": "everyday-wordplay",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "recreation-room",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
+    },
+    {
+      "id": "simple-machines",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.15
     }
   ]
 }

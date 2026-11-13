@@ -1,0 +1,410 @@
+[
+  {
+    "id": "local-outings",
+    "title": "A Walk through a Museum",
+    "description": "Visit a museum gallery through the words for displays, descriptive signs, and the people who help visitors understand them.",
+    "cardDescription": "Visit a museum gallery through the words for displays, descriptive signs, and the people who help visitors understand them.",
+    "subtheme": "A Walk through a Museum",
+    "focus": "A museum object, the room around it, and the information beside it serve different roles. Several ordinary words acquire a specific meaning in this visitor setting.",
+    "solvingTip": "Decide whether the definition asks for a person, an object, a place, or written information. That choice narrows the longer answers.",
+    "words": [
+      [
+        "DOCENT",
+        "Museum guide who explains collections to visitors"
+      ],
+      [
+        "ARTIFACT",
+        "Object made or used by people and preserved for study"
+      ],
+      [
+        "GALLERY",
+        "Museum room or area where works are displayed"
+      ],
+      [
+        "LABEL",
+        "Small written panel identifying a museum object"
+      ],
+      [
+        "MODEL",
+        "Small-scale representation used to explain a larger subject"
+      ],
+      [
+        "EXHIBIT",
+        "Single presented object or organized museum presentation"
+      ],
+      [
+        "CASE",
+        "Protective glass enclosure around a museum item"
+      ],
+      [
+        "DISPLAY",
+        "Arrangement of objects presented for museum visitors to see"
+      ],
+      [
+        "GUIDE",
+        "Person or booklet helping a visitor follow a museum route"
+      ],
+      [
+        "TICKET",
+        "Admission document checked at a museum entrance"
+      ],
+      [
+        "MAP",
+        "Diagram showing the locations of museum rooms"
+      ],
+      [
+        "ROOM",
+        "Separate enclosed space within the museum building"
+      ],
+      [
+        "HALL",
+        "Large passage or entrance space inside a museum"
+      ],
+      [
+        "VISITOR",
+        "Person who comes to view a museum's collections"
+      ]
+    ],
+    "answerNotes": {
+      "DOCENT": "A docent guides or teaches visitors. The term describes a role and does not by itself specify whether the person is paid or a volunteer.",
+      "ARTIFACT": "An artifact is an object connected with human activity. It differs from a purely natural specimen such as an unworked mineral.",
+      "GALLERY": "Gallery can name an exhibition space. It is different from the label beside an individual object.",
+      "LABEL": "A label often gives an object's name, maker, date, or context. It is information about the item rather than the item itself.",
+      "MODEL": "A model represents something else. A museum may use one to show a building, machine, or historical scene."
+    },
+    "requiredAnswers": [
+      "DOCENT"
+    ]
+  },
+  {
+    "id": "local-outings-2",
+    "title": "A Botanical Garden Visit",
+    "description": "Stroll among plant collections and learn the names used for distinctive growth forms and garden structures.",
+    "cardDescription": "Stroll among plant collections and learn the names used for distinctive growth forms and garden structures.",
+    "subtheme": "A Botanical Garden Visit",
+    "focus": "A botanical garden groups plants for display and study. The clues distinguish related plant categories, including cacti within the larger succulent grouping and bamboo within the grasses.",
+    "solvingTip": "Use the defining plant feature or structure. A storage habit, a leaf shape, and a growing shelter lead to different answers.",
+    "words": [
+      [
+        "GREENHOUSE",
+        "Glass or translucent building used to grow protected plants"
+      ],
+      [
+        "SUCCULENT",
+        "Plant with fleshy tissue adapted to storing water"
+      ],
+      [
+        "CACTUS",
+        "Succulent plant group whose members have specialized areoles"
+      ],
+      [
+        "FERN",
+        "Frond-bearing plant that reproduces by spores rather than seeds"
+      ],
+      [
+        "BAMBOO",
+        "Tall jointed-stemmed plant belonging to the grass family"
+      ],
+      [
+        "ORCHID",
+        "Flowering plant group including moth ___ varieties"
+      ],
+      [
+        "PALM",
+        "Tree or shrub group often bearing large fanlike or featherlike leaves"
+      ],
+      [
+        "MOSS",
+        "Small nonflowering plant forming soft green mats"
+      ],
+      [
+        "BED",
+        "Prepared planting area beside a garden path"
+      ],
+      [
+        "LABEL",
+        "Plant-identification marker beside a botanical specimen"
+      ],
+      [
+        "PATH",
+        "Walking route through the garden's collections"
+      ],
+      [
+        "SEED",
+        "Reproductive structure from which a flowering plant can grow"
+      ],
+      [
+        "FROND",
+        "Large divided leaf of a fern or palm"
+      ],
+      [
+        "TROPICAL",
+        "Describing plants native to warm regions near the equator"
+      ]
+    ],
+    "answerNotes": {
+      "GREENHOUSE": "A greenhouse provides a protected growing environment. Its temperature and growing conditions depend on its design and operation.",
+      "SUCCULENT": "Many succulents store water in leaves or stems. Cacti are one succulent group, but not every succulent is a cactus.",
+      "CACTUS": "Areoles are the characteristic structures from which cactus spines, branches, or flowers can develop. Some cacti have few or no obvious spines.",
+      "FERN": "Ferns reproduce using spores. They do not produce flowers and seeds in the way flowering garden plants do.",
+      "BAMBOO": "Bamboo is a grass despite its woody-looking stems. The growth form can make that relationship surprising."
+    },
+    "requiredAnswers": [
+      "GREENHOUSE"
+    ]
+  },
+  {
+    "id": "local-outings-3",
+    "title": "At the Neighborhood Craft Fair",
+    "description": "Browse a local fair through handmade objects, market spaces, and the everyday vocabulary of buying a small gift.",
+    "cardDescription": "Browse a local fair through handmade objects, market spaces, and the everyday vocabulary of buying a small gift.",
+    "subtheme": "At the Neighborhood Craft Fair",
+    "focus": "This scene centers on makers and their work rather than a particular holiday. Material and process words help distinguish a finished object from the craft used to create it.",
+    "solvingTip": "A clue may name what an object is made from, how it is produced, or where it is sold. Use the category to find the answer.",
+    "words": [
+      [
+        "POTTERY",
+        "Objects shaped from clay and hardened by firing"
+      ],
+      [
+        "WEAVING",
+        "Craft of interlacing strands to make a fabric or basket surface"
+      ],
+      [
+        "STALL",
+        "Small open selling space at a fair"
+      ],
+      [
+        "CANDLE",
+        "Wax object with a wick, often sold by a craft maker"
+      ],
+      [
+        "PRINT",
+        "Artwork made by transferring an inked image to paper"
+      ],
+      [
+        "BOOTH",
+        "Vendor's enclosed or partly enclosed stand at a craft fair"
+      ],
+      [
+        "CRAFT",
+        "Skilled activity producing a handmade decorative or useful object"
+      ],
+      [
+        "SOAP",
+        "Cleansing bar a maker may scent and wrap by hand"
+      ],
+      [
+        "WOOD",
+        "Material carved or turned by a fair's furniture maker"
+      ],
+      [
+        "BASKET",
+        "Woven container offered at a handmade-goods stall"
+      ],
+      [
+        "CARD",
+        "Folded paper greeting decorated by a local maker"
+      ],
+      [
+        "PRICE",
+        "Amount shown on a craft item's sales tag"
+      ],
+      [
+        "CASH",
+        "Physical money used to pay at a market stall"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "YARN",
+        "Spun strand sold by a fiber artist at a craft fair"
+      ],
+      [
+        "ART",
+        "Creative work displayed by a local maker"
+      ],
+      [
+        "BEAD",
+        "Small pierced decorative piece used in handmade jewelry"
+      ],
+      [
+        "TOY",
+        "Handmade plaything offered at a woodworker's stall"
+      ],
+      [
+        "SIGN",
+        "Written notice naming a fair vendor or a price"
+      ]
+    ],
+    "answerNotes": {
+      "POTTERY": "Pottery begins with clay and is hardened by firing. The word can also refer to the craft or a workshop producing it.",
+      "WEAVING": "Weaving crosses sets of strands. Knitting instead forms fabric through interlocking loops.",
+      "STALL": "A stall is a vendor's selling space. Its exact construction can range from a simple table to a more substantial enclosure.",
+      "CANDLE": "The wick carries melted wax to the flame when a candle burns. The finished object is different from a bar of decorative soap.",
+      "PRINT": "A print is produced through a transfer process. The term differs from an original drawing made directly on the sheet.",
+      "YARN": "Yarn is a continuous strand of fibers used in crafts such as knitting and weaving. It is a material rather than a finished garment.",
+      "ART": "Art names creative work here. The clue uses a broad category rather than a particular material or technique.",
+      "BEAD": "A bead commonly has a hole allowing it to be threaded. It is one component of a handmade ornament rather than the whole accessory."
+    },
+    "requiredAnswers": [
+      "POTTERY"
+    ]
+  },
+  {
+    "id": "local-outings-4",
+    "title": "The Community Bandstand",
+    "description": "Picture a public park concert through its open-air performance structure, surrounding paths, and audience.",
+    "cardDescription": "Picture a public park concert through its open-air performance structure, surrounding paths, and audience.",
+    "subtheme": "The Community Bandstand",
+    "focus": "A bandstand provides a place for performers, while nearby park features serve walkers and listeners. Some structures have several shapes, so the clues focus on use rather than an assumed number of sides.",
+    "solvingTip": "Read the role of each park feature. A roofed structure, a boundary, and a place to sit ask for different objects.",
+    "words": [
+      [
+        "BANDSTAND",
+        "Raised outdoor platform or structure for musical performances"
+      ],
+      [
+        "GAZEBO",
+        "Open-sided roofed garden or park shelter"
+      ],
+      [
+        "RAILING",
+        "Protective barrier along the edge of a raised platform"
+      ],
+      [
+        "APPLAUSE",
+        "Audience's clapping after a park performance"
+      ],
+      [
+        "CONCERT",
+        "Musical performance presented to an audience"
+      ],
+      [
+        "ROOF",
+        "Overhead covering sheltering the park musicians"
+      ],
+      [
+        "STEP",
+        "Single level climbed to reach a raised stage"
+      ],
+      [
+        "PARK",
+        "Public green space containing this performance area"
+      ],
+      [
+        "LAWN",
+        "Area of closely cut grass where listeners may gather"
+      ],
+      [
+        "BENCH",
+        "Long outdoor seat beside the concert lawn"
+      ],
+      [
+        "PATH",
+        "Walkway leading toward the performance shelter"
+      ],
+      [
+        "MUSIC",
+        "Organized sound heard from the community ensemble"
+      ],
+      [
+        "PICNIC",
+        "Outdoor meal enjoyed before a park performance"
+      ],
+      [
+        "FLAG",
+        "Fabric emblem flying near a public park's entrance"
+      ]
+    ],
+    "answerNotes": {
+      "BANDSTAND": "A bandstand is intended for performers. It may have a roof, but its purpose rather than one fixed shape defines it.",
+      "GAZEBO": "A gazebo is a shelter or viewpoint. Gazebos can have different shapes and do not all have eight sides.",
+      "RAILING": "A railing forms a barrier beside an edge or stair. It is distinct from the roof overhead.",
+      "APPLAUSE": "Applause is a response from listeners. It differs from the music produced by the performers.",
+      "CONCERT": "A concert describes an event, while a bandstand is the place that may host it."
+    },
+    "requiredAnswers": [
+      "BANDSTAND"
+    ]
+  },
+  {
+    "id": "local-outings-5",
+    "title": "At the County History Room",
+    "description": "Explore local history through records, photographs, and the filing words used to organize a community collection.",
+    "cardDescription": "Explore local history through records, photographs, and the filing words used to organize a community collection.",
+    "subtheme": "At the County History Room",
+    "focus": "Different records preserve different evidence. A census, a deed, and a diary have separate purposes, while indexes and folders help a visitor find material within a collection.",
+    "solvingTip": "Match the document with its job. A population record is different from a land document or a person’s daily account.",
+    "words": [
+      [
+        "CENSUS",
+        "Official count of a population, often preserved as historical records"
+      ],
+      [
+        "ARCHIVE",
+        "Collection or repository of preserved records"
+      ],
+      [
+        "DEED",
+        "Legal document associated with transferring property ownership"
+      ],
+      [
+        "DIARY",
+        "Personal written account arranged by days"
+      ],
+      [
+        "INDEX",
+        "Alphabetical or other ordered guide to names or subjects in records"
+      ],
+      [
+        "RECORD",
+        "Preserved document providing evidence of an event"
+      ],
+      [
+        "MAP",
+        "Drawn representation of a county's roads or boundaries"
+      ],
+      [
+        "PHOTO",
+        "Short word for an image captured by a camera"
+      ],
+      [
+        "LETTER",
+        "Written personal message preserved in a history collection"
+      ],
+      [
+        "DATE",
+        "Calendar identification of when a document was created"
+      ],
+      [
+        "COPY",
+        "Reproduction made from an original historical document"
+      ],
+      [
+        "FOLDER",
+        "Paper holder keeping related records together"
+      ],
+      [
+        "CLERK",
+        "Official or employee maintaining public documents"
+      ],
+      [
+        "COUNTY",
+        "Local governmental area whose history fills this room"
+      ]
+    ],
+    "answerNotes": {
+      "CENSUS": "A census records population information at a particular time. Its questions and surviving records vary by place and period.",
+      "ARCHIVE": "An archive holds records kept for their continuing value. The word can name either the collection or the place maintaining it.",
+      "DEED": "A deed concerns property rights. It is different from a general map showing where land lies.",
+      "DIARY": "A diary records an individual's observations or activities. It provides a different perspective from an official population count.",
+      "INDEX": "An index helps locate information within a larger collection. It is not itself necessarily the original historical document."
+    },
+    "requiredAnswers": [
+      "CENSUS"
+    ]
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "id": "water-and-wildlife",
+    "title": "Birds of the Woodland Edge",
+    "description": "Meet familiar North American birds through direct clues about names, calls, and characteristic behavior.",
+    "cardDescription": "Meet familiar North American birds through direct clues about names, calls, and characteristic behavior.",
+    "subtheme": "Birds of the Woodland Edge",
+    "focus": "Bird names can be more dependable than a color alone, since appearance changes with species, age, and sex. These clues use recognizable behavior or a clearly completed common name.",
+    "solvingTip": "Try a completed bird name or a characteristic action first. Use the shorter bird words to help cross the longer names.",
+    "words": [
+      [
+        "WOODPECKER",
+        "Bird that drills into wood with a strong pointed bill"
+      ],
+      [
+        "NUTHATCH",
+        "Small bird known for climbing headfirst down tree trunks"
+      ],
+      [
+        "CHICKADEE",
+        "Small bird whose name echoes its chick-a-dee call"
+      ],
+      [
+        "WAXWING",
+        "Crested bird named for waxlike red tips on some wing feathers"
+      ],
+      [
+        "TOWHEE",
+        "Ground-foraging bird whose name is often pronounced toe-hee"
+      ],
+      [
+        "BLUEBIRD",
+        "Eastern ___, familiar small thrush associated with nest boxes"
+      ],
+      [
+        "ORIOLE",
+        "Baltimore ___, songbird whose adult male is orange and black"
+      ],
+      [
+        "FINCH",
+        "Small seed-eating songbird, as in house ___"
+      ],
+      [
+        "WREN",
+        "Small songbird often seen holding its tail cocked upward"
+      ],
+      [
+        "JAY",
+        "Blue ___, crested woodland bird with a loud call"
+      ],
+      [
+        "CROW",
+        "Large black bird with a familiar cawing call"
+      ],
+      [
+        "ROBIN",
+        "American ___, common thrush with an orange-red breast"
+      ],
+      [
+        "TREE",
+        "Tall woody plant providing a woodland bird's perch"
+      ],
+      [
+        "SONG",
+        "Patterned vocal sound made by many birds"
+      ]
+    ],
+    "answerNotes": {
+      "WOODPECKER": "Woodpeckers use their bills for feeding and other activities. Their drilling behavior is a stronger clue than a single plumage color.",
+      "NUTHATCH": "Nuthatches often work downward along bark. This behavior distinguishes the clue from a generic tree-climbing bird.",
+      "CHICKADEE": "Chickadees are named for a recognizable call. Several North American species belong to this familiar group.",
+      "WAXWING": "The red tips give waxwings their name. The tips are feather features rather than actual drops of wax.",
+      "TOWHEE": "Towhees are sparrows often seen scratching in leaf litter. The pronunciation cue supports an otherwise less familiar spelling."
+    },
+    "requiredAnswers": [
+      "CHICKADEE",
+      "NUTHATCH"
+    ]
+  },
+  {
+    "id": "water-and-wildlife-2",
+    "title": "Mammals by the Creek",
+    "description": "Explore the words for streamside mammals, their homes, and the movements they make in and around the water.",
+    "cardDescription": "Explore the words for streamside mammals, their homes, and the movements they make in and around the water.",
+    "subtheme": "Mammals by the Creek",
+    "focus": "These clues distinguish animals from the structures they occupy. A beaver may build a dam and a lodge, while several other mammals also live along stream banks without building either one.",
+    "solvingTip": "A home, a barrier, and an animal are different kinds of answers. Let the definition’s category guide your first letters.",
+    "words": [
+      [
+        "BEAVER",
+        "Broad-tailed rodent known for cutting wood and building dams"
+      ],
+      [
+        "OTTER",
+        "Streamlined swimming mammal often seen sliding into water"
+      ],
+      [
+        "MUSKRAT",
+        "Semiaquatic rodent smaller than a beaver, with a narrow tail"
+      ],
+      [
+        "LODGE",
+        "Domed home built by beavers from branches and other materials"
+      ],
+      [
+        "DAM",
+        "Barrier a beaver may build across flowing water"
+      ],
+      [
+        "MINK",
+        "Slender dark-furred mammal that hunts along waterways"
+      ],
+      [
+        "BANK",
+        "Land bordering the side of a creek"
+      ],
+      [
+        "FUR",
+        "Hairy body covering of a streamside mammal"
+      ],
+      [
+        "TAIL",
+        "Rear body extension used for balance or swimming"
+      ],
+      [
+        "PAW",
+        "Foot of an otter or mink"
+      ],
+      [
+        "SWIM",
+        "To move through water using the body and limbs"
+      ],
+      [
+        "DIVE",
+        "To plunge beneath the water's surface"
+      ],
+      [
+        "DEN",
+        "Sheltered resting or breeding place of a wild mammal"
+      ],
+      [
+        "TRACK",
+        "Foot impression left by a creekside animal"
+      ]
+    ],
+    "answerNotes": {
+      "BEAVER": "Beavers can modify waterways with dams, but not every beaver colony builds one. The broad flattened tail is another useful feature.",
+      "OTTER": "An otter is a mammal adapted to aquatic life. It differs from a beaver in both body shape and its usual feeding habits.",
+      "MUSKRAT": "A muskrat is a rodent, as a beaver is. Its tail is narrow rather than broad and paddle-shaped.",
+      "LODGE": "A lodge is a dwelling. A dam is a barrier that holds water back, so the two structures have different functions.",
+      "DAM": "A dam can raise the water level. It is not the same structure as the lodge in which a beaver family lives."
+    },
+    "requiredAnswers": [
+      "BEAVER"
+    ]
+  },
+  {
+    "id": "water-and-wildlife-3",
+    "title": "Frogs and Their Neighbors",
+    "description": "Learn the names and body features of amphibians often associated with damp places and freshwater.",
+    "cardDescription": "Learn the names and body features of amphibians often associated with damp places and freshwater.",
+    "subtheme": "Frogs and Their Neighbors",
+    "focus": "Typical frog development provides a familiar example, but amphibian life cycles are diverse. The clues use qualified descriptions rather than assuming every member of the group develops in the same way.",
+    "solvingTip": "Decide whether a clue describes the whole animal, an early life stage, or a body part. Watch the distinction between a broad group and one member.",
+    "words": [
+      [
+        "AMPHIBIAN",
+        "Animal group containing frogs, toads, and salamanders"
+      ],
+      [
+        "TOAD",
+        "Name often used for a squat, warty-skinned kind of frog"
+      ],
+      [
+        "SALAMANDER",
+        "Long-bodied amphibian usually retaining a tail as an adult"
+      ],
+      [
+        "GILLS",
+        "Breathing structures used by many aquatic amphibian young"
+      ],
+      [
+        "SKIN",
+        "Body covering through which many amphibians exchange gases"
+      ],
+      [
+        "FROG",
+        "Amphibian typically having long hind legs for jumping"
+      ],
+      [
+        "NEWT",
+        "Kind of salamander often associated with a pond"
+      ],
+      [
+        "TADPOLE",
+        "Young frog in its familiar aquatic stage"
+      ],
+      [
+        "LEGS",
+        "Limbs that develop as a typical frog matures"
+      ],
+      [
+        "EGG",
+        "Starting life stage laid by a frog"
+      ],
+      [
+        "WATER",
+        "Liquid habitat used by many amphibian young"
+      ],
+      [
+        "CROAK",
+        "Low call commonly associated with a frog"
+      ],
+      [
+        "POND",
+        "Still freshwater habitat used by many breeding frogs"
+      ],
+      [
+        "TAIL",
+        "Rear extension retained by an adult newt"
+      ]
+    ],
+    "answerNotes": {
+      "AMPHIBIAN": "Amphibians include several distinct groups. Many have aquatic young, but their life cycles have important exceptions.",
+      "TOAD": "Toads are within the broader frog group. The familiar distinction is not a division into two unrelated animal groups.",
+      "SALAMANDER": "Salamanders usually keep a tail as adults. Adult frogs typically do not.",
+      "GILLS": "Many tadpoles use gills. Some salamanders retain gills as adults, so the feature does not belong only to young animals.",
+      "SKIN": "Amphibian skin can play a role in gas exchange. This is different from saying that all their breathing occurs through the skin."
+    },
+    "requiredAnswers": [
+      "AMPHIBIAN"
+    ]
+  },
+  {
+    "id": "water-and-wildlife-4",
+    "title": "A Turtle on a Log",
+    "description": "Distinguish the upper and lower parts of a turtle’s shell while exploring familiar reptile vocabulary.",
+    "cardDescription": "Distinguish the upper and lower parts of a turtle’s shell while exploring familiar reptile vocabulary.",
+    "subtheme": "A Turtle on a Log",
+    "focus": "The shell is part of a turtle’s body. Its sections have specific names, and a land-dwelling tortoise is a kind of turtle rather than an unrelated animal.",
+    "solvingTip": "Use position clues for the shell terms. Upper and lower name different structures; a body covering and an animal group are different answers.",
+    "words": [
+      [
+        "CARAPACE",
+        "Upper shell section on a turtle's back"
+      ],
+      [
+        "PLASTRON",
+        "Lower shell section beneath a turtle's body"
+      ],
+      [
+        "SCUTE",
+        "One of the horny plates covering many turtles' shells"
+      ],
+      [
+        "TORTOISE",
+        "Land-dwelling turtle typically having sturdy walking legs"
+      ],
+      [
+        "REPTILE",
+        "Animal group containing turtles, snakes, and lizards"
+      ],
+      [
+        "TURTLE",
+        "Shelled reptile that may bask on a floating log"
+      ],
+      [
+        "SHELL",
+        "Hard protective body structure surrounding a turtle's trunk"
+      ],
+      [
+        "SCALE",
+        "Small overlapping skin plate on a reptile's leg"
+      ],
+      [
+        "LOG",
+        "Fallen length of wood used as a basking perch"
+      ],
+      [
+        "POND",
+        "Freshwater setting for a painted turtle"
+      ],
+      [
+        "SUN",
+        "Source of warmth for a turtle basking outdoors"
+      ],
+      [
+        "CLAW",
+        "Curved nail at the end of a turtle's toe"
+      ],
+      [
+        "EGG",
+        "Shelled reproductive structure laid by a female turtle"
+      ],
+      [
+        "NECK",
+        "Body section connecting a turtle's head and trunk"
+      ]
+    ],
+    "answerNotes": {
+      "CARAPACE": "The carapace is the upper shell. The plastron forms the lower portion beneath the body.",
+      "PLASTRON": "Plastron names the underside of the shell. It is not a separate removable covering.",
+      "SCUTE": "Many turtle shells have scutes, though some turtles have softer skin-covered shells. The clue therefore does not apply to every species.",
+      "TORTOISE": "A tortoise is a type of turtle. The word commonly distinguishes terrestrial forms from more aquatic relatives.",
+      "REPTILE": "A turtle is a reptile. It is not an amphibian merely because many turtles spend time in water."
+    },
+    "requiredAnswers": [
+      "CARAPACE"
+    ]
+  },
+  {
+    "id": "water-and-wildlife-5",
+    "title": "Fish in a River",
+    "description": "Identify familiar freshwater fish and the parts and movements associated with life in flowing water.",
+    "cardDescription": "Identify familiar freshwater fish and the parts and movements associated with life in flowing water.",
+    "subtheme": "Fish in a River",
+    "focus": "Fish differ in body coverings and feeding features. The clues avoid treating every species alike and distinguish an animal’s name from the water feature or body part around it.",
+    "solvingTip": "Use the distinctive feature or completed common name for a fish. Short body-part words can supply crossings for the longer names.",
+    "words": [
+      [
+        "CATFISH",
+        "Freshwater fish named for whiskerlike feelers around its mouth"
+      ],
+      [
+        "TROUT",
+        "Spotted freshwater fish, as in rainbow ___"
+      ],
+      [
+        "PIKE",
+        "Long-bodied predatory freshwater fish with a pointed snout"
+      ],
+      [
+        "GILL",
+        "Breathing structure that extracts dissolved oxygen from water"
+      ],
+      [
+        "SCALE",
+        "Thin protective plate covering the skin of many fish"
+      ],
+      [
+        "BASS",
+        "Largemouth ___, familiar American freshwater game fish"
+      ],
+      [
+        "PERCH",
+        "Yellow ___, freshwater fish with dark vertical bars"
+      ],
+      [
+        "CARP",
+        "Freshwater fish, as in common ___, often with barbels near its mouth"
+      ],
+      [
+        "FIN",
+        "Body appendage helping a fish steer or move"
+      ],
+      [
+        "TAIL",
+        "Rear swimming structure of a fish"
+      ],
+      [
+        "CURRENT",
+        "Flowing movement of water in a river"
+      ],
+      [
+        "STREAM",
+        "Small natural flowing watercourse"
+      ],
+      [
+        "EGG",
+        "Reproductive cell laid by many freshwater fish"
+      ],
+      [
+        "SWIM",
+        "To move through a river using fins and body motion"
+      ]
+    ],
+    "answerNotes": {
+      "CATFISH": "Those feelers are barbels rather than mammalian whisker hairs. They help explain the familiar name.",
+      "TROUT": "Rainbow trout is a familiar species name. The completed name is more specific than a general description of a spotted fish.",
+      "PIKE": "Pike are predatory fish. Their elongated body and snout distinguish this clue from other common freshwater names.",
+      "GILL": "A gill obtains oxygen dissolved in water. Fish are not separating oxygen from the chemical structure of water molecules.",
+      "SCALE": "Many fish have scales, but some do not have the familiar overlapping covering. Catfish are one reason not to generalize to every fish."
+    },
+    "requiredAnswers": [
+      "CATFISH"
+    ]
+  }
+]
