@@ -27,3 +27,29 @@ test('print copies and missing pages are excluded from indexing',async({page,req
  const missing=await request.get('/this-puzzle-does-not-exist/');expect(missing.status()).toEqual(404);expect(await missing.text()).toContain('noindex,follow');
  const response=await request.get('/robots.txt');expect(await response.text()).toContain('Sitemap: https://largeprintcrosswords.com/sitemap.xml');
 });
+
+test('collections keep every puzzle crawlable without scripts and load compact previews',async({browser,request})=>{
+ const context=await browser.newContext({javaScriptEnabled:false}),page=await context.newPage();
+ try{
+  for(const path of ['/crosswords/','/printable/']){
+   await page.goto(path);
+   await expect(page.locator('a.puzzle-card')).toHaveCount(puzzles.length);
+   const links=await page.locator('a.puzzle-card').evaluateAll(anchors=>anchors.map(a=>a.getAttribute('href')));
+   expect(links.sort()).toEqual(puzzles.map(p=>`/crosswords/${p.id}/`).sort());
+   await expect(page.locator('.puzzle-card .mini-cell')).toHaveCount(0);
+   await expect(page.locator('.puzzle-card img[loading="lazy"][alt=""]')).toHaveCount(puzzles.length);
+  }
+  // A rectangular preview must keep its real board geometry and clue numbers.
+  const puzzle=puzzles.find(p=>p.rows!==p.cols)!;
+  const response=await request.get(`/previews/${puzzle.id}-v${puzzle.revision||1}.svg`);
+  expect(response.status()).toBe(200);expect(response.headers()['content-type']).toContain('image/svg+xml');
+  const svg=await response.text();
+  expect(svg).toContain(`viewBox="0 0 ${puzzle.cols*24} ${puzzle.rows*24}"`);
+  const starts=new Set(puzzle.entries.map(e=>e.number));
+  expect([...svg.matchAll(/<text\b[^>]*>(\d+)<\/text>/g)].map(m=>Number(m[1])).sort((a,b)=>a-b)).toEqual([...starts].sort((a,b)=>a-b));
+  const image=page.locator(`.puzzle-card[href="/crosswords/${puzzle.id}/"] img`);
+  await image.scrollIntoViewIfNeeded();
+  await expect(image).toHaveJSProperty('complete',true);
+  expect(await image.evaluate(el=>(el as HTMLImageElement).naturalWidth)).toBe(puzzle.cols*24);
+ }finally{await context.close();}
+});

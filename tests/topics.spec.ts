@@ -10,6 +10,7 @@ test('sports collection offers adult everyday topics with playable and print lin
  await page.getByRole('link',{name:/A Round of Golf/}).first().click();
  await expect(page).toHaveURL(/\/crosswords\/leisure-sports\/$/);
  await expect(page.getByRole('link',{name:'Print this puzzle →'})).toHaveAttribute('href','/print/leisure-sports/');
+ await expect(page.getByRole('link',{name:'Explore more sports crosswords →'})).toHaveAttribute('href','/sports-crosswords/');
 });
 
 test('music collection combines existing and new subjects and appears in the sitemap',async({page,request})=>{
@@ -20,6 +21,8 @@ test('music collection combines existing and new subjects and appears in the sit
  await expect(page.locator('link[rel=canonical]')).toHaveAttribute('href','https://largeprintcrosswords.com/music-crosswords/');
  const map=await(await request.get('/sitemap.xml')).text();
  expect(map).toContain('/music-crosswords/');expect(map).toContain('/sports-crosswords/');
+ await page.getByRole('link',{name:/Inside a Guitar Case/}).click();
+ await expect(page.getByRole('link',{name:'Explore more music crosswords →'})).toHaveAttribute('href','/music-crosswords/');
 });
 
 for(const topic of [
