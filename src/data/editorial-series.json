@@ -435,5 +435,49 @@
     "gridSize": 11,
     "minEntries": 10,
     "revision": 1
+  },
+  {
+    "id": "geography-journeys",
+    "name": "Geography",
+    "theme": "Geography",
+    "source": "geography-journeys-editorial.json",
+    "seed": 20710000,
+    "attempts": 10000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "state-capital-stops",
+    "name": "State Capitals",
+    "theme": "State Capitals",
+    "source": "state-capital-stops-editorial.json",
+    "seed": 21210000,
+    "attempts": 10000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "american-history-scenes",
+    "name": "American History",
+    "theme": "American History",
+    "source": "american-history-scenes-editorial.json",
+    "seed": 21710000,
+    "attempts": 10000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
+  },
+  {
+    "id": "texas-scenes",
+    "name": "Texas",
+    "theme": "Texas",
+    "source": "texas-scenes-editorial.json",
+    "seed": 22210000,
+    "attempts": 10000,
+    "gridSize": 11,
+    "minEntries": 10,
+    "revision": 1
   }
 ]

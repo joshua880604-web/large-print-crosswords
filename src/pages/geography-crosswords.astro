@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import puzzles from '../data/puzzles.json';
+const selected=puzzles.filter(p=>['geography-journeys','state-capital-stops'].includes(p.series||''));
+const capitals=selected.filter(p=>p.series==='state-capital-stops');
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Geography',path:'/geography-crosswords/'}];
+---
+<Layout title="Geography & State Capital Crossword Puzzles in Large Print" description="Explore free large print geography and US state capital crosswords. Follow maps, rivers and coasts, or try regional capital-city puzzles online and in print." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Geography</span></nav>
+<header class="page-heading"><p class="eyebrow">PLACES TO EXPLORE · LETTERS TO ENJOY</p><h1>Geography crosswords in large print.</h1><p>Explore {selected.length} mini crosswords about maps, landscapes, and US state capitals. Choose a topic, play with hints, or print a puzzle and separate answers.</p></header>
+<Collection items={selected}/>
+<div class="prose"><h2>Choose a landscape or a capital-city trip</h2><p>The landscape puzzles describe map symbols, mountain shapes, river connections, coastal features, and dry-country plants. They use direct definitions rather than a list of obscure place names. Notice whether a clue asks for land, water, a direction, or a map feature.</p>
+<h2 id="state-capitals">US state capital crossword puzzles</h2><p>Five capital-city puzzles group stops into manageable routes. State names provide the main clues, and a few map or civic words help with crossings. A capital is the city where state government is based; a capitol is a legislative building. The capital need not be the state's largest city.</p><ul>{capitals.map(p=><li><a href={`/crosswords/${p.id}/`}>{p.title}</a></li>)}</ul>
+<p>For multiword names, the clue says when to omit spaces or supply just part of a city name. These regional routes are puzzle groupings, not an official classification of the states. Start with a place you recognize and use Reveal letter when a city is unfamiliar.</p>
+<h2>Paper or screen, at your own pace</h2><p>Every puzzle has large letters, a solving tip, and three optional answer explanations. Print the clue sheet for paper play and keep the separate answer sheet aside until needed. There is no timer or account requirement.</p></div>
+<div class="section"><TopicLinks/></div></div>
+</Layout>

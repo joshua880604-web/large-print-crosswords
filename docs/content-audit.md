@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 200 current puzzles; 2251 clue entries.
-- 1333 distinct answers; 2251 distinct answer/clue pairs.
-- 200 different introductions; 0 numbered titles remain.
-- 200 editions have dedicated subject notes and answer explanations.
+- 220 current puzzles; 2467 clue entries.
+- 1472 distinct answers; 2467 distinct answer/clue pairs.
+- 220 different introductions; 0 numbered titles remain.
+- 220 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -349,11 +349,39 @@ Subjects: A Bowl of Citrus, A Basket of Berries, On the Spice Shelf, Herbs at th
 
 Subjects: Pages in a Stamp Album, Coins in a Collector’s Tray, An Album of Family Photographs, Postcards Kept from a Journey, A Model Railway Layout.
 
+## Geography: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Reading an American Road Map, Mountains and Valleys, Following Rivers and Lakes, Along the American Coast, Desert Landscapes of the Southwest.
+
+## State Capitals: five first editions
+
+- 52 clues; 52 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Capital Stops in the Northeast, Capital Stops in the Southeast, Capital Stops in the Midwest, Capital Stops in the South Central States, Capital Stops in the West.
+
+## American History: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Printing the News in 1776, Joining the Rails at Promontory, Letters and Telegraph Messages, The Wright Brothers Take Flight, Working Along the Erie Canal.
+
+## Texas: five first editions
+
+- 53 clues; 53 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Morning on a Texas Ranch, Texas Wildflowers in Spring, Pecan Pie at the Texas Table, An Evening at a Texas Dance Hall, A Road Trip Across Texas.
+
 The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 200 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 220 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -397,5 +425,9 @@ All 200 current puzzles have dedicated editorial content. Continue reviewing clu
 | everyday-meals | 56 | 56 | 5 | 0 |
 | fruit-and-flavor | 56 | 56 | 5 | 0 |
 | treasured-collections | 56 | 56 | 5 | 0 |
+| geography-journeys | 56 | 56 | 5 | 0 |
+| state-capital-stops | 52 | 52 | 5 | 0 |
+| american-history-scenes | 55 | 55 | 5 | 0 |
+| texas-scenes | 53 | 53 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

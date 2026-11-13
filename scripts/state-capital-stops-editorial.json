@@ -1,0 +1,388 @@
+[
+  {
+    "id": "state-capital-stops",
+    "title": "Capital Stops in the Northeast",
+    "description": "Visit state capitals from New England to the Mid-Atlantic, with a few map and civic words to help the crossings.",
+    "cardDescription": "Visit state capitals from New England to the Mid-Atlantic, with a few map and civic words to help the crossings.",
+    "subtheme": "Capital Stops in the Northeast",
+    "focus": "Most clues name a state and ask for its capital. These are state seats of government, which need not be the largest or best-known city in the state.",
+    "solvingTip": "Start with a capital you recognize, then use crossing letters for a less familiar city. Hints remain available for place names.",
+    "words": [
+      [
+        "BOSTON",
+        "State capital of Massachusetts"
+      ],
+      [
+        "ALBANY",
+        "State capital of New York"
+      ],
+      [
+        "AUGUSTA",
+        "State capital of Maine"
+      ],
+      [
+        "CONCORD",
+        "State capital of New Hampshire"
+      ],
+      [
+        "CAPITOL",
+        "Building where a state legislature meets"
+      ],
+      [
+        "MONTPELIER",
+        "State capital of Vermont"
+      ],
+      [
+        "PROVIDENCE",
+        "State capital of Rhode Island"
+      ],
+      [
+        "HARTFORD",
+        "State capital of Connecticut"
+      ],
+      [
+        "TRENTON",
+        "State capital of New Jersey"
+      ],
+      [
+        "HARRISBURG",
+        "State capital of Pennsylvania"
+      ],
+      [
+        "DOVER",
+        "State capital of Delaware"
+      ],
+      [
+        "MAP",
+        "Drawing used to locate these northeastern cities"
+      ],
+      [
+        "STATE",
+        "One of the fifty US political units whose capitals are clued"
+      ],
+      [
+        "SEAT",
+        "Government center, in the phrase county or state ___"
+      ]
+    ],
+    "answerNotes": {
+      "BOSTON": "Boston is the capital of Massachusetts. The clue asks for a city, not the state's name.",
+      "ALBANY": "Albany is New York State's capital. New York City is larger but is not the state capital.",
+      "AUGUSTA": "Augusta is Maine's capital. Portland is another Maine city, but it is not the seat of state government.",
+      "CONCORD": "Concord is the capital of New Hampshire. Its spelling is the same as an ordinary word meaning agreement.",
+      "CAPITOL": "Capitol with an o names the legislative building. Capital with an a names the city in the geography clues."
+    }
+  },
+  {
+    "id": "state-capital-stops-2",
+    "title": "Capital Stops in the Southeast",
+    "description": "Trace southeastern state capitals and practice distinguishing a capital city from a government building.",
+    "cardDescription": "Trace southeastern state capitals and practice distinguishing a capital city from a government building.",
+    "subtheme": "Capital Stops in the Southeast",
+    "focus": "The state names provide the main hints. A few short civic and direction words give entry points around the longer city names.",
+    "solvingTip": "Read each state name carefully. A familiar city from the same state may be a tempting answer, but the clue asks for the capital.",
+    "words": [
+      [
+        "ATLANTA",
+        "State capital of Georgia"
+      ],
+      [
+        "RALEIGH",
+        "State capital of North Carolina"
+      ],
+      [
+        "COLUMBIA",
+        "State capital of South Carolina"
+      ],
+      [
+        "RICHMOND",
+        "State capital of Virginia"
+      ],
+      [
+        "CAPITAL",
+        "City serving as the seat of a state's government"
+      ],
+      [
+        "ANNAPOLIS",
+        "State capital of Maryland"
+      ],
+      [
+        "CHARLESTON",
+        "State capital of West Virginia"
+      ],
+      [
+        "FRANKFORT",
+        "State capital of Kentucky"
+      ],
+      [
+        "NASHVILLE",
+        "State capital of Tennessee"
+      ],
+      [
+        "TALLAHASSEE",
+        "State capital of Florida"
+      ],
+      [
+        "MONTGOMERY",
+        "State capital of Alabama"
+      ],
+      [
+        "SOUTH",
+        "Compass direction suggested by this southeastern region"
+      ],
+      [
+        "CITY",
+        "Type of place named by a state-capital answer"
+      ],
+      [
+        "CIVIC",
+        "Relating to a city or its public affairs"
+      ]
+    ],
+    "answerNotes": {
+      "ATLANTA": "Atlanta is Georgia's capital. A state-capital clue asks where the state government is based.",
+      "RALEIGH": "Raleigh is North Carolina's capital. Charlotte is a different North Carolina city, not the state capital.",
+      "COLUMBIA": "Columbia is the capital of South Carolina. It should not be confused with Columbus, which is Ohio's capital.",
+      "RICHMOND": "Richmond is Virginia's capital. The city named by a state clue is different from the federal capital, Washington, DC.",
+      "CAPITAL": "Capital ends in al and names a city in these clues. Capitol ends in ol and names a legislature's building."
+    }
+  },
+  {
+    "id": "state-capital-stops-3",
+    "title": "Capital Stops in the Midwest",
+    "description": "Cross the Midwest through state-capital clues, including several cities that are easily confused with larger neighbors.",
+    "cardDescription": "Cross the Midwest through state-capital clues, including several cities that are easily confused with larger neighbors.",
+    "subtheme": "Capital Stops in the Midwest",
+    "focus": "These clues name capital cities in the Midwest and central United States. Long place names have direct state clues, and shorter regional words can help you enter the board.",
+    "solvingTip": "Use the number of squares to check a long city name. Spaces in multiword answers are omitted from the grid.",
+    "words": [
+      [
+        "LANSING",
+        "State capital of Michigan"
+      ],
+      [
+        "MADISON",
+        "State capital of Wisconsin"
+      ],
+      [
+        "COLUMBUS",
+        "State capital of Ohio"
+      ],
+      [
+        "DESMOINES",
+        "State capital of Iowa, with spaces omitted"
+      ],
+      [
+        "BISMARCK",
+        "State capital of North Dakota"
+      ],
+      [
+        "SAINTPAUL",
+        "State capital of Minnesota, with spaces omitted"
+      ],
+      [
+        "PIERRE",
+        "State capital of South Dakota"
+      ],
+      [
+        "LINCOLN",
+        "State capital of Nebraska"
+      ],
+      [
+        "TOPEKA",
+        "State capital of Kansas"
+      ],
+      [
+        "SPRINGFIELD",
+        "State capital of Illinois"
+      ],
+      [
+        "PRAIRIE",
+        "Broad grassland associated with parts of the central United States"
+      ],
+      [
+        "PLAIN",
+        "Large area of relatively level land"
+      ],
+      [
+        "CENTER",
+        "Middle location, as suggested by the central states"
+      ],
+      [
+        "NORTH",
+        "Direction opposite south on a Midwest road map"
+      ],
+      [
+        "EAST",
+        "Compass direction opposite west on a central-state map"
+      ],
+      [
+        "LAKE",
+        "Inland body of water shown on a regional map"
+      ],
+      [
+        "LAND",
+        "Solid surface represented by most of a state map"
+      ],
+      [
+        "LINE",
+        "Mark separating state areas on a map"
+      ]
+    ],
+    "answerNotes": {
+      "LANSING": "Lansing is Michigan's capital. Detroit is larger but is not the state capital.",
+      "MADISON": "Madison is Wisconsin's capital. The familiar city name Milwaukee answers a different location question.",
+      "COLUMBUS": "Columbus is Ohio's capital. Its final us distinguishes it from Columbia, South Carolina's capital.",
+      "DESMOINES": "Des Moines is written as two words in ordinary text. The crossword places DESMOINES in one uninterrupted run of squares.",
+      "BISMARCK": "Bismarck is North Dakota's capital. Fargo is a different city in the state."
+    }
+  },
+  {
+    "id": "state-capital-stops-4",
+    "title": "Capital Stops in the South Central States",
+    "description": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
+    "cardDescription": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
+    "subtheme": "Capital Stops in the South Central States",
+    "focus": "This route groups several south-central and neighboring capitals rather than presenting an official regional boundary. City clues name their states directly.",
+    "solvingTip": "Do not assume that the most famous city is the capital. For a two-word city, write the letters together without a blank square.",
+    "words": [
+      [
+        "AUSTIN",
+        "State capital of Texas"
+      ],
+      [
+        "BATONROUGE",
+        "State capital of Louisiana, with spaces omitted"
+      ],
+      [
+        "JACKSON",
+        "State capital of Mississippi"
+      ],
+      [
+        "LITTLEROCK",
+        "State capital of Arkansas, with spaces omitted"
+      ],
+      [
+        "INDIANA",
+        "State whose capital is Indianapolis"
+      ],
+      [
+        "DENVER",
+        "State capital of Colorado"
+      ],
+      [
+        "CHEYENNE",
+        "State capital of Wyoming"
+      ],
+      [
+        "SANTAFE",
+        "State capital of New Mexico, with spaces omitted"
+      ],
+      [
+        "JEFFERSON",
+        "First word of Missouri's capital, ___ City"
+      ],
+      [
+        "OKLAHOMA",
+        "State-name word completing ___ City, the Sooner State's capital"
+      ],
+      [
+        "RIVER",
+        "Flowing waterway that can pass through a capital city"
+      ],
+      [
+        "ROAD",
+        "Surface route linking stops on a capital-city trip"
+      ],
+      [
+        "ATLAS",
+        "Book containing maps for locating these cities"
+      ],
+      [
+        "REGION",
+        "Area grouped by location or shared features"
+      ]
+    ],
+    "answerNotes": {
+      "AUSTIN": "Austin is Texas's capital. Houston and Dallas are larger cities, but neither is the state capital.",
+      "BATONROUGE": "Baton Rouge is Louisiana's capital. New Orleans is a different Louisiana city; the two words of Baton Rouge run together in the grid.",
+      "JACKSON": "Jackson is Mississippi's capital. The direct state name in the clue identifies which place named Jackson is intended.",
+      "LITTLEROCK": "Little Rock is written as two words outside the puzzle. The answer uses all ten letters without a space.",
+      "INDIANA": "Indiana is the state; Indianapolis is its capital. The clue deliberately asks for the state name, which fits a shorter answer."
+    }
+  },
+  {
+    "id": "state-capital-stops-5",
+    "title": "Capital Stops in the West",
+    "description": "Head west through capital-city clues, with map directions and landscape words to open the crossings.",
+    "cardDescription": "Head west through capital-city clues, with map directions and landscape words to open the crossings.",
+    "subtheme": "Capital Stops in the West",
+    "focus": "These place clues cover western states, including Alaska and Hawaii. A two-word capital can appear without spaces, while a clue may explicitly ask for just one part of a name.",
+    "solvingTip": "A city famous for tourism or business is not always the capital. Check the state clue and the answer length before entering it.",
+    "words": [
+      [
+        "SALEM",
+        "State capital of Oregon"
+      ],
+      [
+        "OLYMPIA",
+        "State capital of Washington"
+      ],
+      [
+        "SACRAMENTO",
+        "State capital of California"
+      ],
+      [
+        "PHOENIX",
+        "State capital of Arizona"
+      ],
+      [
+        "HONOLULU",
+        "State capital of Hawaii"
+      ],
+      [
+        "BOISE",
+        "State capital of Idaho"
+      ],
+      [
+        "HELENA",
+        "State capital of Montana"
+      ],
+      [
+        "JUNEAU",
+        "State capital of Alaska"
+      ],
+      [
+        "CARSONCITY",
+        "State capital of Nevada, with spaces omitted"
+      ],
+      [
+        "SALTLAKE",
+        "First two words of Utah's capital, ___ City"
+      ],
+      [
+        "WEST",
+        "Direction opposite east on a map of these states"
+      ],
+      [
+        "PACIFIC",
+        "Ocean bordering the US West Coast"
+      ],
+      [
+        "COAST",
+        "Land bordering an ocean along the western states"
+      ],
+      [
+        "ISLAND",
+        "Water-surrounded landform found in Hawaii"
+      ]
+    ],
+    "answerNotes": {
+      "SALEM": "Salem is Oregon's capital. Portland is a larger Oregon city but is not the state capital.",
+      "OLYMPIA": "Olympia is Washington State's capital. Washington, DC is the federal capital and is a different place.",
+      "SACRAMENTO": "Sacramento is California's capital. Neither Los Angeles nor San Francisco is the state capital.",
+      "PHOENIX": "Phoenix is the capital of Arizona. The same spelling also names a legendary bird, but the clue here is geographic.",
+      "HONOLULU": "Honolulu is Hawaii's capital, on the island of Oahu. The answer names a city rather than the island or the state."
+    }
+  }
+]

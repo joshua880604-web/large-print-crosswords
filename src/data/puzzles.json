@@ -24606,5 +24606,2393 @@
         }
       ]
     }
+  },
+  {
+    "id": "geography-journeys",
+    "title": "Reading an American Road Map",
+    "theme": "Geography",
+    "subtheme": "Reading an American Road Map",
+    "series": "geography-journeys",
+    "description": "Unfold a road map and explore directions, symbols, routes, and the scale that puts distances in perspective.",
+    "cardDescription": "Unfold a road map and explore directions, symbols, routes, and the scale that puts distances in perspective.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 8,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "LEGEND",
+        "clue": "Map key that explains the meaning of its symbols",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BORDER",
+        "clue": "Line separating two states on a political map",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SOUTH",
+        "clue": "Direction opposite north when reading a map",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ATLAS",
+        "clue": "Bound collection of maps for looking up places",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SCALE",
+        "clue": "Map feature relating a drawn distance to a real one",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "NORTH",
+        "clue": "Direction opposite south on a road map",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "WEST",
+        "clue": "Direction opposite east on a compass rose",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "GRID",
+        "clue": "Network of crossing reference lines on a map",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "EAST",
+        "clue": "Direction to the right of north on a standard compass rose",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "MILE",
+        "clue": "US road-distance unit equal to 5280 feet",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "MAP",
+        "clue": "Drawing that shows where roads and places are located",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "This map-reading puzzle uses practical navigation words. A symbol stands for something on the ground, while a scale relates map distance to real distance.",
+      "solvingTip": "Separate a direction from a map feature. The clue will tell you whether to look for a line, a sign, or a way to measure.",
+      "answerNotes": [
+        {
+          "answer": "LEGEND",
+          "text": "A legend explains symbols. It differs from a compass rose, which shows directions."
+        },
+        {
+          "answer": "SCALE",
+          "text": "Scale lets a reader compare map distance with ground distance. It does not show traffic conditions or travel time."
+        },
+        {
+          "answer": "MAP",
+          "text": "A map selects information for a purpose. A road map emphasizes routes and settlements rather than showing every object on the ground."
+        }
+      ]
+    }
+  },
+  {
+    "id": "geography-journeys-2",
+    "title": "Mountains and Valleys",
+    "theme": "Geography",
+    "subtheme": "Mountains and Valleys",
+    "series": "geography-journeys",
+    "description": "Look across peaks, ridges, slopes, and valleys through clear definitions of the shapes of the land.",
+    "cardDescription": "Look across peaks, ridges, slopes, and valleys through clear definitions of the shapes of the land.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FOOTHILL",
+        "clue": "Lower hill near the base of a mountain range",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "PLATEAU",
+        "clue": "Broad elevated area with a relatively level surface",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SUMMIT",
+        "clue": "Highest point reached on a mountain",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CANYON",
+        "clue": "Deep narrow valley with steep sides",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "Marked or worn path for walking through mountain country",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CLIFF",
+        "clue": "Steep exposed face of rock beside higher ground",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "RANGE",
+        "clue": "Connected chain or group of mountains",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SLOPE",
+        "clue": "Inclined side of a hill or mountain",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PASS",
+        "clue": "Low crossing route through a mountain range",
+        "row": 9,
+        "col": 7,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "ROCK",
+        "clue": "Natural solid material making up a cliff face",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "PEAK",
+        "clue": "Pointed top rising above the surrounding mountain slopes",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "These landform clues focus on shape and position. A summit is a high point, a ridge extends along a height, and a valley lies between higher ground.",
+      "solvingTip": "Picture the outline of each feature before trying its name. A crossing letter can distinguish several short landscape words.",
+      "answerNotes": [
+        {
+          "answer": "PLATEAU",
+          "text": "A plateau has both elevation and a comparatively level top. Flatness alone does not make low land a plateau."
+        },
+        {
+          "answer": "SUMMIT",
+          "text": "A summit is a mountain's highest point. A ridge can contain several high points along its length."
+        },
+        {
+          "answer": "PASS",
+          "text": "A mountain pass provides a lower route between higher areas. It is a land feature rather than a ticket in this clue."
+        }
+      ]
+    }
+  },
+  {
+    "id": "geography-journeys-3",
+    "title": "Following Rivers and Lakes",
+    "theme": "Geography",
+    "subtheme": "Following Rivers and Lakes",
+    "series": "geography-journeys",
+    "description": "Follow water from a river source toward its mouth, stopping at banks, channels, and lakes along the way.",
+    "cardDescription": "Follow water from a river source toward its mouth, stopping at banks, channels, and lakes along the way.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CURRENT",
+        "clue": "Movement of water along a river channel",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CHANNEL",
+        "clue": "Passage through which a river's water flows",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SOURCE",
+        "clue": "Starting place from which a river flows",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ISLAND",
+        "clue": "Land completely surrounded by water",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "RAPIDS",
+        "clue": "Fast turbulent stretch of a river over an uneven bed",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "STREAM",
+        "clue": "Small flowing watercourse that may join a river",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SHORE",
+        "clue": "Land along the edge of a lake",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "DELTA",
+        "clue": "Deposited landform that can form at a river mouth",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LAKE",
+        "clue": "Inland body of standing water surrounded by land",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BANK",
+        "clue": "Land immediately along the side of a river",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "DAM",
+        "clue": "Barrier built to hold back or control flowing water",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "The clues distinguish a waterway from its parts and connections. Flow direction gives words such as upstream and downstream their meaning.",
+      "solvingTip": "Notice whether the clue describes the start of a river, its side, its flow, or where it ends.",
+      "answerNotes": [
+        {
+          "answer": "SOURCE",
+          "text": "A source is a river's beginning. It is upstream from its mouth, even when the river flows south to north."
+        },
+        {
+          "answer": "DELTA",
+          "text": "A delta forms where sediment accumulates near a river's outlet. Not every river mouth has a delta."
+        },
+        {
+          "answer": "BANK",
+          "text": "A river bank borders the channel. In this clue it is neither a financial business nor the entire river valley."
+        }
+      ]
+    }
+  },
+  {
+    "id": "geography-journeys-4",
+    "title": "Along the American Coast",
+    "theme": "Geography",
+    "subtheme": "Along the American Coast",
+    "series": "geography-journeys",
+    "description": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
+    "cardDescription": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PENINSULA",
+        "clue": "Land surrounded by water on most sides but joined to a mainland",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "HEADLAND",
+        "clue": "Prominent high land projecting into coastal water",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ESTUARY",
+        "clue": "Coastal area where river water mixes with seawater",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "HARBOR",
+        "clue": "Sheltered coastal water where vessels can anchor",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "INLET",
+        "clue": "Narrow opening leading from the sea into coastal land",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BEACH",
+        "clue": "Coastal strip of sand or pebbles beside the water",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CAPE",
+        "clue": "Point of land extending into a sea or lake",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "REEF",
+        "clue": "Ridge of rock or coral at or near the water surface",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PORT",
+        "clue": "Coastal town or facility where ships load and unload",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "DUNE",
+        "clue": "Mound or ridge of sand shaped by wind",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TIDE",
+        "clue": "Regular rise and fall of sea level along the coast",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BAY",
+        "clue": "Inlet where coastal water reaches into the land",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "Coastal words describe both land and water. Some clues ask about a shape, while others describe a movement or a place where boats gather.",
+      "solvingTip": "Check which side of the shoreline the clue describes. A bay is water extending into land; a peninsula is land extending into water.",
+      "answerNotes": [
+        {
+          "answer": "PENINSULA",
+          "text": "A peninsula remains connected to a larger land area. An island has water all around it."
+        },
+        {
+          "answer": "HEADLAND",
+          "text": "A headland projects outward from the coast. Its position can make it more exposed to waves than a sheltered bay."
+        },
+        {
+          "answer": "ESTUARY",
+          "text": "An estuary is a meeting place for fresh and salt water. Tides often influence its water levels and mixing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "geography-journeys-5",
+    "title": "Desert Landscapes of the Southwest",
+    "theme": "Geography",
+    "subtheme": "Desert Landscapes of the Southwest",
+    "series": "geography-journeys",
+    "description": "Explore dry-country landforms and plants through direct clues about mesas, washes, rocks, and desert growth.",
+    "cardDescription": "Explore dry-country landforms and plants through direct clues about mesas, washes, rocks, and desert growth.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "ARROYO",
+        "clue": "Usually dry Southwest channel that carries water after rain",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "AGAVE",
+        "clue": "Rosette-forming succulent with thick pointed leaves",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SCRUB",
+        "clue": "Low scattered woody growth in dry country",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "YUCCA",
+        "clue": "Plant with swordlike leaves and tall stalks of flowers",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "OASIS",
+        "clue": "Water-supported green area within an arid region",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SAND",
+        "clue": "Loose grains that may collect in desert dunes",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "WASH",
+        "clue": "Dry streambed that may fill during rain in the Southwest",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "ARID",
+        "clue": "Very dry, as a climate with little precipitation",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MESA",
+        "clue": "Isolated flat-topped hill with steep sides",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "ROCK",
+        "clue": "Exposed solid stone visible on a desert slope",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SAGE",
+        "clue": "Aromatic plant name used for several dry-country shrubs",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "This Southwest landscape puzzle introduces a few regional words with direct definitions. Desert means very low precipitation, not necessarily constant heat.",
+      "solvingTip": "Look for a plant, a dry channel, or a landform. Several longer regional terms can be built from shorter crossing answers.",
+      "answerNotes": [
+        {
+          "answer": "ARROYO",
+          "text": "An arroyo is a channel, not a permanent lake. It may be dry much of the time and carry water during runoff."
+        },
+        {
+          "answer": "OASIS",
+          "text": "An oasis has a local water supply that supports growth. It does not mean an entire desert receives abundant rain."
+        },
+        {
+          "answer": "MESA",
+          "text": "A mesa is a tablelike landform. Its relatively broad top distinguishes it from a smaller butte in common geographic usage."
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-capital-stops",
+    "title": "Capital Stops in the Northeast",
+    "theme": "State Capitals",
+    "subtheme": "Capital Stops in the Northeast",
+    "series": "state-capital-stops",
+    "description": "Visit state capitals from New England to the Mid-Atlantic, with a few map and civic words to help the crossings.",
+    "cardDescription": "Visit state capitals from New England to the Mid-Atlantic, with a few map and civic words to help the crossings.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PROVIDENCE",
+        "clue": "State capital of Rhode Island",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MONTPELIER",
+        "clue": "State capital of Vermont",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TRENTON",
+        "clue": "State capital of New Jersey",
+        "row": 3,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CONCORD",
+        "clue": "State capital of New Hampshire",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CAPITOL",
+        "clue": "Building where a state legislature meets",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ALBANY",
+        "clue": "State capital of New York",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BOSTON",
+        "clue": "State capital of Massachusetts",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "STATE",
+        "clue": "One of the fifty US political units whose capitals are clued",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "DOVER",
+        "clue": "State capital of Delaware",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SEAT",
+        "clue": "Government center, in the phrase county or state ___",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "MAP",
+        "clue": "Drawing used to locate these northeastern cities",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      }
+    ],
+    "editorial": {
+      "focus": "Most clues name a state and ask for its capital. These are state seats of government, which need not be the largest or best-known city in the state.",
+      "solvingTip": "Start with a capital you recognize, then use crossing letters for a less familiar city. Hints remain available for place names.",
+      "answerNotes": [
+        {
+          "answer": "CONCORD",
+          "text": "Concord is the capital of New Hampshire. Its spelling is the same as an ordinary word meaning agreement."
+        },
+        {
+          "answer": "CAPITOL",
+          "text": "Capitol with an o names the legislative building. Capital with an a names the city in the geography clues."
+        },
+        {
+          "answer": "ALBANY",
+          "text": "Albany is New York State's capital. New York City is larger but is not the state capital."
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-capital-stops-2",
+    "title": "Capital Stops in the Southeast",
+    "theme": "State Capitals",
+    "subtheme": "Capital Stops in the Southeast",
+    "series": "state-capital-stops",
+    "description": "Trace southeastern state capitals and practice distinguishing a capital city from a government building.",
+    "cardDescription": "Trace southeastern state capitals and practice distinguishing a capital city from a government building.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "TALLAHASSEE",
+        "clue": "State capital of Florida",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CHARLESTON",
+        "clue": "State capital of West Virginia",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ANNAPOLIS",
+        "clue": "State capital of Maryland",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "COLUMBIA",
+        "clue": "State capital of South Carolina",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "RALEIGH",
+        "clue": "State capital of North Carolina",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CAPITAL",
+        "clue": "City serving as the seat of a state's government",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ATLANTA",
+        "clue": "State capital of Georgia",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SOUTH",
+        "clue": "Compass direction suggested by this southeastern region",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CIVIC",
+        "clue": "Relating to a city or its public affairs",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "CITY",
+        "clue": "Type of place named by a state-capital answer",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "The state names provide the main hints. A few short civic and direction words give entry points around the longer city names.",
+      "solvingTip": "Read each state name carefully. A familiar city from the same state may be a tempting answer, but the clue asks for the capital.",
+      "answerNotes": [
+        {
+          "answer": "COLUMBIA",
+          "text": "Columbia is the capital of South Carolina. It should not be confused with Columbus, which is Ohio's capital."
+        },
+        {
+          "answer": "RALEIGH",
+          "text": "Raleigh is North Carolina's capital. Charlotte is a different North Carolina city, not the state capital."
+        },
+        {
+          "answer": "CAPITAL",
+          "text": "Capital ends in al and names a city in these clues. Capitol ends in ol and names a legislature's building."
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-capital-stops-3",
+    "title": "Capital Stops in the Midwest",
+    "theme": "State Capitals",
+    "subtheme": "Capital Stops in the Midwest",
+    "series": "state-capital-stops",
+    "description": "Cross the Midwest through state-capital clues, including several cities that are easily confused with larger neighbors.",
+    "cardDescription": "Cross the Midwest through state-capital clues, including several cities that are easily confused with larger neighbors.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "SAINTPAUL",
+        "clue": "State capital of Minnesota, with spaces omitted",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "DESMOINES",
+        "clue": "State capital of Iowa, with spaces omitted",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BISMARCK",
+        "clue": "State capital of North Dakota",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "LINCOLN",
+        "clue": "State capital of Nebraska",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MADISON",
+        "clue": "State capital of Wisconsin",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CENTER",
+        "clue": "Middle location, as suggested by the central states",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "NORTH",
+        "clue": "Direction opposite south on a Midwest road map",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PLAIN",
+        "clue": "Large area of relatively level land",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LINE",
+        "clue": "Mark separating state areas on a map",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "LAKE",
+        "clue": "Inland body of water shown on a regional map",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "EAST",
+        "clue": "Compass direction opposite west on a central-state map",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "These clues name capital cities in the Midwest and central United States. Long place names have direct state clues, and shorter regional words can help you enter the board.",
+      "solvingTip": "Use the number of squares to check a long city name. Spaces in multiword answers are omitted from the grid.",
+      "answerNotes": [
+        {
+          "answer": "DESMOINES",
+          "text": "Des Moines is written as two words in ordinary text. The crossword places DESMOINES in one uninterrupted run of squares."
+        },
+        {
+          "answer": "BISMARCK",
+          "text": "Bismarck is North Dakota's capital. Fargo is a different city in the state."
+        },
+        {
+          "answer": "MADISON",
+          "text": "Madison is Wisconsin's capital. The familiar city name Milwaukee answers a different location question."
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-capital-stops-4",
+    "title": "Capital Stops in the South Central States",
+    "theme": "State Capitals",
+    "subtheme": "Capital Stops in the South Central States",
+    "series": "state-capital-stops",
+    "description": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
+    "cardDescription": "Travel through southern and nearby state capitals, using a few river and map words as crossing helpers.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BATONROUGE",
+        "clue": "State capital of Louisiana, with spaces omitted",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "OKLAHOMA",
+        "clue": "State-name word completing ___ City, the Sooner State's capital",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CHEYENNE",
+        "clue": "State capital of Wyoming",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "JACKSON",
+        "clue": "State capital of Mississippi",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SANTAFE",
+        "clue": "State capital of New Mexico, with spaces omitted",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "AUSTIN",
+        "clue": "State capital of Texas",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DENVER",
+        "clue": "State capital of Colorado",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "RIVER",
+        "clue": "Flowing waterway that can pass through a capital city",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ATLAS",
+        "clue": "Book containing maps for locating these cities",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ROAD",
+        "clue": "Surface route linking stops on a capital-city trip",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      }
+    ],
+    "editorial": {
+      "focus": "This route groups several south-central and neighboring capitals rather than presenting an official regional boundary. City clues name their states directly.",
+      "solvingTip": "Do not assume that the most famous city is the capital. For a two-word city, write the letters together without a blank square.",
+      "answerNotes": [
+        {
+          "answer": "BATONROUGE",
+          "text": "Baton Rouge is Louisiana's capital. New Orleans is a different Louisiana city; the two words of Baton Rouge run together in the grid."
+        },
+        {
+          "answer": "JACKSON",
+          "text": "Jackson is Mississippi's capital. The direct state name in the clue identifies which place named Jackson is intended."
+        },
+        {
+          "answer": "AUSTIN",
+          "text": "Austin is Texas's capital. Houston and Dallas are larger cities, but neither is the state capital."
+        }
+      ]
+    }
+  },
+  {
+    "id": "state-capital-stops-5",
+    "title": "Capital Stops in the West",
+    "theme": "State Capitals",
+    "subtheme": "Capital Stops in the West",
+    "series": "state-capital-stops",
+    "description": "Head west through capital-city clues, with map directions and landscape words to open the crossings.",
+    "cardDescription": "Head west through capital-city clues, with map directions and landscape words to open the crossings.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CARSONCITY",
+        "clue": "State capital of Nevada, with spaces omitted",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SACRAMENTO",
+        "clue": "State capital of California",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HONOLULU",
+        "clue": "State capital of Hawaii",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PHOENIX",
+        "clue": "State capital of Arizona",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "OLYMPIA",
+        "clue": "State capital of Washington",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "ISLAND",
+        "clue": "Water-surrounded landform found in Hawaii",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "JUNEAU",
+        "clue": "State capital of Alaska",
+        "row": 10,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BOISE",
+        "clue": "State capital of Idaho",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SALEM",
+        "clue": "State capital of Oregon",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "WEST",
+        "clue": "Direction opposite east on a map of these states",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "These place clues cover western states, including Alaska and Hawaii. A two-word capital can appear without spaces, while a clue may explicitly ask for just one part of a name.",
+      "solvingTip": "A city famous for tourism or business is not always the capital. Check the state clue and the answer length before entering it.",
+      "answerNotes": [
+        {
+          "answer": "SACRAMENTO",
+          "text": "Sacramento is California's capital. Neither Los Angeles nor San Francisco is the state capital."
+        },
+        {
+          "answer": "HONOLULU",
+          "text": "Honolulu is Hawaii's capital, on the island of Oahu. The answer names a city rather than the island or the state."
+        },
+        {
+          "answer": "PHOENIX",
+          "text": "Phoenix is the capital of Arizona. The same spelling also names a legendary bird, but the clue here is geographic."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-history-scenes",
+    "title": "Printing the News in 1776",
+    "theme": "American History",
+    "subtheme": "Printing the News in 1776",
+    "series": "american-history-scenes",
+    "description": "Explore the printed documents, tools, and public announcements associated with American independence.",
+    "cardDescription": "Explore the printed documents, tools, and public announcements associated with American independence.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "DECLARATION",
+        "clue": "Document announcing the colonies' independence in 1776",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "BROADSIDE",
+        "clue": "Single large printed sheet intended for public display",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SIGNATURE",
+        "clue": "A person's handwritten name on a document",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "JEFFERSON",
+        "clue": "Thomas who drafted much of the Declaration of Independence",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "CONGRESS",
+        "clue": "Assembly that adopted the Declaration of Independence",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "COLONY",
+        "clue": "Territory governed by another country before independence",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PAPER",
+        "clue": "Sheet material receiving a printed impression",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PRESS",
+        "clue": "Machine used to transfer an inked impression onto paper",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "DRAFT",
+        "clue": "Preliminary version of a document before revision",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TYPE",
+        "clue": "Raised letters arranged for printing a page",
+        "row": 10,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "INK",
+        "clue": "Colored fluid spread onto printing letters",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      }
+    ],
+    "editorial": {
+      "focus": "This scene centers on printing and the Declaration of Independence. The clues distinguish a document, the people preparing it, and the tools used to make copies.",
+      "solvingTip": "Look for familiar paper-and-ink words first. A clue naming a historical person or document gives a more specific answer.",
+      "answerNotes": [
+        {
+          "answer": "DECLARATION",
+          "text": "The Declaration announced a break with Britain. It did not by itself establish equal legal rights for everyone living in the new nation."
+        },
+        {
+          "answer": "BROADSIDE",
+          "text": "A broadside is printed on a large sheet for display or distribution. It is a format, not the name of one particular document."
+        },
+        {
+          "answer": "JEFFERSON",
+          "text": "Thomas Jefferson was the principal drafter, working within a committee and a Congress that debated and revised the text."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-history-scenes-2",
+    "title": "Joining the Rails at Promontory",
+    "theme": "American History",
+    "subtheme": "Joining the Rails at Promontory",
+    "series": "american-history-scenes",
+    "description": "Visit the railroad scene where the first US transcontinental rail connection was completed in 1869.",
+    "cardDescription": "Visit the railroad scene where the first US transcontinental rail connection was completed in 1869.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "LOCOMOTIVE",
+        "clue": "Rail vehicle supplying the power to pull a train",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ENGINEER",
+        "clue": "Railroad worker who operates a locomotive in US usage",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "FREIGHT",
+        "clue": "Goods transported by a railway rather than passengers",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CABOOSE",
+        "clue": "Traditional crew car formerly found at the rear of many freight trains",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SIGNAL",
+        "clue": "Railway indication telling a train whether or how to proceed",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "STEAM",
+        "clue": "Vapor that powered many nineteenth-century railway engines",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SPIKE",
+        "clue": "Large rail-fastening pin symbolically driven at the 1869 rail meeting",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TRACK",
+        "clue": "Complete railway way formed by running surfaces and supports",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RAIL",
+        "clue": "One of the long steel running surfaces beneath train wheels",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CREW",
+        "clue": "Group of workers assigned to a railroad job",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "TIE",
+        "clue": "Crosswise support beneath railroad running surfaces",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "The clues combine the meeting at Promontory Summit in Utah with the parts and tools of a nineteenth-century railroad. They describe a historical connection, not a current timetable.",
+      "solvingTip": "Start with physical railway objects. Some longer words identify equipment or the people doing particular jobs.",
+      "answerNotes": [
+        {
+          "answer": "LOCOMOTIVE",
+          "text": "A locomotive supplies the pulling power. In the nineteenth-century scene, steam locomotives were prominent, but not every locomotive uses steam."
+        },
+        {
+          "answer": "SPIKE",
+          "text": "The ceremonial golden spike marked the meeting of the railroads. Ordinary track used practical fastenings rather than gold spikes throughout."
+        },
+        {
+          "answer": "RAIL",
+          "text": "Rails provide the running surfaces. Cross ties support and hold them in position."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-history-scenes-3",
+    "title": "Letters and Telegraph Messages",
+    "theme": "American History",
+    "subtheme": "Letters and Telegraph Messages",
+    "series": "american-history-scenes",
+    "description": "Compare two historic ways of sending news: a posted letter and an electrical message carried along wires.",
+    "cardDescription": "Compare two historic ways of sending news: a posted letter and an electrical message carried along wires.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "TELEGRAPH",
+        "clue": "System sending coded electrical messages along wires",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "POSTMARK",
+        "clue": "Dated postal marking showing where or when an item was processed",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "OPERATOR",
+        "clue": "Person who sends or receives messages at a telegraph station",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "POSTAGE",
+        "clue": "Charge for carrying an item through the mail",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LETTER",
+        "clue": "Written message enclosed and sent through the post",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "STAMP",
+        "clue": "Adhesive postage label attached to a mailed letter",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "MORSE",
+        "clue": "Surname associated with a dot-and-dash signaling code",
+        "row": 10,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "DASH",
+        "clue": "Long signal paired with a short one in Morse signaling",
+        "row": 2,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CODE",
+        "clue": "System representing letters with agreed signal patterns",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "DOT",
+        "clue": "Short signal in a familiar telegraph alphabet",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "KEY",
+        "clue": "Hand-operated switch used by a telegraph sender",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "Mail clues name physical objects that travel. Telegraph clues name signals and equipment that transmit a message, so the two systems need different kinds of handling.",
+      "solvingTip": "Decide whether the clue belongs to a paper letter or an electrical message. Shared communication words can help connect the two.",
+      "answerNotes": [
+        {
+          "answer": "TELEGRAPH",
+          "text": "A wired telegraph sends signals rather than transporting the original sheet of paper. Operators could transcribe the received message."
+        },
+        {
+          "answer": "POSTMARK",
+          "text": "A postmark records postal processing information. It is different from the stamp that indicates payment of postage."
+        },
+        {
+          "answer": "STAMP",
+          "text": "A postage stamp indicates payment toward mail service. A postmark is a processing mark rather than the same physical label."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-history-scenes-4",
+    "title": "The Wright Brothers Take Flight",
+    "theme": "American History",
+    "subtheme": "The Wright Brothers Take Flight",
+    "series": "american-history-scenes",
+    "description": "Explore the brothers, equipment, and coastal setting of the Wrights\u2019 powered flights in 1903.",
+    "cardDescription": "Explore the brothers, equipment, and coastal setting of the Wrights\u2019 powered flights in 1903.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PROPELLER",
+        "clue": "Rotating blades providing thrust on an early powered airplane",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ORVILLE",
+        "clue": "Wright brother at the controls for the first powered flight on December 17, 1903",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BIPLANE",
+        "clue": "Aircraft having two main wings arranged one above the other",
+        "row": 3,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "RUDDER",
+        "clue": "Movable aircraft surface used to help control yaw",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "DAYTON",
+        "clue": "Ohio city where the Wright brothers lived and worked",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "WRIGHT",
+        "clue": "Surname of brothers Orville and Wilbur",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "ENGINE",
+        "clue": "Power-producing machine on a powered aircraft",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "GLIDER",
+        "clue": "Aircraft flown without an engine during early flight experiments",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "FLYER",
+        "clue": "Name commonly used for the Wrights' 1903 aircraft",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "WING",
+        "clue": "Aircraft surface designed to produce lift",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TEST",
+        "clue": "Trial made to observe how an aircraft design performs",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      }
+    ],
+    "editorial": {
+      "focus": "The clues concern the Wright brothers and early aircraft. The 1903 flights were near Kitty Hawk, at Kill Devil Hills, rather than in the brothers\u2019 Ohio hometown.",
+      "solvingTip": "Use the brothers\u2019 names and familiar aircraft parts as entry points. A word describing a trial or a machine part may be easier than a place name.",
+      "answerNotes": [
+        {
+          "answer": "ORVILLE",
+          "text": "Orville piloted the first flight that day. The brothers took turns over four powered flights on December 17."
+        },
+        {
+          "answer": "WRIGHT",
+          "text": "Orville and Wilbur Wright worked together on controlled flight. The shared surname should not be confused with the ordinary word meaning correct."
+        },
+        {
+          "answer": "GLIDER",
+          "text": "The Wrights tested gliders before their powered Flyer. A glider can fly without its own engine, using aerodynamic lift."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-history-scenes-5",
+    "title": "Working Along the Erie Canal",
+    "theme": "American History",
+    "subtheme": "Working Along the Erie Canal",
+    "series": "american-history-scenes",
+    "description": "Travel a historic water route through locks, towpaths, gates, and the boats that moved goods across New York.",
+    "cardDescription": "Travel a historic water route through locks, towpaths, gates, and the boats that moved goods across New York.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "TOWPATH",
+        "clue": "Path beside a canal used by animals pulling boats",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TOWLINE",
+        "clue": "Rope connecting a pulling animal or vessel to a boat",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HUDSON",
+        "clue": "River connected with the eastern end of the Erie Canal route",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ALBANY",
+        "clue": "New York city near the historic canal's eastern end",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BARGE",
+        "clue": "Broad flat-bottomed boat used to carry canal cargo",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BASIN",
+        "clue": "Widened sheltered water area for canal boats",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CANAL",
+        "clue": "Artificial waterway constructed for navigation",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "ERIE",
+        "clue": "Lake giving its name to the canal linking the Great Lakes with the Hudson route",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BOAT",
+        "clue": "Small watercraft that can travel through a canal",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "LOCK",
+        "clue": "Canal chamber that raises or lowers boats between water levels",
+        "row": 9,
+        "col": 7,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "MULE",
+        "clue": "Draft animal historically used to pull some canal boats",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "This scene concerns the Erie Canal and the vocabulary of canal transport. Locks change a boat\u2019s water level; a towpath runs beside the waterway.",
+      "solvingTip": "Separate the water-control structure from the route beside it. The geographic clues specify the New York canal setting.",
+      "answerNotes": [
+        {
+          "answer": "TOWPATH",
+          "text": "A towpath runs beside the water. In early canal transport, draft animals could pull a boat using a line."
+        },
+        {
+          "answer": "HUDSON",
+          "text": "The Hudson provided the route toward New York City. The historic canal connected the Buffalo and Albany areas rather than running directly to the ocean."
+        },
+        {
+          "answer": "BARGE",
+          "text": "A barge carries goods on inland water. Its flat bottom and cargo role distinguish it from a pleasure sailboat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "texas-scenes",
+    "title": "A Morning on a Texas Ranch",
+    "theme": "Texas",
+    "subtheme": "A Morning on a Texas Ranch",
+    "series": "texas-scenes",
+    "description": "Step into a Texas cattle-ranch scene with longhorns, working tack, gates, and grazing land.",
+    "cardDescription": "Step into a Texas cattle-ranch scene with longhorns, working tack, gates, and grazing land.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "LONGHORN",
+        "clue": "Cattle breed associated with Texas and noted for widely spreading horns",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SADDLE",
+        "clue": "Rider's seat fastened to a horse's back",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "LARIAT",
+        "clue": "Looped rope used to catch or handle livestock",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CATTLE",
+        "clue": "Collective word for domesticated bovines on a ranch",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BRAND",
+        "clue": "Identifying mark applied to livestock",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RANCH",
+        "clue": "Property devoted chiefly to raising livestock on a large area",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "REINS",
+        "clue": "Straps held by a rider to control a bridle",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "STEER",
+        "clue": "Castrated male bovine raised as cattle",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SPUR",
+        "clue": "Small rider's heel device used to cue a horse",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HERD",
+        "clue": "Group of cattle kept or moving together",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "This scene uses cattle and ranch-equipment words associated with Texas ranching. Many are used elsewhere too; the longhorn gives the puzzle a particular regional connection.",
+      "solvingTip": "Distinguish the animal from the herd, its enclosure, and the equipment used by a rider. Direct definitions explain the working terms.",
+      "answerNotes": [
+        {
+          "answer": "LONGHORN",
+          "text": "Texas Longhorn cattle are known for their horns. The breed connection gives this ranch scene a specific Texas reference."
+        },
+        {
+          "answer": "LARIAT",
+          "text": "A lariat is a rope used with a loop. The word names equipment rather than a rider's title."
+        },
+        {
+          "answer": "BRAND",
+          "text": "A livestock brand identifies ownership. The clue uses the ranching sense rather than a product's trade name."
+        }
+      ]
+    }
+  },
+  {
+    "id": "texas-scenes-2",
+    "title": "Texas Wildflowers in Spring",
+    "theme": "Texas",
+    "subtheme": "Texas Wildflowers in Spring",
+    "series": "texas-scenes",
+    "description": "Follow a Texas spring roadside through bluebonnets, other wildflowers, and the parts that help a bloom grow.",
+    "cardDescription": "Follow a Texas spring roadside through bluebonnets, other wildflowers, and the parts that help a bloom grow.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BLUEBONNET",
+        "clue": "Texas wildflower named for its blue bonnet-shaped blossoms",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "COREOPSIS",
+        "clue": "Daisy-family wildflower also commonly called tickseed",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PRIMROSE",
+        "clue": "Flower name completing evening ___",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SPRING",
+        "clue": "Season associated with many Texas bluebonnet displays",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "LUPINE",
+        "clue": "Plant group that includes Texas bluebonnets",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PETAL",
+        "clue": "One colored segment surrounding a flower's center",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "Walking route beside which wildflowers may be seen",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BLOOM",
+        "clue": "An open flower, or the act of flowering",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Plant part anchoring a wildflower below ground",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SEED",
+        "clue": "Plant structure from which a new wildflower can grow",
+        "row": 7,
+        "col": 10,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "STEM",
+        "clue": "Supporting stalk beneath a wildflower's bloom",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "The Texas connection begins with bluebonnets and regional wildflower names. Some flower terms are common across the country, while direct clues introduce less familiar names.",
+      "solvingTip": "Start with a plant part or season word. Use crossings for a longer flower name rather than needing to recognize it at first glance.",
+      "answerNotes": [
+        {
+          "answer": "BLUEBONNET",
+          "text": "Bluebonnets are lupines and are closely associated with Texas spring landscapes. Flower color can vary even though blue is their familiar color."
+        },
+        {
+          "answer": "COREOPSIS",
+          "text": "Coreopsis is a flowering plant group. Tickseed is another common name; neither term means the flower is an insect."
+        },
+        {
+          "answer": "PRIMROSE",
+          "text": "Evening primrose is a common name used for plants distinct from true primroses. The clue explicitly asks for the missing part of that name."
+        }
+      ]
+    }
+  },
+  {
+    "id": "texas-scenes-3",
+    "title": "Pecan Pie at the Texas Table",
+    "theme": "Texas",
+    "subtheme": "Pecan Pie at the Texas Table",
+    "series": "texas-scenes",
+    "description": "Gather pecans, pastry, and familiar baking tools around a Texas-associated dessert table.",
+    "cardDescription": "Gather pecans, pastry, and familiar baking tools around a Texas-associated dessert table.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "RECIPE",
+        "clue": "Written list of ingredients and preparation instructions",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PECAN",
+        "clue": "Edible nut produced by Texas's state tree",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SLICE",
+        "clue": "Single wedge cut from a round pie",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "APRON",
+        "clue": "Protective garment worn over clothes while preparing food",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "Sweet ingredient often used in a dessert filling",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CRUST",
+        "clue": "Pastry shell forming the base and sides of a pie",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SHELL",
+        "clue": "Hard outer covering cracked to reach a nut's edible part",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "OVEN",
+        "clue": "Enclosed heated appliance used for baking a pie",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "NUT",
+        "clue": "Food category that includes pecans in everyday kitchen language",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TIN",
+        "clue": "Metal baking container, as in pie ___",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "The pecan is Texas\u2019s state tree, and pecan pie connects that local reference with familiar kitchen words. The clues describe ingredients and objects rather than giving a baking recipe.",
+      "solvingTip": "Look for the nut, its edible part, the pastry, or a kitchen tool. A word can name a container here rather than an ingredient.",
+      "answerNotes": [
+        {
+          "answer": "RECIPE",
+          "text": "A recipe gives amounts and instructions. These clues identify kitchen vocabulary and are not themselves a tested recipe."
+        },
+        {
+          "answer": "PECAN",
+          "text": "The pecan is Texas's state tree. Its edible kernel is inside the shell; the nut and the tree share the same name."
+        },
+        {
+          "answer": "CRUST",
+          "text": "A pie crust supports or encloses the filling. It is different from the hard shell that protected the nut."
+        }
+      ]
+    }
+  },
+  {
+    "id": "texas-scenes-4",
+    "title": "An Evening at a Texas Dance Hall",
+    "theme": "Texas",
+    "subtheme": "An Evening at a Texas Dance Hall",
+    "series": "texas-scenes",
+    "description": "Hear fiddles and accordions while exploring the country two-step and other social-dance words.",
+    "cardDescription": "Hear fiddles and accordions while exploring the country two-step and other social-dance words.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ACCORDION",
+        "clue": "Bellows-driven instrument with buttons or a keyboard",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "WESTERN",
+        "clue": "Directional style word often paired with country music",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TWOSTEP",
+        "clue": "Country partner dance whose name combines a number and a movement",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PARTNER",
+        "clue": "Person paired with another for a social dance",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "RHYTHM",
+        "clue": "Pattern of beats and accents guiding dance steps",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "FIDDLE",
+        "clue": "Common folk-music name for a violin",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "WALTZ",
+        "clue": "Partner dance commonly counted in groups of three beats",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "POLKA",
+        "clue": "Lively partner dance associated with a quick duple rhythm",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "TURN",
+        "clue": "Movement that changes a dancer's facing direction",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HEEL",
+        "clue": "Back part of a foot that can lead a dance step",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TOE",
+        "clue": "Front part of a foot used in a heel-and-___ movement",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "This dance-hall scene brings together the country two-step, instruments, and social dances heard in Texas. It does not require knowing a recording date, musician biography, or song lyric.",
+      "solvingTip": "Separate an instrument from a dance, a movement, and a musical quality. Several short body-position words help cross longer answers.",
+      "answerNotes": [
+        {
+          "answer": "ACCORDION",
+          "text": "An accordion produces sound using air moved by bellows. It appears in several dance traditions, including those heard in Texas."
+        },
+        {
+          "answer": "TWOSTEP",
+          "text": "The country two-step is associated with Texas dance halls as well as other places. Different dances also use the name two-step, so the clue specifies the country setting."
+        },
+        {
+          "answer": "FIDDLE",
+          "text": "A fiddle and a violin are the same kind of instrument. The term fiddle often signals a musical tradition or playing style."
+        }
+      ]
+    }
+  },
+  {
+    "id": "texas-scenes-5",
+    "title": "A Road Trip Across Texas",
+    "theme": "Texas",
+    "subtheme": "A Road Trip Across Texas",
+    "series": "texas-scenes",
+    "description": "Travel between Texas cities, a border river, and familiar landmarks using direct geographic clues.",
+    "cardDescription": "Travel between Texas cities, a border river, and familiar landmarks using direct geographic clues.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "SANANTONIO",
+        "clue": "Texas city containing the Alamo, with spaces omitted",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "PANHANDLE",
+        "clue": "Northern Texas region shaped like a projecting handle",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "AMARILLO",
+        "clue": "Texas Panhandle city whose name means yellow in Spanish",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "HOUSTON",
+        "clue": "Texas city associated with the Johnson Space Center",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BIGBEND",
+        "clue": "Texas national park named for a curve in the Rio Grande, with spaces omitted",
+        "row": 10,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "ELPASO",
+        "clue": "Far-west Texas city beside Ciudad Juarez, with spaces omitted",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DALLAS",
+        "clue": "North Texas city paired with Fort Worth in a major metropolitan area",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "AUSTIN",
+        "clue": "Texas city serving as the state's capital",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "ALAMO",
+        "clue": "Historic San Antonio mission associated with an 1836 battle",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "ROUTE",
+        "clue": "Planned course linking the stops on a Texas trip",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "MAP",
+        "clue": "Drawing used to plan stops across a large state",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "This Texas route includes named places and map features rather than a real driving itinerary. The clues give clear location hints, and some place names omit their spaces in the grid.",
+      "solvingTip": "Start with a city or landmark you recognize. A short map or road word can provide crossings for a longer geographic name.",
+      "answerNotes": [
+        {
+          "answer": "PANHANDLE",
+          "text": "The Texas Panhandle is the state's northern projecting region. The same descriptive word is also used for regions in other states."
+        },
+        {
+          "answer": "BIGBEND",
+          "text": "Big Bend National Park takes its name from a great bend in the river. The place name is written as two words outside the grid."
+        },
+        {
+          "answer": "AUSTIN",
+          "text": "Austin is Texas's capital. Houston and Dallas are larger but do not hold that role."
+        }
+      ]
+    }
   }
 ]

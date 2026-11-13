@@ -1,0 +1,372 @@
+[
+  {
+    "id": "geography-journeys",
+    "title": "Reading an American Road Map",
+    "description": "Unfold a road map and explore directions, symbols, routes, and the scale that puts distances in perspective.",
+    "cardDescription": "Unfold a road map and explore directions, symbols, routes, and the scale that puts distances in perspective.",
+    "subtheme": "Reading an American Road Map",
+    "focus": "This map-reading puzzle uses practical navigation words. A symbol stands for something on the ground, while a scale relates map distance to real distance.",
+    "solvingTip": "Separate a direction from a map feature. The clue will tell you whether to look for a line, a sign, or a way to measure.",
+    "words": [
+      [
+        "MAP",
+        "Drawing that shows where roads and places are located"
+      ],
+      [
+        "LEGEND",
+        "Map key that explains the meaning of its symbols"
+      ],
+      [
+        "SCALE",
+        "Map feature relating a drawn distance to a real one"
+      ],
+      [
+        "COMPASS",
+        "Instrument whose needle helps a traveler find north"
+      ],
+      [
+        "ROUTE",
+        "Chosen course connecting the stops on a trip"
+      ],
+      [
+        "NORTH",
+        "Direction opposite south on a road map"
+      ],
+      [
+        "SOUTH",
+        "Direction opposite north when reading a map"
+      ],
+      [
+        "EAST",
+        "Direction to the right of north on a standard compass rose"
+      ],
+      [
+        "WEST",
+        "Direction opposite east on a compass rose"
+      ],
+      [
+        "BORDER",
+        "Line separating two states on a political map"
+      ],
+      [
+        "INSET",
+        "Small supplementary map placed within a larger one"
+      ],
+      [
+        "GRID",
+        "Network of crossing reference lines on a map"
+      ],
+      [
+        "MILE",
+        "US road-distance unit equal to 5280 feet"
+      ],
+      [
+        "ATLAS",
+        "Bound collection of maps for looking up places"
+      ]
+    ],
+    "answerNotes": {
+      "MAP": "A map selects information for a purpose. A road map emphasizes routes and settlements rather than showing every object on the ground.",
+      "LEGEND": "A legend explains symbols. It differs from a compass rose, which shows directions.",
+      "SCALE": "Scale lets a reader compare map distance with ground distance. It does not show traffic conditions or travel time.",
+      "COMPASS": "A compass indicates direction. On a map, a compass rose is a drawn guide to directions rather than a moving instrument.",
+      "ROUTE": "A route is the course followed. A road is a physical feature that can form part of that course."
+    }
+  },
+  {
+    "id": "geography-journeys-2",
+    "title": "Mountains and Valleys",
+    "description": "Look across peaks, ridges, slopes, and valleys through clear definitions of the shapes of the land.",
+    "cardDescription": "Look across peaks, ridges, slopes, and valleys through clear definitions of the shapes of the land.",
+    "subtheme": "Mountains and Valleys",
+    "focus": "These landform clues focus on shape and position. A summit is a high point, a ridge extends along a height, and a valley lies between higher ground.",
+    "solvingTip": "Picture the outline of each feature before trying its name. A crossing letter can distinguish several short landscape words.",
+    "words": [
+      [
+        "SUMMIT",
+        "Highest point reached on a mountain"
+      ],
+      [
+        "RIDGE",
+        "Long narrow crest of elevated land"
+      ],
+      [
+        "VALLEY",
+        "Low stretch of land between hills or mountains"
+      ],
+      [
+        "PLATEAU",
+        "Broad elevated area with a relatively level surface"
+      ],
+      [
+        "PASS",
+        "Low crossing route through a mountain range"
+      ],
+      [
+        "PEAK",
+        "Pointed top rising above the surrounding mountain slopes"
+      ],
+      [
+        "RANGE",
+        "Connected chain or group of mountains"
+      ],
+      [
+        "SLOPE",
+        "Inclined side of a hill or mountain"
+      ],
+      [
+        "CLIFF",
+        "Steep exposed face of rock beside higher ground"
+      ],
+      [
+        "CANYON",
+        "Deep narrow valley with steep sides"
+      ],
+      [
+        "FOOTHILL",
+        "Lower hill near the base of a mountain range"
+      ],
+      [
+        "BASIN",
+        "Low land area surrounded by higher terrain"
+      ],
+      [
+        "TRAIL",
+        "Marked or worn path for walking through mountain country"
+      ],
+      [
+        "ROCK",
+        "Natural solid material making up a cliff face"
+      ]
+    ],
+    "answerNotes": {
+      "SUMMIT": "A summit is a mountain's highest point. A ridge can contain several high points along its length.",
+      "RIDGE": "A ridge is extended rather than a single peak. Its length helps distinguish it from a summit.",
+      "VALLEY": "A valley is lower than the land beside it. Valleys may be shaped by flowing water, glaciers, or other processes.",
+      "PLATEAU": "A plateau has both elevation and a comparatively level top. Flatness alone does not make low land a plateau.",
+      "PASS": "A mountain pass provides a lower route between higher areas. It is a land feature rather than a ticket in this clue."
+    }
+  },
+  {
+    "id": "geography-journeys-3",
+    "title": "Following Rivers and Lakes",
+    "description": "Follow water from a river source toward its mouth, stopping at banks, channels, and lakes along the way.",
+    "cardDescription": "Follow water from a river source toward its mouth, stopping at banks, channels, and lakes along the way.",
+    "subtheme": "Following Rivers and Lakes",
+    "focus": "The clues distinguish a waterway from its parts and connections. Flow direction gives words such as upstream and downstream their meaning.",
+    "solvingTip": "Notice whether the clue describes the start of a river, its side, its flow, or where it ends.",
+    "words": [
+      [
+        "SOURCE",
+        "Starting place from which a river flows"
+      ],
+      [
+        "MOUTH",
+        "Place where a river enters a larger body of water"
+      ],
+      [
+        "DELTA",
+        "Deposited landform that can form at a river mouth"
+      ],
+      [
+        "TRIBUTARY",
+        "Smaller watercourse flowing into a larger river"
+      ],
+      [
+        "BANK",
+        "Land immediately along the side of a river"
+      ],
+      [
+        "LAKE",
+        "Inland body of standing water surrounded by land"
+      ],
+      [
+        "STREAM",
+        "Small flowing watercourse that may join a river"
+      ],
+      [
+        "CURRENT",
+        "Movement of water along a river channel"
+      ],
+      [
+        "CHANNEL",
+        "Passage through which a river's water flows"
+      ],
+      [
+        "UPSTREAM",
+        "Toward the source rather than the mouth of a river"
+      ],
+      [
+        "SHORE",
+        "Land along the edge of a lake"
+      ],
+      [
+        "ISLAND",
+        "Land completely surrounded by water"
+      ],
+      [
+        "RAPIDS",
+        "Fast turbulent stretch of a river over an uneven bed"
+      ],
+      [
+        "DAM",
+        "Barrier built to hold back or control flowing water"
+      ]
+    ],
+    "answerNotes": {
+      "SOURCE": "A source is a river's beginning. It is upstream from its mouth, even when the river flows south to north.",
+      "MOUTH": "The mouth is the river's outlet. It can open into a lake, another river, or the sea.",
+      "DELTA": "A delta forms where sediment accumulates near a river's outlet. Not every river mouth has a delta.",
+      "TRIBUTARY": "A tributary joins another stream or river. The term describes a connection, not a fixed size of channel.",
+      "BANK": "A river bank borders the channel. In this clue it is neither a financial business nor the entire river valley."
+    }
+  },
+  {
+    "id": "geography-journeys-4",
+    "title": "Along the American Coast",
+    "description": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
+    "cardDescription": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
+    "subtheme": "Along the American Coast",
+    "focus": "Coastal words describe both land and water. Some clues ask about a shape, while others describe a movement or a place where boats gather.",
+    "solvingTip": "Check which side of the shoreline the clue describes. A bay is water extending into land; a peninsula is land extending into water.",
+    "words": [
+      [
+        "BAY",
+        "Inlet where coastal water reaches into the land"
+      ],
+      [
+        "PENINSULA",
+        "Land surrounded by water on most sides but joined to a mainland"
+      ],
+      [
+        "ESTUARY",
+        "Coastal area where river water mixes with seawater"
+      ],
+      [
+        "HEADLAND",
+        "Prominent high land projecting into coastal water"
+      ],
+      [
+        "TIDE",
+        "Regular rise and fall of sea level along the coast"
+      ],
+      [
+        "HARBOR",
+        "Sheltered coastal water where vessels can anchor"
+      ],
+      [
+        "CAPE",
+        "Point of land extending into a sea or lake"
+      ],
+      [
+        "STRAIT",
+        "Narrow water passage connecting larger bodies of water"
+      ],
+      [
+        "INLET",
+        "Narrow opening leading from the sea into coastal land"
+      ],
+      [
+        "DUNE",
+        "Mound or ridge of sand shaped by wind"
+      ],
+      [
+        "SURF",
+        "Waves breaking near the shoreline"
+      ],
+      [
+        "REEF",
+        "Ridge of rock or coral at or near the water surface"
+      ],
+      [
+        "BEACH",
+        "Coastal strip of sand or pebbles beside the water"
+      ],
+      [
+        "PORT",
+        "Coastal town or facility where ships load and unload"
+      ]
+    ],
+    "answerNotes": {
+      "BAY": "A bay is a body of water partly enclosed by land. Its shape distinguishes it from a peninsula, which is land.",
+      "PENINSULA": "A peninsula remains connected to a larger land area. An island has water all around it.",
+      "ESTUARY": "An estuary is a meeting place for fresh and salt water. Tides often influence its water levels and mixing.",
+      "HEADLAND": "A headland projects outward from the coast. Its position can make it more exposed to waves than a sheltered bay.",
+      "TIDE": "Tides change coastal water levels. They are different from individual waves moving across the surface."
+    }
+  },
+  {
+    "id": "geography-journeys-5",
+    "title": "Desert Landscapes of the Southwest",
+    "description": "Explore dry-country landforms and plants through direct clues about mesas, washes, rocks, and desert growth.",
+    "cardDescription": "Explore dry-country landforms and plants through direct clues about mesas, washes, rocks, and desert growth.",
+    "subtheme": "Desert Landscapes of the Southwest",
+    "focus": "This Southwest landscape puzzle introduces a few regional words with direct definitions. Desert means very low precipitation, not necessarily constant heat.",
+    "solvingTip": "Look for a plant, a dry channel, or a landform. Several longer regional terms can be built from shorter crossing answers.",
+    "words": [
+      [
+        "MESA",
+        "Isolated flat-topped hill with steep sides"
+      ],
+      [
+        "BUTTE",
+        "Isolated steep-sided hill with a comparatively small flat top"
+      ],
+      [
+        "ARROYO",
+        "Usually dry Southwest channel that carries water after rain"
+      ],
+      [
+        "CACTUS",
+        "Spiny desert plant with water-storing stems"
+      ],
+      [
+        "OASIS",
+        "Water-supported green area within an arid region"
+      ],
+      [
+        "SAND",
+        "Loose grains that may collect in desert dunes"
+      ],
+      [
+        "DUNE",
+        "Wind-shaped hill of loose desert grains"
+      ],
+      [
+        "WASH",
+        "Dry streambed that may fill during rain in the Southwest"
+      ],
+      [
+        "YUCCA",
+        "Plant with swordlike leaves and tall stalks of flowers"
+      ],
+      [
+        "AGAVE",
+        "Rosette-forming succulent with thick pointed leaves"
+      ],
+      [
+        "SAGE",
+        "Aromatic plant name used for several dry-country shrubs"
+      ],
+      [
+        "ROCK",
+        "Exposed solid stone visible on a desert slope"
+      ],
+      [
+        "ARID",
+        "Very dry, as a climate with little precipitation"
+      ],
+      [
+        "SCRUB",
+        "Low scattered woody growth in dry country"
+      ]
+    ],
+    "answerNotes": {
+      "MESA": "A mesa is a tablelike landform. Its relatively broad top distinguishes it from a smaller butte in common geographic usage.",
+      "BUTTE": "A butte is typically smaller across the top than a mesa. Both can remain as surrounding rock erodes.",
+      "ARROYO": "An arroyo is a channel, not a permanent lake. It may be dry much of the time and carry water during runoff.",
+      "CACTUS": "Many cacti store water in thick stems. Their spines are modified leaves; the term is a plant name rather than a landform.",
+      "OASIS": "An oasis has a local water supply that supports growth. It does not mean an entire desert receives abundant rain."
+    }
+  }
+]

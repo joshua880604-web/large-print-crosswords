@@ -1,13 +1,13 @@
 {
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
-    "puzzles": 200,
-    "clueEntries": 2251,
-    "distinctAnswers": 1333,
-    "distinctAnswerCluePairs": 2251,
-    "distinctIntroductions": 200,
+    "puzzles": 220,
+    "clueEntries": 2467,
+    "distinctAnswers": 1472,
+    "distinctAnswerCluePairs": 2467,
+    "distinctIntroductions": 220,
     "numberedTitles": 0,
-    "editedEditions": 200
+    "editedEditions": 220
   },
   "refinedSeries": [
     {
@@ -1209,6 +1209,126 @@
         "Postcards Kept from a Journey",
         "A Model Railway Layout"
       ]
+    },
+    {
+      "id": "geography-journeys",
+      "name": "Geography",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "geography-journeys",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Reading an American Road Map",
+        "Mountains and Valleys",
+        "Following Rivers and Lakes",
+        "Along the American Coast",
+        "Desert Landscapes of the Southwest"
+      ]
+    },
+    {
+      "id": "state-capital-stops",
+      "name": "State Capitals",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "state-capital-stops",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Capital Stops in the Northeast",
+        "Capital Stops in the Southeast",
+        "Capital Stops in the Midwest",
+        "Capital Stops in the South Central States",
+        "Capital Stops in the West"
+      ]
+    },
+    {
+      "id": "american-history-scenes",
+      "name": "American History",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "american-history-scenes",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Printing the News in 1776",
+        "Joining the Rails at Promontory",
+        "Letters and Telegraph Messages",
+        "The Wright Brothers Take Flight",
+        "Working Along the Erie Canal"
+      ]
+    },
+    {
+      "id": "texas-scenes",
+      "name": "Texas",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "texas-scenes",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "A Morning on a Texas Ranch",
+        "Texas Wildflowers in Spring",
+        "Pecan Pie at the Texas Table",
+        "An Evening at a Texas Dance Hall",
+        "A Road Trip Across Texas"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -1254,6 +1374,19 @@
         "TIE"
       ],
       "jaccard": 0.294,
+      "sameSeries": false
+    },
+    {
+      "first": "dance-and-song",
+      "second": "texas-scenes-4",
+      "sharedAnswers": [
+        "PARTNER",
+        "RHYTHM",
+        "POLKA",
+        "WALTZ",
+        "TURN"
+      ],
+      "jaccard": 0.278,
       "sameSeries": false
     },
     {
@@ -1343,6 +1476,18 @@
       "sameSeries": false
     },
     {
+      "first": "treasured-collections-5",
+      "second": "american-history-scenes-2",
+      "sharedAnswers": [
+        "CABOOSE",
+        "TRACK",
+        "RAIL",
+        "TIE"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
       "first": "cozy-at-home-2",
       "second": "thanksgiving-together-3",
       "sharedAnswers": [
@@ -1350,6 +1495,18 @@
         "LADLE",
         "KNIFE",
         "FORK"
+      ],
+      "jaccard": 0.211,
+      "sameSeries": false
+    },
+    {
+      "first": "garden-days-2",
+      "second": "texas-scenes-2",
+      "sharedAnswers": [
+        "PRIMROSE",
+        "PETAL",
+        "BLOOM",
+        "STEM"
       ],
       "jaccard": 0.211,
       "sameSeries": false
@@ -1424,39 +1581,6 @@
         "ROOT"
       ],
       "jaccard": 0.2,
-      "sameSeries": false
-    },
-    {
-      "first": "american-music-2",
-      "second": "american-music-4",
-      "sharedAnswers": [
-        "CHORUS",
-        "GUITAR",
-        "FIDDLE"
-      ],
-      "jaccard": 0.167,
-      "sameSeries": true
-    },
-    {
-      "first": "american-music-2",
-      "second": "american-music-5",
-      "sharedAnswers": [
-        "CHORUS",
-        "GUITAR",
-        "STAGE"
-      ],
-      "jaccard": 0.167,
-      "sameSeries": true
-    },
-    {
-      "first": "american-music-2",
-      "second": "christmas-comforts-4",
-      "sharedAnswers": [
-        "HARMONY",
-        "CHORUS",
-        "VERSE"
-      ],
-      "jaccard": 0.167,
       "sameSeries": false
     }
   ],
@@ -1940,6 +2064,54 @@
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
       "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "geography-journeys",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "state-capital-stops",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "american-history-scenes",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "texas-scenes",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
     }
   ]
 }

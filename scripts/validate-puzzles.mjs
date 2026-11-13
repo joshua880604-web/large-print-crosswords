@@ -5,6 +5,11 @@ import {originals,editorialSeries} from './editorial-data.mjs';
 assert.equal(puzzles.length,editorialSeries.length*5,'Each registered series must contain five puzzles');
 assert.equal(new Set(puzzles.map(p=>p.id)).size,puzzles.length,'Unique slugs');
 const grids=new Set();let clueCount=0;
+// Defining subject words must survive layout selection, not just exist in a pool.
+for(const config of editorialSeries){
+ const sources=JSON.parse(readFileSync(new URL(config.source,import.meta.url),'utf8'));
+ for(const source of sources){const current=puzzles.find(p=>p.id===source.id);assert.ok(current,`${source.id}: registered subject missing`);for(const answer of source.requiredAnswers||[])assert.ok(current.entries.some(e=>e.answer===answer),`${source.id}: defining answer ${answer} missing`);}
+}
 for(const p of [...puzzles,...originals]){
  const map=new Map(),members=new Map(),starts=new Map(),entrySignatures=new Set();
  assert.ok(p.entries.length>=8,`${p.id}: at least eight clues`);

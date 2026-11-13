@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import puzzles from '../data/puzzles.json';
+const selected=puzzles.filter(p=>p.series==='texas-scenes');
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Texas',path:'/texas-crosswords/'}];
+---
+<Layout title="Texas Crossword Puzzles in Large Print — Play or Print Free" description="Enjoy original Texas-themed crosswords in large print: ranch words, spring wildflowers, pecans, dance halls and a Texas road trip. Play online or print with answers." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Texas</span></nav>
+<header class="page-heading"><p class="eyebrow">A LITTLE TEXAS · ONE WORD AT A TIME</p><h1>Texas crosswords in large print.</h1><p>Try {selected.length} original Texas-themed mini crosswords, from ranches and wildflowers to dance halls and a road trip. Play with hints or print a puzzle and separate answers.</p></header>
+<Collection items={selected}/>
+<div class="prose"><h2>Five different ways into Texas</h2><p>The ranch scene introduces longhorn cattle and working equipment. The wildflower puzzle connects bluebonnets with other flowers and plant parts. At the kitchen table, pecans link a Texas reference with familiar pastry words. A dance-hall scene brings instruments and social dances together, while the road-trip puzzle names cities, a border river, and landmarks.</p><p>Some words and traditions are shared with other states and countries. These puzzles explore selected connections with Texas; they do not suggest that every Texan shares the same experiences or that every answer is unique to the state.</p>
+<h2>Local knowledge is welcome, and hints are here</h2><p>The road-trip puzzle includes named places and may call for more geographic knowledge than the everyday-object scenes. Start with a place you recognize or use Reveal letter for a crossing. It is a puzzle route, not a set of driving directions. You can enjoy the collection whether you live in Texas, have visited, or simply like the subject.</p><p>Each puzzle has its own introduction, solving tip, and three optional explanations of actual answers. The large-print clue and answer sheets are separate, with no account or timer required.</p></div><div class="section"><TopicLinks/></div></div>
+</Layout>

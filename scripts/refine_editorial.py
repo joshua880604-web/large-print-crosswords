@@ -20,13 +20,18 @@ def refined_puzzles(only_series=None):
         sources=json.loads((ROOT/'scripts'/config['source']).read_text())
         for index,source in enumerate(sources):
             words=[tuple(pair) for pair in source['words']]
+            required=set(source.get('requiredAnswers',[]))
+            if not required.issubset({word[0] for word in words}):
+                raise ValueError(f"Required answer missing from source {source['id']}")
             choices=[]
             for attempt in range(config.get('attempts',2000)):
                 seed=config['seed']+index*10000+attempt
                 selected=random.Random(seed).sample(words,12)
+                if not required.issubset({word[0] for word in selected}):
+                    continue
                 entries,rows,cols=generate(selected,seed,size=config.get('gridSize',13))
                 notes=[dict(answer=e['answer'],text=source['answerNotes'][e['answer']]) for e in entries if e['answer'] in source['answerNotes']]
-                if len(entries)>=config.get('minEntries',11) and rows<=11 and cols<=11 and len(notes)>=3:
+                if len(entries)>=config.get('minEntries',11) and rows<=11 and cols<=11 and len(notes)>=3 and required.issubset({entry['answer'] for entry in entries}):
                     choices.append((entries,rows,cols,notes))
                 if len(choices)>=40:
                     break

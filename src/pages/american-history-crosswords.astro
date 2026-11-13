@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import puzzles from '../data/puzzles.json';
+const selected=puzzles.filter(p=>p.series==='american-history-scenes');
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'American History',path:'/american-history-crosswords/'}];
+---
+<Layout title="American History Crossword Puzzles in Large Print" description="Play free large print American history crosswords about printing in 1776, railroads, telegraph messages, early flight and the Erie Canal, with separate print answers." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">American History</span></nav>
+<header class="page-heading"><p class="eyebrow">EVERYDAY OBJECTS · STORIES FROM THE PAST</p><h1>American history crosswords in large print.</h1><p>Discover {selected.length} mini crosswords about printed news, railways, communication, early flight, and canal travel. Solve online or print a clue sheet and separate answers.</p></header>
+<Collection items={selected}/>
+<div class="prose"><h2>Explore a scene rather than a list of dates</h2><p>The printing puzzle connects the Declaration of Independence with paper, ink, and the work of making copies. The railroad scene links the 1869 meeting at Promontory with track parts and railway jobs. Two communication systems meet in the letters-and-telegraph puzzle: one carries physical mail, while the other transmits electrical signals.</p><p>The early-flight puzzle follows the Wright brothers and their equipment. The canal puzzle looks at the Erie Canal through the words for moving boats and controlling water levels. These are selected scenes from American history, rather than a complete account of the period or a school curriculum.</p>
+<h2>Let familiar words open the way</h2><p>Try an object or tool you recognize before a person's name or a place. The clues supply direct descriptions, and crossing letters help build less familiar answers. Multiword answers use continuous letters when the clue says to omit spaces.</p><p>Each puzzle includes a specific solving tip and three optional explanations tied to answers that actually appear in its grid. Open the explanations when you want more context; keep them closed to avoid spoilers. You can also reveal a letter without racing a clock.</p>
+<h2>Print a little piece of the past</h2><p>Use the puzzle's Print this puzzle link for a US Letter clue sheet. Its answer page is separate, so a group can work on the puzzle before checking it together.</p></div><div class="section"><TopicLinks/></div></div>
+</Layout>
