@@ -3,21 +3,48 @@ import allPuzzles from '../data/puzzles.json';import PuzzleCard from './PuzzleCa
 const {items:puzzles=allPuzzles}=Astro.props;
 const themes=[...new Set(puzzles.map(p=>p.theme))];
 ---
-<div class="collection-tools"><label>Find a puzzle<input class="search-input" type="search" placeholder="Search titles or themes" id="puzzle-search"/></label><label>Choose a theme<select id="theme-select"><option value="">All themes</option>{themes.map(t=><option value={t}>{t}</option>)}</select></label><p class="result-count" role="status">{puzzles.length} puzzles to enjoy</p></div><div class="collection-grid"><div class="puzzle-cards">{puzzles.map((p,i)=><div data-title={`${p.title} ${p.theme} ${p.subtheme||''} ${p.series?.replaceAll('-', ' ')||''}`.toLowerCase()} data-theme={p.theme}><PuzzleCard puzzle={p} index={i}/></div>)}</div><button class="button button-outline" id="load-more" hidden style="margin-top:30px">Show more puzzles</button><p class="empty-state" hidden>No puzzles match just yet. Try another word or choose all themes.</p></div>
+<div class="collection-tools"><label>Find a puzzle<input class="search-input" type="search" placeholder="Search titles or themes" id="puzzle-search"/></label><label>Choose a theme<select id="theme-select"><option value="">All themes</option>{themes.map(t=><option value={t}>{t}</option>)}</select></label><button type="button" class="button button-outline" id="clear-filters" hidden>Clear filters</button><p class="result-count" role="status">{puzzles.length} puzzles to enjoy</p></div><div class="collection-grid"><div class="puzzle-cards">{puzzles.map((p,i)=><div data-title={`${p.title} ${p.theme} ${p.subtheme||''} ${p.series?.replaceAll('-', ' ')||''}`.toLowerCase()} data-theme={p.theme}><PuzzleCard puzzle={p} index={i}/></div>)}</div><button class="button button-outline" id="load-more" hidden style="margin-top:30px">Show more puzzles</button><p class="empty-state" hidden>No puzzles match just yet. Try another word or choose all themes.</p></div>
 <script>
 const search=document.querySelector<HTMLInputElement>('#puzzle-search')!;
 const select=document.querySelector<HTMLSelectElement>('#theme-select')!;
 const cards=Array.from(document.querySelectorAll<HTMLElement>('[data-title]'));
 const more=document.querySelector<HTMLButtonElement>('#load-more')!;
+const clear=document.querySelector<HTMLButtonElement>('#clear-filters')!;
+const normalise=(value:string)=>value.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/['’]/g,'').replace(/[\s.-]+/g,' ').trim();
+const searchable=new Map(cards.map(card=>[card,normalise(card.dataset.title||'')]));
 let limit=12;
+function filters(){return {q:search.value.trim(),theme:select.value};}
+function remember(){
+ const {q,theme}=filters(),url=new URL(location.href);
+ if(q)url.searchParams.set('q',q);else url.searchParams.delete('q');
+ if(theme)url.searchParams.set('theme',theme);else url.searchParams.delete('theme');
+ try{history.replaceState({...history.state,lpcCollection:{q,theme,limit}},'',url);}catch{}
+}
 function filter(reset=true){
  if(reset)limit=12;
- const matching=cards.filter(card=>card.dataset.title!.includes(search.value.toLowerCase().trim())&&(!select.value||card.dataset.theme===select.value));
+ const {q,theme}=filters();
+ const query=normalise(q);
+ const matching=cards.filter(card=>searchable.get(card)!.includes(query)&&(!theme||card.dataset.theme===theme));
  const visible=new Set(matching.slice(0,limit));cards.forEach(card=>card.hidden=!visible.has(card));
  document.querySelector('.result-count')!.textContent=`Showing ${visible.size} of ${matching.length} ${matching.length===1?'puzzle':'puzzles'}`;
  document.querySelector<HTMLElement>('.empty-state')!.hidden=matching.length!==0;
  more.hidden=visible.size===matching.length;
+ clear.hidden=!q&&!theme;
+ remember();
+}
+function restore(){
+ const params=new URL(location.href).searchParams;
+ search.value=params.get('q')||'';
+ const theme=params.get('theme')||'';
+ select.value=Array.from(select.options).some(option=>option.value===theme)?theme:'';
+ const saved=history.state?.lpcCollection,{q,theme:selectedTheme}=filters();
+ limit=saved?.q===q&&saved?.theme===selectedTheme&&Number.isInteger(saved.limit)?Math.max(12,Math.min(saved.limit,cards.length)):12;
+ filter(false);
 }
 search.addEventListener('input',()=>filter());select.addEventListener('change',()=>filter());
-more.addEventListener('click',()=>{const before=cards.filter(c=>!c.hidden).length;limit+=12;filter(false);const added=cards.filter(c=>!c.hidden)[before]?.querySelector<HTMLAnchorElement>('a');added?.focus();});filter();
+clear.addEventListener('click',()=>{search.value='';select.value='';filter();search.focus({preventScroll:true});});
+more.addEventListener('click',()=>{const before=cards.filter(c=>!c.hidden).length;limit+=12;filter(false);const added=cards.filter(c=>!c.hidden)[before]?.querySelector<HTMLAnchorElement>('a');added?.focus();});
+window.addEventListener('popstate',restore);
+window.addEventListener('pageshow',restore);
+restore();
 </script>

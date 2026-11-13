@@ -20,8 +20,12 @@
 - `https://largeprintcrosswords.com/`
 - `https://largeprintcrosswords.com/printable/`
 - `https://largeprintcrosswords.com/crosswords/garden-days/`
+- `https://largeprintcrosswords.com/music-crosswords/`
+- `https://largeprintcrosswords.com/sports-crosswords/`
 
 可以先运行「测试实际网址」，查看抓取、渲染和是否允许索引。页面适合索引时可点击「请求编入索引」。不必逐一手动请求全部 200 道题，也不要把打印/答案页作为收录目标。
+
+带 `q`、`theme` 的合集网址用于分享筛选结果，canonical 指向不带参数的合集主页；它们不进入站点地图，也不需要单独请求收录。
 
 ## 3. 核对站点地址
 

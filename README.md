@@ -39,6 +39,8 @@ npm run test:e2e
 
 ## Features
 
+The main, music and sports collections support shareable `q` and `theme` filters, for example `/crosswords/?q=golf&theme=Sports`. Back navigation and reload restore the filters and expanded results in that history entry; a copied URL starts with twelve results. Clear filters returns focus to search. Search tolerates common apostrophe, period, hyphen, accent and spacing differences. Query variants retain the clean collection canonical and do not add sitemap pages. The home page links directly to music and sports.
+
 Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, opt-in synthesized sound, and a docked on-screen QWERTY keyboard. Small touch devices use on-screen mode on first interaction by default; computers start with physical/system input. Users can switch modes, hide the panel, and navigate its letter keys with arrow keys. The selected clue and entered letters remain above the keys, and the selected grid square scrolls above the panel. Browser support for suppressing native touch keyboards varies; physical keyboard input remains enabled in either mode. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
 
 `/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 200 puzzles; it does not generate new content daily.
@@ -49,7 +51,7 @@ Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `l
 
 ## Browser tests
 
-`npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, and all 300 puzzle/print/answer routes. Automated accessibility scans do not establish full accessibility conformance.
+`npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 600 current puzzle/print/answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
 
 ## Deploy to Cloudflare Pages
 
