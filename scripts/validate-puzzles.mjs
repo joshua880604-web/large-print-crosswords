@@ -1,7 +1,7 @@
 import {readFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
-import {originals,editorialSeries} from './editorial-data.mjs';
+import {originals,editorialSeries,previousEditions,sourceRevisions} from './editorial-data.mjs';
 const archiveCorrections=JSON.parse(readFileSync(new URL('../src/data/archive-clue-clarifications.json',import.meta.url),'utf8'));
 assert.equal(new Set(archiveCorrections.map(c=>`${c.answer}\0${c.originalClue}`)).size,archiveCorrections.length,'Unique archive correction targets');
 for(const correction of archiveCorrections){assert.ok(correction.clue.trim().length>3&&correction.reason);assert.ok(originals.some(p=>p.entries.some(e=>e.answer===correction.answer&&e.clue===correction.originalClue)),'Archive clarification must match a preserved original clue');}
@@ -11,9 +11,20 @@ const grids=new Set();let clueCount=0;
 // Defining subject words must survive layout selection, not just exist in a pool.
 for(const config of editorialSeries){
  const sources=JSON.parse(readFileSync(new URL(config.source,import.meta.url),'utf8'));
- for(const source of sources){const current=puzzles.find(p=>p.id===source.id);assert.ok(current,`${source.id}: registered subject missing`);for(const answer of source.requiredAnswers||[])assert.ok(current.entries.some(e=>e.answer===answer),`${source.id}: defining answer ${answer} missing`);}
+ for(const source of sources){
+  const current=puzzles.find(p=>p.id===source.id);assert.ok(current,`${source.id}: registered subject missing`);
+  for(const answer of source.requiredAnswers||[])assert.ok(current.entries.some(e=>e.answer===answer),`${source.id}: defining answer ${answer} missing`);
+  const revision=sourceRevisions.get(source.id),baseRevision=config.revision??2;
+  assert.ok(Number.isInteger(revision)&&revision>=baseRevision,`${source.id}: valid source edition`);
+  for(let older=baseRevision;older<revision;older++)assert.ok(previousEditions.some(p=>p.id===source.id&&p.revision===older),`${source.id}: missing preserved edition ${older}`);
+ }
 }
-for(const p of [...puzzles,...originals]){
+assert.equal(new Set(previousEditions.map(p=>`${p.id}:${p.revision}`)).size,previousEditions.length,'Unique preserved editions');
+for(const old of previousEditions){
+ assert.ok(Number.isInteger(old.revision)&&old.revision>=1,'Preserved editions keep their numbered save key');
+ const current=puzzles.find(p=>p.id===old.id);assert.ok(current&&current.revision>old.revision,`${old.id}: preserved edition must precede current`);
+}
+for(const p of [...puzzles,...originals,...previousEditions]){
  const map=new Map(),members=new Map(),starts=new Map(),entrySignatures=new Set();
  assert.ok(p.entries.length>=8,`${p.id}: at least eight clues`);
  assert.ok(p.rows<=13&&p.cols<=13,`${p.id}: maximum board size`);
@@ -45,4 +56,5 @@ for(let i=0;i<puzzles.length;i++)for(let j=i+1;j<puzzles.length;j++){
  const as=new Set(a.entries.map(e=>e.answer)),bs=new Set(b.entries.map(e=>e.answer));const overlap=[...as].filter(x=>bs.has(x)).length;assert.ok(as.size-overlap>=3&&bs.size-overlap>=3,'Series needs at least three different answers each');assert.ok(overlap/(as.size+bs.size-overlap)<=.60,'Series overlap threshold');
 }
 for(const old of originals){const current=puzzles.find(p=>p.id===old.id);assert.ok(current?.revision>=2,'Every archived layout has a current edition');assert.ok(!old.revision,'Originals retain their legacy progress key');}
-console.log(`PASS: ${puzzles.length} unique, connected puzzles; ${clueCount} clues; matching crossings, complete clues, valid numbering, bounds, and series variation; ${originals.length} preserved legacy layouts validated.`);
+for(const p of puzzles)assert.equal(p.revision,sourceRevisions.get(p.id),`${p.id}: current edition must match its source revision`);
+console.log(`PASS: ${puzzles.length} unique, connected puzzles; ${clueCount} clues; matching crossings, complete clues, valid numbering, bounds, and series variation; ${originals.length} preserved legacy layouts and ${previousEditions.length} numbered editions validated.`);

@@ -18,7 +18,8 @@ test('home navigation, filtering, and static content',async({page})=>{
  await page.getByLabel('Find a puzzle').fill('our furry friends');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Find a puzzle').fill('a cup of comfort');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  for(const term of ['movie night','by the sea','autumn walk','holiday table','a good book','weather watching','in the workshop','game night']){
-  await page.getByLabel('Find a puzzle').fill(term);await expect(page.locator('[data-title]:visible')).toHaveCount(5);
+  await page.getByLabel('Find a puzzle').fill(term);await expect(page.locator('[data-title]:visible')).toHaveCount(term==='holiday table'?6:5);
+  if(term==='holiday table')await expect(page.locator('a.puzzle-card[href="/crosswords/flowers-through-the-year-4/"]')).toBeVisible();
  }
  await page.getByLabel('Find a puzzle').fill('flower favorites');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Choose a theme').selectOption('Pets');

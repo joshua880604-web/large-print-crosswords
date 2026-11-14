@@ -4,14 +4,18 @@ import {readFileSync,writeFileSync,mkdirSync} from 'node:fs';
 import {dirname,resolve} from 'node:path';
 import assert from 'node:assert/strict';
 import {chromium} from '@playwright/test';
-import {originals} from './editorial-data.mjs';
+import {originals,previousEditions} from './editorial-data.mjs';
 
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
 const corrections=JSON.parse(readFileSync(new URL('../src/data/archive-clue-clarifications.json',import.meta.url),'utf8'));
 const base=new URL(process.argv[2]||'http://127.0.0.1:4323');
 assert.ok(['127.0.0.1','localhost','[::1]'].includes(base.hostname),'Use a local production preview');
 const output=resolve(process.argv[3]||'/tmp/lpc-playthrough-audit.json');mkdirSync(dirname(output),{recursive:true});
-const cases=[...puzzles.map(puzzle=>({puzzle,archive:false})),...originals.map(puzzle=>({puzzle,archive:true}))];
+const cases=[
+ ...puzzles.map(puzzle=>({puzzle,archive:false,kind:'current',path:`/crosswords/${puzzle.id}/`})),
+ ...originals.map(puzzle=>({puzzle,archive:true,kind:'original',path:`/crosswords/${puzzle.id}/previous/`})),
+ ...previousEditions.map(puzzle=>({puzzle,archive:true,kind:'revised',path:`/crosswords/${puzzle.id}/editions/${puzzle.revision}/`}))
+];
 const results=[];let cursor=0;
 const report=()=>writeFileSync(output,JSON.stringify({expected:cases.length,checked:results.length,complete:results.filter(r=>!r.error).length,failures:results.filter(r=>r.error),results:[...results].sort((a,b)=>a.index-b.index)},null,2)+'\n');
 // A display may sort clues; physical positions and their labels must stay equal.
@@ -22,14 +26,14 @@ async function worker(){
  page.setDefaultTimeout(10000);
  try{
   while(cursor<cases.length){
-   const index=cursor++,{puzzle,archive}=cases[index],path=`/crosswords/${puzzle.id}/${archive?'previous/':''}`;
+   const index=cursor++,{puzzle,archive,kind,path}=cases[index];
    try{
     await page.goto(new URL(path,base).href);
     const root=page.locator('.game-root');await root.waitFor();
     const actual=await root.evaluate(el=>JSON.parse(el.dataset.puzzle));
     assert.deepEqual(placement(actual.entries),placement(puzzle.entries),`${path}: board changed`);
     for(const entry of puzzle.entries){
-     const correction=archive&&corrections.find(c=>c.answer===entry.answer&&c.originalClue===entry.clue);
+     const correction=kind==='original'&&corrections.find(c=>c.answer===entry.answer&&c.originalClue===entry.clue);
      const clue=correction?correction.clue:entry.clue;
      const button=page.locator(`[data-entry="${entry.number}-${entry.direction}"]`);
      assert.ok((await button.innerText()).includes(clue),`${path}: rendered clue differs`);
@@ -44,7 +48,7 @@ async function worker(){
     await page.reload();await page.locator('.game-complete').waitFor({state:'visible'});
     const restored=await page.locator('.cell input').evaluateAll(inputs=>Object.fromEntries(inputs.map(el=>[`${el.dataset.row},${el.dataset.col}`,el.value])));
     assert.deepEqual(restored,answerMap,`${path}: restored letters differ`);
-    results.push({index,id:puzzle.id,archive,entries:puzzle.entries.length,cells:Object.keys(answerMap).length,completed:true,restored:true});
+    results.push({index,id:puzzle.id,archive,kind,revision:puzzle.revision,entries:puzzle.entries.length,cells:Object.keys(answerMap).length,completed:true,restored:true});
     if(results.length%20===0){report();console.log(`Completed and restored ${results.length}/${cases.length} boards`);}
    }catch(error){results.push({index,id:puzzle.id,archive,error:String(error.stack||error)});report();throw error;}
   }

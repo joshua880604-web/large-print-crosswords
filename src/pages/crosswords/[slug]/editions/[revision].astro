@@ -1,0 +1,19 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Game from '../../../../components/Game.astro';
+import PuzzleNotes from '../../../../components/PuzzleNotes.astro';
+import previousEditions from '../../../../data/previous-editions.json';
+import puzzles from '../../../../data/puzzles.json';
+
+export function getStaticPaths(){
+ return previousEditions.map(puzzle=>({params:{slug:puzzle.id,revision:String(puzzle.revision)},props:{puzzle}}));
+}
+const {puzzle}=Astro.props;
+const current=puzzles.find(item=>item.id===puzzle.id)!;
+---
+<Layout noindex title={`${puzzle.title} — Previous Edition ${puzzle.revision}`} description="Continue an earlier crossword with its preserved clues, layout and browser-saved progress." active="puzzles">
+<div class="container game-container"><header class="page-heading"><p class="eyebrow">PREVIOUS EDITION · ORIGINAL PROGRESS</p><h1>{puzzle.title}</h1><p>This earlier edition keeps the clues and squares you started with. Its answers are saved separately from the current edition in this browser.</p></header>
+<p class="notice">For the current puzzle, <a href={`/crosswords/${puzzle.id}/`}>try {current.title}</a>.</p>
+<Game puzzle={puzzle}/><PuzzleNotes editorial={puzzle.editorial}/>
+<p class="game-bottom"><a href="/crosswords/">Explore all current puzzles →</a></p></div>
+</Layout>

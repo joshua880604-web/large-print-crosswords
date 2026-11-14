@@ -6,7 +6,7 @@
     "cardDescription": "Explore the equipment and spaces of a working fishing boat beside its landing place.",
     "subtheme": "A Fishing Trawler at the Pier",
     "focus": "A trawler tows a net, while other fishing vessels use different methods. The clues separate the catch-handling equipment, storage area, and upper working surfaces.",
-    "solvingTip": "Use the equipment’s task: towing, lifting, holding a catch, or securing the vessel.",
+    "solvingTip": "Use the equipment\u2019s task: towing, lifting, holding a catch, or securing the vessel.",
     "words": [
       [
         "TRAWLER",
@@ -155,80 +155,81 @@
   },
   {
     "id": "working-waterfront-3",
-    "title": "In a Wooden Boat Shed",
-    "description": "Look at the structural pieces that shape and strengthen a traditional wooden boat.",
-    "cardDescription": "Look at the structural pieces that shape and strengthen a traditional wooden boat.",
-    "subtheme": "In a Wooden Boat Shed",
-    "focus": "The boat’s lengthwise backbone, transverse supports, and outer planking have separate names. The clues focus on position and function, giving a route into less familiar boatbuilding words.",
-    "solvingTip": "Picture the bottom, sides, and ends of the hull before choosing a structural term.",
+    "title": "A Wooden Rowboat by the Dock",
+    "description": "Find the familiar parts and supplies around a small wooden rowboat at the dock.",
+    "cardDescription": "Find the familiar parts and supplies around a small wooden rowboat at the dock.",
+    "subtheme": "A Wooden Rowboat by the Dock",
+    "focus": "An oar moves the boat through the water. Seats, ropes, and a bucket belong to the ordinary dockside scene.",
+    "solvingTip": "The short tool and container clues can help with boat-part words.",
     "words": [
       [
-        "KEEL",
-        "Main lengthwise backbone along the bottom of a traditional hull"
-      ],
-      [
-        "GUNWALE",
-        "Upper edge of a boat's side"
-      ],
-      [
-        "TRANSOM",
-        "Broad flat structural section across the stern of many boats"
-      ],
-      [
-        "RIB",
-        "One curved transverse support shaping a wooden hull"
-      ],
-      [
-        "CAULK",
-        "To seal joints between wooden boat planks"
-      ],
-      [
-        "HULL",
-        "Main shell-like body of a boat"
-      ],
-      [
-        "PLANK",
-        "Long flat board forming part of a wooden boat's outer skin"
-      ],
-      [
-        "BOW",
-        "Forward end of the boat under construction"
-      ],
-      [
-        "STERN",
-        "Rear end of the boat's hull"
-      ],
-      [
-        "STEM",
-        "Upright or curved structural piece at the bow"
+        "ROWBOAT",
+        "Small boat moved through the water with oars"
       ],
       [
         "OAR",
-        "Long implement used to propel a small boat by hand"
+        "Long-handled tool pulled through water to move this boat"
       ],
       [
-        "BENCH",
-        "Crosswise seat inside a rowing boat"
+        "BOW",
+        "Front end of the wooden boat"
+      ],
+      [
+        "STERN",
+        "Back end of the rowboat"
+      ],
+      [
+        "HULL",
+        "Boat's main body, including its bottom and sides"
+      ],
+      [
+        "SEAT",
+        "Place where a person sits while rowing"
+      ],
+      [
+        "ROPE",
+        "Thick line used to tie the boat to the dock"
       ],
       [
         "WOOD",
-        "Natural material used for traditional planking"
+        "Material forming the rowboat's planks"
       ],
       [
-        "NAIL",
-        "Metal fastener securing wooden pieces together"
+        "PAINT",
+        "Colored coating brushed onto the boat's surface"
+      ],
+      [
+        "LEAK",
+        "Opening that lets unwanted water into the boat"
+      ],
+      [
+        "PLANK",
+        "Long flat piece of wood used in the boat's body"
+      ],
+      [
+        "DOCK",
+        "Platform beside which the rowboat is tied"
+      ],
+      [
+        "LAKE",
+        "Large inland body of water where a rowboat may travel"
+      ],
+      [
+        "BUCKET",
+        "Handled container used to carry or scoop water"
       ]
     ],
     "answerNotes": {
-      "KEEL": "A keel runs along the bottom; ribs extend across the hull rather than along its length.",
-      "GUNWALE": "Gunwale names the top edge of the hull's side, commonly pronounced gunnel.",
-      "TRANSOM": "A transom closes the rear of many hull designs; not every boat has the same stern shape.",
-      "RIB": "Ribs support the hull across its width, while the keel runs lengthwise below them.",
-      "CAULK": "Caulking closes joints; it is different from painting the entire finished surface."
+      "ROWBOAT": "A rowboat gets its name from how it is propelled.",
+      "OAR": "An oar works as a lever against the water.",
+      "BOW": "Bow identifies the forward end, opposite the stern.",
+      "STERN": "The stern is the rear end rather than either side.",
+      "HULL": "The hull is the boat's body, not its loose equipment."
     },
     "requiredAnswers": [
-      "KEEL"
-    ]
+      "ROWBOAT"
+    ],
+    "revision": 2
   },
   {
     "id": "working-waterfront-4",
@@ -314,7 +315,7 @@
     "cardDescription": "Examine a nautical chart through its depth marks, symbols, and the words for places beside the water.",
     "subtheme": "Reading a Harbor Chart",
     "focus": "A nautical chart represents navigation-related features and measured water depths. It differs in purpose from a general road map, and its reference information matters when interpreting a measurement.",
-    "solvingTip": "Use the clue’s category: a number, a reference, a land feature, or a water passage.",
+    "solvingTip": "Use the clue\u2019s category: a number, a reference, a land feature, or a water passage.",
     "words": [
       [
         "CHART",

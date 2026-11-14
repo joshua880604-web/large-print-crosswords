@@ -309,79 +309,81 @@
   },
   {
     "id": "music-behind-the-scenes-5",
-    "title": "A Guitar Maker's Workbench",
-    "description": "Visit a luthier through wood, braces, clamps, and the parts of an acoustic guitar body.",
-    "cardDescription": "Visit a luthier through wood, braces, clamps, and the parts of an acoustic guitar body.",
-    "subtheme": "A Guitar Maker's Workbench",
-    "focus": "A luthier makes or repairs string instruments; this bench focuses on an acoustic guitar.",
-    "solvingTip": "The workshop tools provide familiar letters for the trade name.",
+    "title": "A Guitar Case After the Sing-Along",
+    "description": "Put a guitar away through its case, soft lining, carrying handle, and small stored accessories.",
+    "cardDescription": "Put a guitar away through its case, soft lining, carrying handle, and small stored accessories.",
+    "subtheme": "A Guitar Case After the Sing-Along",
+    "focus": "The case protects the instrument between gatherings. These clues focus on ordinary storage and carrying objects.",
+    "solvingTip": "Try a short accessory or closing action before the longer case parts.",
     "words": [
       [
-        "LUTHIER",
-        "Craftsperson making or repairing string instruments"
+        "GUITAR",
+        "String instrument put away after the sing-along"
       ],
       [
-        "BRACE",
-        "Wooden support fitted inside an acoustic guitar body"
+        "CASE",
+        "Protective container fitted around a musical instrument"
       ],
       [
-        "SOUNDBOARD",
-        "Main vibrating top panel of an acoustic guitar"
+        "LATCH",
+        "Small fastener holding the guitar case shut"
       ],
       [
-        "CLAMP",
-        "Tool holding glued guitar parts together while they set"
+        "HANDLE",
+        "Grip used when carrying the closed guitar case"
       ],
       [
-        "ROSETTE",
-        "Decorative ring around an acoustic guitar's sound hole"
+        "LINING",
+        "Soft inside layer protecting the guitar's surface"
       ],
       [
-        "WOOD",
-        "Material used for the guitar's body panels"
+        "CLOTH",
+        "Soft fabric used to wipe the guitar before storing it"
       ],
       [
-        "GLUE",
-        "Adhesive joining the guitar's wooden parts"
+        "POCKET",
+        "Small storage space for accessories inside some cases"
       ],
       [
-        "NECK",
-        "Long narrow part carrying the fingerboard"
+        "PICK",
+        "Small tool put away after strumming the guitar"
       ],
       [
-        "FRET",
-        "Metal strip marking a note position along the neck"
+        "STRAP",
+        "Band removed or folded before the instrument is stored"
       ],
       [
-        "FILE",
-        "Hand tool used to shape a small part by abrasion"
+        "STORE",
+        "Put the protected instrument away until next time"
       ],
       [
-        "SAND",
-        "Smooth a wooden surface with abrasive paper"
+        "CLOSE",
+        "Shut the lid of the guitar case"
       ],
       [
-        "BRIDGE",
-        "Top-mounted part anchoring and supporting the guitar strings"
+        "CARRY",
+        "Move the case while holding its handle"
       ],
       [
-        "NUT",
-        "Small slotted support at the end of the fingerboard"
+        "SOFT",
+        "Gentle to the touch, as the case's inner padding is"
       ],
       [
-        "FINISH",
-        "Protective surface coating applied to the completed body"
+        "SHELF",
+        "Flat support holding a small music-accessory box"
       ]
     ],
     "answerNotes": {
-      "LUTHIER": "Luthiers can work on bowed as well as plucked string instruments.",
-      "BRACE": "Braces strengthen the body and influence how its panels vibrate.",
-      "SOUNDBOARD": "The soundboard helps transfer string vibration into audible sound.",
-      "CLAMP": "Clamps apply pressure rather than cutting or shaping the wood.",
-      "ROSETTE": "A rosette decorates the opening rather than holding the strings."
+      "GUITAR": "The guitar is the instrument rather than its protective case.",
+      "CASE": "A case protects the instrument while it is being carried or stored.",
+      "LATCH": "A latch secures the lid rather than carrying the case's weight.",
+      "HANDLE": "The handle is different from a strap supporting the instrument during play.",
+      "LINING": "Lining covers the case's inner surfaces rather than the instrument's outside."
     },
     "requiredAnswers": [
-      "LUTHIER"
-    ]
+      "GUITAR",
+      "CASE"
+    ],
+    "revision": 2
   }
 ]

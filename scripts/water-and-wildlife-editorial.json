@@ -84,7 +84,7 @@
     "cardDescription": "Explore the words for streamside mammals, their homes, and the movements they make in and around the water.",
     "subtheme": "Mammals by the Creek",
     "focus": "These clues distinguish animals from the structures they occupy. A beaver may build a dam and a lodge, while several other mammals also live along stream banks without building either one.",
-    "solvingTip": "A home, a barrier, and an animal are different kinds of answers. Let the definition’s category guide your first letters.",
+    "solvingTip": "A home, a barrier, and an animal are different kinds of answers. Let the definition\u2019s category guide your first letters.",
     "words": [
       [
         "BEAVER",
@@ -233,80 +233,90 @@
   },
   {
     "id": "water-and-wildlife-4",
-    "title": "A Turtle on a Log",
-    "description": "Distinguish the upper and lower parts of a turtle’s shell while exploring familiar reptile vocabulary.",
-    "cardDescription": "Distinguish the upper and lower parts of a turtle’s shell while exploring familiar reptile vocabulary.",
-    "subtheme": "A Turtle on a Log",
-    "focus": "The shell is part of a turtle’s body. Its sections have specific names, and a land-dwelling tortoise is a kind of turtle rather than an unrelated animal.",
-    "solvingTip": "Use position clues for the shell terms. Upper and lower name different structures; a body covering and an animal group are different answers.",
+    "title": "A Turtle Resting by the Pond",
+    "description": "Watch a turtle through its shell, slow steps, and resting place near the water.",
+    "cardDescription": "Watch a turtle through its shell, slow steps, and resting place near the water.",
+    "subtheme": "A Turtle Resting by the Pond",
+    "focus": "These clues describe visible body parts and a pond scene, using everyday words.",
+    "solvingTip": "Try the short body-part clues before the animal's name.",
     "words": [
       [
-        "CARAPACE",
-        "Upper shell section on a turtle's back"
-      ],
-      [
-        "PLASTRON",
-        "Lower shell section beneath a turtle's body"
-      ],
-      [
-        "SCUTE",
-        "One of the horny plates covering many turtles' shells"
-      ],
-      [
-        "TORTOISE",
-        "Land-dwelling turtle typically having sturdy walking legs"
-      ],
-      [
-        "REPTILE",
-        "Animal group containing turtles, snakes, and lizards"
-      ],
-      [
         "TURTLE",
-        "Shelled reptile that may bask on a floating log"
+        "Reptile with a protective shell on its body"
       ],
       [
         "SHELL",
-        "Hard protective body structure surrounding a turtle's trunk"
+        "Hard covering protecting much of a turtle's body"
       ],
       [
-        "SCALE",
-        "Small overlapping skin plate on a reptile's leg"
-      ],
-      [
-        "LOG",
-        "Fallen length of wood used as a basking perch"
-      ],
-      [
-        "POND",
-        "Freshwater setting for a painted turtle"
-      ],
-      [
-        "SUN",
-        "Source of warmth for a turtle basking outdoors"
-      ],
-      [
-        "CLAW",
-        "Curved nail at the end of a turtle's toe"
-      ],
-      [
-        "EGG",
-        "Shelled reproductive structure laid by a female turtle"
+        "TAIL",
+        "Rear body part projecting behind the turtle's shell"
       ],
       [
         "NECK",
-        "Body section connecting a turtle's head and trunk"
+        "Body part connecting the turtle's head to its body"
+      ],
+      [
+        "LOG",
+        "Fallen piece of tree on which a pond turtle may rest"
+      ],
+      [
+        "HEAD",
+        "Body part carrying the turtle's eyes and mouth"
+      ],
+      [
+        "LEG",
+        "One of the turtle's four walking limbs"
+      ],
+      [
+        "CLAW",
+        "Hard pointed tip on a turtle's toe"
+      ],
+      [
+        "POND",
+        "Small body of still water in this turtle scene"
+      ],
+      [
+        "SWIM",
+        "Move through the water using the body and limbs"
+      ],
+      [
+        "SUN",
+        "Bright sky object warming the turtle's resting place"
+      ],
+      [
+        "SLOW",
+        "Not fast, as a turtle's walk is often described"
+      ],
+      [
+        "REST",
+        "Stay still on a log for a while"
+      ],
+      [
+        "BANK",
+        "Ground at the edge of the pond"
+      ],
+      [
+        "SHADE",
+        "Cooler area out of direct sunshine"
+      ],
+      [
+        "GREEN",
+        "Color of some leaves around the pond"
       ]
     ],
     "answerNotes": {
-      "CARAPACE": "The carapace is the upper shell. The plastron forms the lower portion beneath the body.",
-      "PLASTRON": "Plastron names the underside of the shell. It is not a separate removable covering.",
-      "SCUTE": "Many turtle shells have scutes, though some turtles have softer skin-covered shells. The clue therefore does not apply to every species.",
-      "TORTOISE": "A tortoise is a type of turtle. The word commonly distinguishes terrestrial forms from more aquatic relatives.",
-      "REPTILE": "A turtle is a reptile. It is not an amphibian merely because many turtles spend time in water."
+      "TURTLE": "Different turtles live in different habitats; this scene features a pond visitor.",
+      "SHELL": "The shell includes a top and underside; no technical part names are needed here.",
+      "TAIL": "A turtle's tail is separate from its legs.",
+      "NECK": "Some turtles can pull their head and neck back toward the shell.",
+      "LOG": "A log can provide a resting place above the water."
     },
     "requiredAnswers": [
-      "CARAPACE"
-    ]
+      "TURTLE",
+      "SHELL"
+    ],
+    "revision": 2
   },
   {
     "id": "water-and-wildlife-5",
@@ -314,7 +324,7 @@
     "description": "Identify familiar freshwater fish and the parts and movements associated with life in flowing water.",
     "cardDescription": "Identify familiar freshwater fish and the parts and movements associated with life in flowing water.",
     "subtheme": "Fish in a River",
-    "focus": "Fish differ in body coverings and feeding features. The clues avoid treating every species alike and distinguish an animal’s name from the water feature or body part around it.",
+    "focus": "Fish differ in body coverings and feeding features. The clues avoid treating every species alike and distinguish an animal\u2019s name from the water feature or body part around it.",
     "solvingTip": "Use the distinctive feature or completed common name for a fish. Short body-part words can supply crossings for the longer names.",
     "words": [
       [

@@ -1,0 +1,3317 @@
+[
+  {
+    "id": "classic-american-stops-2",
+    "title": "Inside a Lighthouse Museum",
+    "theme": "Travel",
+    "subtheme": "Inside a Lighthouse Museum",
+    "series": "classic-american-stops",
+    "description": "Explore a lighthouse through its beacon, optical parts, and the objects associated with its keeper.",
+    "cardDescription": "Explore a lighthouse through its beacon, optical parts, and the objects associated with its keeper.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "FRESNEL",
+        "clue": "Surname attached to a famous segmented lighthouse lens",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "KEEPER",
+        "clue": "Person traditionally responsible for tending a lighthouse",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BEACON",
+        "clue": "Light or signal serving as a navigational guide",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "STAIRS",
+        "clue": "Series of steps leading upward inside a lighthouse",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FLASH",
+        "clue": "Brief burst in a light's repeated signal pattern",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TOWER",
+        "clue": "Tall structure raising a coastal light above its surroundings",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "LIGHT",
+        "clue": "Visible illumination sent toward the sea",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "CLIFF",
+        "clue": "Steep rock face on which a coastal tower may stand",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "LENS",
+        "clue": "Optical glass element used to direct a lighthouse beam",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "WICK",
+        "clue": "Fiber strip drawing lamp fuel toward a flame",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "OIL",
+        "clue": "Fuel used in some historical lighthouse lamps",
+        "row": 8,
+        "col": 3,
+        "direction": "down",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "The clues describe historical lighting and the tower around it. Different lighthouses used different light sources; the puzzle names equipment rather than a current navigation signal.",
+      "solvingTip": "Check whether the clue asks for a whole structure, a light-making part, or a person. Short lamp words help cross longer names.",
+      "answerNotes": [
+        {
+          "answer": "FRESNEL",
+          "text": "A Fresnel lens uses stepped sections to redirect light while reducing bulk. The name recalls Augustin-Jean Fresnel."
+        },
+        {
+          "answer": "KEEPER",
+          "text": "A keeper cared for the light and station. Many modern lights operate without a resident keeper."
+        },
+        {
+          "answer": "BEACON",
+          "text": "A beacon is a guiding signal. The tower is the structure that may carry it."
+        }
+      ]
+    }
+  },
+  {
+    "id": "backyard-nature-studies-4",
+    "title": "Bark and Tree Rings",
+    "theme": "Nature",
+    "subtheme": "Bark and Tree Rings",
+    "series": "backyard-nature-studies",
+    "description": "Study the parts of a woody tree through the surface of a stump and the layers beneath its bark.",
+    "cardDescription": "Study the parts of a woody tree through the surface of a stump and the layers beneath its bark.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "HEARTWOOD",
+        "clue": "Older inner wood near the center of many trunks",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SAPWOOD",
+        "clue": "Outer younger wood that conducts water in a tree",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CAMBIUM",
+        "clue": "Thin growth layer producing new wood and inner bark",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "GROWTH",
+        "clue": "Increase in a tree's size over time",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "GRAIN",
+        "clue": "Pattern showing the direction of wood fibers",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "TRUNK",
+        "clue": "Main upright woody stem of a tree",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "STUMP",
+        "clue": "Short trunk portion left after a tree is cut",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CORE",
+        "clue": "Central region inside a cylindrical sample of wood",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Tree part anchoring the plant below ground",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "WOOD",
+        "clue": "Hard fibrous material forming most of a tree trunk",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "KNOT",
+        "clue": "Hard spot in wood where a branch was attached",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SAP",
+        "clue": "Watery fluid transported within a plant",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "Tree layers have different jobs and locations. Growth rings often reflect yearly cycles in temperate trees, but counting rings is not an infallible rule for every tree or growing condition.",
+      "solvingTip": "Location words matter here: outside, growing layer, and center point to different tree parts. Use those distinctions before filling the crossings.",
+      "answerNotes": [
+        {
+          "answer": "HEARTWOOD",
+          "text": "Heartwood is distinct from the water-conducting sapwood. Its presence and color vary among tree species."
+        },
+        {
+          "answer": "SAPWOOD",
+          "text": "Sapwood is the outer functional wood. Older inner wood may become heartwood."
+        },
+        {
+          "answer": "CAMBIUM",
+          "text": "The vascular cambium produces new tissues in a woody stem. It lies between the wood and the inner bark."
+        }
+      ]
+    }
+  },
+  {
+    "id": "water-and-wildlife-4",
+    "title": "A Turtle on a Log",
+    "theme": "Nature",
+    "subtheme": "A Turtle on a Log",
+    "series": "water-and-wildlife",
+    "description": "Distinguish the upper and lower parts of a turtle\u2019s shell while exploring familiar reptile vocabulary.",
+    "cardDescription": "Distinguish the upper and lower parts of a turtle\u2019s shell while exploring familiar reptile vocabulary.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CARAPACE",
+        "clue": "Upper shell section on a turtle's back",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "PLASTRON",
+        "clue": "Lower shell section beneath a turtle's body",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TURTLE",
+        "clue": "Shelled reptile that may bask on a floating log",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SHELL",
+        "clue": "Hard protective body structure surrounding a turtle's trunk",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SCALE",
+        "clue": "Small overlapping skin plate on a reptile's leg",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SCUTE",
+        "clue": "One of the horny plates covering many turtles' shells",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CLAW",
+        "clue": "Curved nail at the end of a turtle's toe",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "POND",
+        "clue": "Freshwater setting for a painted turtle",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "NECK",
+        "clue": "Body section connecting a turtle's head and trunk",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LOG",
+        "clue": "Fallen length of wood used as a basking perch",
+        "row": 4,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SUN",
+        "clue": "Source of warmth for a turtle basking outdoors",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "EGG",
+        "clue": "Shelled reproductive structure laid by a female turtle",
+        "row": 2,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      }
+    ],
+    "editorial": {
+      "focus": "The shell is part of a turtle\u2019s body. Its sections have specific names, and a land-dwelling tortoise is a kind of turtle rather than an unrelated animal.",
+      "solvingTip": "Use position clues for the shell terms. Upper and lower name different structures; a body covering and an animal group are different answers.",
+      "answerNotes": [
+        {
+          "answer": "CARAPACE",
+          "text": "The carapace is the upper shell. The plastron forms the lower portion beneath the body."
+        },
+        {
+          "answer": "PLASTRON",
+          "text": "Plastron names the underside of the shell. It is not a separate removable covering."
+        },
+        {
+          "answer": "SCUTE",
+          "text": "Many turtle shells have scutes, though some turtles have softer skin-covered shells. The clue therefore does not apply to every species."
+        }
+      ]
+    }
+  },
+  {
+    "id": "kitchen-word-science-5",
+    "title": "Measuring Liquids",
+    "theme": "Food & Home",
+    "subtheme": "Measuring Liquids",
+    "series": "kitchen-word-science",
+    "description": "Read the vocabulary of measuring vessels, marked levels, and familiar American liquid units.",
+    "cardDescription": "Read the vocabulary of measuring vessels, marked levels, and familiar American liquid units.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "MENISCUS",
+        "clue": "Curved surface of a liquid seen inside a narrow measuring vessel",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "PITCHER",
+        "clue": "Handled vessel used to pour a drink",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "VOLUME",
+        "clue": "Amount of three-dimensional space occupied by a liquid",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "FUNNEL",
+        "clue": "Wide-mouthed tool directing liquid into a narrow opening",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LEVEL",
+        "clue": "Height reached by liquid in a measuring container",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LITER",
+        "clue": "Metric liquid-volume unit commonly spelled this way in American English",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PINT",
+        "clue": "United States liquid unit equal to two cups",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "POUR",
+        "clue": "To transfer liquid by tipping its container",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "LINE",
+        "clue": "Printed horizontal indicator beside a measuring scale",
+        "row": 6,
+        "col": 10,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "MARK",
+        "clue": "Short line identifying a measured amount on a vessel",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CUP",
+        "clue": "United States customary kitchen measure equal to eight fluid ounces",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "The unit clues use customary United States liquid measure where specified. A fluid ounce measures volume, and the curved liquid surface has its own name.",
+      "solvingTip": "Check whether the clue wants a container, a measurement, or a visible feature. Do not substitute a weight unit for a liquid-volume definition.",
+      "answerNotes": [
+        {
+          "answer": "MENISCUS",
+          "text": "A meniscus curves because of interactions among the liquid, vessel, and surrounding air. The word names the surface shape rather than a unit."
+        },
+        {
+          "answer": "VOLUME",
+          "text": "Volume is different from weight or mass. A fluid ounce measures volume, while an ordinary weight ounce measures something else."
+        },
+        {
+          "answer": "LITER",
+          "text": "Liter is the usual American spelling of litre. Both spellings refer to the same metric unit."
+        }
+      ]
+    }
+  },
+  {
+    "id": "familiar-vehicles-5",
+    "title": "A Streetcar Along the Avenue",
+    "theme": "Classic Pastimes",
+    "subtheme": "A Streetcar Along the Avenue",
+    "series": "familiar-vehicles",
+    "description": "Follow a city streetcar through rails, overhead electrical fittings, and the passenger space inside.",
+    "cardDescription": "Follow a city streetcar through rails, overhead electrical fittings, and the passenger space inside.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PANTOGRAPH",
+        "clue": "Jointed roof-mounted device collecting current from an overhead wire",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TROLLEY",
+        "clue": "Common American name for an electric streetcar",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ROUTE",
+        "clue": "Scheduled course followed through the city",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "AISLE",
+        "clue": "Passage through the middle of the passenger area",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TRACK",
+        "clue": "Railway route along which an urban streetcar runs",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "STEP",
+        "clue": "Level climbed at an older streetcar's entrance",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SEAT",
+        "clue": "Passenger sitting place inside the streetcar",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "WIRE",
+        "clue": "Overhead electrical conductor supplying a streetcar",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FARE",
+        "clue": "Charge paid for a streetcar ride",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "STOP",
+        "clue": "Designated place for riders to board or leave",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "RAIL",
+        "clue": "One of the metal running surfaces set along a streetcar route",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BELL",
+        "clue": "Ringing warning sound associated with a traditional trolley",
+        "row": 10,
+        "col": 7,
+        "direction": "across",
+        "number": 12
+      }
+    ],
+    "editorial": {
+      "focus": "A streetcar runs on rails in an urban setting. Electrical collection methods vary, so the clues name specific overhead equipment without claiming every vehicle uses the same arrangement.",
+      "solvingTip": "Look for a track component, an electrical fitting, or a passenger feature.",
+      "answerNotes": [
+        {
+          "answer": "PANTOGRAPH",
+          "text": "A pantograph maintains contact with a wire; some older streetcars use a trolley pole instead."
+        },
+        {
+          "answer": "TROLLEY",
+          "text": "Trolley can mean an urban rail vehicle in American usage; other English varieties use it for different wheeled objects."
+        },
+        {
+          "answer": "FARE",
+          "text": "Fare is a payment word; it sounds like fair but has a different spelling and meaning."
+        }
+      ]
+    }
+  },
+  {
+    "id": "working-waterfront-3",
+    "title": "In a Wooden Boat Shed",
+    "theme": "Travel",
+    "subtheme": "In a Wooden Boat Shed",
+    "series": "working-waterfront",
+    "description": "Look at the structural pieces that shape and strengthen a traditional wooden boat.",
+    "cardDescription": "Look at the structural pieces that shape and strengthen a traditional wooden boat.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "TRANSOM",
+        "clue": "Broad flat structural section across the stern of many boats",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "GUNWALE",
+        "clue": "Upper edge of a boat's side",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BENCH",
+        "clue": "Crosswise seat inside a rowing boat",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "STERN",
+        "clue": "Rear end of the boat's hull",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "NAIL",
+        "clue": "Metal fastener securing wooden pieces together",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "HULL",
+        "clue": "Main shell-like body of a boat",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "STEM",
+        "clue": "Upright or curved structural piece at the bow",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "KEEL",
+        "clue": "Main lengthwise backbone along the bottom of a traditional hull",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "RIB",
+        "clue": "One curved transverse support shaping a wooden hull",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BOW",
+        "clue": "Forward end of the boat under construction",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "OAR",
+        "clue": "Long implement used to propel a small boat by hand",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "The boat\u2019s lengthwise backbone, transverse supports, and outer planking have separate names. The clues focus on position and function, giving a route into less familiar boatbuilding words.",
+      "solvingTip": "Picture the bottom, sides, and ends of the hull before choosing a structural term.",
+      "answerNotes": [
+        {
+          "answer": "TRANSOM",
+          "text": "A transom closes the rear of many hull designs; not every boat has the same stern shape."
+        },
+        {
+          "answer": "GUNWALE",
+          "text": "Gunwale names the top edge of the hull's side, commonly pronounced gunnel."
+        },
+        {
+          "answer": "KEEL",
+          "text": "A keel runs along the bottom; ribs extend across the hull rather than along its length."
+        }
+      ]
+    }
+  },
+  {
+    "id": "forest-observations",
+    "title": "Ferns on the Forest Floor",
+    "theme": "Nature",
+    "subtheme": "Ferns on the Forest Floor",
+    "series": "forest-observations",
+    "description": "Look below the woodland canopy for fern fronds, small mosses, and the structures that produce new growth.",
+    "cardDescription": "Look below the woodland canopy for fern fronds, small mosses, and the structures that produce new growth.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "FIDDLEHEAD",
+        "clue": "Coiled young fern frond before it unfolds",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "RHIZOME",
+        "clue": "Horizontal stem from which many woodland ferns grow",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SHADE",
+        "clue": "Shelter from direct sunlight beneath forest trees",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SPORE",
+        "clue": "Tiny reproductive unit produced by a fern or moss",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "STALK",
+        "clue": "Slender support beneath a moss's spore case",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "GREEN",
+        "clue": "Color of many actively growing fern leaves",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Plant organ represented by a fern's frond",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SOIL",
+        "clue": "Ground material in which many woodland plants grow",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Slightly wet, as a sheltered patch of forest floor",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Anchoring and absorbing organ below a fern's stem",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "MOSS",
+        "clue": "Small nonflowering plant forming a soft woodland carpet",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "Ferns and mosses reproduce with spores rather than flower seeds. Their growth forms differ, and the clues separate a reproductive structure from the leaf or stem carrying it.",
+      "solvingTip": "Use the body part described: a divided leaf, a spreading stem, or a tiny reproductive unit.",
+      "answerNotes": [
+        {
+          "answer": "FIDDLEHEAD",
+          "text": "Fiddlehead describes the curled shape of new growth; the name is not an identification of edibility."
+        },
+        {
+          "answer": "RHIZOME",
+          "text": "A rhizome is a stem, even when underground; roots are separate organs growing from it."
+        },
+        {
+          "answer": "SPORE",
+          "text": "A spore is not a seed; ferns and mosses have life cycles that differ from those of flowering plants."
+        }
+      ]
+    }
+  },
+  {
+    "id": "forest-observations-2",
+    "title": "Acorns Beneath an Oak",
+    "theme": "Nature",
+    "subtheme": "Acorns Beneath an Oak",
+    "series": "forest-observations",
+    "description": "Explore an oak tree through its familiar nuts, lobed leaves, and woody branches.",
+    "cardDescription": "Explore an oak tree through its familiar nuts, lobed leaves, and woody branches.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "BRANCH",
+        "clue": "Woody limb extending from the main trunk",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CUPULE",
+        "clue": "Cup-shaped structure holding the base of an acorn",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SHADE",
+        "clue": "Cooler sheltered area beneath a broad tree crown",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "ACORN",
+        "clue": "Oak fruit often found nestled in a small scaly cup",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "RING",
+        "clue": "Growth band visible in a cut oak trunk",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "TWIG",
+        "clue": "Small slender woody shoot at a branch's end",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Below-ground structure anchoring an oak",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BARK",
+        "clue": "Outer covering of an oak's woody trunk",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Flat green structure with veins and sometimes deep lobes",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "OAK",
+        "clue": "Tree group whose fruits are acorns",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "NUT",
+        "clue": "Hard-shelled fruit represented by an acorn",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "An acorn is an oak\u2019s fruit, usually containing one seed. The clues connect the nut with its cup and the larger tree without treating all oaks as having identical leaves.",
+      "solvingTip": "Separate the fruit from its covering and from the branch that bears it.",
+      "answerNotes": [
+        {
+          "answer": "CUPULE",
+          "text": "The cupule is the acorn's little cup, distinct from the smooth nut sitting in it."
+        },
+        {
+          "answer": "ACORN",
+          "text": "An acorn is a fruit, usually containing one seed; it is not the entire seedling that later grows from it."
+        },
+        {
+          "answer": "OAK",
+          "text": "Oaks include many species with different leaves, bark, and growing habits."
+        }
+      ]
+    }
+  },
+  {
+    "id": "forest-observations-4",
+    "title": "Mushrooms After the Rain",
+    "theme": "Nature",
+    "subtheme": "Mushrooms After the Rain",
+    "series": "forest-observations",
+    "description": "Explore visible mushroom structures and the less visible threads growing through woodland material.",
+    "cardDescription": "Explore visible mushroom structures and the less visible threads growing through woodland material.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "MYCELIUM",
+        "clue": "Network of fungal threads growing through soil or wood",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "FUNGUS",
+        "clue": "Organism group containing mushrooms, molds, and yeasts",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "EARTH",
+        "clue": "Ground beneath a woodland mushroom",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "HYPHA",
+        "clue": "Single threadlike filament forming part of a fungus",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DECAY",
+        "clue": "Breakdown process in which many fungi take part",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SPORE",
+        "clue": "Microscopic reproductive unit released by a mushroom",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Moist condition often associated with new mushroom growth",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PORE",
+        "clue": "Small opening beneath certain mushroom caps",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "STEM",
+        "clue": "Upright support beneath a mushroom's cap",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "RING",
+        "clue": "Skirtlike remnant around the stem of some mushrooms",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CAP",
+        "clue": "Upper umbrella-like portion of a familiar mushroom",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "A mushroom is a fruiting structure of a fungus. Its cap, underside, and supporting stem have different names, while the thread network can extend through soil or wood.",
+      "solvingTip": "Read whether the clue describes the visible structure or the hidden network beneath it.",
+      "answerNotes": [
+        {
+          "answer": "MYCELIUM",
+          "text": "Mycelium is a network of hyphae; the visible mushroom is only one possible fruiting structure produced by a fungus."
+        },
+        {
+          "answer": "FUNGUS",
+          "text": "Fungi are not plants and do not obtain energy by plant-style photosynthesis."
+        },
+        {
+          "answer": "HYPHA",
+          "text": "Hypha is singular; hyphae is the plural form often used for the network's individual threads."
+        }
+      ]
+    }
+  },
+  {
+    "id": "small-world-nature-3",
+    "title": "An Earthworm in the Garden Soil",
+    "theme": "Nature",
+    "subtheme": "An Earthworm in the Garden Soil",
+    "series": "small-world-nature",
+    "description": "Study an earthworm through its ringed body, movement, and the soil structures it leaves behind.",
+    "cardDescription": "Study an earthworm through its ringed body, movement, and the soil structures it leaves behind.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CLITELLUM",
+        "clue": "Thickened band on a mature earthworm associated with reproduction",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "EARTHWORM",
+        "clue": "Segmented animal commonly burrowing through garden soil",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SEGMENT",
+        "clue": "One repeated division of an earthworm's body",
+        "row": 2,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "COCOON",
+        "clue": "Small protective case containing developing earthworm eggs",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TUNNEL",
+        "clue": "Narrow passage through a garden bed's ground",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Fallen plant material consumed by some earthworms",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "TAIL",
+        "clue": "Informal name for the rear end of the worm",
+        "row": 0,
+        "col": 7,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DAMP",
+        "clue": "Slightly wet condition associated with active earthworms",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SOIL",
+        "clue": "Earthy material through which a garden worm moves",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CAST",
+        "clue": "Soil-rich material deposited after passing through an earthworm",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "RING",
+        "clue": "Circular outline suggested by a worm's repeated divisions",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "Earthworms move using muscles and small bristles. Their body segments and reproductive band have particular names, while the burrow and cast are effects of their activity.",
+      "solvingTip": "Distinguish a body feature from a tunnel or a deposit left in the ground.",
+      "answerNotes": [
+        {
+          "answer": "CLITELLUM",
+          "text": "The clitellum helps form a cocoon for eggs; it is a body region rather than a separate ring-shaped animal."
+        },
+        {
+          "answer": "EARTHWORM",
+          "text": "Earthworms are annelids rather than insects; their body organization differs from an insect's six-legged form."
+        },
+        {
+          "answer": "SEGMENT",
+          "text": "Segments make the body appear ringed; the entire worm is one animal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "small-world-nature-4",
+    "title": "A Spider at Its Web",
+    "theme": "Nature",
+    "subtheme": "A Spider at Its Web",
+    "series": "small-world-nature",
+    "description": "Explore a web-building spider through its silk, body parts, and the insects caught nearby.",
+    "cardDescription": "Explore a web-building spider through its silk, body parts, and the insects caught nearby.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "SPINNERET",
+        "clue": "Silk-spinning structure on a spider's abdomen",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ARACHNID",
+        "clue": "Animal group containing spiders and scorpions",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SPIDER",
+        "clue": "Eight-legged arachnid that may catch prey in a web",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SPIRAL",
+        "clue": "Winding line crossing the spokes of an orb web",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "THREAD",
+        "clue": "Single fine strand in a spider's web",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FANG",
+        "clue": "Pointed mouthpart through which a spider can deliver venom",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PREY",
+        "clue": "Animal caught and eaten by a hunting spider",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SILK",
+        "clue": "Fiber produced by a spider for webs and other uses",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "EYE",
+        "clue": "Light-detecting body part on a spider's head region",
+        "row": 8,
+        "col": 3,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "FLY",
+        "clue": "Small winged insect that may be caught in a web",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LEG",
+        "clue": "One of a spider's eight walking limbs",
+        "row": 8,
+        "col": 7,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SAC",
+        "clue": "Silken case surrounding a spider's eggs",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      }
+    ],
+    "editorial": {
+      "focus": "Spiders are arachnids, not insects. The clues identify their silk-making structures and web features while recognizing that different spiders use different hunting methods.",
+      "solvingTip": "Check whether the clue names the animal, a body part, or a silk structure.",
+      "answerNotes": [
+        {
+          "answer": "SPINNERET",
+          "text": "Spinnerets release silk from silk-producing glands; they are distinct from legs or mouthparts."
+        },
+        {
+          "answer": "ARACHNID",
+          "text": "Arachnids are separate from insects; adult spiders have eight legs rather than six."
+        },
+        {
+          "answer": "SPIDER",
+          "text": "Not every spider builds a prey-catching web; web-building is one hunting strategy within the group."
+        }
+      ]
+    }
+  },
+  {
+    "id": "flowers-through-the-year",
+    "title": "A Daffodil in Early Spring",
+    "theme": "Gardening",
+    "subtheme": "A Daffodil in Early Spring",
+    "series": "flowers-through-the-year",
+    "description": "Explore a familiar spring flower through its trumpet-like center, underground bulb, and upright leaves.",
+    "cardDescription": "Explore a familiar spring flower through its trumpet-like center, underground bulb, and upright leaves.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "DAFFODIL",
+        "clue": "Familiar spring flower with a central trumpet or cup",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SPATHE",
+        "clue": "Bract enclosing the developing daffodil flower bud",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SPRING",
+        "clue": "Season when most familiar daffodils flower",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BLOOM",
+        "clue": "Open daffodil flower seen in spring",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "TEPAL",
+        "clue": "Flower segment used when petals and sepals look similar",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Absorbing organ growing beneath the bulb",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "STEM",
+        "clue": "Plant axis supporting growth above the bulb",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SUN",
+        "clue": "Daylight source illuminating a spring daffodil",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SAP",
+        "clue": "Plant fluid moving within a daffodil stem",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "TIP",
+        "clue": "Pointed end of a long daffodil leaf",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BED",
+        "clue": "Prepared garden area planted with daffodil bulbs",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "Daffodil is a common name within the Narcissus group. Its central cup and surrounding flower segments have names that differ from the leafy parts below.",
+      "solvingTip": "Use the location and shape in the clue: central cup, outer segment, or underground store.",
+      "answerNotes": [
+        {
+          "answer": "DAFFODIL",
+          "text": "Daffodil is a common name for plants in Narcissus; their colors and cup lengths vary among kinds."
+        },
+        {
+          "answer": "TEPAL",
+          "text": "Tepal is useful for the similar-looking outer flower segments in plants such as daffodils."
+        },
+        {
+          "answer": "SUN",
+          "text": "Sunlight supplies energy for photosynthesis in a daffodil's green leaves."
+        }
+      ]
+    }
+  },
+  {
+    "id": "flowers-through-the-year-2",
+    "title": "A Sunflower Facing the Garden",
+    "theme": "Gardening",
+    "subtheme": "A Sunflower Facing the Garden",
+    "series": "flowers-through-the-year",
+    "description": "Look closely at a tall sunflower through its large flower head, small florets, and developing fruits.",
+    "cardDescription": "Look closely at a tall sunflower through its large flower head, small florets, and developing fruits.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "SUNFLOWER",
+        "clue": "Tall daisy-family plant with a large familiar yellow-rayed head",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "ACHENE",
+        "clue": "Dry one-seeded fruit type represented by a sunflower's seed-like unit",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "FLORET",
+        "clue": "One small individual flower within a sunflower head",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "STALK",
+        "clue": "Tall upright support beneath a sunflower head",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Plant anchor extending into the soil below a sunflower",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "GOLD",
+        "clue": "Warm yellow color suggested by a bright sunflower border",
+        "row": 6,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DISK",
+        "clue": "Central region of a sunflower head containing many small florets",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TALL",
+        "clue": "Having considerable height, as many sunflowers do",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Broad green structure along a sunflower's stem",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BEE",
+        "clue": "Insect visiting the center of a sunflower",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BUD",
+        "clue": "Unopened sunflower head before its florets expand",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "RAY",
+        "clue": "One strap-shaped outer floret of a familiar sunflower head",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "A sunflower head contains many individual flowers. The outer rays and central disk florets have different forms, and the familiar edible seed is enclosed in a fruit wall.",
+      "solvingTip": "Distinguish the whole head from one small flower or one developing fruit.",
+      "answerNotes": [
+        {
+          "answer": "SUNFLOWER",
+          "text": "A sunflower head is a cluster of many small flowers rather than one giant flower."
+        },
+        {
+          "answer": "ACHENE",
+          "text": "The familiar sunflower seed is botanically enclosed in a dry fruit wall; the fruit is commonly described as an achene or, more precisely in this family, a cypsela."
+        },
+        {
+          "answer": "FLORET",
+          "text": "Floret names one flower in the larger head; many disk florets can develop fruits."
+        }
+      ]
+    }
+  },
+  {
+    "id": "flowers-through-the-year-4",
+    "title": "Bright Bracts on a Poinsettia",
+    "theme": "Gardening",
+    "subtheme": "Bright Bracts on a Poinsettia",
+    "series": "flowers-through-the-year",
+    "description": "Examine a winter holiday plant through its colored bracts and the small flower structures at the center.",
+    "cardDescription": "Examine a winter holiday plant through its colored bracts and the small flower structures at the center.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "POINSETTIA",
+        "clue": "Holiday plant known for colored bracts around small central flowers",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CYATHIUM",
+        "clue": "Small cup-shaped flower grouping at a poinsettia's center",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CENTER",
+        "clue": "Middle area containing a poinsettia's small flower groupings",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "GREEN",
+        "clue": "Usual foliage color below a poinsettia's showy top",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CREAM",
+        "clue": "Pale off-white color of some poinsettia varieties",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Plant organ extending through the container's soil",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "STEM",
+        "clue": "Branchlike support carrying the plant's foliage",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Flat green foliage part below the colored bracts",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "RED",
+        "clue": "Traditional poinsettia bract color in many holiday displays",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BUD",
+        "clue": "Unopened developing flower structure",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SAP",
+        "clue": "Milky fluid found in a poinsettia's stems",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "POT",
+        "clue": "Container holding a holiday poinsettia",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "The showy colored parts of a poinsettia are bracts rather than petals. The actual flowers are grouped in small central structures, while the plant itself is a shrub.",
+      "solvingTip": "Look for whether the clue names a modified leaf, a flower cluster, or the entire plant.",
+      "answerNotes": [
+        {
+          "answer": "POINSETTIA",
+          "text": "The conspicuous red, cream, or pink parts are bracts, not large flower petals."
+        },
+        {
+          "answer": "CYATHIUM",
+          "text": "A cyathium contains the tiny flowers; it is not the broad colored structure surrounding them."
+        },
+        {
+          "answer": "SAP",
+          "text": "Sap names the fluid rather than the colored plant parts or central flowers."
+        }
+      ]
+    }
+  },
+  {
+    "id": "paper-and-lettering-5",
+    "title": "At a Letterpress Workbench",
+    "theme": "Crafts",
+    "subtheme": "At a Letterpress Workbench",
+    "series": "paper-and-lettering",
+    "description": "Explore raised-type printing through small type pieces, spacing material, and a freshly inked impression.",
+    "cardDescription": "Explore raised-type printing through small type pieces, spacing material, and a freshly inked impression.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "LETTERPRESS",
+        "clue": "Printing process transferring ink from a raised surface",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PROOF",
+        "clue": "Trial print checked before a full printing run",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CHASE",
+        "clue": "Metal frame holding a letterpress form",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "QUOIN",
+        "clue": "Expanding locking device securing type within a printing frame",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PAPER",
+        "clue": "Sheet receiving the letterpress image",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LEAD",
+        "clue": "Thin spacing strip between type lines in traditional composition",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SORT",
+        "clue": "Individual piece of metal printing type",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TYPE",
+        "clue": "Raised letter pieces arranged for printing",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "LINE",
+        "clue": "Row of arranged type making one text row",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CASE",
+        "clue": "Divided tray storing individual printing letters",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "INK",
+        "clue": "Coloring material transferred from the raised printing surface",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "Letterpress transfers ink from a raised printing surface. The clues distinguish the letters themselves from the frame and spacing pieces that hold a page form together.",
+      "solvingTip": "Look for a letter, a support, a spacing piece, or the printed result.",
+      "answerNotes": [
+        {
+          "answer": "LETTERPRESS",
+          "text": "Letterpress is a relief process; it differs from methods that print from recessed grooves or a flat chemically prepared surface."
+        },
+        {
+          "answer": "CHASE",
+          "text": "A chase encloses the arranged material; it is different from the paper receiving the impression."
+        },
+        {
+          "answer": "QUOIN",
+          "text": "A quoin helps lock the form in place, rather than forming part of the readable text."
+        }
+      ]
+    }
+  },
+  {
+    "id": "collections-and-keepsakes-4",
+    "title": "Shells Arranged in a Cabinet",
+    "theme": "Classic Pastimes",
+    "subtheme": "Shells Arranged in a Cabinet",
+    "series": "collections-and-keepsakes",
+    "description": "Examine a shell collection through familiar mollusk groups, coiled forms, and labels beside the specimens.",
+    "cardDescription": "Examine a shell collection through familiar mollusk groups, coiled forms, and labels beside the specimens.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "GASTROPOD",
+        "clue": "Mollusk group containing snails and slugs",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BIVALVE",
+        "clue": "Mollusk group with two hinged shell halves",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SCALLOP",
+        "clue": "Bivalve with a fan-shaped ribbed shell",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "COWRIE",
+        "clue": "Glossy often oval shell with a long narrow opening",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SPIRE",
+        "clue": "Tapered upper portion of a coiled shell",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LABEL",
+        "clue": "Written identification placed beside a shell",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CONCH",
+        "clue": "Marine snail name associated with a large spiral shell",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "WHELK",
+        "clue": "Marine snail with a familiar spiral shell",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "APEX",
+        "clue": "Pointed tip at the earliest part of a coiled shell",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "CLAM",
+        "clue": "Familiar two-shelled mollusk represented in collections",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TRAY",
+        "clue": "Shallow support holding sorted shell specimens",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "A shell\u2019s shape can help describe its animal group. The clues distinguish a two-valved shell from a coiled gastropod shell and name parts used in a collector\u2019s description.",
+      "solvingTip": "Start with a familiar shell name, then use the opening or coil terms for crossings.",
+      "answerNotes": [
+        {
+          "answer": "GASTROPOD",
+          "text": "Gastropods include both shelled snails and slugs, so a coiled shell is not universal in the group."
+        },
+        {
+          "answer": "BIVALVE",
+          "text": "Clams and scallops are bivalves; a coiled snail belongs to another mollusk group."
+        },
+        {
+          "answer": "COWRIE",
+          "text": "A cowrie's smooth surface is natural shell material rather than porcelain."
+        }
+      ]
+    }
+  },
+  {
+    "id": "collections-and-keepsakes-5",
+    "title": "A Pocket Watch in Its Case",
+    "theme": "Classic Pastimes",
+    "subtheme": "A Pocket Watch in Its Case",
+    "series": "collections-and-keepsakes",
+    "description": "Look inside a traditional pocket watch through its winding controls, timekeeping mechanism, and carrying chain.",
+    "cardDescription": "Look inside a traditional pocket watch through its winding controls, timekeeping mechanism, and carrying chain.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ESCAPEMENT",
+        "clue": "Watch mechanism controlling the release of energy to the timekeeper",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SPRING",
+        "clue": "Coiled energy store inside a mechanical watch",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CHAIN",
+        "clue": "Linked attachment securing a pocket watch to clothing",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CROWN",
+        "clue": "Small outside control used to wind or set many watches",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TICK",
+        "clue": "Repeated small sound associated with the mechanism",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "GEAR",
+        "clue": "Toothed wheel transferring rotation within a watch",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "DIAL",
+        "clue": "Marked face on which a watch displays time",
+        "row": 6,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "CASE",
+        "clue": "Protective outer housing around a pocket watch",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HAND",
+        "clue": "Pointer indicating an hour or minute",
+        "row": 6,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FOB",
+        "clue": "Small attachment or short chain associated with a pocket watch",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LID",
+        "clue": "Hinged cover protecting some watch dials",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      }
+    ],
+    "editorial": {
+      "focus": "A mechanical watch stores energy in a spring and releases it through a regulated mechanism. The clues distinguish the display, its protective case, and the small parts controlling motion.",
+      "solvingTip": "Separate an outside carrying feature from an internal moving or supporting component.",
+      "answerNotes": [
+        {
+          "answer": "ESCAPEMENT",
+          "text": "An escapement meters the gear train's motion in coordination with an oscillator rather than simply letting the spring unwind freely."
+        },
+        {
+          "answer": "CROWN",
+          "text": "A crown is one control design; some older pocket watches instead use a separate key."
+        },
+        {
+          "answer": "FOB",
+          "text": "Fob refers to a carrying attachment in this scene, not a part of the timekeeping mechanism."
+        }
+      ]
+    }
+  },
+  {
+    "id": "home-details",
+    "title": "Parts of an Old-Fashioned Window",
+    "theme": "Food & Home",
+    "subtheme": "Parts of an Old-Fashioned Window",
+    "series": "home-details",
+    "description": "Explore a framed window through its movable sections, dividing strips, and surrounding woodwork.",
+    "cardDescription": "Explore a framed window through its movable sections, dividing strips, and surrounding woodwork.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "MULLION",
+        "clue": "Vertical member dividing adjacent window units or large sections",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "MUNTIN",
+        "clue": "Narrow strip separating small panes within a window sash",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LINTEL",
+        "clue": "Horizontal structural support above a window opening",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "GLAZE",
+        "clue": "To fit a window with its glass",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "LATCH",
+        "clue": "Small fastening keeping a window section closed",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "FRAME",
+        "clue": "Outer support surrounding the window assembly",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "HINGE",
+        "clue": "Joint allowing a casement window to swing",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PANE",
+        "clue": "Single sheet of glass set into a window",
+        "row": 7,
+        "col": 2,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "JAMB",
+        "clue": "Vertical side of a window's surrounding opening",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SASH",
+        "clue": "Frame holding window glass, often movable within a larger frame",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "RAIL",
+        "clue": "Horizontal member within a framed window sash",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "A window\u2019s glass, moving sash, and surrounding frame have different names. The clues distinguish small dividing strips from the larger structural pieces around the opening.",
+      "solvingTip": "Use the location: beneath the glass, beside the opening, or between separate panes.",
+      "answerNotes": [
+        {
+          "answer": "MULLION",
+          "text": "A mullion separates larger sections, while a muntin divides smaller panes within a sash."
+        },
+        {
+          "answer": "MUNTIN",
+          "text": "Muntins divide individual panes; the word differs from mullion despite the similar sound."
+        },
+        {
+          "answer": "LINTEL",
+          "text": "A lintel carries loads over the opening rather than supporting flowerpots below it."
+        }
+      ]
+    }
+  },
+  {
+    "id": "home-details-2",
+    "title": "A Door Lock and Its Fittings",
+    "theme": "Food & Home",
+    "subtheme": "A Door Lock and Its Fittings",
+    "series": "home-details",
+    "description": "Identify the visible parts and common mechanism names around a household door lock.",
+    "cardDescription": "Identify the visible parts and common mechanism names around a household door lock.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "ESCUTCHEON",
+        "clue": "Protective or decorative plate around a keyhole or handle",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DEADBOLT",
+        "clue": "Door-fastening bolt that does not spring back like an ordinary latch",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "KEYWAY",
+        "clue": "Shaped entrance passage for the matching key in a lock",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PLATE",
+        "clue": "Flat metal fitting around or behind door hardware",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "LATCH",
+        "clue": "Fastening piece that commonly catches automatically when a door closes",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "JAMB",
+        "clue": "Vertical side of the frame receiving the door's fastening",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TURN",
+        "clue": "To rotate the key or handle",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "KNOB",
+        "clue": "Round hand control used to turn a door mechanism",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LOCK",
+        "clue": "Device securing a door against ordinary opening",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "HASP",
+        "clue": "Hinged fastening loop commonly used with a padlock",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "KEY",
+        "clue": "Matching small metal tool used to operate many locks",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "The clues separate the moving fastening piece from the plate receiving it and from the trim around the key opening. They name components rather than describing lock-opening techniques.",
+      "solvingTip": "Use which part moves and which stays fixed in the doorway.",
+      "answerNotes": [
+        {
+          "answer": "ESCUTCHEON",
+          "text": "Escutcheon names surrounding trim, not the internal locking mechanism."
+        },
+        {
+          "answer": "DEADBOLT",
+          "text": "A deadbolt is moved positively by its control rather than simply retracting against a spring-loaded sloping latch face."
+        },
+        {
+          "answer": "KEYWAY",
+          "text": "A keyway is an opening in the lock, distinct from the decorative plate around it."
+        }
+      ]
+    }
+  },
+  {
+    "id": "home-details-4",
+    "title": "A Cabinet Door and Drawer",
+    "theme": "Food & Home",
+    "subtheme": "A Cabinet Door and Drawer",
+    "series": "home-details",
+    "description": "Explore cabinet construction through frame pieces, joints, and the hardware that moves a drawer.",
+    "cardDescription": "Explore cabinet construction through frame pieces, joints, and the hardware that moves a drawer.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "RUNNER",
+        "clue": "Guide or support along which a drawer slides",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DRAWER",
+        "clue": "Sliding boxlike compartment within furniture",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "RABBET",
+        "clue": "Step-shaped recess cut along the edge of a board",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "HINGE",
+        "clue": "Joint allowing a cabinet door to swing open",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PANEL",
+        "clue": "Broad central piece enclosed by a cabinet door's frame",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "STILE",
+        "clue": "Vertical member of a frame-and-panel cabinet door",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SHELF",
+        "clue": "Horizontal board supporting objects inside a cabinet",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DADO",
+        "clue": "Rectangular groove cut across a board to receive another piece",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PULL",
+        "clue": "Handle grasped to open a cabinet door or drawer",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DOOR",
+        "clue": "Hinged front closure of a cupboard",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FACE",
+        "clue": "Broad flat surface of a board",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PEG",
+        "clue": "Small pin used to support a movable cabinet shelf",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "A frame-and-panel door has named vertical and horizontal members. Drawer guides and handles serve different purposes from the wood joints holding the structure together.",
+      "solvingTip": "Use direction and location: upright frame piece, crosspiece, edge recess, or pulling handle.",
+      "answerNotes": [
+        {
+          "answer": "RABBET",
+          "text": "A rabbet is open to the board's edge, unlike a groove enclosed on both sides."
+        },
+        {
+          "answer": "HINGE",
+          "text": "A hinge permits rotation, while a drawer runner supports sliding movement."
+        },
+        {
+          "answer": "STILE",
+          "text": "Stiles run vertically, while rails form the horizontal members."
+        }
+      ]
+    }
+  },
+  {
+    "id": "everyday-materials",
+    "title": "Glass at the Glassblower\u2019s Bench",
+    "theme": "Everyday Science",
+    "subtheme": "Glass at the Glassblower\u2019s Bench",
+    "series": "everyday-materials",
+    "description": "Explore ordinary glassmaking vocabulary through heat, recycled fragments, and shaping tools.",
+    "cardDescription": "Explore ordinary glassmaking vocabulary through heat, recycled fragments, and shaping tools.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BLOWPIPE",
+        "clue": "Hollow tube used to shape hot glass with air",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "GATHER",
+        "clue": "Portion of hot glass collected on a working tool",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SILICA",
+        "clue": "Major glass-forming compound in ordinary sand-based glass",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ANNEAL",
+        "clue": "To heat and cool glass under control to reduce internal stress",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BATCH",
+        "clue": "Measured mixture of raw ingredients prepared for a glass furnace",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "GLASS",
+        "clue": "Usually noncrystalline solid forming familiar transparent vessels",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SHAPE",
+        "clue": "Outer form given to a finished glass object",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SAND",
+        "clue": "Granular source of silica used in common glassmaking",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "HEAT",
+        "clue": "Thermal energy used to soften glass material",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ROD",
+        "clue": "Long narrow tool supporting or shaping a glass piece",
+        "row": 6,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "AIR",
+        "clue": "Gas blown through a tube to expand hot glass",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "Common glass is formed from a heated mixture and shaped before controlled cooling. The clues distinguish the ingredients, the softened material, and the process used to reduce internal stress.",
+      "solvingTip": "Use whether a clue asks for material, temperature state, tool, or cooling process.",
+      "answerNotes": [
+        {
+          "answer": "BLOWPIPE",
+          "text": "A blowpipe delivers air into the softened glass; solid rods perform other supporting or shaping jobs."
+        },
+        {
+          "answer": "SILICA",
+          "text": "Silica is important in common glass, though not every specialized glass has the same composition."
+        },
+        {
+          "answer": "ANNEAL",
+          "text": "Annealing uses a controlled temperature cycle; it is different from simply making a glass object colder as fast as possible."
+        }
+      ]
+    }
+  },
+  {
+    "id": "everyday-materials-2",
+    "title": "Fibers in a Sheet of Paper",
+    "theme": "Everyday Science",
+    "subtheme": "Fibers in a Sheet of Paper",
+    "series": "everyday-materials",
+    "description": "Follow papermaking through its wet fiber mixture, screen, and the edges of the finished sheet.",
+    "cardDescription": "Follow papermaking through its wet fiber mixture, screen, and the edges of the finished sheet.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "CELLULOSE",
+        "clue": "Plant structural substance forming much ordinary paper fiber",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SCREEN",
+        "clue": "Mesh surface on which a wet paper sheet forms",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SHEET",
+        "clue": "Single flat piece of paper after forming",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "FIBER",
+        "clue": "One slender strand contributing to a paper sheet's structure",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "WATER",
+        "clue": "Liquid carrying the fibers during sheet formation",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "GRAIN",
+        "clue": "Preferred direction of fibers in many machine-made papers",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "FELT",
+        "clue": "Absorbent support used when pressing many handmade papers",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "EDGE",
+        "clue": "Boundary of a finished paper sheet",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ROLL",
+        "clue": "Large continuous form used to store machine-made paper",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RAG",
+        "clue": "Cloth source of fibers for some papers",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "Paper forms from fibers arranged and bonded into a sheet. The clues distinguish the plant-derived material from the wet pulp and the equipment used to remove water.",
+      "solvingTip": "Use the stage described: loose fiber, wet mixture, supported sheet, or pressed result.",
+      "answerNotes": [
+        {
+          "answer": "CELLULOSE",
+          "text": "Cellulose is a carbohydrate in plant cell walls, not the same material as starch used in some paper treatments."
+        },
+        {
+          "answer": "FIBER",
+          "text": "Individual fibers overlap within the sheet; they are not woven like an ordinary cloth."
+        },
+        {
+          "answer": "FELT",
+          "text": "A papermaking felt supports and helps remove water from a wet sheet."
+        }
+      ]
+    }
+  },
+  {
+    "id": "everyday-materials-3",
+    "title": "Clay Before and After the Kiln",
+    "theme": "Everyday Science",
+    "subtheme": "Clay Before and After the Kiln",
+    "series": "everyday-materials",
+    "description": "Explore ceramic materials through clay mixtures, first firing, and the surface applied to a pot.",
+    "cardDescription": "Explore ceramic materials through clay mixtures, first firing, and the surface applied to a pot.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "HANDLE",
+        "clue": "Gripping attachment added to a mug",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "KAOLIN",
+        "clue": "Pale clay mineral material associated with porcelain bodies",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "GLAZE",
+        "clue": "Surface mixture fired to form a glassy coating on pottery",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "KILN",
+        "clue": "High-temperature enclosure used to fire pottery",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CONE",
+        "clue": "Pyrometric ___, heat-work indicator used in ceramic firing",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BOWL",
+        "clue": "Rounded open vessel made by a potter",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "GROG",
+        "clue": "Crushed previously fired ceramic material added to some clay bodies",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "FIRE",
+        "clue": "To transform a clay piece by heating it in a pottery kiln",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SLIP",
+        "clue": "Liquid suspension of clay particles in water",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CLAY",
+        "clue": "Fine mineral material shaped into an unfired pot",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "POT",
+        "clue": "Hollow ceramic vessel shaped from clay",
+        "row": 3,
+        "col": 8,
+        "direction": "across",
+        "number": 6
+      }
+    ],
+    "editorial": {
+      "focus": "A clay body and its glaze are different mixtures. The clues identify a liquid clay suspension, a fired intermediate stage, and the equipment that supplies the high heat.",
+      "solvingTip": "Separate a material from the heating process or the object being made.",
+      "answerNotes": [
+        {
+          "answer": "KAOLIN",
+          "text": "Kaolin is an important porcelain ingredient, while a complete clay body can contain other materials."
+        },
+        {
+          "answer": "KILN",
+          "text": "A kiln changes ceramic materials through heat; it differs from a household drying cupboard."
+        },
+        {
+          "answer": "GROG",
+          "text": "Grog modifies a clay mixture; it is distinct from dry unfired clay powder."
+        }
+      ]
+    }
+  },
+  {
+    "id": "keyboard-sounds-3",
+    "title": "A Harpsichord in the Music Room",
+    "theme": "Music",
+    "subtheme": "A Harpsichord in the Music Room",
+    "series": "keyboard-sounds",
+    "description": "Discover the plucked sound of a harpsichord through its keyboard, strings, and small moving parts.",
+    "cardDescription": "Discover the plucked sound of a harpsichord through its keyboard, strings, and small moving parts.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "HARPSICHORD",
+        "clue": "Keyboard instrument whose strings are plucked rather than struck",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "PLECTRUM",
+        "clue": "Small piece that plucks a harpsichord string",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "STRING",
+        "clue": "Taut wire plucked inside the harpsichord",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BENCH",
+        "clue": "Seat in front of the keyboard",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "PLUCK",
+        "clue": "Pull and release a string to start its sound",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "QUILL",
+        "clue": "Bird-feather shaft historically used for harpsichord picks",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BACH",
+        "clue": "Composer Johann Sebastian associated with Baroque keyboard music",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "CASE",
+        "clue": "Outer wooden body housing the mechanism",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TUNE",
+        "clue": "Adjust the strings to their intended pitches",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "NOTE",
+        "clue": "Single pitched sound produced by pressing a key",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "JACK",
+        "clue": "Upright part carrying the harpsichord's plucking piece",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "A harpsichord plucks its strings, whereas a piano's hammers strike theirs.",
+      "solvingTip": "Start with the familiar keyboard words before the plucking mechanism.",
+      "answerNotes": [
+        {
+          "answer": "HARPSICHORD",
+          "text": "A harpsichord's mechanism differs from the hammer action of a piano."
+        },
+        {
+          "answer": "PLECTRUM",
+          "text": "Plectrum is another word for a plucking pick."
+        },
+        {
+          "answer": "QUILL",
+          "text": "Modern replacement plectra may use synthetic materials instead."
+        }
+      ]
+    }
+  },
+  {
+    "id": "keyboard-sounds-4",
+    "title": "The Player Piano's Paper Roll",
+    "theme": "Music",
+    "subtheme": "The Player Piano's Paper Roll",
+    "series": "keyboard-sounds",
+    "description": "Recall a player piano through perforated paper, foot pedals, and the moving roll that controls its notes.",
+    "cardDescription": "Recall a player piano through perforated paper, foot pedals, and the moving roll that controls its notes.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PERFORATION",
+        "clue": "Hole cut in the paper to encode a player-piano note",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PNEUMATIC",
+        "clue": "Operated by air pressure, as a traditional player-piano mechanism",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TRACKER",
+        "clue": "Word before bar for the strip that reads holes in a piano roll",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PLAYER",
+        "clue": "Word before piano for an instrument operated by a perforated roll",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "BENCH",
+        "clue": "Seat in front of the player piano",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SPOOL",
+        "clue": "Cylinder around which the music roll is wound",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "PEDAL",
+        "clue": "Foot lever used to pump air on some player pianos",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PAPER",
+        "clue": "Material carrying the holes in a traditional piano roll",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ROLL",
+        "clue": "Long paper strip wound between spools on a player piano",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "HOLE",
+        "clue": "Opening in the paper that triggers part of the mechanism",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "AIR",
+        "clue": "Working medium inside the pneumatic mechanism",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "A traditional pneumatic player piano reads holes in a paper roll rather than a digital file.",
+      "solvingTip": "Find the paper-related answers before the air-powered parts.",
+      "answerNotes": [
+        {
+          "answer": "PERFORATION",
+          "text": "Rows of holes guide the mechanism that operates the piano action."
+        },
+        {
+          "answer": "PNEUMATIC",
+          "text": "Pneumatic systems use pressure differences rather than an electronic audio recording."
+        },
+        {
+          "answer": "TRACKER",
+          "text": "The tracker bar contains openings aligned with the paper's encoded paths."
+        }
+      ]
+    }
+  },
+  {
+    "id": "strings-and-picking-2",
+    "title": "A Mandolin's Paired Strings",
+    "theme": "Music",
+    "subtheme": "A Mandolin's Paired Strings",
+    "series": "strings-and-picking",
+    "description": "Explore a small picked instrument through its paired strings, curved body, and tremolo sound.",
+    "cardDescription": "Explore a small picked instrument through its paired strings, curved body, and tremolo sound.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "PLECTRUM",
+        "clue": "Another name for the pick used on mandolin strings",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "MANDOLIN",
+        "clue": "Small fretted instrument commonly strung in four pairs",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TREMOLO",
+        "clue": "Rapid repeated picking that sustains a mandolin tone",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "COURSE",
+        "clue": "Pair of mandolin strings sounded together as one unit",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CHORD",
+        "clue": "Several notes strummed together on the mandolin",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "FRET",
+        "clue": "Metal strip across the mandolin fingerboard",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "NECK",
+        "clue": "Narrow part the player's left hand holds",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "TUNE",
+        "clue": "Adjust the paired strings to their intended notes",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PICK",
+        "clue": "Small handheld piece used to strike the strings",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BODY",
+        "clue": "Hollow main section amplifying string vibration",
+        "row": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PEG",
+        "clue": "Turning fitting used to change string tension",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      }
+    ],
+    "editorial": {
+      "focus": "A common mandolin has eight strings arranged in four pairs, called courses.",
+      "solvingTip": "The number and string-pair clues help cross the instrument's name.",
+      "answerNotes": [
+        {
+          "answer": "PLECTRUM",
+          "text": "A plectrum is held in the hand rather than attached to the instrument."
+        },
+        {
+          "answer": "MANDOLIN",
+          "text": "The common eight-string mandolin uses four paired courses, not eight independent courses."
+        },
+        {
+          "answer": "TREMOLO",
+          "text": "Picking tremolo differs from gently varying the pitch with vibrato."
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-behind-the-scenes-5",
+    "title": "A Guitar Maker's Workbench",
+    "theme": "Music",
+    "subtheme": "A Guitar Maker's Workbench",
+    "series": "music-behind-the-scenes",
+    "description": "Visit a luthier through wood, braces, clamps, and the parts of an acoustic guitar body.",
+    "cardDescription": "Visit a luthier through wood, braces, clamps, and the parts of an acoustic guitar body.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "SOUNDBOARD",
+        "clue": "Main vibrating top panel of an acoustic guitar",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "ROSETTE",
+        "clue": "Decorative ring around an acoustic guitar's sound hole",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "LUTHIER",
+        "clue": "Craftsperson making or repairing string instruments",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BRIDGE",
+        "clue": "Top-mounted part anchoring and supporting the guitar strings",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "FINISH",
+        "clue": "Protective surface coating applied to the completed body",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BRACE",
+        "clue": "Wooden support fitted inside an acoustic guitar body",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "FILE",
+        "clue": "Hand tool used to shape a small part by abrasion",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "NECK",
+        "clue": "Long narrow part carrying the fingerboard",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FRET",
+        "clue": "Metal strip marking a note position along the neck",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SAND",
+        "clue": "Smooth a wooden surface with abrasive paper",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "NUT",
+        "clue": "Small slotted support at the end of the fingerboard",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      }
+    ],
+    "editorial": {
+      "focus": "A luthier makes or repairs string instruments; this bench focuses on an acoustic guitar.",
+      "solvingTip": "The workshop tools provide familiar letters for the trade name.",
+      "answerNotes": [
+        {
+          "answer": "SOUNDBOARD",
+          "text": "The soundboard helps transfer string vibration into audible sound."
+        },
+        {
+          "answer": "ROSETTE",
+          "text": "A rosette decorates the opening rather than holding the strings."
+        },
+        {
+          "answer": "LUTHIER",
+          "text": "Luthiers can work on bowed as well as plucked string instruments."
+        }
+      ]
+    }
+  }
+]

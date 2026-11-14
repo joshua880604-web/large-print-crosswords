@@ -1,8 +1,9 @@
 import type {APIRoute} from 'astro';
 import puzzles from '../../data/puzzles.json';
+import previousEditions from '../../data/previous-editions.json';
 
 export function getStaticPaths(){
- return puzzles.map(puzzle=>({params:{slug:`${puzzle.id}-v${puzzle.revision||1}`},props:{puzzle}}));
+ return [...puzzles,...previousEditions].map(puzzle=>({params:{slug:`${puzzle.id}-v${puzzle.revision||1}`},props:{puzzle}}));
 }
 
 // Decorative previews contain the board and clue numbers, never answer letters.

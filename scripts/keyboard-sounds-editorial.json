@@ -155,157 +155,160 @@
   },
   {
     "id": "keyboard-sounds-3",
-    "title": "A Harpsichord in the Music Room",
-    "description": "Discover the plucked sound of a harpsichord through its keyboard, strings, and small moving parts.",
-    "cardDescription": "Discover the plucked sound of a harpsichord through its keyboard, strings, and small moving parts.",
-    "subtheme": "A Harpsichord in the Music Room",
-    "focus": "A harpsichord plucks its strings, whereas a piano's hammers strike theirs.",
-    "solvingTip": "Start with the familiar keyboard words before the plucking mechanism.",
+    "title": "Taking Turns in a Piano Duet",
+    "description": "Share a piano bench through two players, four hands, and the page turns of a simple duet.",
+    "cardDescription": "Share a piano bench through two players, four hands, and the page turns of a simple duet.",
+    "subtheme": "Taking Turns in a Piano Duet",
+    "focus": "A duet involves two performers. At one piano, they can sit side by side and follow separate parts.",
+    "solvingTip": "Short number and direction words help cross the music terms.",
     "words": [
       [
-        "HARPSICHORD",
-        "Keyboard instrument whose strings are plucked rather than struck"
+        "DUET",
+        "Musical performance shared by two players"
       ],
       [
-        "PLECTRUM",
-        "Small piece that plucks a harpsichord string"
+        "PARTNER",
+        "Other person sharing the piano performance"
       ],
       [
-        "JACK",
-        "Upright part carrying the harpsichord's plucking piece"
-      ],
-      [
-        "QUILL",
-        "Bird-feather shaft historically used for harpsichord picks"
-      ],
-      [
-        "BAROQUE",
-        "Historical musical period associated with much harpsichord music"
-      ],
-      [
-        "STRING",
-        "Taut wire plucked inside the harpsichord"
-      ],
-      [
-        "KEY",
-        "Lever played by a finger on the instrument's keyboard"
-      ],
-      [
-        "PLUCK",
-        "Pull and release a string to start its sound"
-      ],
-      [
-        "LID",
-        "Hinged top covering the instrument's strings"
-      ],
-      [
-        "CASE",
-        "Outer wooden body housing the mechanism"
-      ],
-      [
-        "TUNE",
-        "Adjust the strings to their intended pitches"
-      ],
-      [
-        "BACH",
-        "Composer Johann Sebastian associated with Baroque keyboard music"
+        "FOUR",
+        "Number of hands used by two pianists together"
       ],
       [
         "BENCH",
-        "Seat in front of the keyboard"
+        "Long seat that two piano players may share"
       ],
       [
-        "NOTE",
-        "Single pitched sound produced by pressing a key"
+        "PAGE",
+        "One side of the sheet music turned during the duet"
+      ],
+      [
+        "TURN",
+        "Move from one sheet-music page to the next"
+      ],
+      [
+        "SIT",
+        "Take a place on the piano bench"
+      ],
+      [
+        "HAND",
+        "Body part resting on the piano keys"
+      ],
+      [
+        "LEFT",
+        "Direction opposite right along the keyboard"
+      ],
+      [
+        "RIGHT",
+        "Direction opposite left along the keyboard"
+      ],
+      [
+        "TOGETHER",
+        "At the same time, as partners play a duet"
+      ],
+      [
+        "SMILE",
+        "Friendly expression between the two piano partners"
+      ],
+      [
+        "SHARE",
+        "Use the bench with another player"
+      ],
+      [
+        "CUE",
+        "Signal helping the two players begin together"
       ]
     ],
     "answerNotes": {
-      "HARPSICHORD": "A harpsichord's mechanism differs from the hammer action of a piano.",
-      "PLECTRUM": "Plectrum is another word for a plucking pick.",
-      "JACK": "A jack rises when its corresponding key is pressed.",
-      "QUILL": "Modern replacement plectra may use synthetic materials instead.",
-      "BAROQUE": "Harpsichords existed before and continued after the Baroque period."
+      "DUET": "A duet counts two performers rather than two notes sounding together.",
+      "PARTNER": "The partner plays alongside the first player rather than merely listening.",
+      "FOUR": "Four hands is a familiar description for two people at one piano.",
+      "BENCH": "A bench provides a place to sit, not a stand for the printed music.",
+      "PAGE": "A page turn moves the players to the next part of the printed music."
     },
     "requiredAnswers": [
-      "HARPSICHORD"
-    ]
+      "DUET"
+    ],
+    "revision": 2
   },
   {
     "id": "keyboard-sounds-4",
-    "title": "The Player Piano's Paper Roll",
-    "description": "Recall a player piano through perforated paper, foot pedals, and the moving roll that controls its notes.",
-    "cardDescription": "Recall a player piano through perforated paper, foot pedals, and the moving roll that controls its notes.",
-    "subtheme": "The Player Piano's Paper Roll",
-    "focus": "A traditional pneumatic player piano reads holes in a paper roll rather than a digital file.",
-    "solvingTip": "Find the paper-related answers before the air-powered parts.",
+    "title": "Watching a Player Piano",
+    "description": "Recall a player piano through its paper roll, moving keys, foot pedals, and familiar tune.",
+    "cardDescription": "Recall a player piano through its paper roll, moving keys, foot pedals, and familiar tune.",
+    "subtheme": "Watching a Player Piano",
+    "focus": "Holes in the moving paper tell a traditional player piano which notes to play. No technical mechanism names are needed for these clues.",
+    "solvingTip": "Try an ordinary material or body-part word first.",
     "words": [
       [
         "PLAYER",
-        "Word before piano for an instrument operated by a perforated roll"
-      ],
-      [
-        "PERFORATION",
-        "Hole cut in the paper to encode a player-piano note"
-      ],
-      [
-        "TRACKER",
-        "Word before bar for the strip that reads holes in a piano roll"
-      ],
-      [
-        "PNEUMATIC",
-        "Operated by air pressure, as a traditional player-piano mechanism"
+        "Word before piano for an instrument operated by a paper roll"
       ],
       [
         "ROLL",
-        "Long paper strip wound between spools on a player piano"
-      ],
-      [
-        "PAPER",
-        "Material carrying the holes in a traditional piano roll"
-      ],
-      [
-        "PEDAL",
-        "Foot lever used to pump air on some player pianos"
-      ],
-      [
-        "SPOOL",
-        "Cylinder around which the music roll is wound"
+        "Long strip of music paper wound around a spool"
       ],
       [
         "HOLE",
-        "Opening in the paper that triggers part of the mechanism"
+        "Small opening in the music paper that helps select a note"
       ],
       [
-        "TEMPO",
-        "Playback speed controlled by an adjustment lever"
+        "SPOOL",
+        "Cylinder around which the piano's paper is wound"
       ],
       [
-        "REWIND",
-        "Return the paper roll toward its beginning"
+        "PEDAL",
+        "Foot lever used on some traditional player pianos"
       ],
       [
-        "AIR",
-        "Working medium inside the pneumatic mechanism"
+        "PAPER",
+        "Material carrying the music roll's punched openings"
       ],
       [
         "KEY",
-        "Piano lever that may move as the roll plays"
+        "White or black lever that may move as the roll plays"
       ],
       [
         "BENCH",
-        "Seat in front of the player piano"
+        "Seat in front of the old piano"
+      ],
+      [
+        "AIR",
+        "Moving gas used inside a traditional player-piano mechanism"
+      ],
+      [
+        "SONG",
+        "Familiar tune heard as the paper roll moves"
+      ],
+      [
+        "TURN",
+        "Rotate, as a spool does while the music plays"
+      ],
+      [
+        "FOOT",
+        "Body part used to press a piano pedal"
+      ],
+      [
+        "PLAY",
+        "Make the piano's music sound"
+      ],
+      [
+        "MOVE",
+        "Change position, as the keys do during a tune"
       ]
     ],
     "answerNotes": {
-      "PLAYER": "Player pianos can also have keys that a person plays conventionally.",
-      "PERFORATION": "Rows of holes guide the mechanism that operates the piano action.",
-      "TRACKER": "The tracker bar contains openings aligned with the paper's encoded paths.",
-      "PNEUMATIC": "Pneumatic systems use pressure differences rather than an electronic audio recording.",
-      "ROLL": "The roll encodes note instructions rather than storing a microphone recording."
+      "PLAYER": "A player piano follows instructions encoded in the moving paper.",
+      "ROLL": "The roll stores instructions, rather than a microphone recording of sound.",
+      "HOLE": "Patterns of holes tell the mechanism which notes to sound.",
+      "SPOOL": "A spool holds the paper as it moves through the instrument.",
+      "PEDAL": "The player can use foot pedals to supply power to an air-driven mechanism."
     },
     "requiredAnswers": [
-      "PLAYER"
-    ]
+      "PLAYER",
+      "ROLL"
+    ],
+    "revision": 2
   },
   {
     "id": "keyboard-sounds-5",

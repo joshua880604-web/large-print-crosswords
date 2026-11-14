@@ -1,238 +1,238 @@
 [
   {
     "id": "everyday-materials",
-    "title": "Glass at the Glassblower’s Bench",
-    "description": "Explore ordinary glassmaking vocabulary through heat, recycled fragments, and shaping tools.",
-    "cardDescription": "Explore ordinary glassmaking vocabulary through heat, recycled fragments, and shaping tools.",
-    "subtheme": "Glass at the Glassblower’s Bench",
-    "focus": "Common glass is formed from a heated mixture and shaped before controlled cooling. The clues distinguish the ingredients, the softened material, and the process used to reduce internal stress.",
-    "solvingTip": "Use whether a clue asks for material, temperature state, tool, or cooling process.",
+    "title": "Glass Bottles on the Kitchen Shelf",
+    "description": "Explore familiar glass containers through their lids, shapes, colors, and uses in the kitchen.",
+    "cardDescription": "Explore familiar glass containers through their lids, shapes, colors, and uses in the kitchen.",
+    "subtheme": "Glass Bottles on the Kitchen Shelf",
+    "focus": "A bottle has a narrow neck, while a jar usually has a wider opening. These clues use ordinary container words.",
+    "solvingTip": "Start with the container names before the shape words.",
     "words": [
       [
-        "ANNEAL",
-        "To heat and cool glass under control to reduce internal stress"
+        "BOTTLE",
+        "Container with a narrow neck for holding a drink"
       ],
       [
-        "CULLET",
-        "Broken glass collected for remelting"
-      ],
-      [
-        "SILICA",
-        "Major glass-forming compound in ordinary sand-based glass"
-      ],
-      [
-        "BATCH",
-        "Measured mixture of raw ingredients prepared for a glass furnace"
-      ],
-      [
-        "BLOWPIPE",
-        "Hollow tube used to shape hot glass with air"
-      ],
-      [
-        "FURNACE",
-        "High-temperature enclosure used to melt glass ingredients"
-      ],
-      [
-        "MOLTEN",
-        "Melted and capable of flowing, as hot glass may be"
-      ],
-      [
-        "GATHER",
-        "Portion of hot glass collected on a working tool"
+        "JAR",
+        "Wide-mouthed container often closed with a screw lid"
       ],
       [
         "GLASS",
-        "Usually noncrystalline solid forming familiar transparent vessels"
+        "Clear hard material used to make many bottles"
       ],
       [
-        "SAND",
-        "Granular source of silica used in common glassmaking"
+        "LID",
+        "Cover closing the top of a jar"
       ],
       [
-        "AIR",
-        "Gas blown through a tube to expand hot glass"
+        "NECK",
+        "Narrow upper part of a bottle"
       ],
       [
-        "ROD",
-        "Long narrow tool supporting or shaping a glass piece"
+        "CLEAR",
+        "Easy to see through, as an uncolored glass bottle is"
       ],
       [
-        "HEAT",
-        "Thermal energy used to soften glass material"
+        "GREEN",
+        "Color of some glass bottles"
       ],
       [
-        "BUBBLE",
-        "Gas-filled space inside an expanding glass form"
+        "ROUND",
+        "Circular in outline, as a jar's opening is"
       ],
       [
-        "SHAPE",
-        "Outer form given to a finished glass object"
-      ]
-    ],
-    "answerNotes": {
-      "ANNEAL": "Annealing uses a controlled temperature cycle; it is different from simply making a glass object colder as fast as possible.",
-      "CULLET": "Cullet is reusable glass material, distinct from the raw mineral ingredients in a batch.",
-      "SILICA": "Silica is important in common glass, though not every specialized glass has the same composition.",
-      "BATCH": "Batch names the prepared mixture rather than the finished object or the furnace itself.",
-      "BLOWPIPE": "A blowpipe delivers air into the softened glass; solid rods perform other supporting or shaping jobs."
-    },
-    "requiredAnswers": [
-      "ANNEAL"
-    ]
-  },
-  {
-    "id": "everyday-materials-2",
-    "title": "Fibers in a Sheet of Paper",
-    "description": "Follow papermaking through its wet fiber mixture, screen, and the edges of the finished sheet.",
-    "cardDescription": "Follow papermaking through its wet fiber mixture, screen, and the edges of the finished sheet.",
-    "subtheme": "Fibers in a Sheet of Paper",
-    "focus": "Paper forms from fibers arranged and bonded into a sheet. The clues distinguish the plant-derived material from the wet pulp and the equipment used to remove water.",
-    "solvingTip": "Use the stage described: loose fiber, wet mixture, supported sheet, or pressed result.",
-    "words": [
-      [
-        "CELLULOSE",
-        "Plant structural substance forming much ordinary paper fiber"
+        "SMOOTH",
+        "Even to the touch, as a glass jar's side is"
       ],
       [
-        "PULP",
-        "Wet mixture of separated fibers used to form paper"
+        "SHELF",
+        "Flat support holding the kitchen containers"
       ],
       [
-        "DECKLE",
-        "Frame controlling the edge of a handmade paper sheet"
+        "EMPTY",
+        "Containing nothing, as a used bottle may be"
       ],
       [
-        "FIBER",
-        "One slender strand contributing to a paper sheet's structure"
+        "FULL",
+        "Filled to its intended capacity"
       ],
       [
-        "FELT",
-        "Absorbent support used when pressing many handmade papers"
-      ],
-      [
-        "PRESS",
-        "Device squeezing water from a newly formed paper sheet"
+        "POUR",
+        "Tip a bottle to let its contents flow out"
       ],
       [
         "WATER",
-        "Liquid carrying the fibers during sheet formation"
+        "Clear drink that can be kept in a glass bottle"
+      ]
+    ],
+    "answerNotes": {
+      "BOTTLE": "A bottle's narrow neck helps guide liquid when it is poured.",
+      "JAR": "A jar's opening is usually wider than a bottle's neck.",
+      "GLASS": "Glass names the material here, rather than a drinking vessel.",
+      "LID": "A lid covers the opening and can often be removed completely.",
+      "NECK": "The neck leads to the bottle's smaller opening."
+    },
+    "requiredAnswers": [
+      "BOTTLE"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "everyday-materials-2",
+    "title": "Paper on the Writing Desk",
+    "description": "Find the sheets, notes, folds, and writing tools beside a stack of ordinary paper.",
+    "cardDescription": "Find the sheets, notes, folds, and writing tools beside a stack of ordinary paper.",
+    "subtheme": "Paper on the Writing Desk",
+    "focus": "A sheet is one piece of paper. It can become a note or a folded card when someone writes on it.",
+    "solvingTip": "Try a short writing-tool word before the paper descriptions.",
+    "words": [
+      [
+        "PAPER",
+        "Thin material used for a handwritten note"
       ],
       [
         "SHEET",
-        "Single flat piece of paper after forming"
+        "One separate piece of paper"
       ],
       [
-        "GRAIN",
-        "Preferred direction of fibers in many machine-made papers"
+        "PAD",
+        "Stack of paper sheets joined along one edge"
+      ],
+      [
+        "NOTE",
+        "Short written message on a small piece of paper"
+      ],
+      [
+        "FOLD",
+        "Bend a paper sheet so one part lies over another"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a notebook"
+      ],
+      [
+        "WRITE",
+        "Make words on the paper with a pen"
+      ],
+      [
+        "PEN",
+        "Ink-filled tool used to sign a note"
+      ],
+      [
+        "PENCIL",
+        "Writing tool whose marks can usually be erased"
       ],
       [
         "EDGE",
-        "Boundary of a finished paper sheet"
+        "Outside boundary of a paper sheet"
       ],
       [
-        "ROLL",
-        "Large continuous form used to store machine-made paper"
+        "WHITE",
+        "Common color of plain writing paper"
       ],
       [
-        "WOOD",
-        "Raw plant material supplying many papermaking fibers"
+        "LINE",
+        "Printed guide keeping handwriting in a straight row"
       ],
       [
-        "RAG",
-        "Cloth source of fibers for some papers"
+        "SMOOTH",
+        "Even in texture, as some writing paper is"
       ],
       [
-        "SCREEN",
-        "Mesh surface on which a wet paper sheet forms"
+        "STACK",
+        "Pile of paper sheets laid one above another"
       ]
     ],
     "answerNotes": {
-      "CELLULOSE": "Cellulose is a carbohydrate in plant cell walls, not the same material as starch used in some paper treatments.",
-      "PULP": "Pulp is the fiber mixture before it becomes a dried sheet.",
-      "DECKLE": "A deckle helps form the sheet boundary; a naturally uneven deckled edge differs from a later straight trim.",
-      "FIBER": "Individual fibers overlap within the sheet; they are not woven like an ordinary cloth.",
-      "FELT": "A papermaking felt supports and helps remove water from a wet sheet."
+      "PAPER": "Paper is the material; a sheet is an individual piece of it.",
+      "SHEET": "A sheet has two sides that can be written or printed on.",
+      "PAD": "A pad keeps sheets together until they are torn or lifted away.",
+      "NOTE": "A note can be brief without being a complete letter.",
+      "FOLD": "A fold changes the sheet's shape without cutting away any material."
     },
     "requiredAnswers": [
-      "CELLULOSE"
-    ]
+      "PAPER"
+    ],
+    "revision": 2
   },
   {
     "id": "everyday-materials-3",
-    "title": "Clay Before and After the Kiln",
-    "description": "Explore ceramic materials through clay mixtures, first firing, and the surface applied to a pot.",
-    "cardDescription": "Explore ceramic materials through clay mixtures, first firing, and the surface applied to a pot.",
-    "subtheme": "Clay Before and After the Kiln",
-    "focus": "A clay body and its glaze are different mixtures. The clues identify a liquid clay suspension, a fired intermediate stage, and the equipment that supplies the high heat.",
-    "solvingTip": "Separate a material from the heating process or the object being made.",
+    "title": "Shaping a Small Clay Bowl",
+    "description": "Work with a small clay bowl through its round shape, soft material, and hand-shaped sides.",
+    "cardDescription": "Work with a small clay bowl through its round shape, soft material, and hand-shaped sides.",
+    "subtheme": "Shaping a Small Clay Bowl",
+    "focus": "Soft clay can be pressed into a bowl shape and later fired to become hard. The clues stay with familiar actions and objects.",
+    "solvingTip": "Begin with a shape, body part, or everyday action.",
     "words": [
       [
-        "KAOLIN",
-        "Pale clay mineral material associated with porcelain bodies"
-      ],
-      [
-        "BISQUE",
-        "Pottery after an initial firing and before a later glaze firing"
-      ],
-      [
-        "SLIP",
-        "Liquid suspension of clay particles in water"
-      ],
-      [
-        "GROG",
-        "Crushed previously fired ceramic material added to some clay bodies"
-      ],
-      [
-        "KILN",
-        "High-temperature enclosure used to fire pottery"
-      ],
-      [
-        "GLAZE",
-        "Surface mixture fired to form a glassy coating on pottery"
-      ],
-      [
         "CLAY",
-        "Fine mineral material shaped into an unfired pot"
-      ],
-      [
-        "FIRE",
-        "To transform a clay piece by heating it in a pottery kiln"
-      ],
-      [
-        "BODY",
-        "Prepared clay mixture forming a ceramic object's main material"
-      ],
-      [
-        "CONE",
-        "Pyrometric ___, heat-work indicator used in ceramic firing"
-      ],
-      [
-        "POT",
-        "Hollow ceramic vessel shaped from clay"
+        "Soft earth material shaped to make this bowl"
       ],
       [
         "BOWL",
-        "Rounded open vessel made by a potter"
+        "Deep rounded dish being formed from the soft material"
       ],
       [
-        "HANDLE",
-        "Gripping attachment added to a mug"
+        "PINCH",
+        "Press the clay between a thumb and finger"
       ],
       [
-        "RIM",
-        "Upper edge around a ceramic vessel's opening"
+        "KILN",
+        "Potter's oven used to fire a clay bowl"
+      ],
+      [
+        "GLAZE",
+        "Coating fired onto pottery to give it a finished surface"
+      ],
+      [
+        "POT",
+        "Small rounded container made from clay"
+      ],
+      [
+        "WET",
+        "Containing water, as newly worked clay does"
+      ],
+      [
+        "SOFT",
+        "Easy to press with the fingers"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle when viewed from above"
+      ],
+      [
+        "HAND",
+        "Body part used to press and shape the bowl"
+      ],
+      [
+        "SHAPE",
+        "Give the clay its intended form"
+      ],
+      [
+        "ROLL",
+        "Move a lump of clay back and forth under the palm"
+      ],
+      [
+        "DRY",
+        "Lose moisture before the next pottery-making stage"
+      ],
+      [
+        "HEAT",
+        "Energy supplied while the pottery is fired"
       ]
     ],
     "answerNotes": {
-      "KAOLIN": "Kaolin is an important porcelain ingredient, while a complete clay body can contain other materials.",
-      "BISQUE": "Bisque names a fired stage; it is different from unfired clay or a finished glaze surface.",
-      "SLIP": "Slip contains clay particles rather than being simply a transparent coating.",
-      "GROG": "Grog modifies a clay mixture; it is distinct from dry unfired clay powder.",
-      "KILN": "A kiln changes ceramic materials through heat; it differs from a household drying cupboard."
+      "CLAY": "Clay can be shaped when moist and made hard by firing.",
+      "BOWL": "The bowl's sides rise around the space that will hold its contents.",
+      "PINCH": "Pinching is one simple hand-forming method rather than a turning wheel technique.",
+      "KILN": "A kiln is made for firing pottery at suitable high temperatures.",
+      "GLAZE": "Glaze is a surface coating, not the soft clay forming the bowl itself."
     },
     "requiredAnswers": [
-      "KAOLIN"
-    ]
+      "CLAY",
+      "BOWL"
+    ],
+    "revision": 2
   },
   {
     "id": "everyday-materials-4",

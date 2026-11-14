@@ -32,7 +32,7 @@ Use supplied research and actual US Search Console query/page data to prioritize
 
 ## Existing-catalog review
 
-The [500-row ledger](research/audience-review-2026-11-14.csv) separates:
+The [current 500-row ledger](research/audience-review-2026-11-14.csv) separates:
 
 - `replace-vocabulary`: a selected answer matches a curated list of especially specialist vocabulary; review or replace it for the general easy collection.
 - `review-context`: topic-dependent vocabulary or substantial name/title recall needs a closer reading and possible simplification.
@@ -44,7 +44,7 @@ Twenty-two wording corrections in thirteen games are recorded in the [clue chang
 
 The next content work should address the flagged answers and name-heavy clues before further numeric expansion. When replacing a board, preserve its earlier edition and progress association. Do not erase saved progress or quietly put a different grid under the same edition key.
 
-## November 14 triage result
+## Initial November 14 triage result
 
 - 500 games and 5,592 selected clues scanned.
 - 27 games have a listed specialist answer and are priorities for vocabulary replacement/review.
@@ -83,3 +83,7 @@ The next content work should address the flagged answers and name-heavy clues be
 | The Player Piano's Paper Roll (`keyboard-sounds-4`) | PNEUMATIC |
 | A Mandolin's Paired Strings (`strings-and-picking-2`) | PLECTRUM |
 | A Guitar Maker's Workbench (`music-behind-the-scenes-5`) | LUTHIER |
+
+## Revision after the first 27 replacements
+
+All 27 vocabulary-priority games now have everyday-vocabulary second editions, with their original boards and saved progress preserved separately. The [initial ledger](research/audience-review-2026-11-14-initial.csv) retains the earlier findings. The refreshed current ledger has no selected answers from the specialist prompt list, 66 context reviews and 434 unflagged candidates. This does not certify the entire collection as easy or accurate. See [the rewrite report](easy-rewrite-2026-11-14.md) for the actual before/after subjects and selected vocabulary. The 66 context reviews remain the next editorial queue.

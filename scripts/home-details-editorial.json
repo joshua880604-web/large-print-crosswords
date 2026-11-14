@@ -1,163 +1,165 @@
 [
   {
     "id": "home-details",
-    "title": "Parts of an Old-Fashioned Window",
-    "description": "Explore a framed window through its movable sections, dividing strips, and surrounding woodwork.",
-    "cardDescription": "Explore a framed window through its movable sections, dividing strips, and surrounding woodwork.",
-    "subtheme": "Parts of an Old-Fashioned Window",
-    "focus": "A window’s glass, moving sash, and surrounding frame have different names. The clues distinguish small dividing strips from the larger structural pieces around the opening.",
-    "solvingTip": "Use the location: beneath the glass, beside the opening, or between separate panes.",
+    "title": "An Open Window in Spring",
+    "description": "Look at an open window through its glass, frame, sill, and the breeze coming inside.",
+    "cardDescription": "Look at an open window through its glass, frame, sill, and the breeze coming inside.",
+    "subtheme": "An Open Window in Spring",
+    "focus": "These clues describe visible household parts and simple opening and closing actions.",
+    "solvingTip": "Start with an everyday action or something you can see through the glass.",
     "words": [
       [
-        "SASH",
-        "Frame holding window glass, often movable within a larger frame"
-      ],
-      [
-        "MULLION",
-        "Vertical member dividing adjacent window units or large sections"
-      ],
-      [
-        "MUNTIN",
-        "Narrow strip separating small panes within a window sash"
-      ],
-      [
-        "SILL",
-        "Horizontal ledge at the bottom of a window opening"
-      ],
-      [
-        "LINTEL",
-        "Horizontal structural support above a window opening"
-      ],
-      [
-        "JAMB",
-        "Vertical side of a window's surrounding opening"
+        "WINDOW",
+        "Glass-covered opening that lets light into a room"
       ],
       [
         "PANE",
-        "Single sheet of glass set into a window"
-      ],
-      [
-        "GLASS",
-        "Transparent material filling most ordinary window openings"
-      ],
-      [
-        "LATCH",
-        "Small fastening keeping a window section closed"
-      ],
-      [
-        "HINGE",
-        "Joint allowing a casement window to swing"
+        "One flat piece of glass in a window"
       ],
       [
         "FRAME",
-        "Outer support surrounding the window assembly"
+        "Structure surrounding and holding the window"
       ],
       [
-        "CASEMENT",
-        "Window style with a sash hinged at the side"
-      ],
-      [
-        "GLAZE",
-        "To fit a window with its glass"
-      ],
-      [
-        "RAIL",
-        "Horizontal member within a framed window sash"
-      ]
-    ],
-    "answerNotes": {
-      "SASH": "A sash holds the glazing; the surrounding window frame supports the whole assembly.",
-      "MULLION": "A mullion separates larger sections, while a muntin divides smaller panes within a sash.",
-      "MUNTIN": "Muntins divide individual panes; the word differs from mullion despite the similar sound.",
-      "SILL": "The sill is at the bottom, while the lintel is above the opening.",
-      "LINTEL": "A lintel carries loads over the opening rather than supporting flowerpots below it."
-    },
-    "requiredAnswers": [
-      "SASH"
-    ]
-  },
-  {
-    "id": "home-details-2",
-    "title": "A Door Lock and Its Fittings",
-    "description": "Identify the visible parts and common mechanism names around a household door lock.",
-    "cardDescription": "Identify the visible parts and common mechanism names around a household door lock.",
-    "subtheme": "A Door Lock and Its Fittings",
-    "focus": "The clues separate the moving fastening piece from the plate receiving it and from the trim around the key opening. They name components rather than describing lock-opening techniques.",
-    "solvingTip": "Use which part moves and which stays fixed in the doorway.",
-    "words": [
-      [
-        "DEADBOLT",
-        "Door-fastening bolt that does not spring back like an ordinary latch"
+        "SILL",
+        "Ledge along the bottom of a window"
       ],
       [
         "LATCH",
-        "Fastening piece that commonly catches automatically when a door closes"
+        "Small fastener keeping a window closed"
       ],
       [
-        "STRIKE",
-        "Fixed door-frame plate receiving a lock's moving bolt or latch"
+        "GLASS",
+        "Clear hard material in the window"
       ],
       [
-        "ESCUTCHEON",
-        "Protective or decorative plate around a keyhole or handle"
+        "OPEN",
+        "Move the window so air can come in"
       ],
       [
-        "KEYWAY",
-        "Shaped entrance passage for the matching key in a lock"
+        "CLOSE",
+        "Shut the window again"
       ],
       [
-        "KEY",
-        "Matching small metal tool used to operate many locks"
+        "SCREEN",
+        "Mesh barrier helping keep insects out"
       ],
       [
-        "BOLT",
-        "Sliding fastening piece extending from a door into its frame"
+        "BREEZE",
+        "Light movement of air through an open window"
       ],
       [
-        "KNOB",
-        "Round hand control used to turn a door mechanism"
+        "CURTAIN",
+        "Fabric hanging beside or across a window"
       ],
       [
-        "JAMB",
-        "Vertical side of the frame receiving the door's fastening"
+        "VIEW",
+        "Scene seen through the window"
       ],
       [
-        "PLATE",
-        "Flat metal fitting around or behind door hardware"
+        "SUN",
+        "Sky object sending daylight through the glass"
       ],
       [
-        "LOCK",
-        "Device securing a door against ordinary opening"
-      ],
-      [
-        "TURN",
-        "To rotate the key or handle"
-      ],
-      [
-        "HASP",
-        "Hinged fastening loop commonly used with a padlock"
-      ],
-      [
-        "CYLINDER",
-        "Round lock assembly into which many keys are inserted"
+        "LIGHT",
+        "Brightness entering the room through a window"
       ]
     ],
     "answerNotes": {
-      "DEADBOLT": "A deadbolt is moved positively by its control rather than simply retracting against a spring-loaded sloping latch face.",
-      "LATCH": "A latch and a deadbolt perform related fastening roles but have different common mechanisms.",
-      "STRIKE": "The strike is on the frame, while the moving fastening piece is on the door.",
-      "ESCUTCHEON": "Escutcheon names surrounding trim, not the internal locking mechanism.",
-      "KEYWAY": "A keyway is an opening in the lock, distinct from the decorative plate around it."
+      "WINDOW": "Some windows open for air, while others remain fixed in place.",
+      "PANE": "A pane is the glass itself rather than the whole frame.",
+      "FRAME": "The frame supports the window's glass and opening parts.",
+      "SILL": "A sill forms the lower ledge rather than a side or top edge.",
+      "LATCH": "A latch secures the opening part until it is released."
     },
     "requiredAnswers": [
-      "DEADBOLT"
-    ]
+      "WINDOW"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "home-details-2",
+    "title": "Locking the Front Door",
+    "description": "Find the key, knob, latch, and familiar actions used at the front door.",
+    "cardDescription": "Find the key, knob, latch, and familiar actions used at the front door.",
+    "subtheme": "Locking the Front Door",
+    "focus": "A key operates a lock. Hinges let the door move, while a knob or handle gives a place to hold it.",
+    "solvingTip": "Try an action word before the door's smaller parts.",
+    "words": [
+      [
+        "LOCK",
+        "Device secured or released with a door key"
+      ],
+      [
+        "KEY",
+        "Small shaped tool used to unlock the front door"
+      ],
+      [
+        "KNOB",
+        "Round handle turned when opening many doors"
+      ],
+      [
+        "SPARE",
+        "Extra key kept in case the usual one is unavailable"
+      ],
+      [
+        "HOOK",
+        "Curved holder where keys may hang inside the house"
+      ],
+      [
+        "DOOR",
+        "Movable entrance panel at the front of the house"
+      ],
+      [
+        "LATCH",
+        "Fastener that holds the entrance panel shut"
+      ],
+      [
+        "TURN",
+        "Rotate the key or knob with the hand"
+      ],
+      [
+        "OPEN",
+        "Move the entrance panel to let someone pass"
+      ],
+      [
+        "CLOSE",
+        "Shut the entrance panel after coming inside"
+      ],
+      [
+        "HINGE",
+        "Joint letting the entrance panel swing"
+      ],
+      [
+        "HOME",
+        "Place reached through one's own front door"
+      ],
+      [
+        "RING",
+        "Loop holding several keys together"
+      ],
+      [
+        "POCKET",
+        "Clothing pouch used to carry a house key"
+      ]
+    ],
+    "answerNotes": {
+      "LOCK": "A lock controls access; it is different from the hinge that lets the door swing.",
+      "KEY": "A key is matched to a lock rather than being a general-purpose handle.",
+      "KNOB": "A knob is the hand grip, rather than the lock's key opening.",
+      "SPARE": "Spare means an additional copy rather than a different kind of lock.",
+      "HOOK": "A hook provides a storage place for the key ring."
+    },
+    "requiredAnswers": [
+      "LOCK"
+    ],
+    "revision": 2
   },
   {
     "id": "home-details-3",
     "title": "Inside an Upholstered Armchair",
-    "description": "Look beneath an armchair’s soft covering through its padding, frame, and finishing edges.",
-    "cardDescription": "Look beneath an armchair’s soft covering through its padding, frame, and finishing edges.",
+    "description": "Look beneath an armchair\u2019s soft covering through its padding, frame, and finishing edges.",
+    "cardDescription": "Look beneath an armchair\u2019s soft covering through its padding, frame, and finishing edges.",
     "subtheme": "Inside an Upholstered Armchair",
     "focus": "Upholstery combines a supporting structure with padding and a cover. The clues distinguish the outer fabric from the webbing and cushioning layers below it.",
     "solvingTip": "Use the layer or body location described before choosing a textile term.",
@@ -237,80 +239,81 @@
   },
   {
     "id": "home-details-4",
-    "title": "A Cabinet Door and Drawer",
-    "description": "Explore cabinet construction through frame pieces, joints, and the hardware that moves a drawer.",
-    "cardDescription": "Explore cabinet construction through frame pieces, joints, and the hardware that moves a drawer.",
-    "subtheme": "A Cabinet Door and Drawer",
-    "focus": "A frame-and-panel door has named vertical and horizontal members. Drawer guides and handles serve different purposes from the wood joints holding the structure together.",
-    "solvingTip": "Use direction and location: upright frame piece, crosspiece, edge recess, or pulling handle.",
+    "title": "Dishes in the Kitchen Cupboard",
+    "description": "Put familiar cups, bowls, and plates onto a kitchen shelf behind the cupboard door.",
+    "cardDescription": "Put familiar cups, bowls, and plates onto a kitchen shelf behind the cupboard door.",
+    "subtheme": "Dishes in the Kitchen Cupboard",
+    "focus": "The clues focus on stored dishes and simple cupboard parts rather than woodworking joints.",
+    "solvingTip": "The shortest dish names provide helpful crossings.",
     "words": [
       [
-        "HINGE",
-        "Joint allowing a cabinet door to swing open"
-      ],
-      [
-        "STILE",
-        "Vertical member of a frame-and-panel cabinet door"
-      ],
-      [
-        "RAIL",
-        "Horizontal member of a framed cabinet door"
-      ],
-      [
-        "DADO",
-        "Rectangular groove cut across a board to receive another piece"
-      ],
-      [
-        "RABBET",
-        "Step-shaped recess cut along the edge of a board"
-      ],
-      [
-        "PANEL",
-        "Broad central piece enclosed by a cabinet door's frame"
-      ],
-      [
-        "KNOB",
-        "Small rounded handle used to pull a drawer"
+        "CUPBOARD",
+        "Kitchen storage space with shelves behind a door"
       ],
       [
         "SHELF",
-        "Horizontal board supporting objects inside a cabinet"
+        "Flat support holding dishes inside the cupboard"
       ],
       [
-        "DRAWER",
-        "Sliding boxlike compartment within furniture"
+        "HANDLE",
+        "Part pulled to open the cupboard door"
       ],
       [
-        "RUNNER",
-        "Guide or support along which a drawer slides"
+        "HINGE",
+        "Joint allowing the cupboard door to swing"
       ],
       [
-        "PULL",
-        "Handle grasped to open a cabinet door or drawer"
+        "STACK",
+        "Place dishes one above another"
       ],
       [
         "DOOR",
-        "Hinged front closure of a cupboard"
+        "Panel opened to reach the cupboard's shelves"
       ],
       [
-        "FACE",
-        "Broad flat surface of a board"
+        "PLATE",
+        "Flat dish stored upright or in a pile"
       ],
       [
-        "PEG",
-        "Small pin used to support a movable cabinet shelf"
+        "BOWL",
+        "Deep round dish used for soup or cereal"
+      ],
+      [
+        "CUP",
+        "Small handled vessel for a hot drink"
+      ],
+      [
+        "GLASS",
+        "Drinking vessel that is often clear"
+      ],
+      [
+        "WOOD",
+        "Material used for many kitchen cupboards"
+      ],
+      [
+        "CLEAN",
+        "Free of dirt, as dishes should be before storage"
+      ],
+      [
+        "STORE",
+        "Put dishes away until they are needed"
+      ],
+      [
+        "OPEN",
+        "Move the cupboard door to reach the dishes"
       ]
     ],
     "answerNotes": {
-      "HINGE": "A hinge permits rotation, while a drawer runner supports sliding movement.",
-      "STILE": "Stiles run vertically, while rails form the horizontal members.",
-      "RAIL": "Rail has a woodworking meaning here rather than naming railway track.",
-      "DADO": "A dado commonly runs across the grain; a rabbet is an open-sided recess along an edge.",
-      "RABBET": "A rabbet is open to the board's edge, unlike a groove enclosed on both sides."
+      "CUPBOARD": "A cupboard keeps dishes or other household items together.",
+      "SHELF": "A shelf supports objects rather than covering the front opening.",
+      "HANDLE": "A handle can be a bar or another graspable shape.",
+      "HINGE": "Hinges connect the moving door to its supporting frame.",
+      "STACK": "Stack is an action here rather than the cupboard itself."
     },
     "requiredAnswers": [
-      "HINGE"
-    ]
+      "CUPBOARD"
+    ],
+    "revision": 2
   },
   {
     "id": "home-details-5",

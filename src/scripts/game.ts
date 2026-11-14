@@ -19,12 +19,11 @@ for (const root of document.querySelectorAll<HTMLElement>('.game-root')) {
  const safeSet=(k:string,v:string)=>{try{localStorage.setItem(k,v);return true}catch{return false}};
  const legacyKey=`lpc:v1:${p.id}`;
  const storageKey=p.revision?`${legacyKey}:edition:${p.revision}`:legacyKey;
- if(p.revision&&p.revision>1){
+ for(const notice of root.querySelectorAll<HTMLElement>('.previous-progress')){
   try {
-   const legacy=JSON.parse(safeGet(legacyKey)||'{}');
-   const hasProgress=legacy&&typeof legacy==='object'&&!Array.isArray(legacy)&&Object.values(legacy).some(value=>typeof value==='string'&&/^[A-Z]$/.test(value));
-   const notice=root.querySelector<HTMLElement>('.previous-progress');
-   if(notice)notice.hidden=!hasProgress;
+   const legacy=JSON.parse(safeGet(notice.dataset.previousKey!)||'{}');
+   const hasProgress=legacy&&typeof legacy==='object'&&!Array.isArray(legacy)&&Object.entries(legacy).some(([cell,value])=>/^\d+,\d+$/.test(cell)&&typeof value==='string'&&/^[A-Z]$/.test(value));
+   notice.hidden=!hasProgress;
   } catch {}
  }
  let saved:Record<string,string>={};

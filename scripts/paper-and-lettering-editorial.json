@@ -2,10 +2,10 @@
   {
     "id": "paper-and-lettering",
     "title": "A Calligraphy Pen and Ink",
-    "description": "Explore decorative handwriting through a pen’s split tip, flowing ink, and the shapes of a letter.",
-    "cardDescription": "Explore decorative handwriting through a pen’s split tip, flowing ink, and the shapes of a letter.",
+    "description": "Explore decorative handwriting through a pen\u2019s split tip, flowing ink, and the shapes of a letter.",
+    "cardDescription": "Explore decorative handwriting through a pen\u2019s split tip, flowing ink, and the shapes of a letter.",
     "subtheme": "A Calligraphy Pen and Ink",
-    "focus": "Calligraphy uses controlled strokes to form letters. The clues distinguish the tool’s point from the line it makes and the small marks within a letterform.",
+    "focus": "Calligraphy uses controlled strokes to form letters. The clues distinguish the tool\u2019s point from the line it makes and the small marks within a letterform.",
     "solvingTip": "Use a physical pen part or a simple stroke shape before trying the lettering terms.",
     "words": [
       [
@@ -82,7 +82,7 @@
     "description": "Look at the folds, sewing, and cover parts used to assemble a small handmade book.",
     "cardDescription": "Look at the folds, sewing, and cover parts used to assemble a small handmade book.",
     "subtheme": "Binding a Small Handmade Book",
-    "focus": "A book’s sheets can be folded into sections before they are sewn or attached. The clues distinguish those groups from the cover, spine, and materials joining them.",
+    "focus": "A book\u2019s sheets can be folded into sections before they are sewn or attached. The clues distinguish those groups from the cover, spine, and materials joining them.",
     "solvingTip": "Separate the paper structure from the protective cover and the fastening materials.",
     "words": [
       [
@@ -237,7 +237,7 @@
     "cardDescription": "Follow decorative paper marbling through floating colors, a combed pattern, and the sheet lifted from a bath.",
     "subtheme": "Swirls in a Marbled Paper Sheet",
     "focus": "In a familiar marbling method, colors float on a prepared bath and transfer to paper. The clues distinguish the liquid surface from the sheet receiving its pattern.",
-    "solvingTip": "Use the material’s state and position: floating color, supporting liquid, or lifted sheet.",
+    "solvingTip": "Use the material\u2019s state and position: floating color, supporting liquid, or lifted sheet.",
     "words": [
       [
         "MARBLING",
@@ -309,79 +309,80 @@
   },
   {
     "id": "paper-and-lettering-5",
-    "title": "At a Letterpress Workbench",
-    "description": "Explore raised-type printing through small type pieces, spacing material, and a freshly inked impression.",
-    "cardDescription": "Explore raised-type printing through small type pieces, spacing material, and a freshly inked impression.",
-    "subtheme": "At a Letterpress Workbench",
-    "focus": "Letterpress transfers ink from a raised printing surface. The clues distinguish the letters themselves from the frame and spacing pieces that hold a page form together.",
-    "solvingTip": "Look for a letter, a support, a spacing piece, or the printed result.",
+    "title": "Printing a Card at an Old-Time Press",
+    "description": "Visit a small printing press through its ink, paper, letters, and a freshly made card.",
+    "cardDescription": "Visit a small printing press through its ink, paper, letters, and a freshly made card.",
+    "subtheme": "Printing a Card at an Old-Time Press",
+    "focus": "The press puts inked letters onto paper. These clues focus on the printed message and familiar materials.",
+    "solvingTip": "Try a short writing or color word first.",
     "words": [
       [
-        "LETTERPRESS",
-        "Printing process transferring ink from a raised surface"
-      ],
-      [
-        "TYPE",
-        "Raised letter pieces arranged for printing"
-      ],
-      [
-        "CHASE",
-        "Metal frame holding a letterpress form"
-      ],
-      [
-        "QUOIN",
-        "Expanding locking device securing type within a printing frame"
-      ],
-      [
-        "GALLEY",
-        "Tray holding composed type or a preliminary printed text proof"
+        "PRESS",
+        "Machine that puts inked letters onto paper"
       ],
       [
         "INK",
-        "Coloring material transferred from the raised printing surface"
+        "Colored printing material placed on the letters"
       ],
       [
-        "PRESS",
-        "Machine applying force to make an impression"
+        "TYPE",
+        "Letters arranged for printing on an old press"
       ],
       [
         "PAPER",
-        "Sheet receiving the letterpress image"
+        "Thin sheet receiving the printed message"
       ],
       [
-        "PROOF",
-        "Trial print checked before a full printing run"
+        "CARD",
+        "Small stiff sheet printed with a greeting"
       ],
       [
-        "FONT",
-        "Set of type characters sharing a design"
+        "LETTER",
+        "One alphabet character in the printed message"
       ],
       [
-        "CASE",
-        "Divided tray storing individual printing letters"
+        "WORD",
+        "Group of letters forming part of the greeting"
       ],
       [
-        "SORT",
-        "Individual piece of metal printing type"
+        "PAGE",
+        "One printed side of a sheet"
       ],
       [
-        "LINE",
-        "Row of arranged type making one text row"
+        "PRINT",
+        "Make a copy of words or a design with ink"
       ],
       [
-        "LEAD",
-        "Thin spacing strip between type lines in traditional composition"
+        "ROLL",
+        "Turn a cylinder over an inked surface"
+      ],
+      [
+        "TRAY",
+        "Shallow holder keeping printing materials together"
+      ],
+      [
+        "NAME",
+        "Word identifying the card's recipient"
+      ],
+      [
+        "DRY",
+        "No longer wet, as ink must be before handling"
+      ],
+      [
+        "BLACK",
+        "Dark ink color used for a clear printed message"
       ]
     ],
     "answerNotes": {
-      "LETTERPRESS": "Letterpress is a relief process; it differs from methods that print from recessed grooves or a flat chemically prepared surface.",
-      "TYPE": "Type names the printing characters here rather than a category or variety.",
-      "CHASE": "A chase encloses the arranged material; it is different from the paper receiving the impression.",
-      "QUOIN": "A quoin helps lock the form in place, rather than forming part of the readable text.",
-      "GALLEY": "Galley has related printing uses involving composed material and early proofs."
+      "PRESS": "A printing press uses pressure to transfer the inked design to a sheet.",
+      "INK": "Ink carries the printed image from the type to the paper.",
+      "TYPE": "Type refers to the printable letter pieces in this scene.",
+      "PAPER": "Paper is the receiving surface, rather than the ink applied to it.",
+      "CARD": "A greeting card is one possible product of a small printing press."
     },
     "requiredAnswers": [
-      "LETTERPRESS"
-    ]
+      "PRESS"
+    ],
+    "revision": 2
   }
 ]

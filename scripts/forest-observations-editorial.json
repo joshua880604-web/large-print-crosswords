@@ -1,157 +1,159 @@
 [
   {
     "id": "forest-observations",
-    "title": "Ferns on the Forest Floor",
-    "description": "Look below the woodland canopy for fern fronds, small mosses, and the structures that produce new growth.",
-    "cardDescription": "Look below the woodland canopy for fern fronds, small mosses, and the structures that produce new growth.",
-    "subtheme": "Ferns on the Forest Floor",
-    "focus": "Ferns and mosses reproduce with spores rather than flower seeds. Their growth forms differ, and the clues separate a reproductive structure from the leaf or stem carrying it.",
-    "solvingTip": "Use the body part described: a divided leaf, a spreading stem, or a tiny reproductive unit.",
+    "title": "Green Ferns Beside the Path",
+    "description": "Notice the green leaves, damp ground, and cool shade around woodland ferns.",
+    "cardDescription": "Notice the green leaves, damp ground, and cool shade around woodland ferns.",
+    "subtheme": "Green Ferns Beside the Path",
+    "focus": "These clues stay with things visible on a woodland walk: leaves, roots, soil, and nearby rocks.",
+    "solvingTip": "Begin with a color, weather word, or short plant part.",
     "words": [
       [
-        "SPORE",
-        "Tiny reproductive unit produced by a fern or moss"
-      ],
-      [
-        "FROND",
-        "Large often-divided leaf of a fern"
-      ],
-      [
-        "FIDDLEHEAD",
-        "Coiled young fern frond before it unfolds"
-      ],
-      [
-        "RHIZOME",
-        "Horizontal stem from which many woodland ferns grow"
-      ],
-      [
-        "CAPSULE",
-        "Spore-bearing case on a stalk in many mosses"
-      ],
-      [
-        "MOSS",
-        "Small nonflowering plant forming a soft woodland carpet"
-      ],
-      [
         "FERN",
-        "Nonflowering plant often bearing divided leaves called fronds"
+        "Green woodland plant with divided leaves and no flowers"
+      ],
+      [
+        "LEAF",
+        "Green plant part spreading out from the fern"
       ],
       [
         "SHADE",
-        "Shelter from direct sunlight beneath forest trees"
+        "Place protected from direct sunshine by the trees"
       ],
       [
         "DAMP",
-        "Slightly wet, as a sheltered patch of forest floor"
+        "Slightly wet, as the ground around these ferns is"
       ],
       [
-        "ROOT",
-        "Anchoring and absorbing organ below a fern's stem"
+        "MOSS",
+        "Small soft green growth on a woodland rock"
       ],
       [
-        "LEAF",
-        "Plant organ represented by a fern's frond"
-      ],
-      [
-        "STALK",
-        "Slender support beneath a moss's spore case"
-      ],
-      [
-        "SOIL",
-        "Ground material in which many woodland plants grow"
+        "RAIN",
+        "Water falling from clouds onto the woodland plants"
       ],
       [
         "GREEN",
-        "Color of many actively growing fern leaves"
-      ]
-    ],
-    "answerNotes": {
-      "SPORE": "A spore is not a seed; ferns and mosses have life cycles that differ from those of flowering plants.",
-      "FROND": "Frond names a leaf form, not the fern's entire body or its underground stem.",
-      "FIDDLEHEAD": "Fiddlehead describes the curled shape of new growth; the name is not an identification of edibility.",
-      "RHIZOME": "A rhizome is a stem, even when underground; roots are separate organs growing from it.",
-      "CAPSULE": "A moss capsule holds spores rather than flower seeds."
-    },
-    "requiredAnswers": [
-      "SPORE"
-    ]
-  },
-  {
-    "id": "forest-observations-2",
-    "title": "Acorns Beneath an Oak",
-    "description": "Explore an oak tree through its familiar nuts, lobed leaves, and woody branches.",
-    "cardDescription": "Explore an oak tree through its familiar nuts, lobed leaves, and woody branches.",
-    "subtheme": "Acorns Beneath an Oak",
-    "focus": "An acorn is an oak’s fruit, usually containing one seed. The clues connect the nut with its cup and the larger tree without treating all oaks as having identical leaves.",
-    "solvingTip": "Separate the fruit from its covering and from the branch that bears it.",
-    "words": [
-      [
-        "ACORN",
-        "Oak fruit often found nestled in a small scaly cup"
+        "Color of the fern's fresh leaves"
       ],
       [
-        "CUPULE",
-        "Cup-shaped structure holding the base of an acorn"
+        "SOIL",
+        "Earth around the fern's roots"
       ],
       [
-        "LOBE",
-        "Rounded or pointed projecting section of many oak leaves"
-      ],
-      [
-        "OAK",
-        "Tree group whose fruits are acorns"
-      ],
-      [
-        "SAPLING",
-        "Young tree larger than a tiny seedling"
-      ],
-      [
-        "NUT",
-        "Hard-shelled fruit represented by an acorn"
-      ],
-      [
-        "BARK",
-        "Outer covering of an oak's woody trunk"
-      ],
-      [
-        "BRANCH",
-        "Woody limb extending from the main trunk"
-      ],
-      [
-        "LEAF",
-        "Flat green structure with veins and sometimes deep lobes"
-      ],
-      [
-        "TWIG",
-        "Small slender woody shoot at a branch's end"
-      ],
-      [
-        "SEED",
-        "Reproductive structure contained inside an acorn"
+        "PATH",
+        "Narrow way followed by a woodland walker"
       ],
       [
         "ROOT",
-        "Below-ground structure anchoring an oak"
+        "Plant part taking up water from the ground"
       ],
       [
-        "SHADE",
-        "Cooler sheltered area beneath a broad tree crown"
+        "ROCK",
+        "Hard natural object beside the woodland fern"
       ],
       [
-        "RING",
-        "Growth band visible in a cut oak trunk"
+        "COOL",
+        "Not very warm, as a shaded woodland spot may feel"
+      ],
+      [
+        "WET",
+        "Covered with water after a shower"
+      ],
+      [
+        "STEM",
+        "Stalk supporting part of the fern's growth"
       ]
     ],
     "answerNotes": {
-      "ACORN": "An acorn is a fruit, usually containing one seed; it is not the entire seedling that later grows from it.",
-      "CUPULE": "The cupule is the acorn's little cup, distinct from the smooth nut sitting in it.",
-      "LOBE": "A lobe is part of a leaf's outline; not every oak species has the same lobed leaf shape.",
-      "OAK": "Oaks include many species with different leaves, bark, and growing habits.",
-      "SAPLING": "Sapling is an informal size or growth-stage term rather than one exact age for every species."
+      "FERN": "Ferns do not produce flowers; their leaves can have many small divisions.",
+      "LEAF": "A leaf is part of the plant rather than the soil beneath it.",
+      "SHADE": "Shade describes the light conditions, not a plant species.",
+      "DAMP": "Damp is less strong than soaked or flooded.",
+      "MOSS": "Moss is a different kind of plant from the larger fern beside it."
+    },
+    "requiredAnswers": [
+      "FERN"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "forest-observations-2",
+    "title": "Acorns Under an Oak Tree",
+    "description": "Look beneath an oak for acorns, their little caps, fallen leaves, and familiar tree parts.",
+    "cardDescription": "Look beneath an oak for acorns, their little caps, fallen leaves, and familiar tree parts.",
+    "subtheme": "Acorns Under an Oak Tree",
+    "focus": "The acorn is the oak's nut. Its small cap sits at one end, above the smooth nut itself.",
+    "solvingTip": "Try a short tree-part word before the nut's name.",
+    "words": [
+      [
+        "ACORN",
+        "Oak nut often found on the ground in fall"
+      ],
+      [
+        "OAK",
+        "Tree whose fallen nuts wear little caps"
+      ],
+      [
+        "CAP",
+        "Small rough covering at one end of an acorn"
+      ],
+      [
+        "NUT",
+        "Hard-shelled fruit such as an acorn"
+      ],
+      [
+        "LEAF",
+        "Flat tree part that may fall beside the acorns"
+      ],
+      [
+        "BRANCH",
+        "Large woody arm extending from the oak's trunk"
+      ],
+      [
+        "TWIG",
+        "Small thin woody shoot on the tree"
+      ],
+      [
+        "BARK",
+        "Protective outside covering of the oak's trunk"
+      ],
+      [
+        "ROOT",
+        "Tree part growing beneath the ground"
+      ],
+      [
+        "FALL",
+        "Season when many ripe acorns drop"
+      ],
+      [
+        "SEED",
+        "Part inside an acorn that can begin a new plant"
+      ],
+      [
+        "BROWN",
+        "Common color of a ripe acorn"
+      ],
+      [
+        "DROP",
+        "Fall from a branch onto the ground"
+      ],
+      [
+        "SHADE",
+        "Area sheltered from the sun beneath the oak"
+      ]
+    ],
+    "answerNotes": {
+      "ACORN": "An acorn contains the seed from which a new oak may grow.",
+      "OAK": "Oak identifies the tree, while acorn names its fruit.",
+      "CAP": "Cap is the everyday word used here for the acorn's cup-like covering.",
+      "NUT": "An acorn is a type of nut rather than a berry.",
+      "LEAF": "Oak leaves have different shapes depending on the kind of oak."
     },
     "requiredAnswers": [
       "ACORN"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "forest-observations-3",
@@ -160,7 +162,7 @@
     "cardDescription": "Study a conifer through its needles, cone scales, and the woody growth around them.",
     "subtheme": "A Pine Cone on the Path",
     "focus": "Pine cones carry reproductive structures rather than forming flowers like a rose. Seed-bearing cones and pollen-producing cones have different roles.",
-    "solvingTip": "Use the clue’s part or process: leaf, seed covering, sticky material, or airborne powder.",
+    "solvingTip": "Use the clue\u2019s part or process: leaf, seed covering, sticky material, or airborne powder.",
     "words": [
       [
         "CONIFER",
@@ -232,80 +234,81 @@
   },
   {
     "id": "forest-observations-4",
-    "title": "Mushrooms After the Rain",
-    "description": "Explore visible mushroom structures and the less visible threads growing through woodland material.",
-    "cardDescription": "Explore visible mushroom structures and the less visible threads growing through woodland material.",
-    "subtheme": "Mushrooms After the Rain",
-    "focus": "A mushroom is a fruiting structure of a fungus. Its cap, underside, and supporting stem have different names, while the thread network can extend through soil or wood.",
-    "solvingTip": "Read whether the clue describes the visible structure or the hidden network beneath it.",
+    "title": "Mushrooms After a Woodland Shower",
+    "description": "Spot mushrooms through their caps, stems, shapes, and the damp places where they grow.",
+    "cardDescription": "Spot mushrooms through their caps, stems, shapes, and the damp places where they grow.",
+    "subtheme": "Mushrooms After a Woodland Shower",
+    "focus": "The clues focus on what a walker can see. Mushrooms are fungi, while nearby moss and trees are plants.",
+    "solvingTip": "Look for the short words describing shape and weather.",
     "words": [
       [
-        "MYCELIUM",
-        "Network of fungal threads growing through soil or wood"
-      ],
-      [
-        "HYPHA",
-        "Single threadlike filament forming part of a fungus"
-      ],
-      [
-        "FUNGUS",
-        "Organism group containing mushrooms, molds, and yeasts"
-      ],
-      [
-        "GILL",
-        "One thin plate beneath the cap of many mushrooms"
-      ],
-      [
-        "SPORE",
-        "Microscopic reproductive unit released by a mushroom"
+        "MUSHROOM",
+        "Growth often shaped like a cap on a stem"
       ],
       [
         "CAP",
-        "Upper umbrella-like portion of a familiar mushroom"
+        "Upper part of many mushrooms, above the stem"
       ],
       [
         "STEM",
-        "Upright support beneath a mushroom's cap"
-      ],
-      [
-        "RING",
-        "Skirtlike remnant around the stem of some mushrooms"
-      ],
-      [
-        "PORE",
-        "Small opening beneath certain mushroom caps"
-      ],
-      [
-        "WOOD",
-        "Material on which many woodland fungi grow"
+        "Stalk supporting the top of many mushrooms"
       ],
       [
         "DAMP",
-        "Moist condition often associated with new mushroom growth"
+        "Slightly wet, as the woodland ground is after rain"
       ],
       [
-        "LOG",
-        "Fallen tree section supporting some fungi"
+        "SHADE",
+        "Place out of direct sunlight beneath the trees"
       ],
       [
-        "EARTH",
-        "Ground beneath a woodland mushroom"
+        "RAIN",
+        "Water falling before the woodland walk"
       ],
       [
-        "DECAY",
-        "Breakdown process in which many fungi take part"
+        "WOOD",
+        "Tree material on which some mushrooms grow"
+      ],
+      [
+        "SOIL",
+        "Loose earth beneath the fallen leaves"
+      ],
+      [
+        "PATH",
+        "Narrow walking route through the woods"
+      ],
+      [
+        "MOSS",
+        "Soft green plant growth near a woodland mushroom"
+      ],
+      [
+        "LEAF",
+        "Fallen tree part lying on the forest floor"
+      ],
+      [
+        "SMALL",
+        "Not large, as a tiny mushroom may be"
+      ],
+      [
+        "ROUND",
+        "Circular in outline, as some mushroom caps are"
+      ],
+      [
+        "BROWN",
+        "Earthy color seen on many woodland mushroom caps"
       ]
     ],
     "answerNotes": {
-      "MYCELIUM": "Mycelium is a network of hyphae; the visible mushroom is only one possible fruiting structure produced by a fungus.",
-      "HYPHA": "Hypha is singular; hyphae is the plural form often used for the network's individual threads.",
-      "FUNGUS": "Fungi are not plants and do not obtain energy by plant-style photosynthesis.",
-      "GILL": "Gills occur in many mushroom forms, but other species have pores or different spore-bearing surfaces.",
-      "SPORE": "Spores are reproductive units rather than flower seeds; appearance alone is not an edibility guide."
+      "MUSHROOM": "A mushroom is part of a fungus rather than a flowering plant.",
+      "CAP": "Cap describes the top rather than the stalk supporting it.",
+      "STEM": "Not every mushroom has the same shape or a clear separate stem.",
+      "DAMP": "Damp conditions describe the scene rather than identify a mushroom species.",
+      "SHADE": "Shade is a condition in the surroundings, not a part of the mushroom."
     },
     "requiredAnswers": [
-      "MYCELIUM"
-    ]
+      "MUSHROOM"
+    ],
+    "revision": 2
   },
   {
     "id": "forest-observations-5",

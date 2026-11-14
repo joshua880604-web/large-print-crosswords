@@ -2,17 +2,19 @@
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
     "puzzles": 500,
-    "clueEntries": 5592,
-    "distinctAnswers": 2543,
-    "distinctAnswerCluePairs": 5592,
+    "clueEntries": 5587,
+    "distinctAnswers": 2490,
+    "distinctAnswerCluePairs": 5587,
     "distinctIntroductions": 500,
     "numberedTitles": 0,
     "editedEditions": 500
   },
+  "preservedRevisedEditions": 27,
   "refinedSeries": [
     {
       "id": "garden-days",
       "name": "Gardening",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 58,
@@ -43,6 +45,7 @@
     {
       "id": "backyard-birds",
       "name": "Birds",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 67,
@@ -73,6 +76,7 @@
     {
       "id": "music-memories",
       "name": "Music",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 58,
@@ -103,6 +107,7 @@
     {
       "id": "market-morning",
       "name": "Market",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 65,
@@ -133,6 +138,7 @@
     {
       "id": "on-the-road",
       "name": "Travel",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -163,6 +169,7 @@
     {
       "id": "cozy-at-home",
       "name": "Home",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -193,6 +200,7 @@
     {
       "id": "a-day-at-the-farm",
       "name": "Farm",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 65,
@@ -223,6 +231,7 @@
     {
       "id": "sunday-baking",
       "name": "Baking",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -253,6 +262,7 @@
     {
       "id": "a-stitch-in-time",
       "name": "Crafts",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -283,6 +293,7 @@
     {
       "id": "flower-favorites",
       "name": "Flowers",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -313,6 +324,7 @@
     {
       "id": "our-furry-friends",
       "name": "Pets",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 58,
@@ -343,6 +355,7 @@
     {
       "id": "a-cup-of-comfort",
       "name": "Drinks",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 65,
@@ -373,6 +386,7 @@
     {
       "id": "movie-night",
       "name": "Movies",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 65,
@@ -403,6 +417,7 @@
     {
       "id": "by-the-sea",
       "name": "Seaside",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -433,6 +448,7 @@
     {
       "id": "autumn-walk",
       "name": "Autumn",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 62,
@@ -463,6 +479,7 @@
     {
       "id": "holiday-table",
       "name": "Holidays",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 63,
@@ -493,6 +510,7 @@
     {
       "id": "a-good-book",
       "name": "Reading",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -523,6 +541,7 @@
     {
       "id": "weather-watching",
       "name": "Weather",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -553,6 +572,7 @@
     {
       "id": "in-the-workshop",
       "name": "Workshop",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 64,
@@ -583,6 +603,7 @@
     {
       "id": "game-night",
       "name": "Games",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 5,
         "entries": 57,
@@ -613,6 +634,7 @@
     {
       "id": "ballpark-baseball",
       "name": "Baseball",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -643,6 +665,7 @@
     {
       "id": "leisure-sports",
       "name": "Leisure Sports",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -673,6 +696,7 @@
     {
       "id": "team-sports",
       "name": "Team Sports",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -703,6 +727,7 @@
     {
       "id": "active-pastimes",
       "name": "Active Pastimes",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -733,6 +758,7 @@
     {
       "id": "american-music",
       "name": "American Music",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -763,6 +789,7 @@
     {
       "id": "instrument-families",
       "name": "Musical Instruments",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -793,6 +820,7 @@
     {
       "id": "dance-and-song",
       "name": "Dance and Song",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -823,6 +851,7 @@
     {
       "id": "christmas-comforts",
       "name": "Christmas",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -853,6 +882,7 @@
     {
       "id": "thanksgiving-together",
       "name": "Thanksgiving",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -883,6 +913,7 @@
     {
       "id": "halloween-evening",
       "name": "Halloween",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -913,6 +944,7 @@
     {
       "id": "easter-gathering",
       "name": "Easter",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -943,6 +975,7 @@
     {
       "id": "spring-at-home",
       "name": "Spring Days",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -973,6 +1006,7 @@
     {
       "id": "summer-afternoons",
       "name": "Summer Days",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1003,6 +1037,7 @@
     {
       "id": "winter-comforts",
       "name": "Winter Days",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1033,6 +1068,7 @@
     {
       "id": "calendar-celebrations",
       "name": "Celebrations",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1063,6 +1099,7 @@
     {
       "id": "painting-and-color",
       "name": "Painting",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1093,6 +1130,7 @@
     {
       "id": "handmade-arts",
       "name": "Handmade Arts",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1123,6 +1161,7 @@
     {
       "id": "everyday-meals",
       "name": "Everyday Meals",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1153,6 +1192,7 @@
     {
       "id": "fruit-and-flavor",
       "name": "Fruit and Flavor",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1183,6 +1223,7 @@
     {
       "id": "treasured-collections",
       "name": "Collections",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1213,6 +1254,7 @@
     {
       "id": "geography-journeys",
       "name": "Geography",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1243,6 +1285,7 @@
     {
       "id": "state-capital-stops",
       "name": "State Capitals",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1273,6 +1316,7 @@
     {
       "id": "american-history-scenes",
       "name": "American History",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1303,6 +1347,7 @@
     {
       "id": "texas-scenes",
       "name": "Texas",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1333,6 +1378,7 @@
     {
       "id": "neighborhood-stops",
       "name": "Neighborhood Stops",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1363,6 +1409,7 @@
     {
       "id": "hands-on-hobbies",
       "name": "Hands-on Hobbies",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1393,6 +1440,7 @@
     {
       "id": "american-landmarks",
       "name": "American Landmarks",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1423,6 +1471,7 @@
     {
       "id": "classic-american-stops",
       "name": "Classic American Stops",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1434,17 +1483,17 @@
         "id": "classic-american-stops",
         "puzzles": 5,
         "entries": 57,
-        "uniqueAnswers": 57,
+        "uniqueAnswers": 56,
         "uniqueCluePairs": 57,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0
+        "highestAnswerJaccard": 0.048
       },
       "subjects": [
         "A Covered Bridge Visit",
-        "Inside a Lighthouse Museum",
+        "A Lighthouse by the Shore",
         "At the Old Schoolhouse Museum",
         "Shelves in a General Store",
         "An Evening at the Drive-In"
@@ -1453,6 +1502,7 @@
     {
       "id": "backyard-nature-studies",
       "name": "Backyard Nature Studies",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1463,9 +1513,9 @@
       "after": {
         "id": "backyard-nature-studies",
         "puzzles": 5,
-        "entries": 56,
-        "uniqueAnswers": 54,
-        "uniqueCluePairs": 56,
+        "entries": 55,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 55,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
@@ -1476,13 +1526,14 @@
         "Around a Freshwater Pond",
         "A Honeybee Colony",
         "Caterpillars and Cocoons",
-        "Bark and Tree Rings",
+        "Rings on a Tree Stump",
         "Animal Tracks in Mud"
       ]
     },
     {
       "id": "evening-sky",
       "name": "Evening Sky",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1513,6 +1564,7 @@
     {
       "id": "water-and-wildlife",
       "name": "Water and Wildlife",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1523,26 +1575,27 @@
       "after": {
         "id": "water-and-wildlife",
         "puzzles": 5,
-        "entries": 54,
-        "uniqueAnswers": 49,
-        "uniqueCluePairs": 54,
+        "entries": 53,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 53,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.1
+        "highestAnswerJaccard": 0.05
       },
       "subjects": [
         "Birds of the Woodland Edge",
         "Mammals by the Creek",
         "Frogs and Their Neighbors",
-        "A Turtle on a Log",
+        "A Turtle Resting by the Pond",
         "Fish in a River"
       ]
     },
     {
       "id": "home-inventions",
       "name": "Home Inventions",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1573,6 +1626,7 @@
     {
       "id": "local-outings",
       "name": "Local Outings",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1603,6 +1657,7 @@
     {
       "id": "garden-details",
       "name": "Garden Details",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1633,6 +1688,7 @@
     {
       "id": "kitchen-word-science",
       "name": "Kitchen Word Science",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1657,12 +1713,13 @@
         "Ways to Prepare Vegetables",
         "A Little Kitchen Chemistry",
         "The Spice Grinder",
-        "Measuring Liquids"
+        "Reading a Kitchen Measuring Cup"
       ]
     },
     {
       "id": "clothes-and-fabrics",
       "name": "Clothes and Fabrics",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1693,6 +1750,7 @@
     {
       "id": "weather-and-light-tools",
       "name": "Weather and Light Tools",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1723,6 +1781,7 @@
     {
       "id": "everyday-wordplay",
       "name": "Everyday Wordplay",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1753,6 +1812,7 @@
     {
       "id": "recreation-room",
       "name": "Recreation Room",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1783,6 +1843,7 @@
     {
       "id": "simple-machines",
       "name": "Simple Machines",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1813,6 +1874,7 @@
     {
       "id": "rail-and-water-travel",
       "name": "Rail and Water Travel",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1843,6 +1905,7 @@
     {
       "id": "roadside-americana",
       "name": "Roadside Americana",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1873,6 +1936,7 @@
     {
       "id": "familiar-vehicles",
       "name": "Familiar Vehicles",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1897,12 +1961,13 @@
         "Alongside a Yellow School Bus",
         "A Tractor Beside the Barn",
         "A Hot-Air Balloon at Dawn",
-        "A Streetcar Along the Avenue"
+        "Riding a Streetcar Downtown"
       ]
     },
     {
       "id": "working-waterfront",
       "name": "Working Waterfront",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1914,7 +1979,7 @@
         "id": "working-waterfront",
         "puzzles": 5,
         "entries": 56,
-        "uniqueAnswers": 54,
+        "uniqueAnswers": 53,
         "uniqueCluePairs": 56,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
@@ -1925,7 +1990,7 @@
       "subjects": [
         "A Fishing Trawler at the Pier",
         "Where the River Meets the Sea",
-        "In a Wooden Boat Shed",
+        "A Wooden Rowboat by the Dock",
         "Buoys Beyond the Harbor",
         "Reading a Harbor Chart"
       ]
@@ -1933,6 +1998,7 @@
     {
       "id": "forest-observations",
       "name": "Forest Observations",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1944,25 +2010,26 @@
         "id": "forest-observations",
         "puzzles": 5,
         "entries": 54,
-        "uniqueAnswers": 44,
+        "uniqueAnswers": 42,
         "uniqueCluePairs": 54,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.158
+        "highestAnswerJaccard": 0.222
       },
       "subjects": [
-        "Ferns on the Forest Floor",
-        "Acorns Beneath an Oak",
+        "Green Ferns Beside the Path",
+        "Acorns Under an Oak Tree",
         "A Pine Cone on the Path",
-        "Mushrooms After the Rain",
+        "Mushrooms After a Woodland Shower",
         "Wildflowers Along a Woodland Path"
       ]
     },
     {
       "id": "open-country-wildlife",
       "name": "Open Country Wildlife",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -1993,6 +2060,7 @@
     {
       "id": "small-world-nature",
       "name": "Small World Nature",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2015,14 +2083,15 @@
       "subjects": [
         "Ladybugs Among the Leaves",
         "An Ant Colony Under the Path",
-        "An Earthworm in the Garden Soil",
-        "A Spider at Its Web",
+        "An Earthworm After a Spring Shower",
+        "Dew Drops on a Spider Web",
         "A Snail on a Garden Wall"
       ]
     },
     {
       "id": "garden-styles",
       "name": "Garden Styles",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2053,6 +2122,7 @@
     {
       "id": "flowers-through-the-year",
       "name": "Flowers Through the Year",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2063,9 +2133,9 @@
       "after": {
         "id": "flowers-through-the-year",
         "puzzles": 5,
-        "entries": 57,
+        "entries": 55,
         "uniqueAnswers": 40,
-        "uniqueCluePairs": 57,
+        "uniqueCluePairs": 55,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
@@ -2073,16 +2143,17 @@
         "highestAnswerJaccard": 0.222
       },
       "subjects": [
-        "A Daffodil in Early Spring",
-        "A Sunflower Facing the Garden",
+        "Yellow Daffodils in Spring",
+        "A Tall Sunflower in Summer",
         "Autumn Mums at the Door",
-        "Bright Bracts on a Poinsettia",
+        "A Poinsettia on the Holiday Table",
         "A Camellia Beside the Walk"
       ]
     },
     {
       "id": "american-regional-tables",
       "name": "American Regional Tables",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2113,6 +2184,7 @@
     {
       "id": "bakers-specialties",
       "name": "Bakers Specialties",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2143,6 +2215,7 @@
     {
       "id": "craft-room-techniques",
       "name": "Craft Room Techniques",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2173,6 +2246,7 @@
     {
       "id": "paper-and-lettering",
       "name": "Paper and Lettering",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2184,25 +2258,26 @@
         "id": "paper-and-lettering",
         "puzzles": 5,
         "entries": 55,
-        "uniqueAnswers": 48,
+        "uniqueAnswers": 47,
         "uniqueCluePairs": 55,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.1
+        "highestAnswerJaccard": 0.167
       },
       "subjects": [
         "A Calligraphy Pen and Ink",
         "Binding a Small Handmade Book",
         "A Linocut Print on the Table",
         "Swirls in a Marbled Paper Sheet",
-        "At a Letterpress Workbench"
+        "Printing a Card at an Old-Time Press"
       ]
     },
     {
       "id": "old-time-entertainment",
       "name": "Old Time Entertainment",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2233,6 +2308,7 @@
     {
       "id": "stage-and-performance",
       "name": "Stage and Performance",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2263,6 +2339,7 @@
     {
       "id": "collections-and-keepsakes",
       "name": "Collections and Keepsakes",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2274,25 +2351,26 @@
         "id": "collections-and-keepsakes",
         "puzzles": 5,
         "entries": 56,
-        "uniqueAnswers": 50,
+        "uniqueAnswers": 51,
         "uniqueCluePairs": 56,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.222
+        "highestAnswerJaccard": 0.15
       },
       "subjects": [
         "Buttons in a Collector’s Tin",
         "Glassware in a Display Cabinet",
         "A Music Box on the Shelf",
-        "Shells Arranged in a Cabinet",
-        "A Pocket Watch in Its Case"
+        "Shells Collected at the Beach",
+        "A Family Pocket Watch"
       ]
     },
     {
       "id": "home-details",
       "name": "Home Details",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2303,26 +2381,27 @@
       "after": {
         "id": "home-details",
         "puzzles": 5,
-        "entries": 55,
-        "uniqueAnswers": 52,
-        "uniqueCluePairs": 55,
+        "entries": 54,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 54,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.1
+        "highestAnswerJaccard": 0.158
       },
       "subjects": [
-        "Parts of an Old-Fashioned Window",
-        "A Door Lock and Its Fittings",
+        "An Open Window in Spring",
+        "Locking the Front Door",
         "Inside an Upholstered Armchair",
-        "A Cabinet Door and Drawer",
+        "Dishes in the Kitchen Cupboard",
         "Looking at a Handwoven Rug"
       ]
     },
     {
       "id": "everyday-materials",
       "name": "Everyday Materials",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2333,9 +2412,9 @@
       "after": {
         "id": "everyday-materials",
         "puzzles": 5,
-        "entries": 55,
-        "uniqueAnswers": 55,
-        "uniqueCluePairs": 55,
+        "entries": 56,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 56,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
@@ -2343,9 +2422,9 @@
         "highestAnswerJaccard": 0
       },
       "subjects": [
-        "Glass at the Glassblower’s Bench",
-        "Fibers in a Sheet of Paper",
-        "Clay Before and After the Kiln",
+        "Glass Bottles on the Kitchen Shelf",
+        "Paper on the Writing Desk",
+        "Shaping a Small Clay Bowl",
         "Wood Viewed Along and Across the Grain",
         "Familiar Metals and Alloys"
       ]
@@ -2353,6 +2432,7 @@
     {
       "id": "word-patterns",
       "name": "Word Patterns",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2383,6 +2463,7 @@
     {
       "id": "winter-holiday-crafts",
       "name": "Winter Holiday Crafts",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2413,6 +2494,7 @@
     {
       "id": "thanksgiving-sides",
       "name": "Thanksgiving Side Dishes",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2443,6 +2525,7 @@
     {
       "id": "thanksgiving-sharing",
       "name": "Sharing Thanksgiving",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2473,6 +2556,7 @@
     {
       "id": "christmas-kitchen",
       "name": "Christmas Kitchen Traditions",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2503,6 +2587,7 @@
     {
       "id": "christmas-post-and-paper",
       "name": "Christmas Post and Paper",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2533,6 +2618,7 @@
     {
       "id": "christmas-around-the-room",
       "name": "Christmas Around the Room",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2563,6 +2649,7 @@
     {
       "id": "winter-backyard",
       "name": "Winter Backyard Observations",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2593,6 +2680,7 @@
     {
       "id": "winter-weather-scenes",
       "name": "Understanding Winter Weather",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2623,6 +2711,7 @@
     {
       "id": "winter-pastimes",
       "name": "Winter Pastimes",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2653,6 +2742,7 @@
     {
       "id": "country-voice-memories",
       "name": "Country Voice Memories",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2683,6 +2773,7 @@
     {
       "id": "classic-voice-memories",
       "name": "Classic American Voices",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2713,6 +2804,7 @@
     {
       "id": "vocal-group-memories",
       "name": "Vocal Group Memories",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2743,6 +2835,7 @@
     {
       "id": "american-music-cities",
       "name": "American Music City Stops",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2773,6 +2866,7 @@
     {
       "id": "records-and-listening",
       "name": "Records and Listening",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2803,6 +2897,7 @@
     {
       "id": "keyboard-sounds",
       "name": "Keyboard Sounds and Mechanisms",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2814,25 +2909,26 @@
         "id": "keyboard-sounds",
         "puzzles": 5,
         "entries": 57,
-        "uniqueAnswers": 50,
+        "uniqueAnswers": 51,
         "uniqueCluePairs": 57,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.095
+        "highestAnswerJaccard": 0.1
       },
       "subjects": [
         "Inside a Pipe Organ",
         "A Piano Tuner's Visit",
-        "A Harpsichord in the Music Room",
-        "The Player Piano's Paper Roll",
+        "Taking Turns in a Piano Duet",
+        "Watching a Player Piano",
         "A Portable Electronic Keyboard"
       ]
     },
     {
       "id": "strings-and-picking",
       "name": "Strings and Picking",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2843,18 +2939,18 @@
       "after": {
         "id": "strings-and-picking",
         "puzzles": 5,
-        "entries": 59,
-        "uniqueAnswers": 51,
-        "uniqueCluePairs": 59,
+        "entries": 58,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 58,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
         "editedEditions": 5,
         "highestExactClueJaccard": 0,
-        "highestAnswerJaccard": 0.095
+        "highestAnswerJaccard": 0.091
       },
       "subjects": [
         "A Five-String Banjo",
-        "A Mandolin's Paired Strings",
+        "A Mandolin at a Family Gathering",
         "A Violin Bow in Its Case",
         "The Sound of a Steel Guitar",
         "A Harp Beside the Orchestra"
@@ -2863,6 +2959,7 @@
     {
       "id": "winds-and-bellows",
       "name": "Winds and Bellows",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2893,6 +2990,7 @@
     {
       "id": "music-patterns",
       "name": "Music Patterns Made Clear",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2923,6 +3021,7 @@
     {
       "id": "voices-in-company",
       "name": "Voices in Company",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2953,6 +3052,7 @@
     {
       "id": "american-style-memories",
       "name": "American Style Memories",
+      "allFirstEditions": true,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2983,6 +3083,7 @@
     {
       "id": "music-behind-the-scenes",
       "name": "Music Behind the Scenes",
+      "allFirstEditions": false,
       "before": {
         "puzzles": 0,
         "entries": 0,
@@ -2994,7 +3095,7 @@
         "id": "music-behind-the-scenes",
         "puzzles": 5,
         "entries": 55,
-        "uniqueAnswers": 52,
+        "uniqueAnswers": 53,
         "uniqueCluePairs": 55,
         "uniqueIntroductions": 5,
         "numberedTitles": 0,
@@ -3007,7 +3108,7 @@
         "A Songwriter's Notebook",
         "A Record Producer at Work",
         "At the Sound Engineer's Console",
-        "A Guitar Maker's Workbench"
+        "A Guitar Case After the Sing-Along"
       ]
     }
   ],
@@ -3016,20 +3117,6 @@
   "repeatedClues": [],
   "highestOverlapPairs": [],
   "highestAnswerOverlapPairs": [
-    {
-      "first": "handmade-arts",
-      "second": "everyday-materials-3",
-      "sharedAnswers": [
-        "HANDLE",
-        "GLAZE",
-        "BOWL",
-        "CLAY",
-        "FIRE",
-        "POT"
-      ],
-      "jaccard": 0.353,
-      "sameSeries": false
-    },
     {
       "first": "music-memories-4",
       "second": "dance-and-song",
@@ -3071,14 +3158,14 @@
       "sameSeries": false
     },
     {
-      "first": "instrument-families",
-      "second": "strings-and-picking-2",
+      "first": "forest-observations-4",
+      "second": "small-world-nature-3",
       "sharedAnswers": [
-        "CHORD",
-        "TUNE",
-        "NECK",
-        "PICK",
-        "PEG"
+        "PATH",
+        "RAIN",
+        "SOIL",
+        "LEAF",
+        "DAMP"
       ],
       "jaccard": 0.294,
       "sameSeries": false
@@ -3092,6 +3179,19 @@
         "TRAIN",
         "RAIL",
         "TIE"
+      ],
+      "jaccard": 0.294,
+      "sameSeries": false
+    },
+    {
+      "first": "winter-comforts",
+      "second": "home-details",
+      "sharedAnswers": [
+        "GLASS",
+        "LATCH",
+        "FRAME",
+        "VIEW",
+        "SILL"
       ],
       "jaccard": 0.294,
       "sameSeries": false
@@ -3175,6 +3275,19 @@
       "sameSeries": false
     },
     {
+      "first": "neighborhood-stops-4",
+      "second": "familiar-vehicles-5",
+      "sharedAnswers": [
+        "TICKET",
+        "DRIVER",
+        "ROUTE",
+        "FARE",
+        "STOP"
+      ],
+      "jaccard": 0.263,
+      "sameSeries": false
+    },
+    {
       "first": "backyard-nature-studies",
       "second": "water-and-wildlife-3",
       "sharedAnswers": [
@@ -3235,6 +3348,18 @@
       "sameSeries": false
     },
     {
+      "first": "american-history-scenes",
+      "second": "paper-and-lettering-5",
+      "sharedAnswers": [
+        "PAPER",
+        "PRESS",
+        "TYPE",
+        "INK"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
       "first": "bakers-specialties-3",
       "second": "thanksgiving-sides-5",
       "sharedAnswers": [
@@ -3242,30 +3367,6 @@
         "STEAM",
         "FORK",
         "MILK"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": false
-    },
-    {
-      "first": "collections-and-keepsakes-3",
-      "second": "collections-and-keepsakes-5",
-      "sharedAnswers": [
-        "SPRING",
-        "GEAR",
-        "CASE",
-        "LID"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": true
-    },
-    {
-      "first": "cozy-at-home-4",
-      "second": "halloween-evening-4",
-      "sharedAnswers": [
-        "PORCH",
-        "GATE",
-        "STEP",
-        "PATH"
       ],
       "jaccard": 0.222,
       "sameSeries": false
@@ -3840,20 +3941,20 @@
       "id": "classic-american-stops",
       "puzzles": 5,
       "entries": 57,
-      "uniqueAnswers": 57,
+      "uniqueAnswers": 56,
       "uniqueCluePairs": 57,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0
+      "highestAnswerJaccard": 0.048
     },
     {
       "id": "backyard-nature-studies",
       "puzzles": 5,
-      "entries": 56,
-      "uniqueAnswers": 54,
-      "uniqueCluePairs": 56,
+      "entries": 55,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 55,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
@@ -3875,14 +3976,14 @@
     {
       "id": "water-and-wildlife",
       "puzzles": 5,
-      "entries": 54,
-      "uniqueAnswers": 49,
-      "uniqueCluePairs": 54,
+      "entries": 53,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 53,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.1
+      "highestAnswerJaccard": 0.05
     },
     {
       "id": "home-inventions",
@@ -4032,7 +4133,7 @@
       "id": "working-waterfront",
       "puzzles": 5,
       "entries": 56,
-      "uniqueAnswers": 54,
+      "uniqueAnswers": 53,
       "uniqueCluePairs": 56,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
@@ -4044,13 +4145,13 @@
       "id": "forest-observations",
       "puzzles": 5,
       "entries": 54,
-      "uniqueAnswers": 44,
+      "uniqueAnswers": 42,
       "uniqueCluePairs": 54,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.158
+      "highestAnswerJaccard": 0.222
     },
     {
       "id": "open-country-wildlife",
@@ -4091,9 +4192,9 @@
     {
       "id": "flowers-through-the-year",
       "puzzles": 5,
-      "entries": 57,
+      "entries": 55,
       "uniqueAnswers": 40,
-      "uniqueCluePairs": 57,
+      "uniqueCluePairs": 55,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
@@ -4140,13 +4241,13 @@
       "id": "paper-and-lettering",
       "puzzles": 5,
       "entries": 55,
-      "uniqueAnswers": 48,
+      "uniqueAnswers": 47,
       "uniqueCluePairs": 55,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.1
+      "highestAnswerJaccard": 0.167
     },
     {
       "id": "old-time-entertainment",
@@ -4176,32 +4277,32 @@
       "id": "collections-and-keepsakes",
       "puzzles": 5,
       "entries": 56,
-      "uniqueAnswers": 50,
+      "uniqueAnswers": 51,
       "uniqueCluePairs": 56,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.222
+      "highestAnswerJaccard": 0.15
     },
     {
       "id": "home-details",
       "puzzles": 5,
-      "entries": 55,
-      "uniqueAnswers": 52,
-      "uniqueCluePairs": 55,
+      "entries": 54,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 54,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.1
+      "highestAnswerJaccard": 0.158
     },
     {
       "id": "everyday-materials",
       "puzzles": 5,
-      "entries": 55,
-      "uniqueAnswers": 55,
-      "uniqueCluePairs": 55,
+      "entries": 56,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 56,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
@@ -4392,25 +4493,25 @@
       "id": "keyboard-sounds",
       "puzzles": 5,
       "entries": 57,
-      "uniqueAnswers": 50,
+      "uniqueAnswers": 51,
       "uniqueCluePairs": 57,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.095
+      "highestAnswerJaccard": 0.1
     },
     {
       "id": "strings-and-picking",
       "puzzles": 5,
-      "entries": 59,
-      "uniqueAnswers": 51,
-      "uniqueCluePairs": 59,
+      "entries": 58,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 58,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
-      "highestAnswerJaccard": 0.095
+      "highestAnswerJaccard": 0.091
     },
     {
       "id": "winds-and-bellows",
@@ -4464,7 +4565,7 @@
       "id": "music-behind-the-scenes",
       "puzzles": 5,
       "entries": 55,
-      "uniqueAnswers": 52,
+      "uniqueAnswers": 53,
       "uniqueCluePairs": 55,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,

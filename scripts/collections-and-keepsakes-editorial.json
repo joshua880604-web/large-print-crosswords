@@ -1,11 +1,11 @@
 [
   {
     "id": "collections-and-keepsakes",
-    "title": "Buttons in a Collector’s Tin",
+    "title": "Buttons in a Collector\u2019s Tin",
     "description": "Sort a collection of clothing buttons through their shapes, attachment methods, and decorative materials.",
     "cardDescription": "Sort a collection of clothing buttons through their shapes, attachment methods, and decorative materials.",
-    "subtheme": "Buttons in a Collector’s Tin",
-    "focus": "A button can be attached through face holes or through a projecting shank. The clues distinguish that fastening structure from the button’s material and the container storing it.",
+    "subtheme": "Buttons in a Collector\u2019s Tin",
+    "focus": "A button can be attached through face holes or through a projecting shank. The clues distinguish that fastening structure from the button\u2019s material and the container storing it.",
     "solvingTip": "Use the attachment method before the material or shape word.",
     "words": [
       [
@@ -82,7 +82,7 @@
     "description": "Look at collectible glass through its surface effects, supporting foot, and familiar vessel shapes.",
     "cardDescription": "Look at collectible glass through its surface effects, supporting foot, and familiar vessel shapes.",
     "subtheme": "Glassware in a Display Cabinet",
-    "focus": "Glass collectors distinguish material effects from shapes and manufacturing marks. The clues identify those features without claiming a color or pattern proves an object’s age or value.",
+    "focus": "Glass collectors distinguish material effects from shapes and manufacturing marks. The clues identify those features without claiming a color or pattern proves an object\u2019s age or value.",
     "solvingTip": "Separate a surface appearance from a vessel part or a production mark.",
     "words": [
       [
@@ -236,156 +236,158 @@
   },
   {
     "id": "collections-and-keepsakes-4",
-    "title": "Shells Arranged in a Cabinet",
-    "description": "Examine a shell collection through familiar mollusk groups, coiled forms, and labels beside the specimens.",
-    "cardDescription": "Examine a shell collection through familiar mollusk groups, coiled forms, and labels beside the specimens.",
-    "subtheme": "Shells Arranged in a Cabinet",
-    "focus": "A shell’s shape can help describe its animal group. The clues distinguish a two-valved shell from a coiled gastropod shell and name parts used in a collector’s description.",
-    "solvingTip": "Start with a familiar shell name, then use the opening or coil terms for crossings.",
+    "title": "Shells Collected at the Beach",
+    "description": "Sort a small beach collection through familiar shell names, shapes, colors, and textures.",
+    "cardDescription": "Sort a small beach collection through familiar shell names, shapes, colors, and textures.",
+    "subtheme": "Shells Collected at the Beach",
+    "focus": "Some shells have two matching halves, while a snail's shell is commonly one coiled piece.",
+    "solvingTip": "Use the shape and texture clues before the animal names.",
     "words": [
       [
-        "COWRIE",
-        "Glossy often oval shell with a long narrow opening"
-      ],
-      [
-        "BIVALVE",
-        "Mollusk group with two hinged shell halves"
-      ],
-      [
-        "GASTROPOD",
-        "Mollusk group containing snails and slugs"
-      ],
-      [
-        "OPERCULUM",
-        "Plate closing the opening of many marine snail shells"
-      ],
-      [
-        "WHORL",
-        "One complete turn in a coiled shell"
-      ],
-      [
-        "SPIRE",
-        "Tapered upper portion of a coiled shell"
-      ],
-      [
-        "APEX",
-        "Pointed tip at the earliest part of a coiled shell"
+        "SHELL",
+        "Hard outer covering collected after a visit to the beach"
       ],
       [
         "CLAM",
-        "Familiar two-shelled mollusk represented in collections"
+        "Shellfish with two hinged shell halves"
       ],
       [
-        "WHELK",
-        "Marine snail with a familiar spiral shell"
+        "SNAIL",
+        "Slow animal often carrying one coiled shell"
       ],
       [
-        "CONCH",
-        "Marine snail name associated with a large spiral shell"
+        "SPIRAL",
+        "Coiling shape visible in many snail shells"
       ],
       [
-        "SCALLOP",
-        "Bivalve with a fan-shaped ribbed shell"
+        "PAIR",
+        "Two matching halves of a clam shell"
+      ],
+      [
+        "PEARL",
+        "Smooth round object formed inside some shellfish"
+      ],
+      [
+        "RIDGE",
+        "Raised line on a shell's surface"
+      ],
+      [
+        "SAND",
+        "Tiny grains brushed away from a beach shell"
+      ],
+      [
+        "SHORE",
+        "Land beside the sea where shells may wash up"
       ],
       [
         "TRAY",
-        "Shallow support holding sorted shell specimens"
+        "Shallow holder displaying the collected shells"
       ],
       [
-        "LABEL",
-        "Written identification placed beside a shell"
+        "SMOOTH",
+        "Even to the touch, unlike a rough shell"
       ],
       [
-        "BOX",
-        "Small container protecting a collected specimen"
+        "WHITE",
+        "Pale color seen on many empty shells"
+      ],
+      [
+        "CURVE",
+        "Bending outline of a rounded shell"
+      ],
+      [
+        "SMALL",
+        "Not large, as a tiny shell in the collection is"
       ]
     ],
     "answerNotes": {
-      "COWRIE": "A cowrie's smooth surface is natural shell material rather than porcelain.",
-      "BIVALVE": "Clams and scallops are bivalves; a coiled snail belongs to another mollusk group.",
-      "GASTROPOD": "Gastropods include both shelled snails and slugs, so a coiled shell is not universal in the group.",
-      "OPERCULUM": "An operculum is a closing plate, not one of a clam's two valves.",
-      "WHORL": "A whorl is a turn in the coil; the spire includes several turns toward the tip."
+      "SHELL": "An empty shell once protected an animal's body.",
+      "CLAM": "A clam's shell has two parts joined along a hinge.",
+      "SNAIL": "Many familiar snails have a spiral shell, though shell shapes vary.",
+      "SPIRAL": "A spiral winds around a central point rather than forming straight rows.",
+      "PAIR": "Pair counts the two pieces rather than naming the animal."
     },
     "requiredAnswers": [
-      "COWRIE"
-    ]
+      "SHELL"
+    ],
+    "revision": 2
   },
   {
     "id": "collections-and-keepsakes-5",
-    "title": "A Pocket Watch in Its Case",
-    "description": "Look inside a traditional pocket watch through its winding controls, timekeeping mechanism, and carrying chain.",
-    "cardDescription": "Look inside a traditional pocket watch through its winding controls, timekeeping mechanism, and carrying chain.",
-    "subtheme": "A Pocket Watch in Its Case",
-    "focus": "A mechanical watch stores energy in a spring and releases it through a regulated mechanism. The clues distinguish the display, its protective case, and the small parts controlling motion.",
-    "solvingTip": "Separate an outside carrying feature from an internal moving or supporting component.",
+    "title": "A Family Pocket Watch",
+    "description": "Look at a family pocket watch through its face, hands, chain, and quiet ticking sound.",
+    "cardDescription": "Look at a family pocket watch through its face, hands, chain, and quiet ticking sound.",
+    "subtheme": "A Family Pocket Watch",
+    "focus": "The hands show the time, while the case protects the watch. The clues use visible parts rather than its tiny internal mechanism.",
+    "solvingTip": "Start with a short time word or the part used to carry the watch.",
     "words": [
       [
-        "ESCAPEMENT",
-        "Watch mechanism controlling the release of energy to the timekeeper"
+        "WATCH",
+        "Small timepiece carried in a pocket"
       ],
       [
-        "BALANCE",
-        "Oscillating wheel helping regulate a mechanical watch"
-      ],
-      [
-        "CROWN",
-        "Small outside control used to wind or set many watches"
-      ],
-      [
-        "JEWEL",
-        "Hard bearing insert reducing wear at a watch pivot"
-      ],
-      [
-        "FOB",
-        "Small attachment or short chain associated with a pocket watch"
-      ],
-      [
-        "CASE",
-        "Protective outer housing around a pocket watch"
-      ],
-      [
-        "LID",
-        "Hinged cover protecting some watch dials"
-      ],
-      [
-        "DIAL",
-        "Marked face on which a watch displays time"
-      ],
-      [
-        "HAND",
-        "Pointer indicating an hour or minute"
+        "POCKET",
+        "Clothing pouch where this small watch is kept"
       ],
       [
         "CHAIN",
-        "Linked attachment securing a pocket watch to clothing"
+        "Linked metal strand securing a pocket watch"
       ],
       [
-        "KEY",
-        "Separate winding tool used by some older watches"
+        "HAND",
+        "Pointer moving around the watch face"
       ],
       [
-        "SPRING",
-        "Coiled energy store inside a mechanical watch"
+        "FACE",
+        "Front surface displaying the watch's numbers"
       ],
       [
-        "GEAR",
-        "Toothed wheel transferring rotation within a watch"
+        "CASE",
+        "Outer covering protecting the pocket watch"
       ],
       [
         "TICK",
-        "Repeated small sound associated with the mechanism"
+        "Quiet repeated sound from a working mechanical watch"
+      ],
+      [
+        "TIME",
+        "What the watch tells its owner"
+      ],
+      [
+        "HOUR",
+        "Period of sixty minutes shown by the shorter hand"
+      ],
+      [
+        "MINUTE",
+        "Period of sixty seconds shown by the longer hand"
+      ],
+      [
+        "WIND",
+        "Turn the watch's small control to keep its spring working"
+      ],
+      [
+        "KEY",
+        "Small tool used to wind certain older watches"
+      ],
+      [
+        "LID",
+        "Hinged cover over the face of some pocket watches"
+      ],
+      [
+        "ROUND",
+        "Circular in shape, as many pocket watches are"
       ]
     ],
     "answerNotes": {
-      "ESCAPEMENT": "An escapement meters the gear train's motion in coordination with an oscillator rather than simply letting the spring unwind freely.",
-      "BALANCE": "The balance moves back and forth; it is distinct from a display hand rotating around the dial.",
-      "CROWN": "A crown is one control design; some older pocket watches instead use a separate key.",
-      "JEWEL": "Watch jewels are often synthetic ruby and serve a mechanical function rather than merely decoration.",
-      "FOB": "Fob refers to a carrying attachment in this scene, not a part of the timekeeping mechanism."
+      "WATCH": "A pocket watch is carried rather than worn on a wrist.",
+      "POCKET": "The pocket provides a place to carry the watch while moving around.",
+      "CHAIN": "A chain helps keep the watch attached to clothing.",
+      "HAND": "Different hands can show hours, minutes, or seconds.",
+      "FACE": "Face is the visible display rather than the protective outside case."
     },
     "requiredAnswers": [
-      "ESCAPEMENT"
-    ]
+      "WATCH"
+    ],
+    "revision": 2
   }
 ]

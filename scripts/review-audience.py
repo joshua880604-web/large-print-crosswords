@@ -48,7 +48,7 @@ for puzzle in puzzles:
 
 out = ROOT / 'docs/research'
 with (out / f'audience-review-{args.date}.csv').open('w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=list(rows[0]))
+    writer = csv.DictWriter(file, fieldnames=list(rows[0]), lineterminator="\n")
     writer.writeheader()
     writer.writerows(rows)
 summary = dict(date=args.date, scope=criteria['method'], puzzles=len(rows), clues=sum(row['totalClues'] for row in rows),

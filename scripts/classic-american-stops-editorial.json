@@ -78,85 +78,81 @@
   },
   {
     "id": "classic-american-stops-2",
-    "title": "Inside a Lighthouse Museum",
-    "description": "Explore a lighthouse through its beacon, optical parts, and the objects associated with its keeper.",
-    "cardDescription": "Explore a lighthouse through its beacon, optical parts, and the objects associated with its keeper.",
-    "subtheme": "Inside a Lighthouse Museum",
-    "focus": "The clues describe historical lighting and the tower around it. Different lighthouses used different light sources; the puzzle names equipment rather than a current navigation signal.",
-    "solvingTip": "Check whether the clue asks for a whole structure, a light-making part, or a person. Short lamp words help cross longer names.",
+    "title": "A Lighthouse by the Shore",
+    "description": "Picture a lighthouse through its tower, lamp, steps, and view of the water.",
+    "cardDescription": "Picture a lighthouse through its tower, lamp, steps, and view of the water.",
+    "subtheme": "A Lighthouse by the Shore",
+    "focus": "The light is high above the shore so it can be seen from the water. These clues use familiar objects around the tower.",
+    "solvingTip": "Try a short word for light or weather before the longer building name.",
     "words": [
       [
         "LIGHTHOUSE",
-        "Coastal tower carrying a light to guide vessels"
+        "Coastal tower with a light to guide boats"
       ],
       [
-        "FRESNEL",
-        "Surname attached to a famous segmented lighthouse lens"
+        "LAMP",
+        "Light source inside the lighthouse tower"
       ],
       [
-        "LENS",
-        "Optical glass element used to direct a lighthouse beam"
-      ],
-      [
-        "KEEPER",
-        "Person traditionally responsible for tending a lighthouse"
-      ],
-      [
-        "BEACON",
-        "Light or signal serving as a navigational guide"
-      ],
-      [
-        "LANTERN",
-        "Glazed chamber at the top of many lighthouse towers"
+        "BEAM",
+        "Narrow stretch of light shining from the tower"
       ],
       [
         "TOWER",
-        "Tall structure raising a coastal light above its surroundings"
+        "Tall main part of the lighthouse building"
       ],
       [
-        "STAIRS",
-        "Series of steps leading upward inside a lighthouse"
+        "KEEPER",
+        "Person who traditionally tended a lighthouse"
       ],
       [
-        "LIGHT",
-        "Visible illumination sent toward the sea"
+        "STAIR",
+        "One step on the way up the tower"
+      ],
+      [
+        "SHORE",
+        "Land beside the lighthouse's water"
+      ],
+      [
+        "ROCK",
+        "Hard natural material along a rugged coast"
+      ],
+      [
+        "BOAT",
+        "Small vessel passing the coastal light"
+      ],
+      [
+        "BELL",
+        "Hanging object rung to make a warning sound"
+      ],
+      [
+        "FOG",
+        "Thick mist that can hide the view of the coast"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in the lighthouse wall"
+      ],
+      [
+        "DOOR",
+        "Entrance to the keeper's building"
       ],
       [
         "COAST",
-        "Land bordering the sea near a lighthouse"
-      ],
-      [
-        "CLIFF",
-        "Steep rock face on which a coastal tower may stand"
-      ],
-      [
-        "ROOM",
-        "Enclosed space within a lighthouse station"
-      ],
-      [
-        "OIL",
-        "Fuel used in some historical lighthouse lamps"
-      ],
-      [
-        "WICK",
-        "Fiber strip drawing lamp fuel toward a flame"
-      ],
-      [
-        "FLASH",
-        "Brief burst in a light's repeated signal pattern"
+        "Land bordering the sea near the tower"
       ]
     ],
     "answerNotes": {
-      "LIGHTHOUSE": "A lighthouse carries a navigational light. The museum setting does not imply the building is still operating with its original equipment.",
-      "FRESNEL": "A Fresnel lens uses stepped sections to redirect light while reducing bulk. The name recalls Augustin-Jean Fresnel.",
-      "LENS": "A lens changes the path of light. It is separate from the lamp that produces the light.",
-      "KEEPER": "A keeper cared for the light and station. Many modern lights operate without a resident keeper.",
-      "BEACON": "A beacon is a guiding signal. The tower is the structure that may carry it."
+      "LIGHTHOUSE": "A lighthouse gives a visible signal to people navigating near the coast.",
+      "LAMP": "The lamp is the light source rather than the entire tower.",
+      "BEAM": "A beam is the light traveling outward, not a wooden support here.",
+      "TOWER": "The tower raises the light above nearby ground and water.",
+      "KEEPER": "A keeper looked after the light and building; many lights are now automated."
     },
     "requiredAnswers": [
-      "LENS",
-      "BEACON"
-    ]
+      "LIGHTHOUSE"
+    ],
+    "revision": 2
   },
   {
     "id": "classic-american-stops-3",

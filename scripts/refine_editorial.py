@@ -42,7 +42,7 @@ def refined_puzzles(only_series=None):
                 'id':source['id'],'title':source['title'],'theme':config['theme'],
                 'subtheme':source['subtheme'],'series':config['id'],
                 'description':source['description'],'cardDescription':source['cardDescription'],
-                'difficulty':'Easy','revision':config.get('revision',2),'rows':rows,'cols':cols,'entries':entries,
+                'difficulty':'Easy','revision':source.get('revision',config.get('revision',2)),'rows':rows,'cols':cols,'entries':entries,
                 'editorial':{'focus':source['focus'],'solvingTip':source['solvingTip'],'answerNotes':notes[:3]}
             }
     return result

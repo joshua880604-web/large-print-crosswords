@@ -49,13 +49,13 @@ The Christmas collection and both print layouts are described in [the November 1
 
 PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter at 100% scale and uses separate answer routes. The default layout has 18pt clues, a grid up to 5.4 inches, and two pages (grid first, clues or answers second). A compact option retains 13pt clues and a grid up to 3.6 inches on one page. The selector remembers `lpc:print-layout` when storage is available, and paired puzzle/answer links carry `?layout=large` or `?layout=compact`; their canonical stays clean. Without JavaScript the 18pt layout remains printable using the browser menu. Print copies are `noindex,follow`; the sitemap includes the 500 playable pages and primary site pages.
 
-Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in the original twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. New first editions use revision 1 and have no previous-edition route. The existing refreshed editions retain revision 2 and their archives. No credentials or environment variables are required by the application.
+Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in the original twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. New first editions use revision 1. Twenty-seven subsequent replacements preserve their numbered predecessors at `/crosswords/<id>/editions/1/` and use revision 2 on the same current URL. Their continuation links check the actual prior edition key. The original twenty refreshed series retain their original legacy archive routes. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
-`npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 1200 current puzzle/print/answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
+`npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 1500 current puzzle/print/answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
 
-For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 500 current and 100 archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
+For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 500 current, 100 original and 27 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
 
 ## Deploy to Cloudflare Pages
 
@@ -83,30 +83,30 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 500 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 400 puzzles use new stable IDs and first-edition progress keys. The latest 100-puzzle expansion preserves all previously published 400 current puzzle objects.
+All 500 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 400 puzzles use their own stable IDs. Of those, 373 are still first editions and 27 now have separately saved second editions. The 500-puzzle expansion originally preserved the previous 400 objects; the subsequent [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) replaces 27 boards while preserving their published predecessors.
 
 | Series | Current puzzles | Clues | Edition |
 | --- | ---: | ---: | --- |
-| Gardening | 5 | 58 | Refreshed, with archive |
-| Birds | 5 | 55 | Refreshed, with archive |
-| Music | 5 | 57 | Refreshed, with archive |
-| Market | 5 | 58 | Refreshed, with archive |
-| Travel | 5 | 57 | Refreshed, with archive |
-| Home | 5 | 57 | Refreshed, with archive |
-| Farm | 5 | 58 | Refreshed, with archive |
-| Baking | 5 | 56 | Refreshed, with archive |
-| Crafts | 5 | 57 | Refreshed, with archive |
-| Flowers | 5 | 58 | Refreshed, with archive |
-| Pets | 5 | 56 | Refreshed, with archive |
-| Drinks | 5 | 55 | Refreshed, with archive |
-| Movies | 5 | 55 | Refreshed, with archive |
-| Seaside | 5 | 55 | Refreshed, with archive |
-| Autumn | 5 | 58 | Refreshed, with archive |
-| Holidays | 5 | 57 | Refreshed, with archive |
-| Reading | 5 | 57 | Refreshed, with archive |
-| Weather | 5 | 56 | Refreshed, with archive |
-| Workshop | 5 | 57 | Refreshed, with archive |
-| Games | 5 | 58 | Refreshed, with archive |
+| Gardening | 5 | 58 | Refreshed, with original archive |
+| Birds | 5 | 55 | Refreshed, with original archive |
+| Music | 5 | 57 | Refreshed, with original archive |
+| Market | 5 | 58 | Refreshed, with original archive |
+| Travel | 5 | 57 | Refreshed, with original archive |
+| Home | 5 | 57 | Refreshed, with original archive |
+| Farm | 5 | 58 | Refreshed, with original archive |
+| Baking | 5 | 56 | Refreshed, with original archive |
+| Crafts | 5 | 57 | Refreshed, with original archive |
+| Flowers | 5 | 58 | Refreshed, with original archive |
+| Pets | 5 | 56 | Refreshed, with original archive |
+| Drinks | 5 | 55 | Refreshed, with original archive |
+| Movies | 5 | 55 | Refreshed, with original archive |
+| Seaside | 5 | 55 | Refreshed, with original archive |
+| Autumn | 5 | 58 | Refreshed, with original archive |
+| Holidays | 5 | 57 | Refreshed, with original archive |
+| Reading | 5 | 57 | Refreshed, with original archive |
+| Weather | 5 | 56 | Refreshed, with original archive |
+| Workshop | 5 | 57 | Refreshed, with original archive |
+| Games | 5 | 58 | Refreshed, with original archive |
 | Baseball | 5 | 56 | First publication |
 | Leisure Sports | 5 | 57 | First publication |
 | Team Sports | 5 | 56 | First publication |
@@ -134,14 +134,14 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Neighborhood Stops | 5 | 56 | First publication |
 | Hands-on Hobbies | 5 | 55 | First publication |
 | American Landmarks | 5 | 55 | First publication |
-| Classic American Stops | 5 | 57 | First publication |
-| Backyard Nature Studies | 5 | 56 | First publication |
+| Classic American Stops | 5 | 57 | Selected subjects refreshed; numbered archives retained |
+| Backyard Nature Studies | 5 | 55 | Selected subjects refreshed; numbered archives retained |
 | Evening Sky | 5 | 57 | First publication |
-| Water and Wildlife | 5 | 54 | First publication |
+| Water and Wildlife | 5 | 53 | Selected subjects refreshed; numbered archives retained |
 | Home Inventions | 5 | 55 | First publication |
 | Local Outings | 5 | 56 | First publication |
 | Garden Details | 5 | 56 | First publication |
-| Kitchen Word Science | 5 | 56 | First publication |
+| Kitchen Word Science | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Clothes and Fabrics | 5 | 56 | First publication |
 | Weather and Light Tools | 5 | 55 | First publication |
 | Everyday Wordplay | 5 | 57 | First publication |
@@ -149,22 +149,22 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Simple Machines | 5 | 56 | First publication |
 | Rail and Water Travel | 5 | 55 | First publication |
 | Roadside Americana | 5 | 56 | First publication |
-| Familiar Vehicles | 5 | 56 | First publication |
-| Working Waterfront | 5 | 56 | First publication |
-| Forest Observations | 5 | 54 | First publication |
+| Familiar Vehicles | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Working Waterfront | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Forest Observations | 5 | 54 | Selected subjects refreshed; numbered archives retained |
 | Open Country Wildlife | 5 | 59 | First publication |
-| Small World Nature | 5 | 56 | First publication |
+| Small World Nature | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Garden Styles | 5 | 56 | First publication |
-| Flowers Through the Year | 5 | 57 | First publication |
+| Flowers Through the Year | 5 | 55 | Selected subjects refreshed; numbered archives retained |
 | American Regional Tables | 5 | 56 | First publication |
 | Bakers Specialties | 5 | 55 | First publication |
 | Craft Room Techniques | 5 | 57 | First publication |
-| Paper and Lettering | 5 | 55 | First publication |
+| Paper and Lettering | 5 | 55 | Selected subjects refreshed; numbered archives retained |
 | Old Time Entertainment | 5 | 55 | First publication |
 | Stage and Performance | 5 | 55 | First publication |
-| Collections and Keepsakes | 5 | 56 | First publication |
-| Home Details | 5 | 55 | First publication |
-| Everyday Materials | 5 | 55 | First publication |
+| Collections and Keepsakes | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Home Details | 5 | 54 | Selected subjects refreshed; numbered archives retained |
+| Everyday Materials | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Word Patterns | 5 | 56 | First publication |
 | Winter Holiday Crafts | 5 | 56 | First publication |
 | Thanksgiving Side Dishes | 5 | 56 | First publication |
@@ -180,15 +180,15 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Vocal Group Memories | 5 | 55 | First publication |
 | American Music City Stops | 5 | 52 | First publication |
 | Records and Listening | 5 | 59 | First publication |
-| Keyboard Sounds and Mechanisms | 5 | 57 | First publication |
-| Strings and Picking | 5 | 59 | First publication |
+| Keyboard Sounds and Mechanisms | 5 | 57 | Selected subjects refreshed; numbered archives retained |
+| Strings and Picking | 5 | 58 | Selected subjects refreshed; numbered archives retained |
 | Winds and Bellows | 5 | 58 | First publication |
 | Music Patterns Made Clear | 5 | 57 | First publication |
 | Voices in Company | 5 | 56 | First publication |
 | American Style Memories | 5 | 54 | First publication |
-| Music Behind the Scenes | 5 | 55 | First publication |
+| Music Behind the Scenes | 5 | 55 | Selected subjects refreshed; numbered archives retained |
 
-The collection has 5,592 clues, 5,592 distinct answer/clue pairs, 500 different introductions and 1500 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
+The collection has 5,587 clues, 5,587 distinct answer/clue pairs, 500 different introductions and 1500 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
 
 Eight curated topic pages cover Thanksgiving, Christmas, winter, sports, music, geography/state capitals, American history and Texas. Thanksgiving groups 16 real games, Christmas 27, winter 20 and music 80. Each collection links to games and print sheets, with reciprocal links from its games. Geography groups five landscape/map subjects and five capital-city routes in one collection. The twenty geography/history/Texas puzzles are a limited interest/state pilot described in [the research and editorial notes](docs/place-history-pilot.md). The following 80-puzzle expansion adds neighborhood scenes, crafts, landmarks, nature, home inventions, outings, gardening, kitchen vocabulary, clothing, everyday science, wordplay and recreational games; see [the 300-puzzle expansion](docs/expansion-300.md). The preceding 100 puzzles cover transport, natural history, flowers, regional foods, crafts, performance, collectibles, home materials, wordplay and winter holidays; see [the 400-puzzle expansion](docs/expansion-400.md) and [November 14 research](docs/expansion-400-research.md). The latest 100 add Thanksgiving, music, Christmas and winter subjects selected using the supplied reports and a full-catalog comparison; see [the 500-puzzle expansion](docs/expansion-500.md) and [the theme decisions](docs/expansion-500-research.md). Each actual puzzle retains one canonical playable URL.
 
@@ -196,12 +196,12 @@ Eight curated topic pages cover Thanksgiving, Christmas, winter, sports, music, 
 
 Source subjects may declare `requiredAnswers` for defining words that must appear in the finished grid; layout selection and validation both enforce this. The series manifest supplies fixed seeds, source filenames, and archive filenames. An existing series keeps its seed, layout settings, and word order when a new series is added. This prevents previously published edited puzzles from changing silently. First-edition series omit `archive` and set `revision: 1`; their source subjects are appended by the generator. Legacy archive files in `src/data/archives/` are immutable snapshots; do not regenerate or overwrite them with current layouts. Build-time archive routing and validation use the same manifest. Archive pages are excluded from the sitemap and marked noindex. Use a new revision whenever changing an existing grid so saved letters cannot be applied to a different puzzle.
 
-When a first-edition grid is changed in a future release, preserve its numbered predecessor progress key and implement/test that archive bridge. The current legacy bridge applies to the original hundred archived puzzles; increasing a revision alone is not a complete migration for a revision-1 puzzle.
+For a grid replacement, copy the complete published puzzle into `src/data/previous-editions.json` and set the replacement source subject's `revision` to the next number. Keep the series' base revision and seed unchanged. `previousEditionLinks` and the numbered archive route provide continuation using the exact older key. Validators require all numbered predecessors back to the base revision, and browser tests check both directions of save isolation. Current and retained SVG previews use edition-specific paths. Increasing a revision alone is not a complete migration.
 
 Clue-only corrections preserve the existing answer placements, IDs and revision keys. The full-catalog review is recorded in [the November 13 review](docs/puzzle-review-2026-11-13.md). Original archive JSON remains immutable; `src/data/archive-clue-clarifications.json` can clarify an exact old answer/clue pair at render time. Affected archive pages show the earlier wording and the reason for the clarification without changing the saved board.
 
 ## Audience-first editorial work
 
-The user prioritizes easy, large-print, printable, coherent themes over puzzle counts. See [the audience standard](docs/audience-content-standard.md), [the 500-row review ledger](docs/research/audience-review-2026-11-14.csv), and repository `AGENTS.md`. The November 14 triage flags 27 games for specialist-vocabulary replacement/review and 66 for context review; 407 unflagged candidates are not certified easy. Twenty-two clues in thirteen games were simplified without changing boards or progress keys.
+The user prioritizes easy, large-print, printable, coherent themes over puzzle counts. See [the audience standard](docs/audience-content-standard.md), [the 500-row review ledger](docs/research/audience-review-2026-11-14.csv), and repository `AGENTS.md`. The initial November 14 triage flagged 27 games for specialist-vocabulary replacement/review and 66 for context review. The first pass simplified twenty-two clues without changing boards. The subsequent rewrite replaces all 27 flagged boards with everyday-vocabulary editions and preserves their earlier versions. The refreshed ledger has 66 context reviews and 434 unflagged candidates; absence of a flag is not certification that a puzzle is easy.
 
 Run `python3 scripts/review-audience.py --date YYYY-MM-DD` to refresh a dated review ledger using the curated criteria. This records editorial prompts; it does not edit puzzles, change indexing, or certify suitability. Familiarity must be judged in context and, when available, with real reader feedback. Do not use longer introductions, exact-pair uniqueness, or a low automated score as a substitute for reader value.

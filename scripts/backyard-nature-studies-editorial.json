@@ -87,7 +87,7 @@
     "cardDescription": "Look inside the vocabulary of a honeybee colony, from its wax chambers to the different bees that live together.",
     "subtheme": "A Honeybee Colony",
     "focus": "These clues concern honeybees rather than every bee species. The names for colony members describe different biological roles, and food words distinguish floral ingredients from stored products.",
-    "solvingTip": "Separate the insect’s role from the material or structure. Use the short hive words to cross longer flower-related answers.",
+    "solvingTip": "Separate the insect\u2019s role from the material or structure. Use the short hive words to cross longer flower-related answers.",
     "words": [
       [
         "QUEEN",
@@ -238,84 +238,81 @@
   },
   {
     "id": "backyard-nature-studies-4",
-    "title": "Bark and Tree Rings",
-    "description": "Study the parts of a woody tree through the surface of a stump and the layers beneath its bark.",
-    "cardDescription": "Study the parts of a woody tree through the surface of a stump and the layers beneath its bark.",
-    "subtheme": "Bark and Tree Rings",
-    "focus": "Tree layers have different jobs and locations. Growth rings often reflect yearly cycles in temperate trees, but counting rings is not an infallible rule for every tree or growing condition.",
-    "solvingTip": "Location words matter here: outside, growing layer, and center point to different tree parts. Use those distinctions before filling the crossings.",
+    "title": "Rings on a Tree Stump",
+    "description": "Look at a cut tree stump through its rings, bark, shape, and familiar wood words.",
+    "cardDescription": "Look at a cut tree stump through its rings, bark, shape, and familiar wood words.",
+    "subtheme": "Rings on a Tree Stump",
+    "focus": "A cut tree can show growth rings. Their number can help estimate age, while the bark covers the outside.",
+    "solvingTip": "Begin with a visible shape or tree part.",
     "words": [
       [
-        "CAMBIUM",
-        "Thin growth layer producing new wood and inner bark"
-      ],
-      [
-        "BARK",
-        "Protective outer covering of a woody trunk"
-      ],
-      [
-        "SAPWOOD",
-        "Outer younger wood that conducts water in a tree"
-      ],
-      [
-        "HEARTWOOD",
-        "Older inner wood near the center of many trunks"
+        "STUMP",
+        "Part of a tree trunk left after the upper tree is cut"
       ],
       [
         "RING",
-        "Circular growth band visible on a cut tree stump"
+        "One growth band visible at the cut end of a tree"
       ],
       [
-        "SAP",
-        "Watery fluid transported within a plant"
+        "AGE",
+        "How old the tree was when it was cut"
       ],
       [
-        "ROOT",
-        "Tree part anchoring the plant below ground"
+        "BARK",
+        "Rough outer covering around the stump"
       ],
       [
         "TRUNK",
-        "Main upright woody stem of a tree"
-      ],
-      [
-        "GRAIN",
-        "Pattern showing the direction of wood fibers"
-      ],
-      [
-        "KNOT",
-        "Hard spot in wood where a branch was attached"
-      ],
-      [
-        "STUMP",
-        "Short trunk portion left after a tree is cut"
-      ],
-      [
-        "CORE",
-        "Central region inside a cylindrical sample of wood"
-      ],
-      [
-        "GROWTH",
-        "Increase in a tree's size over time"
+        "Main woody part rising above the tree's roots"
       ],
       [
         "WOOD",
-        "Hard fibrous material forming most of a tree trunk"
+        "Hard material exposed at the stump's top"
       ],
       [
-        "SPLIT",
-        "To separate wood along a crack"
+        "ROOT",
+        "Tree part extending into the ground"
+      ],
+      [
+        "SAW",
+        "Toothed tool used to cut a tree branch or trunk"
+      ],
+      [
+        "CUT",
+        "Separate wood with a sharp tool"
+      ],
+      [
+        "COUNT",
+        "Add up the visible growth bands one by one"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle, as many cut stumps appear"
+      ],
+      [
+        "YEAR",
+        "Twelve-month period used to describe a tree's age"
+      ],
+      [
+        "LOG",
+        "Length of tree trunk cut for use as wood"
+      ],
+      [
+        "CORE",
+        "Central part of the cut tree section"
       ]
     ],
     "answerNotes": {
-      "CAMBIUM": "The vascular cambium produces new tissues in a woody stem. It lies between the wood and the inner bark.",
-      "BARK": "Bark covers the outside of a woody stem. The growth rings visible on a cut stump are in the wood beneath it.",
-      "SAPWOOD": "Sapwood is the outer functional wood. Older inner wood may become heartwood.",
-      "HEARTWOOD": "Heartwood is distinct from the water-conducting sapwood. Its presence and color vary among tree species.",
-      "RING": "Growth rings often follow annual growing cycles in temperate trees. Unusual conditions can complicate a simple one-ring-per-year count."
+      "STUMP": "A stump is the remaining lower trunk, rather than a whole standing tree.",
+      "RING": "Growth rings can help estimate a tree's age; their appearance varies with conditions.",
+      "AGE": "Ring counts can help estimate age, rather than give a tree's name.",
+      "BARK": "Bark is on the outside, while growth rings are seen in the cut wood.",
+      "TRUNK": "A stump is the lower portion left from this main stem."
     },
     "requiredAnswers": [
-      "CAMBIUM"
-    ]
+      "STUMP"
+    ],
+    "revision": 2
   },
   {
     "id": "backyard-nature-studies-5",

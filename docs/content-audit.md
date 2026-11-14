@@ -4,8 +4,8 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 500 current puzzles; 5592 clue entries.
-- 2543 distinct answers; 5592 distinct answer/clue pairs.
+- 500 current puzzles; 5587 clue entries.
+- 2490 distinct answers; 5587 distinct answer/clue pairs.
 - 500 different introductions; 0 numbered titles remain.
 - 500 editions have dedicated subject notes and answer explanations.
 
@@ -398,19 +398,19 @@ Subjects: A Jigsaw on the Table, A Cross-Stitch Sampler, Working at a Small Loom
 
 Subjects: The Statue in New York Harbor, Across the Golden Gate, A View into the Grand Canyon, Four Faces at Mount Rushmore, The Tall Monument on the Mall.
 
-## Classic American Stops: five first editions
+## Classic American Stops: five current editions
 
 - 57 clues; 57 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Covered Bridge Visit, Inside a Lighthouse Museum, At the Old Schoolhouse Museum, Shelves in a General Store, An Evening at the Drive-In.
+Subjects: A Covered Bridge Visit, A Lighthouse by the Shore, At the Old Schoolhouse Museum, Shelves in a General Store, An Evening at the Drive-In.
 
-## Backyard Nature Studies: five first editions
+## Backyard Nature Studies: five current editions
 
-- 56 clues; 56 distinct answer/clue pairs.
+- 55 clues; 55 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Around a Freshwater Pond, A Honeybee Colony, Caterpillars and Cocoons, Bark and Tree Rings, Animal Tracks in Mud.
+Subjects: Around a Freshwater Pond, A Honeybee Colony, Caterpillars and Cocoons, Rings on a Tree Stump, Animal Tracks in Mud.
 
 ## Evening Sky: five first editions
 
@@ -419,12 +419,12 @@ Subjects: Around a Freshwater Pond, A Honeybee Colony, Caterpillars and Cocoons,
 
 Subjects: The Moon’s Changing Shape, Stars and Familiar Sky Patterns, A Telescope on Its Tripod, Neighbors in the Solar System, Meteors and Comets.
 
-## Water and Wildlife: five first editions
+## Water and Wildlife: five current editions
 
-- 54 clues; 54 distinct answer/clue pairs.
+- 53 clues; 53 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Birds of the Woodland Edge, Mammals by the Creek, Frogs and Their Neighbors, A Turtle on a Log, Fish in a River.
+Subjects: Birds of the Woodland Edge, Mammals by the Creek, Frogs and Their Neighbors, A Turtle Resting by the Pond, Fish in a River.
 
 ## Home Inventions: five first editions
 
@@ -447,12 +447,12 @@ Subjects: A Walk through a Museum, A Botanical Garden Visit, At the Neighborhood
 
 Subjects: Compost and Soil, A Trellis of Garden Peas, Bulbs and Other Underground Stores, At the Rose Arbor, A Patch of Garden Berries.
 
-## Kitchen Word Science: five first editions
+## Kitchen Word Science: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Textures at the Table, Ways to Prepare Vegetables, A Little Kitchen Chemistry, The Spice Grinder, Measuring Liquids.
+Subjects: Textures at the Table, Ways to Prepare Vegetables, A Little Kitchen Chemistry, The Spice Grinder, Reading a Kitchen Measuring Cup.
 
 ## Clothes and Fabrics: five first editions
 
@@ -503,26 +503,26 @@ Subjects: A Night in a Sleeping Car, Beside a Steam Locomotive, A Canal Boat at 
 
 Subjects: At an Old Service Station, A Roadside Motel Stop, At the Soda Fountain, Through the Car Wash, A Glowing Roadside Sign.
 
-## Familiar Vehicles: five first editions
+## Familiar Vehicles: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Convertible on a Sunday Drive, Alongside a Yellow School Bus, A Tractor Beside the Barn, A Hot-Air Balloon at Dawn, A Streetcar Along the Avenue.
+Subjects: A Convertible on a Sunday Drive, Alongside a Yellow School Bus, A Tractor Beside the Barn, A Hot-Air Balloon at Dawn, Riding a Streetcar Downtown.
 
-## Working Waterfront: five first editions
+## Working Waterfront: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Fishing Trawler at the Pier, Where the River Meets the Sea, In a Wooden Boat Shed, Buoys Beyond the Harbor, Reading a Harbor Chart.
+Subjects: A Fishing Trawler at the Pier, Where the River Meets the Sea, A Wooden Rowboat by the Dock, Buoys Beyond the Harbor, Reading a Harbor Chart.
 
-## Forest Observations: five first editions
+## Forest Observations: five current editions
 
 - 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Ferns on the Forest Floor, Acorns Beneath an Oak, A Pine Cone on the Path, Mushrooms After the Rain, Wildflowers Along a Woodland Path.
+Subjects: Green Ferns Beside the Path, Acorns Under an Oak Tree, A Pine Cone on the Path, Mushrooms After a Woodland Shower, Wildflowers Along a Woodland Path.
 
 ## Open Country Wildlife: five first editions
 
@@ -531,12 +531,12 @@ Subjects: Ferns on the Forest Floor, Acorns Beneath an Oak, A Pine Cone on the P
 
 Subjects: Life on the Prairie, Desert Neighbors After Dusk, In an Everglades Wetland, An Alpine Meadow in Summer, Animals of the Northern Tundra.
 
-## Small World Nature: five first editions
+## Small World Nature: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Ladybugs Among the Leaves, An Ant Colony Under the Path, An Earthworm in the Garden Soil, A Spider at Its Web, A Snail on a Garden Wall.
+Subjects: Ladybugs Among the Leaves, An Ant Colony Under the Path, An Earthworm After a Spring Shower, Dew Drops on a Spider Web, A Snail on a Garden Wall.
 
 ## Garden Styles: five first editions
 
@@ -545,12 +545,12 @@ Subjects: Ladybugs Among the Leaves, An Ant Colony Under the Path, An Earthworm 
 
 Subjects: A Window Box in Bloom, A Garden in Dappled Shade, Small Plants in a Rock Garden, Fragrance Beside the Garden Gate, A Meadow for Pollinators.
 
-## Flowers Through the Year: five first editions
+## Flowers Through the Year: five current editions
 
-- 57 clues; 57 distinct answer/clue pairs.
+- 55 clues; 55 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Daffodil in Early Spring, A Sunflower Facing the Garden, Autumn Mums at the Door, Bright Bracts on a Poinsettia, A Camellia Beside the Walk.
+Subjects: Yellow Daffodils in Spring, A Tall Sunflower in Summer, Autumn Mums at the Door, A Poinsettia on the Holiday Table, A Camellia Beside the Walk.
 
 ## American Regional Tables: five first editions
 
@@ -573,12 +573,12 @@ Subjects: Twists at the Pretzel Bakery, A Bagel Before Breakfast, A Waffle Iron 
 
 Subjects: Knots in a Macrame Hanger, A Hooked Rug on Its Frame, Patterns Stamped into Leather, A Stained-Glass Window Panel, Needlepoint Across a Canvas.
 
-## Paper and Lettering: five first editions
+## Paper and Lettering: five current editions
 
 - 55 clues; 55 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Calligraphy Pen and Ink, Binding a Small Handmade Book, A Linocut Print on the Table, Swirls in a Marbled Paper Sheet, At a Letterpress Workbench.
+Subjects: A Calligraphy Pen and Ink, Binding a Small Handmade Book, A Linocut Print on the Table, Swirls in a Marbled Paper Sheet, Printing a Card at an Old-Time Press.
 
 ## Old Time Entertainment: five first editions
 
@@ -594,26 +594,26 @@ Subjects: A Drama on the Family Radio, An Evening of Vaudeville, Song and Dance 
 
 Subjects: A Marionette Above the Stage, Shadows Behind a Theater Screen, Rehearsing a Community Play, Costumes in the Theater Wardrobe, Lights Above a Small Stage.
 
-## Collections and Keepsakes: five first editions
+## Collections and Keepsakes: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Buttons in a Collector’s Tin, Glassware in a Display Cabinet, A Music Box on the Shelf, Shells Arranged in a Cabinet, A Pocket Watch in Its Case.
+Subjects: Buttons in a Collector’s Tin, Glassware in a Display Cabinet, A Music Box on the Shelf, Shells Collected at the Beach, A Family Pocket Watch.
 
-## Home Details: five first editions
+## Home Details: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Parts of an Old-Fashioned Window, A Door Lock and Its Fittings, Inside an Upholstered Armchair, A Cabinet Door and Drawer, Looking at a Handwoven Rug.
+Subjects: An Open Window in Spring, Locking the Front Door, Inside an Upholstered Armchair, Dishes in the Kitchen Cupboard, Looking at a Handwoven Rug.
 
-## Everyday Materials: five first editions
+## Everyday Materials: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Glass at the Glassblower’s Bench, Fibers in a Sheet of Paper, Clay Before and After the Kiln, Wood Viewed Along and Across the Grain, Familiar Metals and Alloys.
+Subjects: Glass Bottles on the Kitchen Shelf, Paper on the Writing Desk, Shaping a Small Clay Bowl, Wood Viewed Along and Across the Grain, Familiar Metals and Alloys.
 
 ## Word Patterns: five first editions
 
@@ -720,19 +720,19 @@ Subjects: Country Music in Nashville, A Memphis Music Stop, Jazz in New Orleans,
 
 Subjects: Browsing a Neighborhood Record Shop, Reading an Album Cover, A Cassette in the Tape Deck, Listening Through Stereo Headphones, A Reel-to-Reel Tape Recorder.
 
-## Keyboard Sounds and Mechanisms: five first editions
+## Keyboard Sounds and Mechanisms: five current editions
 
 - 57 clues; 57 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Inside a Pipe Organ, A Piano Tuner's Visit, A Harpsichord in the Music Room, The Player Piano's Paper Roll, A Portable Electronic Keyboard.
+Subjects: Inside a Pipe Organ, A Piano Tuner's Visit, Taking Turns in a Piano Duet, Watching a Player Piano, A Portable Electronic Keyboard.
 
-## Strings and Picking: five first editions
+## Strings and Picking: five current editions
 
-- 59 clues; 59 distinct answer/clue pairs.
+- 58 clues; 58 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Five-String Banjo, A Mandolin's Paired Strings, A Violin Bow in Its Case, The Sound of a Steel Guitar, A Harp Beside the Orchestra.
+Subjects: A Five-String Banjo, A Mandolin at a Family Gathering, A Violin Bow in Its Case, The Sound of a Steel Guitar, A Harp Beside the Orchestra.
 
 ## Winds and Bellows: five first editions
 
@@ -762,14 +762,14 @@ Subjects: A Barbershop Quartet, Call and Response in Gospel Singing, Voices on a
 
 Subjects: Doo-Wop on a Street Corner, Surf Guitar and a Summer Sound, Bluegrass Around One Microphone, Disco Under a Mirror Ball, A Big Band on the Bandstand.
 
-## Music Behind the Scenes: five first editions
+## Music Behind the Scenes: five current editions
 
 - 55 clues; 55 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: The Conductor's Rehearsal, A Songwriter's Notebook, A Record Producer at Work, At the Sound Engineer's Console, A Guitar Maker's Workbench.
+Subjects: The Conductor's Rehearsal, A Songwriter's Notebook, A Record Producer at Work, At the Sound Engineer's Console, A Guitar Case After the Sing-Along.
 
-The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
+The 100 original layouts and 27 preserved numbered editions remain available as noindex pages so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
@@ -825,9 +825,9 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | hands-on-hobbies | 55 | 55 | 5 | 0 |
 | american-landmarks | 55 | 55 | 5 | 0 |
 | classic-american-stops | 57 | 57 | 5 | 0 |
-| backyard-nature-studies | 56 | 56 | 5 | 0 |
+| backyard-nature-studies | 55 | 55 | 5 | 0 |
 | evening-sky | 57 | 57 | 5 | 0 |
-| water-and-wildlife | 54 | 54 | 5 | 0 |
+| water-and-wildlife | 53 | 53 | 5 | 0 |
 | home-inventions | 55 | 55 | 5 | 0 |
 | local-outings | 56 | 56 | 5 | 0 |
 | garden-details | 56 | 56 | 5 | 0 |
@@ -845,7 +845,7 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | open-country-wildlife | 59 | 59 | 5 | 0 |
 | small-world-nature | 56 | 56 | 5 | 0 |
 | garden-styles | 56 | 56 | 5 | 0 |
-| flowers-through-the-year | 57 | 57 | 5 | 0 |
+| flowers-through-the-year | 55 | 55 | 5 | 0 |
 | american-regional-tables | 56 | 56 | 5 | 0 |
 | bakers-specialties | 55 | 55 | 5 | 0 |
 | craft-room-techniques | 57 | 57 | 5 | 0 |
@@ -853,8 +853,8 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | old-time-entertainment | 55 | 55 | 5 | 0 |
 | stage-and-performance | 55 | 55 | 5 | 0 |
 | collections-and-keepsakes | 56 | 56 | 5 | 0 |
-| home-details | 55 | 55 | 5 | 0 |
-| everyday-materials | 55 | 55 | 5 | 0 |
+| home-details | 54 | 54 | 5 | 0 |
+| everyday-materials | 56 | 56 | 5 | 0 |
 | word-patterns | 56 | 56 | 5 | 0 |
 | winter-holiday-crafts | 56 | 56 | 5 | 0 |
 | thanksgiving-sides | 56 | 56 | 5 | 0 |
@@ -871,7 +871,7 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | american-music-cities | 52 | 52 | 5 | 0 |
 | records-and-listening | 59 | 59 | 5 | 0 |
 | keyboard-sounds | 57 | 57 | 5 | 0 |
-| strings-and-picking | 59 | 59 | 5 | 0 |
+| strings-and-picking | 58 | 58 | 5 | 0 |
 | winds-and-bellows | 58 | 58 | 5 | 0 |
 | music-patterns | 57 | 57 | 5 | 0 |
 | voices-in-company | 56 | 56 | 5 | 0 |

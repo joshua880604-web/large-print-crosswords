@@ -82,8 +82,8 @@
     "description": "Explore an ant colony through its members, underground chambers, and food-gathering activity.",
     "cardDescription": "Explore an ant colony through its members, underground chambers, and food-gathering activity.",
     "subtheme": "An Ant Colony Under the Path",
-    "focus": "Ant colonies organize work among different individuals. The clues identify roles and structures without treating a colony’s queen as a human-style commander.",
-    "solvingTip": "Separate the animal’s role from the space it occupies and the route it follows.",
+    "focus": "Ant colonies organize work among different individuals. The clues identify roles and structures without treating a colony\u2019s queen as a human-style commander.",
+    "solvingTip": "Separate the animal\u2019s role from the space it occupies and the route it follows.",
     "words": [
       [
         "ANT",
@@ -155,157 +155,160 @@
   },
   {
     "id": "small-world-nature-3",
-    "title": "An Earthworm in the Garden Soil",
-    "description": "Study an earthworm through its ringed body, movement, and the soil structures it leaves behind.",
-    "cardDescription": "Study an earthworm through its ringed body, movement, and the soil structures it leaves behind.",
-    "subtheme": "An Earthworm in the Garden Soil",
-    "focus": "Earthworms move using muscles and small bristles. Their body segments and reproductive band have particular names, while the burrow and cast are effects of their activity.",
-    "solvingTip": "Distinguish a body feature from a tunnel or a deposit left in the ground.",
+    "title": "An Earthworm After a Spring Shower",
+    "description": "Follow an earthworm through damp soil, garden roots, and the small openings it leaves.",
+    "cardDescription": "Follow an earthworm through damp soil, garden roots, and the small openings it leaves.",
+    "subtheme": "An Earthworm After a Spring Shower",
+    "focus": "These clues use ordinary garden and weather words to describe the worm's surroundings and movement.",
+    "solvingTip": "Start with a weather word or something found in the ground.",
     "words": [
       [
         "EARTHWORM",
-        "Segmented animal commonly burrowing through garden soil"
-      ],
-      [
-        "CLITELLUM",
-        "Thickened band on a mature earthworm associated with reproduction"
-      ],
-      [
-        "SEGMENT",
-        "One repeated division of an earthworm's body"
-      ],
-      [
-        "SETA",
-        "One small bristle helping an earthworm grip its surroundings"
-      ],
-      [
-        "CAST",
-        "Soil-rich material deposited after passing through an earthworm"
-      ],
-      [
-        "BURROW",
-        "Passage made by an earthworm through the ground"
-      ],
-      [
-        "SOIL",
-        "Earthy material through which a garden worm moves"
-      ],
-      [
-        "MUSCLE",
-        "Body tissue that contracts to move the worm"
-      ],
-      [
-        "RING",
-        "Circular outline suggested by a worm's repeated divisions"
-      ],
-      [
-        "DAMP",
-        "Slightly wet condition associated with active earthworms"
-      ],
-      [
-        "LEAF",
-        "Fallen plant material consumed by some earthworms"
-      ],
-      [
-        "COCOON",
-        "Small protective case containing developing earthworm eggs"
-      ],
-      [
-        "TAIL",
-        "Informal name for the rear end of the worm"
+        "Long soft animal that moves through garden soil"
       ],
       [
         "TUNNEL",
-        "Narrow passage through a garden bed's ground"
+        "Passage made through soil by a burrowing worm"
+      ],
+      [
+        "SOIL",
+        "Garden earth through which the worm moves"
+      ],
+      [
+        "WRIGGLE",
+        "Move by twisting the body from side to side"
+      ],
+      [
+        "RAIN",
+        "Water from clouds that leaves the garden damp"
+      ],
+      [
+        "DAMP",
+        "Slightly wet, as soil is after a light shower"
+      ],
+      [
+        "DIG",
+        "Make a hole in the ground with a tool or the hands"
+      ],
+      [
+        "LEAF",
+        "Fallen tree part lying above the worm's soil"
+      ],
+      [
+        "ROOT",
+        "Plant part growing through the garden earth"
+      ],
+      [
+        "SOFT",
+        "Not hard or rigid, as an earthworm's body is"
+      ],
+      [
+        "GROUND",
+        "Surface beneath a garden walker's feet"
+      ],
+      [
+        "PATH",
+        "Narrow walkway beside the damp garden bed"
+      ],
+      [
+        "HOLE",
+        "Small opening leading into the ground"
+      ],
+      [
+        "BROWN",
+        "Earthy color of much garden soil"
       ]
     ],
     "answerNotes": {
-      "EARTHWORM": "Earthworms are annelids rather than insects; their body organization differs from an insect's six-legged form.",
-      "CLITELLUM": "The clitellum helps form a cocoon for eggs; it is a body region rather than a separate ring-shaped animal.",
-      "SEGMENT": "Segments make the body appear ringed; the entire worm is one animal.",
-      "SETA": "Seta is singular and setae is plural; these bristles assist movement without being jointed legs.",
-      "CAST": "A cast is a deposit, whereas a burrow is the passage in which a worm moves."
+      "EARTHWORM": "Earthworms are animals without legs, rather than insects.",
+      "TUNNEL": "A tunnel is the passage, while a hole can be its opening.",
+      "SOIL": "Soil contains mineral particles and organic material.",
+      "WRIGGLE": "Wriggling describes the movement of the worm's flexible body.",
+      "RAIN": "Rain wets the surface and changes the conditions in the garden."
     },
     "requiredAnswers": [
       "EARTHWORM"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "small-world-nature-4",
-    "title": "A Spider at Its Web",
-    "description": "Explore a web-building spider through its silk, body parts, and the insects caught nearby.",
-    "cardDescription": "Explore a web-building spider through its silk, body parts, and the insects caught nearby.",
-    "subtheme": "A Spider at Its Web",
-    "focus": "Spiders are arachnids, not insects. The clues identify their silk-making structures and web features while recognizing that different spiders use different hunting methods.",
-    "solvingTip": "Check whether the clue names the animal, a body part, or a silk structure.",
+    "title": "Dew Drops on a Spider Web",
+    "description": "Look at a spider's web through shining dew, fine threads, and the small creatures around it.",
+    "cardDescription": "Look at a spider's web through shining dew, fine threads, and the small creatures around it.",
+    "subtheme": "Dew Drops on a Spider Web",
+    "focus": "The spider makes silk threads. Dew drops can make those threads easier to see in the morning.",
+    "solvingTip": "The short words for drops and threads help with the animal's name.",
     "words": [
       [
         "SPIDER",
-        "Eight-legged arachnid that may catch prey in a web"
-      ],
-      [
-        "SPINNERET",
-        "Silk-spinning structure on a spider's abdomen"
-      ],
-      [
-        "ARACHNID",
-        "Animal group containing spiders and scorpions"
-      ],
-      [
-        "SILK",
-        "Fiber produced by a spider for webs and other uses"
-      ],
-      [
-        "ORB",
-        "Circular web form with spokes and a spiral"
+        "Eight-legged animal that can make silk threads"
       ],
       [
         "WEB",
-        "Silken structure spun by a web-building spider"
+        "Network of threads made by many spiders"
+      ],
+      [
+        "SILK",
+        "Fine material a spider makes for its threads"
+      ],
+      [
+        "DEW",
+        "Water drops forming on cool surfaces overnight"
+      ],
+      [
+        "THREAD",
+        "One fine strand in a spider's web"
+      ],
+      [
+        "DROP",
+        "One small bead of water on the web"
+      ],
+      [
+        "BEAD",
+        "Small round shape made by a drop of dew"
+      ],
+      [
+        "FLY",
+        "Small winged insect that a spider may catch"
       ],
       [
         "LEG",
         "One of a spider's eight walking limbs"
       ],
       [
-        "PREY",
-        "Animal caught and eaten by a hunting spider"
+        "SPIN",
+        "Make a silk thread, as a spider does"
       ],
       [
-        "THREAD",
-        "Single fine strand in a spider's web"
+        "HANG",
+        "Be suspended between the web's supports"
       ],
       [
-        "SAC",
-        "Silken case surrounding a spider's eggs"
+        "CATCH",
+        "Trap a small insect in the web"
       ],
       [
-        "FANG",
-        "Pointed mouthpart through which a spider can deliver venom"
+        "STICKY",
+        "Able to hold an insect that touches the web"
       ],
       [
-        "FLY",
-        "Small winged insect that may be caught in a web"
-      ],
-      [
-        "EYE",
-        "Light-detecting body part on a spider's head region"
-      ],
-      [
-        "SPIRAL",
-        "Winding line crossing the spokes of an orb web"
+        "LEAF",
+        "Plant part beside the shining web"
       ]
     ],
     "answerNotes": {
-      "SPIDER": "Not every spider builds a prey-catching web; web-building is one hunting strategy within the group.",
-      "SPINNERET": "Spinnerets release silk from silk-producing glands; they are distinct from legs or mouthparts.",
-      "ARACHNID": "Arachnids are separate from insects; adult spiders have eight legs rather than six.",
-      "SILK": "Spider silk serves several purposes, including egg sacs and safety lines as well as prey capture.",
-      "ORB": "Orb describes one web design; other spiders make sheets, tangles, or no capture web."
+      "SPIDER": "A spider has eight legs; insects have six.",
+      "WEB": "Different spiders make different webs, and some do not use a web to catch prey.",
+      "SILK": "Spider silk is made by the animal rather than gathered from a plant.",
+      "DEW": "Dew is moisture that condenses on surfaces rather than falling as rain.",
+      "THREAD": "Many connected threads make up the web's structure."
     },
     "requiredAnswers": [
-      "SPIDER"
-    ]
+      "SPIDER",
+      "WEB"
+    ],
+    "revision": 2
   },
   {
     "id": "small-world-nature-5",
@@ -313,7 +316,7 @@
     "description": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
     "cardDescription": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
     "subtheme": "A Snail on a Garden Wall",
-    "focus": "A snail’s shell grows with the animal. The clues separate the shell’s opening and tip from the soft body parts used for movement and sensing.",
+    "focus": "A snail\u2019s shell grows with the animal. The clues separate the shell\u2019s opening and tip from the soft body parts used for movement and sensing.",
     "solvingTip": "Use where the part is located: at the shell opening, at its pointed end, or beneath the animal.",
     "words": [
       [

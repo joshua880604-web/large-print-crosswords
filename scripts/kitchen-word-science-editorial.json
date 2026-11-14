@@ -310,79 +310,80 @@
   },
   {
     "id": "kitchen-word-science-5",
-    "title": "Measuring Liquids",
-    "description": "Read the vocabulary of measuring vessels, marked levels, and familiar American liquid units.",
-    "cardDescription": "Read the vocabulary of measuring vessels, marked levels, and familiar American liquid units.",
-    "subtheme": "Measuring Liquids",
-    "focus": "The unit clues use customary United States liquid measure where specified. A fluid ounce measures volume, and the curved liquid surface has its own name.",
-    "solvingTip": "Check whether the clue wants a container, a measurement, or a visible feature. Do not substitute a weight unit for a liquid-volume definition.",
+    "title": "Reading a Kitchen Measuring Cup",
+    "description": "Use a familiar measuring cup to find words for pouring, amounts, and the cup's parts.",
+    "cardDescription": "Use a familiar measuring cup to find words for pouring, amounts, and the cup's parts.",
+    "subtheme": "Reading a Kitchen Measuring Cup",
+    "focus": "The marked lines show different amounts. A spout helps pour, and the handle gives a place to hold the cup.",
+    "solvingTip": "Start with a cup part or a familiar drink.",
     "words": [
       [
-        "VOLUME",
-        "Amount of three-dimensional space occupied by a liquid"
+        "CUP",
+        "Kitchen vessel with marked lines for measuring liquids"
       ],
       [
-        "MENISCUS",
-        "Curved surface of a liquid seen inside a narrow measuring vessel"
+        "SPOUT",
+        "Shaped lip from which liquid pours"
       ],
       [
-        "GALLON",
-        "United States liquid unit containing four quarts"
-      ],
-      [
-        "LITER",
-        "Metric liquid-volume unit commonly spelled this way in American English"
-      ],
-      [
-        "OUNCE",
-        "Fluid ___, liquid-volume unit with sixteen to a United States pint"
-      ],
-      [
-        "PITCHER",
-        "Handled vessel used to pour a drink"
-      ],
-      [
-        "FUNNEL",
-        "Wide-mouthed tool directing liquid into a narrow opening"
-      ],
-      [
-        "PINT",
-        "United States liquid unit equal to two cups"
+        "HANDLE",
+        "Part of the measuring cup held in the hand"
       ],
       [
         "QUART",
-        "United States liquid unit equal to two pints"
+        "U.S. liquid measure equal to four cups"
       ],
       [
-        "CUP",
-        "United States customary kitchen measure equal to eight fluid ounces"
+        "PINT",
+        "U.S. liquid measure equal to two cups"
       ],
       [
         "POUR",
-        "To transfer liquid by tipping its container"
-      ],
-      [
-        "MARK",
-        "Short line identifying a measured amount on a vessel"
-      ],
-      [
-        "LEVEL",
-        "Height reached by liquid in a measuring container"
+        "Tip the measuring cup to let liquid flow out"
       ],
       [
         "LINE",
-        "Printed horizontal indicator beside a measuring scale"
+        "Mark on the cup showing a particular amount"
+      ],
+      [
+        "WATER",
+        "Clear liquid often measured for a recipe"
+      ],
+      [
+        "MILK",
+        "Dairy drink poured into the marked cup for baking"
+      ],
+      [
+        "FULL",
+        "Containing as much liquid as the cup is meant to hold"
+      ],
+      [
+        "HALF",
+        "One of two equal parts of a measured amount"
+      ],
+      [
+        "LITER",
+        "Metric liquid measure printed on some measuring cups"
+      ],
+      [
+        "CLEAR",
+        "Easy to see through, as a glass measuring cup is"
+      ],
+      [
+        "LEVEL",
+        "Flat and even, as the surface beneath the measuring cup should be"
       ]
     ],
     "answerNotes": {
-      "VOLUME": "Volume is different from weight or mass. A fluid ounce measures volume, while an ordinary weight ounce measures something else.",
-      "MENISCUS": "A meniscus curves because of interactions among the liquid, vessel, and surrounding air. The word names the surface shape rather than a unit.",
-      "GALLON": "The United States liquid gallon has four quarts. An imperial gallon is a different quantity, so the system matters.",
-      "LITER": "Liter is the usual American spelling of litre. Both spellings refer to the same metric unit.",
-      "OUNCE": "Fluid is essential in this definition. It distinguishes this volume unit from an ounce used for weight."
+      "CUP": "Cup names the vessel here; it can also be a unit of volume.",
+      "SPOUT": "A spout helps direct a stream out of the measuring cup.",
+      "HANDLE": "The handle provides a grip beside the body of the cup.",
+      "QUART": "A U.S. liquid quart contains two pints or four cups.",
+      "PINT": "A U.S. liquid pint is half a quart."
     },
     "requiredAnswers": [
-      "VOLUME"
-    ]
+      "CUP"
+    ],
+    "revision": 2
   }
 ]

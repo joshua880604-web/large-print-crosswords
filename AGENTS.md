@@ -17,3 +17,5 @@ The site serves US older adults and anyone who prefers an easy, readable crosswo
 - Build topic pages around real useful puzzles and distinct reader intent. Do not create near-identical `easy`, `free`, `printable`, `PDF`, `large print`, or `seniors` copies. These phrases describe needs to fulfill, not guaranteed ranking weights.
 - Keep permanent playable URLs and saved-progress keys stable. Wording-only edits can preserve a board. Answer or layout replacements require proper edition handling so saved letters remain associated with their original grid.
 - Consult `docs/audience-content-standard.md` and the audience review ledger before the next expansion. Flagged existing puzzles require review; absence of a flag is not certification that a puzzle is easy.
+
+Numbered replacements use a per-subject `revision` override and an immutable full snapshot in `src/data/previous-editions.json`. Preserve the series base revision/seed, all prior numbered keys and original archives. The continuation helper must link to the exact earlier key and numbered route; do not route a saved revision-1 board to the unversioned legacy `/previous/` page.

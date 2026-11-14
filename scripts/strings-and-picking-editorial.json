@@ -78,80 +78,85 @@
   },
   {
     "id": "strings-and-picking-2",
-    "title": "A Mandolin's Paired Strings",
-    "description": "Explore a small picked instrument through its paired strings, curved body, and tremolo sound.",
-    "cardDescription": "Explore a small picked instrument through its paired strings, curved body, and tremolo sound.",
-    "subtheme": "A Mandolin's Paired Strings",
-    "focus": "A common mandolin has eight strings arranged in four pairs, called courses.",
-    "solvingTip": "The number and string-pair clues help cross the instrument's name.",
+    "title": "A Mandolin at a Family Gathering",
+    "description": "Recognize a mandolin through its paired strings, small body, and the people enjoying a tune.",
+    "cardDescription": "Recognize a mandolin through its paired strings, small body, and the people enjoying a tune.",
+    "subtheme": "A Mandolin at a Family Gathering",
+    "focus": "A common mandolin has eight strings in four pairs. The remaining clues use familiar carrying and playing words.",
+    "solvingTip": "Use the number and everyday object clues before the instrument's name.",
     "words": [
       [
         "MANDOLIN",
-        "Small fretted instrument commonly strung in four pairs"
-      ],
-      [
-        "COURSE",
-        "Pair of mandolin strings sounded together as one unit"
-      ],
-      [
-        "TREMOLO",
-        "Rapid repeated picking that sustains a mandolin tone"
-      ],
-      [
-        "PLECTRUM",
-        "Another name for the pick used on mandolin strings"
-      ],
-      [
-        "EIGHT",
-        "Usual string count on a standard four-course mandolin"
+        "Small string instrument usually played with a pick"
       ],
       [
         "PAIR",
-        "Two neighboring strings tuned together on a mandolin"
+        "Two neighboring mandolin strings tuned together"
       ],
       [
-        "FRET",
-        "Metal strip across the mandolin fingerboard"
+        "EIGHT",
+        "Usual number of strings on a standard mandolin"
       ],
       [
         "PICK",
-        "Small handheld piece used to strike the strings"
+        "Small piece held in the hand to sound the strings"
       ],
       [
-        "BRIDGE",
-        "Support carrying the strings above the instrument's body"
+        "CASE",
+        "Protective container carrying the small string instrument"
       ],
       [
-        "NECK",
-        "Narrow part the player's left hand holds"
+        "STRING",
+        "Taut strand that vibrates when the mandolin is played"
       ],
       [
         "TUNE",
-        "Adjust the paired strings to their intended notes"
+        "Adjust the strings until their pitches are right"
       ],
       [
-        "BODY",
-        "Hollow main section amplifying string vibration"
+        "NECK",
+        "Narrow part of the mandolin held by the player's hand"
       ],
       [
-        "PEG",
-        "Turning fitting used to change string tension"
+        "WOOD",
+        "Traditional material of the instrument's body"
       ],
       [
-        "CHORD",
-        "Several notes strummed together on the mandolin"
+        "SONG",
+        "Musical piece enjoyed by the family gathering"
+      ],
+      [
+        "SEAT",
+        "Place where a listener sits for the tune"
+      ],
+      [
+        "HAND",
+        "Body part holding the pick"
+      ],
+      [
+        "STRAP",
+        "Band helping support an instrument while standing"
+      ],
+      [
+        "PLAY",
+        "Make music with the mandolin"
+      ],
+      [
+        "DUET",
+        "Performance shared by two musicians at the gathering"
       ]
     ],
     "answerNotes": {
-      "MANDOLIN": "The common eight-string mandolin uses four paired courses, not eight independent courses.",
-      "COURSE": "Course refers to a string grouping rather than a lesson in this clue.",
-      "TREMOLO": "Picking tremolo differs from gently varying the pitch with vibrato.",
-      "PLECTRUM": "A plectrum is held in the hand rather than attached to the instrument.",
-      "EIGHT": "Other mandolin-family instruments can have different string arrangements."
+      "MANDOLIN": "A common mandolin has four pairs of strings, eight strings in total.",
+      "PAIR": "Pair counts two strings rather than all the strings on the instrument.",
+      "EIGHT": "Eight strings are commonly grouped into four paired sets.",
+      "PICK": "A pick strikes or plucks a string rather than pressing it down to the neck.",
+      "CASE": "The case protects the instrument while it is stored or carried."
     },
     "requiredAnswers": [
       "MANDOLIN"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "strings-and-picking-3",

@@ -2,8 +2,8 @@
   {
     "id": "familiar-vehicles",
     "title": "A Convertible on a Sunday Drive",
-    "description": "Identify the parts of an open-top automobile through its folding roof, body fittings, and driver’s controls.",
-    "cardDescription": "Identify the parts of an open-top automobile through its folding roof, body fittings, and driver’s controls.",
+    "description": "Identify the parts of an open-top automobile through its folding roof, body fittings, and driver\u2019s controls.",
+    "cardDescription": "Identify the parts of an open-top automobile through its folding roof, body fittings, and driver\u2019s controls.",
     "subtheme": "A Convertible on a Sunday Drive",
     "focus": "Convertible describes an automobile with a roof that can be lowered or removed. The clues use ordinary American vehicle words and distinguish a body panel from a driving control.",
     "solvingTip": "Picture the car from front to back. A storage lid, a roof feature, and a control inside have different names.",
@@ -82,8 +82,8 @@
     "description": "Look at a familiar American school bus through its boarding steps, warning fittings, and passenger layout.",
     "cardDescription": "Look at a familiar American school bus through its boarding steps, warning fittings, and passenger layout.",
     "subtheme": "Alongside a Yellow School Bus",
-    "focus": "The clues describe recognizable bus features and common vehicle vocabulary. They distinguish the body’s support structure from the seating area and the visible signals around it.",
-    "solvingTip": "Use a body location or an object’s purpose. A control, a passenger fitting, and a warning display belong to different categories.",
+    "focus": "The clues describe recognizable bus features and common vehicle vocabulary. They distinguish the body\u2019s support structure from the seating area and the visible signals around it.",
+    "solvingTip": "Use a body location or an object\u2019s purpose. A control, a passenger fitting, and a warning display belong to different categories.",
     "words": [
       [
         "SCHOOLBUS",
@@ -159,7 +159,7 @@
     "description": "Explore the body, controls, and towing fittings of an agricultural tractor.",
     "cardDescription": "Explore the body, controls, and towing fittings of an agricultural tractor.",
     "subtheme": "A Tractor Beside the Barn",
-    "focus": "A tractor supplies pulling power and can drive attached equipment. The clues distinguish a towing connection, a rotating power connection, and the driver’s control area.",
+    "focus": "A tractor supplies pulling power and can drive attached equipment. The clues distinguish a towing connection, a rotating power connection, and the driver\u2019s control area.",
     "solvingTip": "Start with a large visible part, then look for the smaller connection named by its job.",
     "words": [
       [
@@ -309,79 +309,80 @@
   },
   {
     "id": "familiar-vehicles-5",
-    "title": "A Streetcar Along the Avenue",
-    "description": "Follow a city streetcar through rails, overhead electrical fittings, and the passenger space inside.",
-    "cardDescription": "Follow a city streetcar through rails, overhead electrical fittings, and the passenger space inside.",
-    "subtheme": "A Streetcar Along the Avenue",
-    "focus": "A streetcar runs on rails in an urban setting. Electrical collection methods vary, so the clues name specific overhead equipment without claiming every vehicle uses the same arrangement.",
-    "solvingTip": "Look for a track component, an electrical fitting, or a passenger feature.",
+    "title": "Riding a Streetcar Downtown",
+    "description": "Take a short streetcar ride through its seats, fare, bell, and stops along the route.",
+    "cardDescription": "Take a short streetcar ride through its seats, fare, bell, and stops along the route.",
+    "subtheme": "Riding a Streetcar Downtown",
+    "focus": "The clues follow a passenger's ride rather than the streetcar's electrical machinery.",
+    "solvingTip": "Use the boarding and seating words to cross the vehicle's name.",
     "words": [
       [
         "TROLLEY",
-        "Common American name for an electric streetcar"
+        "Another name for a streetcar running on rails"
       ],
       [
-        "PANTOGRAPH",
-        "Jointed roof-mounted device collecting current from an overhead wire"
+        "TICKET",
+        "Printed or electronic proof of a paid streetcar ride"
       ],
       [
         "FARE",
-        "Charge paid for a streetcar ride"
-      ],
-      [
-        "CONDUCTOR",
-        "Transit worker traditionally collecting fares aboard a streetcar"
-      ],
-      [
-        "RAIL",
-        "One of the metal running surfaces set along a streetcar route"
+        "Price paid for the streetcar journey"
       ],
       [
         "TRACK",
-        "Railway route along which an urban streetcar runs"
+        "Pair of rails followed by the streetcar"
       ],
       [
-        "POLE",
-        "Long roof fitting used by some older cars to contact a wire"
-      ],
-      [
-        "WIRE",
-        "Overhead electrical conductor supplying a streetcar"
+        "DRIVER",
+        "Person operating the streetcar"
       ],
       [
         "BELL",
-        "Ringing warning sound associated with a traditional trolley"
+        "Ringing device heard on many traditional streetcars"
       ],
       [
         "SEAT",
-        "Passenger sitting place inside the streetcar"
-      ],
-      [
-        "AISLE",
-        "Passage through the middle of the passenger area"
+        "Place where a streetcar passenger sits"
       ],
       [
         "STOP",
-        "Designated place for riders to board or leave"
+        "Place where the streetcar lets passengers on or off"
       ],
       [
-        "ROUTE",
-        "Scheduled course followed through the city"
+        "RAIL",
+        "One long steel strip beneath the streetcar wheels"
+      ],
+      [
+        "RIDE",
+        "Journey made aboard the streetcar"
+      ],
+      [
+        "WINDOW",
+        "Glass opening through which a passenger sees downtown"
+      ],
+      [
+        "DOOR",
+        "Opening used to board the streetcar"
       ],
       [
         "STEP",
-        "Level climbed at an older streetcar's entrance"
+        "One raised level climbed when boarding an older streetcar"
+      ],
+      [
+        "ROUTE",
+        "Planned path between the streetcar's stops"
       ]
     ],
     "answerNotes": {
-      "TROLLEY": "Trolley can mean an urban rail vehicle in American usage; other English varieties use it for different wheeled objects.",
-      "PANTOGRAPH": "A pantograph maintains contact with a wire; some older streetcars use a trolley pole instead.",
-      "FARE": "Fare is a payment word; it sounds like fair but has a different spelling and meaning.",
-      "CONDUCTOR": "The conductor's duties are distinct from operating the driving controls, though staffing arrangements vary.",
-      "RAIL": "Rails guide and support the wheels; overhead wires serve an electrical function instead."
+      "TROLLEY": "Trolley has several meanings; here it is a passenger vehicle on tracks.",
+      "TICKET": "A ticket records permission to travel rather than the route itself.",
+      "FARE": "Fare is the payment, not the name of the destination.",
+      "TRACK": "The track guides the wheels along the street.",
+      "DRIVER": "The driver controls the vehicle's movement along its route."
     },
     "requiredAnswers": [
       "TROLLEY"
-    ]
+    ],
+    "revision": 2
   }
 ]
