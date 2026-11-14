@@ -45,7 +45,7 @@ test('print choices still work when browser storage is blocked',async({page})=>{
 test('large print and Christmas collection remain usable without page scripts',async({browser})=>{
  const context=await browser.newContext({javaScriptEnabled:false}),page=await context.newPage();
  try{
-  await page.goto('/christmas-crosswords/');await expect(page.locator('a.puzzle-card')).toHaveCount(12);
+  await page.goto('/christmas-crosswords/');await expect(page.locator('a.puzzle-card')).toHaveCount(27);
   await page.goto('/print/winter-holiday-crafts/');
   await expect(page.getByLabel('Print size')).toBeDisabled();
   await expect(page.locator('.print-clues')).toContainText('Ring-shaped decoration');
@@ -55,7 +55,7 @@ test('large print and Christmas collection remain usable without page scripts',a
  }finally{await context.close();}
 });
 
-for(const path of ['/christmas-crosswords/','/print/winter-holiday-crafts/'])test(`accessible new controls and content ${path}`,async({page})=>{
+for(const path of ['/christmas-crosswords/','/thanksgiving-crosswords/','/winter-crosswords/','/music-crosswords/','/print/winter-holiday-crafts/'])test(`accessible new controls and content ${path}`,async({page})=>{
  await page.setViewportSize({width:390,height:844});await page.goto(path);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
  const results=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();

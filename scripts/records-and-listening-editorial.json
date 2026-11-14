@@ -1,0 +1,387 @@
+[
+  {
+    "id": "records-and-listening",
+    "title": "Browsing a Neighborhood Record Shop",
+    "description": "Sort through album bins, sleeves, and artist names in a small record shop.",
+    "cardDescription": "Sort through album bins, sleeves, and artist names in a small record shop.",
+    "subtheme": "Browsing a Neighborhood Record Shop",
+    "focus": "The clues distinguish a recording's packaging from its label and the store's sorting system.",
+    "solvingTip": "Try the shop fixtures before the music-format words.",
+    "words": [
+      [
+        "SLEEVE",
+        "Paper or card covering protecting a vinyl record"
+      ],
+      [
+        "BIN",
+        "Open shop compartment holding rows of records"
+      ],
+      [
+        "GENRE",
+        "Category used to group music such as jazz or country"
+      ],
+      [
+        "USED",
+        "Describing a previously owned record offered for sale"
+      ],
+      [
+        "LABEL",
+        "Company name printed on the record's center"
+      ],
+      [
+        "VINYL",
+        "Plastic material associated with these music discs"
+      ],
+      [
+        "ALBUM",
+        "Collection of songs sold as one release"
+      ],
+      [
+        "PRICE",
+        "Amount written on a shop sticker"
+      ],
+      [
+        "JACKET",
+        "Outer cardboard cover holding a record"
+      ],
+      [
+        "BROWSE",
+        "Look through the record bins without a fixed purchase"
+      ],
+      [
+        "ARTIST",
+        "Name under which a musician's records are filed"
+      ],
+      [
+        "CASH",
+        "Money a customer may hand to the shop clerk"
+      ],
+      [
+        "RACK",
+        "Framework displaying a row of newly arrived albums"
+      ],
+      [
+        "CLERK",
+        "Shop worker helping locate a particular recording"
+      ]
+    ],
+    "answerNotes": {
+      "SLEEVE": "A sleeve protects the disc; an inner sleeve may sit inside an outer jacket.",
+      "BIN": "Record bins allow customers to browse sleeves upright.",
+      "GENRE": "Genre describes a style category rather than the artist's name.",
+      "USED": "Used identifies ownership history, not necessarily the disc's condition.",
+      "LABEL": "Label can mean the printed center or the issuing company."
+    },
+    "requiredAnswers": [
+      "SLEEVE"
+    ]
+  },
+  {
+    "id": "records-and-listening-2",
+    "title": "Reading an Album Cover",
+    "description": "Discover the artist credits, liner notes, and printed details surrounding a favorite album.",
+    "cardDescription": "Discover the artist credits, liner notes, and printed details surrounding a favorite album.",
+    "subtheme": "Reading an Album Cover",
+    "focus": "An album cover identifies the release, while liner notes can supply background and performer credits.",
+    "solvingTip": "Use the clue to tell a person's role from a printed section.",
+    "words": [
+      [
+        "LINER",
+        "Word before notes for text accompanying a record"
+      ],
+      [
+        "CREDIT",
+        "Printed acknowledgment naming a contributor to an album"
+      ],
+      [
+        "PORTRAIT",
+        "Picture showing the artist on an album cover"
+      ],
+      [
+        "TITLE",
+        "Name given to the album as a release"
+      ],
+      [
+        "PRODUCER",
+        "Person overseeing the creation of a recorded release"
+      ],
+      [
+        "COVER",
+        "Outer face of an album's packaging"
+      ],
+      [
+        "TRACK",
+        "One individual recorded selection on an album"
+      ],
+      [
+        "LIST",
+        "Printed sequence naming the album's songs"
+      ],
+      [
+        "PHOTO",
+        "Short word for a photographic image on the sleeve"
+      ],
+      [
+        "DATE",
+        "Calendar information identifying a release year"
+      ],
+      [
+        "NAME",
+        "Words identifying a performer in the credits"
+      ],
+      [
+        "SIDE",
+        "One playing face of a vinyl record"
+      ],
+      [
+        "PRINT",
+        "Text and images reproduced on the paper cover"
+      ],
+      [
+        "ART",
+        "Visual design used on the record's packaging"
+      ]
+    ],
+    "answerNotes": {
+      "LINER": "Liner notes can describe the music, performers, and circumstances of recording.",
+      "CREDIT": "Credits identify roles such as musician, writer, or producer.",
+      "PORTRAIT": "A portrait is one possible cover design, not a requirement for an album.",
+      "TITLE": "An album title can differ from the title of any individual song.",
+      "PRODUCER": "A producer's responsibilities vary between recordings and working arrangements."
+    },
+    "requiredAnswers": [
+      "LINER"
+    ]
+  },
+  {
+    "id": "records-and-listening-3",
+    "title": "A Cassette in the Tape Deck",
+    "description": "Recall a cassette player through its transport buttons, spools, and the ribbon carrying recorded sound.",
+    "cardDescription": "Recall a cassette player through its transport buttons, spools, and the ribbon carrying recorded sound.",
+    "subtheme": "A Cassette in the Tape Deck",
+    "focus": "Magnetic tape moves between reels inside the cassette; the player reads it at a tape head.",
+    "solvingTip": "The button actions provide familiar short answers.",
+    "words": [
+      [
+        "CASSETTE",
+        "Small plastic case enclosing two reels of magnetic audio tape"
+      ],
+      [
+        "REWIND",
+        "Run the tape back toward its beginning"
+      ],
+      [
+        "SPOOL",
+        "Reel around which the magnetic tape is wound"
+      ],
+      [
+        "HEAD",
+        "Player component reading the signal from magnetic tape"
+      ],
+      [
+        "EJECT",
+        "Release a cassette from the player's compartment"
+      ],
+      [
+        "TAPE",
+        "Thin magnetic ribbon carrying the recorded audio"
+      ],
+      [
+        "PLAY",
+        "Button starting normal cassette listening"
+      ],
+      [
+        "STOP",
+        "Button ending movement of the tape"
+      ],
+      [
+        "PAUSE",
+        "Button temporarily halting playback"
+      ],
+      [
+        "RECORD",
+        "Button used when saving sound onto a cassette"
+      ],
+      [
+        "LABEL",
+        "Paper area where the cassette's contents are written"
+      ],
+      [
+        "SIDE",
+        "One of the two orientations marked A and B"
+      ],
+      [
+        "CASE",
+        "Protective plastic box for a stored cassette"
+      ],
+      [
+        "DECK",
+        "Audio unit used to play or record cassettes"
+      ]
+    ],
+    "answerNotes": {
+      "CASSETTE": "A cassette holds supply and take-up reels inside a protective shell.",
+      "REWIND": "Rewinding moves tape backward without normal listening playback.",
+      "SPOOL": "Two reels exchange tape as the cassette plays.",
+      "HEAD": "The tape head interacts with the magnetic pattern carried on the tape.",
+      "EJECT": "Eject opens or releases the cassette rather than erasing its sound."
+    },
+    "requiredAnswers": [
+      "CASSETTE"
+    ]
+  },
+  {
+    "id": "records-and-listening-4",
+    "title": "Listening Through Stereo Headphones",
+    "description": "Match the left and right channels, ear cushions, and volume control of a personal listening session.",
+    "cardDescription": "Match the left and right channels, ear cushions, and volume control of a personal listening session.",
+    "subtheme": "Listening Through Stereo Headphones",
+    "focus": "Stereo uses separate channels; a mono recording does not become stereo merely by using two earcups.",
+    "solvingTip": "Start with body-side directions and familiar controls.",
+    "words": [
+      [
+        "HEADPHONES",
+        "Pair of personal listening speakers worn over the ears"
+      ],
+      [
+        "STEREO",
+        "Sound reproduction using separate left and right channels"
+      ],
+      [
+        "CHANNEL",
+        "Separate audio signal path, such as left or right"
+      ],
+      [
+        "MONO",
+        "Sound reproduction using one audio channel"
+      ],
+      [
+        "CUSHION",
+        "Soft pad surrounding a headphone earcup"
+      ],
+      [
+        "LEFT",
+        "Side marked L on a pair of headphones"
+      ],
+      [
+        "RIGHT",
+        "Side marked R on a pair of headphones"
+      ],
+      [
+        "VOLUME",
+        "Control adjusting how loud the music sounds"
+      ],
+      [
+        "PLUG",
+        "Connector fitted into a headphone socket"
+      ],
+      [
+        "CABLE",
+        "Flexible lead linking wired headphones to a player"
+      ],
+      [
+        "BASS",
+        "Low-frequency part of the music"
+      ],
+      [
+        "TREBLE",
+        "High-frequency part of the music"
+      ],
+      [
+        "MUTE",
+        "Silence the audio without ending the track"
+      ],
+      [
+        "EAR",
+        "Body part beside one headphone speaker"
+      ]
+    ],
+    "answerNotes": {
+      "HEADPHONES": "Headphones let one listener hear sound close to each ear.",
+      "STEREO": "The channels can carry different information that creates a spatial impression.",
+      "CHANNEL": "A channel is a signal path rather than a genre of music.",
+      "MONO": "A mono signal may be played through both earcups without becoming stereo.",
+      "CUSHION": "The cushion contacts the listener's head around the ear."
+    },
+    "requiredAnswers": [
+      "HEADPHONES"
+    ]
+  },
+  {
+    "id": "records-and-listening-5",
+    "title": "A Reel-to-Reel Tape Recorder",
+    "description": "Look at an open-reel recorder through its reels, tape path, and old-fashioned editing tools.",
+    "cardDescription": "Look at an open-reel recorder through its reels, tape path, and old-fashioned editing tools.",
+    "subtheme": "A Reel-to-Reel Tape Recorder",
+    "focus": "The tape travels from a supply reel to a take-up reel; a splice joins two cut tape ends.",
+    "solvingTip": "Use the direction of tape movement to distinguish the two reel roles.",
+    "words": [
+      [
+        "REEL",
+        "Open circular support carrying a wound length of audio tape"
+      ],
+      [
+        "SPLICE",
+        "Join made between two cut ends of recording tape"
+      ],
+      [
+        "LEADER",
+        "Unrecorded tape section attached before or after recorded material"
+      ],
+      [
+        "CAPSTAN",
+        "Rotating shaft controlling the tape's movement speed"
+      ],
+      [
+        "TAKEUP",
+        "Describing the reel that collects tape after playback, two words"
+      ],
+      [
+        "SUPPLY",
+        "Describing the reel from which the tape is unwound"
+      ],
+      [
+        "ROLLER",
+        "Turning cylinder pressing the tape against its drive shaft"
+      ],
+      [
+        "HEAD",
+        "Component reading or writing the tape's audio signal"
+      ],
+      [
+        "METER",
+        "Display indicating the recording level"
+      ],
+      [
+        "THREAD",
+        "Guide the tape through the recorder's path"
+      ],
+      [
+        "HUB",
+        "Central part around which a reel turns"
+      ],
+      [
+        "TAPE",
+        "Magnetic ribbon carrying the open-reel recording"
+      ],
+      [
+        "CUT",
+        "Separate the tape before making a physical edit"
+      ],
+      [
+        "PLAY",
+        "Start the recorder's normal listening movement"
+      ]
+    ],
+    "answerNotes": {
+      "REEL": "Open-reel machines expose the reels rather than enclosing them in a cassette.",
+      "SPLICE": "A tape splice can edit a recording by joining selected portions.",
+      "LEADER": "Leader helps thread and protect the recorded portion.",
+      "CAPSTAN": "The capstan works with a pressure roller to move tape steadily.",
+      "TAKEUP": "The take-up reel gathers tape after it passes through the playback path."
+    },
+    "requiredAnswers": [
+      "REEL"
+    ]
+  }
+]

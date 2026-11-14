@@ -1,0 +1,387 @@
+[
+  {
+    "id": "music-patterns",
+    "title": "Notes on a Musical Staff",
+    "description": "Read the basic page symbols used to place a melody on five lines.",
+    "cardDescription": "Read the basic page symbols used to place a melody on five lines.",
+    "subtheme": "Notes on a Musical Staff",
+    "focus": "The staff locates pitches; a clef gives those lines and spaces their note-name reference.",
+    "solvingTip": "Start with the shapes visible on the printed page.",
+    "words": [
+      [
+        "STAFF",
+        "Set of five parallel lines used for musical notation"
+      ],
+      [
+        "CLEF",
+        "Symbol setting the pitch reference of a musical staff"
+      ],
+      [
+        "TREBLE",
+        "Word before clef for the familiar curled G-clef symbol"
+      ],
+      [
+        "LEDGER",
+        "Word before line for a short extra line beyond the staff"
+      ],
+      [
+        "SPACE",
+        "Gap between two neighboring staff lines"
+      ],
+      [
+        "LINE",
+        "One of the five parallel marks in a staff"
+      ],
+      [
+        "NOTE",
+        "Symbol representing a musical sound and its duration"
+      ],
+      [
+        "STEM",
+        "Thin upright stroke attached to many printed notes"
+      ],
+      [
+        "HEAD",
+        "Oval part of a printed musical note"
+      ],
+      [
+        "BASS",
+        "Word before clef for the symbol often used for low notes"
+      ],
+      [
+        "SHARP",
+        "Symbol that raises a written note by a semitone"
+      ],
+      [
+        "FLAT",
+        "Symbol that lowers a written note by a semitone"
+      ],
+      [
+        "NATURAL",
+        "Symbol canceling a written sharp or flat"
+      ],
+      [
+        "PITCH",
+        "How high or low a written note sounds"
+      ]
+    ],
+    "answerNotes": {
+      "STAFF": "Notes can be placed on lines or in the spaces between them.",
+      "CLEF": "A clef gives meaning to note positions rather than setting the tempo.",
+      "TREBLE": "Treble clef places G on the second line of the staff.",
+      "LEDGER": "Ledger lines extend notation above or below the five main lines.",
+      "SPACE": "A note in a space has a different position from a note on a line."
+    },
+    "requiredAnswers": [
+      "STAFF"
+    ]
+  },
+  {
+    "id": "music-patterns-2",
+    "title": "Counting a Simple Musical Beat",
+    "description": "Follow note lengths, silent rests, and the steady pulse beneath a familiar tune.",
+    "cardDescription": "Follow note lengths, silent rests, and the steady pulse beneath a familiar tune.",
+    "subtheme": "Counting a Simple Musical Beat",
+    "focus": "In common four-four counting, a quarter note often represents one beat; other meters use different conventions.",
+    "solvingTip": "Use counting words before the printed notation terms.",
+    "words": [
+      [
+        "PULSE",
+        "Steady underlying beat felt in a piece of music"
+      ],
+      [
+        "QUARTER",
+        "Note value often counted as one beat in four-four time"
+      ],
+      [
+        "EIGHTH",
+        "Note value half as long as a quarter note"
+      ],
+      [
+        "REST",
+        "Symbol marking a period of musical silence"
+      ],
+      [
+        "METRONOME",
+        "Device clicking or marking a steady practice beat"
+      ],
+      [
+        "HALF",
+        "Note value lasting twice as long as a quarter note"
+      ],
+      [
+        "WHOLE",
+        "Note value lasting four quarter-note durations"
+      ],
+      [
+        "DOT",
+        "Mark adding half the original value to a note's duration"
+      ],
+      [
+        "BEAM",
+        "Thick line joining the stems of short note values"
+      ],
+      [
+        "COUNT",
+        "Say numbers to keep track of a musical pulse"
+      ],
+      [
+        "SLOW",
+        "At a low speed, as a practice tempo may begin"
+      ],
+      [
+        "FAST",
+        "At a high speed, as a lively tempo may be"
+      ],
+      [
+        "TAP",
+        "Mark a steady pulse with a finger or foot"
+      ],
+      [
+        "BEAT",
+        "One regular pulse unit in the music"
+      ]
+    ],
+    "answerNotes": {
+      "PULSE": "A pulse is the regular reference, while rhythms can move across it.",
+      "QUARTER": "The count depends on the meter; a quarter note is not always one beat.",
+      "EIGHTH": "Two eighth notes equal one quarter note in written duration.",
+      "REST": "A rest has a duration just as a sounded note does.",
+      "METRONOME": "A metronome supplies a reference pulse, not the melody."
+    },
+    "requiredAnswers": [
+      "PULSE"
+    ]
+  },
+  {
+    "id": "music-patterns-3",
+    "title": "Major, Minor, and Musical Steps",
+    "description": "Explore simple scale words through intervals, starting notes, and familiar keyboard directions.",
+    "cardDescription": "Explore simple scale words through intervals, starting notes, and familiar keyboard directions.",
+    "subtheme": "Major, Minor, and Musical Steps",
+    "focus": "Major and minor describe scale structures; their emotional effect is not identical in every piece.",
+    "solvingTip": "Short direction and distance words help cross the scale terms.",
+    "words": [
+      [
+        "SCALE",
+        "Ordered sequence of musical pitches moving up or down"
+      ],
+      [
+        "TONIC",
+        "Starting and home note of a musical key"
+      ],
+      [
+        "OCTAVE",
+        "Interval between one C and the next C above it"
+      ],
+      [
+        "SEMITONE",
+        "Smallest step between neighboring piano keys in standard tuning"
+      ],
+      [
+        "MINOR",
+        "Scale type whose common forms include a lowered third"
+      ],
+      [
+        "MAJOR",
+        "Scale type with a characteristic whole-step and half-step pattern"
+      ],
+      [
+        "STEP",
+        "Small movement from one scale note to the next"
+      ],
+      [
+        "ASCEND",
+        "Move toward higher musical pitches"
+      ],
+      [
+        "DESCEND",
+        "Move toward lower musical pitches"
+      ],
+      [
+        "KEY",
+        "Group of pitch relationships centered on a tonic"
+      ],
+      [
+        "THIRD",
+        "Interval spanning three letter-name positions"
+      ],
+      [
+        "ROOT",
+        "Foundational note used to name a chord"
+      ],
+      [
+        "INTERVAL",
+        "Distance in pitch between two musical notes"
+      ],
+      [
+        "CHORD",
+        "Group of notes combined harmonically"
+      ]
+    ],
+    "answerNotes": {
+      "SCALE": "A scale is a sequence, unlike a chord whose notes may sound together.",
+      "TONIC": "The tonic serves as a reference point for the key.",
+      "OCTAVE": "Notes an octave apart share a letter name but differ in pitch.",
+      "SEMITONE": "A semitone may connect two white keys or a white and black key.",
+      "MINOR": "Minor has several forms, so not every minor scale uses the same notes."
+    },
+    "requiredAnswers": [
+      "SCALE"
+    ]
+  },
+  {
+    "id": "music-patterns-4",
+    "title": "Loud, Soft, and Shaping a Phrase",
+    "description": "Identify basic expression marks that guide a musician's loudness and the way notes connect.",
+    "cardDescription": "Identify basic expression marks that guide a musician's loudness and the way notes connect.",
+    "subtheme": "Loud, Soft, and Shaping a Phrase",
+    "focus": "Dynamics concern loudness, while articulation describes how notes begin, end, or join.",
+    "solvingTip": "The familiar loudness words can help with the Italian directions.",
+    "words": [
+      [
+        "DYNAMICS",
+        "Musical term for changes and levels of loudness"
+      ],
+      [
+        "FORTE",
+        "Italian musical direction meaning loud"
+      ],
+      [
+        "PIANO",
+        "Italian musical direction meaning soft"
+      ],
+      [
+        "CRESCENDO",
+        "Gradual increase in musical loudness"
+      ],
+      [
+        "LEGATO",
+        "Direction to play notes smoothly connected"
+      ],
+      [
+        "STACCATO",
+        "Direction to play notes short and detached"
+      ],
+      [
+        "ACCENT",
+        "Emphasis placed on a particular note"
+      ],
+      [
+        "SOFT",
+        "Quiet in volume, as a gentle passage is"
+      ],
+      [
+        "LOUD",
+        "Strong in volume, as a forceful passage is"
+      ],
+      [
+        "SLUR",
+        "Curved notation mark joining notes into a smooth group"
+      ],
+      [
+        "PHRASE",
+        "Short musical idea shaped as a unit"
+      ],
+      [
+        "DIM",
+        "Common three-letter abbreviation for diminuendo"
+      ],
+      [
+        "SWELL",
+        "Increase and sometimes ease back in musical loudness"
+      ],
+      [
+        "TONE",
+        "Quality of sound shaped by the performer"
+      ]
+    ],
+    "answerNotes": {
+      "DYNAMICS": "Dynamics differ from tempo, which concerns speed.",
+      "FORTE": "Forte indicates a dynamic level rather than a fast tempo.",
+      "PIANO": "Piano is a loudness direction here, not the keyboard instrument.",
+      "CRESCENDO": "A crescendo changes loudness over a passage rather than instantly.",
+      "LEGATO": "Legato concerns connection rather than a fixed volume."
+    },
+    "requiredAnswers": [
+      "DYNAMICS"
+    ]
+  },
+  {
+    "id": "music-patterns-5",
+    "title": "Finding Your Place in Sheet Music",
+    "description": "Navigate the measure numbers, repeat marks, and ending directions of a simple printed score.",
+    "cardDescription": "Navigate the measure numbers, repeat marks, and ending directions of a simple printed score.",
+    "subtheme": "Finding Your Place in Sheet Music",
+    "focus": "A repeat sign sends a player back to a marked point; an ending bracket shows which passage to take on a repeat.",
+    "solvingTip": "Start with the page-navigation words you recognize.",
+    "words": [
+      [
+        "MEASURE",
+        "Group of beats between neighboring bar lines"
+      ],
+      [
+        "REPEAT",
+        "Direction to play a marked passage again"
+      ],
+      [
+        "BARLINE",
+        "Vertical mark separating measures, two words"
+      ],
+      [
+        "ENDING",
+        "Passage under a numbered bracket in repeated music"
+      ],
+      [
+        "FINE",
+        "Italian word marking the end in some musical directions"
+      ],
+      [
+        "CODA",
+        "Concluding section reached by a marked musical direction"
+      ],
+      [
+        "SIGN",
+        "Printed symbol guiding a jump or return in the score"
+      ],
+      [
+        "PAGE",
+        "One side of a printed sheet of music"
+      ],
+      [
+        "TURN",
+        "Move to the next page while following a score"
+      ],
+      [
+        "NUMBER",
+        "Printed identifier helping locate a particular measure"
+      ],
+      [
+        "START",
+        "Place where a musical passage begins"
+      ],
+      [
+        "DAL",
+        "Three-letter word before segno in the direction to return to a sign"
+      ],
+      [
+        "CAPO",
+        "Word after da in the direction to return to the beginning"
+      ],
+      [
+        "SCORE",
+        "Written music showing one or more parts"
+      ]
+    ],
+    "answerNotes": {
+      "MEASURE": "A measure organizes beats according to the time signature.",
+      "REPEAT": "A repeat applies to a defined passage rather than necessarily the entire piece.",
+      "BARLINE": "Bar lines divide measures and do not by themselves indicate a pause.",
+      "ENDING": "First and second endings let repeated sections finish differently.",
+      "FINE": "Fine means the ending point in this context, rather than a judgment of quality."
+    },
+    "requiredAnswers": [
+      "MEASURE"
+    ]
+  }
+]

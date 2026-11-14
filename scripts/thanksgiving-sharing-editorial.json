@@ -1,0 +1,387 @@
+[
+  {
+    "id": "thanksgiving-sharing",
+    "title": "Packing Thanksgiving Leftovers",
+    "description": "Sort the lids, labels, and containers used to share the food remaining after a Thanksgiving gathering.",
+    "cardDescription": "Sort the lids, labels, and containers used to share the food remaining after a Thanksgiving gathering.",
+    "subtheme": "Packing Thanksgiving Leftovers",
+    "focus": "The clues describe packing and labeling, rather than prescribing storage times or temperatures.",
+    "solvingTip": "Look for the container first, then its covering and label.",
+    "words": [
+      [
+        "LEFTOVERS",
+        "Food remaining after the Thanksgiving meal"
+      ],
+      [
+        "CONTAINER",
+        "Reusable vessel holding a portion to take home"
+      ],
+      [
+        "PORTION",
+        "Amount of leftover food packed for one serving"
+      ],
+      [
+        "LABEL",
+        "Written tag identifying what is in a food container"
+      ],
+      [
+        "DATE",
+        "Calendar information written beside the packed food's name"
+      ],
+      [
+        "LID",
+        "Cover fitted onto a leftover-food container"
+      ],
+      [
+        "FOIL",
+        "Thin metal sheet folded over a dish of extra food"
+      ],
+      [
+        "WRAP",
+        "Cover food with a protective sheet"
+      ],
+      [
+        "BOX",
+        "Rigid carton used to carry a slice of pie home"
+      ],
+      [
+        "STACK",
+        "Place closed containers one above another"
+      ],
+      [
+        "SHARE",
+        "Give some of the remaining food to another guest"
+      ],
+      [
+        "FRIDGE",
+        "Short everyday name for the appliance holding chilled food"
+      ],
+      [
+        "SPOON",
+        "Utensil for transferring an extra helping into a tub"
+      ],
+      [
+        "BAG",
+        "Carrier holding a guest's packed containers"
+      ]
+    ],
+    "answerNotes": {
+      "LEFTOVERS": "Leftovers names the remaining food, rather than a particular dish.",
+      "CONTAINER": "A container and its matching lid are separate items in this scene.",
+      "PORTION": "A portion is an amount; it does not specify one standard weight.",
+      "LABEL": "Labels can identify contents and the date they were packed.",
+      "DATE": "A written date identifies a day; this puzzle sets no storage-time rule."
+    },
+    "requiredAnswers": [
+      "LEFTOVERS"
+    ]
+  },
+  {
+    "id": "thanksgiving-sharing-2",
+    "title": "Bringing a Dish to the Potluck",
+    "description": "Plan a shared Thanksgiving meal through sign-up lists, covered dishes, and the people bringing them.",
+    "cardDescription": "Plan a shared Thanksgiving meal through sign-up lists, covered dishes, and the people bringing them.",
+    "subtheme": "Bringing a Dish to the Potluck",
+    "focus": "At a potluck, guests contribute different dishes; the host may coordinate the list to avoid duplicates.",
+    "solvingTip": "Separate what people bring from what the organizer writes down.",
+    "words": [
+      [
+        "POTLUCK",
+        "Shared meal to which guests bring different dishes"
+      ],
+      [
+        "SIGNUP",
+        "List used to record which guest will bring each dish"
+      ],
+      [
+        "CARRIER",
+        "Handled holder used to transport a covered hot dish"
+      ],
+      [
+        "ALLERGY",
+        "Food-related condition a guest may mention to the host"
+      ],
+      [
+        "SERVING",
+        "A portion offered from a shared dish"
+      ],
+      [
+        "DISH",
+        "Prepared food contributed by a potluck guest"
+      ],
+      [
+        "HOST",
+        "Person coordinating the Thanksgiving gathering"
+      ],
+      [
+        "GUEST",
+        "Invited person bringing food to the shared meal"
+      ],
+      [
+        "LIST",
+        "Written record of planned potluck contributions"
+      ],
+      [
+        "LADLE",
+        "Deep spoon brought along with a pot of soup"
+      ],
+      [
+        "COVER",
+        "Protective top placed over a dish during transport"
+      ],
+      [
+        "RECIPE",
+        "Written instructions a guest might share after the meal"
+      ],
+      [
+        "NOTE",
+        "Short written message about a dish's ingredients"
+      ],
+      [
+        "SALAD",
+        "Cold mixed dish one guest might contribute"
+      ]
+    ],
+    "answerNotes": {
+      "POTLUCK": "Potluck describes how the meal is shared, rather than one specific menu.",
+      "SIGNUP": "A sign-up can help the organizer see missing items or repeated dishes.",
+      "CARRIER": "A carrier holds the dish during transport; it is not the food itself.",
+      "ALLERGY": "The puzzle identifies a planning word and gives no medical advice.",
+      "SERVING": "Serving can name a portion or the act of offering food."
+    },
+    "requiredAnswers": [
+      "POTLUCK"
+    ]
+  },
+  {
+    "id": "thanksgiving-sharing-3",
+    "title": "A Thanksgiving Visit by Train",
+    "description": "Follow a holiday rail visit from a reserved ticket to the reunion waiting at the station.",
+    "cardDescription": "Follow a holiday rail visit from a reserved ticket to the reunion waiting at the station.",
+    "subtheme": "A Thanksgiving Visit by Train",
+    "focus": "Travel clues focus on the passenger journey and meeting arrangements, rather than locomotive machinery.",
+    "solvingTip": "Start with the places where a passenger waits or boards.",
+    "words": [
+      [
+        "REUNION",
+        "Meeting again with family after a period apart"
+      ],
+      [
+        "PLATFORM",
+        "Station area beside the track where passengers board"
+      ],
+      [
+        "RESERVE",
+        "Arrange in advance to keep a place on a train"
+      ],
+      [
+        "LUGGAGE",
+        "Travel bags brought along for a holiday visit"
+      ],
+      [
+        "ARRIVAL",
+        "The reaching of the destination station"
+      ],
+      [
+        "TICKET",
+        "Document confirming the passenger's holiday rail journey"
+      ],
+      [
+        "STATION",
+        "Railway building where visiting relatives meet"
+      ],
+      [
+        "SEAT",
+        "Place occupied by a traveler during the trip"
+      ],
+      [
+        "AISLE",
+        "Passage a passenger walks along inside the rail car"
+      ],
+      [
+        "DELAY",
+        "Unexpected wait that changes the planned meeting time"
+      ],
+      [
+        "TEXT",
+        "Short phone message sent to update the waiting family"
+      ],
+      [
+        "MAP",
+        "Diagram showing the route to the destination"
+      ],
+      [
+        "HUG",
+        "Warm embrace at the end of a family journey"
+      ],
+      [
+        "TRAIN",
+        "Linked rail vehicles carrying the Thanksgiving visitor"
+      ]
+    ],
+    "answerNotes": {
+      "REUNION": "A reunion describes the gathering, not the journey used to reach it.",
+      "PLATFORM": "A platform is on the station side, separate from the rail car.",
+      "RESERVE": "Some services assign seats; others reserve travel without a numbered seat.",
+      "LUGGAGE": "Luggage is a collective word; a suitcase is one individual item.",
+      "ARRIVAL": "Arrival contrasts with departure, when a journey begins."
+    },
+    "requiredAnswers": [
+      "REUNION"
+    ]
+  },
+  {
+    "id": "thanksgiving-sharing-4",
+    "title": "Keeping a Family Recipe Card",
+    "description": "Remember a shared holiday dish through handwritten quantities, recipe boxes, and notes from earlier cooks.",
+    "cardDescription": "Remember a shared holiday dish through handwritten quantities, recipe boxes, and notes from earlier cooks.",
+    "subtheme": "Keeping a Family Recipe Card",
+    "focus": "A recipe card records both ingredients and method; an added note may preserve a family variation.",
+    "solvingTip": "Find the written instruction or measurement named by each clue.",
+    "words": [
+      [
+        "RECIPE",
+        "Written ingredients and directions for a family dish"
+      ],
+      [
+        "INDEX",
+        "Alphabetical guide helping locate cards in a recipe box"
+      ],
+      [
+        "MEASURE",
+        "Determine an ingredient's quantity with a cup or spoon"
+      ],
+      [
+        "SERVINGS",
+        "Number of portions a written recipe is intended to make"
+      ],
+      [
+        "MARGIN",
+        "Blank edge where a cook might add a handwritten note"
+      ],
+      [
+        "CARD",
+        "Small stiff sheet carrying a handwritten holiday recipe"
+      ],
+      [
+        "INK",
+        "Colored writing fluid in a pen used on a recipe card"
+      ],
+      [
+        "BOX",
+        "Container keeping treasured recipe cards together"
+      ],
+      [
+        "COPY",
+        "Make a second version of Grandma's cooking directions"
+      ],
+      [
+        "STEP",
+        "One instruction in the method for preparing a dish"
+      ],
+      [
+        "CUP",
+        "Volume measure often abbreviated in an American recipe"
+      ],
+      [
+        "TEASPOON",
+        "Small measuring unit often shortened to tsp."
+      ],
+      [
+        "FAMILY",
+        "Relatives sharing the recipe across generations"
+      ],
+      [
+        "STAIN",
+        "Old food mark on a much-used recipe card"
+      ]
+    ],
+    "answerNotes": {
+      "RECIPE": "A recipe records a method; it is different from a menu listing dishes.",
+      "INDEX": "An index points to entries rather than supplying every instruction itself.",
+      "MEASURE": "Measuring identifies quantity before ingredients are combined.",
+      "SERVINGS": "Servings describe a recipe's yield rather than its cooking time.",
+      "MARGIN": "Margin notes can preserve changes without replacing the original directions."
+    },
+    "requiredAnswers": [
+      "RECIPE"
+    ]
+  },
+  {
+    "id": "thanksgiving-sharing-5",
+    "title": "A Walk After Thanksgiving Dinner",
+    "description": "Step outside after the holiday meal for a small neighborhood scene of bare branches, fading light, and conversation.",
+    "cardDescription": "Step outside after the holiday meal for a small neighborhood scene of bare branches, fading light, and conversation.",
+    "subtheme": "A Walk After Thanksgiving Dinner",
+    "focus": "This is an observational walk, with familiar words for surroundings and company rather than fitness targets.",
+    "solvingTip": "Use the location or sense described: something seen, heard, or walked along.",
+    "words": [
+      [
+        "SIDEWALK",
+        "Paved pedestrian path beside a residential street"
+      ],
+      [
+        "DUSK",
+        "Time when daylight is fading toward night"
+      ],
+      [
+        "BARE",
+        "Describing a deciduous branch after its leaves have fallen"
+      ],
+      [
+        "CHAT",
+        "Have a relaxed conversation while strolling"
+      ],
+      [
+        "PORCH",
+        "Covered entrance where a neighbor may wave"
+      ],
+      [
+        "LEAF",
+        "Single piece of autumn foliage underfoot"
+      ],
+      [
+        "CURB",
+        "Raised edge between the street and sidewalk"
+      ],
+      [
+        "SCARF",
+        "Warm neck covering worn on a chilly evening walk"
+      ],
+      [
+        "STEP",
+        "One movement forward during the neighborhood stroll"
+      ],
+      [
+        "WAVE",
+        "Raise a hand in greeting to a passing neighbor"
+      ],
+      [
+        "GATE",
+        "Hinged opening beside a front-yard path"
+      ],
+      [
+        "SKY",
+        "Expanse overhead growing darker after the meal"
+      ],
+      [
+        "BREEZE",
+        "Light moving air felt along the walk"
+      ],
+      [
+        "HOME",
+        "Place the walkers return to after their stroll"
+      ]
+    ],
+    "answerNotes": {
+      "SIDEWALK": "A sidewalk is beside the road, while a crosswalk goes across it.",
+      "DUSK": "Dusk refers to the light after sunset rather than a fixed clock time.",
+      "BARE": "Bare branches belong to many seasonal trees, but not all trees lose leaves together.",
+      "CHAT": "Chat describes informal talk rather than a formal speech.",
+      "PORCH": "A porch adjoins a building; it is different from a public sidewalk."
+    },
+    "requiredAnswers": [
+      "SIDEWALK"
+    ]
+  }
+]

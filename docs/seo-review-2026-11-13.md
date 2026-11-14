@@ -40,3 +40,7 @@ This reduces raw HTML by about 83%, compressed HTML by about 45%, and DOM elemen
 - The user reports the sitemap was just submitted and no GSC indexing data is available yet. Submission status and indexing outcomes therefore remain unverified; the sitemap address stays `https://largeprintcrosswords.com/sitemap.xml`.
 - The attached environment's enforced outbound policy permits package hosts but not the production apex/www or Cloudflare Pages hosts. Live HTTP/TLS/hostname redirects, CDN headers, Googlebot access and live Core Web Vitals were not verified in this review. The policy restriction is not evidence of a public-site error. Cloudflare deployment checks can be read through the connected GitHub repository.
 - When GSC reports arrive, review the sitemap fetch status and representative main/puzzle/topic URLs. Separate expected exclusions (print sheets, archives and clean canonical duplicates) from unexpected exclusions of playable puzzle pages. Daily selection rotates through the existing collection; it does not publish a new puzzle every day.
+
+## November 14 user-supplied verification update
+
+User screenshots show the earlier sitemap fetch succeeded with 414 discovered URLs and live tests for the home page, Christmas collection and winter-holiday-crafts game were eligible for indexing. Those are fetch/live-eligibility results, not an indexed-page count. The subsequent 500-puzzle build produces 516 canonical sitemap URLs at the same address. See [search-console.md](search-console.md) and [the 500-puzzle expansion](expansion-500.md).

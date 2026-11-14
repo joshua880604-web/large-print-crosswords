@@ -1,0 +1,18 @@
+[
+  {
+    "file": "thanksgiving-crossword_broad-match_us_2026-11-14.xlsx",
+    "sha256": "75ec60e54e4e5aa1803e88c06af39cb18406087e56df83aeb35aabffcb1c5544",
+    "sheet": "thanksgiving crossword",
+    "keywordRows": 874,
+    "database": "US",
+    "exportDate": "2026-11-14"
+  },
+  {
+    "file": "music-crossword_broad-match_us_2026-11-14.xlsx",
+    "sha256": "ddb28a0f67c5e9ad05b2e87e01be2d86d3bb1adfdd32f33201fa1cb95d962897",
+    "sheet": "music crossword",
+    "keywordRows": 1906,
+    "database": "US",
+    "exportDate": "2026-11-14"
+  }
+]

@@ -28,7 +28,7 @@ npm run test:e2e
 
 ## Collection and content
 
-- 400 independently playable themed mini crosswords across 80 series.
+- 500 independently playable themed mini crosswords across 100 series.
 - 4,476 clues; direct American English definitions.
 - Each series contains five puzzles with different boards and answer selections. All current editions have distinct subthemes, introductions, solving tips, and three answer explanations each; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected current layouts, up to 11 × 11; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
@@ -43,11 +43,11 @@ The main collection and all interest collections support shareable `q` and `them
 
 Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, opt-in synthesized sound, and a docked on-screen QWERTY keyboard. Small touch devices use on-screen mode on first interaction by default; computers start with physical/system input. Users can switch modes, hide the panel, and navigate its letter keys with arrow keys. The selected clue and entered letters remain above the keys, and the selected grid square scrolls above the panel. Browser support for suppressing native touch keyboards varies; physical keyboard input remains enabled in either mode. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
 
-`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 400 puzzles; it does not generate new content daily.
+`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 500 puzzles; it does not generate new content daily.
 
 The Christmas collection and both print layouts are described in [the November 14 upgrade](docs/christmas-print-upgrade.md).
 
-PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter at 100% scale and uses separate answer routes. The default layout has 18pt clues, a grid up to 5.4 inches, and two pages (grid first, clues or answers second). A compact option retains 13pt clues and a grid up to 3.6 inches on one page. The selector remembers `lpc:print-layout` when storage is available, and paired puzzle/answer links carry `?layout=large` or `?layout=compact`; their canonical stays clean. Without JavaScript the 18pt layout remains printable using the browser menu. Print copies are `noindex,follow`; the sitemap includes the 400 playable pages and primary site pages.
+PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter at 100% scale and uses separate answer routes. The default layout has 18pt clues, a grid up to 5.4 inches, and two pages (grid first, clues or answers second). A compact option retains 13pt clues and a grid up to 3.6 inches on one page. The selector remembers `lpc:print-layout` when storage is available, and paired puzzle/answer links carry `?layout=large` or `?layout=compact`; their canonical stays clean. Without JavaScript the 18pt layout remains printable using the browser menu. Print copies are `noindex,follow`; the sitemap includes the 500 playable pages and primary site pages.
 
 Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in the original twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. New first editions use revision 1 and have no previous-edition route. The existing refreshed editions retain revision 2 and their archives. No credentials or environment variables are required by the application.
 
@@ -55,7 +55,7 @@ Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `l
 
 `npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 1200 current puzzle/print/answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
 
-For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 400 current and 100 archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
+For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 500 current and 100 archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
 
 ## Deploy to Cloudflare Pages
 
@@ -73,7 +73,7 @@ Each cloud task is already isolated: use this checkout directly; do not create a
 
 Collection cards use edition-specific static SVG board previews with intrinsic dimensions and lazy loading. Every puzzle title, description and ordinary HTML link remains server-rendered, including when JavaScript is disabled. The build checks navigation reachability from home as well as sitemap membership; see [the November 13 SEO review](docs/seo-review-2026-11-13.md).
 
-Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 414 canonical HTTPS URLs, including all 400 playable puzzles.
+Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 516 canonical HTTPS URLs, including all 500 playable puzzles.
 
 `public/social-card.png` is a committed 1200 × 630 share image. It is served locally and referenced by Open Graph and Twitter Card metadata. To regenerate it, run `npm run social:generate` with a supported local Chromium installation; image generation is not part of the Cloudflare build.
 
@@ -81,7 +81,7 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 400 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 300 puzzles use new stable IDs and first-edition progress keys. The latest 100-puzzle expansion preserves all previously published 300 current puzzle objects.
+All 500 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 400 puzzles use new stable IDs and first-edition progress keys. The latest 100-puzzle expansion preserves all previously published 400 current puzzle objects.
 
 | Series | Current puzzles | Clues | Edition |
 | --- | ---: | ---: | --- |
@@ -165,10 +165,30 @@ All 400 current puzzles have distinct subjects, introductions, solving tips, and
 | Everyday Materials | 5 | 55 | First publication |
 | Word Patterns | 5 | 56 | First publication |
 | Winter Holiday Crafts | 5 | 56 | First publication |
+| Thanksgiving Side Dishes | 5 | 56 | First publication |
+| Sharing Thanksgiving | 5 | 57 | First publication |
+| Christmas Kitchen Traditions | 5 | 55 | First publication |
+| Christmas Post and Paper | 5 | 55 | First publication |
+| Christmas Around the Room | 5 | 56 | First publication |
+| Winter Backyard Observations | 5 | 54 | First publication |
+| Understanding Winter Weather | 5 | 55 | First publication |
+| Winter Pastimes | 5 | 55 | First publication |
+| Country Voice Memories | 5 | 54 | First publication |
+| Classic American Voices | 5 | 57 | First publication |
+| Vocal Group Memories | 5 | 55 | First publication |
+| American Music City Stops | 5 | 52 | First publication |
+| Records and Listening | 5 | 59 | First publication |
+| Keyboard Sounds and Mechanisms | 5 | 57 | First publication |
+| Strings and Picking | 5 | 59 | First publication |
+| Winds and Bellows | 5 | 58 | First publication |
+| Music Patterns Made Clear | 5 | 57 | First publication |
+| Voices in Company | 5 | 56 | First publication |
+| American Style Memories | 5 | 54 | First publication |
+| Music Behind the Scenes | 5 | 55 | First publication |
 
-The collection has 4,476 clues, 4,476 distinct answer/clue pairs, 400 different introductions and 1200 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
+The collection has 5,592 clues, 5,592 distinct answer/clue pairs, 500 different introductions and 1500 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
 
-Six curated topic pages cover Christmas, sports, music, geography/state capitals, American history and Texas. The Christmas page groups twelve existing puzzles, links to their games and print sheets, and has reciprocal links from those games. Geography groups five landscape/map subjects and five capital-city routes in one collection. The twenty geography/history/Texas puzzles are a limited interest/state pilot described in [the research and editorial notes](docs/place-history-pilot.md). The following 80-puzzle expansion adds neighborhood scenes, crafts, landmarks, nature, home inventions, outings, gardening, kitchen vocabulary, clothing, everyday science, wordplay and recreational games; see [the 300-puzzle expansion](docs/expansion-300.md). The latest 100 puzzles cover transport, natural history, flowers, regional foods, crafts, performance, collectibles, home materials, wordplay and winter holidays; see [the 400-puzzle expansion](docs/expansion-400.md) and [November 14 research](docs/expansion-400-research.md). Each actual puzzle retains one canonical playable URL.
+Eight curated topic pages cover Thanksgiving, Christmas, winter, sports, music, geography/state capitals, American history and Texas. Thanksgiving groups 16 real games, Christmas 27, winter 20 and music 80. Each collection links to games and print sheets, with reciprocal links from its games. Geography groups five landscape/map subjects and five capital-city routes in one collection. The twenty geography/history/Texas puzzles are a limited interest/state pilot described in [the research and editorial notes](docs/place-history-pilot.md). The following 80-puzzle expansion adds neighborhood scenes, crafts, landmarks, nature, home inventions, outings, gardening, kitchen vocabulary, clothing, everyday science, wordplay and recreational games; see [the 300-puzzle expansion](docs/expansion-300.md). The preceding 100 puzzles cover transport, natural history, flowers, regional foods, crafts, performance, collectibles, home materials, wordplay and winter holidays; see [the 400-puzzle expansion](docs/expansion-400.md) and [November 14 research](docs/expansion-400-research.md). The latest 100 add Thanksgiving, music, Christmas and winter subjects selected using the supplied reports and a full-catalog comparison; see [the 500-puzzle expansion](docs/expansion-500.md) and [the theme decisions](docs/expansion-500-research.md). Each actual puzzle retains one canonical playable URL.
 
 `npm run audit:content` checks identical complete clue sets, within-series repetition, self-answer clues, subject text and the archived/first-edition distinction. Counts and overlap are internal review signals, not Google thresholds. Run `npm run audit:content -- --write` to refresh reports; production builds audit without rewriting them.
 

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "winter-weather-scenes",
+    "title": "Looking Closely at a Snowflake",
+    "description": "Explore a snow crystal through its branches, symmetry, and the clouds in which it forms.",
+    "cardDescription": "Explore a snow crystal through its branches, symmetry, and the clouds in which it forms.",
+    "subtheme": "Looking Closely at a Snowflake",
+    "focus": "Many snow crystals have sixfold symmetry, although their detailed shapes vary with formation conditions.",
+    "solvingTip": "Start with the ordinary shape words before the longer crystal terms.",
+    "words": [
+      [
+        "SNOWFLAKE",
+        "Falling ice particle that may contain one or more crystals"
+      ],
+      [
+        "CRYSTAL",
+        "Solid whose particles form an ordered structure, as in snow"
+      ],
+      [
+        "HEXAGON",
+        "Plane shape with six sides"
+      ],
+      [
+        "BRANCH",
+        "Arm extending outward from a branching snow crystal"
+      ],
+      [
+        "SYMMETRY",
+        "Correspondence between parts of a crystal's shape"
+      ],
+      [
+        "SIX",
+        "Number of arms on a common branching snow crystal"
+      ],
+      [
+        "ICE",
+        "Frozen substance forming the snow crystal"
+      ],
+      [
+        "CLOUD",
+        "Suspended droplets or crystals where snow can develop"
+      ],
+      [
+        "VAPOR",
+        "Gaseous water from which an ice crystal can grow"
+      ],
+      [
+        "POINT",
+        "Sharp tip at the end of a crystal arm"
+      ],
+      [
+        "COLD",
+        "Describing the low-temperature setting in which snow forms"
+      ],
+      [
+        "FALL",
+        "Move downward through the air, as a snowflake does"
+      ],
+      [
+        "MELT",
+        "Turn into liquid when a snow crystal warms"
+      ],
+      [
+        "LENS",
+        "Curved transparent piece used to magnify a tiny crystal"
+      ]
+    ],
+    "answerNotes": {
+      "SNOWFLAKE": "A falling snowflake can be a single crystal or several joined crystals.",
+      "CRYSTAL": "The internal structure of ice helps produce its characteristic sixfold forms.",
+      "HEXAGON": "Hexagonal plates are one possible form of snow crystal.",
+      "BRANCH": "Branches grow as water vapor joins the crystal under suitable conditions.",
+      "SYMMETRY": "Real snow crystals can be irregular even when the underlying structure is symmetrical."
+    },
+    "requiredAnswers": [
+      "SNOWFLAKE"
+    ]
+  },
+  {
+    "id": "winter-weather-scenes-2",
+    "title": "Sleet, Snow, and Freezing Rain",
+    "description": "Compare familiar winter precipitation words through the form water takes before and after reaching a surface.",
+    "cardDescription": "Compare familiar winter precipitation words through the form water takes before and after reaching a surface.",
+    "subtheme": "Sleet, Snow, and Freezing Rain",
+    "focus": "In U.S. weather usage, sleet is ice pellets; freezing rain falls as liquid and freezes on contact with cold surfaces.",
+    "solvingTip": "Use the described form of the precipitation to choose each answer.",
+    "words": [
+      [
+        "SLEET",
+        "Small ice pellets falling from the sky in U.S. weather usage"
+      ],
+      [
+        "GLAZE",
+        "Smooth ice coating left when freezing rain freezes on contact"
+      ],
+      [
+        "PELLET",
+        "Small rounded piece of ice in sleet"
+      ],
+      [
+        "DRIZZLE",
+        "Precipitation made of very small liquid drops"
+      ],
+      [
+        "SLUSH",
+        "Wet mixture of snow and liquid water"
+      ],
+      [
+        "SNOW",
+        "Precipitation falling as ice crystals or joined flakes"
+      ],
+      [
+        "RAIN",
+        "Liquid drops falling from a cloud"
+      ],
+      [
+        "FREEZE",
+        "Become solid as a water drop turns to ice"
+      ],
+      [
+        "THAW",
+        "Warm enough to let frozen precipitation melt"
+      ],
+      [
+        "DROP",
+        "Single small portion of liquid precipitation"
+      ],
+      [
+        "COAT",
+        "Cover a branch with a layer of ice"
+      ],
+      [
+        "ROAD",
+        "Travel surface that may become icy in a storm"
+      ],
+      [
+        "WET",
+        "Describing a surface covered with liquid water"
+      ],
+      [
+        "COLD",
+        "Low in temperature, as a freezing surface is"
+      ]
+    ],
+    "answerNotes": {
+      "SLEET": "Sleet differs from freezing rain because its drops freeze before reaching the ground.",
+      "GLAZE": "Glaze is an ice deposit, rather than the falling liquid itself.",
+      "PELLET": "An ice pellet has already frozen while still in the air.",
+      "DRIZZLE": "Drizzle describes drop size; freezing drizzle can form ice on cold surfaces.",
+      "SLUSH": "Slush is a mixture on the ground rather than one distinct falling crystal."
+    },
+    "requiredAnswers": [
+      "SLEET"
+    ]
+  },
+  {
+    "id": "winter-weather-scenes-3",
+    "title": "Shorter Days and Low Winter Sun",
+    "description": "Follow daylight, shadows, and the seasons through the ordinary words used to describe the winter Sun.",
+    "cardDescription": "Follow daylight, shadows, and the seasons through the ordinary words used to describe the winter Sun.",
+    "subtheme": "Shorter Days and Low Winter Sun",
+    "focus": "Earth's axial tilt changes seasonal daylight; winter is not caused simply by Earth being farther from the Sun.",
+    "solvingTip": "Distinguish a time of day from the light or shadow seen then.",
+    "words": [
+      [
+        "SOLSTICE",
+        "Seasonal point associated with the shortest Northern Hemisphere day"
+      ],
+      [
+        "TILT",
+        "Slant of Earth's axis responsible for the seasons"
+      ],
+      [
+        "DAYLIGHT",
+        "Natural light present between sunrise and sunset"
+      ],
+      [
+        "SHADOW",
+        "Dark shape made where an object blocks direct sunlight"
+      ],
+      [
+        "HORIZON",
+        "Apparent boundary where the sky meets the land or water"
+      ],
+      [
+        "DAWN",
+        "Early light appearing before sunrise"
+      ],
+      [
+        "DUSK",
+        "Fading light after the Sun has set"
+      ],
+      [
+        "NOON",
+        "Middle part of the day associated with the Sun's highest position"
+      ],
+      [
+        "EAST",
+        "General direction of sunrise"
+      ],
+      [
+        "WEST",
+        "General direction of sunset"
+      ],
+      [
+        "AXIS",
+        "Imaginary line around which Earth rotates"
+      ],
+      [
+        "WINTER",
+        "Season with shorter daylight in much of the northern United States"
+      ],
+      [
+        "SUN",
+        "Star supplying daylight to Earth"
+      ],
+      [
+        "NIGHT",
+        "Period when a location faces away from direct sunlight"
+      ]
+    ],
+    "answerNotes": {
+      "SOLSTICE": "The December solstice marks the shortest daylight period in the Northern Hemisphere.",
+      "TILT": "Earth's axis stays tilted as the planet travels around the Sun.",
+      "DAYLIGHT": "Daylight duration varies with both season and latitude.",
+      "SHADOW": "A low Sun often creates a longer shadow than a high Sun.",
+      "HORIZON": "Sunrise and sunset are observed near the horizon."
+    },
+    "requiredAnswers": [
+      "SOLSTICE"
+    ]
+  },
+  {
+    "id": "winter-weather-scenes-4",
+    "title": "Wind Chill on a Winter Morning",
+    "description": "Compare air temperature, wind, and the familiar words used to describe a colder-feeling winter day.",
+    "cardDescription": "Compare air temperature, wind, and the familiar words used to describe a colder-feeling winter day.",
+    "subtheme": "Wind Chill on a Winter Morning",
+    "focus": "Wind chill estimates heat loss from exposed skin under specified conditions; it does not lower the measured air temperature.",
+    "solvingTip": "Distinguish measured temperature from the effect of moving air.",
+    "words": [
+      [
+        "WINDCHILL",
+        "Estimate of how cold wind makes exposed skin feel, two words"
+      ],
+      [
+        "THERMOMETER",
+        "Instrument giving the actual air-temperature reading"
+      ],
+      [
+        "EXPOSED",
+        "Uncovered, as skin directly facing the winter wind"
+      ],
+      [
+        "GUST",
+        "Brief stronger burst in the winter wind"
+      ],
+      [
+        "HEAT",
+        "Energy lost more rapidly from exposed skin in moving cold air"
+      ],
+      [
+        "WIND",
+        "Moving air contributing to the chill estimate"
+      ],
+      [
+        "SPEED",
+        "How quickly the air is moving past a location"
+      ],
+      [
+        "DEGREE",
+        "Unit used in a temperature reading"
+      ],
+      [
+        "COLD",
+        "Low in temperature, as the morning air is"
+      ],
+      [
+        "SHELTER",
+        "Place protected from direct wind"
+      ],
+      [
+        "SCARF",
+        "Cloth covering worn around the neck"
+      ],
+      [
+        "COAT",
+        "Outer garment worn on a cold day"
+      ],
+      [
+        "FACE",
+        "Part of the head often exposed to the wind"
+      ],
+      [
+        "AIR",
+        "Gas whose temperature the weather instrument measures"
+      ]
+    ],
+    "answerNotes": {
+      "WINDCHILL": "Wind chill represents an effect on heat loss rather than a second air temperature.",
+      "THERMOMETER": "Wind chill does not change the temperature measured by a properly placed thermometer.",
+      "EXPOSED": "The wind-chill concept concerns heat loss from exposed skin.",
+      "GUST": "A gust differs from the sustained or average wind speed.",
+      "HEAT": "Wind can increase heat transfer away from a warm surface."
+    },
+    "requiredAnswers": [
+      "WINDCHILL"
+    ]
+  },
+  {
+    "id": "winter-weather-scenes-5",
+    "title": "Snowplows on the Neighborhood Street",
+    "description": "Recognize the blade, salt spreader, and tracks left as a winter road crew clears fallen snow.",
+    "cardDescription": "Recognize the blade, salt spreader, and tracks left as a winter road crew clears fallen snow.",
+    "subtheme": "Snowplows on the Neighborhood Street",
+    "focus": "A plow moves snow aside; a spreader distributes material on the road surface.",
+    "solvingTip": "Separate the vehicle's attachments from the piles they leave.",
+    "words": [
+      [
+        "SNOWPLOW",
+        "Vehicle or attachment used to push snow off a road"
+      ],
+      [
+        "BLADE",
+        "Broad metal part pushing the snow aside"
+      ],
+      [
+        "SPREADER",
+        "Equipment distributing salt or grit across a road"
+      ],
+      [
+        "WINDROW",
+        "Long ridge of snow left by a plow's pass"
+      ],
+      [
+        "GRIT",
+        "Small rough particles spread to improve traction"
+      ],
+      [
+        "SALT",
+        "Material used to lower water's freezing point on a road"
+      ],
+      [
+        "TRUCK",
+        "Motor vehicle carrying the clearing equipment"
+      ],
+      [
+        "ROUTE",
+        "Planned sequence of streets assigned to a plow crew"
+      ],
+      [
+        "CURB",
+        "Raised roadside edge partly hidden by snow"
+      ],
+      [
+        "RIDGE",
+        "Raised line of snow left beside a cleared lane"
+      ],
+      [
+        "PASS",
+        "One trip of the plow along a stretch of road"
+      ],
+      [
+        "PILE",
+        "Heap of snow pushed into one place"
+      ],
+      [
+        "TIRE",
+        "Rubber wheel covering leaving tracks on the street"
+      ],
+      [
+        "LANE",
+        "Strip of roadway made clearer by the plow"
+      ]
+    ],
+    "answerNotes": {
+      "SNOWPLOW": "A snowplow clears by moving snow, rather than melting it with heat.",
+      "BLADE": "The blade is the working attachment at the front of many plow trucks.",
+      "SPREADER": "A spreader distributes material behind or beneath the vehicle.",
+      "WINDROW": "Windrow can also describe rows of cut hay in another setting.",
+      "GRIT": "Grit provides friction and is different from a salt deicer."
+    },
+    "requiredAnswers": [
+      "SNOWPLOW"
+    ]
+  }
+]

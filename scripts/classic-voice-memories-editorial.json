@@ -1,0 +1,387 @@
+[
+  {
+    "id": "classic-voice-memories",
+    "title": "Ella Fitzgerald and a Jazz Standard",
+    "description": "Explore Ella Fitzgerald's voice, scat singing, and the words around a jazz standard.",
+    "cardDescription": "Explore Ella Fitzgerald's voice, scat singing, and the words around a jazz standard.",
+    "subtheme": "Ella Fitzgerald and a Jazz Standard",
+    "focus": "Scat singing uses wordless syllables; improvisation creates musical ideas during a performance.",
+    "solvingTip": "The short name and voice clues help cross the longer surname.",
+    "words": [
+      [
+        "ELLA",
+        "First name of jazz vocalist Fitzgerald"
+      ],
+      [
+        "FITZGERALD",
+        "Ella's surname on a jazz album cover"
+      ],
+      [
+        "SCAT",
+        "Jazz singing using improvised wordless syllables"
+      ],
+      [
+        "STANDARD",
+        "Widely known song performed by many jazz musicians"
+      ],
+      [
+        "PHRASE",
+        "Musical idea sung as one unit"
+      ],
+      [
+        "JAZZ",
+        "Musical tradition central to Fitzgerald's singing career"
+      ],
+      [
+        "SWING",
+        "Rhythmic feel often heard in an Ella Fitzgerald performance"
+      ],
+      [
+        "MIC",
+        "Jazz singer's microphone, informally"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument accompanying many jazz singers"
+      ],
+      [
+        "SOLO",
+        "Passage featuring the singer or one instrumentalist"
+      ],
+      [
+        "TEMPO",
+        "Speed chosen for the performance of a standard"
+      ],
+      [
+        "NOTE",
+        "Single pitch sung in a jazz melody"
+      ],
+      [
+        "VOICE",
+        "Singer's sound, distinct from the accompanying instruments"
+      ],
+      [
+        "TRIO",
+        "Three musicians in a jazz group"
+      ]
+    ],
+    "answerNotes": {
+      "ELLA": "Ella Fitzgerald was celebrated for both song interpretation and scat singing.",
+      "FITZGERALD": "Fitzgerald's recorded songbooks feature works by major American songwriters.",
+      "SCAT": "Scat does not require the written lyrics of a song.",
+      "STANDARD": "A standard can receive different arrangements and interpretations.",
+      "PHRASE": "Phrasing helps a singer give structure and expression to a melody."
+    },
+    "requiredAnswers": [
+      "ELLA"
+    ]
+  },
+  {
+    "id": "classic-voice-memories-2",
+    "title": "Nat King Cole at the Piano",
+    "description": "Recall Nat King Cole as both singer and pianist through his name, recordings, and a small jazz group.",
+    "cardDescription": "Recall Nat King Cole as both singer and pianist through his name, recordings, and a small jazz group.",
+    "subtheme": "Nat King Cole at the Piano",
+    "focus": "Cole's career included instrumental trio work as well as the vocal recordings many listeners recognize.",
+    "solvingTip": "Start with the short words making up his stage name.",
+    "words": [
+      [
+        "NAT",
+        "Short first name of singer Cole, before King"
+      ],
+      [
+        "COLE",
+        "Surname of singer and pianist Nat King ___"
+      ],
+      [
+        "KING",
+        "Royal title between Nat and Cole in a singer's name"
+      ],
+      [
+        "TRIO",
+        "Three-person group associated with Cole's early piano work"
+      ],
+      [
+        "CAPITOL",
+        "Record-company name on many Nat King Cole albums"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument Cole played as well as singing"
+      ],
+      [
+        "SMILE",
+        "One-word song title recorded by Cole, also a happy facial expression"
+      ],
+      [
+        "MONA",
+        "Woman's first name before Lisa in a Nat King Cole title"
+      ],
+      [
+        "LISA",
+        "Name following Mona in a Nat King Cole title"
+      ],
+      [
+        "ROUTE",
+        "Word before 66 in a song recorded by Cole"
+      ],
+      [
+        "VELVET",
+        "Soft fabric used as a comparison for a smooth singing voice"
+      ],
+      [
+        "BALLAD",
+        "Often slow and expressive type of song"
+      ],
+      [
+        "JAZZ",
+        "Musical setting of Cole's early trio recordings"
+      ],
+      [
+        "VOICE",
+        "Sound of Cole singing rather than playing the piano"
+      ]
+    ],
+    "answerNotes": {
+      "NAT": "Nat is the shortened first name used in his familiar professional name.",
+      "COLE": "Cole was a pianist as well as a well-known vocalist.",
+      "KING": "King is part of the professional name rather than a royal title here.",
+      "TRIO": "A trio identifies the number of performers, not one fixed instrument combination.",
+      "PIANO": "Cole's piano playing was an important part of his early jazz work."
+    },
+    "requiredAnswers": [
+      "COLE"
+    ]
+  },
+  {
+    "id": "classic-voice-memories-3",
+    "title": "Frank Sinatra and an Orchestra",
+    "description": "Picture Frank Sinatra at a microphone with title words, his surname, and the musicians behind him.",
+    "cardDescription": "Picture Frank Sinatra at a microphone with title words, his surname, and the musicians behind him.",
+    "subtheme": "Frank Sinatra and an Orchestra",
+    "focus": "An arranger adapts a song for the performing forces; the vocalist then shapes the words and melody.",
+    "solvingTip": "Use the familiar short title words to cross the names.",
+    "words": [
+      [
+        "FRANK",
+        "First name of singer Sinatra"
+      ],
+      [
+        "SINATRA",
+        "Surname of the singer associated with My Way"
+      ],
+      [
+        "CROONER",
+        "Singer associated with a smooth, intimate popular style"
+      ],
+      [
+        "ARRANGER",
+        "Musician adapting a song for an orchestra or ensemble"
+      ],
+      [
+        "HOBOKEN",
+        "New Jersey city where Frank Sinatra was born"
+      ],
+      [
+        "WAY",
+        "Word completing the Sinatra recording My ___"
+      ],
+      [
+        "FLY",
+        "Travel-through-the-air verb before Me to the Moon in a song title"
+      ],
+      [
+        "MOON",
+        "Sky object completing the song title Fly Me to the ___"
+      ],
+      [
+        "SUMMER",
+        "Warm season before Wind in a Sinatra song title"
+      ],
+      [
+        "STRINGS",
+        "Orchestral section containing violins and cellos"
+      ],
+      [
+        "MIC",
+        "Informal name for the singer's microphone"
+      ],
+      [
+        "BAND",
+        "Group of musicians playing behind the vocalist"
+      ],
+      [
+        "PHRASE",
+        "Short musical passage the singer shapes as a unit"
+      ],
+      [
+        "SWING",
+        "Rhythmic style associated with many Sinatra arrangements"
+      ]
+    ],
+    "answerNotes": {
+      "FRANK": "Frank Sinatra recorded with small groups as well as large orchestras.",
+      "SINATRA": "Sinatra is the performer's surname, not a song title.",
+      "CROONER": "Microphones helped make quieter, intimate vocal delivery practical.",
+      "ARRANGER": "An arrangement sets out how the parts work together in a performance.",
+      "HOBOKEN": "Hoboken is across the Hudson River from New York City."
+    },
+    "requiredAnswers": [
+      "SINATRA"
+    ]
+  },
+  {
+    "id": "classic-voice-memories-4",
+    "title": "Louis Armstrong and His Trumpet",
+    "description": "Meet Louis Armstrong through his trumpet, distinctive voice, and familiar words from his recording titles.",
+    "cardDescription": "Meet Louis Armstrong through his trumpet, distinctive voice, and familiar words from his recording titles.",
+    "subtheme": "Louis Armstrong and His Trumpet",
+    "focus": "Armstrong was both an influential jazz trumpeter and a singer; the clues separate those two roles.",
+    "solvingTip": "Instrument parts can help cross the performer's surname.",
+    "words": [
+      [
+        "LOUIS",
+        "First name of jazz trumpeter Armstrong"
+      ],
+      [
+        "ARMSTRONG",
+        "Surname of the trumpeter nicknamed Satchmo"
+      ],
+      [
+        "SATCHMO",
+        "Familiar nickname of Louis Armstrong"
+      ],
+      [
+        "TRUMPET",
+        "Brass instrument strongly associated with Armstrong"
+      ],
+      [
+        "WONDERFUL",
+        "Adjective completing What a ___ World in an Armstrong recording"
+      ],
+      [
+        "WORLD",
+        "Final word of the Armstrong recording What a Wonderful ___"
+      ],
+      [
+        "DOLLY",
+        "Name after Hello in a hit recording by Armstrong"
+      ],
+      [
+        "JAZZ",
+        "Musical tradition shaped by Armstrong's playing"
+      ],
+      [
+        "VALVE",
+        "Pressed trumpet part changing the length of the air path"
+      ],
+      [
+        "BELL",
+        "Flared opening at the end of the trumpet"
+      ],
+      [
+        "SOLO",
+        "Passage featuring Armstrong apart from the ensemble"
+      ],
+      [
+        "VOICE",
+        "Sound of Armstrong singing instead of playing"
+      ],
+      [
+        "BRASS",
+        "Instrument family to which the trumpet belongs"
+      ],
+      [
+        "SCAT",
+        "Wordless jazz singing using improvised syllables"
+      ]
+    ],
+    "answerNotes": {
+      "LOUIS": "Louis Armstrong was a major figure in jazz as both instrumentalist and vocalist.",
+      "ARMSTRONG": "Armstrong's career extended from New Orleans jazz to internationally popular recordings.",
+      "SATCHMO": "Satchmo is a nickname, not the name of his instrument.",
+      "TRUMPET": "A trumpet produces sound from buzzing lips, rather than a reed.",
+      "WONDERFUL": "The song title is identified without quoting its lyrics."
+    },
+    "requiredAnswers": [
+      "ARMSTRONG"
+    ]
+  },
+  {
+    "id": "classic-voice-memories-5",
+    "title": "Doris Day and a Familiar Refrain",
+    "description": "Recall Doris Day through her name, screen-musical associations, and short words from familiar song titles.",
+    "cardDescription": "Recall Doris Day through her name, screen-musical associations, and short words from familiar song titles.",
+    "subtheme": "Doris Day and a Familiar Refrain",
+    "focus": "Day worked in both recorded music and films; the clues do not require remembering a film's release year.",
+    "solvingTip": "Try the ordinary two- and three-word title components first.",
+    "words": [
+      [
+        "DORIS",
+        "First name of singer and actress Day"
+      ],
+      [
+        "DAY",
+        "Surname of the singer associated with Que Sera, Sera"
+      ],
+      [
+        "SERA",
+        "Repeated word after Que in a familiar Doris Day recording"
+      ],
+      [
+        "SENTIMENTAL",
+        "Nostalgic-sounding adjective before Journey in a Doris Day title"
+      ],
+      [
+        "JOURNEY",
+        "Travel word completing the title Sentimental ___"
+      ],
+      [
+        "QUE",
+        "Three-letter word before Sera, Sera in a Doris Day title"
+      ],
+      [
+        "SECRET",
+        "Word before Love in a Doris Day song title"
+      ],
+      [
+        "LOVE",
+        "Word completing the Day recording Secret ___"
+      ],
+      [
+        "BROWN",
+        "Les whose band recorded Sentimental Journey with Day"
+      ],
+      [
+        "SINGER",
+        "Role Day performed while recording a melody"
+      ],
+      [
+        "ACTRESS",
+        "Day's role when portraying a character on screen"
+      ],
+      [
+        "FILM",
+        "Motion picture featuring an actress and a soundtrack"
+      ],
+      [
+        "BAND",
+        "Group backing a vocalist such as Day"
+      ],
+      [
+        "RECORD",
+        "Disc carrying a Doris Day performance"
+      ]
+    ],
+    "answerNotes": {
+      "DORIS": "Doris Day had a singing career as well as a film career.",
+      "DAY": "Day is the professional surname in this puzzle's title.",
+      "SERA": "Que Sera, Sera is used as a song title; no translated lyric is required.",
+      "SENTIMENTAL": "Sentimental Journey was recorded by Day with Les Brown's band.",
+      "JOURNEY": "The title combines a feeling word and a travel word."
+    },
+    "requiredAnswers": [
+      "DORIS"
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "keyword": "thanksgiving crossword",
+    "intent": "Informational",
+    "volume": 1300,
+    "kd": 7,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving crossword puzzle",
+    "intent": "Informational",
+    "volume": 1600,
+    "kd": 5,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving crossword puzzle with answers",
+    "intent": "Informational",
+    "volume": 110,
+    "kd": 5,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving day crossword printables",
+    "intent": "Informational",
+    "volume": 390,
+    "kd": 7,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving crossword printable",
+    "intent": "Informational",
+    "volume": 260,
+    "kd": 6,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "free printable thanksgiving crossword puzzles for adults",
+    "intent": "Informational",
+    "volume": 40,
+    "kd": 7,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving crossword puzzle free printable pdf",
+    "intent": "Informational",
+    "volume": 90,
+    "kd": 2,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving food crossword",
+    "intent": null,
+    "volume": 20,
+    "kd": null,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "easy thanksgiving crossword",
+    "intent": null,
+    "volume": 20,
+    "kd": null,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "thanksgiving crossword for adults",
+    "intent": null,
+    "volume": 20,
+    "kd": null,
+    "source": "thanksgiving"
+  },
+  {
+    "keyword": "music crossword",
+    "intent": "Informational",
+    "volume": 1900,
+    "kd": 13,
+    "source": "music"
+  },
+  {
+    "keyword": "music crossword puzzles",
+    "intent": "Commercial",
+    "volume": 880,
+    "kd": 10,
+    "source": "music"
+  },
+  {
+    "keyword": "thumbnails in a music collection crossword",
+    "intent": "Informational",
+    "volume": 170,
+    "kd": 7,
+    "source": "music"
+  },
+  {
+    "keyword": "easy music crossword puzzle",
+    "intent": null,
+    "volume": 20,
+    "kd": null,
+    "source": "music"
+  },
+  {
+    "keyword": "music crosswords printable",
+    "intent": "Informational",
+    "volume": 70,
+    "kd": 7,
+    "source": "music"
+  },
+  {
+    "keyword": "music theory crossword puzzles",
+    "intent": null,
+    "volume": 30,
+    "kd": null,
+    "source": "music"
+  },
+  {
+    "keyword": "country music crossword puzzle",
+    "intent": "Informational",
+    "volume": 40,
+    "kd": 3,
+    "source": "music"
+  },
+  {
+    "keyword": "country music crossword puzzles printable",
+    "intent": null,
+    "volume": 20,
+    "kd": null,
+    "source": "music"
+  },
+  {
+    "keyword": "music crossword puzzles printable",
+    "intent": "Informational",
+    "volume": 70,
+    "kd": 6,
+    "source": "music"
+  },
+  {
+    "keyword": "music in the baroque period crossword puzzle answers",
+    "intent": "Informational",
+    "volume": 50,
+    "kd": 7,
+    "source": "music"
+  },
+  {
+    "keyword": "musical instruments crossword puzzle",
+    "intent": "Informational",
+    "volume": 70,
+    "kd": 12,
+    "source": "music"
+  },
+  {
+    "keyword": "musical instrument crossword clue",
+    "intent": "Informational",
+    "volume": 320,
+    "kd": 12,
+    "source": "music"
+  }
+]

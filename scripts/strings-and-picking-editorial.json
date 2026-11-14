@@ -1,0 +1,387 @@
+[
+  {
+    "id": "strings-and-picking",
+    "title": "A Five-String Banjo",
+    "description": "Meet the banjo through its round body, short fifth string, and the movements of a picking hand.",
+    "cardDescription": "Meet the banjo through its round body, short fifth string, and the movements of a picking hand.",
+    "subtheme": "A Five-String Banjo",
+    "focus": "A typical five-string banjo has a shorter fifth string used as a repeating drone.",
+    "solvingTip": "Find the instrument's physical parts before the playing actions.",
+    "words": [
+      [
+        "BANJO",
+        "String instrument with a round membrane-covered body"
+      ],
+      [
+        "DRONE",
+        "Repeated supporting tone from a banjo's short fifth string"
+      ],
+      [
+        "FIFTH",
+        "Position of the banjo string that begins partway along the neck"
+      ],
+      [
+        "HEAD",
+        "Stretched membrane forming the banjo's vibrating surface"
+      ],
+      [
+        "BRIDGE",
+        "Small support carrying the banjo strings above its head"
+      ],
+      [
+        "FINGER",
+        "Part of the picking hand used to sound a string"
+      ],
+      [
+        "THUMB",
+        "Short hand digit often used in banjo picking"
+      ],
+      [
+        "ROLL",
+        "Repeating picking pattern used in some banjo styles"
+      ],
+      [
+        "NECK",
+        "Long narrow part supporting the fingerboard"
+      ],
+      [
+        "FRET",
+        "Raised strip marking a pitch position along the neck"
+      ],
+      [
+        "PEG",
+        "Tuning fitting turned to adjust a string's tension"
+      ],
+      [
+        "PLUCK",
+        "Pull and release a banjo string"
+      ],
+      [
+        "RIM",
+        "Circular frame around the banjo head"
+      ],
+      [
+        "STRAP",
+        "Band supporting the instrument while the player stands"
+      ]
+    ],
+    "answerNotes": {
+      "BANJO": "Banjos have different string arrangements; this puzzle focuses on the five-string type.",
+      "DRONE": "A drone provides a sustained or repeated reference pitch.",
+      "FIFTH": "The short fifth string distinguishes this banjo from common four-string types.",
+      "HEAD": "Head names the membrane rather than the tuning end of the neck.",
+      "BRIDGE": "The bridge transmits string vibration to the membrane."
+    },
+    "requiredAnswers": [
+      "BANJO"
+    ]
+  },
+  {
+    "id": "strings-and-picking-2",
+    "title": "A Mandolin's Paired Strings",
+    "description": "Explore a small picked instrument through its paired strings, curved body, and tremolo sound.",
+    "cardDescription": "Explore a small picked instrument through its paired strings, curved body, and tremolo sound.",
+    "subtheme": "A Mandolin's Paired Strings",
+    "focus": "A common mandolin has eight strings arranged in four pairs, called courses.",
+    "solvingTip": "The number and string-pair clues help cross the instrument's name.",
+    "words": [
+      [
+        "MANDOLIN",
+        "Small fretted instrument commonly strung in four pairs"
+      ],
+      [
+        "COURSE",
+        "Pair of mandolin strings sounded together as one unit"
+      ],
+      [
+        "TREMOLO",
+        "Rapid repeated picking that sustains a mandolin tone"
+      ],
+      [
+        "PLECTRUM",
+        "Another name for the pick used on mandolin strings"
+      ],
+      [
+        "EIGHT",
+        "Usual string count on a standard four-course mandolin"
+      ],
+      [
+        "PAIR",
+        "Two neighboring strings tuned together on a mandolin"
+      ],
+      [
+        "FRET",
+        "Metal strip across the mandolin fingerboard"
+      ],
+      [
+        "PICK",
+        "Small handheld piece used to strike the strings"
+      ],
+      [
+        "BRIDGE",
+        "Support carrying the strings above the instrument's body"
+      ],
+      [
+        "NECK",
+        "Narrow part the player's left hand holds"
+      ],
+      [
+        "TUNE",
+        "Adjust the paired strings to their intended notes"
+      ],
+      [
+        "BODY",
+        "Hollow main section amplifying string vibration"
+      ],
+      [
+        "PEG",
+        "Turning fitting used to change string tension"
+      ],
+      [
+        "CHORD",
+        "Several notes strummed together on the mandolin"
+      ]
+    ],
+    "answerNotes": {
+      "MANDOLIN": "The common eight-string mandolin uses four paired courses, not eight independent courses.",
+      "COURSE": "Course refers to a string grouping rather than a lesson in this clue.",
+      "TREMOLO": "Picking tremolo differs from gently varying the pitch with vibrato.",
+      "PLECTRUM": "A plectrum is held in the hand rather than attached to the instrument.",
+      "EIGHT": "Other mandolin-family instruments can have different string arrangements."
+    },
+    "requiredAnswers": [
+      "MANDOLIN"
+    ]
+  },
+  {
+    "id": "strings-and-picking-3",
+    "title": "A Violin Bow in Its Case",
+    "description": "Look closely at a violin bow through its hair, rosin, grip, and adjustable end fitting.",
+    "cardDescription": "Look closely at a violin bow through its hair, rosin, grip, and adjustable end fitting.",
+    "subtheme": "A Violin Bow in Its Case",
+    "focus": "The bow makes strings vibrate through friction; the instrument's bridge carries that vibration into its body.",
+    "solvingTip": "Separate parts of the bow from parts of the violin.",
+    "words": [
+      [
+        "ROSIN",
+        "Resin preparation rubbed on bow hair for grip"
+      ],
+      [
+        "FROG",
+        "Fitting near a bow's grip that helps hold and tension the hair"
+      ],
+      [
+        "HORSEHAIR",
+        "Traditional material stretched along a violin bow"
+      ],
+      [
+        "SCREW",
+        "Turning fitting used to adjust bow-hair tension"
+      ],
+      [
+        "BOW",
+        "Curved-stick tool drawn across a violin's strings"
+      ],
+      [
+        "VIOLIN",
+        "Four-string bowed instrument kept beside this tool"
+      ],
+      [
+        "STICK",
+        "Long slender wooden or composite part of the bow"
+      ],
+      [
+        "GRIP",
+        "Area where the player's hand holds the bow"
+      ],
+      [
+        "TIP",
+        "End of the bow farthest from the player's hand"
+      ],
+      [
+        "STROKE",
+        "One drawn movement of the bow across a string"
+      ],
+      [
+        "STRING",
+        "Taut part of the violin set vibrating by the bow"
+      ],
+      [
+        "CASE",
+        "Protective container holding the violin and bow"
+      ],
+      [
+        "TIGHTEN",
+        "Increase the tension of the bow hair"
+      ],
+      [
+        "LOOSEN",
+        "Reduce the tension of the bow hair"
+      ]
+    ],
+    "answerNotes": {
+      "ROSIN": "Rosin helps the bow hair catch and release the string during a stroke.",
+      "FROG": "Frog is the bow part, not an animal in this setting.",
+      "HORSEHAIR": "Some bows use synthetic alternatives instead of horsehair.",
+      "SCREW": "The screw changes tension by moving the frog along the stick.",
+      "BOW": "A bow produces vibration through friction rather than direct plucking."
+    },
+    "requiredAnswers": [
+      "ROSIN"
+    ]
+  },
+  {
+    "id": "strings-and-picking-4",
+    "title": "The Sound of a Steel Guitar",
+    "description": "Discover a sliding steel-guitar tone through the bar, strings, pedals, and amplification around the player.",
+    "cardDescription": "Discover a sliding steel-guitar tone through the bar, strings, pedals, and amplification around the player.",
+    "subtheme": "The Sound of a Steel Guitar",
+    "focus": "A steel bar changes the sounding string length; it is different from pressing a string directly to a fret.",
+    "solvingTip": "Use the short equipment words to cross the instrument terms.",
+    "words": [
+      [
+        "STEEL",
+        "Metal bar slid along the strings of this type of guitar"
+      ],
+      [
+        "SLIDE",
+        "Move a bar along a string to change pitch smoothly"
+      ],
+      [
+        "PEDAL",
+        "Foot-operated control changing string pitches on some steel guitars"
+      ],
+      [
+        "LAP",
+        "Body area supporting one common type of steel guitar"
+      ],
+      [
+        "PICKUP",
+        "Device converting steel-guitar string vibration into an electrical signal"
+      ],
+      [
+        "BAR",
+        "Solid handheld piece moved over the steel-guitar strings"
+      ],
+      [
+        "AMP",
+        "Short name for equipment making the electric instrument louder"
+      ],
+      [
+        "STRING",
+        "Taut wire sounded by the player's pick"
+      ],
+      [
+        "PITCH",
+        "How high or low the sliding tone sounds"
+      ],
+      [
+        "LEVER",
+        "Knee-operated control on some pedal steel guitars"
+      ],
+      [
+        "CABLE",
+        "Lead connecting the instrument to its amplifier"
+      ],
+      [
+        "SEAT",
+        "Place occupied by many pedal-steel players"
+      ],
+      [
+        "TONE",
+        "Quality or character of the instrument's sound"
+      ],
+      [
+        "COUNTRY",
+        "Music genre often featuring pedal steel guitar"
+      ]
+    ],
+    "answerNotes": {
+      "STEEL": "Steel guitar takes its name from the sliding bar, not necessarily the body's material.",
+      "SLIDE": "Sliding connects pitches continuously instead of stepping between fixed frets.",
+      "PEDAL": "Pedal steel instruments use mechanisms that alter selected strings' tension.",
+      "LAP": "Lap steel is played horizontally, unlike a conventional upright guitar posture.",
+      "PICKUP": "A pickup feeds a signal to amplification rather than making the final audible sound itself."
+    },
+    "requiredAnswers": [
+      "STEEL"
+    ]
+  },
+  {
+    "id": "strings-and-picking-5",
+    "title": "A Harp Beside the Orchestra",
+    "description": "Examine the strings, frame, and foot pedals of a concert harp through straightforward physical clues.",
+    "cardDescription": "Examine the strings, frame, and foot pedals of a concert harp through straightforward physical clues.",
+    "subtheme": "A Harp Beside the Orchestra",
+    "focus": "A concert harp's pedals change the pitches available from its strings; the player plucks with the fingers.",
+    "solvingTip": "Start with the instrument's shape and the parts touched by hands or feet.",
+    "words": [
+      [
+        "HARP",
+        "Large plucked instrument with strings inside a roughly triangular frame"
+      ],
+      [
+        "COLUMN",
+        "Upright support at the front of a concert harp"
+      ],
+      [
+        "PEDAL",
+        "Foot control changing available pitches on a concert harp"
+      ],
+      [
+        "PLUCK",
+        "Pull and release a harp string with a finger"
+      ],
+      [
+        "GLISSANDO",
+        "Sweep through a sequence of neighboring harp notes"
+      ],
+      [
+        "STRING",
+        "Taut length sounded by the harpist"
+      ],
+      [
+        "FRAME",
+        "Supporting structure surrounding the harp strings"
+      ],
+      [
+        "NECK",
+        "Curving upper part where the strings are attached"
+      ],
+      [
+        "BASE",
+        "Bottom support containing the harp's foot controls"
+      ],
+      [
+        "SEVEN",
+        "Usual number of pedals on a concert harp"
+      ],
+      [
+        "FINGER",
+        "Part of the hand used to sound a harp string"
+      ],
+      [
+        "CHORD",
+        "Group of notes that may be plucked together"
+      ],
+      [
+        "TUNE",
+        "Adjust string pitches before a harp performance"
+      ],
+      [
+        "BENCH",
+        "Seat used by the player beside the harp"
+      ]
+    ],
+    "answerNotes": {
+      "HARP": "Harp designs vary; the concert pedal harp is one particular type.",
+      "COLUMN": "The column helps support the frame against string tension.",
+      "PEDAL": "The usual concert harp has seven pedals, one for each note letter name.",
+      "PLUCK": "Plucking starts the vibration rather than using a bow.",
+      "GLISSANDO": "A glissando is a sweeping musical effect rather than a single held note."
+    },
+    "requiredAnswers": [
+      "HARP"
+    ]
+  }
+]

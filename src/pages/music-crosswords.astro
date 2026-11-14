@@ -1,14 +1,24 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Collection from '../components/Collection.astro';
-import puzzles from '../data/puzzles.json';
-const groups=new Set(['music-memories','american-music','instrument-families','dance-and-song']);
-const selected=puzzles.filter(p=>groups.has(p.series||''));
+import TopicLinks from '../components/TopicLinks.astro';
+import {musicPuzzles} from '../data/music';
+const groups=[
+ {title:'Familiar voices and vocal groups',text:'Try country singers, classic American voices, harmony groups, gospel, or opera. Name and song-title clues use direct identifications; no lyric quotations or release-year quizzes are needed.',ids:['country-voice-memories','classic-voice-memories','vocal-group-memories','voices-in-company']},
+ {title:'Instruments up close',text:'Look inside a keyboard, follow a plucked string, or explore a breath-driven reed. Familiar parts such as a key, string, or case can help with a longer instrument name.',ids:['instrument-families','keyboard-sounds','strings-and-picking','winds-and-bellows']},
+ {title:'American places and sounds',text:'Visit Nashville, Memphis, New Orleans, Detroit, and Austin, or choose jazz, bluegrass, doo-wop, surf, and big-band scenes. Each puzzle gives its own setting.',ids:['american-music','american-music-cities','american-style-memories']},
+ {title:'Reading and making music',text:'Explore staff lines, counting, expression, and the work of conductors, songwriters, producers, and instrument makers. Musical terms have direct definitions, with optional hints for unfamiliar words.',ids:['music-patterns','music-behind-the-scenes']},
+ {title:'Listening and gathering',text:'Browse a record shop, recall cassette controls, or revisit singing and dancing. Choose a scene that interests you; the puzzles do not assume every listener enjoys the same era or style.',ids:['music-memories','dance-and-song','records-and-listening']}
+];
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Music',path:'/music-crosswords/'}];
 ---
-<Layout title="Free Music Crossword Puzzles in Large Print" description="Play easy music crosswords with large letters and clear clues. Explore familiar instruments, jazz, country, folk, dancing and singing, or print a puzzle and answers." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Free Music Crossword Puzzles in Large Print" description="Explore free music crosswords for adults: country singers, classic voices, instruments and American music cities. Play online or print 18pt clues and answers." breadcrumbs={breadcrumbs} active="puzzles">
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Music</span></nav>
-<header class="page-heading"><p class="eyebrow">FAMILIAR SOUNDS · CLEAR CLUES</p><h1>Music crosswords in large print.</h1><p>Explore {selected.length} music mini crosswords about familiar instruments, jazz, country, folk, dancing, and singing. Play online or print a puzzle and separate answers.</p></header>
-
-<Collection items={selected}/><div class="prose"><h2>Follow a familiar tune</h2><p>Look for the instrument, the sound, or the action described in a clue. A short everyday word can help cross a longer instrument name. Each puzzle has a specific solving tip and three optional explanations of actual answers.</p><p>Play at your own pace with hints when needed, or print the clue sheet and a separate answer sheet. No account or timer is required.</p></div><p class="section"><a href="/sports-crosswords/">Explore sports crosswords →</a> · <a href="/crosswords/">Browse all puzzles →</a></p></div>
+<header class="page-heading"><p class="eyebrow">FAMILIAR SOUNDS · CLEAR CLUES</p><h1>Music crosswords in large print.</h1><p>Choose from {musicPuzzles.length} themed mini crosswords about singers, instruments, recorded sound, and musical places. Play online with hints or print a puzzle and its separate answer sheet. No account or timer is required.</p></header>
+<p class="notice">Print pages start with 18pt clues on two US Letter pages. A compact 13pt single-page option is also available. Song-title puzzles include names and factual clues; some musical vocabulary may be less familiar.</p>
+<Collection items={musicPuzzles}/>
+<div class="prose"><h2>Choose your way into the music</h2>
+{groups.map(group=><section><h3>{group.title}</h3><p>{group.text}</p><ul>{group.ids.map(id=>{const p=musicPuzzles.find(p=>p.id===id)!;return <li><a href={`/crosswords/${id}/`}>{p.title}</a> · <a href={`/print/${id}/`} aria-label={`Print ${p.title}`}>Print</a></li>;})}</ul></section>)}
+<h2>Enjoy the clues at your own pace</h2><p>Start with a familiar name, object, or action. Its letters can help with a longer musical term. Each puzzle has a focused solving tip and three optional explanations tied to answers in that grid. Keep explanations closed until you want help, or use Reveal letter for one crossing.</p><p>Open a print sheet and select the larger two-page or compact one-page layout. Choose US Letter, portrait, and 100% scale. Your browser can print it or save it as a PDF; the separate answer sheet uses the same layout choice. Copies are free for personal use and noncommercial group activities.</p></div>
+<div class="section"><TopicLinks/></div></div>
 </Layout>

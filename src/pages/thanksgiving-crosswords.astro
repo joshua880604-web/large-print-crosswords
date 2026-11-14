@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import {thanksgivingPuzzles} from '../data/seasonal';
+const groups=[
+ {title:'Around the holiday table',text:'Choose a dinner, parade, family gathering, kitchen-helper scene, pie plate, or note of thanks. These focus on everyday holiday words rather than a school history worksheet.',ids:['holiday-table','thanksgiving-together','thanksgiving-together-2','thanksgiving-together-3','thanksgiving-together-4','thanksgiving-together-5']},
+ {title:'A closer look at the side dishes',text:'Cranberries, sweet potatoes, gravy, dinner rolls, and mashed potatoes each have their own ingredients, textures, and tools. These are word puzzles rather than complete recipes.',ids:['thanksgiving-sides','thanksgiving-sides-2','thanksgiving-sides-3','thanksgiving-sides-4','thanksgiving-sides-5']},
+ {title:'Sharing the day',text:'Pack leftovers, coordinate a potluck, make a holiday rail visit, preserve a family recipe, or take a neighborhood walk. Pick the scene you enjoy; traditions differ between households.',ids:['thanksgiving-sharing','thanksgiving-sharing-2','thanksgiving-sharing-3','thanksgiving-sharing-4','thanksgiving-sharing-5']}
+];
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Thanksgiving',path:'/thanksgiving-crosswords/'}];
+---
+<Layout title="Free Thanksgiving Crossword Puzzles for Adults in Large Print" description="Enjoy Thanksgiving crosswords about familiar food, gatherings and sharing. Play online or print 18pt clues with a separate answer sheet, free without sign-up." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Thanksgiving</span></nav>
+<header class="page-heading"><p class="eyebrow">FOOD · FAMILY · SHARING</p><h1>Thanksgiving crossword puzzles in large print.</h1><p>Choose from {thanksgivingPuzzles.length} original mini crosswords for adults, with direct clues about a familiar meal and the small moments around it. Play online at your own pace or print a puzzle and its separate answers. No account or timer is required.</p></header>
+<p class="notice">The default print layout uses 18pt clues on two US Letter pages. For a shorter handout, choose the compact 13pt single-page option.</p>
+<Collection items={thanksgivingPuzzles}/>
+<div class="prose"><h2>Choose a Thanksgiving scene</h2>{groups.map(group=><section><h3>{group.title}</h3><p>{group.text}</p><ul>{group.ids.map(id=>{const p=thanksgivingPuzzles.find(p=>p.id===id)!;return <li><a href={`/crosswords/${id}/`}>{p.title}</a> · <a href={`/print/${id}/`} aria-label={`Print ${p.title}`}>Print</a></li>;})}</ul></section>)}
+<h2>Print a puzzle and keep the answers separate</h2><p>Open the Print link beside a title and choose your layout. The 18pt version puts the larger board first and the clues second; the compact version places both on one page. Open Separate answer sheet when you want a copy for checking. In the browser print dialog, use US Letter, portrait, and 100% scale, with browser headers and footers turned off. Save as PDF is available through that same dialog.</p><p>Copies are free for personal use and noncommercial group activities. For a shared table, let each person choose a scene and work at their own pace; explanations and answer sheets can wait until everyone wants them.</p>
+<h2>A little help with the words</h2><p>Try a short ingredient, utensil, or family word first. Crossing letters can help with a longer answer. Online hints and three optional answer explanations are included in every game.</p></div>
+<div class="section"><TopicLinks/></div></div>
+</Layout>

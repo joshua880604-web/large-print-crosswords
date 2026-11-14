@@ -1,13 +1,13 @@
 {
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
-    "puzzles": 400,
-    "clueEntries": 4476,
-    "distinctAnswers": 2202,
-    "distinctAnswerCluePairs": 4476,
-    "distinctIntroductions": 400,
+    "puzzles": 500,
+    "clueEntries": 5592,
+    "distinctAnswers": 2543,
+    "distinctAnswerCluePairs": 5592,
+    "distinctIntroductions": 500,
     "numberedTitles": 0,
-    "editedEditions": 400
+    "editedEditions": 500
   },
   "refinedSeries": [
     {
@@ -2409,6 +2409,606 @@
         "A Snow Globe on the Mantel",
         "Strings of Outdoor Holiday Lights"
       ]
+    },
+    {
+      "id": "thanksgiving-sides",
+      "name": "Thanksgiving Side Dishes",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "thanksgiving-sides",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Cranberries Beside the Roast",
+        "Sweet Potatoes from the Oven",
+        "Getting the Gravy Ready",
+        "A Basket of Dinner Rolls",
+        "Mashed Potatoes at the Table"
+      ]
+    },
+    {
+      "id": "thanksgiving-sharing",
+      "name": "Sharing Thanksgiving",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "thanksgiving-sharing",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "Packing Thanksgiving Leftovers",
+        "Bringing a Dish to the Potluck",
+        "A Thanksgiving Visit by Train",
+        "Keeping a Family Recipe Card",
+        "A Walk After Thanksgiving Dinner"
+      ]
+    },
+    {
+      "id": "christmas-kitchen",
+      "name": "Christmas Kitchen Traditions",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "christmas-kitchen",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Baking a Christmas Stollen",
+        "Sharing an Italian Panettone",
+        "A Christmas Cookie Exchange",
+        "A Bowl of Warm Wassail",
+        "An Evening Yule Log Cake"
+      ]
+    },
+    {
+      "id": "christmas-post-and-paper",
+      "name": "Christmas Post and Paper",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "christmas-post-and-paper",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Folding a Christmas Paper Star",
+        "Making a Christmas Pop-Up Card",
+        "Making a Christmas Paper Chain",
+        "A Christmas Package in the Mail",
+        "Folding a Christmas Gift Bag"
+      ]
+    },
+    {
+      "id": "christmas-around-the-room",
+      "name": "Christmas Around the Room",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "christmas-around-the-room",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Christmas Cracker at Each Place",
+        "A Nativity Scene on the Sideboard",
+        "A Christmas Pyramid Turning Slowly",
+        "A Christmas Tree Skirt Below the Branches",
+        "A Handmade Felt Christmas Ornament"
+      ]
+    },
+    {
+      "id": "winter-backyard",
+      "name": "Winter Backyard Observations",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "winter-backyard",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "A Deer at the Winter Tree Line",
+        "Visitors at the Winter Bird Feeder",
+        "Evergreen Branches in Winter",
+        "The Edge of a Frozen Garden Pond",
+        "A Winter Woodpile by the Shed"
+      ]
+    },
+    {
+      "id": "winter-weather-scenes",
+      "name": "Understanding Winter Weather",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "winter-weather-scenes",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Looking Closely at a Snowflake",
+        "Sleet, Snow, and Freezing Rain",
+        "Shorter Days and Low Winter Sun",
+        "Wind Chill on a Winter Morning",
+        "Snowplows on the Neighborhood Street"
+      ]
+    },
+    {
+      "id": "winter-pastimes",
+      "name": "Winter Pastimes",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "winter-pastimes",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Watching a Curling Match",
+        "Snowshoes Beside the Trail",
+        "Cross-Country Skis at the Lodge",
+        "A Sled Waiting by the Snowy Hill",
+        "A Bobsled on the Ice Run"
+      ]
+    },
+    {
+      "id": "country-voice-memories",
+      "name": "Country Voice Memories",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "country-voice-memories",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Dolly Parton on the Record Sleeve",
+        "Patsy Cline and a Classic Country Voice",
+        "Johnny Cash and Songs of Travel",
+        "Willie Nelson and a Road Song",
+        "Hank Williams and Country Song Titles"
+      ]
+    },
+    {
+      "id": "classic-voice-memories",
+      "name": "Classic American Voices",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "classic-voice-memories",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.143
+      },
+      "subjects": [
+        "Ella Fitzgerald and a Jazz Standard",
+        "Nat King Cole at the Piano",
+        "Frank Sinatra and an Orchestra",
+        "Louis Armstrong and His Trumpet",
+        "Doris Day and a Familiar Refrain"
+      ]
+    },
+    {
+      "id": "vocal-group-memories",
+      "name": "Vocal Group Memories",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "vocal-group-memories",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Four Names from the Beatles",
+        "The Beach Boys and a Surf Sound",
+        "The Supremes on a Motown Record",
+        "The Temptations and a Vocal Lineup",
+        "The Everly Brothers in Harmony"
+      ]
+    },
+    {
+      "id": "american-music-cities",
+      "name": "American Music City Stops",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "american-music-cities",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "Country Music in Nashville",
+        "A Memphis Music Stop",
+        "Jazz in New Orleans",
+        "Detroit and the Motown Sound",
+        "Live Music in Austin"
+      ]
+    },
+    {
+      "id": "records-and-listening",
+      "name": "Records and Listening",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "records-and-listening",
+        "puzzles": 5,
+        "entries": 59,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 59,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.045
+      },
+      "subjects": [
+        "Browsing a Neighborhood Record Shop",
+        "Reading an Album Cover",
+        "A Cassette in the Tape Deck",
+        "Listening Through Stereo Headphones",
+        "A Reel-to-Reel Tape Recorder"
+      ]
+    },
+    {
+      "id": "keyboard-sounds",
+      "name": "Keyboard Sounds and Mechanisms",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "keyboard-sounds",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "Inside a Pipe Organ",
+        "A Piano Tuner's Visit",
+        "A Harpsichord in the Music Room",
+        "The Player Piano's Paper Roll",
+        "A Portable Electronic Keyboard"
+      ]
+    },
+    {
+      "id": "strings-and-picking",
+      "name": "Strings and Picking",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "strings-and-picking",
+        "puzzles": 5,
+        "entries": 59,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 59,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "A Five-String Banjo",
+        "A Mandolin's Paired Strings",
+        "A Violin Bow in Its Case",
+        "The Sound of a Steel Guitar",
+        "A Harp Beside the Orchestra"
+      ]
+    },
+    {
+      "id": "winds-and-bellows",
+      "name": "Winds and Bellows",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "winds-and-bellows",
+        "puzzles": 5,
+        "entries": 58,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 58,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.15
+      },
+      "subjects": [
+        "A Harmonica in a Small Case",
+        "Putting a Clarinet Together",
+        "A Saxophone on Its Stand",
+        "A Melodica's Breath and Keys",
+        "A Recorder's Finger Holes"
+      ]
+    },
+    {
+      "id": "music-patterns",
+      "name": "Music Patterns Made Clear",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "music-patterns",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 57,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Notes on a Musical Staff",
+        "Counting a Simple Musical Beat",
+        "Major, Minor, and Musical Steps",
+        "Loud, Soft, and Shaping a Phrase",
+        "Finding Your Place in Sheet Music"
+      ]
+    },
+    {
+      "id": "voices-in-company",
+      "name": "Voices in Company",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "voices-in-company",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.158
+      },
+      "subjects": [
+        "A Barbershop Quartet",
+        "Call and Response in Gospel Singing",
+        "Voices on an Opera Stage",
+        "Singing a Round Together",
+        "Singing Without Instruments"
+      ]
+    },
+    {
+      "id": "american-style-memories",
+      "name": "American Style Memories",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "american-style-memories",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "Doo-Wop on a Street Corner",
+        "Surf Guitar and a Summer Sound",
+        "Bluegrass Around One Microphone",
+        "Disco Under a Mirror Ball",
+        "A Big Band on the Bandstand"
+      ]
+    },
+    {
+      "id": "music-behind-the-scenes",
+      "name": "Music Behind the Scenes",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "music-behind-the-scenes",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "The Conductor's Rehearsal",
+        "A Songwriter's Notebook",
+        "A Record Producer at Work",
+        "At the Sound Engineer's Console",
+        "A Guitar Maker's Workbench"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -2445,6 +3045,19 @@
       "sameSeries": false
     },
     {
+      "first": "american-music",
+      "second": "american-style-memories-5",
+      "sharedAnswers": [
+        "SWING",
+        "BRASS",
+        "PIANO",
+        "RIFF",
+        "BASS"
+      ],
+      "jaccard": 0.294,
+      "sameSeries": false
+    },
+    {
       "first": "by-the-sea-4",
       "second": "summer-afternoons-5",
       "sharedAnswers": [
@@ -2453,6 +3066,19 @@
         "KNOT",
         "DOCK",
         "OAR"
+      ],
+      "jaccard": 0.294,
+      "sameSeries": false
+    },
+    {
+      "first": "instrument-families",
+      "second": "strings-and-picking-2",
+      "sharedAnswers": [
+        "CHORD",
+        "TUNE",
+        "NECK",
+        "PICK",
+        "PEG"
       ],
       "jaccard": 0.294,
       "sameSeries": false
@@ -2609,6 +3235,18 @@
       "sameSeries": false
     },
     {
+      "first": "bakers-specialties-3",
+      "second": "thanksgiving-sides-5",
+      "sharedAnswers": [
+        "BUTTER",
+        "STEAM",
+        "FORK",
+        "MILK"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": false
+    },
+    {
       "first": "collections-and-keepsakes-3",
       "second": "collections-and-keepsakes-5",
       "sharedAnswers": [
@@ -2631,42 +3269,6 @@
       ],
       "jaccard": 0.222,
       "sameSeries": false
-    },
-    {
-      "first": "everyday-meals",
-      "second": "american-regional-tables-4",
-      "sharedAnswers": [
-        "SPOON",
-        "MILK",
-        "EGG",
-        "POT"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": false
-    },
-    {
-      "first": "familiar-vehicles-2",
-      "second": "familiar-vehicles-5",
-      "sharedAnswers": [
-        "ROUTE",
-        "SEAT",
-        "STOP",
-        "STEP"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": true
-    },
-    {
-      "first": "flowers-through-the-year-3",
-      "second": "flowers-through-the-year-5",
-      "sharedAnswers": [
-        "BLOOM",
-        "LEAF",
-        "STEM",
-        "BUD"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": true
     }
   ],
   "series": [
@@ -3624,6 +4226,246 @@
       "entries": 56,
       "uniqueAnswers": 54,
       "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "thanksgiving-sides",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "thanksgiving-sharing",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
+    },
+    {
+      "id": "christmas-kitchen",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "christmas-post-and-paper",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "christmas-around-the-room",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "winter-backyard",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "winter-weather-scenes",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "winter-pastimes",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "country-voice-memories",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "classic-voice-memories",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.143
+    },
+    {
+      "id": "vocal-group-memories",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "american-music-cities",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "records-and-listening",
+      "puzzles": 5,
+      "entries": 59,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 59,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.045
+    },
+    {
+      "id": "keyboard-sounds",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "strings-and-picking",
+      "puzzles": 5,
+      "entries": 59,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 59,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "winds-and-bellows",
+      "puzzles": 5,
+      "entries": 58,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 58,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.15
+    },
+    {
+      "id": "music-patterns",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 57,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "voices-in-company",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.158
+    },
+    {
+      "id": "american-style-memories",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "music-behind-the-scenes",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 55,
       "uniqueIntroductions": 5,
       "numberedTitles": 0,
       "editedEditions": 5,

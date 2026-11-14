@@ -1,0 +1,387 @@
+[
+  {
+    "id": "music-behind-the-scenes",
+    "title": "The Conductor's Rehearsal",
+    "description": "Follow a conductor through the baton, score, cues, and ensemble work of a rehearsal.",
+    "cardDescription": "Follow a conductor through the baton, score, cues, and ensemble work of a rehearsal.",
+    "subtheme": "The Conductor's Rehearsal",
+    "focus": "A conductor coordinates timing and expression; the score shows the parts being brought together.",
+    "solvingTip": "The short gesture words help cross the longer rehearsal terms.",
+    "words": [
+      [
+        "CONDUCTOR",
+        "Person guiding an ensemble's timing and expression"
+      ],
+      [
+        "BATON",
+        "Thin stick used to make conducting gestures visible"
+      ],
+      [
+        "PODIUM",
+        "Raised platform where a conductor may stand"
+      ],
+      [
+        "SCORE",
+        "Written music showing the ensemble's parts together"
+      ],
+      [
+        "CUE",
+        "Gesture signaling a musician's entrance"
+      ],
+      [
+        "BEAT",
+        "Regular pulse shown by the conductor's movements"
+      ],
+      [
+        "TEMPO",
+        "Speed the conductor establishes for a passage"
+      ],
+      [
+        "REHEARSAL",
+        "Practice session before the public performance"
+      ],
+      [
+        "PAUSE",
+        "Brief stop used to explain or retry a passage"
+      ],
+      [
+        "SECTION",
+        "Related instruments asked to practice together"
+      ],
+      [
+        "PAGE",
+        "One side of the conductor's printed score"
+      ],
+      [
+        "HAND",
+        "Body part shaping a visible musical gesture"
+      ],
+      [
+        "START",
+        "Begin playing together on the conductor's signal"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to how one's part fits the ensemble"
+      ]
+    ],
+    "answerNotes": {
+      "CONDUCTOR": "Conductors coordinate a performance rather than supplying every sound themselves.",
+      "BATON": "Some conductors use only their hands instead of a baton.",
+      "PODIUM": "A podium helps musicians see the conductor's gestures.",
+      "SCORE": "The conductor's score differs from a player's single instrumental part.",
+      "CUE": "A cue marks a specific moment rather than the whole beat pattern."
+    },
+    "requiredAnswers": [
+      "CONDUCTOR"
+    ]
+  },
+  {
+    "id": "music-behind-the-scenes-2",
+    "title": "A Songwriter's Notebook",
+    "description": "Collect the melody, title, rhyme, and working drafts of a song in progress.",
+    "cardDescription": "Collect the melody, title, rhyme, and working drafts of a song in progress.",
+    "subtheme": "A Songwriter's Notebook",
+    "focus": "A songwriter may create words, music, or both; collaborators can divide those roles in different ways.",
+    "solvingTip": "Start with ordinary writing objects, then identify the song's sections.",
+    "words": [
+      [
+        "SONGWRITER",
+        "Person creating a song's words, music, or both"
+      ],
+      [
+        "LYRICIST",
+        "Writer specializing in the words of a song"
+      ],
+      [
+        "MELODY",
+        "Main tune being developed for the new song"
+      ],
+      [
+        "RHYME",
+        "Similarity of ending sounds used in some song lines"
+      ],
+      [
+        "DRAFT",
+        "Early working version of a song"
+      ],
+      [
+        "TITLE",
+        "Name chosen for the finished song"
+      ],
+      [
+        "VERSE",
+        "Song section often carrying new story words each time"
+      ],
+      [
+        "CHORUS",
+        "Recurring song section often carrying the main hook"
+      ],
+      [
+        "HOOK",
+        "Memorable musical or verbal idea in a song"
+      ],
+      [
+        "PENCIL",
+        "Erasable writing tool used in a music notebook"
+      ],
+      [
+        "PAGE",
+        "One sheet surface holding the working notes"
+      ],
+      [
+        "DEMO",
+        "Sample recording presenting a song idea"
+      ],
+      [
+        "BRIDGE",
+        "Contrasting song section connecting other sections"
+      ],
+      [
+        "IDEA",
+        "Starting thought that may grow into a song"
+      ]
+    ],
+    "answerNotes": {
+      "SONGWRITER": "Songwriting credits can be shared by collaborators with different contributions.",
+      "LYRICIST": "A lyricist's work is distinct from composing the melody, although one person may do both.",
+      "MELODY": "Melody concerns pitches through time rather than the words themselves.",
+      "RHYME": "Songs may rhyme, but rhyme is not required for every song.",
+      "DRAFT": "A draft can be changed before a final performance or recording."
+    },
+    "requiredAnswers": [
+      "SONGWRITER"
+    ]
+  },
+  {
+    "id": "music-behind-the-scenes-3",
+    "title": "A Record Producer at Work",
+    "description": "Explore a recording session through takes, arrangements, and the decisions that shape a finished release.",
+    "cardDescription": "Explore a recording session through takes, arrangements, and the decisions that shape a finished release.",
+    "subtheme": "A Record Producer at Work",
+    "focus": "The producer helps guide the overall recording; engineers handle technical tasks, with responsibilities sometimes overlapping.",
+    "solvingTip": "Use the workflow verbs before the studio-job titles.",
+    "words": [
+      [
+        "PRODUCER",
+        "Person guiding the overall creation of a recording"
+      ],
+      [
+        "TAKE",
+        "One recorded attempt at a performance"
+      ],
+      [
+        "SESSION",
+        "Scheduled period of studio recording work"
+      ],
+      [
+        "OVERDUB",
+        "New recorded part added alongside existing recorded material"
+      ],
+      [
+        "ARRANGEMENT",
+        "Plan for how a song's voices and instruments fit together"
+      ],
+      [
+        "ARTIST",
+        "Performer whose name appears on the release"
+      ],
+      [
+        "STUDIO",
+        "Place where the recording team works with microphones"
+      ],
+      [
+        "MIX",
+        "Balance the recorded parts into a combined version"
+      ],
+      [
+        "EDIT",
+        "Select or change portions of recorded material"
+      ],
+      [
+        "PLAYBACK",
+        "Listening to material that has just been recorded"
+      ],
+      [
+        "TRACK",
+        "Separate recorded part within a studio project"
+      ],
+      [
+        "PLAN",
+        "Decide the order of work before the musicians begin"
+      ],
+      [
+        "LISTEN",
+        "Judge the recorded performance by hearing it"
+      ],
+      [
+        "SONG",
+        "Musical work being prepared for the record"
+      ]
+    ],
+    "answerNotes": {
+      "PRODUCER": "A producer's exact role depends on the project and its working team.",
+      "TAKE": "Several takes may be recorded before a preferred version is chosen.",
+      "SESSION": "A session may produce one song, many parts, or only a small passage.",
+      "OVERDUB": "Overdubbing allows parts to be recorded at different times.",
+      "ARRANGEMENT": "An arrangement shapes the performance before or during recording."
+    },
+    "requiredAnswers": [
+      "PRODUCER"
+    ]
+  },
+  {
+    "id": "music-behind-the-scenes-4",
+    "title": "At the Sound Engineer's Console",
+    "description": "Read a recording desk through its faders, inputs, meters, and audio signal controls.",
+    "cardDescription": "Read a recording desk through its faders, inputs, meters, and audio signal controls.",
+    "subtheme": "At the Sound Engineer's Console",
+    "focus": "Gain adjusts signal level at an input stage; a fader is one control used when balancing a mix.",
+    "solvingTip": "Identify the visible controls before the signal-path words.",
+    "words": [
+      [
+        "ENGINEER",
+        "Studio worker managing the technical capture and handling of sound"
+      ],
+      [
+        "FADER",
+        "Sliding control used to adjust an audio level"
+      ],
+      [
+        "INPUT",
+        "Connection or channel receiving an incoming audio signal"
+      ],
+      [
+        "GAIN",
+        "Control adjusting signal amplification at an audio stage"
+      ],
+      [
+        "METER",
+        "Display showing an audio signal's level"
+      ],
+      [
+        "CONSOLE",
+        "Desk containing a set of audio mixing controls"
+      ],
+      [
+        "CABLE",
+        "Flexible lead carrying an audio signal"
+      ],
+      [
+        "MIC",
+        "Short term for the device converting sound to an electrical signal"
+      ],
+      [
+        "MUTE",
+        "Silence a selected audio channel"
+      ],
+      [
+        "SOLO",
+        "Listen to one channel apart from the others"
+      ],
+      [
+        "PAN",
+        "Control placing sound toward the left or right channel"
+      ],
+      [
+        "KNOB",
+        "Round control turned to change an audio setting"
+      ],
+      [
+        "OUTPUT",
+        "Connection carrying a signal away from the console"
+      ],
+      [
+        "MIX",
+        "Combined balance of the recorded audio parts"
+      ]
+    ],
+    "answerNotes": {
+      "ENGINEER": "Recording engineers use microphones and audio equipment to capture performances.",
+      "FADER": "A fader differs physically from a rotary knob.",
+      "INPUT": "Input describes the signal's entry, while output describes its exit.",
+      "GAIN": "Gain and listening volume are related but are not always the same control.",
+      "METER": "A meter provides visual information to help avoid unwanted overload."
+    },
+    "requiredAnswers": [
+      "ENGINEER"
+    ]
+  },
+  {
+    "id": "music-behind-the-scenes-5",
+    "title": "A Guitar Maker's Workbench",
+    "description": "Visit a luthier through wood, braces, clamps, and the parts of an acoustic guitar body.",
+    "cardDescription": "Visit a luthier through wood, braces, clamps, and the parts of an acoustic guitar body.",
+    "subtheme": "A Guitar Maker's Workbench",
+    "focus": "A luthier makes or repairs string instruments; this bench focuses on an acoustic guitar.",
+    "solvingTip": "The workshop tools provide familiar letters for the trade name.",
+    "words": [
+      [
+        "LUTHIER",
+        "Craftsperson making or repairing string instruments"
+      ],
+      [
+        "BRACE",
+        "Wooden support fitted inside an acoustic guitar body"
+      ],
+      [
+        "SOUNDBOARD",
+        "Main vibrating top panel of an acoustic guitar"
+      ],
+      [
+        "CLAMP",
+        "Tool holding glued guitar parts together while they set"
+      ],
+      [
+        "ROSETTE",
+        "Decorative ring around an acoustic guitar's sound hole"
+      ],
+      [
+        "WOOD",
+        "Material used for the guitar's body panels"
+      ],
+      [
+        "GLUE",
+        "Adhesive joining the guitar's wooden parts"
+      ],
+      [
+        "NECK",
+        "Long narrow part carrying the fingerboard"
+      ],
+      [
+        "FRET",
+        "Metal strip marking a note position along the neck"
+      ],
+      [
+        "FILE",
+        "Hand tool used to shape a small part by abrasion"
+      ],
+      [
+        "SAND",
+        "Smooth a wooden surface with abrasive paper"
+      ],
+      [
+        "BRIDGE",
+        "Top-mounted part anchoring and supporting the guitar strings"
+      ],
+      [
+        "NUT",
+        "Small slotted support at the end of the fingerboard"
+      ],
+      [
+        "FINISH",
+        "Protective surface coating applied to the completed body"
+      ]
+    ],
+    "answerNotes": {
+      "LUTHIER": "Luthiers can work on bowed as well as plucked string instruments.",
+      "BRACE": "Braces strengthen the body and influence how its panels vibrate.",
+      "SOUNDBOARD": "The soundboard helps transfer string vibration into audible sound.",
+      "CLAMP": "Clamps apply pressure rather than cutting or shaping the wood.",
+      "ROSETTE": "A rosette decorates the opening rather than holding the strings."
+    },
+    "requiredAnswers": [
+      "LUTHIER"
+    ]
+  }
+]

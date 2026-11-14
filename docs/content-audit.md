@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 400 current puzzles; 4476 clue entries.
-- 2202 distinct answers; 4476 distinct answer/clue pairs.
-- 400 different introductions; 0 numbered titles remain.
-- 400 editions have dedicated subject notes and answer explanations.
+- 500 current puzzles; 5592 clue entries.
+- 2543 distinct answers; 5592 distinct answer/clue pairs.
+- 500 different introductions; 0 numbered titles remain.
+- 500 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -629,11 +629,151 @@ Subjects: Everyday Opposites, Letters You Do Not Hear, Putting Two Small Words T
 
 Subjects: Making a Christmas Door Wreath, A Christmas Nutcracker on the Shelf, Opening an Advent Calendar, A Snow Globe on the Mantel, Strings of Outdoor Holiday Lights.
 
+## Thanksgiving Side Dishes: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Cranberries Beside the Roast, Sweet Potatoes from the Oven, Getting the Gravy Ready, A Basket of Dinner Rolls, Mashed Potatoes at the Table.
+
+## Sharing Thanksgiving: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Packing Thanksgiving Leftovers, Bringing a Dish to the Potluck, A Thanksgiving Visit by Train, Keeping a Family Recipe Card, A Walk After Thanksgiving Dinner.
+
+## Christmas Kitchen Traditions: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Baking a Christmas Stollen, Sharing an Italian Panettone, A Christmas Cookie Exchange, A Bowl of Warm Wassail, An Evening Yule Log Cake.
+
+## Christmas Post and Paper: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Folding a Christmas Paper Star, Making a Christmas Pop-Up Card, Making a Christmas Paper Chain, A Christmas Package in the Mail, Folding a Christmas Gift Bag.
+
+## Christmas Around the Room: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Christmas Cracker at Each Place, A Nativity Scene on the Sideboard, A Christmas Pyramid Turning Slowly, A Christmas Tree Skirt Below the Branches, A Handmade Felt Christmas Ornament.
+
+## Winter Backyard Observations: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Deer at the Winter Tree Line, Visitors at the Winter Bird Feeder, Evergreen Branches in Winter, The Edge of a Frozen Garden Pond, A Winter Woodpile by the Shed.
+
+## Understanding Winter Weather: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Looking Closely at a Snowflake, Sleet, Snow, and Freezing Rain, Shorter Days and Low Winter Sun, Wind Chill on a Winter Morning, Snowplows on the Neighborhood Street.
+
+## Winter Pastimes: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Watching a Curling Match, Snowshoes Beside the Trail, Cross-Country Skis at the Lodge, A Sled Waiting by the Snowy Hill, A Bobsled on the Ice Run.
+
+## Country Voice Memories: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Dolly Parton on the Record Sleeve, Patsy Cline and a Classic Country Voice, Johnny Cash and Songs of Travel, Willie Nelson and a Road Song, Hank Williams and Country Song Titles.
+
+## Classic American Voices: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Ella Fitzgerald and a Jazz Standard, Nat King Cole at the Piano, Frank Sinatra and an Orchestra, Louis Armstrong and His Trumpet, Doris Day and a Familiar Refrain.
+
+## Vocal Group Memories: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Four Names from the Beatles, The Beach Boys and a Surf Sound, The Supremes on a Motown Record, The Temptations and a Vocal Lineup, The Everly Brothers in Harmony.
+
+## American Music City Stops: five first editions
+
+- 52 clues; 52 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Country Music in Nashville, A Memphis Music Stop, Jazz in New Orleans, Detroit and the Motown Sound, Live Music in Austin.
+
+## Records and Listening: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Browsing a Neighborhood Record Shop, Reading an Album Cover, A Cassette in the Tape Deck, Listening Through Stereo Headphones, A Reel-to-Reel Tape Recorder.
+
+## Keyboard Sounds and Mechanisms: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Inside a Pipe Organ, A Piano Tuner's Visit, A Harpsichord in the Music Room, The Player Piano's Paper Roll, A Portable Electronic Keyboard.
+
+## Strings and Picking: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Five-String Banjo, A Mandolin's Paired Strings, A Violin Bow in Its Case, The Sound of a Steel Guitar, A Harp Beside the Orchestra.
+
+## Winds and Bellows: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Harmonica in a Small Case, Putting a Clarinet Together, A Saxophone on Its Stand, A Melodica's Breath and Keys, A Recorder's Finger Holes.
+
+## Music Patterns Made Clear: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Notes on a Musical Staff, Counting a Simple Musical Beat, Major, Minor, and Musical Steps, Loud, Soft, and Shaping a Phrase, Finding Your Place in Sheet Music.
+
+## Voices in Company: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Barbershop Quartet, Call and Response in Gospel Singing, Voices on an Opera Stage, Singing a Round Together, Singing Without Instruments.
+
+## American Style Memories: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Doo-Wop on a Street Corner, Surf Guitar and a Summer Sound, Bluegrass Around One Microphone, Disco Under a Mirror Ball, A Big Band on the Bandstand.
+
+## Music Behind the Scenes: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: The Conductor's Rehearsal, A Songwriter's Notebook, A Record Producer at Work, At the Sound Engineer's Console, A Guitar Maker's Workbench.
+
 The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 400 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 500 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -717,5 +857,25 @@ All 400 current puzzles have dedicated editorial content. Continue reviewing clu
 | everyday-materials | 55 | 55 | 5 | 0 |
 | word-patterns | 56 | 56 | 5 | 0 |
 | winter-holiday-crafts | 56 | 56 | 5 | 0 |
+| thanksgiving-sides | 56 | 56 | 5 | 0 |
+| thanksgiving-sharing | 57 | 57 | 5 | 0 |
+| christmas-kitchen | 55 | 55 | 5 | 0 |
+| christmas-post-and-paper | 55 | 55 | 5 | 0 |
+| christmas-around-the-room | 56 | 56 | 5 | 0 |
+| winter-backyard | 54 | 54 | 5 | 0 |
+| winter-weather-scenes | 55 | 55 | 5 | 0 |
+| winter-pastimes | 55 | 55 | 5 | 0 |
+| country-voice-memories | 54 | 54 | 5 | 0 |
+| classic-voice-memories | 57 | 57 | 5 | 0 |
+| vocal-group-memories | 55 | 55 | 5 | 0 |
+| american-music-cities | 52 | 52 | 5 | 0 |
+| records-and-listening | 59 | 59 | 5 | 0 |
+| keyboard-sounds | 57 | 57 | 5 | 0 |
+| strings-and-picking | 59 | 59 | 5 | 0 |
+| winds-and-bellows | 58 | 58 | 5 | 0 |
+| music-patterns | 57 | 57 | 5 | 0 |
+| voices-in-company | 56 | 56 | 5 | 0 |
+| american-style-memories | 54 | 54 | 5 | 0 |
+| music-behind-the-scenes | 55 | 55 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

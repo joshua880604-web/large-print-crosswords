@@ -1,12 +1,15 @@
 ---
 import PuzzleNotes from '../../components/PuzzleNotes.astro';import Layout from '../../layouts/Layout.astro';import Game from '../../components/Game.astro';import PuzzleCard from '../../components/PuzzleCard.astro';import puzzles from '../../data/puzzles.json';
 import {christmasPuzzleIds} from '../../data/christmas';
+import {musicPuzzleIds} from '../../data/music';
+import {thanksgivingPuzzleIds,winterPuzzleIds} from '../../data/seasonal';
 export function getStaticPaths(){return puzzles.map(puzzle=>({params:{slug:puzzle.id},props:{puzzle}}));}
 const {puzzle}=Astro.props;
-const musicSeries=['music-memories','american-music','instrument-families','dance-and-song'];
 const topic=christmasPuzzleIds.has(puzzle.id)?{path:'/christmas-crosswords/',name:'Christmas'}
+ :thanksgivingPuzzleIds.has(puzzle.id)?{path:'/thanksgiving-crosswords/',name:'Thanksgiving'}
+ :winterPuzzleIds.has(puzzle.id)?{path:'/winter-crosswords/',name:'winter'}
  :puzzle.theme==='Sports'?{path:'/sports-crosswords/',name:'sports'}
- :musicSeries.includes(puzzle.series||'')?{path:'/music-crosswords/',name:'music'}
+ :musicPuzzleIds.has(puzzle.id)?{path:'/music-crosswords/',name:'music'}
  :puzzle.series==='geography-journeys'||puzzle.series==='state-capital-stops'?{path:'/geography-crosswords/',name:'geography and state capitals'}
  :puzzle.series==='american-history-scenes'?{path:'/american-history-crosswords/',name:'American history'}
  :puzzle.series==='texas-scenes'?{path:'/texas-crosswords/',name:'Texas'}:null;

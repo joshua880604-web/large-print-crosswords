@@ -1,0 +1,387 @@
+[
+  {
+    "id": "keyboard-sounds",
+    "title": "Inside a Pipe Organ",
+    "description": "Explore organ pipes, keyboards, and airflow through directly defined parts of a large musical instrument.",
+    "cardDescription": "Explore organ pipes, keyboards, and airflow through directly defined parts of a large musical instrument.",
+    "subtheme": "Inside a Pipe Organ",
+    "focus": "An organ's keys control air reaching pipes; it does not make sound by striking piano strings.",
+    "solvingTip": "The shortest airflow words help cross the longer instrument parts.",
+    "words": [
+      [
+        "ORGAN",
+        "Keyboard instrument that can sound ranks of air-driven pipes"
+      ],
+      [
+        "MANUAL",
+        "Keyboard played by the hands on an organ"
+      ],
+      [
+        "PEDALBOARD",
+        "Foot-operated keyboard beneath an organ console"
+      ],
+      [
+        "STOP",
+        "Control selecting a set or type of organ pipes"
+      ],
+      [
+        "BELLOWS",
+        "Device supplying or regulating air for an organ"
+      ],
+      [
+        "PIPE",
+        "Sounding tube in an acoustic organ"
+      ],
+      [
+        "AIR",
+        "Moving gas that makes an organ pipe sound"
+      ],
+      [
+        "KEY",
+        "Lever pressed by an organist's finger"
+      ],
+      [
+        "RANK",
+        "Set of organ pipes sharing a tonal character"
+      ],
+      [
+        "CONSOLE",
+        "Playing station containing an organ's keyboards and controls"
+      ],
+      [
+        "BENCH",
+        "Seat occupied by the organist"
+      ],
+      [
+        "CHURCH",
+        "Building often housing a large pipe organ"
+      ],
+      [
+        "BASS",
+        "Low musical range often played with organ pedals"
+      ],
+      [
+        "CHORD",
+        "Several notes sounded together on the organ"
+      ]
+    ],
+    "answerNotes": {
+      "ORGAN": "A pipe organ uses moving air, unlike an electronic instrument imitating its sound.",
+      "MANUAL": "Manual distinguishes a hand keyboard from the pedalboard.",
+      "PEDALBOARD": "The organist's feet can play a separate musical part.",
+      "STOP": "Stops change the available sound by controlling which pipes receive air.",
+      "BELLOWS": "Traditional organs used bellows; modern installations commonly include electric blowers."
+    },
+    "requiredAnswers": [
+      "ORGAN"
+    ]
+  },
+  {
+    "id": "keyboard-sounds-2",
+    "title": "A Piano Tuner's Visit",
+    "description": "Follow a piano tuner through the tuning lever, strings, and quiet comparison of pitches.",
+    "cardDescription": "Follow a piano tuner through the tuning lever, strings, and quiet comparison of pitches.",
+    "subtheme": "A Piano Tuner's Visit",
+    "focus": "Tuning changes string tension; it is different from repairing a worn key or hammer action.",
+    "solvingTip": "Read whether a clue asks for a tool, a sound, or an adjustment.",
+    "words": [
+      [
+        "TUNER",
+        "Person adjusting piano strings to their intended pitches"
+      ],
+      [
+        "LEVER",
+        "Special tool used to turn a piano's tuning pins"
+      ],
+      [
+        "PIN",
+        "Metal fitting turned to change a piano string's tension"
+      ],
+      [
+        "TENSION",
+        "Pulling force changed when a piano string is tuned"
+      ],
+      [
+        "UNISON",
+        "Same pitch sounded by several piano strings for one note"
+      ],
+      [
+        "STRING",
+        "Taut wire producing a piano tone when struck"
+      ],
+      [
+        "MUTE",
+        "Soft wedge used to silence neighboring strings during tuning"
+      ],
+      [
+        "PITCH",
+        "How high or low a piano note sounds"
+      ],
+      [
+        "BEAT",
+        "Pulsing heard when two nearly equal pitches sound together"
+      ],
+      [
+        "EAR",
+        "Body part used to listen for tuning differences"
+      ],
+      [
+        "TOOL",
+        "Implement carried in the visiting tuner's case"
+      ],
+      [
+        "KEY",
+        "Piano lever pressed to test a note"
+      ],
+      [
+        "OCTAVE",
+        "Interval spanning eight letter-name steps in a scale"
+      ],
+      [
+        "QUIET",
+        "Room condition helping the tuner listen carefully"
+      ]
+    ],
+    "answerNotes": {
+      "TUNER": "A tuner listens and measures while changing the tension of strings.",
+      "LEVER": "A tuning lever is sometimes called a tuning hammer, but it does not strike the strings.",
+      "PIN": "The tuning pin holds the adjusted string tension.",
+      "TENSION": "Changing tension changes pitch when other string properties stay the same.",
+      "UNISON": "Many piano notes use more than one string sounding together."
+    },
+    "requiredAnswers": [
+      "TUNER"
+    ]
+  },
+  {
+    "id": "keyboard-sounds-3",
+    "title": "A Harpsichord in the Music Room",
+    "description": "Discover the plucked sound of a harpsichord through its keyboard, strings, and small moving parts.",
+    "cardDescription": "Discover the plucked sound of a harpsichord through its keyboard, strings, and small moving parts.",
+    "subtheme": "A Harpsichord in the Music Room",
+    "focus": "A harpsichord plucks its strings, whereas a piano's hammers strike theirs.",
+    "solvingTip": "Start with the familiar keyboard words before the plucking mechanism.",
+    "words": [
+      [
+        "HARPSICHORD",
+        "Keyboard instrument whose strings are plucked rather than struck"
+      ],
+      [
+        "PLECTRUM",
+        "Small piece that plucks a harpsichord string"
+      ],
+      [
+        "JACK",
+        "Upright part carrying the harpsichord's plucking piece"
+      ],
+      [
+        "QUILL",
+        "Bird-feather shaft historically used for harpsichord picks"
+      ],
+      [
+        "BAROQUE",
+        "Historical musical period associated with much harpsichord music"
+      ],
+      [
+        "STRING",
+        "Taut wire plucked inside the harpsichord"
+      ],
+      [
+        "KEY",
+        "Lever played by a finger on the instrument's keyboard"
+      ],
+      [
+        "PLUCK",
+        "Pull and release a string to start its sound"
+      ],
+      [
+        "LID",
+        "Hinged top covering the instrument's strings"
+      ],
+      [
+        "CASE",
+        "Outer wooden body housing the mechanism"
+      ],
+      [
+        "TUNE",
+        "Adjust the strings to their intended pitches"
+      ],
+      [
+        "BACH",
+        "Composer Johann Sebastian associated with Baroque keyboard music"
+      ],
+      [
+        "BENCH",
+        "Seat in front of the keyboard"
+      ],
+      [
+        "NOTE",
+        "Single pitched sound produced by pressing a key"
+      ]
+    ],
+    "answerNotes": {
+      "HARPSICHORD": "A harpsichord's mechanism differs from the hammer action of a piano.",
+      "PLECTRUM": "Plectrum is another word for a plucking pick.",
+      "JACK": "A jack rises when its corresponding key is pressed.",
+      "QUILL": "Modern replacement plectra may use synthetic materials instead.",
+      "BAROQUE": "Harpsichords existed before and continued after the Baroque period."
+    },
+    "requiredAnswers": [
+      "HARPSICHORD"
+    ]
+  },
+  {
+    "id": "keyboard-sounds-4",
+    "title": "The Player Piano's Paper Roll",
+    "description": "Recall a player piano through perforated paper, foot pedals, and the moving roll that controls its notes.",
+    "cardDescription": "Recall a player piano through perforated paper, foot pedals, and the moving roll that controls its notes.",
+    "subtheme": "The Player Piano's Paper Roll",
+    "focus": "A traditional pneumatic player piano reads holes in a paper roll rather than a digital file.",
+    "solvingTip": "Find the paper-related answers before the air-powered parts.",
+    "words": [
+      [
+        "PLAYER",
+        "Word before piano for an instrument operated by a perforated roll"
+      ],
+      [
+        "PERFORATION",
+        "Hole cut in the paper to encode a player-piano note"
+      ],
+      [
+        "TRACKER",
+        "Word before bar for the strip that reads holes in a piano roll"
+      ],
+      [
+        "PNEUMATIC",
+        "Operated by air pressure, as a traditional player-piano mechanism"
+      ],
+      [
+        "ROLL",
+        "Long paper strip wound between spools on a player piano"
+      ],
+      [
+        "PAPER",
+        "Material carrying the holes in a traditional piano roll"
+      ],
+      [
+        "PEDAL",
+        "Foot lever used to pump air on some player pianos"
+      ],
+      [
+        "SPOOL",
+        "Cylinder around which the music roll is wound"
+      ],
+      [
+        "HOLE",
+        "Opening in the paper that triggers part of the mechanism"
+      ],
+      [
+        "TEMPO",
+        "Playback speed controlled by an adjustment lever"
+      ],
+      [
+        "REWIND",
+        "Return the paper roll toward its beginning"
+      ],
+      [
+        "AIR",
+        "Working medium inside the pneumatic mechanism"
+      ],
+      [
+        "KEY",
+        "Piano lever that may move as the roll plays"
+      ],
+      [
+        "BENCH",
+        "Seat in front of the player piano"
+      ]
+    ],
+    "answerNotes": {
+      "PLAYER": "Player pianos can also have keys that a person plays conventionally.",
+      "PERFORATION": "Rows of holes guide the mechanism that operates the piano action.",
+      "TRACKER": "The tracker bar contains openings aligned with the paper's encoded paths.",
+      "PNEUMATIC": "Pneumatic systems use pressure differences rather than an electronic audio recording.",
+      "ROLL": "The roll encodes note instructions rather than storing a microphone recording."
+    },
+    "requiredAnswers": [
+      "PLAYER"
+    ]
+  },
+  {
+    "id": "keyboard-sounds-5",
+    "title": "A Portable Electronic Keyboard",
+    "description": "Explore a home keyboard through its selected sounds, speakers, power supply, and rhythm controls.",
+    "cardDescription": "Explore a home keyboard through its selected sounds, speakers, power supply, and rhythm controls.",
+    "subtheme": "A Portable Electronic Keyboard",
+    "focus": "An electronic keyboard produces sound electronically; its keys need not operate physical strings.",
+    "solvingTip": "The familiar controls provide short answers around the longer instrument words.",
+    "words": [
+      [
+        "KEYBOARD",
+        "Portable electronic instrument with piano-like keys"
+      ],
+      [
+        "PRESET",
+        "Stored sound or setting selected with a button"
+      ],
+      [
+        "SPEAKER",
+        "Part converting the keyboard's electrical signal into audible sound"
+      ],
+      [
+        "ADAPTER",
+        "External power supply plugged into some keyboards"
+      ],
+      [
+        "RHYTHM",
+        "Pattern supplied by an automatic backing feature"
+      ],
+      [
+        "KEY",
+        "White or black lever played with a finger"
+      ],
+      [
+        "VOLUME",
+        "Control setting the instrument's output loudness"
+      ],
+      [
+        "STAND",
+        "Support holding the portable instrument at playing height"
+      ],
+      [
+        "BANK",
+        "Stored group of sounds or settings"
+      ],
+      [
+        "VOICE",
+        "Selectable instrument sound on many electronic keyboards"
+      ],
+      [
+        "PIANO",
+        "Familiar acoustic instrument imitated by a keyboard setting"
+      ],
+      [
+        "BEAT",
+        "Regular pulse in the automatic accompaniment"
+      ],
+      [
+        "CORD",
+        "Flexible lead carrying power to the keyboard"
+      ],
+      [
+        "PEDAL",
+        "Foot control used for sustain on many keyboard models"
+      ]
+    ],
+    "answerNotes": {
+      "KEYBOARD": "A keyboard can offer many sounds without containing the corresponding acoustic instruments.",
+      "PRESET": "A preset recalls a prepared configuration instead of building one from scratch.",
+      "SPEAKER": "Speakers produce the sound heard outside the instrument.",
+      "ADAPTER": "Some keyboards can also use batteries; power arrangements vary.",
+      "RHYTHM": "An automatic rhythm can provide a steady accompaniment for practice."
+    },
+    "requiredAnswers": [
+      "KEYBOARD"
+    ]
+  }
+]

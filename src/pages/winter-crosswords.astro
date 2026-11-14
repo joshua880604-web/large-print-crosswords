@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import {winterPuzzles} from '../data/seasonal';
+const groups=[
+ {title:'Comforts and familiar scenes',text:'Choose a frosty window, snowman, skating rink, warm cupboard, or soup pot. These everyday objects offer a gentle place to start.',ids:['winter-comforts','winter-comforts-2','winter-comforts-3','winter-comforts-4','winter-comforts-5']},
+ {title:'Watching the winter backyard',text:'Observe deer, feeder birds, evergreen branches, a pond edge, and split firewood. Some species and tree features vary by region; the clues identify the feature they mean.',ids:['winter-backyard','winter-backyard-2','winter-backyard-3','winter-backyard-4','winter-backyard-5']},
+ {title:'Weather made clearer',text:'Explore snow crystals, precipitation types, short days, wind chill, and snowplows. Optional explanations distinguish related words, such as sleet and freezing rain.',ids:['winter-weather-scenes','winter-weather-scenes-2','winter-weather-scenes-3','winter-weather-scenes-4','winter-weather-scenes-5']},
+ {title:'Winter pastimes to recognize',text:'Watch curling or bobsledding, or explore the equipment of snowshoeing, cross-country skiing, and sledding. These puzzles introduce basic objects and actions without requiring sporting statistics.',ids:['winter-pastimes','winter-pastimes-2','winter-pastimes-3','winter-pastimes-4','winter-pastimes-5']}
+];
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Winter',path:'/winter-crosswords/'}];
+---
+<Layout title="Free Winter Crossword Puzzles for Adults in Large Print" description="Explore winter crosswords about backyard wildlife, weather, cozy scenes and snowy pastimes. Play online or print large 18pt clues and a separate answer sheet." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Winter</span></nav>
+<header class="page-heading"><p class="eyebrow">WINTER SCENES · YOUR OWN PACE</p><h1>Winter crossword puzzles in large print.</h1><p>Explore {winterPuzzles.length} original mini crosswords about familiar comforts, winter nature, weather, and snowy pastimes. Choose a scene, play with hints, or print a puzzle and its separate answers. No account or timer is required.</p></header>
+<p class="notice">Print with 18pt clues and a larger board on two US Letter pages, or choose the compact 13pt single-page layout.</p>
+<Collection items={winterPuzzles}/>
+<div class="prose"><h2>Find a winter scene you enjoy</h2>{groups.map(group=><section><h3>{group.title}</h3><p>{group.text}</p><ul>{group.ids.map(id=>{const p=winterPuzzles.find(p=>p.id===id)!;return <li><a href={`/crosswords/${id}/`}>{p.title}</a> · <a href={`/print/${id}/`} aria-label={`Print ${p.title}`}>Print</a></li>;})}</ul></section>)}
+<h2>From a familiar word to a new one</h2><p>Begin with an object such as a scarf, seed, ski, or cloud. A few longer nature and weather terms have direct definitions and optional explanations. Each game also supplies a specific solving tip, and Reveal letter can help with a crossing.</p><h2>A larger printout for a quiet afternoon</h2><p>The default 18pt layout separates the larger grid and the clues onto two pages. A compact 13pt version keeps them on one page. Choose the matching answer sheet when you want to check your work. Use US Letter, portrait, and 100% scale in the browser's Print or Save as PDF dialog, with browser headers and footers off.</p><p>Copies are free for personal use and noncommercial group activities.</p></div>
+<div class="section"><TopicLinks/></div></div>
+</Layout>

@@ -1,0 +1,101 @@
+id,title,series,theme,clues,rows,cols,definingAnswers,play,print
+thanksgiving-sides,Cranberries Beside the Roast,Thanksgiving Side Dishes,Seasons,12,11,10,CRANBERRY,/crosswords/thanksgiving-sides/,/print/thanksgiving-sides/
+thanksgiving-sides-2,Sweet Potatoes from the Oven,Thanksgiving Side Dishes,Seasons,11,10,11,SWEETPOTATO,/crosswords/thanksgiving-sides-2/,/print/thanksgiving-sides-2/
+thanksgiving-sides-3,Getting the Gravy Ready,Thanksgiving Side Dishes,Seasons,11,11,10,GRAVY,/crosswords/thanksgiving-sides-3/,/print/thanksgiving-sides-3/
+thanksgiving-sides-4,A Basket of Dinner Rolls,Thanksgiving Side Dishes,Seasons,11,11,10,YEAST,/crosswords/thanksgiving-sides-4/,/print/thanksgiving-sides-4/
+thanksgiving-sides-5,Mashed Potatoes at the Table,Thanksgiving Side Dishes,Seasons,11,11,10,POTATO,/crosswords/thanksgiving-sides-5/,/print/thanksgiving-sides-5/
+thanksgiving-sharing,Packing Thanksgiving Leftovers,Sharing Thanksgiving,Seasons,11,10,10,LEFTOVERS,/crosswords/thanksgiving-sharing/,/print/thanksgiving-sharing/
+thanksgiving-sharing-2,Bringing a Dish to the Potluck,Sharing Thanksgiving,Seasons,11,11,11,POTLUCK,/crosswords/thanksgiving-sharing-2/,/print/thanksgiving-sharing-2/
+thanksgiving-sharing-3,A Thanksgiving Visit by Train,Sharing Thanksgiving,Seasons,12,11,11,REUNION,/crosswords/thanksgiving-sharing-3/,/print/thanksgiving-sharing-3/
+thanksgiving-sharing-4,Keeping a Family Recipe Card,Sharing Thanksgiving,Seasons,12,10,11,RECIPE,/crosswords/thanksgiving-sharing-4/,/print/thanksgiving-sharing-4/
+thanksgiving-sharing-5,A Walk After Thanksgiving Dinner,Sharing Thanksgiving,Seasons,11,9,9,SIDEWALK,/crosswords/thanksgiving-sharing-5/,/print/thanksgiving-sharing-5/
+christmas-kitchen,Baking a Christmas Stollen,Christmas Kitchen Traditions,Seasons,11,10,11,STOLLEN,/crosswords/christmas-kitchen/,/print/christmas-kitchen/
+christmas-kitchen-2,Sharing an Italian Panettone,Christmas Kitchen Traditions,Seasons,11,11,10,PANETTONE,/crosswords/christmas-kitchen-2/,/print/christmas-kitchen-2/
+christmas-kitchen-3,A Christmas Cookie Exchange,Christmas Kitchen Traditions,Seasons,11,11,10,EXCHANGE,/crosswords/christmas-kitchen-3/,/print/christmas-kitchen-3/
+christmas-kitchen-4,A Bowl of Warm Wassail,Christmas Kitchen Traditions,Seasons,11,11,11,WASSAIL,/crosswords/christmas-kitchen-4/,/print/christmas-kitchen-4/
+christmas-kitchen-5,An Evening Yule Log Cake,Christmas Kitchen Traditions,Seasons,11,9,11,YULELOG,/crosswords/christmas-kitchen-5/,/print/christmas-kitchen-5/
+christmas-post-and-paper,Folding a Christmas Paper Star,Christmas Post and Paper,Seasons,11,10,10,STAR,/crosswords/christmas-post-and-paper/,/print/christmas-post-and-paper/
+christmas-post-and-paper-2,Making a Christmas Pop-Up Card,Christmas Post and Paper,Seasons,11,9,11,POPUP,/crosswords/christmas-post-and-paper-2/,/print/christmas-post-and-paper-2/
+christmas-post-and-paper-3,Making a Christmas Paper Chain,Christmas Post and Paper,Seasons,11,11,9,CHAIN,/crosswords/christmas-post-and-paper-3/,/print/christmas-post-and-paper-3/
+christmas-post-and-paper-4,A Christmas Package in the Mail,Christmas Post and Paper,Seasons,11,11,11,PARCEL,/crosswords/christmas-post-and-paper-4/,/print/christmas-post-and-paper-4/
+christmas-post-and-paper-5,Folding a Christmas Gift Bag,Christmas Post and Paper,Seasons,11,9,10,TISSUE,/crosswords/christmas-post-and-paper-5/,/print/christmas-post-and-paper-5/
+christmas-around-the-room,A Christmas Cracker at Each Place,Christmas Around the Room,Seasons,12,10,11,CRACKER,/crosswords/christmas-around-the-room/,/print/christmas-around-the-room/
+christmas-around-the-room-2,A Nativity Scene on the Sideboard,Christmas Around the Room,Seasons,10,9,11,NATIVITY,/crosswords/christmas-around-the-room-2/,/print/christmas-around-the-room-2/
+christmas-around-the-room-3,A Christmas Pyramid Turning Slowly,Christmas Around the Room,Seasons,12,11,11,PYRAMID,/crosswords/christmas-around-the-room-3/,/print/christmas-around-the-room-3/
+christmas-around-the-room-4,A Christmas Tree Skirt Below the Branches,Christmas Around the Room,Seasons,11,11,9,TREESKIRT,/crosswords/christmas-around-the-room-4/,/print/christmas-around-the-room-4/
+christmas-around-the-room-5,A Handmade Felt Christmas Ornament,Christmas Around the Room,Seasons,11,11,11,ORNAMENT,/crosswords/christmas-around-the-room-5/,/print/christmas-around-the-room-5/
+winter-backyard,A Deer at the Winter Tree Line,Winter Backyard Observations,Nature,11,9,11,DEER,/crosswords/winter-backyard/,/print/winter-backyard/
+winter-backyard-2,Visitors at the Winter Bird Feeder,Winter Backyard Observations,Nature,10,10,10,CHICKADEE,/crosswords/winter-backyard-2/,/print/winter-backyard-2/
+winter-backyard-3,Evergreen Branches in Winter,Winter Backyard Observations,Nature,11,10,10,NEEDLE,/crosswords/winter-backyard-3/,/print/winter-backyard-3/
+winter-backyard-4,The Edge of a Frozen Garden Pond,Winter Backyard Observations,Nature,11,9,11,FREEZE,/crosswords/winter-backyard-4/,/print/winter-backyard-4/
+winter-backyard-5,A Winter Woodpile by the Shed,Winter Backyard Observations,Nature,11,10,11,FIREWOOD,/crosswords/winter-backyard-5/,/print/winter-backyard-5/
+winter-weather-scenes,Looking Closely at a Snowflake,Understanding Winter Weather,Everyday Science,11,11,11,SNOWFLAKE,/crosswords/winter-weather-scenes/,/print/winter-weather-scenes/
+winter-weather-scenes-2,"Sleet, Snow, and Freezing Rain",Understanding Winter Weather,Everyday Science,11,11,8,SLEET,/crosswords/winter-weather-scenes-2/,/print/winter-weather-scenes-2/
+winter-weather-scenes-3,Shorter Days and Low Winter Sun,Understanding Winter Weather,Everyday Science,11,11,10,SOLSTICE,/crosswords/winter-weather-scenes-3/,/print/winter-weather-scenes-3/
+winter-weather-scenes-4,Wind Chill on a Winter Morning,Understanding Winter Weather,Everyday Science,11,10,11,WINDCHILL,/crosswords/winter-weather-scenes-4/,/print/winter-weather-scenes-4/
+winter-weather-scenes-5,Snowplows on the Neighborhood Street,Understanding Winter Weather,Everyday Science,11,11,10,SNOWPLOW,/crosswords/winter-weather-scenes-5/,/print/winter-weather-scenes-5/
+winter-pastimes,Watching a Curling Match,Winter Pastimes,Classic Pastimes,10,8,11,CURLING,/crosswords/winter-pastimes/,/print/winter-pastimes/
+winter-pastimes-2,Snowshoes Beside the Trail,Winter Pastimes,Classic Pastimes,11,11,10,SNOWSHOE,/crosswords/winter-pastimes-2/,/print/winter-pastimes-2/
+winter-pastimes-3,Cross-Country Skis at the Lodge,Winter Pastimes,Classic Pastimes,12,11,10,GLIDE,/crosswords/winter-pastimes-3/,/print/winter-pastimes-3/
+winter-pastimes-4,A Sled Waiting by the Snowy Hill,Winter Pastimes,Classic Pastimes,11,11,9,SLED,/crosswords/winter-pastimes-4/,/print/winter-pastimes-4/
+winter-pastimes-5,A Bobsled on the Ice Run,Winter Pastimes,Classic Pastimes,11,10,10,BOBSLED,/crosswords/winter-pastimes-5/,/print/winter-pastimes-5/
+country-voice-memories,Dolly Parton on the Record Sleeve,Country Voice Memories,Music,11,11,10,DOLLY,/crosswords/country-voice-memories/,/print/country-voice-memories/
+country-voice-memories-2,Patsy Cline and a Classic Country Voice,Country Voice Memories,Music,11,11,10,PATSY,/crosswords/country-voice-memories-2/,/print/country-voice-memories-2/
+country-voice-memories-3,Johnny Cash and Songs of Travel,Country Voice Memories,Music,10,9,9,CASH,/crosswords/country-voice-memories-3/,/print/country-voice-memories-3/
+country-voice-memories-4,Willie Nelson and a Road Song,Country Voice Memories,Music,11,11,11,WILLIE,/crosswords/country-voice-memories-4/,/print/country-voice-memories-4/
+country-voice-memories-5,Hank Williams and Country Song Titles,Country Voice Memories,Music,11,10,11,HANK,/crosswords/country-voice-memories-5/,/print/country-voice-memories-5/
+classic-voice-memories,Ella Fitzgerald and a Jazz Standard,Classic American Voices,Music,12,11,11,ELLA,/crosswords/classic-voice-memories/,/print/classic-voice-memories/
+classic-voice-memories-2,Nat King Cole at the Piano,Classic American Voices,Music,12,11,10,COLE,/crosswords/classic-voice-memories-2/,/print/classic-voice-memories-2/
+classic-voice-memories-3,Frank Sinatra and an Orchestra,Classic American Voices,Music,11,11,10,SINATRA,/crosswords/classic-voice-memories-3/,/print/classic-voice-memories-3/
+classic-voice-memories-4,Louis Armstrong and His Trumpet,Classic American Voices,Music,11,11,10,ARMSTRONG,/crosswords/classic-voice-memories-4/,/print/classic-voice-memories-4/
+classic-voice-memories-5,Doris Day and a Familiar Refrain,Classic American Voices,Music,11,11,11,DORIS,/crosswords/classic-voice-memories-5/,/print/classic-voice-memories-5/
+vocal-group-memories,Four Names from the Beatles,Vocal Group Memories,Music,11,10,9,BEATLES,/crosswords/vocal-group-memories/,/print/vocal-group-memories/
+vocal-group-memories-2,The Beach Boys and a Surf Sound,Vocal Group Memories,Music,11,11,10,BEACHBOYS,/crosswords/vocal-group-memories-2/,/print/vocal-group-memories-2/
+vocal-group-memories-3,The Supremes on a Motown Record,Vocal Group Memories,Music,11,9,10,SUPREMES,/crosswords/vocal-group-memories-3/,/print/vocal-group-memories-3/
+vocal-group-memories-4,The Temptations and a Vocal Lineup,Vocal Group Memories,Music,11,9,11,TEMPTATIONS,/crosswords/vocal-group-memories-4/,/print/vocal-group-memories-4/
+vocal-group-memories-5,The Everly Brothers in Harmony,Vocal Group Memories,Music,11,11,9,EVERLY,/crosswords/vocal-group-memories-5/,/print/vocal-group-memories-5/
+american-music-cities,Country Music in Nashville,American Music City Stops,Music,10,9,11,NASHVILLE,/crosswords/american-music-cities/,/print/american-music-cities/
+american-music-cities-2,A Memphis Music Stop,American Music City Stops,Music,11,11,11,MEMPHIS,/crosswords/american-music-cities-2/,/print/american-music-cities-2/
+american-music-cities-3,Jazz in New Orleans,American Music City Stops,Music,10,10,10,NEWORLEANS,/crosswords/american-music-cities-3/,/print/american-music-cities-3/
+american-music-cities-4,Detroit and the Motown Sound,American Music City Stops,Music,10,11,9,DETROIT,/crosswords/american-music-cities-4/,/print/american-music-cities-4/
+american-music-cities-5,Live Music in Austin,American Music City Stops,Music,11,9,11,AUSTIN,/crosswords/american-music-cities-5/,/print/american-music-cities-5/
+records-and-listening,Browsing a Neighborhood Record Shop,Records and Listening,Music,12,11,10,SLEEVE,/crosswords/records-and-listening/,/print/records-and-listening/
+records-and-listening-2,Reading an Album Cover,Records and Listening,Music,11,9,11,LINER,/crosswords/records-and-listening-2/,/print/records-and-listening-2/
+records-and-listening-3,A Cassette in the Tape Deck,Records and Listening,Music,12,11,10,CASSETTE,/crosswords/records-and-listening-3/,/print/records-and-listening-3/
+records-and-listening-4,Listening Through Stereo Headphones,Records and Listening,Music,12,11,11,HEADPHONES,/crosswords/records-and-listening-4/,/print/records-and-listening-4/
+records-and-listening-5,A Reel-to-Reel Tape Recorder,Records and Listening,Music,12,11,11,REEL,/crosswords/records-and-listening-5/,/print/records-and-listening-5/
+keyboard-sounds,Inside a Pipe Organ,Keyboard Sounds and Mechanisms,Music,12,11,11,ORGAN,/crosswords/keyboard-sounds/,/print/keyboard-sounds/
+keyboard-sounds-2,A Piano Tuner's Visit,Keyboard Sounds and Mechanisms,Music,12,11,10,TUNER,/crosswords/keyboard-sounds-2/,/print/keyboard-sounds-2/
+keyboard-sounds-3,A Harpsichord in the Music Room,Keyboard Sounds and Mechanisms,Music,11,11,11,HARPSICHORD,/crosswords/keyboard-sounds-3/,/print/keyboard-sounds-3/
+keyboard-sounds-4,The Player Piano's Paper Roll,Keyboard Sounds and Mechanisms,Music,11,11,11,PLAYER,/crosswords/keyboard-sounds-4/,/print/keyboard-sounds-4/
+keyboard-sounds-5,A Portable Electronic Keyboard,Keyboard Sounds and Mechanisms,Music,11,11,11,KEYBOARD,/crosswords/keyboard-sounds-5/,/print/keyboard-sounds-5/
+strings-and-picking,A Five-String Banjo,Strings and Picking,Music,12,10,11,BANJO,/crosswords/strings-and-picking/,/print/strings-and-picking/
+strings-and-picking-2,A Mandolin's Paired Strings,Strings and Picking,Music,11,11,10,MANDOLIN,/crosswords/strings-and-picking-2/,/print/strings-and-picking-2/
+strings-and-picking-3,A Violin Bow in Its Case,Strings and Picking,Music,12,11,10,ROSIN,/crosswords/strings-and-picking-3/,/print/strings-and-picking-3/
+strings-and-picking-4,The Sound of a Steel Guitar,Strings and Picking,Music,12,9,11,STEEL,/crosswords/strings-and-picking-4/,/print/strings-and-picking-4/
+strings-and-picking-5,A Harp Beside the Orchestra,Strings and Picking,Music,12,10,11,HARP,/crosswords/strings-and-picking-5/,/print/strings-and-picking-5/
+winds-and-bellows,A Harmonica in a Small Case,Winds and Bellows,Music,11,11,9,HARMONICA,/crosswords/winds-and-bellows/,/print/winds-and-bellows/
+winds-and-bellows-2,Putting a Clarinet Together,Winds and Bellows,Music,12,11,10,CLARINET,/crosswords/winds-and-bellows-2/,/print/winds-and-bellows-2/
+winds-and-bellows-3,A Saxophone on Its Stand,Winds and Bellows,Music,12,11,9,SAXOPHONE,/crosswords/winds-and-bellows-3/,/print/winds-and-bellows-3/
+winds-and-bellows-4,A Melodica's Breath and Keys,Winds and Bellows,Music,12,9,11,MELODICA,/crosswords/winds-and-bellows-4/,/print/winds-and-bellows-4/
+winds-and-bellows-5,A Recorder's Finger Holes,Winds and Bellows,Music,11,9,11,RECORDER,/crosswords/winds-and-bellows-5/,/print/winds-and-bellows-5/
+music-patterns,Notes on a Musical Staff,Music Patterns Made Clear,Music,12,11,11,STAFF,/crosswords/music-patterns/,/print/music-patterns/
+music-patterns-2,Counting a Simple Musical Beat,Music Patterns Made Clear,Music,12,11,10,PULSE,/crosswords/music-patterns-2/,/print/music-patterns-2/
+music-patterns-3,"Major, Minor, and Musical Steps",Music Patterns Made Clear,Music,11,10,11,SCALE,/crosswords/music-patterns-3/,/print/music-patterns-3/
+music-patterns-4,"Loud, Soft, and Shaping a Phrase",Music Patterns Made Clear,Music,11,11,10,DYNAMICS,/crosswords/music-patterns-4/,/print/music-patterns-4/
+music-patterns-5,Finding Your Place in Sheet Music,Music Patterns Made Clear,Music,11,11,9,MEASURE,/crosswords/music-patterns-5/,/print/music-patterns-5/
+voices-in-company,A Barbershop Quartet,Voices in Company,Music,11,11,10,BARBERSHOP,/crosswords/voices-in-company/,/print/voices-in-company/
+voices-in-company-2,Call and Response in Gospel Singing,Voices in Company,Music,11,10,10,RESPONSE,/crosswords/voices-in-company-2/,/print/voices-in-company-2/
+voices-in-company-3,Voices on an Opera Stage,Voices in Company,Music,12,11,11,OPERA,/crosswords/voices-in-company-3/,/print/voices-in-company-3/
+voices-in-company-4,Singing a Round Together,Voices in Company,Music,11,11,10,ROUND,/crosswords/voices-in-company-4/,/print/voices-in-company-4/
+voices-in-company-5,Singing Without Instruments,Voices in Company,Music,11,11,10,ACAPPELLA,/crosswords/voices-in-company-5/,/print/voices-in-company-5/
+american-style-memories,Doo-Wop on a Street Corner,American Style Memories,Music,11,11,10,DOOWOP,/crosswords/american-style-memories/,/print/american-style-memories/
+american-style-memories-2,Surf Guitar and a Summer Sound,American Style Memories,Music,11,10,10,SURF,/crosswords/american-style-memories-2/,/print/american-style-memories-2/
+american-style-memories-3,Bluegrass Around One Microphone,American Style Memories,Music,11,11,11,BLUEGRASS,/crosswords/american-style-memories-3/,/print/american-style-memories-3/
+american-style-memories-4,Disco Under a Mirror Ball,American Style Memories,Music,11,11,11,DISCO,/crosswords/american-style-memories-4/,/print/american-style-memories-4/
+american-style-memories-5,A Big Band on the Bandstand,American Style Memories,Music,10,10,9,BIGBAND,/crosswords/american-style-memories-5/,/print/american-style-memories-5/
+music-behind-the-scenes,The Conductor's Rehearsal,Music Behind the Scenes,Music,11,11,11,CONDUCTOR,/crosswords/music-behind-the-scenes/,/print/music-behind-the-scenes/
+music-behind-the-scenes-2,A Songwriter's Notebook,Music Behind the Scenes,Music,11,10,11,SONGWRITER,/crosswords/music-behind-the-scenes-2/,/print/music-behind-the-scenes-2/
+music-behind-the-scenes-3,A Record Producer at Work,Music Behind the Scenes,Music,11,11,11,PRODUCER,/crosswords/music-behind-the-scenes-3/,/print/music-behind-the-scenes-3/
+music-behind-the-scenes-4,At the Sound Engineer's Console,Music Behind the Scenes,Music,11,9,11,ENGINEER,/crosswords/music-behind-the-scenes-4/,/print/music-behind-the-scenes-4/
+music-behind-the-scenes-5,A Guitar Maker's Workbench,Music Behind the Scenes,Music,11,11,11,LUTHIER,/crosswords/music-behind-the-scenes-5/,/print/music-behind-the-scenes-5/

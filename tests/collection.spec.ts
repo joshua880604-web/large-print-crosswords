@@ -49,11 +49,11 @@ test('topic pages restore their own valid filters and reject unavailable themes'
  await page.goto('/music-crosswords/?q=guitar&theme=Sports');
  await expect(page.getByLabel('Find a puzzle')).toHaveValue('guitar');
  await expect(page.getByLabel('Choose a theme')).toHaveValue('');
- await expect(page.locator('[data-title]:visible')).toHaveCount(1);
+ await expect(page.locator('[data-title]:visible')).toHaveCount(4);
  expect(new URL(page.url()).searchParams.has('theme')).toBeFalsy();
  await page.getByRole('button',{name:'Clear filters'}).click();
  await expect(page.locator('[data-title]:visible')).toHaveCount(12);
- await expect(page.locator('.result-count')).toHaveText('Showing 12 of 20 puzzles');
+ await expect(page.locator('.result-count')).toHaveText('Showing 12 of 80 puzzles');
  await page.goto('/');
  await expect(page.getByRole('link',{name:'Music crosswords',exact:true})).toHaveAttribute('href','/music-crosswords/');
  await expect(page.getByRole('link',{name:'Sports crosswords',exact:true})).toHaveAttribute('href','/sports-crosswords/');
