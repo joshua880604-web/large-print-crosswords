@@ -306,105 +306,81 @@
   },
   {
     "id": "a-stitch-in-time-4",
-    "title": "Piecing a Patchwork Quilt",
-    "subtheme": "Patchwork Pieces and Edges",
-    "cardDescription": "Fabric pieces, joined seams, and finished patchwork edges.",
-    "description": "Explore patchwork through a crossword about fabric pieces, joined seams, and finishing the edges of a quilt.",
-    "focus": "The clues move from small fabric pieces to a finished quilt. Some answers name strips or edge finishes, while others describe fabric, a stitched join, or a sewing action. Direct definitions explain the craft terms.",
-    "solvingTip": "Look at where a fabric strip goes: between blocks or around the outside. Clues asking for an action may involve joining pieces or holding layers temporarily. Short fabric and sewing words can provide useful crossings.",
+    "title": "A Patchwork Quilt for the Sofa",
+    "description": "Piece together the familiar fabrics, tools, and cozy uses of a patchwork quilt.",
+    "cardDescription": "Piece together the familiar fabrics, tools, and cozy uses of a patchwork quilt.",
+    "subtheme": "A Patchwork Quilt for the Sofa",
+    "focus": "Small fabric patches are joined into a larger cover. These clues use everyday sewing and household words.",
+    "solvingTip": "Start with a tool, fabric, or place where the quilt is used.",
     "words": [
       [
         "QUILT",
-        "Bedcover made from layers held together by stitching or ties"
+        "Layered bedcover held together with stitching"
       ],
       [
         "PATCH",
-        "Small fabric piece used in a patchwork design"
-      ],
-      [
-        "BLOCK",
-        "Design unit made from fabric pieces and repeated in a quilt top"
-      ],
-      [
-        "BATTING",
-        "Soft filling placed between a quilt's top and back"
-      ],
-      [
-        "BACKING",
-        "Fabric forming the underside of a quilt"
-      ],
-      [
-        "BINDING",
-        "Fabric strip that encloses a quilt's outer edges"
+        "Small piece of fabric in the quilt's design"
       ],
       [
         "SEAM",
-        "Stitched join between two patchwork pieces"
-      ],
-      [
-        "SASHING",
-        "Fabric strips that separate quilt blocks"
-      ],
-      [
-        "STRIP",
-        "Long narrow piece of quilting fabric"
-      ],
-      [
-        "SQUARE",
-        "Patchwork shape with four equal sides and four right angles"
-      ],
-      [
-        "TRIANGLE",
-        "Three-sided shape often cut for patchwork"
-      ],
-      [
-        "SCRAP",
-        "Small leftover piece of sewing fabric"
+        "Line where two fabric pieces are sewn together"
       ],
       [
         "COTTON",
-        "Common plant-based fabric used for patchwork"
+        "Soft plant-based fabric often used for quilts"
       ],
       [
-        "PRINT",
-        "Fabric with a repeated pictured or colored design"
+        "NEEDLE",
+        "Small pointed sewing tool with a hole for thread"
       ],
       [
-        "SOLID",
-        "Fabric with one uniform color and no printed pattern"
+        "FABRIC",
+        "Cloth cut into pieces for the quilt"
       ],
       [
-        "PIECE",
-        "To sew small fabric sections together into a quilt top"
+        "THREAD",
+        "Fine strand used to sew the patches"
       ],
       [
-        "LAYER",
-        "One sheet or thickness within a quilt's construction"
+        "SEW",
+        "Join fabric with needle and thread"
       ],
       [
-        "BASTE",
-        "To hold quilt layers temporarily with loose stitches"
+        "CUT",
+        "Separate a patch from a larger fabric piece"
       ],
       [
-        "TIE",
-        "To secure quilt layers at points with knotted thread or yarn"
+        "STRIP",
+        "Long narrow piece of quilting cloth"
       ],
       [
-        "QUILTER",
-        "Person who makes stitched or tied layered bedcovers"
+        "COLOR",
+        "Feature that may differ between neighboring patches"
+      ],
+      [
+        "WARM",
+        "Comfortably heated, as a quilt helps a person feel"
+      ],
+      [
+        "BED",
+        "Sleeping place where the quilt may be spread"
+      ],
+      [
+        "SOFA",
+        "Living-room seat where a folded quilt may rest"
       ]
     ],
     "answerNotes": {
-      "BLOCK": "A quilt block is a design unit in the top. Multiple blocks may be joined to create a larger pattern; it is not a wooden cube here.",
-      "BATTING": "Batting is the soft filling between the top and backing. It is a separate layer from the decorative fabric surface.",
-      "BACKING": "Backing is the fabric on the underside of a quilt. Batting is inside, while backing forms an outer surface.",
-      "BINDING": "Binding encloses the outer raw edges of a quilt. It differs from the strips used between blocks in the middle of the design.",
-      "SASHING": "Sashing consists of strips between quilt blocks. Not every quilt has it, so the clue describes its position rather than calling it essential.",
-      "PRINT": "Print names patterned fabric in this clue. It contrasts with a solid fabric, which has one uniform color rather than a printed design.",
-      "PIECE": "Piece is a verb here: sew fabric sections together. The clue asks for an action rather than one individual section of fabric.",
-      "BASTE": "Basting holds layers temporarily while later work is done. The clue specifies loose stitches, although quilters also use other basting methods.",
-      "TIE": "A tied quilt secures its layers at individual points with knots. The word tie describes that method rather than a garment worn at the neck."
-    }
+      "QUILT": "A quilt joins several layers rather than being one plain sheet.",
+      "PATCH": "Patches can have different shapes and colors.",
+      "SEAM": "A seam joins pieces, while an outer edge marks the boundary.",
+      "COTTON": "Cotton is a material, not a particular quilt pattern.",
+      "NEEDLE": "The thread passes through the needle's eye."
+    },
+    "requiredAnswers": [
+      "QUILT"
+    ],
+    "revision": 3
   },
   {
     "id": "a-stitch-in-time-5",

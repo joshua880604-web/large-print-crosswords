@@ -40,9 +40,9 @@ The [current 500-row ledger](research/audience-review-2026-11-14.csv) separates:
 
 This is model-assisted triage, not independent professional editing, a complete factual audit of every clue, a word-frequency classification, or testing with older US readers. The listed vocabulary is an editorial prompt, not an exhaustive dictionary. The ledger records actual selected answers and clues rather than unused word-bank candidates. Long words alone do not trigger a flag.
 
-Twenty-two wording corrections in thirteen games are recorded in the [clue change ledger](research/audience-clue-changes-2026-11-14.json). They remove a circular old-song clue and simplify science, gardening and sports language while preserving every answer, layout, ID and progress key. They do not resolve the specialist-answer backlog. Source word banks are updated along with the displayed clues.
+Twenty-two wording corrections in thirteen games are recorded in the [clue change ledger](research/audience-clue-changes-2026-11-14.json). They remove a circular old-song clue and simplify science, gardening and sports language while preserving every answer, layout, ID and progress key. That wording-only pass did not resolve the specialist-answer backlog; the subsequent replacement passes below address it. Source word banks are updated along with the displayed clues.
 
-The next content work should address the flagged answers and name-heavy clues before further numeric expansion. When replacing a board, preserve its earlier edition and progress association. Do not erase saved progress or quietly put a different grid under the same edition key.
+Existing flagged answers and name-heavy clues take priority over further numeric expansion. When replacing a board, preserve its earlier edition and progress association. Do not erase saved progress or quietly put a different grid under the same edition key.
 
 ## Initial November 14 triage result
 
@@ -86,4 +86,13 @@ The next content work should address the flagged answers and name-heavy clues be
 
 ## Revision after the first 27 replacements
 
-All 27 vocabulary-priority games now have everyday-vocabulary second editions, with their original boards and saved progress preserved separately. The [initial ledger](research/audience-review-2026-11-14-initial.csv) retains the earlier findings. The refreshed current ledger has no selected answers from the specialist prompt list, 66 context reviews and 434 unflagged candidates. This does not certify the entire collection as easy or accurate. See [the rewrite report](easy-rewrite-2026-11-14.md) for the actual before/after subjects and selected vocabulary. The 66 context reviews remain the next editorial queue.
+All 27 vocabulary-priority games now have everyday-vocabulary second editions, with their original boards and saved progress preserved separately. The [initial ledger](research/audience-review-2026-11-14-initial.csv) retains the earlier findings. The refreshed current ledger has no selected answers from the specialist prompt list, 66 context reviews and 434 unflagged candidates. This does not certify the entire collection as easy or accurate. See [the rewrite report](easy-rewrite-2026-11-14.md) for the actual before/after subjects and selected vocabulary. This describes the first-stage checkpoint; the 66 were subsequently reviewed below.
+
+
+## Completion of the 66 context reviews
+
+The [context decision ledger](research/context-decisions-2026-11-14.csv) records all 66 outcomes and the reason for each: 52 rebuilt boards and 14 retained boards with 18 simpler clues. Combined with the first stage, 79 boards were replaced and all 93 initial review targets received decisions. The remaining 407 current objects and the original 100 archives are unchanged from initial triage.
+
+The refreshed automatic screen reports 490 unflagged candidates and 10 context/name prompts. These 10 are not hidden or automatically marked easy: two labeled state-capital routes, seven retained performer/group subjects and the rebuilt Nat King Cole scene still require topic familiarity. They have case-specific reasons in the decision ledger. Retained flower and bird scenes likewise depend on interest, even when they no longer trigger the limited prompt list.
+
+This is model-assisted reading and editing, not independent professional or target-reader validation. Current puzzles contain 5,590 clues; familiar answers may recur across scenes. Do not substitute word-count, prompt-count or unique-pair totals for actual reader usefulness. See [the context report](context-review-2026-11-14.md) for before/after subjects, edition preservation and validation.

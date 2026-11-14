@@ -1,157 +1,159 @@
 [
   {
     "id": "christmas-kitchen",
-    "title": "Baking a Christmas Stollen",
-    "description": "Meet a German Christmas bread through its fruit, powdered coating, and familiar baking ingredients.",
-    "cardDescription": "Meet a German Christmas bread through its fruit, powdered coating, and familiar baking ingredients.",
-    "subtheme": "Baking a Christmas Stollen",
-    "focus": "Stollen is a rich fruit bread; a loaf may also contain a marzipan center.",
-    "solvingTip": "The longer bread name crosses familiar ingredient words.",
+    "title": "A Christmas Fruit Loaf",
+    "description": "Share a holiday fruit loaf through familiar baking ingredients, slices, and a sweet coating.",
+    "cardDescription": "Share a holiday fruit loaf through familiar baking ingredients, slices, and a sweet coating.",
+    "subtheme": "A Christmas Fruit Loaf",
+    "focus": "These clues describe an ordinary festive bread scene without requiring a regional bread name.",
+    "solvingTip": "Try a common ingredient or short baking action first.",
     "words": [
       [
-        "STOLLEN",
-        "German Christmas fruit bread often dusted with powdered sugar"
-      ],
-      [
-        "MARZIPAN",
-        "Sweet almond paste sometimes enclosed in stollen"
-      ],
-      [
-        "CITRON",
-        "Thick-rinded citrus used as candied peel in fruit breads"
-      ],
-      [
-        "DUST",
-        "Sprinkle a fine layer of powdered sugar over a loaf"
-      ],
-      [
         "LOAF",
-        "Single shaped mass of bread baked as one piece"
+        "One shaped piece of bread baked for the holiday table"
       ],
       [
         "RAISIN",
-        "Dried grape folded into a Christmas fruit bread"
-      ],
-      [
-        "YEAST",
-        "Ingredient helping the enriched bread dough rise"
-      ],
-      [
-        "ALMOND",
-        "Nut used to make marzipan paste"
-      ],
-      [
-        "BUTTER",
-        "Rich dairy fat in a holiday bread dough"
+        "Dried grape mixed into the fruit bread"
       ],
       [
         "PEEL",
-        "Candied citrus rind mixed into fruit bread"
+        "Candied citrus skin used in some holiday breads"
       ],
       [
-        "FLOUR",
-        "Milled grain forming the base of this bread"
+        "YEAST",
+        "Living baking ingredient helping the fruit dough rise"
+      ],
+      [
+        "CRUST",
+        "Outer surface of the baked fruit loaf"
+      ],
+      [
+        "FRUIT",
+        "Sweet plant food mixed into the festive bread"
       ],
       [
         "SUGAR",
-        "Sweet ingredient also used in the white coating"
+        "Sweet ingredient sprinkled or mixed into the loaf"
       ],
       [
-        "KNEAD",
-        "Press and fold the dough before it rises"
+        "BUTTER",
+        "Dairy fat used in many rich bread recipes"
+      ],
+      [
+        "FLOUR",
+        "Powdered grain forming the base of the dough"
       ],
       [
         "OVEN",
-        "Appliance baking the shaped Christmas loaf"
-      ]
-    ],
-    "answerNotes": {
-      "STOLLEN": "Stollen is bread rather than a steamed pudding or a layered cake.",
-      "MARZIPAN": "Marzipan is optional in stollen; not every loaf has this filling.",
-      "CITRON": "Candied citron peel contributes flavor and texture to some stollen recipes.",
-      "DUST": "Dust is a coating action here, rather than household dirt.",
-      "LOAF": "Loaf describes the bread's form, not a specific recipe."
-    },
-    "requiredAnswers": [
-      "STOLLEN"
-    ]
-  },
-  {
-    "id": "christmas-kitchen-2",
-    "title": "Sharing an Italian Panettone",
-    "description": "Unwrap a tall Italian Christmas bread and discover the fruit, paper case, and serving words around it.",
-    "cardDescription": "Unwrap a tall Italian Christmas bread and discover the fruit, paper case, and serving words around it.",
-    "subtheme": "Sharing an Italian Panettone",
-    "focus": "Panettone has a tall domed form; its light bread texture distinguishes it from a dense fruitcake.",
-    "solvingTip": "Use familiar serving words to cross the long Italian bread name.",
-    "words": [
-      [
-        "PANETTONE",
-        "Tall Italian Christmas bread with a domed top"
-      ],
-      [
-        "DOME",
-        "Rounded raised top of a panettone"
-      ],
-      [
-        "MILAN",
-        "Italian city traditionally associated with panettone"
-      ],
-      [
-        "MOLD",
-        "Tall form supporting the bread while it bakes"
+        "Heated appliance baking the Christmas loaf"
       ],
       [
         "SLICE",
-        "Portion cut from the tall Christmas loaf"
+        "Individual portion cut from the fruit bread"
       ],
       [
-        "RAISIN",
-        "Dried fruit commonly found inside panettone"
+        "SWEET",
+        "Sugary in taste, as a festive loaf may be"
       ],
       [
-        "CITRUS",
-        "Fruit family supplying candied peel for this bread"
+        "MIX",
+        "Combine the holiday bread ingredients"
       ],
       [
-        "PAPER",
-        "Material of the loaf's ridged baking case"
-      ],
-      [
-        "RIBBON",
-        "Decorative strip around a wrapped gift loaf"
-      ],
-      [
-        "KNIFE",
-        "Utensil used to cut a wedge of Christmas bread"
-      ],
-      [
-        "PLATE",
-        "Dish holding a guest's slice of panettone"
-      ],
-      [
-        "CRUMB",
-        "Soft interior of the baked loaf"
-      ],
-      [
-        "GIFT",
-        "Present a wrapped holiday loaf can become"
-      ],
-      [
-        "SHARE",
-        "Divide the bread among people at the table"
+        "BAKE",
+        "Cook the shaped loaf with oven heat"
       ]
     ],
     "answerNotes": {
-      "PANETTONE": "Traditional panettone often contains raisins and candied citrus peel.",
-      "DOME": "Dome describes the loaf's outline rather than its paper mold.",
-      "MILAN": "Milan is a place association, not an ingredient in the bread.",
-      "MOLD": "Panettone is often baked and sold in a paper mold.",
-      "SLICE": "A slice is one serving cut through the finished loaf."
+      "LOAF": "Loaf describes the bread's form rather than its country of origin.",
+      "RAISIN": "Raisins add fruit to the dough before baking.",
+      "PEEL": "Candied peel supplies flavor as well as small pieces of fruit rind.",
+      "YEAST": "Yeast produces gas that helps suitable dough expand.",
+      "CRUST": "The crust is the outside rather than the soft center."
     },
     "requiredAnswers": [
-      "PANETTONE"
-    ]
+      "LOAF"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "christmas-kitchen-2",
+    "title": "Giving a Christmas Food Basket",
+    "description": "Pack a holiday gift basket with bread, fruit, and familiar treats for someone to enjoy.",
+    "cardDescription": "Pack a holiday gift basket with bread, fruit, and familiar treats for someone to enjoy.",
+    "subtheme": "Giving a Christmas Food Basket",
+    "focus": "The clues bring together everyday foods and simple wrapping details.",
+    "solvingTip": "Start with a short fruit name or gift decoration.",
+    "words": [
+      [
+        "BASKET",
+        "Handled carrier filled with holiday food gifts"
+      ],
+      [
+        "GIFT",
+        "Present given to someone at Christmas"
+      ],
+      [
+        "TAG",
+        "Small attached card naming the basket's recipient"
+      ],
+      [
+        "SHARE",
+        "Give some of the basket's food to another person"
+      ],
+      [
+        "RIBBON",
+        "Decorative strip tied around the holiday basket"
+      ],
+      [
+        "BREAD",
+        "Baked loaf placed among the basket's treats"
+      ],
+      [
+        "FRUIT",
+        "Fresh produce such as apples and pears in the gift"
+      ],
+      [
+        "JAM",
+        "Sweet fruit preserve packed in a small jar"
+      ],
+      [
+        "NUT",
+        "Hard-shelled snack included in some food baskets"
+      ],
+      [
+        "CHEESE",
+        "Dairy food wrapped beside the bread"
+      ],
+      [
+        "APPLE",
+        "Round orchard fruit tucked into the gift"
+      ],
+      [
+        "PEAR",
+        "Fruit often narrow near the stem and wider below"
+      ],
+      [
+        "BOW",
+        "Looped knot decorating the basket"
+      ],
+      [
+        "WRAP",
+        "Cover a food gift before placing it in the basket"
+      ]
+    ],
+    "answerNotes": {
+      "BASKET": "A basket groups several gifts into one portable arrangement.",
+      "GIFT": "Gift describes the purpose of the basket rather than one particular food.",
+      "TAG": "A tag helps identify who should receive the present.",
+      "SHARE": "Sharing divides the treats among people rather than keeping them all for one person.",
+      "RIBBON": "Ribbon decorates the package rather than forming the basket's handle."
+    },
+    "requiredAnswers": [
+      "BASKET"
+    ],
+    "revision": 2
   },
   {
     "id": "christmas-kitchen-3",
@@ -232,156 +234,159 @@
   },
   {
     "id": "christmas-kitchen-4",
-    "title": "A Bowl of Warm Wassail",
-    "description": "Explore a traditional festive drink through its apple base, warming spices, and serving bowl.",
-    "cardDescription": "Explore a traditional festive drink through its apple base, warming spices, and serving bowl.",
-    "subtheme": "A Bowl of Warm Wassail",
-    "focus": "Modern wassail recipes vary; many use warm spiced cider rather than a single fixed historical formula.",
-    "solvingTip": "The spice clues describe parts of plants you may recognize.",
+    "title": "Warm Cider at a Holiday Gathering",
+    "description": "Enjoy a warm apple drink through its spices, steam, mugs, and a serving ladle.",
+    "cardDescription": "Enjoy a warm apple drink through its spices, steam, mugs, and a serving ladle.",
+    "subtheme": "Warm Cider at a Holiday Gathering",
+    "focus": "A spiced cider can be made in different ways. These clues focus on familiar flavors and serving objects.",
+    "solvingTip": "Try the short drink and container words first.",
     "words": [
       [
-        "WASSAIL",
-        "Traditional festive drink often made today with spiced cider"
-      ],
-      [
         "CIDER",
-        "Apple drink used as the base for many modern wassail bowls"
-      ],
-      [
-        "CLOVE",
-        "Dried aromatic flower bud used as a warming spice"
-      ],
-      [
-        "CINNAMON",
-        "Fragrant bark spice sometimes floated in a warm drink"
-      ],
-      [
-        "LADLE",
-        "Long-handled dipper for serving from the wassail bowl"
-      ],
-      [
-        "ORANGE",
-        "Citrus fruit sliced into a festive cider drink"
-      ],
-      [
-        "NUTMEG",
-        "Spice grated from a seed over some holiday drinks"
-      ],
-      [
-        "STEAM",
-        "Visible mist rising above a hot festive bowl"
-      ],
-      [
-        "MUG",
-        "Handled drinking vessel for a serving of warm cider"
-      ],
-      [
-        "SPICE",
-        "Aromatic seasoning added to a festive drink"
-      ],
-      [
-        "BOWL",
-        "Large rounded vessel at the center of the wassail table"
-      ],
-      [
-        "SIMMER",
-        "Heat the spiced drink gently without a rolling boil"
-      ],
-      [
-        "TOAST",
-        "Spoken good wish offered before people drink"
+        "Apple drink warmed with spices in this holiday scene"
       ],
       [
         "APPLE",
-        "Orchard fruit supplying the juice for cider"
+        "Orchard fruit supplying the juice for this warm drink"
+      ],
+      [
+        "CINNAMON",
+        "Fragrant bark spice used to flavor warm cider"
+      ],
+      [
+        "LADLE",
+        "Deep spoon used to serve the drink from a large pot"
+      ],
+      [
+        "STEAM",
+        "Mist rising above the hot holiday drink"
+      ],
+      [
+        "CLOVE",
+        "Aromatic dried flower bud used as a spice"
+      ],
+      [
+        "NUTMEG",
+        "Spice grated from a seed over some warm drinks"
+      ],
+      [
+        "ORANGE",
+        "Citrus fruit sliced into a festive cider pot"
+      ],
+      [
+        "MUG",
+        "Handled cup holding the warm apple drink"
+      ],
+      [
+        "SPOON",
+        "Small utensil used to stir a serving"
+      ],
+      [
+        "WARM",
+        "Comfortably heated, as the cider in the mug is"
+      ],
+      [
+        "SPICE",
+        "Aromatic flavoring added to the apple drink"
+      ],
+      [
+        "POUR",
+        "Transfer the cider in a stream into a cup"
+      ],
+      [
+        "TASTE",
+        "Sample a little of the finished drink"
       ]
     ],
     "answerNotes": {
-      "WASSAIL": "Wassail has varied recipes and a history linked to seasonal toasting.",
-      "CIDER": "In the United States, cider often means an unfiltered apple drink.",
-      "CLOVE": "A clove is a flower bud; it is not a piece of cinnamon bark.",
-      "CINNAMON": "Cinnamon sticks are rolled pieces of dried bark.",
-      "LADLE": "A ladle moves a portion from the bowl into an individual cup."
+      "CIDER": "In the United States, cider often names an unfiltered apple drink.",
+      "APPLE": "Apple identifies the fruit rather than an added spice.",
+      "CINNAMON": "Cinnamon sticks are dried pieces of tree bark.",
+      "LADLE": "A ladle transfers a portion into a cup or mug.",
+      "STEAM": "The visible mist contains tiny water droplets formed as vapor cools."
     },
     "requiredAnswers": [
-      "WASSAIL"
-    ]
+      "CIDER"
+    ],
+    "revision": 2
   },
   {
     "id": "christmas-kitchen-5",
-    "title": "An Evening Yule Log Cake",
-    "description": "Look at a rolled Christmas cake through its spiral, bark-like icing, and decorative woodland details.",
-    "cardDescription": "Look at a rolled Christmas cake through its spiral, bark-like icing, and decorative woodland details.",
-    "subtheme": "An Evening Yule Log Cake",
-    "focus": "The edible log is a rolled cake; its bark is usually suggested by textured frosting.",
-    "solvingTip": "Separate cake structure from the woodland shapes used as decoration.",
+    "title": "Decorating a Christmas Log Cake",
+    "description": "Shape a rolled Christmas cake into a small edible log with icing, cream, and familiar decorations.",
+    "cardDescription": "Shape a rolled Christmas cake into a small edible log with icing, cream, and familiar decorations.",
+    "subtheme": "Decorating a Christmas Log Cake",
+    "focus": "The cake is rolled around a filling. Marks in the icing suggest tree bark on the outside.",
+    "solvingTip": "Short food and shape words help with the rolled design.",
     "words": [
       [
-        "YULELOG",
-        "Christmas cake decorated to resemble a piece of wood, two words"
+        "CAKE",
+        "Sweet baked food shaped as a Christmas log"
       ],
       [
-        "SPONGE",
-        "Light cake baked in a flat layer before rolling"
+        "LOG",
+        "Piece of wood imitated by the rolled cake's shape"
       ],
       [
-        "GANACHE",
-        "Mixture of chocolate and cream used as a rich coating"
-      ],
-      [
-        "MERINGUE",
-        "Sweet whipped-egg-white mixture shaped into decorative mushrooms"
+        "ICING",
+        "Sweet covering marked to look like tree bark"
       ],
       [
         "SPIRAL",
-        "Curling pattern visible in a slice of rolled cake"
+        "Curving pattern seen in a slice of rolled cake"
       ],
       [
-        "BARK",
-        "Tree covering imitated by marks in the frosting"
-      ],
-      [
-        "FORK",
-        "Utensil drawn through icing to suggest wood grain"
-      ],
-      [
-        "COCOA",
-        "Chocolate-flavored powder used in some log cakes"
+        "CREAM",
+        "Soft dairy filling inside some rolled cakes"
       ],
       [
         "ROLL",
         "Curl the flat cake around its filling"
       ],
       [
-        "CREAM",
-        "Soft filling inside some Christmas log cakes"
+        "COCOA",
+        "Chocolate-flavored powder used in some log cakes"
       ],
       [
-        "SUGAR",
-        "White ingredient dusted over the cake like snow"
+        "FORK",
+        "Utensil used to mark lines in the sweet coating"
       ],
       [
-        "PLATTER",
-        "Long serving dish beneath the finished edible log"
+        "BARK",
+        "Tree covering suggested by the icing's lines"
       ],
       [
         "SLICE",
-        "Individual portion cut across the cake's spiral"
+        "Portion cut across the finished rolled cake"
       ],
       [
-        "HOLLY",
-        "Evergreen leaf shape sometimes used as cake decoration"
+        "PLATE",
+        "Dish holding a serving of the Christmas dessert"
+      ],
+      [
+        "SUGAR",
+        "White ingredient dusted over the decoration like snow"
+      ],
+      [
+        "SWEET",
+        "Sugary-tasting, as the decorated cake is"
+      ],
+      [
+        "SNOW",
+        "White winter covering imitated with powdered sugar"
       ]
     ],
     "answerNotes": {
-      "YULELOG": "An edible Yule log is commonly a rolled sponge cake with filling.",
-      "SPONGE": "A flexible sponge layer makes the spiral shape possible.",
-      "GANACHE": "Ganache can provide the dark outer coating that resembles bark.",
-      "MERINGUE": "Meringue mushrooms are edible decorations, not gathered fungi.",
-      "SPIRAL": "The spiral comes from rolling the cake together with its filling."
+      "CAKE": "This decoration is edible cake rather than an actual piece of firewood.",
+      "LOG": "The log shape supplies the Christmas cake's woodland appearance.",
+      "ICING": "Icing is the outer coating, separate from the filling inside.",
+      "SPIRAL": "Rolling the layer and filling together creates the spiral.",
+      "CREAM": "Cream is one possible filling; recipes differ."
     },
     "requiredAnswers": [
-      "YULELOG"
-    ]
+      "CAKE",
+      "LOG"
+    ],
+    "revision": 2
   }
 ]

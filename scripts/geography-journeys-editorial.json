@@ -223,77 +223,85 @@
   },
   {
     "id": "geography-journeys-4",
-    "title": "Along the American Coast",
-    "description": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
-    "cardDescription": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
-    "subtheme": "Along the American Coast",
-    "focus": "Coastal words describe both land and water. Some clues ask about a shape, while others describe a movement or a place where boats gather.",
-    "solvingTip": "Check which side of the shoreline the clue describes. A bay is water extending into land; a peninsula is land extending into water.",
+    "title": "Familiar Sights Along the Coast",
+    "description": "Follow the coast through beaches, bays, sand, boats, and the movement of the sea.",
+    "cardDescription": "Follow the coast through beaches, bays, sand, boats, and the movement of the sea.",
+    "subtheme": "Familiar Sights Along the Coast",
+    "focus": "These clues describe ordinary seaside features rather than specialist coastal-science terms.",
+    "solvingTip": "Try the short weather and water words before the land shapes.",
     "words": [
       [
-        "BAY",
-        "Inlet where coastal water reaches into the land"
-      ],
-      [
-        "PENINSULA",
-        "Land surrounded by water on most sides but joined to a mainland"
-      ],
-      [
-        "ESTUARY",
-        "Coastal area where river water mixes with seawater"
-      ],
-      [
-        "HEADLAND",
-        "Prominent high land projecting into coastal water"
-      ],
-      [
-        "TIDE",
-        "Regular rise and fall of sea level along the coast"
-      ],
-      [
-        "HARBOR",
-        "Sheltered coastal water where vessels can anchor"
-      ],
-      [
-        "CAPE",
-        "Point of land extending into a sea or lake"
-      ],
-      [
-        "STRAIT",
-        "Narrow water passage connecting larger bodies of water"
-      ],
-      [
-        "INLET",
-        "Narrow opening leading from the sea into coastal land"
-      ],
-      [
-        "DUNE",
-        "Mound or ridge of sand shaped by wind"
-      ],
-      [
-        "SURF",
-        "Waves breaking near the shoreline"
-      ],
-      [
-        "REEF",
-        "Ridge of rock or coral at or near the water surface"
+        "COAST",
+        "Land bordering the sea"
       ],
       [
         "BEACH",
-        "Coastal strip of sand or pebbles beside the water"
+        "Strip of sand or pebbles beside the water"
+      ],
+      [
+        "BAY",
+        "Coastal water inlet partly enclosed by land"
+      ],
+      [
+        "DUNE",
+        "Hill of sand shaped by the wind"
+      ],
+      [
+        "HARBOR",
+        "Sheltered water where boats can stop"
+      ],
+      [
+        "SAND",
+        "Tiny loose grains underfoot at the beach"
+      ],
+      [
+        "WAVE",
+        "Ridge of moving water at the coastline"
+      ],
+      [
+        "SHELL",
+        "Hard empty covering that may wash onto a beach"
+      ],
+      [
+        "TIDE",
+        "Regular rise and fall of coastal water"
+      ],
+      [
+        "SHORE",
+        "Land beside the sea, as seen from a boat"
+      ],
+      [
+        "BOAT",
+        "Small vessel seen near the coast"
       ],
       [
         "PORT",
-        "Coastal town or facility where ships load and unload"
+        "Coastal place where ships load and unload"
+      ],
+      [
+        "WIND",
+        "Moving air felt on a seaside walk"
+      ],
+      [
+        "ROCK",
+        "Hard natural piece on a stony beach"
+      ],
+      [
+        "GULL",
+        "Seabird often seen over a harbor"
       ]
     ],
     "answerNotes": {
-      "BAY": "A bay is a body of water partly enclosed by land. Its shape distinguishes it from a peninsula, which is land.",
-      "PENINSULA": "A peninsula remains connected to a larger land area. An island has water all around it.",
-      "ESTUARY": "An estuary is a meeting place for fresh and salt water. Tides often influence its water levels and mixing.",
-      "HEADLAND": "A headland projects outward from the coast. Its position can make it more exposed to waves than a sheltered bay.",
-      "TIDE": "Tides change coastal water levels. They are different from individual waves moving across the surface."
-    }
+      "COAST": "A coast marks the meeting of land and a large body of salt water.",
+      "BEACH": "Not every beach is sandy; some are covered with stones.",
+      "BAY": "A bay is a water feature rather than a projecting piece of land.",
+      "DUNE": "Dunes can form along a coast as well as inland.",
+      "HARBOR": "A harbor offers protection from more open water."
+    },
+    "requiredAnswers": [
+      "COAST"
+    ],
+    "revision": 2
   },
   {
     "id": "geography-journeys-5",

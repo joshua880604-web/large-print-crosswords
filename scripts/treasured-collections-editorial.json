@@ -1,76 +1,82 @@
 [
   {
-    "title": "Pages in a Stamp Album",
-    "description": "Open a stamp album through familiar small parts, printed details, and collecting words.",
-    "cardDescription": "Open a stamp album through familiar small parts, printed details, and collecting words.",
-    "focus": "The clues describe how stamps are identified and arranged. Direct definitions explain the more specialized terms.",
-    "solvingTip": "Look for a whole item, a printed mark, an edge feature, or a way of mounting it.",
+    "id": "treasured-collections",
+    "title": "Sorting Stamps in an Album",
+    "description": "Arrange a small stamp collection through its pictures, pages, colors, and familiar mail words.",
+    "cardDescription": "Arrange a small stamp collection through its pictures, pages, colors, and familiar mail words.",
+    "subtheme": "Sorting Stamps in an Album",
+    "focus": "A stamp album keeps the collection together so its designs can be viewed and compared.",
+    "solvingTip": "Start with an ordinary paper or mail word.",
     "words": [
       [
         "STAMP",
-        "Small postal item preserved in a collector\u2019s album"
+        "Small postage label kept in this collection"
       ],
       [
         "ALBUM",
-        "Book arranged to hold a collection"
+        "Book holding the collected postage labels"
       ],
       [
         "PAGE",
-        "One displayed side within a stamp album"
-      ],
-      [
-        "HINGE",
-        "Small gummed strip traditionally used to mount a stamp"
-      ],
-      [
-        "TONGS",
-        "Small gripping tool used to handle stamps"
-      ],
-      [
-        "PERFORATION",
-        "Row of tiny holes allowing stamps to be separated"
-      ],
-      [
-        "CANCEL",
-        "Postal mark showing a stamp has been used"
-      ],
-      [
-        "POSTMARK",
-        "Postal marking recording a handling place or date"
-      ],
-      [
-        "MARGIN",
-        "Blank outer area beside a printed stamp design"
-      ],
-      [
-        "PRINT",
-        "To produce an image or lettering on paper"
-      ],
-      [
-        "DESIGN",
-        "Planned picture and lettering appearing on a stamp"
-      ],
-      [
-        "ISSUE",
-        "Set or release of stamps made available together"
-      ],
-      [
-        "SHEET",
-        "Larger printed piece containing several stamps"
+        "One side of a sheet in the stamp album"
       ],
       [
         "COLLECT",
-        "To gather related objects as a hobby"
+        "Gather stamps as a hobby"
+      ],
+      [
+        "SHEET",
+        "Larger piece of paper containing several stamps"
+      ],
+      [
+        "PICTURE",
+        "Printed image appearing in a stamp design"
+      ],
+      [
+        "LETTER",
+        "Mailed message that may carry a postage stamp"
+      ],
+      [
+        "MAIL",
+        "Letters and cards sent through the postal system"
+      ],
+      [
+        "INK",
+        "Printing material forming the stamp's picture"
+      ],
+      [
+        "COLOR",
+        "Feature used to compare two stamp designs"
+      ],
+      [
+        "ROW",
+        "Straight line of stamps on an album page"
+      ],
+      [
+        "SET",
+        "Related group issued as part of a collection"
+      ],
+      [
+        "OLD",
+        "From an earlier time, as a vintage stamp is"
+      ],
+      [
+        "NEW",
+        "Recently issued, as a fresh addition to the album may be"
       ]
     ],
     "answerNotes": {
-      "PERFORATION": "Perforations make separation possible along small holes. The clue asks for the row or feature rather than the printed picture.",
-      "POSTMARK": "A postmark records postal handling. It is different from the prepaid stamp carrying the design.",
-      "HINGE": "A stamp hinge is a small mounting strip. It is not door hardware in this collecting clue.",
-      "ISSUE": "Issue names a released group or publication here. It does not mean a problem requiring a solution."
+      "STAMP": "A postage stamp shows payment for mailing rather than a street address.",
+      "ALBUM": "An album organizes a collection on its pages.",
+      "PAGE": "A page can display several items from the collection.",
+      "COLLECT": "Collecting describes bringing related objects together over time.",
+      "SHEET": "Some collectors keep a complete sheet rather than separate stamps."
     },
-    "id": "treasured-collections",
-    "subtheme": "Collections"
+    "requiredAnswers": [
+      "STAMP",
+      "ALBUM"
+    ],
+    "revision": 2
   },
   {
     "title": "Coins in a Collector\u2019s Tray",

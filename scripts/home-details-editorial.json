@@ -317,79 +317,80 @@
   },
   {
     "id": "home-details-5",
-    "title": "Looking at a Handwoven Rug",
-    "description": "Explore a woven floor covering through its thread directions, raised surface, and finished edges.",
-    "cardDescription": "Explore a woven floor covering through its thread directions, raised surface, and finished edges.",
-    "subtheme": "Looking at a Handwoven Rug",
-    "focus": "Weaving crosses lengthwise and crosswise strands, while some rugs add a raised pile. A flatwoven surface and a pile surface are different structures rather than just different colors.",
-    "solvingTip": "Separate the direction of a strand from the texture or edge formed by the finished work.",
+    "title": "A Soft Rug Beside the Chair",
+    "description": "Enjoy a household rug through its warm material, pattern, border, and place on the floor.",
+    "cardDescription": "Enjoy a household rug through its warm material, pattern, border, and place on the floor.",
+    "subtheme": "A Soft Rug Beside the Chair",
+    "focus": "These clues describe the rug as used at home, without requiring loom-part names.",
+    "solvingTip": "Try a fabric or texture word before the decorative details.",
     "words": [
       [
-        "PILE",
-        "Raised surface made of loops or cut fibers on some rugs"
-      ],
-      [
-        "WARP",
-        "Lengthwise strands held under tension during weaving"
-      ],
-      [
-        "WEFT",
-        "Crosswise strand interlaced through a rug's lengthwise threads"
-      ],
-      [
-        "SELVAGE",
-        "Finished lengthwise edge of woven material"
-      ],
-      [
-        "FLATWEAVE",
-        "Rug construction without an upright pile layer"
-      ],
-      [
-        "KNOT",
-        "Tied fastening used to form pile in many rugs"
-      ],
-      [
-        "FRINGE",
-        "Loose thread ends extending from a rug's boundary"
-      ],
-      [
-        "TUFT",
-        "Small bunch of fibers projecting from a textile backing"
+        "RUG",
+        "Floor covering placed beside the chair"
       ],
       [
         "WOOL",
-        "Sheep-derived fiber used in many woven rugs"
+        "Fiber from sheep used in many warm rugs"
       ],
       [
-        "COTTON",
-        "Plant fiber used for some rug strands or foundations"
+        "FRINGE",
+        "Loose decorative thread ends along the rug's edge"
       ],
       [
         "BORDER",
-        "Decorative outer band around a rug's design"
+        "Decorative band around the outside of a rug's design"
       ],
       [
-        "LOOM",
-        "Frame or machine holding threads for weaving"
+        "PATTERN",
+        "Repeated design visible across the floor covering"
       ],
       [
-        "BACK",
-        "Reverse side of the rug beneath its visible surface"
+        "COTTON",
+        "Plant-based fiber used in some household rugs"
       ],
       [
-        "ROW",
-        "Single line of repeated weaving or knotting"
+        "SOFT",
+        "Gentle to the touch, as a comfortable rug feels"
+      ],
+      [
+        "WARM",
+        "Not chilly, as a rug can help bare feet feel"
+      ],
+      [
+        "FLOOR",
+        "Room surface beneath the rug"
+      ],
+      [
+        "COLOR",
+        "Feature that may differ between parts of the rug's design"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of the floor covering"
+      ],
+      [
+        "WOVEN",
+        "Made by crossing threads over and under one another"
+      ],
+      [
+        "FOOT",
+        "Body part placed on the rug while sitting down"
+      ],
+      [
+        "CHAIR",
+        "Seat beside the soft floor covering"
       ]
     ],
     "answerNotes": {
-      "PILE": "Pile describes the raised textile surface; a flatwoven rug does not have the same upright layer.",
-      "WARP": "Warp forms the supported lengthwise set, while weft passes across it.",
-      "WEFT": "Weft runs across the warp; the two directions have different names even when the fibers match.",
-      "SELVAGE": "A selvage forms along the side during weaving, distinct from a cut end finished afterward.",
-      "FLATWEAVE": "Flatweave describes structure rather than one national style or fiber material."
+      "RUG": "A rug covers an area of floor and may be moved separately.",
+      "WOOL": "Wool is a material rather than a weaving direction.",
+      "FRINGE": "Fringe extends beyond the woven body rather than forming a solid border.",
+      "BORDER": "A border surrounds the inner pattern.",
+      "PATTERN": "A pattern can combine shapes and colors in a regular arrangement."
     },
     "requiredAnswers": [
-      "PILE"
-    ]
+      "RUG"
+    ],
+    "revision": 2
   }
 ]

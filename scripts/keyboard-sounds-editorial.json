@@ -1,80 +1,81 @@
 [
   {
     "id": "keyboard-sounds",
-    "title": "Inside a Pipe Organ",
-    "description": "Explore organ pipes, keyboards, and airflow through directly defined parts of a large musical instrument.",
-    "cardDescription": "Explore organ pipes, keyboards, and airflow through directly defined parts of a large musical instrument.",
-    "subtheme": "Inside a Pipe Organ",
-    "focus": "An organ's keys control air reaching pipes; it does not make sound by striking piano strings.",
-    "solvingTip": "The shortest airflow words help cross the longer instrument parts.",
+    "title": "An Organ Playing a Familiar Hymn",
+    "description": "Listen to an organ through its pipes, keys, bench, and a familiar hymn in a church setting.",
+    "cardDescription": "Listen to an organ through its pipes, keys, bench, and a familiar hymn in a church setting.",
+    "subtheme": "An Organ Playing a Familiar Hymn",
+    "focus": "Air sounds the pipes of an acoustic organ. These clues use visible parts and ordinary music words.",
+    "solvingTip": "Try a short body part or sitting-place word first.",
     "words": [
       [
         "ORGAN",
-        "Keyboard instrument that can sound ranks of air-driven pipes"
+        "Keyboard instrument heard accompanying many church hymns"
       ],
       [
-        "MANUAL",
-        "Keyboard played by the hands on an organ"
-      ],
-      [
-        "PEDALBOARD",
-        "Foot-operated keyboard beneath an organ console"
-      ],
-      [
-        "STOP",
-        "Control selecting a set or type of organ pipes"
-      ],
-      [
-        "BELLOWS",
-        "Device supplying or regulating air for an organ"
-      ],
-      [
-        "PIPE",
-        "Sounding tube in an acoustic organ"
-      ],
-      [
-        "AIR",
-        "Moving gas that makes an organ pipe sound"
-      ],
-      [
-        "KEY",
-        "Lever pressed by an organist's finger"
-      ],
-      [
-        "RANK",
-        "Set of organ pipes sharing a tonal character"
-      ],
-      [
-        "CONSOLE",
-        "Playing station containing an organ's keyboards and controls"
-      ],
-      [
-        "BENCH",
-        "Seat occupied by the organist"
+        "HYMN",
+        "Religious song often sung with organ accompaniment"
       ],
       [
         "CHURCH",
-        "Building often housing a large pipe organ"
+        "Building where the hymn and organ may be heard"
+      ],
+      [
+        "PIPE",
+        "Sounding tube in a traditional acoustic organ"
+      ],
+      [
+        "BENCH",
+        "Seat occupied by the organ player"
+      ],
+      [
+        "KEY",
+        "Lever pressed by the organist's finger"
+      ],
+      [
+        "AIR",
+        "Moving gas sounding the organ's pipes"
+      ],
+      [
+        "FOOT",
+        "Body part used to press an organ pedal"
+      ],
+      [
+        "HAND",
+        "Body part playing the organ's upper keys"
+      ],
+      [
+        "MUSIC",
+        "Organized sound filling the building"
+      ],
+      [
+        "TUNE",
+        "Melody followed by the people singing"
+      ],
+      [
+        "SONG",
+        "Musical piece performed with the organ"
       ],
       [
         "BASS",
-        "Low musical range often played with organ pedals"
+        "Low musical part heard beneath higher notes"
       ],
       [
         "CHORD",
-        "Several notes sounded together on the organ"
+        "Several musical notes sounded together"
       ]
     ],
     "answerNotes": {
-      "ORGAN": "A pipe organ uses moving air, unlike an electronic instrument imitating its sound.",
-      "MANUAL": "Manual distinguishes a hand keyboard from the pedalboard.",
-      "PEDALBOARD": "The organist's feet can play a separate musical part.",
-      "STOP": "Stops change the available sound by controlling which pipes receive air.",
-      "BELLOWS": "Traditional organs used bellows; modern installations commonly include electric blowers."
+      "ORGAN": "A pipe organ uses moving air to sound pipes rather than striking piano strings.",
+      "HYMN": "A hymn is a kind of song, not the instrument accompanying it.",
+      "CHURCH": "This puzzle describes a church setting rather than every possible organ venue.",
+      "PIPE": "A pipe produces a tone when supplied with suitable airflow.",
+      "BENCH": "The bench is the seat rather than a keyboard or music stand."
     },
     "requiredAnswers": [
       "ORGAN"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "keyboard-sounds-2",

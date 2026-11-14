@@ -232,80 +232,82 @@
   },
   {
     "id": "christmas-around-the-room-4",
-    "title": "A Christmas Tree Skirt Below the Branches",
-    "description": "Look beneath the decorated tree for fabric, edging, and the opening that fits around its stand.",
-    "cardDescription": "Look beneath the decorated tree for fabric, edging, and the opening that fits around its stand.",
-    "subtheme": "A Christmas Tree Skirt Below the Branches",
-    "focus": "A tree skirt is a decorative fabric covering around the base; it is not part of the tree itself.",
-    "solvingTip": "Clues point to sewing details and the skirt's position on the floor.",
+    "title": "A Cloth Skirt Beneath the Christmas Tree",
+    "description": "Look beneath the decorated tree for its cloth covering, ties, and familiar fabric details.",
+    "cardDescription": "Look beneath the decorated tree for its cloth covering, ties, and familiar fabric details.",
+    "subtheme": "A Cloth Skirt Beneath the Christmas Tree",
+    "focus": "A decorative skirt covers the area around the tree's base. The clues stay with household words rather than sewing techniques.",
+    "solvingTip": "Try the colors and short fabric words before the covering's name.",
     "words": [
       [
-        "TREESKIRT",
-        "Decorative fabric laid around a Christmas tree's base, two words"
+        "SKIRT",
+        "Cloth covering placed around a Christmas tree's base"
       ],
       [
-        "FELT",
-        "Nonwoven fabric often used for simple holiday decorations"
+        "CLOTH",
+        "Fabric laid around the tree stand"
       ],
       [
-        "SCALLOP",
-        "One rounded curve in a decorative fabric edge"
-      ],
-      [
-        "APPLIQUE",
-        "Fabric shape attached on top of another fabric"
-      ],
-      [
-        "SLIT",
-        "Narrow opening allowing the skirt to fit around the tree"
+        "STAND",
+        "Support holding the Christmas tree upright"
       ],
       [
         "HEM",
-        "Folded and finished edge of a fabric skirt"
-      ],
-      [
-        "TRIM",
-        "Decorative edging around the holiday cloth"
+        "Finished edge of the tree's fabric covering"
       ],
       [
         "TIE",
         "Fastener joining the two sides of the skirt's opening"
       ],
       [
+        "TREE",
+        "Decorated evergreen above the cloth covering"
+      ],
+      [
         "FLOOR",
-        "Surface beneath the Christmas tree and its skirt"
+        "Room surface beneath the Christmas display"
       ],
       [
-        "STAND",
-        "Support holding the tree upright above the cloth"
+        "EDGE",
+        "Outer boundary of the round fabric piece"
       ],
       [
-        "CIRCLE",
-        "Round overall shape of many tree skirts"
-      ],
-      [
-        "STAR",
-        "Pointed shape used as a stitched decoration"
+        "ROUND",
+        "Circular in overall shape, as many tree skirts are"
       ],
       [
         "RED",
-        "Traditional holiday color chosen for some skirts"
+        "Traditional Christmas color used for some cloth skirts"
+      ],
+      [
+        "GREEN",
+        "Leaf-like holiday color used with red"
+      ],
+      [
+        "FABRIC",
+        "Another word for the cloth around the tree"
       ],
       [
         "SEAM",
-        "Line joining two pieces of the decorative fabric"
+        "Stitched join between two fabric pieces"
+      ],
+      [
+        "FOLD",
+        "Bend the cloth neatly before storing it"
       ]
     ],
     "answerNotes": {
-      "TREESKIRT": "A tree skirt covers the area around the stand while leaving the trunk accessible.",
-      "FELT": "Felt does not need the same woven edge finishing as many cloth fabrics.",
-      "SCALLOP": "A row of rounded scallops creates a repeating border.",
-      "APPLIQUE": "Applique adds a surface design, unlike cutting a hole through the cloth.",
-      "SLIT": "The opening lets the covering be placed around an already standing tree."
+      "SKIRT": "Tree skirt is the everyday name for this decorative covering.",
+      "CLOTH": "Cloth is the material rather than the supporting stand beneath the tree.",
+      "STAND": "The cloth decoration surrounds or covers the area around the stand.",
+      "HEM": "A hem finishes the boundary without changing the covering's basic shape.",
+      "TIE": "Ties can close the gap after the fabric is placed around the tree."
     },
     "requiredAnswers": [
-      "TREESKIRT"
-    ]
+      "SKIRT",
+      "TREE"
+    ],
+    "revision": 2
   },
   {
     "id": "christmas-around-the-room-5",

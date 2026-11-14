@@ -1,81 +1,82 @@
 [
   {
     "id": "simple-machines",
-    "title": "Levers and Lifting",
-    "description": "Recognize a lever’s parts through a supported bar, a turning point, and the forces used to move a load.",
-    "cardDescription": "Recognize a lever’s parts through a supported bar, a turning point, and the forces used to move a load.",
-    "subtheme": "Levers and Lifting",
-    "focus": "A lever turns around a support. Its geometry can trade a greater movement distance for a smaller required force, but it does not create energy or eliminate the work of lifting.",
-    "solvingTip": "Look for the part’s role: turning point, applied force, or object being moved. Several ordinary words have precise meanings in this scene.",
+    "title": "Opening a Paint Can in the Shed",
+    "description": "Lift a paint-can lid through familiar tools, edges, and simple hand actions.",
+    "cardDescription": "Lift a paint-can lid through familiar tools, edges, and simple hand actions.",
+    "subtheme": "Opening a Paint Can in the Shed",
+    "focus": "A tool can act as a lever to lift the lid's edge. The clues focus on the can and the action.",
+    "solvingTip": "Try the short container and action words first.",
     "words": [
       [
         "LEVER",
-        "Rigid bar turning about a support to move a load"
+        "Rigid tool used to lift something by turning against a support"
       ],
       [
-        "FULCRUM",
-        "Support or turning point about which a lever rotates"
-      ],
-      [
-        "LOAD",
-        "Object or resistance moved by a simple machine"
-      ],
-      [
-        "EFFORT",
-        "Applied input force used to operate a simple machine"
-      ],
-      [
-        "ARM",
-        "Lever ___, perpendicular distance from a pivot to a force's line of action"
-      ],
-      [
-        "PIVOT",
-        "Point about which a rigid object turns"
-      ],
-      [
-        "BAR",
-        "Long rigid piece used as a simple levering tool"
-      ],
-      [
-        "BEAM",
-        "Long structural member supported in a balance"
+        "LID",
+        "Cover lifted from the top of the paint can"
       ],
       [
         "PRY",
-        "To move something using a levering action"
+        "Lift a tight edge by using a tool as a lever"
+      ],
+      [
+        "RIM",
+        "Raised edge around the paint can's opening"
+      ],
+      [
+        "TOOL",
+        "Handheld implement used to loosen the cover"
+      ],
+      [
+        "CAN",
+        "Metal container holding the paint"
+      ],
+      [
+        "PAINT",
+        "Colored coating stored inside the container"
+      ],
+      [
+        "BAR",
+        "Long rigid piece that can be used as a lifting tool"
       ],
       [
         "LIFT",
-        "To raise a load to a higher position"
+        "Raise the loosened lid upward"
       ],
       [
-        "BALANCE",
-        "To bring opposing turning effects into equilibrium"
+        "HAND",
+        "Body part holding the tool"
       ],
       [
-        "SCALE",
-        "Weighing instrument that may use a balanced beam"
+        "EDGE",
+        "Outer boundary of the can's cover"
       ],
       [
-        "POINT",
-        "Specific location at which a force is applied"
+        "OPEN",
+        "Remove the lid so the contents can be reached"
       ],
       [
-        "FORCE",
-        "Push or pull acting on an object"
+        "WOOD",
+        "Material of a shelf beside the paint supplies"
+      ],
+      [
+        "METAL",
+        "Material used for many paint containers"
       ]
     ],
     "answerNotes": {
-      "LEVER": "A lever rotates around a fulcrum. The distances from that support determine how its forces and movements relate.",
-      "FULCRUM": "The fulcrum is the pivot support. It is different from the load being moved or the effort applied by the user.",
-      "LOAD": "Load names what is being acted on. Effort names the applied force used to act on it.",
-      "EFFORT": "Effort is an input force. A machine may reduce the force needed by increasing the distance over which that force acts.",
-      "ARM": "The effective lever arm is the perpendicular distance from the pivot to the force's line of action. It need not equal the full length of the bar."
+      "LEVER": "A lever can help lift an edge with a controlled turning action.",
+      "LID": "The lid closes the opening and can be replaced after use.",
+      "PRY": "Prying is a lifting action rather than cutting through the cover.",
+      "RIM": "The rim forms the outer boundary around the top.",
+      "TOOL": "A tool supplies a useful shape for the task rather than being part of the can."
     },
     "requiredAnswers": [
-      "LEVER",
-      "FULCRUM"
-    ]
+      "LID",
+      "LEVER"
+    ],
+    "revision": 2
   },
   {
     "id": "simple-machines-2",
@@ -83,7 +84,7 @@
     "description": "Follow a rope around a grooved wheel and distinguish the names for the support, moving load, and lifting arrangement.",
     "cardDescription": "Follow a rope around a grooved wheel and distinguish the names for the support, moving load, and lifting arrangement.",
     "subtheme": "A Pulley and a Rope",
-    "focus": "A pulley can change a force’s direction, and a multiple-pulley arrangement can change the force needed. The number of supporting rope sections matters more than simply counting visible wheels.",
+    "focus": "A pulley can change a force\u2019s direction, and a multiple-pulley arrangement can change the force needed. The number of supporting rope sections matters more than simply counting visible wheels.",
     "solvingTip": "Separate the wheel itself from the whole arrangement. The short rope and support words can provide crossings for the technical term.",
     "words": [
       [

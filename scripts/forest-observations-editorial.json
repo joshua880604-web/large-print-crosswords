@@ -157,80 +157,82 @@
   },
   {
     "id": "forest-observations-3",
-    "title": "A Pine Cone on the Path",
-    "description": "Study a conifer through its needles, cone scales, and the woody growth around them.",
-    "cardDescription": "Study a conifer through its needles, cone scales, and the woody growth around them.",
-    "subtheme": "A Pine Cone on the Path",
-    "focus": "Pine cones carry reproductive structures rather than forming flowers like a rose. Seed-bearing cones and pollen-producing cones have different roles.",
-    "solvingTip": "Use the clue\u2019s part or process: leaf, seed covering, sticky material, or airborne powder.",
+    "title": "A Pine Cone Beneath the Tree",
+    "description": "Look at a pine tree through its cones, needles, branches, and familiar woodland materials.",
+    "cardDescription": "Look at a pine tree through its cones, needles, branches, and familiar woodland materials.",
+    "subtheme": "A Pine Cone Beneath the Tree",
+    "focus": "The needle is a narrow leaf. A mature cone can release seeds that may grow into new trees.",
+    "solvingTip": "Try a short tree part or color first.",
     "words": [
       [
-        "CONIFER",
-        "Tree group that includes pines, spruces, and firs"
-      ],
-      [
-        "NEEDLE",
-        "Slender pointed leaf of a pine"
-      ],
-      [
-        "RESIN",
-        "Sticky substance produced by many conifers"
-      ],
-      [
-        "SCALE",
-        "One overlapping segment of a woody pine seed cone"
-      ],
-      [
-        "POLLEN",
-        "Powdery reproductive material released by male pine cones"
-      ],
-      [
         "PINE",
-        "Conifer whose familiar leaves are long narrow needles"
+        "Evergreen tree with familiar narrow needle leaves"
       ],
       [
         "CONE",
-        "Reproductive structure associated with a pine tree"
+        "Woody seed-bearing structure beneath the pine"
+      ],
+      [
+        "NEEDLE",
+        "Long narrow leaf on a pine tree"
       ],
       [
         "SEED",
-        "Plant beginning carried beneath a pine cone's scales"
+        "Small plant-starting part released from a mature cone"
       ],
       [
-        "BARK",
-        "Protective covering on a pine trunk"
+        "SAP",
+        "Liquid found inside a living tree"
+      ],
+      [
+        "TREE",
+        "Tall woody plant above the fallen cone"
+      ],
+      [
+        "BRANCH",
+        "Large woody arm of the pine"
       ],
       [
         "TWIG",
-        "Small branch segment bearing needles or cones"
+        "Small thin shoot carrying a few needles"
       ],
       [
-        "WIND",
-        "Moving air carrying much pine pollen"
+        "BARK",
+        "Outer covering of the pine's trunk"
       ],
       [
         "WOOD",
-        "Hard material forming the trunk beneath its covering"
+        "Hard material inside the tree's trunk"
+      ],
+      [
+        "GREEN",
+        "Color retained by many pine needles in winter"
+      ],
+      [
+        "DROP",
+        "Fall from the tree to the ground"
       ],
       [
         "TIP",
         "Pointed end of a pine needle"
       ],
       [
-        "BUD",
-        "Compact growing point at the end of a shoot"
+        "WIND",
+        "Moving air passing through the branches"
       ]
     ],
     "answerNotes": {
-      "CONIFER": "Conifers include familiar cone-bearing trees; the group is broader than pines alone.",
-      "NEEDLE": "A pine needle is a leaf, not a thorn or a detached cone scale.",
-      "RESIN": "Resin differs from watery sap in composition and behavior, though the words are sometimes loosely confused.",
-      "SCALE": "Seed-cone scales protect and carry the seeds; a scale is not the whole cone.",
-      "POLLEN": "Pollen-producing cones have a different role from the larger seed-bearing cones familiar on the ground."
+      "PINE": "Pine needles are leaves rather than sharp wooden thorns.",
+      "CONE": "A mature seed cone can release seeds from between its parts.",
+      "NEEDLE": "Needle describes the leaf shape, not a sewing tool in this scene.",
+      "SEED": "A seed can develop into a new tree under suitable conditions.",
+      "SAP": "Sap differs from the thicker sticky resin that may appear on bark."
     },
     "requiredAnswers": [
-      "CONIFER"
-    ]
+      "PINE",
+      "CONE"
+    ],
+    "revision": 2
   },
   {
     "id": "forest-observations-4",
@@ -312,79 +314,80 @@
   },
   {
     "id": "forest-observations-5",
-    "title": "Wildflowers Along a Woodland Path",
-    "description": "Meet woodland flowers through clear names and recognizable plant features.",
-    "cardDescription": "Meet woodland flowers through clear names and recognizable plant features.",
-    "subtheme": "Wildflowers Along a Woodland Path",
-    "focus": "These clues focus on selected plants rather than treating every flower as a garden annual. Common names can describe shape, color, or the time a flower is noticed.",
-    "solvingTip": "Look for a completed common name or a count of a distinctive flower part.",
+    "title": "Small Flowers Along the Woodland Path",
+    "description": "Notice small flowers through their petals, colors, leaves, and place beside a woodland path.",
+    "cardDescription": "Notice small flowers through their petals, colors, leaves, and place beside a woodland path.",
+    "subtheme": "Small Flowers Along the Woodland Path",
+    "focus": "These clues use visible flower parts and ordinary colors rather than species or anatomy terms.",
+    "solvingTip": "Start with a color or a short plant-part word.",
     "words": [
       [
-        "TRILLIUM",
-        "Woodland flower commonly recognized by three petals and three leaflike bracts"
-      ],
-      [
-        "VIOLET",
-        "Low-growing flower group including purple and white woodland kinds"
-      ],
-      [
-        "BLUEBELL",
-        "Common flower name suggesting a blue hanging bell"
-      ],
-      [
-        "ANEMONE",
-        "Wood ___, low-growing spring flower"
+        "FLOWER",
+        "Plant's bloom seen beside the woodland path"
       ],
       [
         "PETAL",
-        "One colored segment of a flower's corolla"
-      ],
-      [
-        "FERN",
-        "Frond-bearing plant growing beside woodland flowers"
-      ],
-      [
-        "BLOOM",
-        "Open flower noticed along the woodland path"
-      ],
-      [
-        "LEAF",
-        "Green flat plant part beneath a flower"
-      ],
-      [
-        "ROOT",
-        "Absorbing organ anchoring a woodland plant"
-      ],
-      [
-        "SHADE",
-        "Reduced direct light under woodland trees"
-      ],
-      [
-        "PATH",
-        "Walking route passing the flowering plants"
-      ],
-      [
-        "STEM",
-        "Plant support holding a flower above the ground"
+        "Colored flower part surrounding its center"
       ],
       [
         "BUD",
-        "Unopened flower before it expands"
+        "Flower before it has opened"
       ],
       [
-        "SPRING",
-        "Season when many woodland wildflowers bloom before trees fully leaf out"
+        "BLOOM",
+        "Open flower noticed on the woodland walk"
+      ],
+      [
+        "SHADE",
+        "Place away from direct sunlight beneath the trees"
+      ],
+      [
+        "STEM",
+        "Stalk holding the small flower above the ground"
+      ],
+      [
+        "LEAF",
+        "Green plant part beside the flower stalk"
+      ],
+      [
+        "ROOT",
+        "Plant part taking in water from the soil"
+      ],
+      [
+        "WHITE",
+        "Snowlike color of some woodland flowers"
+      ],
+      [
+        "PINK",
+        "Rosy color of some small blooms"
+      ],
+      [
+        "BLUE",
+        "Sky-like color seen on some woodland blossoms"
+      ],
+      [
+        "GREEN",
+        "Usual color of the leaves beside the flowers"
+      ],
+      [
+        "PATH",
+        "Narrow route passing the flowering plants"
+      ],
+      [
+        "GROW",
+        "Become larger as a young woodland plant develops"
       ]
     ],
     "answerNotes": {
-      "TRILLIUM": "The characteristic groups of three help explain trillium's name; the structures below the flower are botanically bracts.",
-      "VIOLET": "Violet can name a plant or a color; the flower group includes more colors than the name suggests.",
-      "BLUEBELL": "Bluebell is used for different plants in different regions; the clue concerns the familiar common-name shape.",
-      "ANEMONE": "Wood anemone is a familiar common-name combination; anemone alone names a larger plant group.",
-      "PETAL": "Petals belong to the flower itself, while leaves or bracts around it have different roles."
+      "FLOWER": "A flower is different from the plant's roots or leaves.",
+      "PETAL": "Petals vary in shape and number between different flowers.",
+      "BUD": "A bud can develop into an open bloom.",
+      "BLOOM": "Bloom can name an open flower as well as the act of flowering.",
+      "SHADE": "Shade describes the surroundings rather than a flower's color."
     },
     "requiredAnswers": [
-      "TRILLIUM"
-    ]
+      "FLOWER"
+    ],
+    "revision": 2
   }
 ]

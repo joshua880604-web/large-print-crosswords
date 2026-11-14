@@ -6,7 +6,7 @@
     "cardDescription": "Explore North American grassland through its grasses, large grazers, and burrowing animals.",
     "subtheme": "Life on the Prairie",
     "focus": "A prairie is a grassland ecosystem, not simply an empty field. The clues describe the plants, animals, and ground features that make up the habitat.",
-    "solvingTip": "Use the clue’s category: grazing animal, burrow, plant, or open landscape.",
+    "solvingTip": "Use the clue\u2019s category: grazing animal, burrow, plant, or open landscape.",
     "words": [
       [
         "PRAIRIE",
@@ -78,157 +78,163 @@
   },
   {
     "id": "open-country-wildlife-2",
-    "title": "Desert Neighbors After Dusk",
-    "description": "Look at familiar desert animals through their nighttime activity and adaptations to dry country.",
-    "cardDescription": "Look at familiar desert animals through their nighttime activity and adaptations to dry country.",
-    "subtheme": "Desert Neighbors After Dusk",
-    "focus": "Night activity can reduce exposure to daytime heat, but desert animals have varied habits. The clues use particular body features and animal names rather than assuming every species behaves alike.",
-    "solvingTip": "Try a distinctive ear, tail, or covering before the longer animal names.",
+    "title": "Desert Animals After Sunset",
+    "description": "Picture familiar desert animals through their ears, tails, paws, and the cooling evening scene.",
+    "cardDescription": "Picture familiar desert animals through their ears, tails, paws, and the cooling evening scene.",
+    "subtheme": "Desert Animals After Sunset",
+    "focus": "These clues identify visible animals and ordinary surroundings without specialist animal-group names.",
+    "solvingTip": "Try a short body part or evening word first.",
     "words": [
       [
-        "NOCTURNAL",
-        "Describing an animal mainly active at night"
-      ],
-      [
-        "JAVELINA",
-        "Peccary of the American Southwest, resembling a small pig"
-      ],
-      [
-        "JACKRABBIT",
-        "Long-eared hare associated with open western country"
-      ],
-      [
-        "GECKO",
-        "Lizard group whose members often have conspicuous toe pads"
-      ],
-      [
-        "DEN",
-        "Sheltered resting place used by a desert mammal"
+        "FOX",
+        "Pointed-eared animal related to a dog"
       ],
       [
         "OWL",
         "Bird of prey often heard after desert sunset"
       ],
       [
-        "FOX",
-        "Kit ___, small desert canine with large ears"
-      ],
-      [
-        "CACTUS",
-        "Spiny succulent plant in many Southwestern habitats"
-      ],
-      [
-        "DUSK",
-        "Evening transition toward darkness"
-      ],
-      [
         "BAT",
-        "Flying mammal active around many desert evenings"
+        "Flying mammal active around the desert at dusk"
       ],
       [
-        "TAIL",
-        "Rear extension of a fox or lizard"
+        "LIZARD",
+        "Small reptile with a long tail in many desert habitats"
+      ],
+      [
+        "HARE",
+        "Long-eared animal related to a rabbit"
       ],
       [
         "SAND",
-        "Loose mineral grains covering some desert ground"
+        "Loose grains underfoot on some desert ground"
       ],
       [
         "ROCK",
-        "Hard natural material offering shade and shelter"
+        "Hard natural object providing a sheltered spot"
+      ],
+      [
+        "CACTUS",
+        "Desert plant often covered with spines"
+      ],
+      [
+        "NIGHT",
+        "Dark period after the desert sun has set"
+      ],
+      [
+        "DUSK",
+        "Fading evening light before full darkness"
       ],
       [
         "PAW",
-        "Foot of a desert fox"
+        "Foot of the desert fox"
+      ],
+      [
+        "TAIL",
+        "Rear body part of the fox or lizard"
+      ],
+      [
+        "EAR",
+        "Body part helping the animal hear"
+      ],
+      [
+        "EYE",
+        "Body part used to see in the evening light"
       ]
     ],
     "answerNotes": {
-      "NOCTURNAL": "Nocturnal concerns activity timing; it does not mean an animal can never be seen during daylight.",
-      "JAVELINA": "A javelina is a peccary, not a member of the domestic pig's family despite its appearance.",
-      "JACKRABBIT": "Jackrabbits are hares despite the common name; their large ears also play a role in heat exchange.",
-      "GECKO": "Many geckos have adhesive toe pads, but that feature is not universal across the whole group.",
-      "DEN": "Den names the shelter; an animal's behavior and location determine the particular kind it uses."
+      "FOX": "Desert foxes include several kinds adapted to dry surroundings.",
+      "OWL": "Owls have feathers and wings, unlike the nearby flying mammal.",
+      "BAT": "A bat is a mammal rather than a bird.",
+      "LIZARD": "Lizards differ from snakes in usually having visible legs.",
+      "HARE": "Hares and rabbits are related but are not identical groups."
     },
     "requiredAnswers": [
-      "NOCTURNAL"
-    ]
+      "FOX"
+    ],
+    "revision": 2
   },
   {
     "id": "open-country-wildlife-3",
-    "title": "In an Everglades Wetland",
-    "description": "Explore a South Florida wetland through its shallow water, distinctive plants, and birds.",
-    "cardDescription": "Explore a South Florida wetland through its shallow water, distinctive plants, and birds.",
-    "subtheme": "In an Everglades Wetland",
-    "focus": "The Everglades include more than one habitat. Sawgrass marsh, wooded islands, and tree-lined waterways support different communities rather than forming one uniform landscape.",
-    "solvingTip": "Identify the water feature or plant type before using the animal clues for crossings.",
+    "title": "Birds in a Florida Marsh",
+    "description": "Watch familiar wading birds through their legs, wings, bills, and watery surroundings.",
+    "cardDescription": "Watch familiar wading birds through their legs, wings, bills, and watery surroundings.",
+    "subtheme": "Birds in a Florida Marsh",
+    "focus": "Long legs help these birds stand in shallow water while they look for food.",
+    "solvingTip": "Short body-part and color words help cross the bird names.",
     "words": [
       [
-        "EVERGLADES",
-        "South Florida wetland region, with no space needed"
-      ],
-      [
-        "SAWGRASS",
-        "Sharp-edged sedge prominent in Everglades marshes"
-      ],
-      [
-        "SLOUGH",
-        "Slow-flowing wetland channel or low water-filled area"
-      ],
-      [
-        "HAMMOCK",
-        "Raised wooded island within a South Florida wetland landscape"
+        "HERON",
+        "Long-legged wading bird with a pointed bill"
       ],
       [
         "EGRET",
-        "Long-legged wading bird often seen feeding in shallow water"
-      ],
-      [
-        "HERON",
-        "Wading bird with long legs and a pointed bill"
-      ],
-      [
-        "IBIS",
-        "Wading bird with a long downward-curving bill"
+        "Usually white wading bird related to herons"
       ],
       [
         "MARSH",
-        "Wetland dominated by nonwoody vegetation"
+        "Wet area often covered with grasses or reeds"
       ],
       [
-        "MANGROVE",
-        "Salt-tolerant tree group found along some Florida shores"
+        "BILL",
+        "Pointed mouth part a wading bird uses to catch food"
       ],
       [
-        "WATER",
-        "Liquid moving slowly through the wetland"
+        "WING",
+        "Feathered body part spread for flight"
       ],
       [
-        "REED",
-        "Tall grasslike waterside stem"
+        "BIRD",
+        "Feathered animal seen beside the Florida water"
       ],
       [
         "FISH",
-        "Animal prey caught by many wading birds"
+        "Swimming animal a heron may catch"
       ],
       [
-        "MUCK",
-        "Soft wet soil rich in organic material"
+        "WATER",
+        "Liquid around the wading bird's legs"
       ],
       [
-        "CYPRESS",
-        "Tree associated with swampy southern habitats"
+        "REED",
+        "Tall plant growing in a shallow wet area"
+      ],
+      [
+        "LEG",
+        "Long limb supporting a bird in the marsh"
+      ],
+      [
+        "NEST",
+        "Place where the bird lays its eggs"
+      ],
+      [
+        "FLY",
+        "Move through the air using wings"
+      ],
+      [
+        "SHORE",
+        "Land beside the marsh's open water"
+      ],
+      [
+        "GREEN",
+        "Color of many plants in the marsh"
+      ],
+      [
+        "WHITE",
+        "Usual feather color of an egret"
       ]
     ],
     "answerNotes": {
-      "EVERGLADES": "The Everglades contain marshes, tree islands, and other habitats rather than one continuous deep-water lake.",
-      "SAWGRASS": "Sawgrass is a sedge, despite grass in its common name.",
-      "SLOUGH": "Slough is a water-landform word with several regional pronunciations; the clue identifies the wetland meaning.",
-      "HAMMOCK": "Hammock names a patch of trees here rather than a hanging fabric bed.",
-      "EGRET": "Egrets are herons; the common-name distinction is not a separate unrelated bird family."
+      "HERON": "Herons often look for food while standing or moving through shallow water.",
+      "EGRET": "Egret is a familiar name for several heron relatives, not one single species.",
+      "MARSH": "A marsh has wet ground and water-loving vegetation.",
+      "BILL": "Bill is the everyday bird term used here rather than a payment request.",
+      "WING": "The wings carry the bird through the air rather than supporting it while standing."
     },
     "requiredAnswers": [
-      "EVERGLADES"
-    ]
+      "HERON"
+    ],
+    "revision": 2
   },
   {
     "id": "open-country-wildlife-4",

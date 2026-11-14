@@ -4,8 +4,8 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 500 current puzzles; 5587 clue entries.
-- 2490 distinct answers; 5587 distinct answer/clue pairs.
+- 500 current puzzles; 5590 clue entries.
+- 2362 distinct answers; 5590 distinct answer/clue pairs.
 - 500 different introductions; 0 numbered titles remain.
 - 500 editions have dedicated subject notes and answer explanations.
 
@@ -93,11 +93,11 @@ Current subjects: Measuring and Mixing, A Loaf of Bread, Making a Homemade Pie, 
 
 | Metric | Original five | Current five |
 | --- | ---: | ---: |
-| Clue entries | 64 | 57 |
-| Distinct answer/clue pairs | 22 | 57 |
+| Clue entries | 64 | 58 |
+| Distinct answer/clue pairs | 22 | 58 |
 | Different introductions | 1 | 5 |
 
-Current subjects: Inside the Sewing Box, A Basket of Knitting, With a Crochet Hook, Piecing a Patchwork Quilt, Mending Everyday Clothes.
+Current subjects: Inside the Sewing Box, A Basket of Knitting, With a Crochet Hook, A Patchwork Quilt for the Sofa, Mending Everyday Clothes.
 
 ## Flowers: five stable URLs
 
@@ -244,12 +244,12 @@ Subjects: At the Swimming Pool, Around the Running Track, A Bicycle by the Path,
 
 Subjects: A Little Jazz Vocabulary, Country Music on the Radio, Words from a Blues Session, A Folk Song Gathering, Rock and Roll Sounds.
 
-## Musical Instruments: five first editions
+## Musical Instruments: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Inside a Guitar Case, Brass Band Sounds, Woodwinds and Their Voices, A Beat from the Drum Kit, Bellows and Buttons.
+Subjects: Inside a Guitar Case, Brass Band Sounds, Woodwinds and Their Voices, A Beat from the Drum Kit, An Accordion at the Community Hall.
 
 ## Dance and Song: five first editions
 
@@ -342,19 +342,19 @@ Subjects: A Simple Breakfast Table, Making a Sandwich Plate, Pasta for Supper, T
 
 Subjects: A Bowl of Citrus, A Basket of Berries, On the Spice Shelf, Herbs at the Kitchen Window, Preserves in the Pantry.
 
-## Collections: five first editions
+## Collections: five current editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Sorting Stamps in an Album, Coins in a Collector’s Tray, An Album of Family Photographs, Postcards Kept from a Journey, A Model Railway Layout.
+
+## Geography: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Pages in a Stamp Album, Coins in a Collector’s Tray, An Album of Family Photographs, Postcards Kept from a Journey, A Model Railway Layout.
-
-## Geography: five first editions
-
-- 56 clues; 56 distinct answer/clue pairs.
-- Five distinct introductions and three answer explanations per puzzle.
-
-Subjects: Reading an American Road Map, Mountains and Valleys, Following Rivers and Lakes, Along the American Coast, Desert Landscapes of the Southwest.
+Subjects: Reading an American Road Map, Mountains and Valleys, Following Rivers and Lakes, Familiar Sights Along the Coast, Desert Landscapes of the Southwest.
 
 ## State Capitals: five first editions
 
@@ -384,12 +384,12 @@ Subjects: A Morning on a Texas Ranch, Texas Wildflowers in Spring, Pecan Pie at 
 
 Subjects: At the Neighborhood Barber Shop, At the Shoe Repair Counter, Outside the Fire Station, Waiting at the Bus Stop, At the Corner Newsstand.
 
-## Hands-on Hobbies: five first editions
+## Hands-on Hobbies: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Jigsaw on the Table, A Cross-Stitch Sampler, Working at a Small Loom, Beads on the Craft Tray, Folding an Origami Crane.
+Subjects: A Jigsaw on the Table, A Cross-Stitch Sampler, A Small Loom on the Craft Table, Beads on the Craft Tray, Folding an Origami Crane.
 
 ## American Landmarks: five first editions
 
@@ -407,17 +407,17 @@ Subjects: A Covered Bridge Visit, A Lighthouse by the Shore, At the Old Schoolho
 
 ## Backyard Nature Studies: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Around a Freshwater Pond, A Honeybee Colony, Caterpillars and Cocoons, Rings on a Tree Stump, Animal Tracks in Mud.
+Subjects: Around a Freshwater Pond, A Honeybee Colony, A Caterpillar on a Garden Leaf, Rings on a Tree Stump, Animal Tracks in Mud.
 
-## Evening Sky: five first editions
+## Evening Sky: five current editions
 
-- 57 clues; 57 distinct answer/clue pairs.
+- 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: The Moon’s Changing Shape, Stars and Familiar Sky Patterns, A Telescope on Its Tripod, Neighbors in the Solar System, Meteors and Comets.
+Subjects: The Moon’s Changing Shape, Stars and Familiar Sky Patterns, Looking at the Moon Through a Telescope, Neighbors in the Solar System, Meteors and Comets.
 
 ## Water and Wildlife: five current editions
 
@@ -440,12 +440,12 @@ Subjects: A Telephone on the Hall Table, A Familiar Film Camera, The Home Sewing
 
 Subjects: A Walk through a Museum, A Botanical Garden Visit, At the Neighborhood Craft Fair, The Community Bandstand, At the County History Room.
 
-## Garden Details: five first editions
+## Garden Details: five current editions
 
-- 56 clues; 56 distinct answer/clue pairs.
+- 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Compost and Soil, A Trellis of Garden Peas, Bulbs and Other Underground Stores, At the Rose Arbor, A Patch of Garden Berries.
+Subjects: Compost for the Garden Bed, Picking Peas Beside the Trellis, Planting Spring Bulbs, At the Rose Arbor, Picking Berries in the Garden.
 
 ## Kitchen Word Science: five current editions
 
@@ -454,19 +454,19 @@ Subjects: Compost and Soil, A Trellis of Garden Peas, Bulbs and Other Undergroun
 
 Subjects: Textures at the Table, Ways to Prepare Vegetables, A Little Kitchen Chemistry, The Spice Grinder, Reading a Kitchen Measuring Cup.
 
-## Clothes and Fabrics: five first editions
-
-- 56 clues; 56 distinct answer/clue pairs.
-- Five distinct introductions and three answer explanations per puzzle.
-
-Subjects: Patterns in the Closet, A Button and a Zipper, The Shape of a Shirt, Familiar Fabric Names, A Rainy-Day Outfit.
-
-## Weather and Light Tools: five first editions
+## Clothes and Fabrics: five current editions
 
 - 55 clues; 55 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Reading a Thermometer, A Compass in the Hand, Weather Instruments at a Glance, Light and Shadows, Magnets on the Fridge.
+Subjects: Patterns in the Closet, A Button and a Zipper, A Favorite Shirt on the Hanger, Familiar Fabric Names, A Rainy-Day Outfit.
+
+## Weather and Light Tools: five current editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Reading a Thermometer, A Compass in the Hand, Rain in a Garden Measuring Jar, Light and Shadows, Magnets on the Fridge.
 
 ## Everyday Wordplay: five first editions
 
@@ -482,19 +482,19 @@ Subjects: Words That Sound Alike, Words for Groups, Everyday American Spellings,
 
 Subjects: A Friendly Game of Bingo, A Round of Shuffleboard, Mini Golf by the Park, A Pitch of Horseshoes, A Friendly Cribbage Board.
 
-## Simple Machines: five first editions
+## Simple Machines: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Levers and Lifting, A Pulley and a Rope, Wheels and Axles, Gears at Work, Ramps and Screws.
+Subjects: Opening a Paint Can in the Shed, A Pulley and a Rope, Wheels and Axles, Gears at Work, Ramps and Screws.
 
-## Rail and Water Travel: five first editions
+## Rail and Water Travel: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Night in a Sleeping Car, Beside a Steam Locomotive, A Canal Boat at the Lock, Crossing on a Passenger Ferry, A Paddlewheel Riverboat.
+Subjects: A Night in a Sleeping Car, Beside a Steam Locomotive, Waiting Beside a Canal Lock, Crossing on a Passenger Ferry, A Riverboat at the Landing.
 
 ## Roadside Americana: five first editions
 
@@ -512,31 +512,31 @@ Subjects: A Convertible on a Sunday Drive, Alongside a Yellow School Bus, A Trac
 
 ## Working Waterfront: five current editions
 
-- 56 clues; 56 distinct answer/clue pairs.
+- 58 clues; 58 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Fishing Trawler at the Pier, Where the River Meets the Sea, A Wooden Rowboat by the Dock, Buoys Beyond the Harbor, Reading a Harbor Chart.
+Subjects: A Fishing Trawler at the Pier, A River Flowing Toward the Sea, A Wooden Rowboat by the Dock, Buoys Beyond the Harbor, A Map Beside the Harbor.
 
 ## Forest Observations: five current editions
 
-- 54 clues; 54 distinct answer/clue pairs.
-- Five distinct introductions and three answer explanations per puzzle.
-
-Subjects: Green Ferns Beside the Path, Acorns Under an Oak Tree, A Pine Cone on the Path, Mushrooms After a Woodland Shower, Wildflowers Along a Woodland Path.
-
-## Open Country Wildlife: five first editions
-
-- 59 clues; 59 distinct answer/clue pairs.
-- Five distinct introductions and three answer explanations per puzzle.
-
-Subjects: Life on the Prairie, Desert Neighbors After Dusk, In an Everglades Wetland, An Alpine Meadow in Summer, Animals of the Northern Tundra.
-
-## Small World Nature: five current editions
-
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Ladybugs Among the Leaves, An Ant Colony Under the Path, An Earthworm After a Spring Shower, Dew Drops on a Spider Web, A Snail on a Garden Wall.
+Subjects: Green Ferns Beside the Path, Acorns Under an Oak Tree, A Pine Cone Beneath the Tree, Mushrooms After a Woodland Shower, Small Flowers Along the Woodland Path.
+
+## Open Country Wildlife: five current editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Life on the Prairie, Desert Animals After Sunset, Birds in a Florida Marsh, An Alpine Meadow in Summer, Animals of the Northern Tundra.
+
+## Small World Nature: five current editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Ladybugs Among the Leaves, An Ant Colony Under the Path, An Earthworm After a Spring Shower, Dew Drops on a Spider Web, A Snail on the Garden Wall.
 
 ## Garden Styles: five first editions
 
@@ -566,26 +566,26 @@ Subjects: A Bowl of New England Chowder, Gumbo at a Louisiana Table, Salsa on a 
 
 Subjects: Twists at the Pretzel Bakery, A Bagel Before Breakfast, A Waffle Iron on the Counter, A Sourdough Starter Jar, Noodle Dough on the Board.
 
-## Craft Room Techniques: five first editions
+## Craft Room Techniques: five current editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Hanging Flowerpot by the Window, A Hooked Rug on Its Frame, Patterns Stamped into Leather, A Stained-Glass Window Panel, Needlepoint Across a Canvas.
+
+## Paper and Lettering: five current editions
 
 - 57 clues; 57 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Knots in a Macrame Hanger, A Hooked Rug on Its Frame, Patterns Stamped into Leather, A Stained-Glass Window Panel, Needlepoint Across a Canvas.
+Subjects: A Calligraphy Pen and Ink, Binding a Small Handmade Book, A Rubber Stamp and Ink Pad, Swirls in a Marbled Paper Sheet, Printing a Card at an Old-Time Press.
 
-## Paper and Lettering: five current editions
+## Old Time Entertainment: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Calligraphy Pen and Ink, Binding a Small Handmade Book, A Linocut Print on the Table, Swirls in a Marbled Paper Sheet, Printing a Card at an Old-Time Press.
-
-## Old Time Entertainment: five first editions
-
-- 55 clues; 55 distinct answer/clue pairs.
-- Five distinct introductions and three answer explanations per puzzle.
-
-Subjects: A Drama on the Family Radio, An Evening of Vaudeville, Song and Dance in a Movie Musical, A Western on the Movie Screen, Clues in a Mystery Film.
+Subjects: A Drama on the Family Radio, A Small-Town Variety Show, Song and Dance in a Movie Musical, A Western on the Movie Screen, Clues in a Mystery Film.
 
 ## Stage and Performance: five first editions
 
@@ -599,14 +599,14 @@ Subjects: A Marionette Above the Stage, Shadows Behind a Theater Screen, Rehears
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Buttons in a Collector’s Tin, Glassware in a Display Cabinet, A Music Box on the Shelf, Shells Collected at the Beach, A Family Pocket Watch.
+Subjects: Buttons in a Collector’s Tin, A Family Glass Vase, A Music Box on the Shelf, Shells Collected at the Beach, A Family Pocket Watch.
 
 ## Home Details: five current editions
 
 - 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: An Open Window in Spring, Locking the Front Door, Inside an Upholstered Armchair, Dishes in the Kitchen Cupboard, Looking at a Handwoven Rug.
+Subjects: An Open Window in Spring, Locking the Front Door, Inside an Upholstered Armchair, Dishes in the Kitchen Cupboard, A Soft Rug Beside the Chair.
 
 ## Everyday Materials: five current editions
 
@@ -643,12 +643,12 @@ Subjects: Cranberries Beside the Roast, Sweet Potatoes from the Oven, Getting th
 
 Subjects: Packing Thanksgiving Leftovers, Bringing a Dish to the Potluck, A Thanksgiving Visit by Train, Keeping a Family Recipe Card, A Walk After Thanksgiving Dinner.
 
-## Christmas Kitchen Traditions: five first editions
+## Christmas Kitchen Traditions: five current editions
 
 - 55 clues; 55 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Baking a Christmas Stollen, Sharing an Italian Panettone, A Christmas Cookie Exchange, A Bowl of Warm Wassail, An Evening Yule Log Cake.
+Subjects: A Christmas Fruit Loaf, Giving a Christmas Food Basket, A Christmas Cookie Exchange, Warm Cider at a Holiday Gathering, Decorating a Christmas Log Cake.
 
 ## Christmas Post and Paper: five first editions
 
@@ -657,12 +657,12 @@ Subjects: Baking a Christmas Stollen, Sharing an Italian Panettone, A Christmas 
 
 Subjects: Folding a Christmas Paper Star, Making a Christmas Pop-Up Card, Making a Christmas Paper Chain, A Christmas Package in the Mail, Folding a Christmas Gift Bag.
 
-## Christmas Around the Room: five first editions
+## Christmas Around the Room: five current editions
 
-- 56 clues; 56 distinct answer/clue pairs.
+- 57 clues; 57 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Christmas Cracker at Each Place, A Nativity Scene on the Sideboard, A Christmas Pyramid Turning Slowly, A Christmas Tree Skirt Below the Branches, A Handmade Felt Christmas Ornament.
+Subjects: A Christmas Cracker at Each Place, A Nativity Scene on the Sideboard, A Christmas Pyramid Turning Slowly, A Cloth Skirt Beneath the Christmas Tree, A Handmade Felt Christmas Ornament.
 
 ## Winter Backyard Observations: five first editions
 
@@ -671,12 +671,12 @@ Subjects: A Christmas Cracker at Each Place, A Nativity Scene on the Sideboard, 
 
 Subjects: A Deer at the Winter Tree Line, Visitors at the Winter Bird Feeder, Evergreen Branches in Winter, The Edge of a Frozen Garden Pond, A Winter Woodpile by the Shed.
 
-## Understanding Winter Weather: five first editions
+## Understanding Winter Weather: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Looking Closely at a Snowflake, Sleet, Snow, and Freezing Rain, Shorter Days and Low Winter Sun, Wind Chill on a Winter Morning, Snowplows on the Neighborhood Street.
+Subjects: Looking Closely at a Snowflake, Sleet, Snow, and Freezing Rain, Early Sunset on a Winter Afternoon, Wind Chill on a Winter Morning, Clearing Snow from the Street.
 
 ## Winter Pastimes: five first editions
 
@@ -685,33 +685,33 @@ Subjects: Looking Closely at a Snowflake, Sleet, Snow, and Freezing Rain, Shorte
 
 Subjects: Watching a Curling Match, Snowshoes Beside the Trail, Cross-Country Skis at the Lodge, A Sled Waiting by the Snowy Hill, A Bobsled on the Ice Run.
 
-## Country Voice Memories: five first editions
+## Country Voice Memories: five current editions
 
 - 54 clues; 54 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Dolly Parton on the Record Sleeve, Patsy Cline and a Classic Country Voice, Johnny Cash and Songs of Travel, Willie Nelson and a Road Song, Hank Williams and Country Song Titles.
+Subjects: Dolly Parton on the Record Sleeve, Patsy Cline and a Classic Country Voice, Johnny Cash and Songs of Travel, Willie Nelson on the Road Again, Hank Williams and Country Song Titles.
 
-## Classic American Voices: five first editions
+## Classic American Voices: five current editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Ella Fitzgerald and a Jazz Standard, Nat King Cole and a Familiar Tune, Frank Sinatra Sings a Familiar Song, Louis Armstrong and a Wonderful World, Doris Day and a Classic Movie Song.
+
+## Vocal Group Memories: five current editions
 
 - 57 clues; 57 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Ella Fitzgerald and a Jazz Standard, Nat King Cole at the Piano, Frank Sinatra and an Orchestra, Louis Armstrong and His Trumpet, Doris Day and a Familiar Refrain.
+Subjects: Four Names from the Beatles, The Beach Boys and Summer Songs, The Supremes on a Motown Record, The Temptations and Familiar Title Words, The Everly Brothers in Harmony.
 
-## Vocal Group Memories: five first editions
+## American Music City Stops: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 53 clues; 53 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Four Names from the Beatles, The Beach Boys and a Surf Sound, The Supremes on a Motown Record, The Temptations and a Vocal Lineup, The Everly Brothers in Harmony.
-
-## American Music City Stops: five first editions
-
-- 52 clues; 52 distinct answer/clue pairs.
-- Five distinct introductions and three answer explanations per puzzle.
-
-Subjects: Country Music in Nashville, A Memphis Music Stop, Jazz in New Orleans, Detroit and the Motown Sound, Live Music in Austin.
+Subjects: An Evening of Country Music in Nashville, A Memphis Music Stop, Jazz in New Orleans, Detroit and a Motown Record, Live Music in Austin.
 
 ## Records and Listening: five first editions
 
@@ -725,7 +725,7 @@ Subjects: Browsing a Neighborhood Record Shop, Reading an Album Cover, A Cassett
 - 57 clues; 57 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Inside a Pipe Organ, A Piano Tuner's Visit, Taking Turns in a Piano Duet, Watching a Player Piano, A Portable Electronic Keyboard.
+Subjects: An Organ Playing a Familiar Hymn, A Piano Tuner's Visit, Taking Turns in a Piano Duet, Watching a Player Piano, A Portable Electronic Keyboard.
 
 ## Strings and Picking: five current editions
 
@@ -741,19 +741,19 @@ Subjects: A Five-String Banjo, A Mandolin at a Family Gathering, A Violin Bow in
 
 Subjects: A Harmonica in a Small Case, Putting a Clarinet Together, A Saxophone on Its Stand, A Melodica's Breath and Keys, A Recorder's Finger Holes.
 
-## Music Patterns Made Clear: five first editions
+## Music Patterns Made Clear: five current editions
 
-- 57 clues; 57 distinct answer/clue pairs.
+- 58 clues; 58 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: Notes on a Musical Staff, Counting a Simple Musical Beat, Major, Minor, and Musical Steps, Loud, Soft, and Shaping a Phrase, Finding Your Place in Sheet Music.
+Subjects: Notes on a Musical Staff, Counting a Simple Musical Beat, High and Low Notes at the Piano, Loud and Soft Sounds Around a Song, Following a Song on the Printed Page.
 
-## Voices in Company: five first editions
+## Voices in Company: five current editions
 
 - 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: A Barbershop Quartet, Call and Response in Gospel Singing, Voices on an Opera Stage, Singing a Round Together, Singing Without Instruments.
+Subjects: Four Friends Singing Together, Call and Response in Gospel Singing, An Opera Night at the Theater, Singing a Round Together, Humming a Song Together.
 
 ## American Style Memories: five first editions
 
@@ -764,12 +764,12 @@ Subjects: Doo-Wop on a Street Corner, Surf Guitar and a Summer Sound, Bluegrass 
 
 ## Music Behind the Scenes: five current editions
 
-- 55 clues; 55 distinct answer/clue pairs.
+- 56 clues; 56 distinct answer/clue pairs.
 - Five distinct introductions and three answer explanations per puzzle.
 
-Subjects: The Conductor's Rehearsal, A Songwriter's Notebook, A Record Producer at Work, At the Sound Engineer's Console, A Guitar Case After the Sing-Along.
+Subjects: The Conductor's Rehearsal, A Songwriter's Notebook, Recording a Familiar Song in the Studio, At the Sound Engineer's Console, A Guitar Case After the Sing-Along.
 
-The 100 original layouts and 27 preserved numbered editions remain available as noindex pages so browser-saved answers can still be used. Current editions have separate progress keys.
+The 100 original layouts and 79 preserved numbered editions remain available as noindex pages so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
@@ -790,7 +790,7 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | holiday-table | 57 | 57 | 5 | 0 |
 | a-good-book | 57 | 57 | 5 | 0 |
 | our-furry-friends | 56 | 56 | 5 | 0 |
-| a-stitch-in-time | 57 | 57 | 5 | 0 |
+| a-stitch-in-time | 58 | 58 | 5 | 0 |
 | weather-watching | 56 | 56 | 5 | 0 |
 | market-morning | 58 | 58 | 5 | 0 |
 | in-the-workshop | 57 | 57 | 5 | 0 |
@@ -816,41 +816,41 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | handmade-arts | 57 | 57 | 5 | 0 |
 | everyday-meals | 56 | 56 | 5 | 0 |
 | fruit-and-flavor | 56 | 56 | 5 | 0 |
-| treasured-collections | 56 | 56 | 5 | 0 |
+| treasured-collections | 55 | 55 | 5 | 0 |
 | geography-journeys | 56 | 56 | 5 | 0 |
 | state-capital-stops | 52 | 52 | 5 | 0 |
 | american-history-scenes | 55 | 55 | 5 | 0 |
 | texas-scenes | 53 | 53 | 5 | 0 |
 | neighborhood-stops | 56 | 56 | 5 | 0 |
-| hands-on-hobbies | 55 | 55 | 5 | 0 |
+| hands-on-hobbies | 54 | 54 | 5 | 0 |
 | american-landmarks | 55 | 55 | 5 | 0 |
 | classic-american-stops | 57 | 57 | 5 | 0 |
-| backyard-nature-studies | 55 | 55 | 5 | 0 |
-| evening-sky | 57 | 57 | 5 | 0 |
+| backyard-nature-studies | 56 | 56 | 5 | 0 |
+| evening-sky | 56 | 56 | 5 | 0 |
 | water-and-wildlife | 53 | 53 | 5 | 0 |
 | home-inventions | 55 | 55 | 5 | 0 |
 | local-outings | 56 | 56 | 5 | 0 |
-| garden-details | 56 | 56 | 5 | 0 |
+| garden-details | 54 | 54 | 5 | 0 |
 | kitchen-word-science | 56 | 56 | 5 | 0 |
-| clothes-and-fabrics | 56 | 56 | 5 | 0 |
-| weather-and-light-tools | 55 | 55 | 5 | 0 |
+| clothes-and-fabrics | 55 | 55 | 5 | 0 |
+| weather-and-light-tools | 54 | 54 | 5 | 0 |
 | everyday-wordplay | 57 | 57 | 5 | 0 |
 | recreation-room | 56 | 56 | 5 | 0 |
 | simple-machines | 56 | 56 | 5 | 0 |
-| rail-and-water-travel | 55 | 55 | 5 | 0 |
+| rail-and-water-travel | 54 | 54 | 5 | 0 |
 | roadside-americana | 56 | 56 | 5 | 0 |
 | familiar-vehicles | 56 | 56 | 5 | 0 |
-| working-waterfront | 56 | 56 | 5 | 0 |
-| forest-observations | 54 | 54 | 5 | 0 |
-| open-country-wildlife | 59 | 59 | 5 | 0 |
-| small-world-nature | 56 | 56 | 5 | 0 |
+| working-waterfront | 58 | 58 | 5 | 0 |
+| forest-observations | 56 | 56 | 5 | 0 |
+| open-country-wildlife | 57 | 57 | 5 | 0 |
+| small-world-nature | 57 | 57 | 5 | 0 |
 | garden-styles | 56 | 56 | 5 | 0 |
 | flowers-through-the-year | 55 | 55 | 5 | 0 |
 | american-regional-tables | 56 | 56 | 5 | 0 |
 | bakers-specialties | 55 | 55 | 5 | 0 |
-| craft-room-techniques | 57 | 57 | 5 | 0 |
-| paper-and-lettering | 55 | 55 | 5 | 0 |
-| old-time-entertainment | 55 | 55 | 5 | 0 |
+| craft-room-techniques | 56 | 56 | 5 | 0 |
+| paper-and-lettering | 57 | 57 | 5 | 0 |
+| old-time-entertainment | 56 | 56 | 5 | 0 |
 | stage-and-performance | 55 | 55 | 5 | 0 |
 | collections-and-keepsakes | 56 | 56 | 5 | 0 |
 | home-details | 54 | 54 | 5 | 0 |
@@ -861,21 +861,21 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | thanksgiving-sharing | 57 | 57 | 5 | 0 |
 | christmas-kitchen | 55 | 55 | 5 | 0 |
 | christmas-post-and-paper | 55 | 55 | 5 | 0 |
-| christmas-around-the-room | 56 | 56 | 5 | 0 |
+| christmas-around-the-room | 57 | 57 | 5 | 0 |
 | winter-backyard | 54 | 54 | 5 | 0 |
-| winter-weather-scenes | 55 | 55 | 5 | 0 |
+| winter-weather-scenes | 54 | 54 | 5 | 0 |
 | winter-pastimes | 55 | 55 | 5 | 0 |
 | country-voice-memories | 54 | 54 | 5 | 0 |
-| classic-voice-memories | 57 | 57 | 5 | 0 |
-| vocal-group-memories | 55 | 55 | 5 | 0 |
-| american-music-cities | 52 | 52 | 5 | 0 |
+| classic-voice-memories | 56 | 56 | 5 | 0 |
+| vocal-group-memories | 57 | 57 | 5 | 0 |
+| american-music-cities | 53 | 53 | 5 | 0 |
 | records-and-listening | 59 | 59 | 5 | 0 |
 | keyboard-sounds | 57 | 57 | 5 | 0 |
 | strings-and-picking | 58 | 58 | 5 | 0 |
 | winds-and-bellows | 58 | 58 | 5 | 0 |
-| music-patterns | 57 | 57 | 5 | 0 |
+| music-patterns | 58 | 58 | 5 | 0 |
 | voices-in-company | 56 | 56 | 5 | 0 |
 | american-style-memories | 54 | 54 | 5 | 0 |
-| music-behind-the-scenes | 55 | 55 | 5 | 0 |
+| music-behind-the-scenes | 56 | 56 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

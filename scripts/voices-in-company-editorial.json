@@ -1,80 +1,81 @@
 [
   {
     "id": "voices-in-company",
-    "title": "A Barbershop Quartet",
-    "description": "Hear four-part harmony through the voice roles and ringing chords of a barbershop singing group.",
-    "cardDescription": "Hear four-part harmony through the voice roles and ringing chords of a barbershop singing group.",
-    "subtheme": "A Barbershop Quartet",
-    "focus": "In barbershop, the lead commonly carries the melody; tenor, baritone, and bass surround it with harmony.",
-    "solvingTip": "The group-size clue helps before the different voice-role names.",
+    "title": "Four Friends Singing Together",
+    "description": "Share a familiar song with four friends through their voices, smiles, and simple musical actions.",
+    "cardDescription": "Share a familiar song with four friends through their voices, smiles, and simple musical actions.",
+    "subtheme": "Four Friends Singing Together",
+    "focus": "The group can listen to one another and begin together. No formal voice-range names are needed.",
+    "solvingTip": "Try a number, body part, or ordinary singing action.",
     "words": [
       [
-        "BARBERSHOP",
-        "Unaccompanied close-harmony style associated with quartets"
-      ],
-      [
-        "QUARTET",
-        "Group of four singers in this harmony scene"
-      ],
-      [
-        "BARITONE",
-        "Voice role fitting harmony between and around the other parts"
-      ],
-      [
-        "LEAD",
-        "Part commonly carrying a barbershop song's melody"
-      ],
-      [
-        "TENOR",
-        "High harmony role in a typical barbershop quartet"
-      ],
-      [
-        "BASS",
-        "Low supporting voice in a barbershop quartet"
-      ],
-      [
         "FOUR",
-        "Number of singers in a quartet"
+        "Number of friends in this singing group"
       ],
       [
-        "CHORD",
-        "Group of harmony notes sounding at the same moment"
+        "FRIEND",
+        "Person joining someone else for a pleasant song"
       ],
       [
-        "RING",
-        "Resonant effect singers seek from a well-tuned chord"
-      ],
-      [
-        "BLEND",
-        "Combine voices into a balanced group sound"
-      ],
-      [
-        "VOWEL",
-        "Sustained speech sound singers coordinate for a chord"
-      ],
-      [
-        "PITCH",
-        "How high or low each harmony note sounds"
+        "TOGETHER",
+        "At the same time, as the friends begin singing"
       ],
       [
         "BREATH",
-        "Air supply supporting a singer's held note"
+        "Air supporting the friends' singing voices"
+      ],
+      [
+        "SMILE",
+        "Happy expression shared after a familiar tune"
+      ],
+      [
+        "VOICE",
+        "Human sound carrying one person's part"
+      ],
+      [
+        "SONG",
+        "Musical work enjoyed by the four friends"
       ],
       [
         "TUNE",
-        "Bring the quartet's notes into accurate pitch relationships"
+        "Melody recognized by the group"
+      ],
+      [
+        "HUM",
+        "Sing a melody with the lips closed"
+      ],
+      [
+        "SING",
+        "Make musical sounds with the voice"
+      ],
+      [
+        "HIGH",
+        "Describing a pitch above a lower note"
+      ],
+      [
+        "LOW",
+        "Describing a pitch below a higher note"
+      ],
+      [
+        "HAND",
+        "Body part raised to signal the group's start"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to the other voices"
       ]
     ],
     "answerNotes": {
-      "BARBERSHOP": "Barbershop also has larger choruses; a quartet is one familiar format.",
-      "QUARTET": "Quartet counts performers rather than specifying their genders.",
-      "BARITONE": "Barbershop baritone lines need not remain between lead and bass on every note.",
-      "LEAD": "Lead describes the musical role rather than simply the loudest singer.",
-      "TENOR": "Barbershop tenor usually harmonizes above the lead melody."
+      "FOUR": "Four counts the people rather than the notes in a chord.",
+      "FRIEND": "Friend describes the relationship rather than a musical role.",
+      "TOGETHER": "Together describes their shared timing rather than their pitch.",
+      "BREATH": "Breathing supplies the air used for a sustained vocal sound.",
+      "SMILE": "A smile is an expression rather than part of the written music."
     },
     "requiredAnswers": [
-      "BARBERSHOP"
-    ]
+      "FOUR"
+    ],
+    "revision": 2
   },
   {
     "id": "voices-in-company-2",
@@ -155,80 +156,81 @@
   },
   {
     "id": "voices-in-company-3",
-    "title": "Voices on an Opera Stage",
-    "description": "Meet opera through sung dialogue, solos, voice ranges, and the pit where accompanying musicians sit.",
-    "cardDescription": "Meet opera through sung dialogue, solos, voice ranges, and the pit where accompanying musicians sit.",
-    "subtheme": "Voices on an Opera Stage",
-    "focus": "Opera tells a story through staged music; its voice types and solo forms have distinct names.",
-    "solvingTip": "Begin with theater places and then use crossings for the singing terms.",
+    "title": "An Opera Night at the Theater",
+    "description": "Enjoy an opera visit through its stage, costumes, tickets, and the people singing.",
+    "cardDescription": "Enjoy an opera visit through its stage, costumes, tickets, and the people singing.",
+    "subtheme": "An Opera Night at the Theater",
+    "focus": "The story is presented through staged music. These clues focus on familiar theater objects and roles.",
+    "solvingTip": "Short seating and stage words help cross the music term.",
     "words": [
       [
         "OPERA",
-        "Staged drama in which music and singing carry the story"
+        "Drama presented through staged music and singing"
       ],
       [
-        "ARIA",
-        "Featured solo vocal piece within an opera"
+        "COSTUME",
+        "Clothing used to portray a character on stage"
       ],
       [
-        "LIBRETTO",
-        "Written text of an opera"
-      ],
-      [
-        "SOPRANO",
-        "High singing voice type often featured in opera"
-      ],
-      [
-        "TENOR",
-        "High adult male voice category in many operas"
-      ],
-      [
-        "CHORUS",
-        "Group of singers appearing together in an opera"
-      ],
-      [
-        "PIT",
-        "Lowered area where the opera orchestra often sits"
-      ],
-      [
-        "STAGE",
-        "Area where the opera's characters perform"
-      ],
-      [
-        "ACT",
-        "Major division of an opera's story"
+        "CURTAIN",
+        "Hanging screen across the opera stage"
       ],
       [
         "DUET",
         "Passage sung by two featured performers"
       ],
       [
-        "COSTUME",
-        "Clothing helping portray an opera character"
+        "PIT",
+        "Lowered area where the accompanying musicians may sit"
+      ],
+      [
+        "STAGE",
+        "Area where the opera's characters perform"
+      ],
+      [
+        "SONG",
+        "Musical piece carried by a singer's voice"
+      ],
+      [
+        "VOICE",
+        "Human sound projecting the sung words"
+      ],
+      [
+        "SINGER",
+        "Person delivering an opera's vocal music"
+      ],
+      [
+        "TICKET",
+        "Proof of admission to the theater performance"
+      ],
+      [
+        "SEAT",
+        "Place occupied by a member of the audience"
+      ],
+      [
+        "ACT",
+        "Major section of the staged musical story"
       ],
       [
         "SET",
-        "Scenery representing the opera's location"
+        "Scenery showing the story's location"
       ],
       [
-        "BASS",
-        "Low male voice type in an opera cast"
-      ],
-      [
-        "OVERTURE",
-        "Instrumental opening preceding many operas"
+        "BAND",
+        "Group of musicians playing together"
       ]
     ],
     "answerNotes": {
-      "OPERA": "Operas can use different balances of sung and spoken material.",
-      "ARIA": "An aria focuses on one singer rather than a whole chorus.",
-      "LIBRETTO": "The libretto contains the words, while the score contains the musical notation.",
-      "SOPRANO": "Soprano is a voice category rather than one dramatic character.",
-      "TENOR": "Tenor roles vary; the voice label does not determine every character's personality."
+      "OPERA": "Operas combine storytelling, music, and performance in different ways.",
+      "COSTUME": "A costume helps identify a role rather than being ordinary audience clothing.",
+      "CURTAIN": "The curtain separates the visible stage from the auditorium before a scene.",
+      "DUET": "A duet counts two performers rather than a whole chorus.",
+      "PIT": "The orchestra pit is below or in front of the stage."
     },
     "requiredAnswers": [
       "OPERA"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "voices-in-company-4",
@@ -309,79 +311,80 @@
   },
   {
     "id": "voices-in-company-5",
-    "title": "Singing Without Instruments",
-    "description": "Explore an a cappella group through voice-only accompaniment, blending, and a musical starting note.",
-    "cardDescription": "Explore an a cappella group through voice-only accompaniment, blending, and a musical starting note.",
-    "subtheme": "Singing Without Instruments",
-    "focus": "A cappella means without instrumental accompaniment; voices may still supply bass or rhythmic sounds.",
-    "solvingTip": "Look for human voice roles rather than instruments in this word bank.",
+    "title": "Humming a Song Together",
+    "description": "Enjoy a quiet shared melody through lips, breath, listening, and familiar singing words.",
+    "cardDescription": "Enjoy a quiet shared melody through lips, breath, listening, and familiar singing words.",
+    "subtheme": "Humming a Song Together",
+    "focus": "Humming uses the voice with the lips closed. The clues do not require a technical name for voice-only music.",
+    "solvingTip": "Try a short body part or sound word first.",
     "words": [
       [
-        "ACAPPELLA",
-        "Singing without instrumental accompaniment, two words"
-      ],
-      [
-        "PITCHPIPE",
-        "Small device sounding a reference note for singers, two words"
-      ],
-      [
-        "BLEND",
-        "Combine separate voices into a balanced sound"
-      ],
-      [
-        "VOCAL",
-        "Produced by the human voice rather than an instrument"
-      ],
-      [
-        "ARRANGEMENT",
-        "Version of a song adapted for a particular group"
-      ],
-      [
-        "BASS",
-        "Low voice supplying a supporting musical line"
-      ],
-      [
         "HUM",
-        "Sing with closed lips instead of clearly spoken words"
+        "Make a melody with closed lips"
+      ],
+      [
+        "LIP",
+        "One of the two soft edges closed while humming"
       ],
       [
         "BREATH",
-        "Air used to support a sustained vocal phrase"
-      ],
-      [
-        "MOUTH",
-        "Body opening shaping the sung vowels"
+        "Air used to support the hummed melody"
       ],
       [
         "TUNE",
-        "Melody carried by a featured voice"
+        "Melody carried by the humming voices"
       ],
       [
-        "SOLO",
-        "Passage featuring one singer within the group"
+        "FRIEND",
+        "Person sharing the familiar melody"
       ],
       [
-        "CHORD",
-        "Several sung pitches sounding together"
+        "SONG",
+        "Musical piece recognized by the humming group"
+      ],
+      [
+        "VOICE",
+        "Human sound carrying the wordless melody"
+      ],
+      [
+        "MOUTH",
+        "Body opening closed at the lips while humming"
       ],
       [
         "EAR",
-        "Body part used to monitor the group's pitch"
+        "Body part used to hear the other voices"
       ],
       [
-        "CUE",
-        "Signal giving the singers their starting moment"
+        "QUIET",
+        "Making little noise, as a gentle hum may be"
+      ],
+      [
+        "SOFT",
+        "Low in volume, as the humming is"
+      ],
+      [
+        "GROUP",
+        "Several people taking part in the tune"
+      ],
+      [
+        "START",
+        "Begin humming after a shared signal"
+      ],
+      [
+        "NOTE",
+        "Single pitch sounded in the melody"
       ]
     ],
     "answerNotes": {
-      "ACAPPELLA": "A cappella can involve one singer or many, depending on the arrangement.",
-      "PITCHPIPE": "A pitch pipe can give a starting note without accompanying the entire performance.",
-      "BLEND": "Blending concerns how voices fit together rather than whether everyone sings one note.",
-      "VOCAL": "Vocal parts can include melody, harmony, bass, or rhythmic effects.",
-      "ARRANGEMENT": "An arrangement decides how musical material is shared among the voices."
+      "HUM": "Humming uses the voice without clearly spoken song words.",
+      "LIP": "The lips are brought together while the voice continues sounding.",
+      "BREATH": "Breath provides a supply of moving air for the vocal sound.",
+      "TUNE": "A tune can be recognized even without sung words.",
+      "FRIEND": "A friend can join the activity without needing a formal singing role."
     },
     "requiredAnswers": [
-      "ACAPPELLA"
-    ]
+      "HUM"
+    ],
+    "revision": 2
   }
 ]

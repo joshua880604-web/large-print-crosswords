@@ -55,7 +55,7 @@ Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `l
 
 `npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 1500 current puzzle/print/answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
 
-For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 500 current, 100 original and 27 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
+For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 500 current, 100 original and 79 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
 
 ## Deploy to Cloudflare Pages
 
@@ -83,7 +83,7 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 500 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 400 puzzles use their own stable IDs. Of those, 373 are still first editions and 27 now have separately saved second editions. The 500-puzzle expansion originally preserved the previous 400 objects; the subsequent [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) replaces 27 boards while preserving their published predecessors.
+All 500 current puzzles have distinct subjects, introductions, solving tips, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 400 puzzles use their own stable IDs. The current revision inventory is 322 first editions, 177 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) replace 79 boards while preserving every published predecessor. Fourteen additional games keep their boards with simpler clues.
 
 | Series | Current puzzles | Clues | Edition |
 | --- | ---: | ---: | --- |
@@ -95,7 +95,7 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Home | 5 | 57 | Refreshed, with original archive |
 | Farm | 5 | 58 | Refreshed, with original archive |
 | Baking | 5 | 56 | Refreshed, with original archive |
-| Crafts | 5 | 57 | Refreshed, with original archive |
+| Crafts | 5 | 58 | Refreshed; original and numbered archives retained |
 | Flowers | 5 | 58 | Refreshed, with original archive |
 | Pets | 5 | 56 | Refreshed, with original archive |
 | Drinks | 5 | 55 | Refreshed, with original archive |
@@ -112,7 +112,7 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Team Sports | 5 | 56 | First publication |
 | Active Pastimes | 5 | 55 | First publication |
 | American Music | 5 | 55 | First publication |
-| Musical Instruments | 5 | 56 | First publication |
+| Musical Instruments | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Dance and Song | 5 | 58 | First publication |
 | Christmas | 5 | 55 | First publication |
 | Thanksgiving | 5 | 55 | First publication |
@@ -126,41 +126,41 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Handmade Arts | 5 | 57 | First publication |
 | Everyday Meals | 5 | 56 | First publication |
 | Fruit and Flavor | 5 | 56 | First publication |
-| Collections | 5 | 56 | First publication |
-| Geography | 5 | 56 | First publication |
+| Collections | 5 | 55 | Selected subjects refreshed; numbered archives retained |
+| Geography | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | State Capitals | 5 | 52 | First publication |
 | American History | 5 | 55 | First publication |
 | Texas | 5 | 53 | First publication |
 | Neighborhood Stops | 5 | 56 | First publication |
-| Hands-on Hobbies | 5 | 55 | First publication |
+| Hands-on Hobbies | 5 | 54 | Selected subjects refreshed; numbered archives retained |
 | American Landmarks | 5 | 55 | First publication |
 | Classic American Stops | 5 | 57 | Selected subjects refreshed; numbered archives retained |
-| Backyard Nature Studies | 5 | 55 | Selected subjects refreshed; numbered archives retained |
-| Evening Sky | 5 | 57 | First publication |
+| Backyard Nature Studies | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Evening Sky | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Water and Wildlife | 5 | 53 | Selected subjects refreshed; numbered archives retained |
 | Home Inventions | 5 | 55 | First publication |
 | Local Outings | 5 | 56 | First publication |
-| Garden Details | 5 | 56 | First publication |
+| Garden Details | 5 | 54 | Selected subjects refreshed; numbered archives retained |
 | Kitchen Word Science | 5 | 56 | Selected subjects refreshed; numbered archives retained |
-| Clothes and Fabrics | 5 | 56 | First publication |
-| Weather and Light Tools | 5 | 55 | First publication |
+| Clothes and Fabrics | 5 | 55 | Selected subjects refreshed; numbered archives retained |
+| Weather and Light Tools | 5 | 54 | Selected subjects refreshed; numbered archives retained |
 | Everyday Wordplay | 5 | 57 | First publication |
 | Recreation Room | 5 | 56 | First publication |
-| Simple Machines | 5 | 56 | First publication |
-| Rail and Water Travel | 5 | 55 | First publication |
+| Simple Machines | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Rail and Water Travel | 5 | 54 | Selected subjects refreshed; numbered archives retained |
 | Roadside Americana | 5 | 56 | First publication |
 | Familiar Vehicles | 5 | 56 | Selected subjects refreshed; numbered archives retained |
-| Working Waterfront | 5 | 56 | Selected subjects refreshed; numbered archives retained |
-| Forest Observations | 5 | 54 | Selected subjects refreshed; numbered archives retained |
-| Open Country Wildlife | 5 | 59 | First publication |
-| Small World Nature | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Working Waterfront | 5 | 58 | Selected subjects refreshed; numbered archives retained |
+| Forest Observations | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Open Country Wildlife | 5 | 57 | Selected subjects refreshed; numbered archives retained |
+| Small World Nature | 5 | 57 | Selected subjects refreshed; numbered archives retained |
 | Garden Styles | 5 | 56 | First publication |
 | Flowers Through the Year | 5 | 55 | Selected subjects refreshed; numbered archives retained |
 | American Regional Tables | 5 | 56 | First publication |
 | Bakers Specialties | 5 | 55 | First publication |
-| Craft Room Techniques | 5 | 57 | First publication |
-| Paper and Lettering | 5 | 55 | Selected subjects refreshed; numbered archives retained |
-| Old Time Entertainment | 5 | 55 | First publication |
+| Craft Room Techniques | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Paper and Lettering | 5 | 57 | Selected subjects refreshed; numbered archives retained |
+| Old Time Entertainment | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Stage and Performance | 5 | 55 | First publication |
 | Collections and Keepsakes | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | Home Details | 5 | 54 | Selected subjects refreshed; numbered archives retained |
@@ -169,26 +169,26 @@ All 500 current puzzles have distinct subjects, introductions, solving tips, and
 | Winter Holiday Crafts | 5 | 56 | First publication |
 | Thanksgiving Side Dishes | 5 | 56 | First publication |
 | Sharing Thanksgiving | 5 | 57 | First publication |
-| Christmas Kitchen Traditions | 5 | 55 | First publication |
+| Christmas Kitchen Traditions | 5 | 55 | Selected subjects refreshed; numbered archives retained |
 | Christmas Post and Paper | 5 | 55 | First publication |
-| Christmas Around the Room | 5 | 56 | First publication |
+| Christmas Around the Room | 5 | 57 | Selected subjects refreshed; numbered archives retained |
 | Winter Backyard Observations | 5 | 54 | First publication |
-| Understanding Winter Weather | 5 | 55 | First publication |
+| Understanding Winter Weather | 5 | 54 | Selected subjects refreshed; numbered archives retained |
 | Winter Pastimes | 5 | 55 | First publication |
-| Country Voice Memories | 5 | 54 | First publication |
-| Classic American Voices | 5 | 57 | First publication |
-| Vocal Group Memories | 5 | 55 | First publication |
-| American Music City Stops | 5 | 52 | First publication |
+| Country Voice Memories | 5 | 54 | Selected subjects refreshed; numbered archives retained |
+| Classic American Voices | 5 | 56 | Selected subjects refreshed; numbered archives retained |
+| Vocal Group Memories | 5 | 57 | Selected subjects refreshed; numbered archives retained |
+| American Music City Stops | 5 | 53 | Selected subjects refreshed; numbered archives retained |
 | Records and Listening | 5 | 59 | First publication |
 | Keyboard Sounds and Mechanisms | 5 | 57 | Selected subjects refreshed; numbered archives retained |
 | Strings and Picking | 5 | 58 | Selected subjects refreshed; numbered archives retained |
 | Winds and Bellows | 5 | 58 | First publication |
-| Music Patterns Made Clear | 5 | 57 | First publication |
-| Voices in Company | 5 | 56 | First publication |
+| Music Patterns Made Clear | 5 | 58 | Selected subjects refreshed; numbered archives retained |
+| Voices in Company | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 | American Style Memories | 5 | 54 | First publication |
-| Music Behind the Scenes | 5 | 55 | Selected subjects refreshed; numbered archives retained |
+| Music Behind the Scenes | 5 | 56 | Selected subjects refreshed; numbered archives retained |
 
-The collection has 5,587 clues, 5,587 distinct answer/clue pairs, 500 different introductions and 1500 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
+The collection has 5,590 clues, 5,590 distinct answer/clue pairs, 500 different introductions and 1500 answer explanations. Familiar answers recur in different contexts; answer-set overlap is reported separately. No numbered-edition titles remain. See [the content audit](docs/content-audit.md) and [the audience/research notes](docs/expansion-200-research.md).
 
 Eight curated topic pages cover Thanksgiving, Christmas, winter, sports, music, geography/state capitals, American history and Texas. Thanksgiving groups 16 real games, Christmas 27, winter 20 and music 80. Each collection links to games and print sheets, with reciprocal links from its games. Geography groups five landscape/map subjects and five capital-city routes in one collection. The twenty geography/history/Texas puzzles are a limited interest/state pilot described in [the research and editorial notes](docs/place-history-pilot.md). The following 80-puzzle expansion adds neighborhood scenes, crafts, landmarks, nature, home inventions, outings, gardening, kitchen vocabulary, clothing, everyday science, wordplay and recreational games; see [the 300-puzzle expansion](docs/expansion-300.md). The preceding 100 puzzles cover transport, natural history, flowers, regional foods, crafts, performance, collectibles, home materials, wordplay and winter holidays; see [the 400-puzzle expansion](docs/expansion-400.md) and [November 14 research](docs/expansion-400-research.md). The latest 100 add Thanksgiving, music, Christmas and winter subjects selected using the supplied reports and a full-catalog comparison; see [the 500-puzzle expansion](docs/expansion-500.md) and [the theme decisions](docs/expansion-500-research.md). Each actual puzzle retains one canonical playable URL.
 
@@ -202,6 +202,6 @@ Clue-only corrections preserve the existing answer placements, IDs and revision 
 
 ## Audience-first editorial work
 
-The user prioritizes easy, large-print, printable, coherent themes over puzzle counts. See [the audience standard](docs/audience-content-standard.md), [the 500-row review ledger](docs/research/audience-review-2026-11-14.csv), and repository `AGENTS.md`. The initial November 14 triage flagged 27 games for specialist-vocabulary replacement/review and 66 for context review. The first pass simplified twenty-two clues without changing boards. The subsequent rewrite replaces all 27 flagged boards with everyday-vocabulary editions and preserves their earlier versions. The refreshed ledger has 66 context reviews and 434 unflagged candidates; absence of a flag is not certification that a puzzle is easy.
+The user prioritizes easy, large-print, printable, coherent themes over puzzle counts. See [the audience standard](docs/audience-content-standard.md), [the 500-row review ledger](docs/research/audience-review-2026-11-14.csv), and repository `AGENTS.md`. The initial November 14 triage flagged 27 games for specialist-vocabulary replacement/review and 66 for context review. The first pass simplified twenty-two clues without changing boards. The subsequent rewrite replaces all 27 flagged boards with everyday-vocabulary editions and preserves their earlier versions. The remaining 66 received recorded decisions: 52 boards replaced and 14 retained with 18 simpler clues. The current prompt screen still flags 10 theme/name-dependent games; their individual decisions and limits are documented in the [context review](docs/context-review-2026-11-14.md). Neither a recorded decision nor absence of a flag certifies difficulty for older readers.
 
 Run `python3 scripts/review-audience.py --date YYYY-MM-DD` to refresh a dated review ledger using the curated criteria. This records editorial prompts; it does not edit puzzles, change indexing, or certify suitability. Familiarity must be judged in context and, when available, with real reader feedback. Do not use longer introductions, exact-pair uniqueness, or a low automated score as a substitute for reader value.

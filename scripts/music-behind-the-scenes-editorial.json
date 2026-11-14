@@ -155,80 +155,81 @@
   },
   {
     "id": "music-behind-the-scenes-3",
-    "title": "A Record Producer at Work",
-    "description": "Explore a recording session through takes, arrangements, and the decisions that shape a finished release.",
-    "cardDescription": "Explore a recording session through takes, arrangements, and the decisions that shape a finished release.",
-    "subtheme": "A Record Producer at Work",
-    "focus": "The producer helps guide the overall recording; engineers handle technical tasks, with responsibilities sometimes overlapping.",
-    "solvingTip": "Use the workflow verbs before the studio-job titles.",
+    "title": "Recording a Familiar Song in the Studio",
+    "description": "Visit a recording studio through the singer, microphone, band, and simple listening controls.",
+    "cardDescription": "Visit a recording studio through the singer, microphone, band, and simple listening controls.",
+    "subtheme": "Recording a Familiar Song in the Studio",
+    "focus": "A take is one recorded attempt. The clues use familiar performance words rather than technical production methods.",
+    "solvingTip": "Start with a short control or singing word.",
     "words": [
       [
-        "PRODUCER",
-        "Person guiding the overall creation of a recording"
+        "STUDIO",
+        "Room where the singer records a song"
       ],
       [
         "TAKE",
-        "One recorded attempt at a performance"
+        "One recorded attempt at performing the song"
       ],
       [
-        "SESSION",
-        "Scheduled period of studio recording work"
+        "RECORD",
+        "Save the performance as sound that can be played again"
       ],
       [
-        "OVERDUB",
-        "New recorded part added alongside existing recorded material"
-      ],
-      [
-        "ARRANGEMENT",
-        "Plan for how a song's voices and instruments fit together"
-      ],
-      [
-        "ARTIST",
-        "Performer whose name appears on the release"
-      ],
-      [
-        "STUDIO",
-        "Place where the recording team works with microphones"
-      ],
-      [
-        "MIX",
-        "Balance the recorded parts into a combined version"
-      ],
-      [
-        "EDIT",
-        "Select or change portions of recorded material"
-      ],
-      [
-        "PLAYBACK",
-        "Listening to material that has just been recorded"
+        "MIC",
+        "Short everyday name for the singer's microphone"
       ],
       [
         "TRACK",
-        "Separate recorded part within a studio project"
+        "One recorded selection or part in the studio project"
       ],
       [
-        "PLAN",
-        "Decide the order of work before the musicians begin"
-      ],
-      [
-        "LISTEN",
-        "Judge the recorded performance by hearing it"
+        "SINGER",
+        "Person carrying the song's melody and words"
       ],
       [
         "SONG",
-        "Musical work being prepared for the record"
+        "Musical work being recorded"
+      ],
+      [
+        "VOICE",
+        "Sound made by the vocalist rather than the band"
+      ],
+      [
+        "BAND",
+        "Musicians accompanying the recorded performance"
+      ],
+      [
+        "PLAY",
+        "Start listening to the recorded sound"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to the sound coming from the speakers"
+      ],
+      [
+        "NOTE",
+        "One pitched sound in the recorded melody"
+      ],
+      [
+        "MUSIC",
+        "Organized sound made by the singer and musicians"
+      ],
+      [
+        "STOP",
+        "End the recording or listening movement"
       ]
     ],
     "answerNotes": {
-      "PRODUCER": "A producer's exact role depends on the project and its working team.",
-      "TAKE": "Several takes may be recorded before a preferred version is chosen.",
-      "SESSION": "A session may produce one song, many parts, or only a small passage.",
-      "OVERDUB": "Overdubbing allows parts to be recorded at different times.",
-      "ARRANGEMENT": "An arrangement shapes the performance before or during recording."
+      "STUDIO": "A studio provides a place and equipment for making a recording.",
+      "TAKE": "Several takes may be made before a version is chosen.",
+      "RECORD": "Record is an action here rather than the finished disc.",
+      "MIC": "The microphone changes sound into an electrical signal for recording.",
+      "TRACK": "Track is an audio use of the word rather than a railway line."
     },
     "requiredAnswers": [
-      "PRODUCER"
-    ]
+      "STUDIO"
+    ],
+    "revision": 2
   },
   {
     "id": "music-behind-the-scenes-4",

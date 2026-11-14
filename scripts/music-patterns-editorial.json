@@ -155,233 +155,240 @@
   },
   {
     "id": "music-patterns-3",
-    "title": "Major, Minor, and Musical Steps",
-    "description": "Explore simple scale words through intervals, starting notes, and familiar keyboard directions.",
-    "cardDescription": "Explore simple scale words through intervals, starting notes, and familiar keyboard directions.",
-    "subtheme": "Major, Minor, and Musical Steps",
-    "focus": "Major and minor describe scale structures; their emotional effect is not identical in every piece.",
-    "solvingTip": "Short direction and distance words help cross the scale terms.",
+    "title": "High and Low Notes at the Piano",
+    "description": "Compare high and low sounds through ordinary directions, a keyboard, and a familiar melody.",
+    "cardDescription": "Compare high and low sounds through ordinary directions, a keyboard, and a familiar melody.",
+    "subtheme": "High and Low Notes at the Piano",
+    "focus": "The clues describe pitch with everyday words rather than detailed scale formulas.",
+    "solvingTip": "Start with a direction, body part, or movement word.",
     "words": [
+      [
+        "HIGH",
+        "Describing a pitch near the upper end of a piano"
+      ],
+      [
+        "LOW",
+        "Describing a deep musical pitch"
+      ],
+      [
+        "NOTE",
+        "Single pitched sound played on the piano"
+      ],
       [
         "SCALE",
-        "Ordered sequence of musical pitches moving up or down"
-      ],
-      [
-        "TONIC",
-        "Starting and home note of a musical key"
-      ],
-      [
-        "OCTAVE",
-        "Interval between one C and the next C above it"
-      ],
-      [
-        "SEMITONE",
-        "Smallest step between neighboring piano keys in standard tuning"
-      ],
-      [
-        "MINOR",
-        "Scale type whose common forms include a lowered third"
-      ],
-      [
-        "MAJOR",
-        "Scale type with a characteristic whole-step and half-step pattern"
-      ],
-      [
-        "STEP",
-        "Small movement from one scale note to the next"
-      ],
-      [
-        "ASCEND",
-        "Move toward higher musical pitches"
-      ],
-      [
-        "DESCEND",
-        "Move toward lower musical pitches"
-      ],
-      [
-        "KEY",
-        "Group of pitch relationships centered on a tonic"
-      ],
-      [
-        "THIRD",
-        "Interval spanning three letter-name positions"
-      ],
-      [
-        "ROOT",
-        "Foundational note used to name a chord"
-      ],
-      [
-        "INTERVAL",
-        "Distance in pitch between two musical notes"
-      ],
-      [
-        "CHORD",
-        "Group of notes combined harmonically"
-      ]
-    ],
-    "answerNotes": {
-      "SCALE": "A scale is a sequence, unlike a chord whose notes may sound together.",
-      "TONIC": "The tonic serves as a reference point for the key.",
-      "OCTAVE": "Notes an octave apart share a letter name but differ in pitch.",
-      "SEMITONE": "A semitone may connect two white keys or a white and black key.",
-      "MINOR": "Minor has several forms, so not every minor scale uses the same notes."
-    },
-    "requiredAnswers": [
-      "SCALE"
-    ]
-  },
-  {
-    "id": "music-patterns-4",
-    "title": "Loud, Soft, and Shaping a Phrase",
-    "description": "Identify basic expression marks that guide a musician's loudness and the way notes connect.",
-    "cardDescription": "Identify basic expression marks that guide a musician's loudness and the way notes connect.",
-    "subtheme": "Loud, Soft, and Shaping a Phrase",
-    "focus": "Dynamics concern loudness, while articulation describes how notes begin, end, or join.",
-    "solvingTip": "The familiar loudness words can help with the Italian directions.",
-    "words": [
-      [
-        "DYNAMICS",
-        "Musical term for changes and levels of loudness"
-      ],
-      [
-        "FORTE",
-        "Italian musical direction meaning loud"
+        "Sequence of musical notes going up or down"
       ],
       [
         "PIANO",
-        "Italian musical direction meaning soft"
+        "Keyboard instrument used to compare the pitches"
       ],
       [
-        "CRESCENDO",
-        "Gradual increase in musical loudness"
+        "KEY",
+        "White or black lever pressed to sound a piano note"
       ],
       [
-        "LEGATO",
-        "Direction to play notes smoothly connected"
+        "RISE",
+        "Move upward in pitch"
       ],
       [
-        "STACCATO",
-        "Direction to play notes short and detached"
+        "FALL",
+        "Move downward in pitch"
       ],
       [
-        "ACCENT",
-        "Emphasis placed on a particular note"
+        "STEP",
+        "Small movement from one musical note to the next"
+      ],
+      [
+        "HAND",
+        "Body part whose fingers play the keyboard"
+      ],
+      [
+        "EAR",
+        "Body part used to compare the two sounds"
+      ],
+      [
+        "SING",
+        "Produce a tune with the voice"
+      ],
+      [
+        "TUNE",
+        "Melody played in the little piano exercise"
+      ],
+      [
+        "LEFT",
+        "Keyboard direction toward the lower notes"
+      ],
+      [
+        "RIGHT",
+        "Keyboard direction toward the higher notes"
+      ]
+    ],
+    "answerNotes": {
+      "HIGH": "High describes pitch here rather than loudness.",
+      "LOW": "Low describes pitch rather than a quiet volume.",
+      "NOTE": "A note has a pitch that can be compared with another note.",
+      "SCALE": "A scale is a sequence rather than several notes all sounded together.",
+      "PIANO": "A piano's keys can produce both higher and lower sounds."
+    },
+    "requiredAnswers": [
+      "PIANO"
+    ],
+    "revision": 2
+  },
+  {
+    "id": "music-patterns-4",
+    "title": "Loud and Soft Sounds Around a Song",
+    "description": "Compare a whisper, hum, bell, and drum through simple words for the sounds we hear.",
+    "cardDescription": "Compare a whisper, hum, bell, and drum through simple words for the sounds we hear.",
+    "subtheme": "Loud and Soft Sounds Around a Song",
+    "focus": "The clues use everyday sound and voice words rather than Italian performance directions.",
+    "solvingTip": "Try the short action words before the sound descriptions.",
+    "words": [
+      [
+        "LOUD",
+        "Strong in volume, as a forceful sound is"
       ],
       [
         "SOFT",
-        "Quiet in volume, as a gentle passage is"
+        "Quiet in volume, as a gentle sung passage is"
       ],
       [
-        "LOUD",
-        "Strong in volume, as a forceful passage is"
+        "WHISPER",
+        "Speak very quietly with a breathy voice"
       ],
       [
-        "SLUR",
-        "Curved notation mark joining notes into a smooth group"
+        "SHOUT",
+        "Call out in a very loud voice"
       ],
       [
-        "PHRASE",
-        "Short musical idea shaped as a unit"
+        "HUM",
+        "Make a tune with the lips closed"
       ],
       [
-        "DIM",
-        "Common three-letter abbreviation for diminuendo"
-      ],
-      [
-        "SWELL",
-        "Increase and sometimes ease back in musical loudness"
+        "QUIET",
+        "Making little noise"
       ],
       [
         "TONE",
-        "Quality of sound shaped by the performer"
+        "Quality or character of a musical sound"
+      ],
+      [
+        "SOUND",
+        "Something perceived through hearing"
+      ],
+      [
+        "VOICE",
+        "Human sound used to speak or sing"
+      ],
+      [
+        "HEAR",
+        "Perceive a song with the ears"
+      ],
+      [
+        "SING",
+        "Carry words and melody with the voice"
+      ],
+      [
+        "BELL",
+        "Metal object producing a ringing sound"
+      ],
+      [
+        "DRUM",
+        "Percussion instrument struck to make a beat"
+      ],
+      [
+        "TAP",
+        "Make a light short striking sound"
       ]
     ],
     "answerNotes": {
-      "DYNAMICS": "Dynamics differ from tempo, which concerns speed.",
-      "FORTE": "Forte indicates a dynamic level rather than a fast tempo.",
-      "PIANO": "Piano is a loudness direction here, not the keyboard instrument.",
-      "CRESCENDO": "A crescendo changes loudness over a passage rather than instantly.",
-      "LEGATO": "Legato concerns connection rather than a fixed volume."
+      "LOUD": "Loudness describes sound level rather than musical pitch.",
+      "SOFT": "Soft describes the volume in this sound scene rather than a fabric texture.",
+      "WHISPER": "A whisper is quiet speech rather than a normal full singing tone.",
+      "SHOUT": "Shouting increases the strength of the voice rather than naming a musical note.",
+      "HUM": "Humming produces a melody without clearly spoken words."
     },
     "requiredAnswers": [
-      "DYNAMICS"
-    ]
+      "SOUND"
+    ],
+    "revision": 2
   },
   {
     "id": "music-patterns-5",
-    "title": "Finding Your Place in Sheet Music",
-    "description": "Navigate the measure numbers, repeat marks, and ending directions of a simple printed score.",
-    "cardDescription": "Navigate the measure numbers, repeat marks, and ending directions of a simple printed score.",
-    "subtheme": "Finding Your Place in Sheet Music",
-    "focus": "A repeat sign sends a player back to a marked point; an ending bracket shows which passage to take on a repeat.",
-    "solvingTip": "Start with the page-navigation words you recognize.",
+    "title": "Following a Song on the Printed Page",
+    "description": "Read a familiar song through its title, notes, words, and simple page-turning directions.",
+    "cardDescription": "Read a familiar song through its title, notes, words, and simple page-turning directions.",
+    "subtheme": "Following a Song on the Printed Page",
+    "focus": "A score is written music. These clues focus on ordinary parts of the page rather than specialized repeat symbols.",
+    "solvingTip": "Begin with a reading action or a short printed-page word.",
     "words": [
       [
-        "MEASURE",
-        "Group of beats between neighboring bar lines"
-      ],
-      [
-        "REPEAT",
-        "Direction to play a marked passage again"
-      ],
-      [
-        "BARLINE",
-        "Vertical mark separating measures, two words"
-      ],
-      [
-        "ENDING",
-        "Passage under a numbered bracket in repeated music"
-      ],
-      [
-        "FINE",
-        "Italian word marking the end in some musical directions"
-      ],
-      [
-        "CODA",
-        "Concluding section reached by a marked musical direction"
-      ],
-      [
-        "SIGN",
-        "Printed symbol guiding a jump or return in the score"
-      ],
-      [
         "PAGE",
-        "One side of a printed sheet of music"
-      ],
-      [
-        "TURN",
-        "Move to the next page while following a score"
-      ],
-      [
-        "NUMBER",
-        "Printed identifier helping locate a particular measure"
-      ],
-      [
-        "START",
-        "Place where a musical passage begins"
-      ],
-      [
-        "DAL",
-        "Three-letter word before segno in the direction to return to a sign"
-      ],
-      [
-        "CAPO",
-        "Word after da in the direction to return to the beginning"
+        "One printed side followed while singing the song"
       ],
       [
         "SCORE",
-        "Written music showing one or more parts"
+        "Written music used to follow the song"
+      ],
+      [
+        "VERSE",
+        "Song section that may have different words each time"
+      ],
+      [
+        "REPEAT",
+        "Perform the same part of the song again"
+      ],
+      [
+        "TITLE",
+        "Name printed above the song"
+      ],
+      [
+        "LINE",
+        "One row of words on the song sheet"
+      ],
+      [
+        "NOTE",
+        "Printed symbol representing a musical sound"
+      ],
+      [
+        "WORD",
+        "One spoken or sung unit of the song's text"
+      ],
+      [
+        "SONG",
+        "Musical work followed on the printed sheet"
+      ],
+      [
+        "START",
+        "Begin reading or singing the first part"
+      ],
+      [
+        "END",
+        "Final point of the written song"
+      ],
+      [
+        "REST",
+        "Musical silence marked on the page"
+      ],
+      [
+        "TURN",
+        "Move to the next sheet-music page"
+      ],
+      [
+        "READ",
+        "Look at the printed words and notes to understand them"
       ]
     ],
     "answerNotes": {
-      "MEASURE": "A measure organizes beats according to the time signature.",
-      "REPEAT": "A repeat applies to a defined passage rather than necessarily the entire piece.",
-      "BARLINE": "Bar lines divide measures and do not by themselves indicate a pause.",
-      "ENDING": "First and second endings let repeated sections finish differently.",
-      "FINE": "Fine means the ending point in this context, rather than a judgment of quality."
+      "PAGE": "A page can hold words, musical notes, or both.",
+      "SCORE": "Score names the printed musical notation rather than game points here.",
+      "VERSE": "A verse can advance a story while the melody repeats.",
+      "REPEAT": "Repeat is an ordinary action word rather than one specific printed symbol.",
+      "TITLE": "A title identifies the work rather than a performance direction."
     },
     "requiredAnswers": [
-      "MEASURE"
-    ]
+      "SCORE"
+    ],
+    "revision": 2
   }
 ]

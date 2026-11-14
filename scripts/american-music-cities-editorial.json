@@ -1,12 +1,12 @@
 [
   {
     "id": "american-music-cities",
-    "title": "Country Music in Nashville",
-    "description": "Visit Nashville through country-radio institutions, Tennessee geography, and the words of a working music scene.",
-    "cardDescription": "Visit Nashville through country-radio institutions, Tennessee geography, and the words of a working music scene.",
-    "subtheme": "Country Music in Nashville",
-    "focus": "The city clues combine place names with familiar performance and recording words.",
-    "solvingTip": "Use the state and river names before the music-business terms.",
+    "title": "An Evening of Country Music in Nashville",
+    "description": "Visit Nashville through a familiar state name, songs, instruments, and a live country performance.",
+    "cardDescription": "Visit Nashville through a familiar state name, songs, instruments, and a live country performance.",
+    "subtheme": "An Evening of Country Music in Nashville",
+    "focus": "The clues focus on the city and a concert scene rather than local river names or recording-company history.",
+    "solvingTip": "Try an ordinary performance word before the city and state names.",
     "words": [
       [
         "NASHVILLE",
@@ -14,67 +14,68 @@
       ],
       [
         "TENNESSEE",
-        "State whose capital is Nashville"
+        "State containing Nashville and the Great Smoky Mountains"
       ],
       [
-        "RYMAN",
-        "Historic Nashville auditorium associated with the Grand Ole Opry"
+        "COUNTRY",
+        "Music style associated with many Nashville performers"
       ],
       [
-        "OPRY",
-        "Final word in the broadcast name Grand Ole ___"
+        "SINGER",
+        "Person delivering the country song's words"
       ],
       [
-        "CUMBERLAND",
-        "River flowing through Nashville"
+        "SHOW",
+        "Performance presented to a gathered audience"
       ],
       [
         "MUSIC",
-        "Word before City in Nashville's nickname"
+        "Organized sound enjoyed at the Nashville venue"
       ],
       [
-        "ROW",
-        "Word after Music in the name of Nashville's recording district"
-      ],
-      [
-        "WRITER",
-        "Person creating a song's words or music"
-      ],
-      [
-        "DEMO",
-        "Sample recording used to present a song"
-      ],
-      [
-        "STUDIO",
-        "Room used to record a country performer"
-      ],
-      [
-        "SESSION",
-        "Scheduled period of recording work"
-      ],
-      [
-        "CHART",
-        "Ranked list on which a popular recording may appear"
-      ],
-      [
-        "RADIO",
-        "Broadcast medium central to Nashville's music history"
+        "SONG",
+        "Musical work performed during the evening"
       ],
       [
         "GUITAR",
-        "String instrument associated with many Nashville sessions"
+        "String instrument commonly heard in a country band"
+      ],
+      [
+        "FIDDLE",
+        "Common country-music name for a violin"
+      ],
+      [
+        "STAGE",
+        "Raised area where the country musicians perform"
+      ],
+      [
+        "BAND",
+        "Group providing the evening's instrumental music"
+      ],
+      [
+        "RADIO",
+        "Broadcast medium carrying country songs to listeners"
+      ],
+      [
+        "DANCE",
+        "Move in time with the evening's lively music"
+      ],
+      [
+        "TUNE",
+        "Melody recognized by a listener"
       ]
     ],
     "answerNotes": {
-      "NASHVILLE": "Nashville is an important center for country recording and songwriting.",
-      "TENNESSEE": "Nashville serves as the state capital as well as a music center.",
-      "RYMAN": "The Ryman was a long-time Opry home before the show moved to a newer venue.",
-      "OPRY": "The Grand Ole Opry is a long-running country-music stage and radio institution.",
-      "CUMBERLAND": "The Cumberland is the river through the city, not the state's namesake river."
+      "NASHVILLE": "Nashville is the state capital as well as an important music center.",
+      "TENNESSEE": "The state supplies the geographic setting of this country-music scene.",
+      "COUNTRY": "Country contains many different sounds and traditions rather than one fixed lineup.",
+      "SINGER": "The singer supplies the vocal part rather than the backing instruments.",
+      "SHOW": "Show describes the event rather than one particular song."
     },
     "requiredAnswers": [
       "NASHVILLE"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "american-music-cities-2",
@@ -232,80 +233,81 @@
   },
   {
     "id": "american-music-cities-4",
-    "title": "Detroit and the Motown Sound",
-    "description": "Look at Detroit's recording legacy through Motown, Hitsville, and the people working on a soul record.",
-    "cardDescription": "Look at Detroit's recording legacy through Motown, Hitsville, and the people working on a soul record.",
-    "subtheme": "Detroit and the Motown Sound",
-    "focus": "The recording company, its studio nickname, and the city are related but are different answers.",
-    "solvingTip": "Use location clues to distinguish names from studio roles.",
+    "title": "Detroit and a Motown Record",
+    "description": "Explore Detroit's music through its state, a familiar nickname, and ordinary record-listening words.",
+    "cardDescription": "Explore Detroit's music through its state, a familiar nickname, and ordinary record-listening words.",
+    "subtheme": "Detroit and a Motown Record",
+    "focus": "The clues use broad place associations and musical objects rather than founder names or studio nicknames.",
+    "solvingTip": "Start with a short music or household word.",
     "words": [
       [
         "DETROIT",
-        "Michigan city where Motown was founded"
+        "Michigan city associated with Motown's beginnings"
       ],
       [
         "MICHIGAN",
         "State containing Detroit"
       ],
       [
-        "HITSVILLE",
-        "Nickname on Motown's early Detroit studio building"
-      ],
-      [
-        "GORDY",
-        "Berry who founded Motown"
-      ],
-      [
         "MOTOWN",
-        "Record company founded by Berry Gordy"
+        "Detroit-founded music company known for soul and pop recordings"
       ],
       [
-        "BERRY",
-        "First name of Motown founder Gordy"
+        "MOTOR",
+        "Engine word before City in Detroit's nickname"
+      ],
+      [
+        "CITY",
+        "Word completing Detroit's nickname Motor ___"
       ],
       [
         "SOUL",
-        "Broad musical tradition associated with many Detroit vocal groups"
+        "Music tradition associated with many Motown records"
       ],
       [
-        "BASS",
-        "Low musical part anchoring a rhythm section"
-      ],
-      [
-        "TAMBOURINE",
-        "Small jingling percussion instrument on many pop recordings"
-      ],
-      [
-        "STUDIO",
-        "Recording room inside the early Motown building"
-      ],
-      [
-        "BACKBEAT",
-        "Rhythmic emphasis often placed on beats two and four"
+        "SONG",
+        "Recorded musical piece heard by the listener"
       ],
       [
         "SINGER",
-        "Performer delivering the record's vocal melody"
+        "Person performing the record's vocal melody"
       ],
       [
-        "HIT",
-        "Successful record celebrated in the studio nickname"
+        "BAND",
+        "Musicians accompanying the recorded singer"
+      ],
+      [
+        "STUDIO",
+        "Place where musicians make a recording"
+      ],
+      [
+        "RADIO",
+        "Device through which a listener may hear a Detroit record"
+      ],
+      [
+        "RECORD",
+        "Music disc carrying a Motown performance"
       ],
       [
         "LABEL",
-        "Company name printed at the center of a record"
+        "Printed company name in the center of a record"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
       ]
     ],
     "answerNotes": {
-      "DETROIT": "Detroit's auto-industry association helped inspire the Motown name.",
-      "MICHIGAN": "Michigan identifies the state rather than the music company.",
-      "HITSVILLE": "Hitsville U.S.A. is associated with Motown's original Detroit headquarters.",
-      "GORDY": "Berry Gordy established the company that developed many soul and pop acts.",
-      "MOTOWN": "The company later moved its headquarters, but its origins are in Detroit."
+      "DETROIT": "Detroit supplied the setting for the record company's early work.",
+      "MICHIGAN": "The state name provides geographic context rather than a music term.",
+      "MOTOWN": "Motown names both the company and a widely recognized sound association.",
+      "MOTOR": "Motor City reflects Detroit's automobile-industry association.",
+      "CITY": "City identifies the kind of populated place rather than a record label."
     },
     "requiredAnswers": [
       "DETROIT"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "american-music-cities-5",

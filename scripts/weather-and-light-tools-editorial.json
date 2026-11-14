@@ -83,7 +83,7 @@
     "description": "Explore directions and the parts of a magnetic compass through plain descriptions of how its pointer and dial are read.",
     "cardDescription": "Explore directions and the parts of a magnetic compass through plain descriptions of how its pointer and dial are read.",
     "subtheme": "A Compass in the Hand",
-    "focus": "A magnetic compass responds to Earth’s magnetic field. Magnetic north and geographic north are different references, so the clues do not treat the instrument as automatically pointing to the exact geographic pole.",
+    "focus": "A magnetic compass responds to Earth\u2019s magnetic field. Magnetic north and geographic north are different references, so the clues do not treat the instrument as automatically pointing to the exact geographic pole.",
     "solvingTip": "Separate the whole instrument from its pointer and direction markings. A bearing is a direction measurement rather than a place.",
     "words": [
       [
@@ -156,84 +156,82 @@
   },
   {
     "id": "weather-and-light-tools-3",
-    "title": "Weather Instruments at a Glance",
-    "description": "Match common outdoor weather measurements with the instruments designed to observe them.",
-    "cardDescription": "Match common outdoor weather measurements with the instruments designed to observe them.",
-    "subtheme": "Weather Instruments at a Glance",
-    "focus": "Rainfall amount, wind speed, wind direction, and air pressure are separate measurements. The clues give the function directly, with shorter measurement and component words to support the technical names.",
-    "solvingTip": "Identify the quantity first. Speed and direction need different wind instruments, just as rainfall and air pressure need different devices.",
+    "title": "Rain in a Garden Measuring Jar",
+    "description": "Watch rain collect in a clear jar through water levels, marked lines, and a simple amount reading.",
+    "cardDescription": "Watch rain collect in a clear jar through water levels, marked lines, and a simple amount reading.",
+    "subtheme": "Rain in a Garden Measuring Jar",
+    "focus": "The marks help compare collected amounts. These clues stay with familiar containers and weather words.",
+    "solvingTip": "Start with a short container, weather, or pouring word.",
     "words": [
       [
-        "BAROMETER",
-        "Instrument measuring atmospheric pressure"
-      ],
-      [
-        "RAINGAUGE",
-        "Instrument that collects precipitation to measure its amount"
-      ],
-      [
-        "ANEMOMETER",
-        "Instrument measuring wind speed"
-      ],
-      [
-        "WINDVANE",
-        "Turning weather instrument indicating wind direction"
-      ],
-      [
-        "HUMIDITY",
-        "Measure describing water vapor present in the air"
-      ],
-      [
-        "WEATHER",
-        "Atmospheric conditions observed at a place and time"
+        "JAR",
+        "Clear container collecting the rain in this scene"
       ],
       [
         "RAIN",
-        "Liquid precipitation collected by a gauge"
-      ],
-      [
-        "WIND",
-        "Moving air observed by a vane and anemometer"
-      ],
-      [
-        "PRESSURE",
-        "Force per unit area measured by a barometer"
-      ],
-      [
-        "MEASURE",
-        "To determine the amount of a physical quantity"
-      ],
-      [
-        "CUP",
-        "Small rotating catcher on a common wind-speed instrument"
-      ],
-      [
-        "TUBE",
-        "Narrow cylindrical collector in some precipitation gauges"
+        "Water falling from clouds into the garden container"
       ],
       [
         "INCH",
-        "Length unit used in many American rainfall reports"
+        "U.S. length unit used in many rainfall reports"
       ],
       [
-        "SCALE",
-        "Set of ordered markings from which a gauge is read"
+        "LINE",
+        "Mark showing a level on the measuring container"
       ],
       [
-        "AIR",
-        "Mixture of gases whose pressure a weather instrument measures"
+        "LEVEL",
+        "Height reached by the water inside the jar"
+      ],
+      [
+        "WATER",
+        "Liquid gathered after the shower"
+      ],
+      [
+        "FULL",
+        "Containing as much as the jar is meant to hold"
+      ],
+      [
+        "EMPTY",
+        "Containing no collected rain yet"
+      ],
+      [
+        "CLOUD",
+        "Mass in the sky from which rain may fall"
+      ],
+      [
+        "WET",
+        "Covered with water after the garden shower"
+      ],
+      [
+        "POUR",
+        "Tip the jar to let its contents flow out"
+      ],
+      [
+        "CUP",
+        "Small measuring vessel used for some liquid amounts"
+      ],
+      [
+        "TUBE",
+        "Narrow hollow shape used in some rain collectors"
+      ],
+      [
+        "GLASS",
+        "Clear material forming this garden container"
       ]
     ],
     "answerNotes": {
-      "BAROMETER": "A barometer measures air pressure. It does not directly measure rainfall or wind speed.",
-      "RAINGAUGE": "Rain gauge is written without a space in the grid. It measures collected precipitation rather than the speed of falling drops.",
-      "ANEMOMETER": "An anemometer measures speed. A wind vane identifies direction, a separate property.",
-      "WINDVANE": "Wind vane is written without a space. Weather reports conventionally name wind for the direction it comes from.",
-      "HUMIDITY": "Humidity concerns water vapor in air. Relative humidity compares the amount present with a temperature-dependent saturation level."
+      "JAR": "A marked container can make the collected amount easier to compare.",
+      "RAIN": "Rain is liquid precipitation rather than falling ice or snow.",
+      "INCH": "Rainfall depth is commonly reported in inches in the United States.",
+      "LINE": "The water level is compared with the marked lines.",
+      "LEVEL": "Level identifies the surface height rather than the weather forecast."
     },
     "requiredAnswers": [
-      "RAINGAUGE"
-    ]
+      "RAIN",
+      "JAR"
+    ],
+    "revision": 2
   },
   {
     "id": "weather-and-light-tools-4",

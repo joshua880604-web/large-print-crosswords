@@ -155,80 +155,81 @@
   },
   {
     "id": "clothes-and-fabrics-3",
-    "title": "The Shape of a Shirt",
-    "description": "Find the names for a shirt’s edges, panels, and openings through the familiar outline of a garment.",
-    "cardDescription": "Find the names for a shirt’s edges, panels, and openings through the familiar outline of a garment.",
-    "subtheme": "The Shape of a Shirt",
-    "focus": "Some clothing terms describe where a part sits, while others describe its construction. The clues distinguish a shoulder panel, an opening reinforcement, and the finish along an edge.",
-    "solvingTip": "Picture the garment from top to bottom. The location of an opening or seam can help before you know the technical term.",
+    "title": "A Favorite Shirt on the Hanger",
+    "description": "Find the familiar collar, sleeves, pocket, and buttons of an everyday shirt.",
+    "cardDescription": "Find the familiar collar, sleeves, pocket, and buttons of an everyday shirt.",
+    "subtheme": "A Favorite Shirt on the Hanger",
+    "focus": "These clues describe visible clothing parts and ordinary care actions, without specialized tailoring terms.",
+    "solvingTip": "Try the parts touched by the hands or worn around the neck.",
     "words": [
       [
-        "PLACKET",
-        "Finished strip or opening area carrying a shirt's buttons or buttonholes"
-      ],
-      [
-        "YOKE",
-        "Shaped garment panel across the shoulders of many shirts"
-      ],
-      [
-        "CUFF",
-        "Finished band or edge around the wrist end of a sleeve"
+        "SHIRT",
+        "Upper-body garment with sleeves and a collar in this scene"
       ],
       [
         "COLLAR",
-        "Part of a shirt fitted around the neck opening"
-      ],
-      [
-        "HEM",
-        "Folded and secured finish along a shirt's lower edge"
+        "Shirt part surrounding the neck opening"
       ],
       [
         "SLEEVE",
-        "Shirt section covering an arm"
-      ],
-      [
-        "POCKET",
-        "Small attached compartment for carrying a pen or other item"
-      ],
-      [
-        "SEAM",
-        "Stitched line joining separate pieces of a shirt"
-      ],
-      [
-        "FRONT",
-        "Side of a shirt commonly carrying the central button opening"
-      ],
-      [
-        "BACK",
-        "Shirt panel opposite the chest side"
+        "Shirt part covering an arm"
       ],
       [
         "BUTTON",
-        "Small fastener sewn beside a shirt opening"
+        "Small fastener pushed through a matching hole"
       ],
       [
-        "FOLD",
-        "To bend cloth over itself along a line"
+        "POCKET",
+        "Small sewn pouch for a pen or other item"
       ],
       [
-        "TAIL",
-        "Lower hanging part of a shirt that may be tucked in"
+        "CUFF",
+        "Band around the wrist end of a shirt sleeve"
+      ],
+      [
+        "HEM",
+        "Finished lower edge of the shirt"
+      ],
+      [
+        "SEAM",
+        "Stitched join between pieces of shirt fabric"
       ],
       [
         "COTTON",
-        "Plant fiber commonly used to make shirts"
+        "Soft plant-based material used for many shirts"
+      ],
+      [
+        "FOLD",
+        "Bend the shirt neatly for storage"
+      ],
+      [
+        "FRONT",
+        "Side of the shirt facing forward"
+      ],
+      [
+        "BACK",
+        "Side of the shirt opposite the chest"
+      ],
+      [
+        "HANGER",
+        "Shaped support keeping a shirt in the closet"
+      ],
+      [
+        "WASH",
+        "Clean the shirt with water and detergent"
       ]
     ],
     "answerNotes": {
-      "PLACKET": "A placket reinforces or finishes an opening. On many shirts it runs down the center front.",
-      "YOKE": "A yoke is a structural panel. Its name also has an unrelated farming meaning, so the garment context matters.",
-      "CUFF": "A cuff is at the sleeve's lower end. It differs from the collar around the neck opening.",
-      "COLLAR": "A collar frames the neck. It can have different shapes without changing the basic name.",
-      "HEM": "A hem finishes an edge. A seam generally joins pieces together, which is a different construction role."
+      "SHIRT": "Shirt names the garment rather than its separate fabric pieces.",
+      "COLLAR": "A collar sits around the neck rather than the wrist.",
+      "SLEEVE": "A sleeve joins the garment's body near the shoulder.",
+      "BUTTON": "Buttons close the opening while allowing it to be opened again.",
+      "POCKET": "A pocket provides storage on the garment."
     },
     "requiredAnswers": [
-      "PLACKET"
-    ]
+      "SHIRT"
+    ],
+    "revision": 2
   },
   {
     "id": "clothes-and-fabrics-4",
@@ -237,7 +238,7 @@
     "cardDescription": "Compare everyday fabrics through their fibers, surface textures, and methods of construction.",
     "subtheme": "Familiar Fabric Names",
     "focus": "Some names identify a fiber, some a fabric, and some a weave or finish. The clues make those distinctions explicit rather than treating every textile word as the same kind of category.",
-    "solvingTip": "Use a clue’s category as well as its texture description. A plant fiber and a weaving method require different answers.",
+    "solvingTip": "Use a clue\u2019s category as well as its texture description. A plant fiber and a weaving method require different answers.",
     "words": [
       [
         "VELVET",

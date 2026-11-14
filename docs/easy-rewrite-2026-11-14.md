@@ -1,5 +1,7 @@
 # Everyday-vocabulary rewrite — November 14, 2026
 
+This report records the first 27 replacements. The subsequent [context review](context-review-2026-11-14.md) completes the remaining 66 decisions; use that report for current inventory and review status.
+
 The user asked for easy, older-reader-friendly themed puzzles and explicitly prioritized quality over catalog size. This release replaces the 27 current boards flagged for specialist vocabulary, keeping the collection at 500 games. It does not add keyword-variant landing pages.
 
 ## What changed

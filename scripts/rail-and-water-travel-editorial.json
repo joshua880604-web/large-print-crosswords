@@ -159,84 +159,81 @@
   },
   {
     "id": "rail-and-water-travel-3",
-    "title": "A Canal Boat at the Lock",
-    "description": "Follow a canal boat through a lock chamber using words for water levels, gates, and the narrow towpath beside the canal.",
-    "cardDescription": "Follow a canal boat through a lock chamber using words for water levels, gates, and the narrow towpath beside the canal.",
-    "subtheme": "A Canal Boat at the Lock",
-    "focus": "A lock changes a boat’s elevation by changing the water level inside a chamber. Its gates and water-control openings have different jobs.",
-    "solvingTip": "Separate the enclosed water space from the barrier at either end and from the path on shore.",
+    "title": "Waiting Beside a Canal Lock",
+    "description": "Watch a canal boat wait by the gate as the water rises or falls.",
+    "cardDescription": "Watch a canal boat wait by the gate as the water rises or falls.",
+    "subtheme": "Waiting Beside a Canal Lock",
+    "focus": "A lock changes the water height around the boat so it can reach the next part of the canal.",
+    "solvingTip": "Short water and action words help with the canal term.",
     "words": [
       [
         "LOCK",
-        "Enclosed canal chamber used to raise or lower boats between water levels"
-      ],
-      [
-        "SLUICE",
-        "Controlled opening through which lock water can flow"
-      ],
-      [
-        "TOWPATH",
-        "Canalside path historically used by animals pulling boats"
-      ],
-      [
-        "BOLLARD",
-        "Stout post around which a boat's mooring line can be secured"
-      ],
-      [
-        "CHAMBER",
-        "Enclosed water space between a canal lock's end gates"
+        "Enclosed canal space used to raise or lower boats"
       ],
       [
         "GATE",
-        "Large movable barrier closing the end of a canal lock"
-      ],
-      [
-        "CANAL",
-        "Artificial waterway used by these slow-moving boats"
+        "Movable barrier closing the end of the canal space"
       ],
       [
         "LEVEL",
-        "Height of the water surface within a lock"
+        "Height of the water around the waiting boat"
       ],
       [
-        "ROPE",
-        "Flexible line used to hold a boat alongside"
-      ],
-      [
-        "BARGE",
-        "Flat-bottomed cargo vessel associated with canals"
-      ],
-      [
-        "BOW",
-        "Forward end of the boat entering a lock"
-      ],
-      [
-        "STERN",
-        "Rear end of a canal boat"
-      ],
-      [
-        "BANK",
-        "Land bordering the canal's water"
-      ],
-      [
-        "MOOR",
-        "To secure a boat at a stopping place"
+        "CANAL",
+        "Man-made waterway traveled by the boat"
       ],
       [
         "CREW",
-        "People working together aboard the canal vessel"
+        "People working together aboard the canal boat"
+      ],
+      [
+        "BOAT",
+        "Small vessel waiting beside the canal gate"
+      ],
+      [
+        "ROPE",
+        "Thick line used to hold the boat near the bank"
+      ],
+      [
+        "BANK",
+        "Land bordering the canal water"
+      ],
+      [
+        "WATER",
+        "Liquid surrounding the floating vessel"
+      ],
+      [
+        "RISE",
+        "Move upward as more water enters"
+      ],
+      [
+        "FALL",
+        "Move downward as water leaves"
+      ],
+      [
+        "WAIT",
+        "Stay in place until the gate is ready"
+      ],
+      [
+        "WALK",
+        "Go on foot along the waterside path"
+      ],
+      [
+        "PATH",
+        "Narrow route beside the canal"
       ]
     ],
     "answerNotes": {
-      "LOCK": "A lock changes the water level around a floating boat, rather than lifting the boat on a solid platform.",
-      "SLUICE": "A sluice controls water passage; a gate at the chamber's end allows the boat itself to enter or leave.",
-      "TOWPATH": "A towpath runs beside the waterway; it is not the underwater route taken by the boat.",
-      "BOLLARD": "A bollard provides a fixed shore fitting, while the line connects the vessel to it.",
-      "CHAMBER": "The chamber holds the boat as the surrounding water level changes."
+      "LOCK": "Changing the water level moves a floating boat between different heights.",
+      "GATE": "The gate opens for the boat after suitable water levels are reached.",
+      "LEVEL": "The level changes as water enters or leaves the enclosed space.",
+      "CANAL": "A canal provides a navigable route rather than being a natural river.",
+      "CREW": "The crew handles tasks such as lines and maneuvering."
     },
     "requiredAnswers": [
       "LOCK"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "rail-and-water-travel-4",
@@ -244,7 +241,7 @@
     "description": "Picture a short ferry crossing through boarding places, deck fittings, and the people and signals associated with the trip.",
     "cardDescription": "Picture a short ferry crossing through boarding places, deck fittings, and the people and signals associated with the trip.",
     "subtheme": "Crossing on a Passenger Ferry",
-    "focus": "A ferry carries people or vehicles across water on a service route. The clues distinguish boarding structures from the boat’s own parts and from its landing destination.",
+    "focus": "A ferry carries people or vehicles across water on a service route. The clues distinguish boarding structures from the boat\u2019s own parts and from its landing destination.",
     "solvingTip": "Read whether the clue describes something on land, on the vessel, or used to announce its movement.",
     "words": [
       [
@@ -317,79 +314,80 @@
   },
   {
     "id": "rail-and-water-travel-5",
-    "title": "A Paddlewheel Riverboat",
-    "description": "Look around a traditional riverboat through the turning paddlewheel, steering equipment, and riverside landing.",
-    "cardDescription": "Look around a traditional riverboat through the turning paddlewheel, steering equipment, and riverside landing.",
-    "subtheme": "A Paddlewheel Riverboat",
-    "focus": "A paddlewheel pushes against water to propel a boat. A sternwheel is mounted at the rear, while sidewheel arrangements place wheels alongside the hull.",
-    "solvingTip": "Use the position or purpose of a part. The turning propelling device is different from the wheel used for steering.",
+    "title": "A Riverboat at the Landing",
+    "description": "Enjoy an old-fashioned riverboat through its deck, bell, wheel, and riverside landing.",
+    "cardDescription": "Enjoy an old-fashioned riverboat through its deck, bell, wheel, and riverside landing.",
+    "subtheme": "A Riverboat at the Landing",
+    "focus": "These clues follow a passenger scene rather than the boat's detailed machinery.",
+    "solvingTip": "Try an ordinary sound, water, or carrying word.",
     "words": [
       [
-        "PADDLE",
-        "Flat blade on a riverboat's propelling wheel"
-      ],
-      [
-        "STERNWHEEL",
-        "Paddlewheel mounted at the rear of a vessel"
-      ],
-      [
-        "RUDDER",
-        "Movable underwater blade used to steer a riverboat"
-      ],
-      [
-        "PILOT",
-        "Person guiding a vessel through a waterway"
-      ],
-      [
-        "WHARF",
-        "Riverside structure where a boat loads or unloads"
+        "RIVERBOAT",
+        "Vessel used for travel along a river"
       ],
       [
         "RIVER",
-        "Flowing inland waterway traveled by this vessel"
-      ],
-      [
-        "HULL",
-        "Main body of the riverboat below its upper structures"
-      ],
-      [
-        "DECK",
-        "Floor level on which riverboat passengers can stand"
-      ],
-      [
-        "BELL",
-        "Metal sounding device associated with a traditional boat"
-      ],
-      [
-        "STACK",
-        "Upright exhaust structure on an older powered riverboat"
-      ],
-      [
-        "ROPE",
-        "Line used to secure the boat at a landing"
+        "Flowing inland waterway traveled by the vessel"
       ],
       [
         "WHEEL",
-        "Circular steering control in the pilot's station"
+        "Round steering control seen in the riverboat's pilot area"
+      ],
+      [
+        "PADDLE",
+        "Flat blade on the boat's large propelling wheel"
       ],
       [
         "CABIN",
-        "Enclosed room aboard a riverboat"
+        "Small enclosed room aboard the riverboat"
       ],
       [
-        "PORT",
-        "Left side of a vessel when facing forward"
+        "BOAT",
+        "Watercraft arriving at the riverside landing"
+      ],
+      [
+        "DOCK",
+        "Platform beside which the vessel stops"
+      ],
+      [
+        "DECK",
+        "Floorlike open surface aboard the vessel"
+      ],
+      [
+        "RAIL",
+        "Protective bar along the edge of the deck"
+      ],
+      [
+        "BELL",
+        "Metal object rung aboard a traditional boat"
+      ],
+      [
+        "SMOKE",
+        "Cloud rising from an old steamboat's chimney"
+      ],
+      [
+        "ROPE",
+        "Line securing the vessel at its landing"
+      ],
+      [
+        "HORN",
+        "Sounding device announcing the boat's approach"
+      ],
+      [
+        "WATER",
+        "Liquid beneath the floating riverboat"
       ]
     ],
     "answerNotes": {
-      "PADDLE": "Paddle blades push against water as the wheel rotates; they are not the steering rudder.",
-      "STERNWHEEL": "A sternwheel is at the stern; sidewheel boats place their propelling wheels at the sides.",
-      "RUDDER": "A rudder influences direction, whereas a paddlewheel provides propulsion.",
-      "PILOT": "A river pilot uses local navigation knowledge; the same word also names an aircraft operator in another setting.",
-      "WHARF": "A wharf is a landing structure on shore, separate from the boat's deck."
+      "RIVERBOAT": "Riverboat identifies the waterway setting rather than one exact hull design.",
+      "RIVER": "A river carries water along a channel toward another water body.",
+      "WHEEL": "Wheel names the steering control in this clue, rather than a paddlewheel.",
+      "PADDLE": "Paddles push against the water when the wheel turns.",
+      "CABIN": "A cabin provides an indoor space rather than the open deck."
     },
     "requiredAnswers": [
-      "PADDLE"
-    ]
+      "RIVERBOAT"
+    ],
+    "revision": 2
   }
 ]

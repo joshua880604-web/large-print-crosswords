@@ -292,76 +292,81 @@
     "subtheme": "Musical Instruments"
   },
   {
-    "title": "Bellows and Buttons",
-    "description": "Explore an accordion and its relatives through familiar parts and the movements that supply air.",
-    "cardDescription": "Explore an accordion and its relatives through familiar parts and the movements that supply air.",
-    "focus": "The clues identify free-reed instruments and their physical parts. Everyday action words help explain how the instrument changes shape.",
-    "solvingTip": "Check whether the clue describes the whole instrument, its air supply, or a control.",
+    "id": "instrument-families-5",
+    "title": "An Accordion at the Community Hall",
+    "description": "Enjoy an accordion through its buttons, folds, and the hands moving it during a familiar tune.",
+    "cardDescription": "Enjoy an accordion through its buttons, folds, and the hands moving it during a familiar tune.",
+    "subtheme": "An Accordion at the Community Hall",
+    "focus": "The player pushes and pulls the instrument to move air through it. These clues focus on visible actions and parts.",
+    "solvingTip": "Try a short movement word before the instrument's name.",
     "words": [
       [
         "ACCORDION",
-        "Portable free-reed instrument played with bellows and keys or buttons"
-      ],
-      [
-        "BELLOWS",
-        "Folding chamber that moves air through an accordion"
+        "Musical instrument squeezed and stretched between the hands"
       ],
       [
         "BUTTON",
-        "Small pressed control on many accordions"
-      ],
-      [
-        "KEY",
-        "Piano-like control on one type of accordion"
-      ],
-      [
-        "REED",
-        "Vibrating strip producing an accordion\u2019s tone"
-      ],
-      [
-        "AIR",
-        "Gas moved through an accordion by its bellows"
-      ],
-      [
-        "STRAP",
-        "Band helping support a carried accordion"
+        "Round control pressed to select a note or chord"
       ],
       [
         "FOLD",
-        "One pleat in an accordion\u2019s expanding chamber"
+        "One pleated section in the accordion's moving middle"
       ],
       [
-        "SQUEEZE",
-        "To press accordion bellows together"
+        "STRAP",
+        "Band supporting the instrument against the player's body"
       ],
       [
-        "EXPAND",
-        "To open the bellows farther apart"
-      ],
-      [
-        "CONCERTINA",
-        "Small free-reed instrument with bellows between two ends"
+        "AIR",
+        "Gas moved through the accordion to make sound"
       ],
       [
         "HAND",
-        "Body part operating one side of an accordion"
+        "Body part moving one end of the instrument"
+      ],
+      [
+        "PUSH",
+        "Press the accordion's ends toward each other"
+      ],
+      [
+        "PULL",
+        "Draw the accordion's ends farther apart"
+      ],
+      [
+        "KEY",
+        "Piano-like control on some accordions"
       ],
       [
         "CASE",
-        "Container protecting an accordion between performances"
+        "Container carrying the instrument to the hall"
       ],
       [
         "TUNE",
-        "Melody that can be played on an accordion"
+        "Melody played for the gathering"
+      ],
+      [
+        "SONG",
+        "Musical piece enjoyed by the listeners"
+      ],
+      [
+        "DANCE",
+        "Move in time with the lively music"
+      ],
+      [
+        "POLKA",
+        "Lively dance often associated with accordion music"
       ]
     ],
     "answerNotes": {
-      "BELLOWS": "Bellows move air as they expand and compress. They are the flexible chamber rather than the keys or buttons.",
-      "CONCERTINA": "A concertina has bellows between its ends. Its compact form distinguishes it from many larger accordions.",
-      "REED": "Accordion reeds vibrate in moving air. The word names a sound-producing part rather than a wetland plant here.",
-      "BUTTON": "A button is a musical control in this clue. It does not fasten a garment."
+      "ACCORDION": "Moving the folded middle section supplies air to make its sound.",
+      "BUTTON": "Some accordions also have piano-like keys.",
+      "FOLD": "The folds let the middle expand and close again.",
+      "STRAP": "Straps support the instrument while the hands are busy playing.",
+      "AIR": "Airflow sets the sound-making parts inside the instrument vibrating."
     },
-    "id": "instrument-families-5",
-    "subtheme": "Musical Instruments"
+    "requiredAnswers": [
+      "ACCORDION"
+    ],
+    "revision": 2
   }
 ]

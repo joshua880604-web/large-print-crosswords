@@ -3313,5 +3313,6353 @@
         }
       ]
     }
+  },
+  {
+    "id": "a-stitch-in-time-4",
+    "title": "Piecing a Patchwork Quilt",
+    "theme": "Crafts",
+    "subtheme": "Patchwork Pieces and Edges",
+    "series": "a-stitch-in-time",
+    "description": "Explore patchwork through a crossword about fabric pieces, joined seams, and finishing the edges of a quilt.",
+    "cardDescription": "Fabric pieces, joined seams, and finished patchwork edges.",
+    "difficulty": "Easy",
+    "revision": 2,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BINDING",
+        "clue": "Fabric strip that encloses a quilt's outer edges",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SASHING",
+        "clue": "Fabric strips that separate quilt blocks",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "COTTON",
+        "clue": "Common plant-based fabric used for patchwork",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BASTE",
+        "clue": "To hold quilt layers temporarily with loose stitches",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PIECE",
+        "clue": "To sew small fabric sections together into a quilt top",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SCRAP",
+        "clue": "Small leftover piece of sewing fabric",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PATCH",
+        "clue": "Small fabric piece used in a patchwork design",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "STRIP",
+        "clue": "Long narrow piece of quilting fabric",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "QUILT",
+        "clue": "Bedcover made from layers held together by stitching or ties",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PRINT",
+        "clue": "Fabric with a repeated pictured or colored design",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SEAM",
+        "clue": "Stitched join between two patchwork pieces",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "The clues move from small fabric pieces to a finished quilt. Some answers name strips or edge finishes, while others describe fabric, a stitched join, or a sewing action. Direct definitions explain the craft terms.",
+      "solvingTip": "Look at where a fabric strip goes: between blocks or around the outside. Clues asking for an action may involve joining pieces or holding layers temporarily. Short fabric and sewing words can provide useful crossings.",
+      "answerNotes": [
+        {
+          "answer": "BINDING",
+          "text": "Binding encloses the outer raw edges of a quilt. It differs from the strips used between blocks in the middle of the design."
+        },
+        {
+          "answer": "SASHING",
+          "text": "Sashing consists of strips between quilt blocks. Not every quilt has it, so the clue describes its position rather than calling it essential."
+        },
+        {
+          "answer": "BASTE",
+          "text": "Basting holds layers temporarily while later work is done. The clue specifies loose stitches, although quilters also use other basting methods."
+        }
+      ]
+    }
+  },
+  {
+    "id": "instrument-families-5",
+    "title": "Bellows and Buttons",
+    "theme": "Classic Pastimes",
+    "subtheme": "Musical Instruments",
+    "series": "instrument-families",
+    "description": "Explore an accordion and its relatives through familiar parts and the movements that supply air.",
+    "cardDescription": "Explore an accordion and its relatives through familiar parts and the movements that supply air.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CONCERTINA",
+        "clue": "Small free-reed instrument with bellows between two ends",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BELLOWS",
+        "clue": "Folding chamber that moves air through an accordion",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SQUEEZE",
+        "clue": "To press accordion bellows together",
+        "row": 10,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "EXPAND",
+        "clue": "To open the bellows farther apart",
+        "row": 2,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BUTTON",
+        "clue": "Small pressed control on many accordions",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FOLD",
+        "clue": "One pleat in an accordion\u2019s expanding chamber",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "REED",
+        "clue": "Vibrating strip producing an accordion\u2019s tone",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "TUNE",
+        "clue": "Melody that can be played on an accordion",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CASE",
+        "clue": "Container protecting an accordion between performances",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "KEY",
+        "clue": "Piano-like control on one type of accordion",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "AIR",
+        "clue": "Gas moved through an accordion by its bellows",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "The clues identify free-reed instruments and their physical parts. Everyday action words help explain how the instrument changes shape.",
+      "solvingTip": "Check whether the clue describes the whole instrument, its air supply, or a control.",
+      "answerNotes": [
+        {
+          "answer": "CONCERTINA",
+          "text": "A concertina has bellows between its ends. Its compact form distinguishes it from many larger accordions."
+        },
+        {
+          "answer": "BELLOWS",
+          "text": "Bellows move air as they expand and compress. They are the flexible chamber rather than the keys or buttons."
+        },
+        {
+          "answer": "BUTTON",
+          "text": "A button is a musical control in this clue. It does not fasten a garment."
+        }
+      ]
+    }
+  },
+  {
+    "id": "treasured-collections",
+    "title": "Pages in a Stamp Album",
+    "theme": "Classic Pastimes",
+    "subtheme": "Collections",
+    "series": "treasured-collections",
+    "description": "Open a stamp album through familiar small parts, printed details, and collecting words.",
+    "cardDescription": "Open a stamp album through familiar small parts, printed details, and collecting words.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PERFORATION",
+        "clue": "Row of tiny holes allowing stamps to be separated",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "POSTMARK",
+        "clue": "Postal marking recording a handling place or date",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "COLLECT",
+        "clue": "To gather related objects as a hobby",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DESIGN",
+        "clue": "Planned picture and lettering appearing on a stamp",
+        "row": 2,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CANCEL",
+        "clue": "Postal mark showing a stamp has been used",
+        "row": 9,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "MARGIN",
+        "clue": "Blank outer area beside a printed stamp design",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "HINGE",
+        "clue": "Small gummed strip traditionally used to mount a stamp",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "PRINT",
+        "clue": "To produce an image or lettering on paper",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "SHEET",
+        "clue": "Larger printed piece containing several stamps",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "STAMP",
+        "clue": "Small postal item preserved in a collector\u2019s album",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "ISSUE",
+        "clue": "Set or release of stamps made available together",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TONGS",
+        "clue": "Small gripping tool used to handle stamps",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      }
+    ],
+    "editorial": {
+      "focus": "The clues describe how stamps are identified and arranged. Direct definitions explain the more specialized terms.",
+      "solvingTip": "Look for a whole item, a printed mark, an edge feature, or a way of mounting it.",
+      "answerNotes": [
+        {
+          "answer": "PERFORATION",
+          "text": "Perforations make separation possible along small holes. The clue asks for the row or feature rather than the printed picture."
+        },
+        {
+          "answer": "POSTMARK",
+          "text": "A postmark records postal handling. It is different from the prepaid stamp carrying the design."
+        },
+        {
+          "answer": "HINGE",
+          "text": "A stamp hinge is a small mounting strip. It is not door hardware in this collecting clue."
+        }
+      ]
+    }
+  },
+  {
+    "id": "geography-journeys-4",
+    "title": "Along the American Coast",
+    "theme": "Geography",
+    "subtheme": "Along the American Coast",
+    "series": "geography-journeys",
+    "description": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
+    "cardDescription": "Take a coastal journey through bays, headlands, tides, and the sheltered water around a harbor.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PENINSULA",
+        "clue": "Land surrounded by water on most sides but joined to a mainland",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "HEADLAND",
+        "clue": "Prominent high land projecting into coastal water",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "ESTUARY",
+        "clue": "Coastal area where river water mixes with seawater",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "HARBOR",
+        "clue": "Sheltered coastal water where vessels can anchor",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "INLET",
+        "clue": "Narrow opening leading from the sea into coastal land",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BEACH",
+        "clue": "Coastal strip of sand or pebbles beside the water",
+        "row": 1,
+        "col": 4,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "CAPE",
+        "clue": "Point of land extending into a sea or lake",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "REEF",
+        "clue": "Ridge of rock or coral at or near the water surface",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PORT",
+        "clue": "Coastal town or facility where ships load and unload",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 11
+      },
+      {
+        "answer": "DUNE",
+        "clue": "Mound or ridge of sand shaped by wind",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TIDE",
+        "clue": "Regular rise and fall of sea level along the coast",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BAY",
+        "clue": "Inlet where coastal water reaches into the land",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "Coastal words describe both land and water. Some clues ask about a shape, while others describe a movement or a place where boats gather.",
+      "solvingTip": "Check which side of the shoreline the clue describes. A bay is water extending into land; a peninsula is land extending into water.",
+      "answerNotes": [
+        {
+          "answer": "PENINSULA",
+          "text": "A peninsula remains connected to a larger land area. An island has water all around it."
+        },
+        {
+          "answer": "HEADLAND",
+          "text": "A headland projects outward from the coast. Its position can make it more exposed to waves than a sheltered bay."
+        },
+        {
+          "answer": "ESTUARY",
+          "text": "An estuary is a meeting place for fresh and salt water. Tides often influence its water levels and mixing."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hands-on-hobbies-3",
+    "title": "Working at a Small Loom",
+    "theme": "Crafts",
+    "subtheme": "Working at a Small Loom",
+    "series": "hands-on-hobbies",
+    "description": "Discover weaving through the threads, moving parts, and edges of a small loom.",
+    "cardDescription": "Discover weaving through the threads, moving parts, and edges of a small loom.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "SELVAGE",
+        "clue": "Finished lengthwise edge of woven cloth",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SHUTTLE",
+        "clue": "Weaving tool carrying crosswise yarn through an opening",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "THREAD",
+        "clue": "Fine strand forming one element of woven fabric",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "HEDDLE",
+        "clue": "Loom device with an opening that controls a lengthwise thread",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WOVEN",
+        "clue": "Made by interlacing crossing sets of threads",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "YARN",
+        "clue": "Spun strand supplied to a weaving project",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LOOM",
+        "clue": "Frame or machine on which threads are woven into cloth",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "SHED",
+        "clue": "Opening between separated warp threads on a loom",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "WEFT",
+        "clue": "Crosswise thread passed through a loom's lengthwise threads",
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "REED",
+        "clue": "Comblike loom part that spaces threads and helps pack the weave",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "WARP",
+        "clue": "Lengthwise threads held under tension on a loom",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ROW",
+        "clue": "One line of newly placed thread across a weaving",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "This scene distinguishes lengthwise threads from crosswise ones and names the parts that guide them. The clues describe vocabulary rather than a weaving procedure.",
+      "solvingTip": "Use position words to separate the two thread directions. Short ordinary words can help with a specialized loom part.",
+      "answerNotes": [
+        {
+          "answer": "SHUTTLE",
+          "text": "A shuttle carries the weft through the shed. It is a tool rather than the entire loom."
+        },
+        {
+          "answer": "HEDDLE",
+          "text": "A heddle helps separate warp threads to make a weaving opening. Its opening carries a thread, not the shuttle itself."
+        },
+        {
+          "answer": "LOOM",
+          "text": "A loom holds and organizes threads during weaving. It differs from the finished fabric it produces."
+        }
+      ]
+    }
+  },
+  {
+    "id": "backyard-nature-studies-3",
+    "title": "Caterpillars and Cocoons",
+    "theme": "Nature",
+    "subtheme": "Caterpillars and Cocoons",
+    "series": "backyard-nature-studies",
+    "description": "Follow the names used for the stages of butterflies and moths, including the difference between a pupa and its covering.",
+    "cardDescription": "Follow the names used for the stages of butterflies and moths, including the difference between a pupa and its covering.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CHRYSALIS",
+        "clue": "Name commonly given to a butterfly's pupa",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "COCOON",
+        "clue": "Protective silk covering spun by many moth caterpillars",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "INSECT",
+        "clue": "Six-legged animal group containing moths and butterflies",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "STAGE",
+        "clue": "One distinct period in an insect's life cycle",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "LARVA",
+        "clue": "Immature feeding stage represented by a caterpillar",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SILK",
+        "clue": "Fine fiber a caterpillar may spin into a protective case",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "PUPA",
+        "clue": "Insect life stage between larva and adult in complete metamorphosis",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "MOTH",
+        "clue": "Flying insect whose caterpillar may spin a silk case",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FEED",
+        "clue": "To eat leaves, as a growing caterpillar does",
+        "row": 8,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "GROW",
+        "clue": "To increase in size during a caterpillar's feeding stage",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "EGG",
+        "clue": "Life stage from which a caterpillar hatches",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A life stage and an enclosing structure are different things. The clues make that distinction explicit while connecting familiar flying insects with their younger forms.",
+      "solvingTip": "Read whether a definition asks for a stage, a covering, or a body part. Those categories help separate similar insect words.",
+      "answerNotes": [
+        {
+          "answer": "CHRYSALIS",
+          "text": "A chrysalis is a butterfly pupa. It should not be confused with a cocoon, which is an outer silk covering."
+        },
+        {
+          "answer": "COCOON",
+          "text": "A cocoon encloses a pupa. Many moths make one, but a cocoon is not part of every moth's life cycle."
+        },
+        {
+          "answer": "LARVA",
+          "text": "Larva is the stage name. Caterpillar is the familiar term for the larva of a butterfly or moth."
+        }
+      ]
+    }
+  },
+  {
+    "id": "evening-sky-3",
+    "title": "A Telescope on Its Tripod",
+    "theme": "Nature",
+    "subtheme": "A Telescope on Its Tripod",
+    "series": "evening-sky",
+    "description": "Look at the parts of a small telescope and the support that keeps its view steady.",
+    "cardDescription": "Look at the parts of a small telescope and the support that keeps its view steady.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "TELESCOPE",
+        "clue": "Instrument that gathers light to show distant objects in detail",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "APERTURE",
+        "clue": "Diameter of a telescope's main light-gathering opening",
+        "row": 2,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "TRIPOD",
+        "clue": "Three-legged stand supporting a small telescope",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "MIRROR",
+        "clue": "Reflecting optical surface used in a reflecting design",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "IMAGE",
+        "clue": "Optical representation formed by collected light",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MOUNT",
+        "clue": "Support that holds and aims the optical tube",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "FOCUS",
+        "clue": "Adjustment that makes the viewed image appear sharp",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "KNOB",
+        "clue": "Small turning control used for an adjustment",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "LENS",
+        "clue": "Curved transparent optical piece used in a refracting design",
+        "row": 1,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "VIEW",
+        "clue": "Scene seen through the instrument",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "TUBE",
+        "clue": "Long body holding a small telescope's optical parts",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "CAP",
+        "clue": "Removable cover protecting the front opening",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "Different telescope designs gather light with lenses, mirrors, or both. The clues identify parts by their roles, separating the main opening, viewing component, and supporting structure.",
+      "solvingTip": "Identify the job first: gathering light, sharpening the image, looking through it, or holding the instrument still.",
+      "answerNotes": [
+        {
+          "answer": "TELESCOPE",
+          "text": "A telescope gathers light to form an image. Its design determines whether lenses, mirrors, or a combination do the main optical work."
+        },
+        {
+          "answer": "APERTURE",
+          "text": "Aperture describes the size of the opening. It is not another word for magnification."
+        },
+        {
+          "answer": "TRIPOD",
+          "text": "Three legs provide a stable support on a range of surfaces. The mount above them holds and aims the instrument."
+        }
+      ]
+    }
+  },
+  {
+    "id": "garden-details",
+    "title": "Compost and Soil",
+    "theme": "Gardening",
+    "subtheme": "Compost and Soil",
+    "series": "garden-details",
+    "description": "Look closely at soil ingredients and the organic materials found in a garden\u2019s compost area.",
+    "cardDescription": "Look closely at soil ingredients and the organic materials found in a garden\u2019s compost area.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "COMPOST",
+        "clue": "Decomposed organic material made from collected plant and other suitable matter",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "HUMUS",
+        "clue": "Dark relatively stable organic matter formed as material decomposes",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "WATER",
+        "clue": "Liquid occupying some of a soil's pore spaces",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "MULCH",
+        "clue": "Layer spread over the soil surface around plants",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "LOAM",
+        "clue": "Soil texture containing a mixture of sand, silt, and clay",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "CLAY",
+        "clue": "Finest of the three main mineral soil particle groups",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "WORM",
+        "clue": "Burrowing animal often found in moist garden soil",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SOIL",
+        "clue": "Earthy growing medium beneath a garden's plants",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SILT",
+        "clue": "Soil particle size between sand and clay",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "ROT",
+        "clue": "To decay as organic material breaks down",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "AIR",
+        "clue": "Gas-filled space needed within a well-structured soil",
+        "row": 4,
+        "col": 8,
+        "direction": "across",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "Particle sizes and organic matter describe different aspects of soil. The clues distinguish loam from a single mineral fraction and humus from both fresh leaves and the food with a similar name.",
+      "solvingTip": "Sort the definitions into particle, mixture, process, or organic material. The shortest garden words help with the less familiar soil terms.",
+      "answerNotes": [
+        {
+          "answer": "COMPOST",
+          "text": "Compost is a product of managed decomposition. Its ingredients and degree of breakdown affect its properties."
+        },
+        {
+          "answer": "HUMUS",
+          "text": "Humus is soil organic matter. Its spelling differs from hummus, the chickpea-based food."
+        },
+        {
+          "answer": "MULCH",
+          "text": "Mulch covers the surface. Compost can be used as mulch, but the two words describe different things: a material and a use."
+        }
+      ]
+    }
+  },
+  {
+    "id": "garden-details-2",
+    "title": "A Trellis of Garden Peas",
+    "theme": "Gardening",
+    "subtheme": "A Trellis of Garden Peas",
+    "series": "garden-details",
+    "description": "Follow climbing peas through their supports, curling structures, and seed-bearing pods.",
+    "cardDescription": "Follow climbing peas through their supports, curling structures, and seed-bearing pods.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "TENDRIL",
+        "clue": "Slender curling plant structure a pea uses to grasp support",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TRELLIS",
+        "clue": "Framework provided for climbing garden plants",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "STAKE",
+        "clue": "Pointed support pushed into garden soil",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "TWINE",
+        "clue": "Strong thin cord used for tying garden supports",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "CLIMB",
+        "clue": "To grow upward along a supporting framework",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SEED",
+        "clue": "Individual pea from which a new plant can grow",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "VINE",
+        "clue": "Climbing or trailing plant stem, as in a pea planting",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "STEM",
+        "clue": "Plant axis bearing leaves and supporting growth",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "POLE",
+        "clue": "Tall upright support beside a climbing plant",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Plant structure anchoring the pea below ground",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Flat green structure carrying out much of a pea plant's photosynthesis",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "POD",
+        "clue": "Seed-bearing fruit of a pea plant",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 2
+      }
+    ],
+    "editorial": {
+      "focus": "Peas use tendrils to hold onto supports. This differs from plants that climb mainly by winding their stems, so the clues keep the plant and its climbing mechanism connected.",
+      "solvingTip": "Distinguish the living climbing part from the support supplied by a gardener. A fruit, a seed, and a stem are also separate structures.",
+      "answerNotes": [
+        {
+          "answer": "TENDRIL",
+          "text": "A pea uses tendrils to hold nearby supports. Many climbing beans instead wind their stems, which is a different mechanism."
+        },
+        {
+          "answer": "TRELLIS",
+          "text": "A trellis is a support, not a living plant part. Its openings give tendrils or stems places to hold."
+        },
+        {
+          "answer": "TWINE",
+          "text": "Twine is a supplied material. It differs from a tendril grown by the pea plant itself."
+        }
+      ]
+    }
+  },
+  {
+    "id": "garden-details-3",
+    "title": "Bulbs and Other Underground Stores",
+    "theme": "Gardening",
+    "subtheme": "Bulbs and Other Underground Stores",
+    "series": "garden-details",
+    "description": "Separate familiar underground plant structures through examples from flowers and the vegetable garden.",
+    "cardDescription": "Separate familiar underground plant structures through examples from flowers and the vegetable garden.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "STORAGE",
+        "clue": "Function served by these food-holding plant structures",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "DAHLIA",
+        "clue": "Garden flower that stores food in tuberous roots",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CROCUS",
+        "clue": "Early spring flower growing from a corm",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TUBER",
+        "clue": "Swollen storage structure exemplified by a potato stem",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "SHOOT",
+        "clue": "New upward-growing stem and leaves",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Underground organ that absorbs water and anchors a plant",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "IRIS",
+        "clue": "Bearded ___, flowering plant commonly grown from a rhizome",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CORM",
+        "clue": "Solid swollen underground stem, as in a crocus",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LEAF",
+        "clue": "Plant organ whose fleshy base forms part of a true bulb",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BULB",
+        "clue": "Underground storage structure with fleshy leaf bases, as in an onion",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BUD",
+        "clue": "Undeveloped growing point from which a shoot may emerge",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "Bulbs, corms, tubers, and rhizomes are not interchangeable botanical terms. The clues identify their structures and use specific examples, including a true bulb and a solid corm.",
+      "solvingTip": "Use the plant example with the structural definition. Layered, solid, swollen, and horizontal describe different storage forms.",
+      "answerNotes": [
+        {
+          "answer": "DAHLIA",
+          "text": "Dahlia storage structures are tuberous roots. They should not be described as potato-like stem tubers."
+        },
+        {
+          "answer": "TUBER",
+          "text": "A potato is a stem tuber. Other plants, such as dahlias, have tuberous roots rather than the same stem structure."
+        },
+        {
+          "answer": "CORM",
+          "text": "A corm is solid stem tissue. It differs from the layered fleshy leaf bases of a true bulb."
+        }
+      ]
+    }
+  },
+  {
+    "id": "garden-details-5",
+    "title": "A Patch of Garden Berries",
+    "theme": "Gardening",
+    "subtheme": "A Patch of Garden Berries",
+    "series": "garden-details",
+    "description": "Explore berry plants through their growth habits, harvest words, and a few distinctive fruits.",
+    "cardDescription": "Explore berry plants through their growth habits, harvest words, and a few distinctive fruits.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "STRAWBERRY",
+        "clue": "Red garden fruit whose plant commonly spreads by runners",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "RASPBERRY",
+        "clue": "Fruit that usually leaves its central receptacle behind when picked",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BLUEBERRY",
+        "clue": "Small blue fruit growing on a woody shrub",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "BRAMBLE",
+        "clue": "Prickly shrub group including blackberries and raspberries",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CURRANT",
+        "clue": "Small clustered fruit also sold in red or black varieties",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "RUNNER",
+        "clue": "Horizontal strawberry stem that can form new plantlets",
+        "row": 10,
+        "col": 4,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "RIPE",
+        "clue": "Mature and ready to pick, as garden fruit",
+        "row": 3,
+        "col": 4,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CANE",
+        "clue": "Woody stem of a raspberry or blackberry plant",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "NET",
+        "clue": "Open mesh used to cover some fruit plantings",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ROW",
+        "clue": "Straight line of plants in a garden patch",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BUD",
+        "clue": "Small developing shoot on a berry cane",
+        "row": 8,
+        "col": 8,
+        "direction": "across",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "The everyday word berry includes fruits with different botanical structures. These clues use common garden names while distinguishing a strawberry runner from a bramble\u2019s woody cane.",
+      "solvingTip": "A clue about spreading or new growth may name a plant structure. A fruit clue gives a familiar garden name rather than a strict botanical category.",
+      "answerNotes": [
+        {
+          "answer": "RASPBERRY",
+          "text": "A picked raspberry is commonly hollow at the center. A blackberry generally retains the central receptacle within the picked fruit."
+        },
+        {
+          "answer": "BLUEBERRY",
+          "text": "Blueberries grow on shrubs rather than on strawberry-like runners. Common food names do not all reflect the same botanical fruit type."
+        },
+        {
+          "answer": "BRAMBLE",
+          "text": "Bramble is a familiar collective word for these plants. It is not a name for the fruit alone."
+        }
+      ]
+    }
+  },
+  {
+    "id": "clothes-and-fabrics-3",
+    "title": "The Shape of a Shirt",
+    "theme": "Food & Home",
+    "subtheme": "The Shape of a Shirt",
+    "series": "clothes-and-fabrics",
+    "description": "Find the names for a shirt\u2019s edges, panels, and openings through the familiar outline of a garment.",
+    "cardDescription": "Find the names for a shirt\u2019s edges, panels, and openings through the familiar outline of a garment.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PLACKET",
+        "clue": "Finished strip or opening area carrying a shirt's buttons or buttonholes",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "COTTON",
+        "clue": "Plant fiber commonly used to make shirts",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "POCKET",
+        "clue": "Small attached compartment for carrying a pen or other item",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "COLLAR",
+        "clue": "Part of a shirt fitted around the neck opening",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "FRONT",
+        "clue": "Side of a shirt commonly carrying the central button opening",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TAIL",
+        "clue": "Lower hanging part of a shirt that may be tucked in",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CUFF",
+        "clue": "Finished band or edge around the wrist end of a sleeve",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "FOLD",
+        "clue": "To bend cloth over itself along a line",
+        "row": 6,
+        "col": 7,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "BACK",
+        "clue": "Shirt panel opposite the chest side",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "YOKE",
+        "clue": "Shaped garment panel across the shoulders of many shirts",
+        "row": 2,
+        "col": 7,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SEAM",
+        "clue": "Stitched line joining separate pieces of a shirt",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "HEM",
+        "clue": "Folded and secured finish along a shirt's lower edge",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "Some clothing terms describe where a part sits, while others describe its construction. The clues distinguish a shoulder panel, an opening reinforcement, and the finish along an edge.",
+      "solvingTip": "Picture the garment from top to bottom. The location of an opening or seam can help before you know the technical term.",
+      "answerNotes": [
+        {
+          "answer": "PLACKET",
+          "text": "A placket reinforces or finishes an opening. On many shirts it runs down the center front."
+        },
+        {
+          "answer": "COLLAR",
+          "text": "A collar frames the neck. It can have different shapes without changing the basic name."
+        },
+        {
+          "answer": "CUFF",
+          "text": "A cuff is at the sleeve's lower end. It differs from the collar around the neck opening."
+        }
+      ]
+    }
+  },
+  {
+    "id": "weather-and-light-tools-3",
+    "title": "Weather Instruments at a Glance",
+    "theme": "Everyday Science",
+    "subtheme": "Weather Instruments at a Glance",
+    "series": "weather-and-light-tools",
+    "description": "Match common outdoor weather measurements with the instruments designed to observe them.",
+    "cardDescription": "Match common outdoor weather measurements with the instruments designed to observe them.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ANEMOMETER",
+        "clue": "Instrument measuring wind speed",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BAROMETER",
+        "clue": "Instrument measuring atmospheric pressure",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "RAINGAUGE",
+        "clue": "Instrument that collects precipitation to measure its amount",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PRESSURE",
+        "clue": "Force per unit area measured by a barometer",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "WEATHER",
+        "clue": "Atmospheric conditions observed at a place and time",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "MEASURE",
+        "clue": "To determine the amount of a physical quantity",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RAIN",
+        "clue": "Liquid precipitation collected by a gauge",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "INCH",
+        "clue": "Length unit used in many American rainfall reports",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TUBE",
+        "clue": "Narrow cylindrical collector in some precipitation gauges",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "AIR",
+        "clue": "Mixture of gases whose pressure a weather instrument measures",
+        "row": 8,
+        "col": 8,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "CUP",
+        "clue": "Small rotating catcher on a common wind-speed instrument",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "Rainfall amount, wind speed, wind direction, and air pressure are separate measurements. The clues give the function directly, with shorter measurement and component words to support the technical names.",
+      "solvingTip": "Identify the quantity first. Speed and direction need different wind instruments, just as rainfall and air pressure need different devices.",
+      "answerNotes": [
+        {
+          "answer": "ANEMOMETER",
+          "text": "An anemometer measures speed. A wind vane identifies direction, a separate property."
+        },
+        {
+          "answer": "BAROMETER",
+          "text": "A barometer measures air pressure. It does not directly measure rainfall or wind speed."
+        },
+        {
+          "answer": "RAINGAUGE",
+          "text": "Rain gauge is written without a space in the grid. It measures collected precipitation rather than the speed of falling drops."
+        }
+      ]
+    }
+  },
+  {
+    "id": "simple-machines",
+    "title": "Levers and Lifting",
+    "theme": "Everyday Science",
+    "subtheme": "Levers and Lifting",
+    "series": "simple-machines",
+    "description": "Recognize a lever\u2019s parts through a supported bar, a turning point, and the forces used to move a load.",
+    "cardDescription": "Recognize a lever\u2019s parts through a supported bar, a turning point, and the forces used to move a load.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BALANCE",
+        "clue": "To bring opposing turning effects into equilibrium",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "FULCRUM",
+        "clue": "Support or turning point about which a lever rotates",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "EFFORT",
+        "clue": "Applied input force used to operate a simple machine",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "POINT",
+        "clue": "Specific location at which a force is applied",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "LEVER",
+        "clue": "Rigid bar turning about a support to move a load",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SCALE",
+        "clue": "Weighing instrument that may use a balanced beam",
+        "row": 4,
+        "col": 0,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "LOAD",
+        "clue": "Object or resistance moved by a simple machine",
+        "row": 8,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BEAM",
+        "clue": "Long structural member supported in a balance",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LIFT",
+        "clue": "To raise a load to a higher position",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PRY",
+        "clue": "To move something using a levering action",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BAR",
+        "clue": "Long rigid piece used as a simple levering tool",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A lever turns around a support. Its geometry can trade a greater movement distance for a smaller required force, but it does not create energy or eliminate the work of lifting.",
+      "solvingTip": "Look for the part\u2019s role: turning point, applied force, or object being moved. Several ordinary words have precise meanings in this scene.",
+      "answerNotes": [
+        {
+          "answer": "FULCRUM",
+          "text": "The fulcrum is the pivot support. It is different from the load being moved or the effort applied by the user."
+        },
+        {
+          "answer": "EFFORT",
+          "text": "Effort is an input force. A machine may reduce the force needed by increasing the distance over which that force acts."
+        },
+        {
+          "answer": "LEVER",
+          "text": "A lever rotates around a fulcrum. The distances from that support determine how its forces and movements relate."
+        }
+      ]
+    }
+  },
+  {
+    "id": "rail-and-water-travel-3",
+    "title": "A Canal Boat at the Lock",
+    "theme": "Travel",
+    "subtheme": "A Canal Boat at the Lock",
+    "series": "rail-and-water-travel",
+    "description": "Follow a canal boat through a lock chamber using words for water levels, gates, and the narrow towpath beside the canal.",
+    "cardDescription": "Follow a canal boat through a lock chamber using words for water levels, gates, and the narrow towpath beside the canal.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "BOLLARD",
+        "clue": "Stout post around which a boat's mooring line can be secured",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "CHAMBER",
+        "clue": "Enclosed water space between a canal lock's end gates",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BARGE",
+        "clue": "Flat-bottomed cargo vessel associated with canals",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "STERN",
+        "clue": "Rear end of a canal boat",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LEVEL",
+        "clue": "Height of the water surface within a lock",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CANAL",
+        "clue": "Artificial waterway used by these slow-moving boats",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "LOCK",
+        "clue": "Enclosed canal chamber used to raise or lower boats between water levels",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BANK",
+        "clue": "Land bordering the canal's water",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CREW",
+        "clue": "People working together aboard the canal vessel",
+        "row": 4,
+        "col": 9,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "GATE",
+        "clue": "Large movable barrier closing the end of a canal lock",
+        "row": 6,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ROPE",
+        "clue": "Flexible line used to hold a boat alongside",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BOW",
+        "clue": "Forward end of the boat entering a lock",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A lock changes a boat\u2019s elevation by changing the water level inside a chamber. Its gates and water-control openings have different jobs.",
+      "solvingTip": "Separate the enclosed water space from the barrier at either end and from the path on shore.",
+      "answerNotes": [
+        {
+          "answer": "BOLLARD",
+          "text": "A bollard provides a fixed shore fitting, while the line connects the vessel to it."
+        },
+        {
+          "answer": "CHAMBER",
+          "text": "The chamber holds the boat as the surrounding water level changes."
+        },
+        {
+          "answer": "LOCK",
+          "text": "A lock changes the water level around a floating boat, rather than lifting the boat on a solid platform."
+        }
+      ]
+    }
+  },
+  {
+    "id": "rail-and-water-travel-5",
+    "title": "A Paddlewheel Riverboat",
+    "theme": "Travel",
+    "subtheme": "A Paddlewheel Riverboat",
+    "series": "rail-and-water-travel",
+    "description": "Look around a traditional riverboat through the turning paddlewheel, steering equipment, and riverside landing.",
+    "cardDescription": "Look around a traditional riverboat through the turning paddlewheel, steering equipment, and riverside landing.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "STERNWHEEL",
+        "clue": "Paddlewheel mounted at the rear of a vessel",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "RUDDER",
+        "clue": "Movable underwater blade used to steer a riverboat",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "PADDLE",
+        "clue": "Flat blade on a riverboat's propelling wheel",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "PILOT",
+        "clue": "Person guiding a vessel through a waterway",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CABIN",
+        "clue": "Enclosed room aboard a riverboat",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "WHARF",
+        "clue": "Riverside structure where a boat loads or unloads",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "RIVER",
+        "clue": "Flowing inland waterway traveled by this vessel",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "WHEEL",
+        "clue": "Circular steering control in the pilot's station",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "BELL",
+        "clue": "Metal sounding device associated with a traditional boat",
+        "row": 6,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ROPE",
+        "clue": "Line used to secure the boat at a landing",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "HULL",
+        "clue": "Main body of the riverboat below its upper structures",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      }
+    ],
+    "editorial": {
+      "focus": "A paddlewheel pushes against water to propel a boat. A sternwheel is mounted at the rear, while sidewheel arrangements place wheels alongside the hull.",
+      "solvingTip": "Use the position or purpose of a part. The turning propelling device is different from the wheel used for steering.",
+      "answerNotes": [
+        {
+          "answer": "STERNWHEEL",
+          "text": "A sternwheel is at the stern; sidewheel boats place their propelling wheels at the sides."
+        },
+        {
+          "answer": "RUDDER",
+          "text": "A rudder influences direction, whereas a paddlewheel provides propulsion."
+        },
+        {
+          "answer": "PADDLE",
+          "text": "Paddle blades push against water as the wheel rotates; they are not the steering rudder."
+        }
+      ]
+    }
+  },
+  {
+    "id": "working-waterfront-2",
+    "title": "Where the River Meets the Sea",
+    "theme": "Travel",
+    "subtheme": "Where the River Meets the Sea",
+    "series": "working-waterfront",
+    "description": "Explore an estuary through its mixture of waters, sheltered shores, and changing tidal surfaces.",
+    "cardDescription": "Explore an estuary through its mixture of waters, sheltered shores, and changing tidal surfaces.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "BRACKISH",
+        "clue": "Describing water saltier than fresh water but less salty than seawater",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ESTUARY",
+        "clue": "Coastal area where fresh river water mixes with seawater",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MOUTH",
+        "clue": "Place where a river opens into a larger body of water",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "INLET",
+        "clue": "Narrow opening allowing water into a coastal area",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "MARSH",
+        "clue": "Wetland with soft-stemmed vegetation near shallow water",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SILT",
+        "clue": "Fine sediment that may settle where flowing water slows",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SALT",
+        "clue": "Dissolved substance contributing to seawater's salinity",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TIDE",
+        "clue": "Periodic change in coastal water level",
+        "row": 1,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BANK",
+        "clue": "Land bordering a river near its lower reaches",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FLOW",
+        "clue": "Movement of river water toward the coast",
+        "row": 6,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "REED",
+        "clue": "Tall waterside plant growing in some wetland margins",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "An estuary receives both river water and marine influence. Salinity and water levels can vary across it, so the clues describe its processes and landforms rather than one fixed condition.",
+      "solvingTip": "Distinguish a water property from a landform or a moving process.",
+      "answerNotes": [
+        {
+          "answer": "BRACKISH",
+          "text": "Brackish describes intermediate salinity, not one exact salt concentration everywhere."
+        },
+        {
+          "answer": "ESTUARY",
+          "text": "An estuary combines river and marine influences; its salt content can vary with location, tide, and river flow."
+        },
+        {
+          "answer": "SILT",
+          "text": "Silt describes a particle-size category between sand and clay rather than all mud in general."
+        }
+      ]
+    }
+  },
+  {
+    "id": "working-waterfront-5",
+    "title": "Reading a Harbor Chart",
+    "theme": "Travel",
+    "subtheme": "Reading a Harbor Chart",
+    "series": "working-waterfront",
+    "description": "Examine a nautical chart through its depth marks, symbols, and the words for places beside the water.",
+    "cardDescription": "Examine a nautical chart through its depth marks, symbols, and the words for places beside the water.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "SOUNDING",
+        "clue": "Measured water depth marked on a nautical chart",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LEGEND",
+        "clue": "Key explaining symbols used on a nautical chart",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "DEPTH",
+        "clue": "Vertical distance from the water surface to the bottom",
+        "row": 5,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DATUM",
+        "clue": "Reference level or surface used for chart measurements",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "INLET",
+        "clue": "Narrow water opening leading inland from the coast",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SCALE",
+        "clue": "Relationship between chart distance and actual distance",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SHOAL",
+        "clue": "Shallow underwater area represented on a chart",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "COAST",
+        "clue": "Land bordering the sea along the chart's edge",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CHART",
+        "clue": "Navigation drawing showing water depths and coastal features",
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PORT",
+        "clue": "Harbor town or place where vessels load and unload",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "REEF",
+        "clue": "Rock or coral feature lying at or near the sea surface",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "A nautical chart represents navigation-related features and measured water depths. It differs in purpose from a general road map, and its reference information matters when interpreting a measurement.",
+      "solvingTip": "Use the clue\u2019s category: a number, a reference, a land feature, or a water passage.",
+      "answerNotes": [
+        {
+          "answer": "SOUNDING",
+          "text": "A sounding is a depth measurement; the chart's stated units and reference level determine how to interpret its number."
+        },
+        {
+          "answer": "LEGEND",
+          "text": "A legend explains the marks; it is different from the chart's geographical scale."
+        },
+        {
+          "answer": "DATUM",
+          "text": "A datum supplies a reference, not a depth reading by itself."
+        }
+      ]
+    }
+  },
+  {
+    "id": "forest-observations-3",
+    "title": "A Pine Cone on the Path",
+    "theme": "Nature",
+    "subtheme": "A Pine Cone on the Path",
+    "series": "forest-observations",
+    "description": "Study a conifer through its needles, cone scales, and the woody growth around them.",
+    "cardDescription": "Study a conifer through its needles, cone scales, and the woody growth around them.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "CONIFER",
+        "clue": "Tree group that includes pines, spruces, and firs",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "POLLEN",
+        "clue": "Powdery reproductive material released by male pine cones",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SCALE",
+        "clue": "One overlapping segment of a woody pine seed cone",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RESIN",
+        "clue": "Sticky substance produced by many conifers",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "BARK",
+        "clue": "Protective covering on a pine trunk",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "WOOD",
+        "clue": "Hard material forming the trunk beneath its covering",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PINE",
+        "clue": "Conifer whose familiar leaves are long narrow needles",
+        "row": 9,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TWIG",
+        "clue": "Small branch segment bearing needles or cones",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CONE",
+        "clue": "Reproductive structure associated with a pine tree",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WIND",
+        "clue": "Moving air carrying much pine pollen",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TIP",
+        "clue": "Pointed end of a pine needle",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "Pine cones carry reproductive structures rather than forming flowers like a rose. Seed-bearing cones and pollen-producing cones have different roles.",
+      "solvingTip": "Use the clue\u2019s part or process: leaf, seed covering, sticky material, or airborne powder.",
+      "answerNotes": [
+        {
+          "answer": "CONIFER",
+          "text": "Conifers include familiar cone-bearing trees; the group is broader than pines alone."
+        },
+        {
+          "answer": "POLLEN",
+          "text": "Pollen-producing cones have a different role from the larger seed-bearing cones familiar on the ground."
+        },
+        {
+          "answer": "SCALE",
+          "text": "Seed-cone scales protect and carry the seeds; a scale is not the whole cone."
+        }
+      ]
+    }
+  },
+  {
+    "id": "forest-observations-5",
+    "title": "Wildflowers Along a Woodland Path",
+    "theme": "Nature",
+    "subtheme": "Wildflowers Along a Woodland Path",
+    "series": "forest-observations",
+    "description": "Meet woodland flowers through clear names and recognizable plant features.",
+    "cardDescription": "Meet woodland flowers through clear names and recognizable plant features.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "TRILLIUM",
+        "clue": "Woodland flower commonly recognized by three petals and three leaflike bracts",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "BLUEBELL",
+        "clue": "Common flower name suggesting a blue hanging bell",
+        "row": 2,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ANEMONE",
+        "clue": "Wood ___, low-growing spring flower",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "VIOLET",
+        "clue": "Low-growing flower group including purple and white woodland kinds",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PETAL",
+        "clue": "One colored segment of a flower's corolla",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BLOOM",
+        "clue": "Open flower noticed along the woodland path",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "STEM",
+        "clue": "Plant support holding a flower above the ground",
+        "row": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PATH",
+        "clue": "Walking route passing the flowering plants",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Absorbing organ anchoring a woodland plant",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BUD",
+        "clue": "Unopened flower before it expands",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "These clues focus on selected plants rather than treating every flower as a garden annual. Common names can describe shape, color, or the time a flower is noticed.",
+      "solvingTip": "Look for a completed common name or a count of a distinctive flower part.",
+      "answerNotes": [
+        {
+          "answer": "TRILLIUM",
+          "text": "The characteristic groups of three help explain trillium's name; the structures below the flower are botanically bracts."
+        },
+        {
+          "answer": "BLUEBELL",
+          "text": "Bluebell is used for different plants in different regions; the clue concerns the familiar common-name shape."
+        },
+        {
+          "answer": "ANEMONE",
+          "text": "Wood anemone is a familiar common-name combination; anemone alone names a larger plant group."
+        }
+      ]
+    }
+  },
+  {
+    "id": "open-country-wildlife-2",
+    "title": "Desert Neighbors After Dusk",
+    "theme": "Nature",
+    "subtheme": "Desert Neighbors After Dusk",
+    "series": "open-country-wildlife",
+    "description": "Look at familiar desert animals through their nighttime activity and adaptations to dry country.",
+    "cardDescription": "Look at familiar desert animals through their nighttime activity and adaptations to dry country.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "JACKRABBIT",
+        "clue": "Long-eared hare associated with open western country",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "NOCTURNAL",
+        "clue": "Describing an animal mainly active at night",
+        "row": 2,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "JAVELINA",
+        "clue": "Peccary of the American Southwest, resembling a small pig",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CACTUS",
+        "clue": "Spiny succulent plant in many Southwestern habitats",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DUSK",
+        "clue": "Evening transition toward darkness",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SAND",
+        "clue": "Loose mineral grains covering some desert ground",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "ROCK",
+        "clue": "Hard natural material offering shade and shelter",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TAIL",
+        "clue": "Rear extension of a fox or lizard",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "BAT",
+        "clue": "Flying mammal active around many desert evenings",
+        "row": 8,
+        "col": 6,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "PAW",
+        "clue": "Foot of a desert fox",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "OWL",
+        "clue": "Bird of prey often heard after desert sunset",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FOX",
+        "clue": "Kit ___, small desert canine with large ears",
+        "row": 0,
+        "col": 6,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "Night activity can reduce exposure to daytime heat, but desert animals have varied habits. The clues use particular body features and animal names rather than assuming every species behaves alike.",
+      "solvingTip": "Try a distinctive ear, tail, or covering before the longer animal names.",
+      "answerNotes": [
+        {
+          "answer": "JACKRABBIT",
+          "text": "Jackrabbits are hares despite the common name; their large ears also play a role in heat exchange."
+        },
+        {
+          "answer": "NOCTURNAL",
+          "text": "Nocturnal concerns activity timing; it does not mean an animal can never be seen during daylight."
+        },
+        {
+          "answer": "JAVELINA",
+          "text": "A javelina is a peccary, not a member of the domestic pig's family despite its appearance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "open-country-wildlife-3",
+    "title": "In an Everglades Wetland",
+    "theme": "Nature",
+    "subtheme": "In an Everglades Wetland",
+    "series": "open-country-wildlife",
+    "description": "Explore a South Florida wetland through its shallow water, distinctive plants, and birds.",
+    "cardDescription": "Explore a South Florida wetland through its shallow water, distinctive plants, and birds.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "EVERGLADES",
+        "clue": "South Florida wetland region, with no space needed",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MANGROVE",
+        "clue": "Salt-tolerant tree group found along some Florida shores",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SAWGRASS",
+        "clue": "Sharp-edged sedge prominent in Everglades marshes",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CYPRESS",
+        "clue": "Tree associated with swampy southern habitats",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SLOUGH",
+        "clue": "Slow-flowing wetland channel or low water-filled area",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "EGRET",
+        "clue": "Long-legged wading bird often seen feeding in shallow water",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "MARSH",
+        "clue": "Wetland dominated by nonwoody vegetation",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "WATER",
+        "clue": "Liquid moving slowly through the wetland",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "HERON",
+        "clue": "Wading bird with long legs and a pointed bill",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "REED",
+        "clue": "Tall grasslike waterside stem",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FISH",
+        "clue": "Animal prey caught by many wading birds",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      }
+    ],
+    "editorial": {
+      "focus": "The Everglades include more than one habitat. Sawgrass marsh, wooded islands, and tree-lined waterways support different communities rather than forming one uniform landscape.",
+      "solvingTip": "Identify the water feature or plant type before using the animal clues for crossings.",
+      "answerNotes": [
+        {
+          "answer": "EVERGLADES",
+          "text": "The Everglades contain marshes, tree islands, and other habitats rather than one continuous deep-water lake."
+        },
+        {
+          "answer": "SAWGRASS",
+          "text": "Sawgrass is a sedge, despite grass in its common name."
+        },
+        {
+          "answer": "SLOUGH",
+          "text": "Slough is a water-landform word with several regional pronunciations; the clue identifies the wetland meaning."
+        }
+      ]
+    }
+  },
+  {
+    "id": "small-world-nature-5",
+    "title": "A Snail on a Garden Wall",
+    "theme": "Nature",
+    "subtheme": "A Snail on a Garden Wall",
+    "series": "small-world-nature",
+    "description": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
+    "cardDescription": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "TENTACLE",
+        "clue": "Soft feeler extending from a snail's head",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "APERTURE",
+        "clue": "Opening through which a snail extends its soft body",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SNAIL",
+        "clue": "Slow-moving mollusk carrying a coiled shell",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "WHORL",
+        "clue": "One complete turn in a snail shell's coil",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SHELL",
+        "clue": "Hard outer structure carried by a snail",
+        "row": 10,
+        "col": 5,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "TRAIL",
+        "clue": "Line of mucus left behind a moving snail",
+        "row": 6,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "HEAD",
+        "clue": "Front body region bearing a snail's feelers",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "APEX",
+        "clue": "Pointed earliest-formed tip of a coiled snail shell",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "WALL",
+        "clue": "Vertical garden surface on which a snail may crawl",
+        "row": 3,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "FOOT",
+        "clue": "Muscular lower body surface used for crawling",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "COIL",
+        "clue": "Curving shape winding around the shell's center",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A snail\u2019s shell grows with the animal. The clues separate the shell\u2019s opening and tip from the soft body parts used for movement and sensing.",
+      "solvingTip": "Use where the part is located: at the shell opening, at its pointed end, or beneath the animal.",
+      "answerNotes": [
+        {
+          "answer": "TENTACLE",
+          "text": "Tentacles serve sensory roles; they are not jointed insect antennae."
+        },
+        {
+          "answer": "APERTURE",
+          "text": "Aperture means opening here; the same word appears in optical instruments with another context."
+        },
+        {
+          "answer": "SNAIL",
+          "text": "A snail is a mollusk rather than an insect; its broad muscular foot helps it move."
+        }
+      ]
+    }
+  },
+  {
+    "id": "craft-room-techniques",
+    "title": "Knots in a Macrame Hanger",
+    "theme": "Crafts",
+    "subtheme": "Knots in a Macrame Hanger",
+    "series": "craft-room-techniques",
+    "description": "Explore a knotted plant hanger through cords, loops, and the names of familiar fastening shapes.",
+    "cardDescription": "Explore a knotted plant hanger through cords, loops, and the names of familiar fastening shapes.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "LARKSHEAD",
+        "clue": "Knot often used to attach a folded cord to a ring, with spaces omitted",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MACRAME",
+        "clue": "Decorative craft made by knotting cords, with accent omitted",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TASSEL",
+        "clue": "Bunched loose strands forming a hanging ornament",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "FRINGE",
+        "clue": "Loose decorative ends hanging below the knotted section",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "COTTON",
+        "clue": "Plant fiber used in many macrame cords",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "HANGER",
+        "clue": "Knotted support holding a small flowerpot",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "RING",
+        "clue": "Circular support at the top of a plant hanger",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CORD",
+        "clue": "Thick flexible strand used in a knotted wall hanging",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "BEAD",
+        "clue": "Pierced decorative piece threaded onto a hanger cord",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "LOOP",
+        "clue": "Curved opening made by folding a length of cord",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "END",
+        "clue": "Loose tip of a cord used while tying",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "Macrame makes patterns by knotting cords rather than weaving them on a loom. The clues distinguish a knot from the supporting ring and the loose fringe below.",
+      "solvingTip": "Use a material or a visible shape before trying the named knot.",
+      "answerNotes": [
+        {
+          "answer": "LARKSHEAD",
+          "text": "Lark's head is written without punctuation or spaces; it is one mounting knot used in the craft."
+        },
+        {
+          "answer": "MACRAME",
+          "text": "Macram\u00e9 forms patterns with knots; the grid uses the common unaccented spelling."
+        },
+        {
+          "answer": "FRINGE",
+          "text": "Fringe describes the unknotted or loosened ends rather than the whole hanging."
+        }
+      ]
+    }
+  },
+  {
+    "id": "paper-and-lettering-3",
+    "title": "A Linocut Print on the Table",
+    "theme": "Crafts",
+    "subtheme": "A Linocut Print on the Table",
+    "series": "paper-and-lettering",
+    "description": "Explore a relief print through its carved block, roller, and the paper receiving the inked image.",
+    "cardDescription": "Explore a relief print through its carved block, roller, and the paper receiving the inked image.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "LINOCUT",
+        "clue": "Relief print made from a carved linoleum block",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "IMAGE",
+        "clue": "Picture or design transferred from the carved surface",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "PROOF",
+        "clue": "Trial impression used to inspect a developing print",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "GOUGE",
+        "clue": "Curved or angled cutting tool used to remove a channel",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BLOCK",
+        "clue": "Carved plate carrying a relief image",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "PRESS",
+        "clue": "To apply force transferring the image to the sheet",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "ROLL",
+        "clue": "To move the inking tool across the block",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "TRAY",
+        "clue": "Shallow surface used to spread printing ink",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "EDGE",
+        "clue": "Outer boundary of the printing block",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CUT",
+        "clue": "To remove a portion of the linoleum surface",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A linocut prints from the raised surface left after carving. Cut-away areas generally do not receive the same ink, which distinguishes relief printing from an engraved recessed line.",
+      "solvingTip": "Identify what is carved away and what remains high enough to print.",
+      "answerNotes": [
+        {
+          "answer": "LINOCUT",
+          "text": "Linocut uses linoleum rather than a wood block; the raised surface carries the image ink."
+        },
+        {
+          "answer": "PROOF",
+          "text": "A proof lets a maker assess the image before the final edition."
+        },
+        {
+          "answer": "GOUGE",
+          "text": "A gouge cuts recessed areas, leaving other areas raised to carry ink."
+        }
+      ]
+    }
+  },
+  {
+    "id": "old-time-entertainment-2",
+    "title": "An Evening of Vaudeville",
+    "theme": "Classic Pastimes",
+    "subtheme": "An Evening of Vaudeville",
+    "series": "old-time-entertainment",
+    "description": "Explore a traditional variety bill through its short acts, entertainers, and theater spaces.",
+    "cardDescription": "Explore a traditional variety bill through its short acts, entertainers, and theater spaces.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "VAUDEVILLE",
+        "clue": "Theatrical variety entertainment made up of separate short acts",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "CURTAIN",
+        "clue": "Hanging screen separating the stage from the auditorium",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "ACROBAT",
+        "clue": "Performer demonstrating balancing or tumbling skills",
+        "row": 7,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "STAGE",
+        "clue": "Raised area where the entertainers perform",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DANCE",
+        "clue": "Rhythmic movement presented by a performer",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BILL",
+        "clue": "Program listing the acts in a theater show",
+        "row": 2,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "SONG",
+        "clue": "Vocal musical number on a variety bill",
+        "row": 0,
+        "col": 4,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "WING",
+        "clue": "Side area concealed from the theater audience",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SKIT",
+        "clue": "Short comic scene performed as part of a variety program",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BOW",
+        "clue": "Acknowledgment made by a performer after an act",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ACT",
+        "clue": "One separate performance in a variety show",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "Vaudeville combined separate acts in one program. A comic sketch, a musical turn, and a balancing feat could share a bill without forming one continuous story.",
+      "solvingTip": "Separate a performer, an act, and a place beside the stage.",
+      "answerNotes": [
+        {
+          "answer": "VAUDEVILLE",
+          "text": "Vaudeville describes a form of variety programming, not one single dramatic plot."
+        },
+        {
+          "answer": "ACROBAT",
+          "text": "An acrobat's act emphasizes physical skill rather than spoken dialogue alone."
+        },
+        {
+          "answer": "BILL",
+          "text": "Bill has a theatrical meaning here rather than meaning an invoice."
+        }
+      ]
+    }
+  },
+  {
+    "id": "collections-and-keepsakes-2",
+    "title": "Glassware in a Display Cabinet",
+    "theme": "Classic Pastimes",
+    "subtheme": "Glassware in a Display Cabinet",
+    "series": "collections-and-keepsakes",
+    "description": "Look at collectible glass through its surface effects, supporting foot, and familiar vessel shapes.",
+    "cardDescription": "Look at collectible glass through its surface effects, supporting foot, and familiar vessel shapes.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "OPALESCENT",
+        "clue": "Having a milky or shifting opal-like appearance, as some glass does",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PONTIL",
+        "clue": "Glassworker's supporting rod whose attachment can leave a base mark",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "AMBER",
+        "clue": "Yellow-brown color found in many glass objects",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "TRAY",
+        "clue": "Flat support holding small glass pieces in a cabinet",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "VASE",
+        "clue": "Vessel used for displaying cut flowers",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "STEM",
+        "clue": "Narrow support between a glass bowl and foot",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MARK",
+        "clue": "Manufacturer's symbol or other identifying impression",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "PINK",
+        "clue": "Rosy color used in some decorative glassware",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "ETCH",
+        "clue": "To make a surface design by controlled chemical or abrasive removal",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "FOOT",
+        "clue": "Supporting base beneath a stemmed glass vessel",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "RIM",
+        "clue": "Top edge around a glass vessel's opening",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "Glass collectors distinguish material effects from shapes and manufacturing marks. The clues identify those features without claiming a color or pattern proves an object\u2019s age or value.",
+      "solvingTip": "Separate a surface appearance from a vessel part or a production mark.",
+      "answerNotes": [
+        {
+          "answer": "OPALESCENT",
+          "text": "Opalescent describes an optical appearance; it does not by itself date or authenticate a glass object."
+        },
+        {
+          "answer": "PONTIL",
+          "text": "A pontil mark relates to manufacture; not every mark or rough spot proves the same process or age."
+        },
+        {
+          "answer": "ETCH",
+          "text": "Etching changes the surface rather than applying an ordinary painted layer on top."
+        }
+      ]
+    }
+  },
+  {
+    "id": "home-details-5",
+    "title": "Looking at a Handwoven Rug",
+    "theme": "Food & Home",
+    "subtheme": "Looking at a Handwoven Rug",
+    "series": "home-details",
+    "description": "Explore a woven floor covering through its thread directions, raised surface, and finished edges.",
+    "cardDescription": "Explore a woven floor covering through its thread directions, raised surface, and finished edges.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "COTTON",
+        "clue": "Plant fiber used for some rug strands or foundations",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "FRINGE",
+        "clue": "Loose thread ends extending from a rug's boundary",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BORDER",
+        "clue": "Decorative outer band around a rug's design",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PILE",
+        "clue": "Raised surface made of loops or cut fibers on some rugs",
+        "row": 6,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "TUFT",
+        "clue": "Small bunch of fibers projecting from a textile backing",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "WARP",
+        "clue": "Lengthwise strands held under tension during weaving",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "KNOT",
+        "clue": "Tied fastening used to form pile in many rugs",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "WEFT",
+        "clue": "Crosswise strand interlaced through a rug's lengthwise threads",
+        "row": 5,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "WOOL",
+        "clue": "Sheep-derived fiber used in many woven rugs",
+        "row": 5,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "LOOM",
+        "clue": "Frame or machine holding threads for weaving",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "ROW",
+        "clue": "Single line of repeated weaving or knotting",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "Weaving crosses lengthwise and crosswise strands, while some rugs add a raised pile. A flatwoven surface and a pile surface are different structures rather than just different colors.",
+      "solvingTip": "Separate the direction of a strand from the texture or edge formed by the finished work.",
+      "answerNotes": [
+        {
+          "answer": "PILE",
+          "text": "Pile describes the raised textile surface; a flatwoven rug does not have the same upright layer."
+        },
+        {
+          "answer": "WARP",
+          "text": "Warp forms the supported lengthwise set, while weft passes across it."
+        },
+        {
+          "answer": "WEFT",
+          "text": "Weft runs across the warp; the two directions have different names even when the fibers match."
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-kitchen",
+    "title": "Baking a Christmas Stollen",
+    "theme": "Seasons",
+    "subtheme": "Baking a Christmas Stollen",
+    "series": "christmas-kitchen",
+    "description": "Meet a German Christmas bread through its fruit, powdered coating, and familiar baking ingredients.",
+    "cardDescription": "Meet a German Christmas bread through its fruit, powdered coating, and familiar baking ingredients.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "STOLLEN",
+        "clue": "German Christmas fruit bread often dusted with powdered sugar",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ALMOND",
+        "clue": "Nut used to make marzipan paste",
+        "row": 4,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CITRON",
+        "clue": "Thick-rinded citrus used as candied peel in fruit breads",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BUTTER",
+        "clue": "Rich dairy fat in a holiday bread dough",
+        "row": 2,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "Sweet ingredient also used in the white coating",
+        "row": 5,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "YEAST",
+        "clue": "Ingredient helping the enriched bread dough rise",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "KNEAD",
+        "clue": "Press and fold the dough before it rises",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "OVEN",
+        "clue": "Appliance baking the shaped Christmas loaf",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "LOAF",
+        "clue": "Single shaped mass of bread baked as one piece",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "DUST",
+        "clue": "Sprinkle a fine layer of powdered sugar over a loaf",
+        "row": 9,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PEEL",
+        "clue": "Candied citrus rind mixed into fruit bread",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      }
+    ],
+    "editorial": {
+      "focus": "Stollen is a rich fruit bread; a loaf may also contain a marzipan center.",
+      "solvingTip": "The longer bread name crosses familiar ingredient words.",
+      "answerNotes": [
+        {
+          "answer": "STOLLEN",
+          "text": "Stollen is bread rather than a steamed pudding or a layered cake."
+        },
+        {
+          "answer": "CITRON",
+          "text": "Candied citron peel contributes flavor and texture to some stollen recipes."
+        },
+        {
+          "answer": "LOAF",
+          "text": "Loaf describes the bread's form, not a specific recipe."
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-kitchen-2",
+    "title": "Sharing an Italian Panettone",
+    "theme": "Seasons",
+    "subtheme": "Sharing an Italian Panettone",
+    "series": "christmas-kitchen",
+    "description": "Unwrap a tall Italian Christmas bread and discover the fruit, paper case, and serving words around it.",
+    "cardDescription": "Unwrap a tall Italian Christmas bread and discover the fruit, paper case, and serving words around it.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "PANETTONE",
+        "clue": "Tall Italian Christmas bread with a domed top",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "RIBBON",
+        "clue": "Decorative strip around a wrapped gift loaf",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RAISIN",
+        "clue": "Dried fruit commonly found inside panettone",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CITRUS",
+        "clue": "Fruit family supplying candied peel for this bread",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "PAPER",
+        "clue": "Material of the loaf's ridged baking case",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SLICE",
+        "clue": "Portion cut from the tall Christmas loaf",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "MILAN",
+        "clue": "Italian city traditionally associated with panettone",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "PLATE",
+        "clue": "Dish holding a guest's slice of panettone",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "CRUMB",
+        "clue": "Soft interior of the baked loaf",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "GIFT",
+        "clue": "Present a wrapped holiday loaf can become",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DOME",
+        "clue": "Rounded raised top of a panettone",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "Panettone has a tall domed form; its light bread texture distinguishes it from a dense fruitcake.",
+      "solvingTip": "Use familiar serving words to cross the long Italian bread name.",
+      "answerNotes": [
+        {
+          "answer": "PANETTONE",
+          "text": "Traditional panettone often contains raisins and candied citrus peel."
+        },
+        {
+          "answer": "SLICE",
+          "text": "A slice is one serving cut through the finished loaf."
+        },
+        {
+          "answer": "MILAN",
+          "text": "Milan is a place association, not an ingredient in the bread."
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-kitchen-4",
+    "title": "A Bowl of Warm Wassail",
+    "theme": "Seasons",
+    "subtheme": "A Bowl of Warm Wassail",
+    "series": "christmas-kitchen",
+    "description": "Explore a traditional festive drink through its apple base, warming spices, and serving bowl.",
+    "cardDescription": "Explore a traditional festive drink through its apple base, warming spices, and serving bowl.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CINNAMON",
+        "clue": "Fragrant bark spice sometimes floated in a warm drink",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "WASSAIL",
+        "clue": "Traditional festive drink often made today with spiced cider",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SIMMER",
+        "clue": "Heat the spiced drink gently without a rolling boil",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "ORANGE",
+        "clue": "Citrus fruit sliced into a festive cider drink",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "NUTMEG",
+        "clue": "Spice grated from a seed over some holiday drinks",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TOAST",
+        "clue": "Spoken good wish offered before people drink",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "CIDER",
+        "clue": "Apple drink used as the base for many modern wassail bowls",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "STEAM",
+        "clue": "Visible mist rising above a hot festive bowl",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LADLE",
+        "clue": "Long-handled dipper for serving from the wassail bowl",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CLOVE",
+        "clue": "Dried aromatic flower bud used as a warming spice",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SPICE",
+        "clue": "Aromatic seasoning added to a festive drink",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "Modern wassail recipes vary; many use warm spiced cider rather than a single fixed historical formula.",
+      "solvingTip": "The spice clues describe parts of plants you may recognize.",
+      "answerNotes": [
+        {
+          "answer": "CINNAMON",
+          "text": "Cinnamon sticks are rolled pieces of dried bark."
+        },
+        {
+          "answer": "WASSAIL",
+          "text": "Wassail has varied recipes and a history linked to seasonal toasting."
+        },
+        {
+          "answer": "CIDER",
+          "text": "In the United States, cider often means an unfiltered apple drink."
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-kitchen-5",
+    "title": "An Evening Yule Log Cake",
+    "theme": "Seasons",
+    "subtheme": "An Evening Yule Log Cake",
+    "series": "christmas-kitchen",
+    "description": "Look at a rolled Christmas cake through its spiral, bark-like icing, and decorative woodland details.",
+    "cardDescription": "Look at a rolled Christmas cake through its spiral, bark-like icing, and decorative woodland details.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PLATTER",
+        "clue": "Long serving dish beneath the finished edible log",
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "YULELOG",
+        "clue": "Christmas cake decorated to resemble a piece of wood, two words",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "GANACHE",
+        "clue": "Mixture of chocolate and cream used as a rich coating",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SPONGE",
+        "clue": "Light cake baked in a flat layer before rolling",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "SPIRAL",
+        "clue": "Curling pattern visible in a slice of rolled cake",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "SUGAR",
+        "clue": "White ingredient dusted over the cake like snow",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SLICE",
+        "clue": "Individual portion cut across the cake's spiral",
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "COCOA",
+        "clue": "Chocolate-flavored powder used in some log cakes",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BARK",
+        "clue": "Tree covering imitated by marks in the frosting",
+        "row": 0,
+        "col": 10,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FORK",
+        "clue": "Utensil drawn through icing to suggest wood grain",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "ROLL",
+        "clue": "Curl the flat cake around its filling",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "The edible log is a rolled cake; its bark is usually suggested by textured frosting.",
+      "solvingTip": "Separate cake structure from the woodland shapes used as decoration.",
+      "answerNotes": [
+        {
+          "answer": "YULELOG",
+          "text": "An edible Yule log is commonly a rolled sponge cake with filling."
+        },
+        {
+          "answer": "GANACHE",
+          "text": "Ganache can provide the dark outer coating that resembles bark."
+        },
+        {
+          "answer": "SPONGE",
+          "text": "A flexible sponge layer makes the spiral shape possible."
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-around-the-room-4",
+    "title": "A Christmas Tree Skirt Below the Branches",
+    "theme": "Seasons",
+    "subtheme": "A Christmas Tree Skirt Below the Branches",
+    "series": "christmas-around-the-room",
+    "description": "Look beneath the decorated tree for fabric, edging, and the opening that fits around its stand.",
+    "cardDescription": "Look beneath the decorated tree for fabric, edging, and the opening that fits around its stand.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "TREESKIRT",
+        "clue": "Decorative fabric laid around a Christmas tree's base, two words",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "APPLIQUE",
+        "clue": "Fabric shape attached on top of another fabric",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SCALLOP",
+        "clue": "One rounded curve in a decorative fabric edge",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "STAND",
+        "clue": "Support holding the tree upright above the cloth",
+        "row": 4,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SLIT",
+        "clue": "Narrow opening allowing the skirt to fit around the tree",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "FELT",
+        "clue": "Nonwoven fabric often used for simple holiday decorations",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SEAM",
+        "clue": "Line joining two pieces of the decorative fabric",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TRIM",
+        "clue": "Decorative edging around the holiday cloth",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TIE",
+        "clue": "Fastener joining the two sides of the skirt's opening",
+        "row": 8,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "RED",
+        "clue": "Traditional holiday color chosen for some skirts",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "HEM",
+        "clue": "Folded and finished edge of a fabric skirt",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      }
+    ],
+    "editorial": {
+      "focus": "A tree skirt is a decorative fabric covering around the base; it is not part of the tree itself.",
+      "solvingTip": "Clues point to sewing details and the skirt's position on the floor.",
+      "answerNotes": [
+        {
+          "answer": "TREESKIRT",
+          "text": "A tree skirt covers the area around the stand while leaving the trunk accessible."
+        },
+        {
+          "answer": "APPLIQUE",
+          "text": "Applique adds a surface design, unlike cutting a hole through the cloth."
+        },
+        {
+          "answer": "SCALLOP",
+          "text": "A row of rounded scallops creates a repeating border."
+        }
+      ]
+    }
+  },
+  {
+    "id": "winter-weather-scenes-3",
+    "title": "Shorter Days and Low Winter Sun",
+    "theme": "Everyday Science",
+    "subtheme": "Shorter Days and Low Winter Sun",
+    "series": "winter-weather-scenes",
+    "description": "Follow daylight, shadows, and the seasons through the ordinary words used to describe the winter Sun.",
+    "cardDescription": "Follow daylight, shadows, and the seasons through the ordinary words used to describe the winter Sun.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "SOLSTICE",
+        "clue": "Seasonal point associated with the shortest Northern Hemisphere day",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "DAYLIGHT",
+        "clue": "Natural light present between sunrise and sunset",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "HORIZON",
+        "clue": "Apparent boundary where the sky meets the land or water",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "WINTER",
+        "clue": "Season with shorter daylight in much of the northern United States",
+        "row": 1,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SHADOW",
+        "clue": "Dark shape made where an object blocks direct sunlight",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "EAST",
+        "clue": "General direction of sunrise",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "DAWN",
+        "clue": "Early light appearing before sunrise",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "WEST",
+        "clue": "General direction of sunset",
+        "row": 9,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TILT",
+        "clue": "Slant of Earth's axis responsible for the seasons",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "NOON",
+        "clue": "Middle part of the day associated with the Sun's highest position",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SUN",
+        "clue": "Star supplying daylight to Earth",
+        "row": 5,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "Earth's axial tilt changes seasonal daylight; winter is not caused simply by Earth being farther from the Sun.",
+      "solvingTip": "Distinguish a time of day from the light or shadow seen then.",
+      "answerNotes": [
+        {
+          "answer": "SOLSTICE",
+          "text": "The December solstice marks the shortest daylight period in the Northern Hemisphere."
+        },
+        {
+          "answer": "DAYLIGHT",
+          "text": "Daylight duration varies with both season and latitude."
+        },
+        {
+          "answer": "HORIZON",
+          "text": "Sunrise and sunset are observed near the horizon."
+        }
+      ]
+    }
+  },
+  {
+    "id": "winter-weather-scenes-5",
+    "title": "Snowplows on the Neighborhood Street",
+    "theme": "Everyday Science",
+    "subtheme": "Snowplows on the Neighborhood Street",
+    "series": "winter-weather-scenes",
+    "description": "Recognize the blade, salt spreader, and tracks left as a winter road crew clears fallen snow.",
+    "cardDescription": "Recognize the blade, salt spreader, and tracks left as a winter road crew clears fallen snow.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "SPREADER",
+        "clue": "Equipment distributing salt or grit across a road",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "SNOWPLOW",
+        "clue": "Vehicle or attachment used to push snow off a road",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "WINDROW",
+        "clue": "Long ridge of snow left by a plow's pass",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "ROUTE",
+        "clue": "Planned sequence of streets assigned to a plow crew",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "TRUCK",
+        "clue": "Motor vehicle carrying the clearing equipment",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "LANE",
+        "clue": "Strip of roadway made clearer by the plow",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "SALT",
+        "clue": "Material used to lower water's freezing point on a road",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "GRIT",
+        "clue": "Small rough particles spread to improve traction",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "PASS",
+        "clue": "One trip of the plow along a stretch of road",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "TIRE",
+        "clue": "Rubber wheel covering leaving tracks on the street",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "PILE",
+        "clue": "Heap of snow pushed into one place",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A plow moves snow aside; a spreader distributes material on the road surface.",
+      "solvingTip": "Separate the vehicle's attachments from the piles they leave.",
+      "answerNotes": [
+        {
+          "answer": "SPREADER",
+          "text": "A spreader distributes material behind or beneath the vehicle."
+        },
+        {
+          "answer": "SNOWPLOW",
+          "text": "A snowplow clears by moving snow, rather than melting it with heat."
+        },
+        {
+          "answer": "WINDROW",
+          "text": "Windrow can also describe rows of cut hay in another setting."
+        }
+      ]
+    }
+  },
+  {
+    "id": "country-voice-memories-4",
+    "title": "Willie Nelson and a Road Song",
+    "theme": "Music",
+    "subtheme": "Willie Nelson and a Road Song",
+    "series": "country-voice-memories",
+    "description": "Bring together Willie Nelson's name, his well-known guitar, and familiar words from his recording titles.",
+    "cardDescription": "Bring together Willie Nelson's name, his well-known guitar, and familiar words from his recording titles.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "TRIGGER",
+        "clue": "Name Willie Nelson gave his familiar acoustic guitar",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "NELSON",
+        "clue": "Willie's surname on the cover of Stardust",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "WILLIE",
+        "clue": "First name of country singer Nelson",
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "NYLON",
+        "clue": "Material used for the strings on Nelson's guitar Trigger",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "AGAIN",
+        "clue": "Final word of the title On the Road ___",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "BRAID",
+        "clue": "Interwoven hairstyle associated with Nelson's familiar stage appearance",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "MIND",
+        "clue": "Word completing the Nelson recording Always on My ___",
+        "row": 7,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ROAD",
+        "clue": "Word after On the in a well-known Willie Nelson title",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SONG",
+        "clue": "Musical work for which Nelson might write words and melody",
+        "row": 7,
+        "col": 7,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "TOUR",
+        "clue": "Series of performance stops made by a traveling musician",
+        "row": 7,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "BUS",
+        "clue": "Large road vehicle used by many touring performers",
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "One instrument has a personal name; the remaining clues mix title words and everyday performance vocabulary.",
+      "solvingTip": "A travel word can provide crossing letters for the guitar's name.",
+      "answerNotes": [
+        {
+          "answer": "TRIGGER",
+          "text": "Trigger is the guitar's name, rather than a playing technique."
+        },
+        {
+          "answer": "NELSON",
+          "text": "Stardust is a Nelson album built around popular standards."
+        },
+        {
+          "answer": "WILLIE",
+          "text": "Willie Nelson is known as both a singer and a songwriter."
+        }
+      ]
+    }
+  },
+  {
+    "id": "classic-voice-memories-2",
+    "title": "Nat King Cole at the Piano",
+    "theme": "Music",
+    "subtheme": "Nat King Cole at the Piano",
+    "series": "classic-voice-memories",
+    "description": "Recall Nat King Cole as both singer and pianist through his name, recordings, and a small jazz group.",
+    "cardDescription": "Recall Nat King Cole as both singer and pianist through his name, recordings, and a small jazz group.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "CAPITOL",
+        "clue": "Record-company name on many Nat King Cole albums",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "BALLAD",
+        "clue": "Often slow and expressive type of song",
+        "row": 4,
+        "col": 2,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "VELVET",
+        "clue": "Soft fabric used as a comparison for a smooth singing voice",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "VOICE",
+        "clue": "Sound of Cole singing rather than playing the piano",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PIANO",
+        "clue": "Keyboard instrument Cole played as well as singing",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SMILE",
+        "clue": "One-word song title recorded by Cole, also a happy facial expression",
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "MONA",
+        "clue": "Woman's first name before Lisa in a Nat King Cole title",
+        "row": 7,
+        "col": 4,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "JAZZ",
+        "clue": "Musical setting of Cole's early trio recordings",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "KING",
+        "clue": "Royal title between Nat and Cole in a singer's name",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "LISA",
+        "clue": "Name following Mona in a Nat King Cole title",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "COLE",
+        "clue": "Surname of singer and pianist Nat King ___",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "NAT",
+        "clue": "Short first name of singer Cole, before King",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      }
+    ],
+    "editorial": {
+      "focus": "Cole's career included instrumental trio work as well as the vocal recordings many listeners recognize.",
+      "solvingTip": "Start with the short words making up his stage name.",
+      "answerNotes": [
+        {
+          "answer": "PIANO",
+          "text": "Cole's piano playing was an important part of his early jazz work."
+        },
+        {
+          "answer": "KING",
+          "text": "King is part of the professional name rather than a royal title here."
+        },
+        {
+          "answer": "COLE",
+          "text": "Cole was a pianist as well as a well-known vocalist."
+        }
+      ]
+    }
+  },
+  {
+    "id": "classic-voice-memories-3",
+    "title": "Frank Sinatra and an Orchestra",
+    "theme": "Music",
+    "subtheme": "Frank Sinatra and an Orchestra",
+    "series": "classic-voice-memories",
+    "description": "Picture Frank Sinatra at a microphone with title words, his surname, and the musicians behind him.",
+    "cardDescription": "Picture Frank Sinatra at a microphone with title words, his surname, and the musicians behind him.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ARRANGER",
+        "clue": "Musician adapting a song for an orchestra or ensemble",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CROONER",
+        "clue": "Singer associated with a smooth, intimate popular style",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "HOBOKEN",
+        "clue": "New Jersey city where Frank Sinatra was born",
+        "row": 9,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SINATRA",
+        "clue": "Surname of the singer associated with My Way",
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "STRINGS",
+        "clue": "Orchestral section containing violins and cellos",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "PHRASE",
+        "clue": "Short musical passage the singer shapes as a unit",
+        "row": 2,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SWING",
+        "clue": "Rhythmic style associated with many Sinatra arrangements",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "MOON",
+        "clue": "Sky object completing the song title Fly Me to the ___",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BAND",
+        "clue": "Group of musicians playing behind the vocalist",
+        "row": 4,
+        "col": 3,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WAY",
+        "clue": "Word completing the Sinatra recording My ___",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "MIC",
+        "clue": "Informal name for the singer's microphone",
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "An arranger adapts a song for the performing forces; the vocalist then shapes the words and melody.",
+      "solvingTip": "Use the familiar short title words to cross the names.",
+      "answerNotes": [
+        {
+          "answer": "ARRANGER",
+          "text": "An arrangement sets out how the parts work together in a performance."
+        },
+        {
+          "answer": "CROONER",
+          "text": "Microphones helped make quieter, intimate vocal delivery practical."
+        },
+        {
+          "answer": "HOBOKEN",
+          "text": "Hoboken is across the Hudson River from New York City."
+        }
+      ]
+    }
+  },
+  {
+    "id": "classic-voice-memories-4",
+    "title": "Louis Armstrong and His Trumpet",
+    "theme": "Music",
+    "subtheme": "Louis Armstrong and His Trumpet",
+    "series": "classic-voice-memories",
+    "description": "Meet Louis Armstrong through his trumpet, distinctive voice, and familiar words from his recording titles.",
+    "cardDescription": "Meet Louis Armstrong through his trumpet, distinctive voice, and familiar words from his recording titles.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "ARMSTRONG",
+        "clue": "Surname of the trumpeter nicknamed Satchmo",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "WONDERFUL",
+        "clue": "Adjective completing What a ___ World in an Armstrong recording",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SATCHMO",
+        "clue": "Familiar nickname of Louis Armstrong",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BRASS",
+        "clue": "Instrument family to which the trumpet belongs",
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "LOUIS",
+        "clue": "First name of jazz trumpeter Armstrong",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "VALVE",
+        "clue": "Pressed trumpet part changing the length of the air path",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "WORLD",
+        "clue": "Final word of the Armstrong recording What a Wonderful ___",
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "VOICE",
+        "clue": "Sound of Armstrong singing instead of playing",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "BELL",
+        "clue": "Flared opening at the end of the trumpet",
+        "row": 7,
+        "col": 8,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "SOLO",
+        "clue": "Passage featuring Armstrong apart from the ensemble",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "SCAT",
+        "clue": "Wordless jazz singing using improvised syllables",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "Armstrong was both an influential jazz trumpeter and a singer; the clues separate those two roles.",
+      "solvingTip": "Instrument parts can help cross the performer's surname.",
+      "answerNotes": [
+        {
+          "answer": "ARMSTRONG",
+          "text": "Armstrong's career extended from New Orleans jazz to internationally popular recordings."
+        },
+        {
+          "answer": "WONDERFUL",
+          "text": "The song title is identified without quoting its lyrics."
+        },
+        {
+          "answer": "SATCHMO",
+          "text": "Satchmo is a nickname, not the name of his instrument."
+        }
+      ]
+    }
+  },
+  {
+    "id": "classic-voice-memories-5",
+    "title": "Doris Day and a Familiar Refrain",
+    "theme": "Music",
+    "subtheme": "Doris Day and a Familiar Refrain",
+    "series": "classic-voice-memories",
+    "description": "Recall Doris Day through her name, screen-musical associations, and short words from familiar song titles.",
+    "cardDescription": "Recall Doris Day through her name, screen-musical associations, and short words from familiar song titles.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "SENTIMENTAL",
+        "clue": "Nostalgic-sounding adjective before Journey in a Doris Day title",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ACTRESS",
+        "clue": "Day's role when portraying a character on screen",
+        "row": 3,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "JOURNEY",
+        "clue": "Travel word completing the title Sentimental ___",
+        "row": 0,
+        "col": 6,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SECRET",
+        "clue": "Word before Love in a Doris Day song title",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SINGER",
+        "clue": "Role Day performed while recording a melody",
+        "row": 3,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RECORD",
+        "clue": "Disc carrying a Doris Day performance",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DORIS",
+        "clue": "First name of singer and actress Day",
+        "row": 8,
+        "col": 4,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LOVE",
+        "clue": "Word completing the Day recording Secret ___",
+        "row": 7,
+        "col": 5,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "SERA",
+        "clue": "Repeated word after Que in a familiar Doris Day recording",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "FILM",
+        "clue": "Motion picture featuring an actress and a soundtrack",
+        "row": 3,
+        "col": 10,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "QUE",
+        "clue": "Three-letter word before Sera, Sera in a Doris Day title",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "Day worked in both recorded music and films; the clues do not require remembering a film's release year.",
+      "solvingTip": "Try the ordinary two- and three-word title components first.",
+      "answerNotes": [
+        {
+          "answer": "SENTIMENTAL",
+          "text": "Sentimental Journey was recorded by Day with Les Brown's band."
+        },
+        {
+          "answer": "JOURNEY",
+          "text": "The title combines a feeling word and a travel word."
+        },
+        {
+          "answer": "DORIS",
+          "text": "Doris Day had a singing career as well as a film career."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vocal-group-memories-2",
+    "title": "The Beach Boys and a Surf Sound",
+    "theme": "Music",
+    "subtheme": "The Beach Boys and a Surf Sound",
+    "series": "vocal-group-memories",
+    "description": "Recognize the Beach Boys through their name, family connections, and familiar beach-themed title words.",
+    "cardDescription": "Recognize the Beach Boys through their name, family connections, and familiar beach-themed title words.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "VIBRATIONS",
+        "clue": "Shaking motions named after Good in a Beach Boys title",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "BEACHBOYS",
+        "clue": "American group associated with Good Vibrations, two words",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "HARMONY",
+        "clue": "Different vocal pitches sounding together",
+        "row": 4,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "WILSON",
+        "clue": "Surname of brothers Brian, Carl, and Dennis in the Beach Boys",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SURFIN",
+        "clue": "Shortened surfing word before USA in a Beach Boys title",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BRIAN",
+        "clue": "First name of Beach Boys songwriter Wilson",
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "LOVE",
+        "clue": "Mike's surname in the Beach Boys",
+        "row": 3,
+        "col": 0,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SURF",
+        "clue": "Breaking waves associated with the band's early image",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "MIKE",
+        "clue": "First name of Beach Boys singer Love",
+        "row": 2,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "CARL",
+        "clue": "Wilson brother who sang lead on God Only Knows",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "USA",
+        "clue": "Country abbreviation completing the Beach Boys title Surfin' ___",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "The group combined vocal harmonies with a California-associated pop sound; not every song was about surfing.",
+      "solvingTip": "Use the beach objects and everyday title words first.",
+      "answerNotes": [
+        {
+          "answer": "BEACHBOYS",
+          "text": "The Beach Boys are known for layered vocal harmonies as well as surf-related songs."
+        },
+        {
+          "answer": "HARMONY",
+          "text": "Harmony differs from everyone singing exactly the same melody in unison."
+        },
+        {
+          "answer": "WILSON",
+          "text": "The Wilson brothers were part of the group's early lineup."
+        }
+      ]
+    }
+  },
+  {
+    "id": "vocal-group-memories-4",
+    "title": "The Temptations and a Vocal Lineup",
+    "theme": "Music",
+    "subtheme": "The Temptations and a Vocal Lineup",
+    "series": "vocal-group-memories",
+    "description": "Recall the Temptations through a famous title, Motown connections, and the roles within a singing group.",
+    "cardDescription": "Recall the Temptations through a famous title, Motown connections, and the roles within a singing group.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "TEMPTATIONS",
+        "clue": "Motown vocal group known for My Girl",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "FALSETTO",
+        "clue": "High vocal register often heard in soul singing",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "QUINTET",
+        "clue": "Group of five performers",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "TENOR",
+        "clue": "Male voice range above bass in many vocal groups",
+        "row": 2,
+        "col": 8,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PAPA",
+        "clue": "Informal father word beginning a Temptations title ending Was a Rollin' Stone",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "STEP",
+        "clue": "One movement in a coordinated stage routine",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "NINE",
+        "clue": "Number completing the title Cloud ___",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "SOUL",
+        "clue": "Broad musical tradition associated with the Temptations",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "LEAD",
+        "clue": "Main sung part supported by the other voices",
+        "row": 8,
+        "col": 1,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "GIRL",
+        "clue": "Word completing the Temptations title My ___",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "MIC",
+        "clue": "Short name for a device amplifying a singer",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "A group can combine a lead line with backing harmonies and coordinated movement.",
+      "solvingTip": "Begin with the short title words, then identify the voice types.",
+      "answerNotes": [
+        {
+          "answer": "TEMPTATIONS",
+          "text": "The Temptations' membership changed over the years while the group name continued."
+        },
+        {
+          "answer": "FALSETTO",
+          "text": "Falsetto is a vocal register, not simply any high note."
+        },
+        {
+          "answer": "QUINTET",
+          "text": "The word identifies a number of performers rather than a particular musical style."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-music-cities",
+    "title": "Country Music in Nashville",
+    "theme": "Music",
+    "subtheme": "Country Music in Nashville",
+    "series": "american-music-cities",
+    "description": "Visit Nashville through country-radio institutions, Tennessee geography, and the words of a working music scene.",
+    "cardDescription": "Visit Nashville through country-radio institutions, Tennessee geography, and the words of a working music scene.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 9,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "CUMBERLAND",
+        "clue": "River flowing through Nashville",
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "TENNESSEE",
+        "clue": "State whose capital is Nashville",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "NASHVILLE",
+        "clue": "Tennessee city nicknamed Music City",
+        "row": 6,
+        "col": 2,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "SESSION",
+        "clue": "Scheduled period of recording work",
+        "row": 1,
+        "col": 3,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "WRITER",
+        "clue": "Person creating a song's words or music",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "MUSIC",
+        "clue": "Word before City in Nashville's nickname",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "RYMAN",
+        "clue": "Historic Nashville auditorium associated with the Grand Ole Opry",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "RADIO",
+        "clue": "Broadcast medium central to Nashville's music history",
+        "row": 3,
+        "col": 7,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "DEMO",
+        "clue": "Sample recording used to present a song",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "ROW",
+        "clue": "Word after Music in the name of Nashville's recording district",
+        "row": 6,
+        "col": 0,
+        "direction": "down",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "The city clues combine place names with familiar performance and recording words.",
+      "solvingTip": "Use the state and river names before the music-business terms.",
+      "answerNotes": [
+        {
+          "answer": "CUMBERLAND",
+          "text": "The Cumberland is the river through the city, not the state's namesake river."
+        },
+        {
+          "answer": "TENNESSEE",
+          "text": "Nashville serves as the state capital as well as a music center."
+        },
+        {
+          "answer": "NASHVILLE",
+          "text": "Nashville is an important center for country recording and songwriting."
+        }
+      ]
+    }
+  },
+  {
+    "id": "american-music-cities-4",
+    "title": "Detroit and the Motown Sound",
+    "theme": "Music",
+    "subtheme": "Detroit and the Motown Sound",
+    "series": "american-music-cities",
+    "description": "Look at Detroit's recording legacy through Motown, Hitsville, and the people working on a soul record.",
+    "cardDescription": "Look at Detroit's recording legacy through Motown, Hitsville, and the people working on a soul record.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "HITSVILLE",
+        "clue": "Nickname on Motown's early Detroit studio building",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BACKBEAT",
+        "clue": "Rhythmic emphasis often placed on beats two and four",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "DETROIT",
+        "clue": "Michigan city where Motown was founded",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SINGER",
+        "clue": "Performer delivering the record's vocal melody",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "STUDIO",
+        "clue": "Recording room inside the early Motown building",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "MOTOWN",
+        "clue": "Record company founded by Berry Gordy",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "LABEL",
+        "clue": "Company name printed at the center of a record",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "GORDY",
+        "clue": "Berry who founded Motown",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BASS",
+        "clue": "Low musical part anchoring a rhythm section",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "HIT",
+        "clue": "Successful record celebrated in the studio nickname",
+        "row": 7,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "The recording company, its studio nickname, and the city are related but are different answers.",
+      "solvingTip": "Use location clues to distinguish names from studio roles.",
+      "answerNotes": [
+        {
+          "answer": "HITSVILLE",
+          "text": "Hitsville U.S.A. is associated with Motown's original Detroit headquarters."
+        },
+        {
+          "answer": "DETROIT",
+          "text": "Detroit's auto-industry association helped inspire the Motown name."
+        },
+        {
+          "answer": "MOTOWN",
+          "text": "The company later moved its headquarters, but its origins are in Detroit."
+        }
+      ]
+    }
+  },
+  {
+    "id": "keyboard-sounds",
+    "title": "Inside a Pipe Organ",
+    "theme": "Music",
+    "subtheme": "Inside a Pipe Organ",
+    "series": "keyboard-sounds",
+    "description": "Explore organ pipes, keyboards, and airflow through directly defined parts of a large musical instrument.",
+    "cardDescription": "Explore organ pipes, keyboards, and airflow through directly defined parts of a large musical instrument.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "PEDALBOARD",
+        "clue": "Foot-operated keyboard beneath an organ console",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "CONSOLE",
+        "clue": "Playing station containing an organ's keyboards and controls",
+        "row": 4,
+        "col": 6,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "BELLOWS",
+        "clue": "Device supplying or regulating air for an organ",
+        "row": 7,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "MANUAL",
+        "clue": "Keyboard played by the hands on an organ",
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "CHORD",
+        "clue": "Several notes sounded together on the organ",
+        "row": 1,
+        "col": 9,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BENCH",
+        "clue": "Seat occupied by the organist",
+        "row": 1,
+        "col": 6,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "ORGAN",
+        "clue": "Keyboard instrument that can sound ranks of air-driven pipes",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "RANK",
+        "clue": "Set of organ pipes sharing a tonal character",
+        "row": 2,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "PIPE",
+        "clue": "Sounding tube in an acoustic organ",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "STOP",
+        "clue": "Control selecting a set or type of organ pipes",
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "AIR",
+        "clue": "Moving gas that makes an organ pipe sound",
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "KEY",
+        "clue": "Lever pressed by an organist's finger",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "An organ's keys control air reaching pipes; it does not make sound by striking piano strings.",
+      "solvingTip": "The shortest airflow words help cross the longer instrument parts.",
+      "answerNotes": [
+        {
+          "answer": "PEDALBOARD",
+          "text": "The organist's feet can play a separate musical part."
+        },
+        {
+          "answer": "BELLOWS",
+          "text": "Traditional organs used bellows; modern installations commonly include electric blowers."
+        },
+        {
+          "answer": "MANUAL",
+          "text": "Manual distinguishes a hand keyboard from the pedalboard."
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-patterns-3",
+    "title": "Major, Minor, and Musical Steps",
+    "theme": "Music",
+    "subtheme": "Major, Minor, and Musical Steps",
+    "series": "music-patterns",
+    "description": "Explore simple scale words through intervals, starting notes, and familiar keyboard directions.",
+    "cardDescription": "Explore simple scale words through intervals, starting notes, and familiar keyboard directions.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 10,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "INTERVAL",
+        "clue": "Distance in pitch between two musical notes",
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "SEMITONE",
+        "clue": "Smallest step between neighboring piano keys in standard tuning",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ASCEND",
+        "clue": "Move toward higher musical pitches",
+        "row": 4,
+        "col": 7,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "OCTAVE",
+        "clue": "Interval between one C and the next C above it",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "MINOR",
+        "clue": "Scale type whose common forms include a lowered third",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "TONIC",
+        "clue": "Starting and home note of a musical key",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SCALE",
+        "clue": "Ordered sequence of musical pitches moving up or down",
+        "row": 6,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MAJOR",
+        "clue": "Scale type with a characteristic whole-step and half-step pattern",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "ROOT",
+        "clue": "Foundational note used to name a chord",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "STEP",
+        "clue": "Small movement from one scale note to the next",
+        "row": 4,
+        "col": 10,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "KEY",
+        "clue": "Group of pitch relationships centered on a tonic",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "Major and minor describe scale structures; their emotional effect is not identical in every piece.",
+      "solvingTip": "Short direction and distance words help cross the scale terms.",
+      "answerNotes": [
+        {
+          "answer": "SEMITONE",
+          "text": "A semitone may connect two white keys or a white and black key."
+        },
+        {
+          "answer": "OCTAVE",
+          "text": "Notes an octave apart share a letter name but differ in pitch."
+        },
+        {
+          "answer": "MINOR",
+          "text": "Minor has several forms, so not every minor scale uses the same notes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-patterns-4",
+    "title": "Loud, Soft, and Shaping a Phrase",
+    "theme": "Music",
+    "subtheme": "Loud, Soft, and Shaping a Phrase",
+    "series": "music-patterns",
+    "description": "Identify basic expression marks that guide a musician's loudness and the way notes connect.",
+    "cardDescription": "Identify basic expression marks that guide a musician's loudness and the way notes connect.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "CRESCENDO",
+        "clue": "Gradual increase in musical loudness",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "DYNAMICS",
+        "clue": "Musical term for changes and levels of loudness",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PHRASE",
+        "clue": "Short musical idea shaped as a unit",
+        "row": 10,
+        "col": 2,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "LEGATO",
+        "clue": "Direction to play notes smoothly connected",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "FORTE",
+        "clue": "Italian musical direction meaning loud",
+        "row": 1,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "SWELL",
+        "clue": "Increase and sometimes ease back in musical loudness",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "PIANO",
+        "clue": "Italian musical direction meaning soft",
+        "row": 8,
+        "col": 5,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "SOFT",
+        "clue": "Quiet in volume, as a gentle passage is",
+        "row": 2,
+        "col": 1,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TONE",
+        "clue": "Quality of sound shaped by the performer",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SLUR",
+        "clue": "Curved notation mark joining notes into a smooth group",
+        "row": 5,
+        "col": 3,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "LOUD",
+        "clue": "Strong in volume, as a forceful passage is",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      }
+    ],
+    "editorial": {
+      "focus": "Dynamics concern loudness, while articulation describes how notes begin, end, or join.",
+      "solvingTip": "The familiar loudness words can help with the Italian directions.",
+      "answerNotes": [
+        {
+          "answer": "CRESCENDO",
+          "text": "A crescendo changes loudness over a passage rather than instantly."
+        },
+        {
+          "answer": "DYNAMICS",
+          "text": "Dynamics differ from tempo, which concerns speed."
+        },
+        {
+          "answer": "LEGATO",
+          "text": "Legato concerns connection rather than a fixed volume."
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-patterns-5",
+    "title": "Finding Your Place in Sheet Music",
+    "theme": "Music",
+    "subtheme": "Finding Your Place in Sheet Music",
+    "series": "music-patterns",
+    "description": "Navigate the measure numbers, repeat marks, and ending directions of a simple printed score.",
+    "cardDescription": "Navigate the measure numbers, repeat marks, and ending directions of a simple printed score.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 9,
+    "entries": [
+      {
+        "answer": "MEASURE",
+        "clue": "Group of beats between neighboring bar lines",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BARLINE",
+        "clue": "Vertical mark separating measures, two words",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "REPEAT",
+        "clue": "Direction to play a marked passage again",
+        "row": 9,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "NUMBER",
+        "clue": "Printed identifier helping locate a particular measure",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SCORE",
+        "clue": "Written music showing one or more parts",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "START",
+        "clue": "Place where a musical passage begins",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "SIGN",
+        "clue": "Printed symbol guiding a jump or return in the score",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "CAPO",
+        "clue": "Word after da in the direction to return to the beginning",
+        "row": 7,
+        "col": 1,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "CODA",
+        "clue": "Concluding section reached by a marked musical direction",
+        "row": 7,
+        "col": 1,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "FINE",
+        "clue": "Italian word marking the end in some musical directions",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "DAL",
+        "clue": "Three-letter word before segno in the direction to return to a sign",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      }
+    ],
+    "editorial": {
+      "focus": "A repeat sign sends a player back to a marked point; an ending bracket shows which passage to take on a repeat.",
+      "solvingTip": "Start with the page-navigation words you recognize.",
+      "answerNotes": [
+        {
+          "answer": "MEASURE",
+          "text": "A measure organizes beats according to the time signature."
+        },
+        {
+          "answer": "BARLINE",
+          "text": "Bar lines divide measures and do not by themselves indicate a pause."
+        },
+        {
+          "answer": "REPEAT",
+          "text": "A repeat applies to a defined passage rather than necessarily the entire piece."
+        }
+      ]
+    }
+  },
+  {
+    "id": "voices-in-company",
+    "title": "A Barbershop Quartet",
+    "theme": "Music",
+    "subtheme": "A Barbershop Quartet",
+    "series": "voices-in-company",
+    "description": "Hear four-part harmony through the voice roles and ringing chords of a barbershop singing group.",
+    "cardDescription": "Hear four-part harmony through the voice roles and ringing chords of a barbershop singing group.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "BARBERSHOP",
+        "clue": "Unaccompanied close-harmony style associated with quartets",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "BARITONE",
+        "clue": "Voice role fitting harmony between and around the other parts",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "QUARTET",
+        "clue": "Group of four singers in this harmony scene",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BREATH",
+        "clue": "Air supply supporting a singer's held note",
+        "row": 10,
+        "col": 3,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "BLEND",
+        "clue": "Combine voices into a balanced group sound",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "PITCH",
+        "clue": "How high or low each harmony note sounds",
+        "row": 5,
+        "col": 9,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TENOR",
+        "clue": "High harmony role in a typical barbershop quartet",
+        "row": 8,
+        "col": 2,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "BASS",
+        "clue": "Low supporting voice in a barbershop quartet",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "FOUR",
+        "clue": "Number of singers in a quartet",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "TUNE",
+        "clue": "Bring the quartet's notes into accurate pitch relationships",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "LEAD",
+        "clue": "Part commonly carrying a barbershop song's melody",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 2
+      }
+    ],
+    "editorial": {
+      "focus": "In barbershop, the lead commonly carries the melody; tenor, baritone, and bass surround it with harmony.",
+      "solvingTip": "The group-size clue helps before the different voice-role names.",
+      "answerNotes": [
+        {
+          "answer": "BARBERSHOP",
+          "text": "Barbershop also has larger choruses; a quartet is one familiar format."
+        },
+        {
+          "answer": "BARITONE",
+          "text": "Barbershop baritone lines need not remain between lead and bass on every note."
+        },
+        {
+          "answer": "QUARTET",
+          "text": "Quartet counts performers rather than specifying their genders."
+        }
+      ]
+    }
+  },
+  {
+    "id": "voices-in-company-3",
+    "title": "Voices on an Opera Stage",
+    "theme": "Music",
+    "subtheme": "Voices on an Opera Stage",
+    "series": "voices-in-company",
+    "description": "Meet opera through sung dialogue, solos, voice ranges, and the pit where accompanying musicians sit.",
+    "cardDescription": "Meet opera through sung dialogue, solos, voice ranges, and the pit where accompanying musicians sit.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "OVERTURE",
+        "clue": "Instrumental opening preceding many operas",
+        "row": 5,
+        "col": 1,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "LIBRETTO",
+        "clue": "Written text of an opera",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SOPRANO",
+        "clue": "High singing voice type often featured in opera",
+        "row": 4,
+        "col": 1,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "COSTUME",
+        "clue": "Clothing helping portray an opera character",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 12
+      },
+      {
+        "answer": "STAGE",
+        "clue": "Area where the opera's characters perform",
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "OPERA",
+        "clue": "Staged drama in which music and singing carry the story",
+        "row": 7,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "TENOR",
+        "clue": "High adult male voice category in many operas",
+        "row": 1,
+        "col": 7,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "BASS",
+        "clue": "Low male voice type in an opera cast",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "ARIA",
+        "clue": "Featured solo vocal piece within an opera",
+        "row": 7,
+        "col": 9,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "DUET",
+        "clue": "Passage sung by two featured performers",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SET",
+        "clue": "Scenery representing the opera's location",
+        "row": 8,
+        "col": 3,
+        "direction": "down",
+        "number": 10
+      },
+      {
+        "answer": "PIT",
+        "clue": "Lowered area where the opera orchestra often sits",
+        "row": 9,
+        "col": 8,
+        "direction": "across",
+        "number": 11
+      }
+    ],
+    "editorial": {
+      "focus": "Opera tells a story through staged music; its voice types and solo forms have distinct names.",
+      "solvingTip": "Begin with theater places and then use crossings for the singing terms.",
+      "answerNotes": [
+        {
+          "answer": "LIBRETTO",
+          "text": "The libretto contains the words, while the score contains the musical notation."
+        },
+        {
+          "answer": "SOPRANO",
+          "text": "Soprano is a voice category rather than one dramatic character."
+        },
+        {
+          "answer": "OPERA",
+          "text": "Operas can use different balances of sung and spoken material."
+        }
+      ]
+    }
+  },
+  {
+    "id": "voices-in-company-5",
+    "title": "Singing Without Instruments",
+    "theme": "Music",
+    "subtheme": "Singing Without Instruments",
+    "series": "voices-in-company",
+    "description": "Explore an a cappella group through voice-only accompaniment, blending, and a musical starting note.",
+    "cardDescription": "Explore an a cappella group through voice-only accompaniment, blending, and a musical starting note.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "PITCHPIPE",
+        "clue": "Small device sounding a reference note for singers, two words",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "ACAPPELLA",
+        "clue": "Singing without instrumental accompaniment, two words",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "BREATH",
+        "clue": "Air used to support a sustained vocal phrase",
+        "row": 7,
+        "col": 3,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "MOUTH",
+        "clue": "Body opening shaping the sung vowels",
+        "row": 2,
+        "col": 2,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "CHORD",
+        "clue": "Several sung pitches sounding together",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "VOCAL",
+        "clue": "Produced by the human voice rather than an instrument",
+        "row": 9,
+        "col": 1,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TUNE",
+        "clue": "Melody carried by a featured voice",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "SOLO",
+        "clue": "Passage featuring one singer within the group",
+        "row": 0,
+        "col": 7,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "BASS",
+        "clue": "Low voice supplying a supporting musical line",
+        "row": 0,
+        "col": 5,
+        "direction": "across",
+        "number": 1
+      },
+      {
+        "answer": "EAR",
+        "clue": "Body part used to monitor the group's pitch",
+        "row": 10,
+        "col": 7,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "HUM",
+        "clue": "Sing with closed lips instead of clearly spoken words",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      }
+    ],
+    "editorial": {
+      "focus": "A cappella means without instrumental accompaniment; voices may still supply bass or rhythmic sounds.",
+      "solvingTip": "Look for human voice roles rather than instruments in this word bank.",
+      "answerNotes": [
+        {
+          "answer": "PITCHPIPE",
+          "text": "A pitch pipe can give a starting note without accompanying the entire performance."
+        },
+        {
+          "answer": "ACAPPELLA",
+          "text": "A cappella can involve one singer or many, depending on the arrangement."
+        },
+        {
+          "answer": "VOCAL",
+          "text": "Vocal parts can include melody, harmony, bass, or rhythmic effects."
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-behind-the-scenes-3",
+    "title": "A Record Producer at Work",
+    "theme": "Music",
+    "subtheme": "A Record Producer at Work",
+    "series": "music-behind-the-scenes",
+    "description": "Explore a recording session through takes, arrangements, and the decisions that shape a finished release.",
+    "cardDescription": "Explore a recording session through takes, arrangements, and the decisions that shape a finished release.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "ARRANGEMENT",
+        "clue": "Plan for how a song's voices and instruments fit together",
+        "row": 5,
+        "col": 0,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "PLAYBACK",
+        "clue": "Listening to material that has just been recorded",
+        "row": 3,
+        "col": 3,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "PRODUCER",
+        "clue": "Person guiding the overall creation of a recording",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "OVERDUB",
+        "clue": "New recorded part added alongside existing recorded material",
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "ARTIST",
+        "clue": "Performer whose name appears on the release",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "TRACK",
+        "clue": "Separate recorded part within a studio project",
+        "row": 5,
+        "col": 10,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "TAKE",
+        "clue": "One recorded attempt at a performance",
+        "row": 0,
+        "col": 9,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "PLAN",
+        "clue": "Decide the order of work before the musicians begin",
+        "row": 1,
+        "col": 7,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "EDIT",
+        "clue": "Select or change portions of recorded material",
+        "row": 5,
+        "col": 8,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "SONG",
+        "clue": "Musical work being prepared for the record",
+        "row": 2,
+        "col": 5,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "MIX",
+        "clue": "Balance the recorded parts into a combined version",
+        "row": 7,
+        "col": 6,
+        "direction": "down",
+        "number": 9
+      }
+    ],
+    "editorial": {
+      "focus": "The producer helps guide the overall recording; engineers handle technical tasks, with responsibilities sometimes overlapping.",
+      "solvingTip": "Use the workflow verbs before the studio-job titles.",
+      "answerNotes": [
+        {
+          "answer": "ARRANGEMENT",
+          "text": "An arrangement shapes the performance before or during recording."
+        },
+        {
+          "answer": "PRODUCER",
+          "text": "A producer's exact role depends on the project and its working team."
+        },
+        {
+          "answer": "OVERDUB",
+          "text": "Overdubbing allows parts to be recorded at different times."
+        }
+      ]
+    }
   }
 ]

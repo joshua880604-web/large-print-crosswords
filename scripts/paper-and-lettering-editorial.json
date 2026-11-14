@@ -155,80 +155,81 @@
   },
   {
     "id": "paper-and-lettering-3",
-    "title": "A Linocut Print on the Table",
-    "description": "Explore a relief print through its carved block, roller, and the paper receiving the inked image.",
-    "cardDescription": "Explore a relief print through its carved block, roller, and the paper receiving the inked image.",
-    "subtheme": "A Linocut Print on the Table",
-    "focus": "A linocut prints from the raised surface left after carving. Cut-away areas generally do not receive the same ink, which distinguishes relief printing from an engraved recessed line.",
-    "solvingTip": "Identify what is carved away and what remains high enough to print.",
+    "title": "A Rubber Stamp and Ink Pad",
+    "description": "Print a small paper message with a familiar rubber stamp, ink pad, and pressing action.",
+    "cardDescription": "Print a small paper message with a familiar rubber stamp, ink pad, and pressing action.",
+    "subtheme": "A Rubber Stamp and Ink Pad",
+    "focus": "The raised design picks up ink and transfers it to the paper when pressed.",
+    "solvingTip": "Short writing and color words help with the printing tools.",
     "words": [
       [
-        "LINOCUT",
-        "Relief print made from a carved linoleum block"
+        "STAMP",
+        "Small printing tool pressed onto an ink pad and paper"
       ],
       [
-        "BRAYER",
-        "Small hand roller spreading ink over a printing block"
-      ],
-      [
-        "GOUGE",
-        "Curved or angled cutting tool used to remove a channel"
-      ],
-      [
-        "RELIEF",
-        "Printing method in which raised areas transfer the image"
-      ],
-      [
-        "PROOF",
-        "Trial impression used to inspect a developing print"
+        "PAD",
+        "Ink-soaked cushion used with a rubber stamp"
       ],
       [
         "INK",
-        "Colored material rolled onto the raised block surface"
+        "Colored fluid transferred by the small printing tool"
       ],
       [
-        "BLOCK",
-        "Carved plate carrying a relief image"
-      ],
-      [
-        "PAPER",
-        "Sheet receiving the printed impression"
-      ],
-      [
-        "CUT",
-        "To remove a portion of the linoleum surface"
-      ],
-      [
-        "ROLL",
-        "To move the inking tool across the block"
+        "PRINT",
+        "Make a copy of a design by pressing ink onto paper"
       ],
       [
         "PRESS",
-        "To apply force transferring the image to the sheet"
+        "Push the rubber design firmly against the paper"
       ],
       [
-        "IMAGE",
-        "Picture or design transferred from the carved surface"
+        "PAPER",
+        "Thin sheet receiving the rubber-stamp design"
       ],
       [
-        "EDGE",
-        "Outer boundary of the printing block"
+        "CARD",
+        "Small stiff sheet printed with the stamp"
       ],
       [
-        "TRAY",
-        "Shallow surface used to spread printing ink"
+        "NAME",
+        "Word identifying the person on a personal stamp"
+      ],
+      [
+        "DATE",
+        "Calendar information printed by some office stamps"
+      ],
+      [
+        "DESK",
+        "Work surface holding the ink pad"
+      ],
+      [
+        "BLACK",
+        "Dark color of common office-stamp ink"
+      ],
+      [
+        "LETTER",
+        "One alphabet character in the printed design"
+      ],
+      [
+        "WORD",
+        "Group of printed letters carrying a meaning"
+      ],
+      [
+        "DRY",
+        "No longer wet, as the fresh stamped ink becomes"
       ]
     ],
     "answerNotes": {
-      "LINOCUT": "Linocut uses linoleum rather than a wood block; the raised surface carries the image ink.",
-      "BRAYER": "A brayer distributes ink; it is different from the tool removing material from the block.",
-      "GOUGE": "A gouge cuts recessed areas, leaving other areas raised to carry ink.",
-      "RELIEF": "Relief prints from the upper surface rather than from ink-filled recessed grooves.",
-      "PROOF": "A proof lets a maker assess the image before the final edition."
+      "STAMP": "Stamp names the printing tool here rather than a postage label.",
+      "PAD": "The pad supplies ink to the raised design.",
+      "INK": "The ink forms the image after the tool is pressed onto paper.",
+      "PRINT": "Printing transfers a design rather than drawing each copy by hand.",
+      "PRESS": "Pressure brings the inked surface into contact with the sheet."
     },
     "requiredAnswers": [
-      "LINOCUT"
-    ]
+      "STAMP"
+    ],
+    "revision": 2
   },
   {
     "id": "paper-and-lettering-4",

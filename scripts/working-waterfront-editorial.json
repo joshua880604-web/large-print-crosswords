@@ -78,80 +78,81 @@
   },
   {
     "id": "working-waterfront-2",
-    "title": "Where the River Meets the Sea",
-    "description": "Explore an estuary through its mixture of waters, sheltered shores, and changing tidal surfaces.",
-    "cardDescription": "Explore an estuary through its mixture of waters, sheltered shores, and changing tidal surfaces.",
-    "subtheme": "Where the River Meets the Sea",
-    "focus": "An estuary receives both river water and marine influence. Salinity and water levels can vary across it, so the clues describe its processes and landforms rather than one fixed condition.",
-    "solvingTip": "Distinguish a water property from a landform or a moving process.",
+    "title": "A River Flowing Toward the Sea",
+    "description": "Follow a river to the coast through fresh and salty water, banks, birds, and waves.",
+    "cardDescription": "Follow a river to the coast through fresh and salty water, banks, birds, and waves.",
+    "subtheme": "A River Flowing Toward the Sea",
+    "focus": "River water can mix with seawater near the coast. The clues use ordinary water and shore words.",
+    "solvingTip": "Start with a short water or direction-of-flow word.",
     "words": [
       [
-        "ESTUARY",
-        "Coastal area where fresh river water mixes with seawater"
-      ],
-      [
-        "BRACKISH",
-        "Describing water saltier than fresh water but less salty than seawater"
-      ],
-      [
-        "MUDFLAT",
-        "Broad muddy surface exposed when tidal water recedes"
-      ],
-      [
-        "SILT",
-        "Fine sediment that may settle where flowing water slows"
-      ],
-      [
-        "SALT",
-        "Dissolved substance contributing to seawater's salinity"
-      ],
-      [
-        "TIDE",
-        "Periodic change in coastal water level"
-      ],
-      [
-        "INLET",
-        "Narrow opening allowing water into a coastal area"
-      ],
-      [
-        "MARSH",
-        "Wetland with soft-stemmed vegetation near shallow water"
-      ],
-      [
-        "CHANNEL",
-        "Deeper passage through an estuary used by flowing water or boats"
-      ],
-      [
-        "SHORE",
-        "Land along the edge of the estuary"
-      ],
-      [
-        "REED",
-        "Tall waterside plant growing in some wetland margins"
-      ],
-      [
-        "FLOW",
-        "Movement of river water toward the coast"
+        "RIVER",
+        "Flowing waterway reaching the sea in this scene"
       ],
       [
         "MOUTH",
-        "Place where a river opens into a larger body of water"
+        "Place where the river opens into a larger body of water"
+      ],
+      [
+        "FRESH",
+        "Describing river water that is not salty"
+      ],
+      [
+        "SALT",
+        "Substance making seawater taste salty"
+      ],
+      [
+        "TIDE",
+        "Regular change in the coastal water level"
+      ],
+      [
+        "SEA",
+        "Large body of salt water beyond the river's end"
       ],
       [
         "BANK",
-        "Land bordering a river near its lower reaches"
+        "Land along the side of the river"
+      ],
+      [
+        "WAVE",
+        "Moving ridge of water near the coast"
+      ],
+      [
+        "REED",
+        "Tall plant growing along some waterside edges"
+      ],
+      [
+        "BIRD",
+        "Feathered visitor near the riverbank"
+      ],
+      [
+        "BOAT",
+        "Small vessel traveling toward the coast"
+      ],
+      [
+        "SAND",
+        "Loose grains collected along a shore"
+      ],
+      [
+        "FLOW",
+        "Move along a channel, as river water does"
+      ],
+      [
+        "WATER",
+        "Liquid making up the river and sea"
       ]
     ],
     "answerNotes": {
-      "ESTUARY": "An estuary combines river and marine influences; its salt content can vary with location, tide, and river flow.",
-      "BRACKISH": "Brackish describes intermediate salinity, not one exact salt concentration everywhere.",
-      "MUDFLAT": "A mudflat is periodically covered and uncovered; it is not necessarily permanently dry ground.",
-      "SILT": "Silt describes a particle-size category between sand and clay rather than all mud in general.",
-      "SALT": "Salt content helps distinguish freshwater and marine influence within an estuary."
+      "RIVER": "A river carries water through a channel toward a larger water body.",
+      "MOUTH": "Mouth is a geographic use of a familiar body-part word.",
+      "FRESH": "Fresh refers to low salt content here, rather than how recently water arrived.",
+      "SALT": "Seawater contains dissolved salts rather than being plain fresh water.",
+      "TIDE": "Tides can affect water near a river's coastal end."
     },
     "requiredAnswers": [
-      "ESTUARY"
-    ]
+      "RIVER"
+    ],
+    "revision": 2
   },
   {
     "id": "working-waterfront-3",
@@ -310,79 +311,80 @@
   },
   {
     "id": "working-waterfront-5",
-    "title": "Reading a Harbor Chart",
-    "description": "Examine a nautical chart through its depth marks, symbols, and the words for places beside the water.",
-    "cardDescription": "Examine a nautical chart through its depth marks, symbols, and the words for places beside the water.",
-    "subtheme": "Reading a Harbor Chart",
-    "focus": "A nautical chart represents navigation-related features and measured water depths. It differs in purpose from a general road map, and its reference information matters when interpreting a measurement.",
-    "solvingTip": "Use the clue\u2019s category: a number, a reference, a land feature, or a water passage.",
+    "title": "A Map Beside the Harbor",
+    "description": "Read a simple harbor map through its colors, directions, boats, and marked route.",
+    "cardDescription": "Read a simple harbor map through its colors, directions, boats, and marked route.",
+    "subtheme": "A Map Beside the Harbor",
+    "focus": "A key explains map symbols, while a scale helps relate map distances to real ones.",
+    "solvingTip": "Begin with a color or direction before the map-reading terms.",
     "words": [
       [
-        "CHART",
-        "Navigation drawing showing water depths and coastal features"
+        "MAP",
+        "Drawing showing the harbor and nearby land"
       ],
       [
-        "SOUNDING",
-        "Measured water depth marked on a nautical chart"
-      ],
-      [
-        "DATUM",
-        "Reference level or surface used for chart measurements"
-      ],
-      [
-        "LEGEND",
-        "Key explaining symbols used on a nautical chart"
-      ],
-      [
-        "BEARING",
-        "Direction to a point expressed relative to a reference"
-      ],
-      [
-        "DEPTH",
-        "Vertical distance from the water surface to the bottom"
-      ],
-      [
-        "REEF",
-        "Rock or coral feature lying at or near the sea surface"
-      ],
-      [
-        "SHOAL",
-        "Shallow underwater area represented on a chart"
-      ],
-      [
-        "INLET",
-        "Narrow water opening leading inland from the coast"
-      ],
-      [
-        "ISLAND",
-        "Land surrounded by water on a chart"
+        "KEY",
+        "List explaining the symbols on a map"
       ],
       [
         "SCALE",
-        "Relationship between chart distance and actual distance"
-      ],
-      [
-        "COAST",
-        "Land bordering the sea along the chart's edge"
+        "Map guide relating drawn distance to real distance"
       ],
       [
         "PORT",
-        "Harbor town or place where vessels load and unload"
+        "Place where ships can load and unload"
       ],
       [
-        "ROSE",
-        "Compass ___, directional diagram printed on many charts"
+        "COAST",
+        "Land beside the sea on the map"
+      ],
+      [
+        "BAY",
+        "Blue water area reaching into the land on a map"
+      ],
+      [
+        "BOAT",
+        "Small watercraft represented near the harbor"
+      ],
+      [
+        "LAND",
+        "Solid ground shown beside the mapped water"
+      ],
+      [
+        "WATER",
+        "Area often colored blue on a map"
+      ],
+      [
+        "BLUE",
+        "Color commonly used for the sea on a map"
+      ],
+      [
+        "LINE",
+        "Mark showing the planned route"
+      ],
+      [
+        "NORTH",
+        "Map direction often placed at the top"
+      ],
+      [
+        "SOUTH",
+        "Direction opposite north on the map"
+      ],
+      [
+        "ROUTE",
+        "Planned way from one harbor stop to another"
       ]
     ],
     "answerNotes": {
-      "CHART": "A nautical chart includes information useful on the water; it serves a different purpose from an ordinary road map.",
-      "SOUNDING": "A sounding is a depth measurement; the chart's stated units and reference level determine how to interpret its number.",
-      "DATUM": "A datum supplies a reference, not a depth reading by itself.",
-      "LEGEND": "A legend explains the marks; it is different from the chart's geographical scale.",
-      "BEARING": "A bearing describes direction, while range describes distance in many navigation contexts."
+      "MAP": "A map represents places rather than being a view from a boat's window.",
+      "KEY": "A map key is a guide to symbols, not a metal door-opening tool.",
+      "SCALE": "Scale gives a distance relationship rather than a weighing reading here.",
+      "PORT": "A port can include a harbor and its shore facilities.",
+      "COAST": "The coast marks where land meets coastal water."
     },
     "requiredAnswers": [
-      "CHART"
-    ]
+      "MAP"
+    ],
+    "revision": 2
   }
 ]

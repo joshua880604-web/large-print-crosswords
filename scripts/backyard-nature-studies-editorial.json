@@ -160,81 +160,81 @@
   },
   {
     "id": "backyard-nature-studies-3",
-    "title": "Caterpillars and Cocoons",
-    "description": "Follow the names used for the stages of butterflies and moths, including the difference between a pupa and its covering.",
-    "cardDescription": "Follow the names used for the stages of butterflies and moths, including the difference between a pupa and its covering.",
-    "subtheme": "Caterpillars and Cocoons",
-    "focus": "A life stage and an enclosing structure are different things. The clues make that distinction explicit while connecting familiar flying insects with their younger forms.",
-    "solvingTip": "Read whether a definition asks for a stage, a covering, or a body part. Those categories help separate similar insect words.",
+    "title": "A Caterpillar on a Garden Leaf",
+    "description": "Watch a caterpillar crawl, eat, and grow among familiar leaves and stems.",
+    "cardDescription": "Watch a caterpillar crawl, eat, and grow among familiar leaves and stems.",
+    "subtheme": "A Caterpillar on a Garden Leaf",
+    "focus": "The clues focus on the animal and its garden surroundings rather than technical life-stage names.",
+    "solvingTip": "Try a short action or plant-part word first.",
     "words": [
       [
-        "LARVA",
-        "Immature feeding stage represented by a caterpillar"
+        "CATERPILLAR",
+        "Long soft young insect often seen eating leaves"
       ],
       [
-        "PUPA",
-        "Insect life stage between larva and adult in complete metamorphosis"
+        "CRAWL",
+        "Move slowly along a leaf or branch"
       ],
       [
-        "CHRYSALIS",
-        "Name commonly given to a butterfly's pupa"
-      ],
-      [
-        "COCOON",
-        "Protective silk covering spun by many moth caterpillars"
-      ],
-      [
-        "SILK",
-        "Fine fiber a caterpillar may spin into a protective case"
-      ],
-      [
-        "EGG",
-        "Life stage from which a caterpillar hatches"
-      ],
-      [
-        "ANTENNA",
-        "One of an adult moth's paired head feelers"
-      ],
-      [
-        "INSECT",
-        "Six-legged animal group containing moths and butterflies"
-      ],
-      [
-        "WING",
-        "Adult butterfly body part bearing tiny colored scales"
-      ],
-      [
-        "MOTH",
-        "Flying insect whose caterpillar may spin a silk case"
-      ],
-      [
-        "FEED",
-        "To eat leaves, as a growing caterpillar does"
+        "EAT",
+        "Take in food, as a caterpillar does with leaves"
       ],
       [
         "GROW",
-        "To increase in size during a caterpillar's feeding stage"
+        "Become larger as the caterpillar feeds"
       ],
       [
-        "STAGE",
-        "One distinct period in an insect's life cycle"
+        "LEAF",
+        "Green plant part serving as food for many caterpillars"
       ],
       [
-        "BUTTERFLY",
-        "Adult insect whose pupa is commonly called a chrysalis"
+        "STEM",
+        "Plant stalk beneath the feeding caterpillar"
+      ],
+      [
+        "SMALL",
+        "Not large, as a newly hatched caterpillar is"
+      ],
+      [
+        "SOFT",
+        "Not rigid, as much of the caterpillar's body is"
+      ],
+      [
+        "GREEN",
+        "Color of many garden leaves"
+      ],
+      [
+        "PLANT",
+        "Living garden growth supporting the animal"
+      ],
+      [
+        "GARDEN",
+        "Planted outdoor area where the caterpillar may be seen"
+      ],
+      [
+        "BRANCH",
+        "Woody arm on which the animal may crawl"
+      ],
+      [
+        "TWIG",
+        "Small thin branch near the feeding leaves"
+      ],
+      [
+        "LIFE",
+        "Living existence that begins when the insect develops"
       ]
     ],
     "answerNotes": {
-      "LARVA": "Larva is the stage name. Caterpillar is the familiar term for the larva of a butterfly or moth.",
-      "PUPA": "A pupa is the developing insect, not a silk case around it. Changes to the adult form occur during this stage.",
-      "CHRYSALIS": "A chrysalis is a butterfly pupa. It should not be confused with a cocoon, which is an outer silk covering.",
-      "COCOON": "A cocoon encloses a pupa. Many moths make one, but a cocoon is not part of every moth's life cycle.",
-      "SILK": "Silk is the fiber used for a cocoon. The insect inside is called a pupa."
+      "CATERPILLAR": "A caterpillar is the young feeding stage of a butterfly or moth.",
+      "CRAWL": "Crawling describes movement along a surface rather than flying.",
+      "EAT": "Feeding supplies material for the growing animal.",
+      "GROW": "Growth changes the animal's size over time.",
+      "LEAF": "Different kinds of caterpillars feed on different plants."
     },
     "requiredAnswers": [
-      "CHRYSALIS",
-      "COCOON"
-    ]
+      "CATERPILLAR"
+    ],
+    "revision": 2
   },
   {
     "id": "backyard-nature-studies-4",

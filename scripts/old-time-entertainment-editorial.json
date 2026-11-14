@@ -78,80 +78,81 @@
   },
   {
     "id": "old-time-entertainment-2",
-    "title": "An Evening of Vaudeville",
-    "description": "Explore a traditional variety bill through its short acts, entertainers, and theater spaces.",
-    "cardDescription": "Explore a traditional variety bill through its short acts, entertainers, and theater spaces.",
-    "subtheme": "An Evening of Vaudeville",
-    "focus": "Vaudeville combined separate acts in one program. A comic sketch, a musical turn, and a balancing feat could share a bill without forming one continuous story.",
-    "solvingTip": "Separate a performer, an act, and a place beside the stage.",
+    "title": "A Small-Town Variety Show",
+    "description": "Enjoy a community stage through songs, dances, jokes, and the audience's applause.",
+    "cardDescription": "Enjoy a community stage through songs, dances, jokes, and the audience's applause.",
+    "subtheme": "A Small-Town Variety Show",
+    "focus": "A variety show brings together several short acts. These clues describe familiar entertainment and theater objects.",
+    "solvingTip": "Try a short performance or audience-action word.",
     "words": [
       [
-        "VAUDEVILLE",
-        "Theatrical variety entertainment made up of separate short acts"
-      ],
-      [
-        "ACROBAT",
-        "Performer demonstrating balancing or tumbling skills"
-      ],
-      [
-        "JUGGLER",
-        "Entertainer keeping several objects in controlled moving patterns"
+        "SHOW",
+        "Entertainment presented to an audience at the community hall"
       ],
       [
         "SKIT",
-        "Short comic scene performed as part of a variety program"
-      ],
-      [
-        "BILL",
-        "Program listing the acts in a theater show"
+        "Short comic scene in the evening's program"
       ],
       [
         "ACT",
-        "One separate performance in a variety show"
-      ],
-      [
-        "STAGE",
-        "Raised area where the entertainers perform"
-      ],
-      [
-        "WING",
-        "Side area concealed from the theater audience"
-      ],
-      [
-        "SONG",
-        "Vocal musical number on a variety bill"
-      ],
-      [
-        "DANCE",
-        "Rhythmic movement presented by a performer"
-      ],
-      [
-        "COMIC",
-        "Entertainer whose act aims to make an audience laugh"
+        "One separate performance in the variety program"
       ],
       [
         "CURTAIN",
-        "Hanging screen separating the stage from the auditorium"
+        "Hanging screen across the front of the stage"
       ],
       [
         "BOW",
-        "Acknowledgment made by a performer after an act"
+        "Bend made by a performer while acknowledging applause"
       ],
       [
-        "PROP",
-        "Object used by a performer during a stage act"
+        "STAGE",
+        "Raised area where the local performers appear"
+      ],
+      [
+        "SONG",
+        "Musical number sung for the audience"
+      ],
+      [
+        "DANCE",
+        "Rhythmic movement performed to music"
+      ],
+      [
+        "JOKE",
+        "Short humorous remark told during the show"
+      ],
+      [
+        "SEAT",
+        "Place occupied by an audience member"
+      ],
+      [
+        "CROWD",
+        "Group gathered to watch the local acts"
+      ],
+      [
+        "TICKET",
+        "Proof of admission to the community performance"
+      ],
+      [
+        "CLAP",
+        "Bring the hands together to applaud an act"
+      ],
+      [
+        "SMILE",
+        "Happy expression after an amusing performance"
       ]
     ],
     "answerNotes": {
-      "VAUDEVILLE": "Vaudeville describes a form of variety programming, not one single dramatic plot.",
-      "ACROBAT": "An acrobat's act emphasizes physical skill rather than spoken dialogue alone.",
-      "JUGGLER": "A juggler may use balls, clubs, or other objects; the definition concerns the skill rather than one prop.",
-      "SKIT": "A skit is one brief piece, while the entire bill includes several acts.",
-      "BILL": "Bill has a theatrical meaning here rather than meaning an invoice."
+      "SHOW": "A variety show can include several different kinds of acts.",
+      "SKIT": "A skit is a brief scene rather than the entire show.",
+      "ACT": "An act may feature singing, dancing, or another skill.",
+      "CURTAIN": "The curtain can hide the stage before a performance begins.",
+      "BOW": "A bow is an action here rather than a ribbon decoration."
     },
     "requiredAnswers": [
-      "VAUDEVILLE"
-    ]
+      "SHOW"
+    ],
+    "revision": 2
   },
   {
     "id": "old-time-entertainment-3",
@@ -237,7 +238,7 @@
     "cardDescription": "Identify the familiar props, roles, and landscape words of a classic Western film scene.",
     "subtheme": "A Western on the Movie Screen",
     "focus": "These clues concern film conventions rather than a complete history of the American West. A costume piece, a riding tool, and a character role have separate names.",
-    "solvingTip": "Use the object’s purpose or where it is worn before trying the story-role words.",
+    "solvingTip": "Use the object\u2019s purpose or where it is worn before trying the story-role words.",
     "words": [
       [
         "WESTERN",
@@ -313,7 +314,7 @@
     "description": "Follow a fictional investigation through motives, suspect accounts, and misleading pieces of evidence.",
     "cardDescription": "Follow a fictional investigation through motives, suspect accounts, and misleading pieces of evidence.",
     "subtheme": "Clues in a Mystery Film",
-    "focus": "A mystery story can withhold information until its solution. The clues name storytelling and investigation terms, distinguishing a reason for an action from an account of someone’s whereabouts.",
+    "focus": "A mystery story can withhold information until its solution. The clues name storytelling and investigation terms, distinguishing a reason for an action from an account of someone\u2019s whereabouts.",
     "solvingTip": "Match the question being answered: why, where, who, or what might mislead the investigator.",
     "words": [
       [

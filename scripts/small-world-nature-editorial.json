@@ -312,79 +312,80 @@
   },
   {
     "id": "small-world-nature-5",
-    "title": "A Snail on a Garden Wall",
-    "description": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
-    "cardDescription": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
-    "subtheme": "A Snail on a Garden Wall",
-    "focus": "A snail\u2019s shell grows with the animal. The clues separate the shell\u2019s opening and tip from the soft body parts used for movement and sensing.",
-    "solvingTip": "Use where the part is located: at the shell opening, at its pointed end, or beneath the animal.",
+    "title": "A Snail on the Garden Wall",
+    "description": "Follow a snail through its shell, slow movement, and damp surroundings beside the garden.",
+    "cardDescription": "Follow a snail through its shell, slow movement, and damp surroundings beside the garden.",
+    "subtheme": "A Snail on the Garden Wall",
+    "focus": "The snail carries its shell as it moves. A shiny trail may be visible behind it.",
+    "solvingTip": "Start with a color-free texture or movement word.",
     "words": [
       [
         "SNAIL",
-        "Slow-moving mollusk carrying a coiled shell"
-      ],
-      [
-        "WHORL",
-        "One complete turn in a snail shell's coil"
-      ],
-      [
-        "APERTURE",
-        "Opening through which a snail extends its soft body"
-      ],
-      [
-        "TENTACLE",
-        "Soft feeler extending from a snail's head"
-      ],
-      [
-        "APEX",
-        "Pointed earliest-formed tip of a coiled snail shell"
+        "Slow-moving animal often carrying a coiled shell"
       ],
       [
         "SHELL",
-        "Hard outer structure carried by a snail"
-      ],
-      [
-        "FOOT",
-        "Muscular lower body surface used for crawling"
+        "Hard covering carried by the garden snail"
       ],
       [
         "SLIME",
-        "Everyday name for the mucus left along a snail's route"
-      ],
-      [
-        "COIL",
-        "Curving shape winding around the shell's center"
-      ],
-      [
-        "HEAD",
-        "Front body region bearing a snail's feelers"
-      ],
-      [
-        "DAMP",
-        "Moist surface condition on a shaded garden wall"
-      ],
-      [
-        "LEAF",
-        "Plant part grazed by some garden snails"
+        "Slippery material that can form a snail's trail"
       ],
       [
         "TRAIL",
-        "Line of mucus left behind a moving snail"
+        "Line left behind as the snail moves"
+      ],
+      [
+        "CRAWL",
+        "Move slowly along a surface, as a snail does"
+      ],
+      [
+        "SLOW",
+        "Not fast, as the snail's pace is"
+      ],
+      [
+        "LEAF",
+        "Green plant part beside the crawling animal"
       ],
       [
         "WALL",
-        "Vertical garden surface on which a snail may crawl"
+        "Upright garden surface supporting the snail"
+      ],
+      [
+        "SOFT",
+        "Not hard, as the body beneath the shell is"
+      ],
+      [
+        "DAMP",
+        "Slightly wet, as a garden wall may be after rain"
+      ],
+      [
+        "RAIN",
+        "Water from clouds that wets the garden"
+      ],
+      [
+        "ROCK",
+        "Hard natural object near the snail's route"
+      ],
+      [
+        "GARDEN",
+        "Planted area beside the old wall"
+      ],
+      [
+        "ROOT",
+        "Underground plant part near the damp soil"
       ]
     ],
     "answerNotes": {
-      "SNAIL": "A snail is a mollusk rather than an insect; its broad muscular foot helps it move.",
-      "WHORL": "A whorl is one turn of the growing shell, not the whole spiral structure.",
-      "APERTURE": "Aperture means opening here; the same word appears in optical instruments with another context.",
-      "TENTACLE": "Tentacles serve sensory roles; they are not jointed insect antennae.",
-      "APEX": "The apex is at the shell's tip, while the aperture is its larger body opening."
+      "SNAIL": "The shell protects much of the snail's soft body.",
+      "SHELL": "A shell is part of the animal's body rather than a loose garden stone.",
+      "SLIME": "A snail produces mucus that can leave a visible shiny trace.",
+      "TRAIL": "A trail records the route rather than being part of the shell.",
+      "CRAWL": "Crawling describes movement over the wall rather than through the air."
     },
     "requiredAnswers": [
       "SNAIL"
-    ]
+    ],
+    "revision": 2
   }
 ]

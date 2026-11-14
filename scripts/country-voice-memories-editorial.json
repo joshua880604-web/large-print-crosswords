@@ -22,7 +22,7 @@
       ],
       [
         "TENNESSEE",
-        "State where Dolly Parton was born"
+        "Nashville's state, home to the Great Smoky Mountains"
       ],
       [
         "NINE",
@@ -123,7 +123,7 @@
       ],
       [
         "NELSON",
-        "Willie who wrote Crazy"
+        "Willie ___, well-known country singer"
       ],
       [
         "VOCAL",
@@ -180,7 +180,7 @@
       ],
       [
         "CARTER",
-        "June's surname before her marriage to Johnny Cash"
+        "June ___ Cash, country singer"
       ],
       [
         "RING",
@@ -188,11 +188,11 @@
       ],
       [
         "FIRE",
-        "Word completing the Johnny Cash title Ring of ___"
+        "Flames, completing the Cash title Ring of ___"
       ],
       [
         "WALK",
-        "Verb in the Johnny Cash title I ___ the Line"
+        "Go on foot, completing I ___ the Line"
       ],
       [
         "LINE",
@@ -232,12 +232,12 @@
   },
   {
     "id": "country-voice-memories-4",
-    "title": "Willie Nelson and a Road Song",
-    "description": "Bring together Willie Nelson's name, his well-known guitar, and familiar words from his recording titles.",
-    "cardDescription": "Bring together Willie Nelson's name, his well-known guitar, and familiar words from his recording titles.",
-    "subtheme": "Willie Nelson and a Road Song",
-    "focus": "One instrument has a personal name; the remaining clues mix title words and everyday performance vocabulary.",
-    "solvingTip": "A travel word can provide crossing letters for the guitar's name.",
+    "title": "Willie Nelson on the Road Again",
+    "description": "Enjoy Willie Nelson's familiar road-song theme with travel, singing, and stage words.",
+    "cardDescription": "Enjoy Willie Nelson's familiar road-song theme with travel, singing, and stage words.",
+    "subtheme": "Willie Nelson on the Road Again",
+    "focus": "The clues combine the artist's familiar name with everyday meanings from a well-known title, without guitar-name trivia.",
+    "solvingTip": "Try a travel or singing word before the performer's surname.",
     "words": [
       [
         "WILLIE",
@@ -245,67 +245,68 @@
       ],
       [
         "NELSON",
-        "Willie's surname on the cover of Stardust"
-      ],
-      [
-        "TRIGGER",
-        "Name Willie Nelson gave his familiar acoustic guitar"
-      ],
-      [
-        "STARDUST",
-        "One-word title of Nelson's album of popular standards"
+        "Surname of Willie, the singer of On the Road Again"
       ],
       [
         "ROAD",
-        "Word after On the in a well-known Willie Nelson title"
+        "Highway word completing On the ___ Again"
       ],
       [
         "AGAIN",
-        "Final word of the title On the Road ___"
-      ],
-      [
-        "MIND",
-        "Word completing the Nelson recording Always on My ___"
-      ],
-      [
-        "CRAZY",
-        "Song written by Willie Nelson and famously recorded by Patsy Cline"
-      ],
-      [
-        "BRAID",
-        "Interwoven hairstyle associated with Nelson's familiar stage appearance"
-      ],
-      [
-        "NYLON",
-        "Material used for the strings on Nelson's guitar Trigger"
+        "Once more, completing On the Road ___"
       ],
       [
         "TOUR",
-        "Series of performance stops made by a traveling musician"
+        "Series of performance stops made by a musician"
       ],
       [
-        "BUS",
-        "Large road vehicle used by many touring performers"
+        "SING",
+        "Perform a melody with the voice"
       ],
       [
         "SONG",
-        "Musical work for which Nelson might write words and melody"
+        "Musical work performed by the country singer"
       ],
       [
-        "BANDANA",
-        "Cloth head covering associated with Nelson's stage look"
+        "BUS",
+        "Large road vehicle used by many touring bands"
+      ],
+      [
+        "GUITAR",
+        "String instrument often held by Nelson on stage"
+      ],
+      [
+        "HAT",
+        "Head covering worn by some country performers"
+      ],
+      [
+        "STAGE",
+        "Raised performance area in front of the audience"
+      ],
+      [
+        "NOTE",
+        "One pitched musical sound in the melody"
+      ],
+      [
+        "VOICE",
+        "Sound produced by the singer rather than the instruments"
+      ],
+      [
+        "BAND",
+        "Group of musicians accompanying the performer"
       ]
     ],
     "answerNotes": {
-      "WILLIE": "Willie Nelson is known as both a singer and a songwriter.",
-      "NELSON": "Stardust is a Nelson album built around popular standards.",
-      "TRIGGER": "Trigger is the guitar's name, rather than a playing technique.",
-      "STARDUST": "The album revisits older songs rather than consisting entirely of Nelson compositions.",
-      "ROAD": "On the Road Again is associated with traveling and performing."
+      "WILLIE": "Willie Nelson is known for singing and songwriting.",
+      "NELSON": "The name identifies the performer rather than a place or instrument.",
+      "ROAD": "The title connects the music with traveling between performances.",
+      "AGAIN": "Again is an ordinary word for repetition.",
+      "TOUR": "A tour connects several engagements rather than one single show."
     },
     "requiredAnswers": [
       "WILLIE"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "country-voice-memories-5",
@@ -334,7 +335,7 @@
       ],
       [
         "LONESOME",
-        "Lonely-sounding word after I'm So in a Hank Williams title"
+        "Lonely, completing I'm So ___ I Could Cry"
       ],
       [
         "HEART",

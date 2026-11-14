@@ -155,44 +155,32 @@
   },
   {
     "id": "winter-weather-scenes-3",
-    "title": "Shorter Days and Low Winter Sun",
-    "description": "Follow daylight, shadows, and the seasons through the ordinary words used to describe the winter Sun.",
-    "cardDescription": "Follow daylight, shadows, and the seasons through the ordinary words used to describe the winter Sun.",
-    "subtheme": "Shorter Days and Low Winter Sun",
-    "focus": "Earth's axial tilt changes seasonal daylight; winter is not caused simply by Earth being farther from the Sun.",
-    "solvingTip": "Distinguish a time of day from the light or shadow seen then.",
+    "title": "Early Sunset on a Winter Afternoon",
+    "description": "Notice winter daylight through fading light, long shadows, and familiar times of day.",
+    "cardDescription": "Notice winter daylight through fading light, long shadows, and familiar times of day.",
+    "subtheme": "Early Sunset on a Winter Afternoon",
+    "focus": "Winter days are shorter in much of the northern United States. These clues focus on what can be seen through a window.",
+    "solvingTip": "Start with a direction or short sky word.",
     "words": [
       [
-        "SOLSTICE",
-        "Seasonal point associated with the shortest Northern Hemisphere day"
-      ],
-      [
-        "TILT",
-        "Slant of Earth's axis responsible for the seasons"
+        "SUNSET",
+        "Time when the Sun disappears below the horizon"
       ],
       [
         "DAYLIGHT",
-        "Natural light present between sunrise and sunset"
-      ],
-      [
-        "SHADOW",
-        "Dark shape made where an object blocks direct sunlight"
-      ],
-      [
-        "HORIZON",
-        "Apparent boundary where the sky meets the land or water"
-      ],
-      [
-        "DAWN",
-        "Early light appearing before sunrise"
+        "Natural light present during the daytime"
       ],
       [
         "DUSK",
-        "Fading light after the Sun has set"
+        "Fading light after the Sun has gone down"
       ],
       [
-        "NOON",
-        "Middle part of the day associated with the Sun's highest position"
+        "SHADOW",
+        "Dark shape made where something blocks sunlight"
+      ],
+      [
+        "DAWN",
+        "Early light before sunrise"
       ],
       [
         "EAST",
@@ -203,32 +191,45 @@
         "General direction of sunset"
       ],
       [
-        "AXIS",
-        "Imaginary line around which Earth rotates"
+        "NIGHT",
+        "Dark period after the day's light has faded"
       ],
       [
-        "WINTER",
-        "Season with shorter daylight in much of the northern United States"
+        "SKY",
+        "Expanse overhead changing color near sunset"
       ],
       [
         "SUN",
-        "Star supplying daylight to Earth"
+        "Star supplying the day's natural light"
       ],
       [
-        "NIGHT",
-        "Period when a location faces away from direct sunlight"
+        "DARK",
+        "Having little or no light"
+      ],
+      [
+        "SHORT",
+        "Not lasting long, as winter daylight does in many northern places"
+      ],
+      [
+        "WINTER",
+        "Season associated with early sunsets in the northern United States"
+      ],
+      [
+        "NOON",
+        "Middle part of the daylight hours"
       ]
     ],
     "answerNotes": {
-      "SOLSTICE": "The December solstice marks the shortest daylight period in the Northern Hemisphere.",
-      "TILT": "Earth's axis stays tilted as the planet travels around the Sun.",
-      "DAYLIGHT": "Daylight duration varies with both season and latitude.",
-      "SHADOW": "A low Sun often creates a longer shadow than a high Sun.",
-      "HORIZON": "Sunrise and sunset are observed near the horizon."
+      "SUNSET": "Sunset marks the end of direct daylight at a location.",
+      "DAYLIGHT": "Daylight length changes with season and location.",
+      "DUSK": "Dusk is the dim transition before full darkness.",
+      "SHADOW": "Low sunlight can make a long shadow on the ground.",
+      "DAWN": "Dawn is the morning light transition rather than the evening one."
     },
     "requiredAnswers": [
-      "SOLSTICE"
-    ]
+      "SUNSET"
+    ],
+    "revision": 2
   },
   {
     "id": "winter-weather-scenes-4",
@@ -309,79 +310,80 @@
   },
   {
     "id": "winter-weather-scenes-5",
-    "title": "Snowplows on the Neighborhood Street",
-    "description": "Recognize the blade, salt spreader, and tracks left as a winter road crew clears fallen snow.",
-    "cardDescription": "Recognize the blade, salt spreader, and tracks left as a winter road crew clears fallen snow.",
-    "subtheme": "Snowplows on the Neighborhood Street",
-    "focus": "A plow moves snow aside; a spreader distributes material on the road surface.",
-    "solvingTip": "Separate the vehicle's attachments from the piles they leave.",
+    "title": "Clearing Snow from the Street",
+    "description": "Watch a neighborhood snowplow through its blade, truck, tires, and the piles left beside the road.",
+    "cardDescription": "Watch a neighborhood snowplow through its blade, truck, tires, and the piles left beside the road.",
+    "subtheme": "Clearing Snow from the Street",
+    "focus": "The plow pushes snow aside while the truck follows its street route. These clues use visible objects and simple actions.",
+    "solvingTip": "Try a short road part or pushing action first.",
     "words": [
       [
         "SNOWPLOW",
-        "Vehicle or attachment used to push snow off a road"
+        "Vehicle or attachment pushing snow off a street"
       ],
       [
         "BLADE",
-        "Broad metal part pushing the snow aside"
-      ],
-      [
-        "SPREADER",
-        "Equipment distributing salt or grit across a road"
-      ],
-      [
-        "WINDROW",
-        "Long ridge of snow left by a plow's pass"
-      ],
-      [
-        "GRIT",
-        "Small rough particles spread to improve traction"
-      ],
-      [
-        "SALT",
-        "Material used to lower water's freezing point on a road"
-      ],
-      [
-        "TRUCK",
-        "Motor vehicle carrying the clearing equipment"
-      ],
-      [
-        "ROUTE",
-        "Planned sequence of streets assigned to a plow crew"
-      ],
-      [
-        "CURB",
-        "Raised roadside edge partly hidden by snow"
-      ],
-      [
-        "RIDGE",
-        "Raised line of snow left beside a cleared lane"
-      ],
-      [
-        "PASS",
-        "One trip of the plow along a stretch of road"
+        "Broad metal part at the front pushing the snow"
       ],
       [
         "PILE",
-        "Heap of snow pushed into one place"
+        "Heap of snow pushed to one side"
       ],
       [
-        "TIRE",
-        "Rubber wheel covering leaving tracks on the street"
+        "GRIT",
+        "Small rough particles spread to help tires grip"
+      ],
+      [
+        "CURB",
+        "Raised roadside edge partly hidden by the snow"
+      ],
+      [
+        "TRUCK",
+        "Motor vehicle carrying the snow-clearing attachment"
+      ],
+      [
+        "SNOW",
+        "White frozen covering pushed aside by the plow"
+      ],
+      [
+        "ROAD",
+        "Travel surface cleared for neighborhood traffic"
       ],
       [
         "LANE",
-        "Strip of roadway made clearer by the plow"
+        "Strip of street made clearer by the plow's pass"
+      ],
+      [
+        "TIRE",
+        "Rubber wheel covering leaving tracks in the snow"
+      ],
+      [
+        "SALT",
+        "Material spread to help deice some roads"
+      ],
+      [
+        "PUSH",
+        "Move the fallen snow ahead of the blade"
+      ],
+      [
+        "PASS",
+        "One trip along a stretch of snowy street"
+      ],
+      [
+        "CLEAR",
+        "Remove snow from the travel surface"
       ]
     ],
     "answerNotes": {
-      "SNOWPLOW": "A snowplow clears by moving snow, rather than melting it with heat.",
-      "BLADE": "The blade is the working attachment at the front of many plow trucks.",
-      "SPREADER": "A spreader distributes material behind or beneath the vehicle.",
-      "WINDROW": "Windrow can also describe rows of cut hay in another setting.",
-      "GRIT": "Grit provides friction and is different from a salt deicer."
+      "SNOWPLOW": "A plow moves snow aside rather than melting it with heat.",
+      "BLADE": "The blade does the pushing while the truck supplies movement.",
+      "PILE": "A pile describes the gathered snow rather than the moving vehicle.",
+      "GRIT": "Grit supplies friction rather than acting as a hot melting material.",
+      "CURB": "Snow can partly hide the curb beside a road."
     },
     "requiredAnswers": [
       "SNOWPLOW"
-    ]
+    ],
+    "revision": 2
   }
 ]

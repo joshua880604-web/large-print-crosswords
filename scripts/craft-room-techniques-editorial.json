@@ -1,80 +1,81 @@
 [
   {
     "id": "craft-room-techniques",
-    "title": "Knots in a Macrame Hanger",
-    "description": "Explore a knotted plant hanger through cords, loops, and the names of familiar fastening shapes.",
-    "cardDescription": "Explore a knotted plant hanger through cords, loops, and the names of familiar fastening shapes.",
-    "subtheme": "Knots in a Macrame Hanger",
-    "focus": "Macrame makes patterns by knotting cords rather than weaving them on a loom. The clues distinguish a knot from the supporting ring and the loose fringe below.",
-    "solvingTip": "Use a material or a visible shape before trying the named knot.",
+    "title": "A Hanging Flowerpot by the Window",
+    "description": "Make a simple hanging plant display through cords, knots, loops, and familiar garden objects.",
+    "cardDescription": "Make a simple hanging plant display through cords, knots, loops, and familiar garden objects.",
+    "subtheme": "A Hanging Flowerpot by the Window",
+    "focus": "Cords hold the pot while loops and knots connect the support. No named knot patterns are required.",
+    "solvingTip": "Try a plant part or short household object first.",
     "words": [
       [
-        "MACRAME",
-        "Decorative craft made by knotting cords, with accent omitted"
-      ],
-      [
-        "LARKSHEAD",
-        "Knot often used to attach a folded cord to a ring, with spaces omitted"
+        "HANGER",
+        "Support holding the flowerpot above the floor"
       ],
       [
         "CORD",
-        "Thick flexible strand used in a knotted wall hanging"
-      ],
-      [
-        "FRINGE",
-        "Loose decorative ends hanging below the knotted section"
-      ],
-      [
-        "SQUARE",
-        "Knot name used for a balanced four-end macrame fastening"
+        "Thick flexible strand used in the plant support"
       ],
       [
         "KNOT",
-        "Interlaced fastening formed in a cord"
+        "Tied fastening joining or securing the cords"
       ],
       [
         "LOOP",
-        "Curved opening made by folding a length of cord"
+        "Curved opening formed by bending a cord"
       ],
       [
         "RING",
-        "Circular support at the top of a plant hanger"
+        "Circular fitting at the top of some plant hangers"
+      ],
+      [
+        "POT",
+        "Container holding the plant and its soil"
+      ],
+      [
+        "PLANT",
+        "Living growth hanging near the window"
       ],
       [
         "BEAD",
-        "Pierced decorative piece threaded onto a hanger cord"
+        "Small pierced decoration threaded onto a cord"
       ],
       [
-        "TASSEL",
-        "Bunched loose strands forming a hanging ornament"
+        "LEAF",
+        "Green plant part extending above the pot"
       ],
       [
-        "COTTON",
-        "Plant fiber used in many macrame cords"
+        "SOIL",
+        "Earth around the hanging plant's roots"
       ],
       [
-        "HANGER",
-        "Knotted support holding a small flowerpot"
+        "WATER",
+        "Liquid supplied to the plant when needed"
       ],
       [
-        "TWIST",
-        "To turn cord strands around one another"
+        "WINDOW",
+        "Glass opening providing light beside the plant"
       ],
       [
-        "END",
-        "Loose tip of a cord used while tying"
+        "HANG",
+        "Suspend the flowerpot above a surface"
+      ],
+      [
+        "BOW",
+        "Looped knot tied as a decoration"
       ]
     ],
     "answerNotes": {
-      "MACRAME": "Macramé forms patterns with knots; the grid uses the common unaccented spelling.",
-      "LARKSHEAD": "Lark's head is written without punctuation or spaces; it is one mounting knot used in the craft.",
-      "CORD": "Cord is a material, while the knots formed in it make the structure.",
-      "FRINGE": "Fringe describes the unknotted or loosened ends rather than the whole hanging.",
-      "SQUARE": "A square knot is built from opposing half-knots; the clue concerns the named knot rather than a geometric drawing."
+      "HANGER": "The hanger carries the pot rather than being part of the plant.",
+      "CORD": "Several cords can share the weight of a small pot.",
+      "KNOT": "A knot is made from the cord itself rather than a metal fitting.",
+      "LOOP": "A loop can provide a place for a support to pass through.",
+      "RING": "The ring gathers the hanging cords into one support point."
     },
     "requiredAnswers": [
-      "MACRAME"
-    ]
+      "HANGER"
+    ],
+    "revision": 2
   },
   {
     "id": "craft-room-techniques-2",

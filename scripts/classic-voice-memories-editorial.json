@@ -78,12 +78,12 @@
   },
   {
     "id": "classic-voice-memories-2",
-    "title": "Nat King Cole at the Piano",
-    "description": "Recall Nat King Cole as both singer and pianist through his name, recordings, and a small jazz group.",
-    "cardDescription": "Recall Nat King Cole as both singer and pianist through his name, recordings, and a small jazz group.",
-    "subtheme": "Nat King Cole at the Piano",
-    "focus": "Cole's career included instrumental trio work as well as the vocal recordings many listeners recognize.",
-    "solvingTip": "Start with the short words making up his stage name.",
+    "title": "Nat King Cole and a Familiar Tune",
+    "description": "Recall Nat King Cole through his name, piano, singing voice, and ordinary song-title words.",
+    "cardDescription": "Recall Nat King Cole through his name, piano, singing voice, and ordinary song-title words.",
+    "subtheme": "Nat King Cole and a Familiar Tune",
+    "focus": "The clues use the artist and familiar objects instead of a record-company quiz.",
+    "solvingTip": "Short name and title words help cross the longer musical words.",
     "words": [
       [
         "NAT",
@@ -91,76 +91,77 @@
       ],
       [
         "COLE",
-        "Surname of singer and pianist Nat King ___"
+        "Surname completing the name Nat King ___"
       ],
       [
         "KING",
-        "Royal title between Nat and Cole in a singer's name"
-      ],
-      [
-        "TRIO",
-        "Three-person group associated with Cole's early piano work"
-      ],
-      [
-        "CAPITOL",
-        "Record-company name on many Nat King Cole albums"
+        "Royal title between Nat and Cole in the singer's name"
       ],
       [
         "PIANO",
-        "Keyboard instrument Cole played as well as singing"
+        "Keyboard instrument played by Nat King Cole"
       ],
       [
         "SMILE",
-        "One-word song title recorded by Cole, also a happy facial expression"
-      ],
-      [
-        "MONA",
-        "Woman's first name before Lisa in a Nat King Cole title"
-      ],
-      [
-        "LISA",
-        "Name following Mona in a Nat King Cole title"
-      ],
-      [
-        "ROUTE",
-        "Word before 66 in a song recorded by Cole"
-      ],
-      [
-        "VELVET",
-        "Soft fabric used as a comparison for a smooth singing voice"
-      ],
-      [
-        "BALLAD",
-        "Often slow and expressive type of song"
+        "Happy expression used as the title of a song Cole recorded"
       ],
       [
         "JAZZ",
-        "Musical setting of Cole's early trio recordings"
+        "Music tradition associated with Cole's early trio work"
+      ],
+      [
+        "SONG",
+        "Musical piece sung by the performer"
+      ],
+      [
+        "SING",
+        "Use the voice to carry a melody"
       ],
       [
         "VOICE",
-        "Sound of Cole singing rather than playing the piano"
+        "Human sound heard when Cole performs a vocal line"
+      ],
+      [
+        "TUNE",
+        "Melody heard in a familiar recording"
+      ],
+      [
+        "LOVE",
+        "Affection word used in many classic song titles"
+      ],
+      [
+        "MONA",
+        "First name before Lisa in a familiar painting title"
+      ],
+      [
+        "LISA",
+        "Name completing the familiar painting title Mona ___"
+      ],
+      [
+        "NOTE",
+        "One pitch sounded by the piano or singer"
       ]
     ],
     "answerNotes": {
-      "NAT": "Nat is the shortened first name used in his familiar professional name.",
-      "COLE": "Cole was a pianist as well as a well-known vocalist.",
-      "KING": "King is part of the professional name rather than a royal title here.",
-      "TRIO": "A trio identifies the number of performers, not one fixed instrument combination.",
-      "PIANO": "Cole's piano playing was an important part of his early jazz work."
+      "NAT": "Nat is the shortened first name in his familiar stage name.",
+      "COLE": "Cole was a pianist as well as a singer.",
+      "KING": "King is part of the stage name in this clue rather than a claim of royalty.",
+      "PIANO": "Piano playing was important to Cole's work as well as his singing.",
+      "SMILE": "Smile names both a familiar facial expression and a recorded song."
     },
     "requiredAnswers": [
       "COLE"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "classic-voice-memories-3",
-    "title": "Frank Sinatra and an Orchestra",
-    "description": "Picture Frank Sinatra at a microphone with title words, his surname, and the musicians behind him.",
-    "cardDescription": "Picture Frank Sinatra at a microphone with title words, his surname, and the musicians behind him.",
-    "subtheme": "Frank Sinatra and an Orchestra",
-    "focus": "An arranger adapts a song for the performing forces; the vocalist then shapes the words and melody.",
-    "solvingTip": "Use the familiar short title words to cross the names.",
+    "title": "Frank Sinatra Sings a Familiar Song",
+    "description": "Recall Sinatra through his name, singing, and everyday words from familiar song titles.",
+    "cardDescription": "Recall Sinatra through his name, singing, and everyday words from familiar song titles.",
+    "subtheme": "Frank Sinatra Sings a Familiar Song",
+    "focus": "A few title clues also give ordinary meanings, so the puzzle does not depend on remembering a hometown or a release date.",
+    "solvingTip": "Start with a short object or title word.",
     "words": [
       [
         "FRANK",
@@ -168,153 +169,155 @@
       ],
       [
         "SINATRA",
-        "Surname of the singer associated with My Way"
+        "Frank's surname on recordings such as My Way"
       ],
       [
-        "CROONER",
-        "Singer associated with a smooth, intimate popular style"
-      ],
-      [
-        "ARRANGER",
-        "Musician adapting a song for an orchestra or ensemble"
-      ],
-      [
-        "HOBOKEN",
-        "New Jersey city where Frank Sinatra was born"
-      ],
-      [
-        "WAY",
-        "Word completing the Sinatra recording My ___"
-      ],
-      [
-        "FLY",
-        "Travel-through-the-air verb before Me to the Moon in a song title"
+        "SINGER",
+        "Person carrying the words and melody with the voice"
       ],
       [
         "MOON",
-        "Sky object completing the song title Fly Me to the ___"
+        "Night-sky object completing Fly Me to the ___"
       ],
       [
-        "SUMMER",
-        "Warm season before Wind in a Sinatra song title"
+        "WAY",
+        "Path word completing the song title My ___"
       ],
       [
-        "STRINGS",
-        "Orchestral section containing violins and cellos"
+        "VOICE",
+        "Sound of Sinatra singing rather than the backing instruments"
       ],
       [
-        "MIC",
-        "Informal name for the singer's microphone"
+        "SONG",
+        "Musical piece performed at the microphone"
       ],
       [
         "BAND",
-        "Group of musicians playing behind the vocalist"
-      ],
-      [
-        "PHRASE",
-        "Short musical passage the singer shapes as a unit"
+        "Musicians playing behind the featured vocalist"
       ],
       [
         "SWING",
-        "Rhythmic style associated with many Sinatra arrangements"
+        "Rhythmic style heard in many classic Sinatra arrangements"
+      ],
+      [
+        "MIC",
+        "Informal short name for the device amplifying the singer"
+      ],
+      [
+        "NOTE",
+        "One pitched sound held by a vocalist"
+      ],
+      [
+        "STAGE",
+        "Performance area occupied by the singer and musicians"
+      ],
+      [
+        "SUIT",
+        "Matching jacket and trousers worn for a formal performance"
+      ],
+      [
+        "HAT",
+        "Head covering associated with some classic crooner images"
       ]
     ],
     "answerNotes": {
-      "FRANK": "Frank Sinatra recorded with small groups as well as large orchestras.",
-      "SINATRA": "Sinatra is the performer's surname, not a song title.",
-      "CROONER": "Microphones helped make quieter, intimate vocal delivery practical.",
-      "ARRANGER": "An arrangement sets out how the parts work together in a performance.",
-      "HOBOKEN": "Hoboken is across the Hudson River from New York City."
+      "FRANK": "Frank Sinatra is associated with many popular standards.",
+      "SINATRA": "The surname identifies the singer rather than the orchestra behind him.",
+      "SINGER": "A singer produces the vocal sound rather than the instrumental backing.",
+      "MOON": "The clue identifies a familiar sky object as well as a title word.",
+      "WAY": "Way is an ordinary word that can mean a path or method."
     },
     "requiredAnswers": [
       "SINATRA"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "classic-voice-memories-4",
-    "title": "Louis Armstrong and His Trumpet",
-    "description": "Meet Louis Armstrong through his trumpet, distinctive voice, and familiar words from his recording titles.",
-    "cardDescription": "Meet Louis Armstrong through his trumpet, distinctive voice, and familiar words from his recording titles.",
-    "subtheme": "Louis Armstrong and His Trumpet",
-    "focus": "Armstrong was both an influential jazz trumpeter and a singer; the clues separate those two roles.",
-    "solvingTip": "Instrument parts can help cross the performer's surname.",
+    "title": "Louis Armstrong and a Wonderful World",
+    "description": "Meet Armstrong through his trumpet, name, and ordinary words from a much-loved title.",
+    "cardDescription": "Meet Armstrong through his trumpet, name, and ordinary words from a much-loved title.",
+    "subtheme": "Louis Armstrong and a Wonderful World",
+    "focus": "The clues combine familiar objects and music words rather than asking for the singer's nickname.",
+    "solvingTip": "Try an everyday title word or instrument part first.",
     "words": [
       [
         "LOUIS",
-        "First name of jazz trumpeter Armstrong"
+        "First name of trumpeter Armstrong"
       ],
       [
         "ARMSTRONG",
-        "Surname of the trumpeter nicknamed Satchmo"
-      ],
-      [
-        "SATCHMO",
-        "Familiar nickname of Louis Armstrong"
+        "Louis's surname on the recording What a Wonderful World"
       ],
       [
         "TRUMPET",
-        "Brass instrument strongly associated with Armstrong"
-      ],
-      [
-        "WONDERFUL",
-        "Adjective completing What a ___ World in an Armstrong recording"
+        "Brass instrument strongly associated with Louis Armstrong"
       ],
       [
         "WORLD",
-        "Final word of the Armstrong recording What a Wonderful ___"
+        "Planet or realm word completing What a Wonderful ___"
       ],
       [
-        "DOLLY",
-        "Name after Hello in a hit recording by Armstrong"
+        "WONDERFUL",
+        "Excellent or delightful, completing What a ___ World"
       ],
       [
         "JAZZ",
-        "Musical tradition shaped by Armstrong's playing"
+        "Musical tradition central to Armstrong's playing"
       ],
       [
-        "VALVE",
-        "Pressed trumpet part changing the length of the air path"
+        "VOICE",
+        "Sound of Armstrong singing instead of playing his horn"
+      ],
+      [
+        "SONG",
+        "Vocal musical work performed on a recording"
       ],
       [
         "BELL",
         "Flared opening at the end of the trumpet"
       ],
       [
-        "SOLO",
-        "Passage featuring Armstrong apart from the ensemble"
-      ],
-      [
-        "VOICE",
-        "Sound of Armstrong singing instead of playing"
+        "VALVE",
+        "Pressed trumpet part changing the sounding air path"
       ],
       [
         "BRASS",
-        "Instrument family to which the trumpet belongs"
+        "Instrument family including the trumpet"
       ],
       [
-        "SCAT",
-        "Wordless jazz singing using improvised syllables"
+        "SOLO",
+        "Passage featuring one player or singer"
+      ],
+      [
+        "BAND",
+        "Group of musicians supporting a featured performer"
+      ],
+      [
+        "HORN",
+        "Everyday word used for some brass instruments"
       ]
     ],
     "answerNotes": {
-      "LOUIS": "Louis Armstrong was a major figure in jazz as both instrumentalist and vocalist.",
-      "ARMSTRONG": "Armstrong's career extended from New Orleans jazz to internationally popular recordings.",
-      "SATCHMO": "Satchmo is a nickname, not the name of his instrument.",
-      "TRUMPET": "A trumpet produces sound from buzzing lips, rather than a reed.",
-      "WONDERFUL": "The song title is identified without quoting its lyrics."
+      "LOUIS": "Louis Armstrong worked as both a jazz instrumentalist and a singer.",
+      "ARMSTRONG": "The name identifies the performer rather than the songwriter.",
+      "TRUMPET": "A trumpet uses buzzing lips to start its sound.",
+      "WORLD": "World is the familiar title word asked for here.",
+      "WONDERFUL": "The ordinary adjective supplies the meaning as well as a title clue."
     },
     "requiredAnswers": [
       "ARMSTRONG"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "classic-voice-memories-5",
-    "title": "Doris Day and a Familiar Refrain",
-    "description": "Recall Doris Day through her name, screen-musical associations, and short words from familiar song titles.",
-    "cardDescription": "Recall Doris Day through her name, screen-musical associations, and short words from familiar song titles.",
-    "subtheme": "Doris Day and a Familiar Refrain",
-    "focus": "Day worked in both recorded music and films; the clues do not require remembering a film's release year.",
-    "solvingTip": "Try the ordinary two- and three-word title components first.",
+    "title": "Doris Day and a Classic Movie Song",
+    "description": "Recall Doris Day through her name, screen work, and familiar English words in song titles.",
+    "cardDescription": "Recall Doris Day through her name, screen work, and familiar English words in song titles.",
+    "subtheme": "Doris Day and a Classic Movie Song",
+    "focus": "The clues use ordinary singing and movie words rather than foreign title fragments or release-year recall.",
+    "solvingTip": "Short role and title words help with the performer's name.",
     "words": [
       [
         "DORIS",
@@ -322,66 +325,67 @@
       ],
       [
         "DAY",
-        "Surname of the singer associated with Que Sera, Sera"
-      ],
-      [
-        "SERA",
-        "Repeated word after Que in a familiar Doris Day recording"
-      ],
-      [
-        "SENTIMENTAL",
-        "Nostalgic-sounding adjective before Journey in a Doris Day title"
-      ],
-      [
-        "JOURNEY",
-        "Travel word completing the title Sentimental ___"
-      ],
-      [
-        "QUE",
-        "Three-letter word before Sera, Sera in a Doris Day title"
-      ],
-      [
-        "SECRET",
-        "Word before Love in a Doris Day song title"
-      ],
-      [
-        "LOVE",
-        "Word completing the Day recording Secret ___"
-      ],
-      [
-        "BROWN",
-        "Les whose band recorded Sentimental Journey with Day"
+        "Doris's surname, also a twenty-four-hour period"
       ],
       [
         "SINGER",
-        "Role Day performed while recording a melody"
+        "Role Day takes while performing a melody"
       ],
       [
         "ACTRESS",
-        "Day's role when portraying a character on screen"
+        "Role Day takes when playing a film character"
+      ],
+      [
+        "JOURNEY",
+        "Trip word completing the title Sentimental ___"
       ],
       [
         "FILM",
-        "Motion picture featuring an actress and a soundtrack"
+        "Motion picture featuring the performer's acting"
       ],
       [
-        "BAND",
-        "Group backing a vocalist such as Day"
+        "SONG",
+        "Musical work heard in a movie scene"
+      ],
+      [
+        "LOVE",
+        "Affection word completing the title Secret ___"
+      ],
+      [
+        "SECRET",
+        "Something kept private, before Love in a Day song title"
+      ],
+      [
+        "STORY",
+        "Sequence of events shown in a movie"
+      ],
+      [
+        "SMILE",
+        "Happy facial expression seen on a performer"
+      ],
+      [
+        "VOICE",
+        "Human sound carrying the sung melody"
       ],
       [
         "RECORD",
-        "Disc carrying a Doris Day performance"
+        "Disc carrying a classic performance"
+      ],
+      [
+        "BAND",
+        "Musicians providing a backing for the singer"
       ]
     ],
     "answerNotes": {
-      "DORIS": "Doris Day had a singing career as well as a film career.",
-      "DAY": "Day is the professional surname in this puzzle's title.",
-      "SERA": "Que Sera, Sera is used as a song title; no translated lyric is required.",
-      "SENTIMENTAL": "Sentimental Journey was recorded by Day with Les Brown's band.",
-      "JOURNEY": "The title combines a feeling word and a travel word."
+      "DORIS": "Doris Day worked in both popular music and films.",
+      "DAY": "The surname is also an ordinary word for a period of daylight.",
+      "SINGER": "Singing carries the musical words and tune with the voice.",
+      "ACTRESS": "Actress describes a performance role rather than a song type.",
+      "JOURNEY": "Journey supplies an everyday travel meaning alongside the song title."
     },
     "requiredAnswers": [
       "DORIS"
-    ]
+    ],
+    "revision": 2
   }
 ]

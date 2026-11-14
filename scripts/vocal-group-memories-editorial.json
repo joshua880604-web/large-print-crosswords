@@ -62,7 +62,7 @@
       ],
       [
         "ABBEY",
-        "Word before Road in a Beatles album title"
+        "Monastery word before Road in a Beatles album title"
       ]
     ],
     "answerNotes": {
@@ -78,80 +78,81 @@
   },
   {
     "id": "vocal-group-memories-2",
-    "title": "The Beach Boys and a Surf Sound",
-    "description": "Recognize the Beach Boys through their name, family connections, and familiar beach-themed title words.",
-    "cardDescription": "Recognize the Beach Boys through their name, family connections, and familiar beach-themed title words.",
-    "subtheme": "The Beach Boys and a Surf Sound",
-    "focus": "The group combined vocal harmonies with a California-associated pop sound; not every song was about surfing.",
-    "solvingTip": "Use the beach objects and everyday title words first.",
+    "title": "The Beach Boys and Summer Songs",
+    "description": "Enjoy the Beach Boys through waves, sand, California, and familiar song-title words.",
+    "cardDescription": "Enjoy the Beach Boys through waves, sand, California, and familiar song-title words.",
+    "subtheme": "The Beach Boys and Summer Songs",
+    "focus": "The clues use the band's seaside image rather than requiring the names of every member.",
+    "solvingTip": "Try a beach or weather word first.",
     "words": [
       [
         "BEACHBOYS",
         "American group associated with Good Vibrations, two words"
       ],
       [
-        "BRIAN",
-        "First name of Beach Boys songwriter Wilson"
-      ],
-      [
-        "WILSON",
-        "Surname of brothers Brian, Carl, and Dennis in the Beach Boys"
-      ],
-      [
-        "HARMONY",
-        "Different vocal pitches sounding together"
-      ],
-      [
-        "SURFIN",
-        "Shortened surfing word before USA in a Beach Boys title"
-      ],
-      [
-        "CARL",
-        "Wilson brother who sang lead on God Only Knows"
-      ],
-      [
-        "DENNIS",
-        "Wilson brother associated with the band's drums"
-      ],
-      [
-        "MIKE",
-        "First name of Beach Boys singer Love"
-      ],
-      [
-        "LOVE",
-        "Mike's surname in the Beach Boys"
-      ],
-      [
-        "USA",
-        "Country abbreviation completing the Beach Boys title Surfin' ___"
-      ],
-      [
-        "GOOD",
-        "Word before Vibrations in a Beach Boys hit title"
-      ],
-      [
-        "VIBRATIONS",
-        "Shaking motions named after Good in a Beach Boys title"
+        "CALIFORNIA",
+        "State associated with the group's surf-and-summer image"
       ],
       [
         "SURF",
-        "Breaking waves associated with the band's early image"
+        "Breaking waves linked with the band's early sound"
       ],
       [
-        "CALIFORNIA",
-        "State strongly associated with the Beach Boys' early sound"
+        "HARMONY",
+        "Different vocal pitches sounding together in the group"
+      ],
+      [
+        "VIBRATIONS",
+        "Shaking movements named after Good in a Beach Boys title"
+      ],
+      [
+        "BEACH",
+        "Sandy coast suggested by the group's name"
+      ],
+      [
+        "WAVE",
+        "Ridge of water rolling toward a surfer"
+      ],
+      [
+        "SAND",
+        "Loose grains beneath the seaside listener's feet"
+      ],
+      [
+        "SUN",
+        "Bright sky object in a summer beach scene"
+      ],
+      [
+        "SUMMER",
+        "Warm season associated with many seaside songs"
+      ],
+      [
+        "SONG",
+        "Musical piece performed by the vocal group"
+      ],
+      [
+        "BAND",
+        "Group of musicians playing the summer songs"
+      ],
+      [
+        "GOOD",
+        "Word meaning pleasing, before Vibrations in a hit title"
+      ],
+      [
+        "USA",
+        "Country abbreviation following Surfin' in a Beach Boys title"
       ]
     ],
     "answerNotes": {
-      "BEACHBOYS": "The Beach Boys are known for layered vocal harmonies as well as surf-related songs.",
-      "BRIAN": "Brian Wilson played a central role in the group's songwriting and studio work.",
-      "WILSON": "The Wilson brothers were part of the group's early lineup.",
-      "HARMONY": "Harmony differs from everyone singing exactly the same melody in unison.",
-      "SURFIN": "The title's apostrophe marks the omitted final g."
+      "BEACHBOYS": "The Beach Boys are known for vocal harmonies as well as seaside-themed songs.",
+      "CALIFORNIA": "California identifies the setting linked with much of the band's early image.",
+      "SURF": "Surf has a coastal meaning as well as a musical association.",
+      "HARMONY": "Harmony differs from all voices singing exactly the same note.",
+      "VIBRATIONS": "The title word also has an ordinary physical meaning."
     },
     "requiredAnswers": [
       "BEACHBOYS"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "vocal-group-memories-3",
@@ -196,7 +197,7 @@
       ],
       [
         "HURRY",
-        "Word after You Can't in a Supremes song title"
+        "Rush, completing the Supremes title You Can't ___ Love"
       ],
       [
         "TRIO",
@@ -232,80 +233,85 @@
   },
   {
     "id": "vocal-group-memories-4",
-    "title": "The Temptations and a Vocal Lineup",
-    "description": "Recall the Temptations through a famous title, Motown connections, and the roles within a singing group.",
-    "cardDescription": "Recall the Temptations through a famous title, Motown connections, and the roles within a singing group.",
-    "subtheme": "The Temptations and a Vocal Lineup",
-    "focus": "A group can combine a lead line with backing harmonies and coordinated movement.",
-    "solvingTip": "Begin with the short title words, then identify the voice types.",
+    "title": "The Temptations and Familiar Title Words",
+    "description": "Recall the Temptations through ordinary words in My Girl, Cloud Nine, and other familiar titles.",
+    "cardDescription": "Recall the Temptations through ordinary words in My Girl, Cloud Nine, and other familiar titles.",
+    "subtheme": "The Temptations and Familiar Title Words",
+    "focus": "The clues give everyday meanings where possible, without asking for specialized vocal-register names.",
+    "solvingTip": "Start with a number, family word, or everyday object.",
     "words": [
       [
         "TEMPTATIONS",
-        "Motown vocal group known for My Girl"
+        "Motown group known for the song My Girl"
       ],
       [
         "GIRL",
-        "Word completing the Temptations title My ___"
-      ],
-      [
-        "MOTOWN",
-        "Record company associated with the Temptations"
-      ],
-      [
-        "FALSETTO",
-        "High vocal register often heard in soul singing"
-      ],
-      [
-        "QUINTET",
-        "Group of five performers"
-      ],
-      [
-        "BASS",
-        "Lowest usual male choral voice range"
-      ],
-      [
-        "TENOR",
-        "Male voice range above bass in many vocal groups"
-      ],
-      [
-        "LEAD",
-        "Main sung part supported by the other voices"
-      ],
-      [
-        "STEP",
-        "One movement in a coordinated stage routine"
-      ],
-      [
-        "MIC",
-        "Short name for a device amplifying a singer"
-      ],
-      [
-        "SOUL",
-        "Broad musical tradition associated with the Temptations"
+        "Young female person, completing the title My ___"
       ],
       [
         "CLOUD",
-        "Sky puff named before Nine in a Temptations title"
+        "White sky formation named before Nine in a hit title"
       ],
       [
         "NINE",
-        "Number completing the title Cloud ___"
+        "Number after eight, completing the title Cloud ___"
       ],
       [
         "PAPA",
-        "Informal father word beginning a Temptations title ending Was a Rollin' Stone"
+        "Informal father word beginning ___ Was a Rollin' Stone"
+      ],
+      [
+        "STONE",
+        "Rock word completing Papa Was a Rollin' ___"
+      ],
+      [
+        "SINGER",
+        "Person delivering one of the group's vocal lines"
+      ],
+      [
+        "VOICE",
+        "Human sound heard in the group's harmonies"
+      ],
+      [
+        "LEAD",
+        "Main vocal part supported by the other singers"
+      ],
+      [
+        "STEP",
+        "One movement in a coordinated stage dance"
+      ],
+      [
+        "DANCE",
+        "Move rhythmically to the group's music"
+      ],
+      [
+        "BAND",
+        "Instrumental group accompanying the voices"
+      ],
+      [
+        "MIC",
+        "Short name for a device amplifying the singers"
+      ],
+      [
+        "SOUL",
+        "Music tradition associated with many Temptations recordings"
+      ],
+      [
+        "MUSIC",
+        "Art made from organized sounds and rhythms"
       ]
     ],
     "answerNotes": {
-      "TEMPTATIONS": "The Temptations' membership changed over the years while the group name continued.",
-      "GIRL": "My Girl is a title associated with the group's 1960s recordings.",
-      "MOTOWN": "Motown released recordings by many groups, including the Supremes and Temptations.",
-      "FALSETTO": "Falsetto is a vocal register, not simply any high note.",
-      "QUINTET": "The word identifies a number of performers rather than a particular musical style."
+      "TEMPTATIONS": "The group's name continues across different lineups over time.",
+      "GIRL": "The ordinary meaning helps identify the title word.",
+      "CLOUD": "A cloud provides the everyday meaning for this song-title clue.",
+      "NINE": "The number meaning supplies help even without recalling the recording.",
+      "PAPA": "Papa is a familiar family word as well as a title word."
     },
     "requiredAnswers": [
       "TEMPTATIONS"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "vocal-group-memories-5",
@@ -322,7 +328,7 @@
       ],
       [
         "DON",
-        "Short first name of the older Everly brother"
+        "Everly brother often paired with Phil"
       ],
       [
         "PHIL",

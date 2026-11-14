@@ -1,10 +1,10 @@
 [
   {
     "id": "evening-sky",
-    "title": "The Moon’s Changing Shape",
-    "description": "Recognize the words used for the Moon’s illuminated shapes as seen from Earth during its monthly cycle.",
-    "cardDescription": "Recognize the words used for the Moon’s illuminated shapes as seen from Earth during its monthly cycle.",
-    "subtheme": "The Moon’s Changing Shape",
+    "title": "The Moon\u2019s Changing Shape",
+    "description": "Recognize the words used for the Moon\u2019s illuminated shapes as seen from Earth during its monthly cycle.",
+    "cardDescription": "Recognize the words used for the Moon\u2019s illuminated shapes as seen from Earth during its monthly cycle.",
+    "subtheme": "The Moon\u2019s Changing Shape",
     "focus": "Moon phases describe how much of the sunlit half we see. They normally result from the changing viewing geometry, rather than Earth casting a shadow on the Moon.",
     "solvingTip": "A clue about increasing or decreasing illumination asks for a change word. A shape clue asks for a named phase.",
     "words": [
@@ -160,89 +160,90 @@
   },
   {
     "id": "evening-sky-3",
-    "title": "A Telescope on Its Tripod",
-    "description": "Look at the parts of a small telescope and the support that keeps its view steady.",
-    "cardDescription": "Look at the parts of a small telescope and the support that keeps its view steady.",
-    "subtheme": "A Telescope on Its Tripod",
-    "focus": "Different telescope designs gather light with lenses, mirrors, or both. The clues identify parts by their roles, separating the main opening, viewing component, and supporting structure.",
-    "solvingTip": "Identify the job first: gathering light, sharpening the image, looking through it, or holding the instrument still.",
+    "title": "Looking at the Moon Through a Telescope",
+    "description": "Enjoy a telescope through its lens, stand, view, and the Moon in the night sky.",
+    "cardDescription": "Enjoy a telescope through its lens, stand, view, and the Moon in the night sky.",
+    "subtheme": "Looking at the Moon Through a Telescope",
+    "focus": "The instrument makes a distant object easier to see. Its controls can help bring the view into focus.",
+    "solvingTip": "Short sky and body-part words help with the instrument's name.",
     "words": [
       [
         "TELESCOPE",
-        "Instrument that gathers light to show distant objects in detail"
-      ],
-      [
-        "EYEPIECE",
-        "Small viewing component at the observer's end of a telescope"
-      ],
-      [
-        "APERTURE",
-        "Diameter of a telescope's main light-gathering opening"
-      ],
-      [
-        "TRIPOD",
-        "Three-legged stand supporting a small telescope"
-      ],
-      [
-        "FOCUS",
-        "Adjustment that makes the viewed image appear sharp"
+        "Instrument used to see distant sky objects in more detail"
       ],
       [
         "LENS",
-        "Curved transparent optical piece used in a refracting design"
+        "Curved clear piece used in some telescopes"
       ],
       [
-        "MIRROR",
-        "Reflecting optical surface used in a reflecting design"
+        "FOCUS",
+        "Adjust the instrument until the image looks sharp"
+      ],
+      [
+        "STAND",
+        "Support holding the telescope steady"
+      ],
+      [
+        "MOON",
+        "Earth's familiar night-sky neighbor viewed through the telescope"
+      ],
+      [
+        "STAR",
+        "Tiny-looking point of light in the night sky"
+      ],
+      [
+        "SKY",
+        "Expanse above the observer"
+      ],
+      [
+        "NIGHT",
+        "Dark part of the day suited to viewing many sky objects"
+      ],
+      [
+        "KNOB",
+        "Small control turned to adjust the telescope"
       ],
       [
         "TUBE",
-        "Long body holding a small telescope's optical parts"
-      ],
-      [
-        "MOUNT",
-        "Support that holds and aims the optical tube"
-      ],
-      [
-        "GLASS",
-        "Transparent material used in many optical lenses"
+        "Long body of the small viewing instrument"
       ],
       [
         "CAP",
-        "Removable cover protecting the front opening"
+        "Cover protecting the telescope's front opening"
       ],
       [
         "VIEW",
         "Scene seen through the instrument"
       ],
       [
-        "IMAGE",
-        "Optical representation formed by collected light"
+        "CLEAR",
+        "Easy to see, as a sharply focused image is"
       ],
       [
-        "KNOB",
-        "Small turning control used for an adjustment"
+        "LOOK",
+        "Direct the eyes toward the telescope's view"
       ]
     ],
     "answerNotes": {
-      "TELESCOPE": "A telescope gathers light to form an image. Its design determines whether lenses, mirrors, or a combination do the main optical work.",
-      "EYEPIECE": "The eyepiece is where the observer looks. It is distinct from the main lens or mirror gathering light.",
-      "APERTURE": "Aperture describes the size of the opening. It is not another word for magnification.",
-      "TRIPOD": "Three legs provide a stable support on a range of surfaces. The mount above them holds and aims the instrument.",
-      "FOCUS": "Focus changes image sharpness. Merely making an image larger does not guarantee that it will look clearer."
+      "TELESCOPE": "A telescope gathers light to produce a view of a distant object.",
+      "LENS": "Some designs use lenses, while others use mirrors.",
+      "FOCUS": "Focus changes image sharpness rather than the Moon's actual distance.",
+      "STAND": "A stand supports the instrument while it is aimed and viewed.",
+      "MOON": "The Moon shines by reflecting sunlight rather than making its own light."
     },
     "requiredAnswers": [
       "TELESCOPE"
-    ]
+    ],
+    "revision": 2
   },
   {
     "id": "evening-sky-4",
     "title": "Neighbors in the Solar System",
-    "description": "Name the eight planets and the familiar objects and motions associated with the Sun’s planetary system.",
-    "cardDescription": "Name the eight planets and the familiar objects and motions associated with the Sun’s planetary system.",
+    "description": "Name the eight planets and the familiar objects and motions associated with the Sun\u2019s planetary system.",
+    "cardDescription": "Name the eight planets and the familiar objects and motions associated with the Sun\u2019s planetary system.",
     "subtheme": "Neighbors in the Solar System",
     "focus": "This scene uses the modern eight-planet grouping. Planet names are paired with clear distinguishing descriptions, while the shorter clues concern paths, satellites, and the central star.",
-    "solvingTip": "Read each planet’s defining feature carefully. Order, size, and a familiar visible characteristic provide different routes to an answer.",
+    "solvingTip": "Read each planet\u2019s defining feature carefully. Order, size, and a familiar visible characteristic provide different routes to an answer.",
     "words": [
       [
         "MERCURY",
@@ -318,7 +319,7 @@
     "description": "Separate the names for icy visitors, rocky space bodies, and the brief streaks seen when material enters our atmosphere.",
     "cardDescription": "Separate the names for icy visitors, rocky space bodies, and the brief streaks seen when material enters our atmosphere.",
     "subtheme": "Meteors and Comets",
-    "focus": "A space object, an atmospheric light event, and a surviving piece on the ground have different names. Comet tails also have a direction set mainly by the Sun’s influence.",
+    "focus": "A space object, an atmospheric light event, and a surviving piece on the ground have different names. Comet tails also have a direction set mainly by the Sun\u2019s influence.",
     "solvingTip": "Pay attention to location: in space, glowing in the atmosphere, or on the ground. Each location suggests a different term.",
     "words": [
       [

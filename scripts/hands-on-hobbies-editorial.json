@@ -2,11 +2,11 @@
   {
     "id": "hands-on-hobbies",
     "title": "A Jigsaw on the Table",
-    "description": "Piece together familiar words for a picture puzzle’s borders, tabs, and sorting work.",
-    "cardDescription": "Piece together familiar words for a picture puzzle’s borders, tabs, and sorting work.",
+    "description": "Piece together familiar words for a picture puzzle\u2019s borders, tabs, and sorting work.",
+    "cardDescription": "Piece together familiar words for a picture puzzle\u2019s borders, tabs, and sorting work.",
     "subtheme": "A Jigsaw on the Table",
     "focus": "This puzzle concerns the physical picture puzzle made of fitting pieces. A few answers name an edge or a corner, while others describe an action used to arrange the pieces.",
-    "solvingTip": "Separate a piece’s shape from the completed picture. Use the short sorting and turning words to cross the longer puzzle terms.",
+    "solvingTip": "Separate a piece\u2019s shape from the completed picture. Use the short sorting and turning words to cross the longer puzzle terms.",
     "words": [
       [
         "JIGSAW",
@@ -155,82 +155,81 @@
   },
   {
     "id": "hands-on-hobbies-3",
-    "title": "Working at a Small Loom",
-    "description": "Discover weaving through the threads, moving parts, and edges of a small loom.",
-    "cardDescription": "Discover weaving through the threads, moving parts, and edges of a small loom.",
-    "subtheme": "Working at a Small Loom",
-    "focus": "This scene distinguishes lengthwise threads from crosswise ones and names the parts that guide them. The clues describe vocabulary rather than a weaving procedure.",
-    "solvingTip": "Use position words to separate the two thread directions. Short ordinary words can help with a specialized loom part.",
+    "title": "A Small Loom on the Craft Table",
+    "description": "Explore a small loom through its frame, yarn, colors, and a simple woven mat.",
+    "cardDescription": "Explore a small loom through its frame, yarn, colors, and a simple woven mat.",
+    "subtheme": "A Small Loom on the Craft Table",
+    "focus": "Threads cross over and under one another to make cloth. The clues use ordinary materials and actions.",
+    "solvingTip": "Begin with a material, color word, or familiar hand action.",
     "words": [
       [
         "LOOM",
-        "Frame or machine on which threads are woven into cloth"
+        "Frame used to weave threads into cloth"
       ],
       [
-        "WARP",
-        "Lengthwise threads held under tension on a loom"
-      ],
-      [
-        "WEFT",
-        "Crosswise thread passed through a loom's lengthwise threads"
-      ],
-      [
-        "SHUTTLE",
-        "Weaving tool carrying crosswise yarn through an opening"
-      ],
-      [
-        "HEDDLE",
-        "Loom device with an opening that controls a lengthwise thread"
-      ],
-      [
-        "BEATER",
-        "Loom part used to press newly woven thread into place"
-      ],
-      [
-        "REED",
-        "Comblike loom part that spaces threads and helps pack the weave"
-      ],
-      [
-        "SHED",
-        "Opening between separated warp threads on a loom"
+        "FRAME",
+        "Outer support holding the weaving in place"
       ],
       [
         "YARN",
-        "Spun strand supplied to a weaving project"
+        "Spun strand used for the small weaving project"
+      ],
+      [
+        "WEAVE",
+        "Make cloth by passing threads over and under one another"
+      ],
+      [
+        "MAT",
+        "Small flat woven piece laid on a surface"
       ],
       [
         "THREAD",
-        "Fine strand forming one element of woven fabric"
-      ],
-      [
-        "SELVAGE",
-        "Finished lengthwise edge of woven cloth"
-      ],
-      [
-        "WOVEN",
-        "Made by interlacing crossing sets of threads"
+        "Fine strand crossing the little loom"
       ],
       [
         "ROW",
-        "One line of newly placed thread across a weaving"
+        "One line of newly added yarn across the project"
+      ],
+      [
+        "LOOP",
+        "Curved turn of yarn with an opening in it"
+      ],
+      [
+        "COLOR",
+        "Feature changed by choosing a different yarn"
       ],
       [
         "CLOTH",
-        "Fabric produced by interlacing threads on a loom"
+        "Fabric made from the crossing threads"
+      ],
+      [
+        "SOFT",
+        "Pleasantly yielding to the touch, as some yarn is"
+      ],
+      [
+        "HAND",
+        "Body part guiding the yarn across the frame"
+      ],
+      [
+        "PULL",
+        "Draw a strand through the opening"
+      ],
+      [
+        "WOOD",
+        "Material used for many small loom frames"
       ]
     ],
     "answerNotes": {
-      "LOOM": "A loom holds and organizes threads during weaving. It differs from the finished fabric it produces.",
-      "WARP": "Warp threads run lengthwise in the woven cloth. Weft passes across them.",
-      "WEFT": "Weft travels across the warp. The two words name different thread directions, not two different fiber materials.",
-      "SHUTTLE": "A shuttle carries the weft through the shed. It is a tool rather than the entire loom.",
-      "HEDDLE": "A heddle helps separate warp threads to make a weaving opening. Its opening carries a thread, not the shuttle itself."
+      "LOOM": "A loom holds threads while others are passed across them.",
+      "FRAME": "The frame provides structure rather than becoming the woven cloth.",
+      "YARN": "Yarn can be made from different fibers.",
+      "WEAVE": "Weaving interlaces threads rather than tying every crossing into a knot.",
+      "MAT": "A mat is one possible simple project made on a small loom."
     },
     "requiredAnswers": [
-      "LOOM",
-      "WARP",
-      "WEFT"
-    ]
+      "LOOM"
+    ],
+    "revision": 2
   },
   {
     "id": "hands-on-hobbies-4",

@@ -3,14 +3,14 @@
 ## Prepared
 
 - Astro static site, local system fonts and no third-party runtime requests.
-- 500 editorial mini crosswords across 100 series; 5,587 clues and 1500 answer explanations.
+- 500 editorial mini crosswords across 100 series; 5,590 clues and 1500 answer explanations.
 - 500 playable pages and 1000 printable puzzle/answer pages, plus eight interest collections.
 - Local progress saving and optional sound, large clues, and enlarged board.
 - Default 18pt two-page printing, with a compact 13pt single-page choice; separate puzzle/answer routes.
 - Christmas collection groups 27 puzzles with direct play/print and return links.
 - Unique indexable titles/descriptions, production canonical URLs, sitemap and robots file.
 - WebSite/WebPage and matching visible breadcrumb data; local sharing image.
-- Post-build SEO audit across all 1644 HTML pages.
+- Post-build SEO audit across all 1696 HTML pages.
 - The earlier 220-puzzle editorial reading is recorded in [the November 13 review](puzzle-review-2026-11-13.md); subsequent source reviews and validation are recorded with the [300](expansion-300.md) and [400](expansion-400.md) expansions. Earlier answer placements and progress keys are retained.
 - Print copies excluded from indexing to avoid competing utility pages.
 
@@ -28,4 +28,4 @@ The supplied Semrush exports support large-print and printable intent. The Novem
 
 ## Everyday-vocabulary rewrite
 
-The 27 specialist-vocabulary boards have second editions using familiar scenes and direct clues. Their first editions are preserved on noindex continuation routes with separate progress keys; the other 473 current games and original 100 archives are unchanged. See [the rewrite](easy-rewrite-2026-11-14.md). Sixty-six context/name-recall reviews remain open; a clean prompt-based screen is not target-reader validation.
+The 27 specialist-priority replacements were followed by 52 context-review replacements and 18 simpler clues in 14 retained boards. All 93 initially flagged games now have recorded editorial decisions. The other 407 current games and original 100 archives are unchanged from the initial triage. Seventy-nine numbered predecessors remain usable with separate progress keys and noindex routes. See [the rewrite](easy-rewrite-2026-11-14.md) and [context review](context-review-2026-11-14.md). Ten current prompt flags remain visible with case-specific review decisions; these are not target-reader validation.

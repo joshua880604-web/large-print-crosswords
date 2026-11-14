@@ -78,84 +78,81 @@
   },
   {
     "id": "collections-and-keepsakes-2",
-    "title": "Glassware in a Display Cabinet",
-    "description": "Look at collectible glass through its surface effects, supporting foot, and familiar vessel shapes.",
-    "cardDescription": "Look at collectible glass through its surface effects, supporting foot, and familiar vessel shapes.",
-    "subtheme": "Glassware in a Display Cabinet",
-    "focus": "Glass collectors distinguish material effects from shapes and manufacturing marks. The clues identify those features without claiming a color or pattern proves an object\u2019s age or value.",
-    "solvingTip": "Separate a surface appearance from a vessel part or a production mark.",
+    "title": "A Family Glass Vase",
+    "description": "Look at a familiar glass vase through its shape, colors, rim, and place in a family cabinet.",
+    "cardDescription": "Look at a familiar glass vase through its shape, colors, rim, and place in a family cabinet.",
+    "subtheme": "A Family Glass Vase",
+    "focus": "The vase holds flowers, while its base supports it on a shelf. The clues use visible features rather than glassmaking terminology.",
+    "solvingTip": "Start with a color or a short part of the vase.",
     "words": [
       [
-        "OPALESCENT",
-        "Having a milky or shifting opal-like appearance, as some glass does"
-      ],
-      [
-        "PONTIL",
-        "Glassworker's supporting rod whose attachment can leave a base mark"
-      ],
-      [
-        "MILKGLASS",
-        "Opaque white decorative glass, with spaces omitted"
-      ],
-      [
-        "ETCH",
-        "To make a surface design by controlled chemical or abrasive removal"
-      ],
-      [
-        "FOOT",
-        "Supporting base beneath a stemmed glass vessel"
-      ],
-      [
-        "BOWL",
-        "Rounded upper holding part of a stemmed glass"
-      ],
-      [
         "VASE",
-        "Vessel used for displaying cut flowers"
+        "Decorative container holding cut flowers"
       ],
       [
         "RIM",
-        "Top edge around a glass vessel's opening"
+        "Top edge around the vase's opening"
       ],
       [
-        "STEM",
-        "Narrow support between a glass bowl and foot"
-      ],
-      [
-        "TINT",
-        "Faint coloring within a piece of glass"
-      ],
-      [
-        "CLEAR",
-        "Transparent and without strong visible coloration"
+        "BASE",
+        "Bottom part supporting the vase upright"
       ],
       [
         "AMBER",
-        "Yellow-brown color found in many glass objects"
+        "Golden-brown color seen in some glass vases"
+      ],
+      [
+        "STEM",
+        "Flower stalk standing in the vase"
+      ],
+      [
+        "GLASS",
+        "Hard material from which this clear vase is made"
+      ],
+      [
+        "FLOWER",
+        "Cut bloom displayed in the container"
+      ],
+      [
+        "SHELF",
+        "Flat support beneath the family display"
       ],
       [
         "PINK",
-        "Rosy color used in some decorative glassware"
+        "Rosy color of some decorative vases"
       ],
       [
-        "MARK",
-        "Manufacturer's symbol or other identifying impression"
+        "GREEN",
+        "Leaf-like color of some colored glass"
       ],
       [
-        "TRAY",
-        "Flat support holding small glass pieces in a cabinet"
+        "CLEAR",
+        "Easy to see through, as an uncolored vase may be"
+      ],
+      [
+        "SMOOTH",
+        "Even to the touch, as the vase's polished side is"
+      ],
+      [
+        "ROUND",
+        "Circular in outline, as the vase's mouth may be"
+      ],
+      [
+        "WATER",
+        "Liquid supplied to the cut flower stems"
       ]
     ],
     "answerNotes": {
-      "OPALESCENT": "Opalescent describes an optical appearance; it does not by itself date or authenticate a glass object.",
-      "PONTIL": "A pontil mark relates to manufacture; not every mark or rough spot proves the same process or age.",
-      "MILKGLASS": "Milk glass is an appearance category rather than glass containing dairy milk.",
-      "ETCH": "Etching changes the surface rather than applying an ordinary painted layer on top.",
-      "FOOT": "The foot supports the object; the stem joins it to the bowl above."
+      "VASE": "A vase holds cut stems and water rather than soil and growing roots.",
+      "RIM": "The rim surrounds the opening rather than supporting the vessel underneath.",
+      "BASE": "The base is the supporting bottom rather than the upper opening.",
+      "AMBER": "Amber names a color here rather than the material from which the vase is made.",
+      "STEM": "A cut stem reaches into the water while the blossom stays above the opening."
     },
     "requiredAnswers": [
-      "OPALESCENT"
-    ]
+      "VASE"
+    ],
+    "revision": 2
   },
   {
     "id": "collections-and-keepsakes-3",

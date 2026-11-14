@@ -2,10 +2,10 @@
   "date": "2026-11-14",
   "scope": "Model-assisted editorial triage of selected answers and clue wording. These prompts do not certify difficulty or reader suitability.",
   "puzzles": 500,
-  "clues": 5587,
+  "clues": 5590,
   "dispositions": {
-    "candidate-retain": 434,
-    "review-context": 66
+    "candidate-retain": 490,
+    "review-context": 10
   },
   "selectedSpecialistAnswers": 0,
   "gamesWithExampleTrendMatches": 0,

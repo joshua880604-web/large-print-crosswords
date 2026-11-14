@@ -10,7 +10,8 @@ test('home navigation, filtering, and static content',async({page})=>{
  await expect(page.locator('[data-title]:visible')).toHaveCount(1);
  await page.getByLabel('Find a puzzle').fill('backyard birds');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Find a puzzle').fill('market morning');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
- await page.getByLabel('Find a puzzle').fill('on the road');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
+ await page.getByLabel('Find a puzzle').fill('on the road');await expect(page.locator('[data-title]:visible')).toHaveCount(6);
+ for(const id of ['on-the-road','on-the-road-2','on-the-road-3','on-the-road-4','on-the-road-5','country-voice-memories-4'])await expect(page.locator(`a.puzzle-card[href="/crosswords/${id}/"]`)).toBeVisible();
  await page.getByLabel('Find a puzzle').fill('cozy at home');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Find a puzzle').fill('a day at the farm');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
  await page.getByLabel('Find a puzzle').fill('sunday baking');await expect(page.locator('[data-title]:visible')).toHaveCount(5);

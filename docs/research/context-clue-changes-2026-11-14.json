@@ -1,0 +1,110 @@
+[
+  {
+    "id": "backyard-birds",
+    "answer": "GOLDFINCH",
+    "before": "American ___: a small bird whose male turns bright yellow in breeding season",
+    "after": "American ___: a small yellow songbird"
+  },
+  {
+    "id": "flower-favorites-3",
+    "answer": "DAHLIA",
+    "before": "Garden flower known for blooms ranging from small pompons to broad dinner-plate forms",
+    "after": "Garden flower with rounded blooms, beginning with D"
+  },
+  {
+    "id": "state-capital-stops",
+    "answer": "MONTPELIER",
+    "before": "State capital of Vermont",
+    "after": "Vermont capital beginning with M"
+  },
+  {
+    "id": "state-capital-stops-5",
+    "answer": "CARSONCITY",
+    "before": "State capital of Nevada, with spaces omitted",
+    "after": "Nevada capital beginning with C, two words"
+  },
+  {
+    "id": "american-history-scenes-5",
+    "answer": "ERIE",
+    "before": "Lake giving its name to the canal linking the Great Lakes with the Hudson route",
+    "after": "Great Lake sharing its name with a New York canal"
+  },
+  {
+    "id": "texas-scenes-5",
+    "answer": "BIGBEND",
+    "before": "Texas national park named for a curve in the Rio Grande, with spaces omitted",
+    "after": "Texas park named for a large river curve, two words"
+  },
+  {
+    "id": "texas-scenes-5",
+    "answer": "ALAMO",
+    "before": "Historic San Antonio mission associated with an 1836 battle",
+    "after": "Famous old mission in San Antonio"
+  },
+  {
+    "id": "word-patterns-3",
+    "answer": "BEDBUG",
+    "before": "Small biting insect whose name joins sleeping furniture and an informal insect word",
+    "after": "Tiny biting insect: bed plus bug"
+  },
+  {
+    "id": "word-patterns-3",
+    "answer": "COWBOY",
+    "before": "Ranch worker word joining a female bovine and a male child",
+    "after": "Ranch worker: cow plus boy"
+  },
+  {
+    "id": "country-voice-memories",
+    "answer": "TENNESSEE",
+    "before": "State where Dolly Parton was born",
+    "after": "Nashville's state, home to the Great Smoky Mountains"
+  },
+  {
+    "id": "country-voice-memories-2",
+    "answer": "NELSON",
+    "before": "Willie who wrote Crazy",
+    "after": "Willie ___, well-known country singer"
+  },
+  {
+    "id": "country-voice-memories-3",
+    "answer": "CARTER",
+    "before": "June's surname before her marriage to Johnny Cash",
+    "after": "June ___ Cash, country singer"
+  },
+  {
+    "id": "country-voice-memories-3",
+    "answer": "FIRE",
+    "before": "Word completing the Johnny Cash title Ring of ___",
+    "after": "Flames, completing the Cash title Ring of ___"
+  },
+  {
+    "id": "country-voice-memories-3",
+    "answer": "WALK",
+    "before": "Verb in the Johnny Cash title I ___ the Line",
+    "after": "Go on foot, completing I ___ the Line"
+  },
+  {
+    "id": "country-voice-memories-5",
+    "answer": "LONESOME",
+    "before": "Lonely-sounding word after I'm So in a Hank Williams title",
+    "after": "Lonely, completing I'm So ___ I Could Cry"
+  },
+  {
+    "id": "vocal-group-memories",
+    "answer": "ABBEY",
+    "before": "Word before Road in a Beatles album title",
+    "after": "Monastery word before Road in a Beatles album title"
+  },
+  {
+    "id": "vocal-group-memories-3",
+    "answer": "HURRY",
+    "before": "Word after You Can't in a Supremes song title",
+    "after": "Rush, completing the Supremes title You Can't ___ Love"
+  },
+  {
+    "id": "vocal-group-memories-5",
+    "answer": "DON",
+    "before": "Short first name of the older Everly brother",
+    "after": "Everly brother often paired with Phil"
+  }
+]
