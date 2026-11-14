@@ -1320,7 +1320,7 @@
       },
       {
         "answer": "YAM",
-        "clue": "Starchy tuber whose name is often used loosely for sweet potatoes in U.S. stores",
+        "clue": "Starchy tropical tuber, distinct from a sweet potato",
         "row": 2,
         "col": 1,
         "direction": "across",
@@ -1893,7 +1893,7 @@
       },
       {
         "answer": "GRAPE",
-        "clue": "Small fruit that grows in bunches and is often used to make juice",
+        "clue": "Small fruit growing in bunches, often used to make wine",
         "row": 3,
         "col": 3,
         "direction": "across",
@@ -2498,7 +2498,7 @@
       },
       {
         "answer": "AZALEA",
-        "clue": "Flowering shrub related to the rhododendron",
+        "clue": "Spring shrub with clusters of pink or white flowers",
         "row": 4,
         "col": 3,
         "direction": "down",
@@ -2562,7 +2562,7 @@
       },
       {
         "answer": "IRIS",
-        "clue": "Flower with bearded varieties and a name shared with part of the eye",
+        "clue": "Flower named like the colored part of an eye",
         "row": 2,
         "col": 1,
         "direction": "down",
@@ -2570,7 +2570,7 @@
       },
       {
         "answer": "BULB",
-        "clue": "Underground storage structure from which a tulip grows",
+        "clue": "Underground part from which a tulip grows",
         "row": 1,
         "col": 8,
         "direction": "down",
@@ -12692,7 +12692,7 @@
       },
       {
         "answer": "HIT",
-        "clue": "Fair batted ball that lets the batter reach safely without an error or fielder's choice",
+        "clue": "Single, double, triple, or home run in baseball",
         "row": 6,
         "col": 0,
         "direction": "across",
@@ -12821,7 +12821,7 @@
       },
       {
         "answer": "HIT",
-        "clue": "Batter's credited safe reach on a fair ball, excluding an error or fielder's choice",
+        "clue": "Scorecard credit for a single, double, triple, or homer",
         "row": 3,
         "col": 0,
         "direction": "across",
@@ -13539,7 +13539,7 @@
       },
       {
         "answer": "DEUCE",
-        "clue": "Tennis score in which both sides have at least three points and are level",
+        "clue": "Forty-all on a tennis scoreboard",
         "row": 3,
         "col": 0,
         "direction": "across",
@@ -13991,7 +13991,7 @@
     "entries": [
       {
         "answer": "CORNER",
-        "clue": "Kick awarded when a defender last touches a ball over the goal line without a goal",
+        "clue": "Kick from a flag-marked angle of a soccer field",
         "row": 5,
         "col": 2,
         "direction": "across",
@@ -14628,7 +14628,7 @@
       },
       {
         "answer": "SERVE",
-        "clue": "Play that sends the ball into action at the start of a rally",
+        "clue": "Shot that starts a table-tennis rally",
         "row": 9,
         "col": 0,
         "direction": "across",
@@ -14636,7 +14636,7 @@
       },
       {
         "answer": "TABLE",
-        "clue": "Raised flat playing surface carrying the net in a paddle-and-ball game",
+        "clue": "Flat surface used for a paddle-and-ball game",
         "row": 3,
         "col": 3,
         "direction": "down",
@@ -26187,7 +26187,7 @@
       },
       {
         "answer": "ORVILLE",
-        "clue": "Wright brother at the controls for the first powered flight on December 17, 1903",
+        "clue": "Wright brother who piloted the 1903 Flyer first",
         "row": 0,
         "col": 7,
         "direction": "down",
@@ -26203,7 +26203,7 @@
       },
       {
         "answer": "RUDDER",
-        "clue": "Movable aircraft surface used to help control yaw",
+        "clue": "Tail part controlling an airplane's side-to-side nose movement",
         "row": 5,
         "col": 9,
         "direction": "down",
@@ -28478,7 +28478,7 @@
       },
       {
         "answer": "EROSION",
-        "clue": "Wearing away and movement of rock or soil by water and other agents",
+        "clue": "Wearing away and carrying off soil by wind or water",
         "row": 0,
         "col": 8,
         "direction": "down",
@@ -30139,7 +30139,7 @@
       },
       {
         "answer": "NEW",
-        "clue": "Phase in which the Moon is near the Sun's direction in our sky",
+        "clue": "Moon phase usually hidden from our view",
         "row": 7,
         "col": 10,
         "direction": "down",
@@ -33366,7 +33366,7 @@
     "entries": [
       {
         "answer": "DISSOLVE",
-        "clue": "To become dispersed in a liquid at the molecular or ionic level, as sugar does in water",
+        "clue": "Form a solution in liquid, as sugar does in tea",
         "row": 5,
         "col": 1,
         "direction": "across",
@@ -33398,7 +33398,7 @@
       },
       {
         "answer": "YEAST",
-        "clue": "Microscopic fungus used to help many bread doughs rise",
+        "clue": "Tiny living organism that helps bread dough rise",
         "row": 8,
         "col": 2,
         "direction": "across",
@@ -33414,7 +33414,7 @@
       },
       {
         "answer": "ACID",
-        "clue": "Chemical category illustrated by the citric compound in lemon juice",
+        "clue": "Chemical type found in vinegar and lemon juice",
         "row": 2,
         "col": 1,
         "direction": "down",
@@ -33422,7 +33422,7 @@
       },
       {
         "answer": "BASE",
-        "clue": "Chemical category illustrated by baking soda's mild alkalinity",
+        "clue": "Chemical opposite of an acid",
         "row": 2,
         "col": 0,
         "direction": "across",
@@ -33430,7 +33430,7 @@
       },
       {
         "answer": "SALT",
-        "clue": "Common seasoning whose main compound is sodium chloride",
+        "clue": "Everyday seasoning often paired with pepper",
         "row": 3,
         "col": 6,
         "direction": "down",
@@ -33446,7 +33446,7 @@
       },
       {
         "answer": "GEL",
-        "clue": "Soft semisolid network, as in a set jelly",
+        "clue": "Jelly-like substance that holds its shape",
         "row": 1,
         "col": 3,
         "direction": "down",
@@ -54394,7 +54394,7 @@
       },
       {
         "answer": "COOKIN",
-        "clue": "Shortened cooking word in the title Hey, Good Lookin' is not this; preparing food, informally",
+        "clue": "Preparing food, informally, with the final g dropped",
         "row": 9,
         "col": 3,
         "direction": "across",

@@ -166,7 +166,7 @@
       ],
       [
         "HIT",
-        "Fair batted ball that lets the batter reach safely without an error or fielder's choice"
+        "Single, double, triple, or home run in baseball"
       ],
       [
         "CATCH",
@@ -235,7 +235,7 @@
       ],
       [
         "HIT",
-        "Batter's credited safe reach on a fair ball, excluding an error or fielder's choice"
+        "Scorecard credit for a single, double, triple, or homer"
       ],
       [
         "ERROR",

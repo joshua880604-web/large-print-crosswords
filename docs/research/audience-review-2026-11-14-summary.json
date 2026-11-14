@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-14",
+  "scope": "Model-assisted editorial triage of selected answers and clue wording. These prompts do not certify difficulty or reader suitability.",
+  "puzzles": 500,
+  "clues": 5592,
+  "dispositions": {
+    "candidate-retain": 407,
+    "review-context": 66,
+    "replace-vocabulary": 27
+  },
+  "selectedSpecialistAnswers": 32,
+  "gamesWithExampleTrendMatches": 0,
+  "note": "No flag is not an ease certification. No content, board, indexing directive, or progress key was changed by this review script."
+}

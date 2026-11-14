@@ -199,3 +199,9 @@ Source subjects may declare `requiredAnswers` for defining words that must appea
 When a first-edition grid is changed in a future release, preserve its numbered predecessor progress key and implement/test that archive bridge. The current legacy bridge applies to the original hundred archived puzzles; increasing a revision alone is not a complete migration for a revision-1 puzzle.
 
 Clue-only corrections preserve the existing answer placements, IDs and revision keys. The full-catalog review is recorded in [the November 13 review](docs/puzzle-review-2026-11-13.md). Original archive JSON remains immutable; `src/data/archive-clue-clarifications.json` can clarify an exact old answer/clue pair at render time. Affected archive pages show the earlier wording and the reason for the clarification without changing the saved board.
+
+## Audience-first editorial work
+
+The user prioritizes easy, large-print, printable, coherent themes over puzzle counts. See [the audience standard](docs/audience-content-standard.md), [the 500-row review ledger](docs/research/audience-review-2026-11-14.csv), and repository `AGENTS.md`. The November 14 triage flags 27 games for specialist-vocabulary replacement/review and 66 for context review; 407 unflagged candidates are not certified easy. Twenty-two clues in thirteen games were simplified without changing boards or progress keys.
+
+Run `python3 scripts/review-audience.py --date YYYY-MM-DD` to refresh a dated review ledger using the curated criteria. This records editorial prompts; it does not edit puzzles, change indexing, or certify suitability. Familiarity must be judged in context and, when available, with real reader feedback. Do not use longer introductions, exact-pair uniqueness, or a low automated score as a substitute for reader value.
