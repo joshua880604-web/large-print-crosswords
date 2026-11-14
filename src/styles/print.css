@@ -1,0 +1,25 @@
+.print-layout-settings{margin:20px 0}
+.print-layout-settings label{display:block;font-weight:600;margin-bottom:6px}
+.print-layout-settings select{max-width:100%;padding:10px 14px;border:1px solid var(--muted);border-radius:4px;background:white;color:var(--ink)}
+.print-layout-settings p{font-size:17px;margin-top:8px}
+.print-workspace .print-clues p{overflow-wrap:anywhere}
+.print-workspace .print-repeat-title{font-size:28px;margin:0 0 20px}
+.print-workspace[data-print-layout="compact"] .print-repeat-title,
+.print-workspace[data-print-layout="compact"] .print-overview-footer{display:none}
+.print-workspace[data-print-layout="large"] .print-clue-sheet{border-top:1px dashed var(--line);padding-top:24px;margin-top:24px}
+.print-workspace[data-print-layout="large"] .print-clues p{font-size:24px;line-height:1.4}
+@media screen and (max-width:700px){.print-workspace[data-print-layout="large"] .print-clues{grid-template-columns:1fr}}
+@media print{
+ .print-workspace[data-print-layout="large"] .print-overview{break-inside:avoid}
+ .print-workspace[data-print-layout="large"] .print-board{width:var(--large-print-board-width);max-width:none;max-height:none;margin:18px auto}
+ .print-workspace[data-print-layout="large"] .mini-cell{font-size:24pt;padding-top:6px}
+ .print-workspace[data-print-layout="large"] .mini-cell small{font-size:10pt;line-height:1;top:1px}
+ .print-workspace[data-print-layout="large"] .print-clue-sheet{break-before:page;border:0;padding:0;margin:0}
+ .print-workspace[data-print-layout="large"] .print-repeat-title{font-size:22pt;margin:0 0 12px}
+ .print-workspace[data-print-layout="large"] .print-clues{display:block;column-count:2;column-gap:.3in;column-fill:balance}
+ .print-workspace[data-print-layout="large"] .print-clues section{break-inside:auto}
+ .print-workspace[data-print-layout="large"] .print-clues h2{font-size:20pt;break-after:avoid;margin:0 0 10px}
+ .print-workspace[data-print-layout="large"] .print-clues p{font-size:18pt;line-height:1.4;margin-bottom:10px;break-inside:avoid}
+ .print-workspace[data-print-layout="large"] .print-clues section+section h2{margin-top:18px}
+ .print-workspace .print-footer{break-inside:avoid}
+}

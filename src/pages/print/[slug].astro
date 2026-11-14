@@ -1,7 +1,43 @@
 ---
-import Layout from '../../layouts/Layout.astro';import MiniGrid from '../../components/MiniGrid.astro';import puzzles from '../../data/puzzles.json';
+import Layout from '../../layouts/Layout.astro';
+import MiniGrid from '../../components/MiniGrid.astro';
+import puzzles from '../../data/puzzles.json';
+import '../../styles/print.css';
 export function getStaticPaths(){return puzzles.flatMap(p=>[{params:{slug:p.id},props:{puzzle:p,answers:false}},{params:{slug:p.id+'-answers'},props:{puzzle:p,answers:true}}]);}
 const {puzzle,answers}=Astro.props;
+const ratio=Math.min(1,puzzle.cols/puzzle.rows);
 ---
-<Layout noindex title={`${puzzle.title} — ${answers?'Answer Sheet':'Printable Crossword'}`}><div class="print-toolbar"><div class="print-controls"><button class="button" id="print-sheet">Print {answers?'answers':'puzzle'}</button><a class="button button-outline" href={`/print/${puzzle.id}${answers?'':'-answers'}/`}>{answers?'Puzzle sheet':'Separate answer sheet'}</a><a class="button button-outline" href={`/crosswords/${puzzle.id}/`}>Play online</a></div><p>Choose US Letter, portrait, and disable browser headers and footers. To download, choose “Save as PDF” in the print window.</p></div><article class="print-page"><p class="eyebrow">LARGE PRINT CROSSWORDS · {answers?'ANSWER SHEET':'EASY THEMED MINI'}</p><h1>{puzzle.title}{answers?' — Answers':''}</h1><p class="print-description">{puzzle.description}</p><div class="print-board" style={`--print-board-width:${3.6*Math.min(1,puzzle.cols/puzzle.rows)}in`}><MiniGrid puzzle={puzzle} filled={answers}/></div><div class="print-clues">{['across','down'].map(d=><section><h2>{d==='across'?'Across':'Down'}</h2>{puzzle.entries.filter(e=>e.direction===d).sort((a,b)=>a.number-b.number).map(e=><p><strong>{e.number}.</strong> {answers?e.answer:`${e.clue} (${e.answer.length})`}</p>)}</section>)}</div><p class="print-footer">largeprintcrosswords.com · Free to print for personal use and noncommercial group activities.</p></article></Layout>
-<script>document.querySelector('#print-sheet')?.addEventListener('click',()=>window.print());</script>
+<Layout noindex title={`${puzzle.title} — ${answers?'Answer Sheet':'Printable Crossword'}`}>
+<div class="print-workspace" data-print-layout="large" data-sheet-kind={answers?'answers':'clues'}>
+<div class="print-toolbar"><div class="print-controls"><button class="button" id="print-sheet" disabled>Print {answers?'answers':'puzzle'}</button><a class="button button-outline" data-print-peer href={`/print/${puzzle.id}${answers?'':'-answers'}/`}>{answers?'Puzzle sheet':'Separate answer sheet'}</a><a class="button button-outline" href={`/crosswords/${puzzle.id}/`}>Play online</a></div>
+<div class="print-layout-settings"><label for="print-layout">Print size</label><select id="print-layout" aria-describedby="print-layout-help" disabled><option value="large">Large print — 18pt text, 2 pages</option><option value="compact">Compact — 13pt text, 1 page</option></select><p id="print-layout-help" role="status">18pt {answers?'answers':'clues'} with a larger grid. The grid and {answers?'answers':'clues'} print on separate pages.</p></div>
+<p>Choose US Letter, portrait, and 100% scale. Turn off browser headers and footers. To download, choose “Save as PDF” in the print window.</p><noscript><p>This page uses the 18pt layout. Use your browser's Print command to print or save it. JavaScript enables the size selector.</p></noscript></div>
+<article class="print-page"><div class="print-overview"><p class="eyebrow">LARGE PRINT CROSSWORDS · {answers?'ANSWER SHEET':'EASY THEMED MINI'}</p><h1>{puzzle.title}{answers?' — Answers':''}</h1><p class="print-description">{puzzle.description}</p>
+<div class="print-board" style={`--print-board-width:${3.6*ratio}in;--large-print-board-width:${5.4*ratio}in`}><MiniGrid puzzle={puzzle} filled={answers}/></div><p class="print-overview-footer print-footer">largeprintcrosswords.com · {answers?'Answer grid':'Puzzle grid'} · {answers?'Answers':'Clues'} on the next page.</p></div>
+<div class="print-clue-sheet"><h2 class="print-repeat-title">{puzzle.title} — {answers?'Answers':'Clues'}</h2><div class="print-clues">{['across','down'].map(d=><section><h2>{d==='across'?'Across':'Down'}</h2>{puzzle.entries.filter(e=>e.direction===d).sort((a,b)=>a.number-b.number).map(e=><p><strong>{e.number}.</strong> {answers?e.answer:`${e.clue} (${e.answer.length})`}</p>)}</section>)}</div><p class="print-footer">largeprintcrosswords.com · Free to print for personal use and noncommercial group activities.</p></div></article>
+</div>
+</Layout>
+<script>
+const workspace=document.querySelector<HTMLElement>('.print-workspace')!;
+const select=document.querySelector<HTMLSelectElement>('#print-layout')!;
+const button=document.querySelector<HTMLButtonElement>('#print-sheet')!;
+const help=document.querySelector<HTMLElement>('#print-layout-help')!;
+const kind=workspace.dataset.sheetKind==='answers'?'answers':'clues';
+const valid=(value:string|null):value is 'large'|'compact'=>value==='large'||value==='compact';
+function apply(layout:'large'|'compact',remember:boolean){
+ workspace.dataset.printLayout=layout;select.value=layout;
+ help.textContent=layout==='large'?`18pt ${kind} with a larger grid. The grid and ${kind} print on separate pages.`:`13pt ${kind} and a smaller grid on one page.`;
+ for(const link of document.querySelectorAll<HTMLAnchorElement>('[data-print-peer]')){const url=new URL(link.href);url.searchParams.set('layout',layout);link.href=url.pathname+url.search;}
+ if(remember){
+  try{localStorage.setItem('lpc:print-layout',layout);}catch{}
+  const url=new URL(location.href);url.searchParams.set('layout',layout);
+  try{history.replaceState(history.state,'',url);}catch{}
+ }
+}
+let saved:string|null=null;try{saved=localStorage.getItem('lpc:print-layout');}catch{}
+const query=new URLSearchParams(location.search).get('layout');
+apply(valid(query)?query:valid(saved)?saved:'large',false);
+select.disabled=false;button.disabled=false;
+select.addEventListener('change',()=>apply(select.value==='compact'?'compact':'large',true));
+button.addEventListener('click',()=>window.print());
+</script>

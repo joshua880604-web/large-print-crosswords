@@ -1,9 +1,11 @@
 ---
 import PuzzleNotes from '../../components/PuzzleNotes.astro';import Layout from '../../layouts/Layout.astro';import Game from '../../components/Game.astro';import PuzzleCard from '../../components/PuzzleCard.astro';import puzzles from '../../data/puzzles.json';
+import {christmasPuzzleIds} from '../../data/christmas';
 export function getStaticPaths(){return puzzles.map(puzzle=>({params:{slug:puzzle.id},props:{puzzle}}));}
 const {puzzle}=Astro.props;
 const musicSeries=['music-memories','american-music','instrument-families','dance-and-song'];
-const topic=puzzle.theme==='Sports'?{path:'/sports-crosswords/',name:'sports'}
+const topic=christmasPuzzleIds.has(puzzle.id)?{path:'/christmas-crosswords/',name:'Christmas'}
+ :puzzle.theme==='Sports'?{path:'/sports-crosswords/',name:'sports'}
  :musicSeries.includes(puzzle.series||'')?{path:'/music-crosswords/',name:'music'}
  :puzzle.series==='geography-journeys'||puzzle.series==='state-capital-stops'?{path:'/geography-crosswords/',name:'geography and state capitals'}
  :puzzle.series==='american-history-scenes'?{path:'/american-history-crosswords/',name:'American history'}

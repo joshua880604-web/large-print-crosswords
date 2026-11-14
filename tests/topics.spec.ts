@@ -28,7 +28,8 @@ test('music collection combines existing and new subjects and appears in the sit
 for(const topic of [
  {path:'/geography-crosswords/',heading:'Geography crosswords in large print.',count:10,slug:'geography-journeys'},
  {path:'/american-history-crosswords/',heading:'American history crosswords in large print.',count:5,slug:'american-history-scenes'},
- {path:'/texas-crosswords/',heading:'Texas crosswords in large print.',count:5,slug:'texas-scenes'}
+ {path:'/texas-crosswords/',heading:'Texas crosswords in large print.',count:5,slug:'texas-scenes'},
+ {path:'/christmas-crosswords/',heading:'Christmas crossword puzzles in large print.',count:12,slug:'christmas-comforts'}
 ])test(`new topic ${topic.path} links to real games, print sheets and a canonical collection`,async({page,request})=>{
  await page.goto('/');
  await expect(page.locator(`a[href="${topic.path}"]`)).toBeVisible();
@@ -41,7 +42,7 @@ for(const topic of [
  await expect(page.getByRole('link',{name:'Print this puzzle →'})).toHaveAttribute('href',`/print/${topic.slug}/`);
  await expect(page.locator(`.notice a[href="${topic.path}"]`)).toBeVisible();
  await page.getByRole('link',{name:'Print this puzzle →'}).click();
- await expect(page.getByRole('link',{name:'Separate answer sheet'})).toHaveAttribute('href',`/print/${topic.slug}-answers/`);
+ await expect(page.getByRole('link',{name:'Separate answer sheet'})).toHaveAttribute('href',`/print/${topic.slug}-answers/?layout=large`);
 });
 
 test('state capitals filter shares a focused collection and accepts a city without spaces',async({page})=>{

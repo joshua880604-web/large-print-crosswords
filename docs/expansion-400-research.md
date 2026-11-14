@@ -37,3 +37,7 @@ Complete the 100 new playable subjects across twenty series, rather than using t
 A Christmas collection is the next seasonal candidate. Animal and food content should retain direct adult-life or natural-history scenes rather than copying classroom worksheets. Dedicated new collection pages are not part of this 100-puzzle release; all subjects are discoverable through the main directory, theme/text filters, ordinary HTML links and the sitemap. Do not create separate keyword copies for PDF, adults, seniors and answers.
 
 The supplied bulk workbook and three SERP exports are sufficient for this batch. No further Semrush query is required now. When GSC has real reports, use sitemap status, actual queries, indexed playable URLs and exclusion reasons to guide the next round. The user's latest indexing-status report remains that the sitemap was submitted and no figures were yet available.
+
+## Subsequent implementation
+
+A later November 14 update implements the twelve-game Christmas collection and default 18pt printing. See `christmas-print-upgrade.md` for the final scope, validation and remaining GSC checks.

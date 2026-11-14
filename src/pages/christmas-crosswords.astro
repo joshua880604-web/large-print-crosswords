@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import {christmasPuzzles} from '../data/christmas';
+const groups=[
+ {title:'Greenery and decorations',description:'Start with a familiar tree or wreath, or explore the colorful bracts of a poinsettia.',ids:['holiday-table-3','winter-holiday-crafts','flowers-through-the-year-4']},
+ {title:'Sweet counters and miniature scenes',description:'Look for baking ingredients, toy-window objects, a painted nutcracker, and a snow globe. A short everyday object can help cross a longer name.',ids:['christmas-comforts-2','christmas-comforts-3','christmas-comforts-5','winter-holiday-crafts-2','winter-holiday-crafts-4']},
+ {title:'Seasonal traditions',description:'Explore stockings, carols, an Advent calendar, and outdoor lights. Each puzzle supplies its own context, so you can choose a tradition you enjoy.',ids:['christmas-comforts','christmas-comforts-4','winter-holiday-crafts-3','winter-holiday-crafts-5']}
+];
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Christmas',path:'/christmas-crosswords/'}];
+---
+<Layout title="Free Christmas Crossword Puzzles in Large Print" description="Enjoy 12 free Christmas crosswords in large print. Play online or print 18pt clues with separate answers. Familiar festive themes for adults, with no sign-up." breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Christmas</span></nav>
+<header class="page-heading"><p class="eyebrow">FAMILIAR TRADITIONS · YOUR OWN PACE</p><h1>Christmas crossword puzzles in large print.</h1><p>Choose from {christmasPuzzles.length} original themed mini crosswords for adults who enjoy clear clues and larger letters. Play online with hints, or print a puzzle and its separate answer sheet. No account or timer is required.</p></header>
+<p class="notice">Print pages start with 18pt clues and a larger grid on two US Letter pages. A compact 13pt single-page option is also available.</p>
+<Collection items={christmasPuzzles}/>
+<div class="prose"><h2>Choose a Christmas scene</h2><p>These small crosswords explore different parts of the season, from a tree and a sweet counter to a music gathering and miniature decorations. The clues use direct American English definitions. A few plant, music, or craft terms may be less familiar; crossing letters and optional hints are there to help.</p>
+{groups.map(group=><section><h3>{group.title}</h3><p>{group.description}</p><ul>{group.ids.map(id=>{const puzzle=christmasPuzzles.find(p=>p.id===id)!;return <li><a href={`/crosswords/${id}/`}>{puzzle.title}</a> · <a href={`/print/${id}/`} aria-label={`Print ${puzzle.title}`}>Print</a></li>;})}</ul></section>)}
+<h2>Print for yourself or a small gathering</h2><p>Open a puzzle's print page and choose the layout that suits you. The 18pt option puts a larger board on the first page and the clues on the second. The compact option uses 13pt clues on one page. Print the separate answer sheet when you want to check a completed puzzle.</p><p>Choose US Letter, portrait, and 100% scale in the print window, and turn off browser headers and footers. Your browser can save either sheet as a PDF. Copies are free for personal use and noncommercial group activities; each player can work at their own pace.</p>
+<h2>A little help with the clues</h2><p>Try a familiar object first and let its letters help with a longer word. Each game has a specific solving tip and three optional answer explanations. Keep the explanations closed until you want a closer look, or use Reveal letter for one crossing.</p><p>Christmas customs differ between families and communities. These puzzles offer selected scenes to enjoy, including the Christian Advent calendar alongside decorations and everyday seasonal objects.</p></div>
+<div class="section"><TopicLinks/></div></div>
+</Layout>

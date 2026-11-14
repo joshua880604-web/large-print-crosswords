@@ -100,7 +100,7 @@ test('previous editions remain reachable but are not index targets',async({page,
 });
 
 test('printed rectangular grids keep their proportions without covering clues',async({page})=>{
- await page.goto('/print/garden-days/');await page.emulateMedia({media:'print'});
+ await page.goto('/print/garden-days/?layout=compact');await page.emulateMedia({media:'print'});
  const layout=await page.evaluate(()=>{
   const grid=document.querySelector('.print-board .mini-grid')!.getBoundingClientRect();
   const clues=document.querySelector('.print-clues')!.getBoundingClientRect();
