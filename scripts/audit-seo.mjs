@@ -69,6 +69,13 @@ assert.equal(new Set(listed).size,listed.length,'Sitemap has duplicate URLs');
 assert.deepEqual([...listed].sort(),[...indexable].sort(),'Sitemap must match all indexable pages, excluding print copies and 404');
 assert.equal(puzzleCount,puzzles.length);assert.equal(printCount,puzzles.length*2);
 const robots=readFileSync(join(dist,'robots.txt'),'utf8');assert.ok(robots.includes(`Sitemap: ${origin}/sitemap.xml`));assert.ok(!/Disallow:\s*\/\s*$/m.test(robots));
+// The AI-readable guide must point to real canonical pages or the sitemap.
+const llms=readFileSync(join(dist,'llms.txt'),'utf8');
+assert.match(llms,/^# Large Print Crosswords\n/,'LLM guide needs its site heading');
+assert.ok(!llms.includes('<html'),'LLM guide must be plain Markdown, not an HTML fallback');
+for(const [,url] of llms.matchAll(/\[[^\]]+\]\((https:\/\/[^)]+)\)/g)){
+ assert.ok(indexable.has(url)||url===`${origin}/sitemap.xml`,`LLM guide links to a missing or noncanonical page: ${url}`);
+}
 const image=readFileSync(join(dist,'social-card.png'));assert.equal(image.subarray(1,4).toString(),'PNG');assert.equal(image.readUInt32BE(16),1200);assert.equal(image.readUInt32BE(20),630);
 for(const path of ['crosswords/index.html','printable/index.html']){
  const html=readFileSync(join(dist,path),'utf8');

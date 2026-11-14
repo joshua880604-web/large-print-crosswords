@@ -276,3 +276,10 @@ Not established: real mobile-device keyboard behavior, physical-printer results,
 - Mobile sweep: all 100 new games and all four updated/new music/seasonal collections fit a 390px emulated viewport. Representative games, topic views with decoded previews and the corrected compact PDF were visually inspected. Automated axe scans passed for music, Christmas, Thanksgiving and winter collections as part of the regression suite; this is not complete accessibility certification.
 - Local evidence is in `/workspace/artifacts/expansion-500/`: build/typecheck/content logs, playthrough reports, PDF matrix and validation, mobile report/screenshots, preservation and reproducibility reports. Artifacts are outside the Git repository and are not deployed.
 - User screenshots separately confirm the earlier 414-URL sitemap fetch succeeded and live eligibility tests passed for home, Christmas and a representative Christmas game. Those results are not an indexed-page count. The expanded sitemap retains its existing address. Actual indexing/performance, physical-printer output and target-reader difficulty remain unmeasured.
+
+## AI-readable site guide — 2026-11-14
+
+- Added `/llms.txt` as an Astro prerendered UTF-8 text endpoint. The concise Markdown guide describes the actual site, play/print behavior, eight topic collections, site information and the complete canonical XML sitemap. Puzzle and series counts are read from the collection at build time (currently 500 and 100).
+- `npm run build`, `npm run typecheck`, SEO audit and whitespace checks passed. All 17 Markdown links point to generated canonical pages or the sitemap; the build audit now enforces this. HTML/page/sitemap counts remain unchanged (1,617 HTML files, 516 canonical URLs).
+- Local HTTP check returned 200 and `text/plain`; the response body exactly matches the generated `dist/llms.txt`, rather than an HTML fallback. Evidence is in `/workspace/artifacts/llms/`.
+- This is an informational guide for tools that choose to use it. It does not establish AI-service consumption, indexing or recommendations. It is separate from robots directives and does not change crawling permissions.

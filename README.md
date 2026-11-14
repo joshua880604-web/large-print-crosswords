@@ -75,6 +75,8 @@ Collection cards use edition-specific static SVG board previews with intrinsic d
 
 Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 516 canonical HTTPS URLs, including all 500 playable puzzles.
 
+`/llms.txt` provides a concise Markdown guide for AI reading tools: site purpose, play/print behavior, all eight topic collections, site information and the XML sitemap. Astro prerenders it as a static UTF-8 text file; puzzle and series counts come from the current data. The production SEO audit verifies its links against the generated canonical pages. It supplements the existing navigation and sitemap, with no guarantee that an AI service will read, index or recommend the site.
+
 `public/social-card.png` is a committed 1200 × 630 share image. It is served locally and referenced by Open Graph and Twitter Card metadata. To regenerate it, run `npm run social:generate` with a supported local Chromium installation; image generation is not part of the Cloudflare build.
 
 See `docs/search-console.md` for the user's verified-property sitemap submission and launch checks. No Google account actions or indexing requests have been performed by this code.
