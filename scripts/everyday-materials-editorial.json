@@ -1,0 +1,400 @@
+[
+  {
+    "id": "everyday-materials",
+    "title": "Glass at the Glassblower’s Bench",
+    "description": "Explore ordinary glassmaking vocabulary through heat, recycled fragments, and shaping tools.",
+    "cardDescription": "Explore ordinary glassmaking vocabulary through heat, recycled fragments, and shaping tools.",
+    "subtheme": "Glass at the Glassblower’s Bench",
+    "focus": "Common glass is formed from a heated mixture and shaped before controlled cooling. The clues distinguish the ingredients, the softened material, and the process used to reduce internal stress.",
+    "solvingTip": "Use whether a clue asks for material, temperature state, tool, or cooling process.",
+    "words": [
+      [
+        "ANNEAL",
+        "To heat and cool glass under control to reduce internal stress"
+      ],
+      [
+        "CULLET",
+        "Broken glass collected for remelting"
+      ],
+      [
+        "SILICA",
+        "Major glass-forming compound in ordinary sand-based glass"
+      ],
+      [
+        "BATCH",
+        "Measured mixture of raw ingredients prepared for a glass furnace"
+      ],
+      [
+        "BLOWPIPE",
+        "Hollow tube used to shape hot glass with air"
+      ],
+      [
+        "FURNACE",
+        "High-temperature enclosure used to melt glass ingredients"
+      ],
+      [
+        "MOLTEN",
+        "Melted and capable of flowing, as hot glass may be"
+      ],
+      [
+        "GATHER",
+        "Portion of hot glass collected on a working tool"
+      ],
+      [
+        "GLASS",
+        "Usually noncrystalline solid forming familiar transparent vessels"
+      ],
+      [
+        "SAND",
+        "Granular source of silica used in common glassmaking"
+      ],
+      [
+        "AIR",
+        "Gas blown through a tube to expand hot glass"
+      ],
+      [
+        "ROD",
+        "Long narrow tool supporting or shaping a glass piece"
+      ],
+      [
+        "HEAT",
+        "Thermal energy used to soften glass material"
+      ],
+      [
+        "BUBBLE",
+        "Gas-filled space inside an expanding glass form"
+      ],
+      [
+        "SHAPE",
+        "Outer form given to a finished glass object"
+      ]
+    ],
+    "answerNotes": {
+      "ANNEAL": "Annealing uses a controlled temperature cycle; it is different from simply making a glass object colder as fast as possible.",
+      "CULLET": "Cullet is reusable glass material, distinct from the raw mineral ingredients in a batch.",
+      "SILICA": "Silica is important in common glass, though not every specialized glass has the same composition.",
+      "BATCH": "Batch names the prepared mixture rather than the finished object or the furnace itself.",
+      "BLOWPIPE": "A blowpipe delivers air into the softened glass; solid rods perform other supporting or shaping jobs."
+    },
+    "requiredAnswers": [
+      "ANNEAL"
+    ]
+  },
+  {
+    "id": "everyday-materials-2",
+    "title": "Fibers in a Sheet of Paper",
+    "description": "Follow papermaking through its wet fiber mixture, screen, and the edges of the finished sheet.",
+    "cardDescription": "Follow papermaking through its wet fiber mixture, screen, and the edges of the finished sheet.",
+    "subtheme": "Fibers in a Sheet of Paper",
+    "focus": "Paper forms from fibers arranged and bonded into a sheet. The clues distinguish the plant-derived material from the wet pulp and the equipment used to remove water.",
+    "solvingTip": "Use the stage described: loose fiber, wet mixture, supported sheet, or pressed result.",
+    "words": [
+      [
+        "CELLULOSE",
+        "Plant structural substance forming much ordinary paper fiber"
+      ],
+      [
+        "PULP",
+        "Wet mixture of separated fibers used to form paper"
+      ],
+      [
+        "DECKLE",
+        "Frame controlling the edge of a handmade paper sheet"
+      ],
+      [
+        "FIBER",
+        "One slender strand contributing to a paper sheet's structure"
+      ],
+      [
+        "FELT",
+        "Absorbent support used when pressing many handmade papers"
+      ],
+      [
+        "PRESS",
+        "Device squeezing water from a newly formed paper sheet"
+      ],
+      [
+        "WATER",
+        "Liquid carrying the fibers during sheet formation"
+      ],
+      [
+        "SHEET",
+        "Single flat piece of paper after forming"
+      ],
+      [
+        "GRAIN",
+        "Preferred direction of fibers in many machine-made papers"
+      ],
+      [
+        "EDGE",
+        "Boundary of a finished paper sheet"
+      ],
+      [
+        "ROLL",
+        "Large continuous form used to store machine-made paper"
+      ],
+      [
+        "WOOD",
+        "Raw plant material supplying many papermaking fibers"
+      ],
+      [
+        "RAG",
+        "Cloth source of fibers for some papers"
+      ],
+      [
+        "SCREEN",
+        "Mesh surface on which a wet paper sheet forms"
+      ]
+    ],
+    "answerNotes": {
+      "CELLULOSE": "Cellulose is a carbohydrate in plant cell walls, not the same material as starch used in some paper treatments.",
+      "PULP": "Pulp is the fiber mixture before it becomes a dried sheet.",
+      "DECKLE": "A deckle helps form the sheet boundary; a naturally uneven deckled edge differs from a later straight trim.",
+      "FIBER": "Individual fibers overlap within the sheet; they are not woven like an ordinary cloth.",
+      "FELT": "A papermaking felt supports and helps remove water from a wet sheet."
+    },
+    "requiredAnswers": [
+      "CELLULOSE"
+    ]
+  },
+  {
+    "id": "everyday-materials-3",
+    "title": "Clay Before and After the Kiln",
+    "description": "Explore ceramic materials through clay mixtures, first firing, and the surface applied to a pot.",
+    "cardDescription": "Explore ceramic materials through clay mixtures, first firing, and the surface applied to a pot.",
+    "subtheme": "Clay Before and After the Kiln",
+    "focus": "A clay body and its glaze are different mixtures. The clues identify a liquid clay suspension, a fired intermediate stage, and the equipment that supplies the high heat.",
+    "solvingTip": "Separate a material from the heating process or the object being made.",
+    "words": [
+      [
+        "KAOLIN",
+        "Pale clay mineral material associated with porcelain bodies"
+      ],
+      [
+        "BISQUE",
+        "Pottery after an initial firing and before a later glaze firing"
+      ],
+      [
+        "SLIP",
+        "Liquid suspension of clay particles in water"
+      ],
+      [
+        "GROG",
+        "Crushed previously fired ceramic material added to some clay bodies"
+      ],
+      [
+        "KILN",
+        "High-temperature enclosure used to fire pottery"
+      ],
+      [
+        "GLAZE",
+        "Surface mixture fired to form a glassy coating on pottery"
+      ],
+      [
+        "CLAY",
+        "Fine mineral material shaped into an unfired pot"
+      ],
+      [
+        "FIRE",
+        "To transform a clay piece by heating it in a pottery kiln"
+      ],
+      [
+        "BODY",
+        "Prepared clay mixture forming a ceramic object's main material"
+      ],
+      [
+        "CONE",
+        "Pyrometric ___, heat-work indicator used in ceramic firing"
+      ],
+      [
+        "POT",
+        "Hollow ceramic vessel shaped from clay"
+      ],
+      [
+        "BOWL",
+        "Rounded open vessel made by a potter"
+      ],
+      [
+        "HANDLE",
+        "Gripping attachment added to a mug"
+      ],
+      [
+        "RIM",
+        "Upper edge around a ceramic vessel's opening"
+      ]
+    ],
+    "answerNotes": {
+      "KAOLIN": "Kaolin is an important porcelain ingredient, while a complete clay body can contain other materials.",
+      "BISQUE": "Bisque names a fired stage; it is different from unfired clay or a finished glaze surface.",
+      "SLIP": "Slip contains clay particles rather than being simply a transparent coating.",
+      "GROG": "Grog modifies a clay mixture; it is distinct from dry unfired clay powder.",
+      "KILN": "A kiln changes ceramic materials through heat; it differs from a household drying cupboard."
+    },
+    "requiredAnswers": [
+      "KAOLIN"
+    ]
+  },
+  {
+    "id": "everyday-materials-4",
+    "title": "Wood Viewed Along and Across the Grain",
+    "description": "Compare wood surfaces through growth rings, knots, and thin layers used in manufactured boards.",
+    "cardDescription": "Compare wood surfaces through growth rings, knots, and thin layers used in manufactured boards.",
+    "subtheme": "Wood Viewed Along and Across the Grain",
+    "focus": "Wood looks different across and along its fibers. The clues distinguish a cut orientation from a growth feature and from a product assembled from thin wood layers.",
+    "solvingTip": "Use whether the clue describes direction, natural growth, or a manufactured layer.",
+    "words": [
+      [
+        "ENDGRAIN",
+        "Wood surface cut across the fibers, with spaces omitted"
+      ],
+      [
+        "SAPWOOD",
+        "Younger outer wood that conducts water in a tree"
+      ],
+      [
+        "HEARTWOOD",
+        "Older inner wood formed toward the center of many trunks"
+      ],
+      [
+        "VENEER",
+        "Thin layer of wood used as a surface or in layered products"
+      ],
+      [
+        "PLYWOOD",
+        "Board made by bonding wood layers with alternating grain directions"
+      ],
+      [
+        "KNOT",
+        "Wood feature at the place where a branch joined the trunk"
+      ],
+      [
+        "RING",
+        "Growth band visible on a crosscut trunk"
+      ],
+      [
+        "BARK",
+        "Outer tree covering removed from many lumber products"
+      ],
+      [
+        "BOARD",
+        "Long relatively flat piece of sawn wood"
+      ],
+      [
+        "EDGE",
+        "Narrow side of a rectangular board"
+      ],
+      [
+        "FACE",
+        "Broad surface of a sawn board"
+      ],
+      [
+        "SAW",
+        "Cutting tool used to divide timber into pieces"
+      ],
+      [
+        "CORE",
+        "Central material within a layered wood panel"
+      ],
+      [
+        "WOOD",
+        "Fibrous material obtained from tree stems"
+      ],
+      [
+        "BEAM",
+        "Long substantial member used to support a structure"
+      ]
+    ],
+    "answerNotes": {
+      "ENDGRAIN": "End grain reveals the cut ends of fibers; it looks different from a lengthwise face.",
+      "SAPWOOD": "Sapwood is a natural tissue region, not a coating added at a woodworking bench.",
+      "HEARTWOOD": "Heartwood differs from sapwood in function and often in appearance, though species vary.",
+      "VENEER": "A veneer is a thin sheet, distinct from a thick solid board.",
+      "PLYWOOD": "Alternating layer directions help distinguish plywood from a single solid plank.",
+      "KNOT": "A knot records a growth connection rather than necessarily being a crack or fastening."
+    },
+    "requiredAnswers": [
+      "ENDGRAIN"
+    ]
+  },
+  {
+    "id": "everyday-materials-5",
+    "title": "Familiar Metals and Alloys",
+    "description": "Compare common metals and their mixtures through familiar material names and manufacturing words.",
+    "cardDescription": "Compare common metals and their mixtures through familiar material names and manufacturing words.",
+    "subtheme": "Familiar Metals and Alloys",
+    "focus": "An alloy combines a metal with other elements. The clues identify traditional compositions while recognizing that modern materials can include additional ingredients and variations.",
+    "solvingTip": "Use the named combination of elements before choosing a finished-object or process word.",
+    "words": [
+      [
+        "ALLOY",
+        "Metallic material combining a metal with one or more other elements"
+      ],
+      [
+        "BRASS",
+        "Traditional copper-and-zinc alloy"
+      ],
+      [
+        "BRONZE",
+        "Traditional copper-and-tin alloy"
+      ],
+      [
+        "STEEL",
+        "Iron-based alloy commonly containing a controlled amount of carbon"
+      ],
+      [
+        "PEWTER",
+        "Tin-rich alloy used for decorative and household objects"
+      ],
+      [
+        "TIN",
+        "Soft silvery metal forming most traditional pewter"
+      ],
+      [
+        "ZINC",
+        "Metal combined with copper to make ordinary brass"
+      ],
+      [
+        "IRON",
+        "Metal forming the principal base of steel"
+      ],
+      [
+        "COPPER",
+        "Reddish metal shared by traditional brass and bronze"
+      ],
+      [
+        "NICKEL",
+        "Silvery metal used in many alloys and coatings"
+      ],
+      [
+        "RUST",
+        "Iron-corrosion product often appearing reddish brown"
+      ],
+      [
+        "ORE",
+        "Natural material from which a useful metal can be extracted"
+      ],
+      [
+        "INGOT",
+        "Cast block of metal prepared for later working"
+      ],
+      [
+        "CAST",
+        "To form metal by pouring molten material into a mold"
+      ],
+      [
+        "FOIL",
+        "Very thin sheet of metal"
+      ]
+    ],
+    "answerNotes": {
+      "ALLOY": "An alloy can include nonmetal elements as well as metals; steel is an example containing carbon.",
+      "BRASS": "Brass is distinguished from traditional tin bronze by zinc as a principal added element.",
+      "BRONZE": "Bronze now describes a broader set of copper alloys too; copper and tin identify the classic composition in this clue.",
+      "STEEL": "Steel differs from pure iron; its properties depend on composition and processing.",
+      "PEWTER": "Pewter is mainly tin, while additional constituents have varied across periods and products."
+    },
+    "requiredAnswers": [
+      "ALLOY"
+    ]
+  }
+]

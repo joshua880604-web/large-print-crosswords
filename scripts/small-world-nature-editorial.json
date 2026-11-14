@@ -1,0 +1,387 @@
+[
+  {
+    "id": "small-world-nature",
+    "title": "Ladybugs Among the Leaves",
+    "description": "Look closely at a ladybug through its beetle body, spotted wing covers, and tiny prey.",
+    "cardDescription": "Look closely at a ladybug through its beetle body, spotted wing covers, and tiny prey.",
+    "subtheme": "Ladybugs Among the Leaves",
+    "focus": "Ladybugs are beetles, and their hard forewings cover a separate flying pair. The clues distinguish the adult body from younger stages and from the insects it may eat.",
+    "solvingTip": "Use the number or position of a body part. A covering, a feeler, and a food animal have different names.",
+    "words": [
+      [
+        "LADYBUG",
+        "American name for a small rounded beetle often marked with spots"
+      ],
+      [
+        "ELYTRON",
+        "One hardened beetle forewing covering the folded flying wings"
+      ],
+      [
+        "APHID",
+        "Small plant-feeding insect eaten by many ladybugs"
+      ],
+      [
+        "LARVA",
+        "Immature feeding stage before a ladybug becomes a pupa"
+      ],
+      [
+        "ANTENNA",
+        "One paired feeler on a ladybug's head"
+      ],
+      [
+        "BEETLE",
+        "Insect group characterized by hardened forewing covers"
+      ],
+      [
+        "SPOT",
+        "Small contrasting mark on many ladybug wing covers"
+      ],
+      [
+        "WING",
+        "Thin flight surface folded beneath a beetle's hard cover"
+      ],
+      [
+        "LEAF",
+        "Plant surface on which a ladybug may search for prey"
+      ],
+      [
+        "LEG",
+        "One of an insect's six walking limbs"
+      ],
+      [
+        "HEAD",
+        "Body region carrying a ladybug's eyes and feelers"
+      ],
+      [
+        "EGG",
+        "Early ladybug life stage often laid near a food supply"
+      ],
+      [
+        "PUPA",
+        "Stage between larva and adult in a ladybug's life cycle"
+      ],
+      [
+        "INSECT",
+        "Six-legged animal category containing ladybugs"
+      ]
+    ],
+    "answerNotes": {
+      "LADYBUG": "Ladybugs are beetles; not every species has the familiar red background with black spots.",
+      "ELYTRON": "Elytron is singular, while elytra is plural; these hard covers are modified forewings.",
+      "APHID": "Many ladybugs prey on aphids, though not every species has the same diet.",
+      "LARVA": "A ladybug larva looks different from the rounded adult beetle.",
+      "ANTENNA": "Antennae are sensory structures, separate from the six walking legs."
+    },
+    "requiredAnswers": [
+      "LADYBUG"
+    ]
+  },
+  {
+    "id": "small-world-nature-2",
+    "title": "An Ant Colony Under the Path",
+    "description": "Explore an ant colony through its members, underground chambers, and food-gathering activity.",
+    "cardDescription": "Explore an ant colony through its members, underground chambers, and food-gathering activity.",
+    "subtheme": "An Ant Colony Under the Path",
+    "focus": "Ant colonies organize work among different individuals. The clues identify roles and structures without treating a colony’s queen as a human-style commander.",
+    "solvingTip": "Separate the animal’s role from the space it occupies and the route it follows.",
+    "words": [
+      [
+        "ANT",
+        "Social insect commonly living in an organized colony"
+      ],
+      [
+        "QUEEN",
+        "Reproductive female in an ant colony"
+      ],
+      [
+        "WORKER",
+        "Usually nonreproductive female performing an ant colony's daily tasks"
+      ],
+      [
+        "COLONY",
+        "Community of ants living and functioning together"
+      ],
+      [
+        "TUNNEL",
+        "Passage connecting spaces in an underground ant nest"
+      ],
+      [
+        "CHAMBER",
+        "Enlarged roomlike space within an ant nest"
+      ],
+      [
+        "TRAIL",
+        "Route followed by a line of food-gathering ants"
+      ],
+      [
+        "NEST",
+        "Home structure occupied by an ant colony"
+      ],
+      [
+        "SOIL",
+        "Ground material excavated by many nesting ants"
+      ],
+      [
+        "LARVA",
+        "Legless young stage cared for by adult ants"
+      ],
+      [
+        "PUPA",
+        "Developing stage before an ant emerges as an adult"
+      ],
+      [
+        "FOOD",
+        "Material gathered to nourish the colony"
+      ],
+      [
+        "JAW",
+        "Mouthpart used by an ant for gripping or carrying"
+      ],
+      [
+        "SCENT",
+        "Chemical signal helping many ants follow a route"
+      ]
+    ],
+    "answerNotes": {
+      "ANT": "Ants are insects with six legs; their colonies vary greatly in size and behavior.",
+      "QUEEN": "A queen's primary role is reproduction, not issuing commands like a human monarch.",
+      "WORKER": "Worker ants perform jobs such as foraging and brood care; the exact division varies among species.",
+      "COLONY": "Colony names the social group rather than just its underground nest structure.",
+      "TUNNEL": "A tunnel is a connecting route; a chamber is an enlarged space reached along it."
+    },
+    "requiredAnswers": [
+      "ANT"
+    ]
+  },
+  {
+    "id": "small-world-nature-3",
+    "title": "An Earthworm in the Garden Soil",
+    "description": "Study an earthworm through its ringed body, movement, and the soil structures it leaves behind.",
+    "cardDescription": "Study an earthworm through its ringed body, movement, and the soil structures it leaves behind.",
+    "subtheme": "An Earthworm in the Garden Soil",
+    "focus": "Earthworms move using muscles and small bristles. Their body segments and reproductive band have particular names, while the burrow and cast are effects of their activity.",
+    "solvingTip": "Distinguish a body feature from a tunnel or a deposit left in the ground.",
+    "words": [
+      [
+        "EARTHWORM",
+        "Segmented animal commonly burrowing through garden soil"
+      ],
+      [
+        "CLITELLUM",
+        "Thickened band on a mature earthworm associated with reproduction"
+      ],
+      [
+        "SEGMENT",
+        "One repeated division of an earthworm's body"
+      ],
+      [
+        "SETA",
+        "One small bristle helping an earthworm grip its surroundings"
+      ],
+      [
+        "CAST",
+        "Soil-rich material deposited after passing through an earthworm"
+      ],
+      [
+        "BURROW",
+        "Passage made by an earthworm through the ground"
+      ],
+      [
+        "SOIL",
+        "Earthy material through which a garden worm moves"
+      ],
+      [
+        "MUSCLE",
+        "Body tissue that contracts to move the worm"
+      ],
+      [
+        "RING",
+        "Circular outline suggested by a worm's repeated divisions"
+      ],
+      [
+        "DAMP",
+        "Slightly wet condition associated with active earthworms"
+      ],
+      [
+        "LEAF",
+        "Fallen plant material consumed by some earthworms"
+      ],
+      [
+        "COCOON",
+        "Small protective case containing developing earthworm eggs"
+      ],
+      [
+        "TAIL",
+        "Informal name for the rear end of the worm"
+      ],
+      [
+        "TUNNEL",
+        "Narrow passage through a garden bed's ground"
+      ]
+    ],
+    "answerNotes": {
+      "EARTHWORM": "Earthworms are annelids rather than insects; their body organization differs from an insect's six-legged form.",
+      "CLITELLUM": "The clitellum helps form a cocoon for eggs; it is a body region rather than a separate ring-shaped animal.",
+      "SEGMENT": "Segments make the body appear ringed; the entire worm is one animal.",
+      "SETA": "Seta is singular and setae is plural; these bristles assist movement without being jointed legs.",
+      "CAST": "A cast is a deposit, whereas a burrow is the passage in which a worm moves."
+    },
+    "requiredAnswers": [
+      "EARTHWORM"
+    ]
+  },
+  {
+    "id": "small-world-nature-4",
+    "title": "A Spider at Its Web",
+    "description": "Explore a web-building spider through its silk, body parts, and the insects caught nearby.",
+    "cardDescription": "Explore a web-building spider through its silk, body parts, and the insects caught nearby.",
+    "subtheme": "A Spider at Its Web",
+    "focus": "Spiders are arachnids, not insects. The clues identify their silk-making structures and web features while recognizing that different spiders use different hunting methods.",
+    "solvingTip": "Check whether the clue names the animal, a body part, or a silk structure.",
+    "words": [
+      [
+        "SPIDER",
+        "Eight-legged arachnid that may catch prey in a web"
+      ],
+      [
+        "SPINNERET",
+        "Silk-spinning structure on a spider's abdomen"
+      ],
+      [
+        "ARACHNID",
+        "Animal group containing spiders and scorpions"
+      ],
+      [
+        "SILK",
+        "Fiber produced by a spider for webs and other uses"
+      ],
+      [
+        "ORB",
+        "Circular web form with spokes and a spiral"
+      ],
+      [
+        "WEB",
+        "Silken structure spun by a web-building spider"
+      ],
+      [
+        "LEG",
+        "One of a spider's eight walking limbs"
+      ],
+      [
+        "PREY",
+        "Animal caught and eaten by a hunting spider"
+      ],
+      [
+        "THREAD",
+        "Single fine strand in a spider's web"
+      ],
+      [
+        "SAC",
+        "Silken case surrounding a spider's eggs"
+      ],
+      [
+        "FANG",
+        "Pointed mouthpart through which a spider can deliver venom"
+      ],
+      [
+        "FLY",
+        "Small winged insect that may be caught in a web"
+      ],
+      [
+        "EYE",
+        "Light-detecting body part on a spider's head region"
+      ],
+      [
+        "SPIRAL",
+        "Winding line crossing the spokes of an orb web"
+      ]
+    ],
+    "answerNotes": {
+      "SPIDER": "Not every spider builds a prey-catching web; web-building is one hunting strategy within the group.",
+      "SPINNERET": "Spinnerets release silk from silk-producing glands; they are distinct from legs or mouthparts.",
+      "ARACHNID": "Arachnids are separate from insects; adult spiders have eight legs rather than six.",
+      "SILK": "Spider silk serves several purposes, including egg sacs and safety lines as well as prey capture.",
+      "ORB": "Orb describes one web design; other spiders make sheets, tangles, or no capture web."
+    },
+    "requiredAnswers": [
+      "SPIDER"
+    ]
+  },
+  {
+    "id": "small-world-nature-5",
+    "title": "A Snail on a Garden Wall",
+    "description": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
+    "cardDescription": "Look at a land snail through its shell, muscular foot, and slow movement across a damp surface.",
+    "subtheme": "A Snail on a Garden Wall",
+    "focus": "A snail’s shell grows with the animal. The clues separate the shell’s opening and tip from the soft body parts used for movement and sensing.",
+    "solvingTip": "Use where the part is located: at the shell opening, at its pointed end, or beneath the animal.",
+    "words": [
+      [
+        "SNAIL",
+        "Slow-moving mollusk carrying a coiled shell"
+      ],
+      [
+        "WHORL",
+        "One complete turn in a snail shell's coil"
+      ],
+      [
+        "APERTURE",
+        "Opening through which a snail extends its soft body"
+      ],
+      [
+        "TENTACLE",
+        "Soft feeler extending from a snail's head"
+      ],
+      [
+        "APEX",
+        "Pointed earliest-formed tip of a coiled snail shell"
+      ],
+      [
+        "SHELL",
+        "Hard outer structure carried by a snail"
+      ],
+      [
+        "FOOT",
+        "Muscular lower body surface used for crawling"
+      ],
+      [
+        "SLIME",
+        "Everyday name for the mucus left along a snail's route"
+      ],
+      [
+        "COIL",
+        "Curving shape winding around the shell's center"
+      ],
+      [
+        "HEAD",
+        "Front body region bearing a snail's feelers"
+      ],
+      [
+        "DAMP",
+        "Moist surface condition on a shaded garden wall"
+      ],
+      [
+        "LEAF",
+        "Plant part grazed by some garden snails"
+      ],
+      [
+        "TRAIL",
+        "Line of mucus left behind a moving snail"
+      ],
+      [
+        "WALL",
+        "Vertical garden surface on which a snail may crawl"
+      ]
+    ],
+    "answerNotes": {
+      "SNAIL": "A snail is a mollusk rather than an insect; its broad muscular foot helps it move.",
+      "WHORL": "A whorl is one turn of the growing shell, not the whole spiral structure.",
+      "APERTURE": "Aperture means opening here; the same word appears in optical instruments with another context.",
+      "TENTACLE": "Tentacles serve sensory roles; they are not jointed insect antennae.",
+      "APEX": "The apex is at the shell's tip, while the aperture is its larger body opening."
+    },
+    "requiredAnswers": [
+      "SNAIL"
+    ]
+  }
+]

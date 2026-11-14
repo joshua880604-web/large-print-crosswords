@@ -1,0 +1,387 @@
+[
+  {
+    "id": "paper-and-lettering",
+    "title": "A Calligraphy Pen and Ink",
+    "description": "Explore decorative handwriting through a pen’s split tip, flowing ink, and the shapes of a letter.",
+    "cardDescription": "Explore decorative handwriting through a pen’s split tip, flowing ink, and the shapes of a letter.",
+    "subtheme": "A Calligraphy Pen and Ink",
+    "focus": "Calligraphy uses controlled strokes to form letters. The clues distinguish the tool’s point from the line it makes and the small marks within a letterform.",
+    "solvingTip": "Use a physical pen part or a simple stroke shape before trying the lettering terms.",
+    "words": [
+      [
+        "NIB",
+        "Pointed writing part of a dip or fountain pen"
+      ],
+      [
+        "TINE",
+        "One of the two sides of a split pen tip"
+      ],
+      [
+        "SERIF",
+        "Small finishing projection on the end of some letter strokes"
+      ],
+      [
+        "STROKE",
+        "One drawn line or movement forming part of a letter"
+      ],
+      [
+        "SLANT",
+        "Angle at which a written letter leans"
+      ],
+      [
+        "INK",
+        "Colored liquid used in a calligraphy pen"
+      ],
+      [
+        "PEN",
+        "Hand-held writing tool fitted with a point"
+      ],
+      [
+        "PAPER",
+        "Sheet receiving the written design"
+      ],
+      [
+        "CURL",
+        "Decorative curved flourish at a letter's end"
+      ],
+      [
+        "LOOP",
+        "Enclosed curved form within a written letter"
+      ],
+      [
+        "LINE",
+        "Straight or curved mark made by the pen"
+      ],
+      [
+        "SLIT",
+        "Narrow cut separating a nib's two sides"
+      ],
+      [
+        "DIP",
+        "To lower a pen point into its ink supply"
+      ],
+      [
+        "GUIDE",
+        "Light reference line helping align the letters"
+      ]
+    ],
+    "answerNotes": {
+      "NIB": "A nib holds and delivers ink; it is separate from the handle supporting it.",
+      "TINE": "Tines are divided by a slit; their shape and flexibility affect how a nib writes.",
+      "SERIF": "A serif is a letterform feature, not a required feature of every calligraphic style.",
+      "STROKE": "A stroke is one component of a letter; several may combine to make the finished character.",
+      "SLANT": "Slant describes orientation, while line thickness describes another aspect of the writing."
+    },
+    "requiredAnswers": [
+      "NIB"
+    ]
+  },
+  {
+    "id": "paper-and-lettering-2",
+    "title": "Binding a Small Handmade Book",
+    "description": "Look at the folds, sewing, and cover parts used to assemble a small handmade book.",
+    "cardDescription": "Look at the folds, sewing, and cover parts used to assemble a small handmade book.",
+    "subtheme": "Binding a Small Handmade Book",
+    "focus": "A book’s sheets can be folded into sections before they are sewn or attached. The clues distinguish those groups from the cover, spine, and materials joining them.",
+    "solvingTip": "Separate the paper structure from the protective cover and the fastening materials.",
+    "words": [
+      [
+        "BINDING",
+        "Construction joining a book's pages and cover"
+      ],
+      [
+        "SIGNATURE",
+        "Group of folded sheets forming a section of a book"
+      ],
+      [
+        "ENDPAPER",
+        "Sheet joining or lining the inside of a book's cover"
+      ],
+      [
+        "SPINE",
+        "Back edge of a book where its pages are joined"
+      ],
+      [
+        "AWL",
+        "Pointed tool used to make sewing holes in folded paper"
+      ],
+      [
+        "FOLD",
+        "To bend a sheet over to form a booklet section"
+      ],
+      [
+        "THREAD",
+        "Strand used to sew a handmade book"
+      ],
+      [
+        "NEEDLE",
+        "Tool carrying thread through the sewing holes"
+      ],
+      [
+        "GLUE",
+        "Adhesive joining parts of a book"
+      ],
+      [
+        "COVER",
+        "Protective outer layer around the pages"
+      ],
+      [
+        "LEAF",
+        "Single sheet within a book, having two page sides"
+      ],
+      [
+        "PRESS",
+        "Device holding the book firmly during binding work"
+      ],
+      [
+        "CLOTH",
+        "Fabric covering used on many book boards"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of the trimmed page block"
+      ]
+    ],
+    "answerNotes": {
+      "BINDING": "Binding names the assembly or its structure, not the written text inside the book.",
+      "SIGNATURE": "Signature has a bookmaking meaning here, different from an author's handwritten name.",
+      "ENDPAPER": "Endpapers connect or finish the cover area; they are distinct from the main printed pages.",
+      "SPINE": "The spine is the bound edge rather than the front or back cover panel.",
+      "AWL": "An awl pierces a hole; the needle and thread form the later sewn connection."
+    },
+    "requiredAnswers": [
+      "BINDING"
+    ]
+  },
+  {
+    "id": "paper-and-lettering-3",
+    "title": "A Linocut Print on the Table",
+    "description": "Explore a relief print through its carved block, roller, and the paper receiving the inked image.",
+    "cardDescription": "Explore a relief print through its carved block, roller, and the paper receiving the inked image.",
+    "subtheme": "A Linocut Print on the Table",
+    "focus": "A linocut prints from the raised surface left after carving. Cut-away areas generally do not receive the same ink, which distinguishes relief printing from an engraved recessed line.",
+    "solvingTip": "Identify what is carved away and what remains high enough to print.",
+    "words": [
+      [
+        "LINOCUT",
+        "Relief print made from a carved linoleum block"
+      ],
+      [
+        "BRAYER",
+        "Small hand roller spreading ink over a printing block"
+      ],
+      [
+        "GOUGE",
+        "Curved or angled cutting tool used to remove a channel"
+      ],
+      [
+        "RELIEF",
+        "Printing method in which raised areas transfer the image"
+      ],
+      [
+        "PROOF",
+        "Trial impression used to inspect a developing print"
+      ],
+      [
+        "INK",
+        "Colored material rolled onto the raised block surface"
+      ],
+      [
+        "BLOCK",
+        "Carved plate carrying a relief image"
+      ],
+      [
+        "PAPER",
+        "Sheet receiving the printed impression"
+      ],
+      [
+        "CUT",
+        "To remove a portion of the linoleum surface"
+      ],
+      [
+        "ROLL",
+        "To move the inking tool across the block"
+      ],
+      [
+        "PRESS",
+        "To apply force transferring the image to the sheet"
+      ],
+      [
+        "IMAGE",
+        "Picture or design transferred from the carved surface"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of the printing block"
+      ],
+      [
+        "TRAY",
+        "Shallow surface used to spread printing ink"
+      ]
+    ],
+    "answerNotes": {
+      "LINOCUT": "Linocut uses linoleum rather than a wood block; the raised surface carries the image ink.",
+      "BRAYER": "A brayer distributes ink; it is different from the tool removing material from the block.",
+      "GOUGE": "A gouge cuts recessed areas, leaving other areas raised to carry ink.",
+      "RELIEF": "Relief prints from the upper surface rather than from ink-filled recessed grooves.",
+      "PROOF": "A proof lets a maker assess the image before the final edition."
+    },
+    "requiredAnswers": [
+      "LINOCUT"
+    ]
+  },
+  {
+    "id": "paper-and-lettering-4",
+    "title": "Swirls in a Marbled Paper Sheet",
+    "description": "Follow decorative paper marbling through floating colors, a combed pattern, and the sheet lifted from a bath.",
+    "cardDescription": "Follow decorative paper marbling through floating colors, a combed pattern, and the sheet lifted from a bath.",
+    "subtheme": "Swirls in a Marbled Paper Sheet",
+    "focus": "In a familiar marbling method, colors float on a prepared bath and transfer to paper. The clues distinguish the liquid surface from the sheet receiving its pattern.",
+    "solvingTip": "Use the material’s state and position: floating color, supporting liquid, or lifted sheet.",
+    "words": [
+      [
+        "MARBLING",
+        "Paper-decorating technique producing swirling stone-like patterns"
+      ],
+      [
+        "SIZE",
+        "Thickened liquid bath supporting colors in one paper-marbling method"
+      ],
+      [
+        "COMB",
+        "Row of points drawn through floating color to form a pattern"
+      ],
+      [
+        "SWIRL",
+        "Spiraling curve in a marbled paper design"
+      ],
+      [
+        "SHEET",
+        "Single flat piece of paper lifted from the marbling bath"
+      ],
+      [
+        "TRAY",
+        "Shallow container holding the marbling bath"
+      ],
+      [
+        "DROP",
+        "Small amount of color placed on the liquid surface"
+      ],
+      [
+        "INK",
+        "Colored fluid used in some marbling techniques"
+      ],
+      [
+        "PAPER",
+        "Material carrying the finished decorative pattern"
+      ],
+      [
+        "VEIN",
+        "Thin branching line suggesting a natural stone pattern"
+      ],
+      [
+        "FLOAT",
+        "To remain supported at a liquid surface"
+      ],
+      [
+        "RAKE",
+        "To draw a pointed tool through the floating colors"
+      ],
+      [
+        "BATH",
+        "Body of liquid on which the pattern is prepared"
+      ],
+      [
+        "LIFT",
+        "To raise the decorated sheet away from the liquid"
+      ]
+    ],
+    "answerNotes": {
+      "MARBLING": "Marbling transfers a surface pattern onto paper; methods and bath preparations vary among traditions.",
+      "SIZE": "Size has a craft meaning here; other marbling traditions use different liquid arrangements.",
+      "COMB": "A marbling comb organizes the color on the bath; it is not a hair-care tool in this scene.",
+      "SWIRL": "A swirl describes the visual shape, not a particular paint ingredient.",
+      "SHEET": "The sheet receives the pattern; it is separate from the liquid supporting the colors."
+    },
+    "requiredAnswers": [
+      "MARBLING"
+    ]
+  },
+  {
+    "id": "paper-and-lettering-5",
+    "title": "At a Letterpress Workbench",
+    "description": "Explore raised-type printing through small type pieces, spacing material, and a freshly inked impression.",
+    "cardDescription": "Explore raised-type printing through small type pieces, spacing material, and a freshly inked impression.",
+    "subtheme": "At a Letterpress Workbench",
+    "focus": "Letterpress transfers ink from a raised printing surface. The clues distinguish the letters themselves from the frame and spacing pieces that hold a page form together.",
+    "solvingTip": "Look for a letter, a support, a spacing piece, or the printed result.",
+    "words": [
+      [
+        "LETTERPRESS",
+        "Printing process transferring ink from a raised surface"
+      ],
+      [
+        "TYPE",
+        "Raised letter pieces arranged for printing"
+      ],
+      [
+        "CHASE",
+        "Metal frame holding a letterpress form"
+      ],
+      [
+        "QUOIN",
+        "Expanding locking device securing type within a printing frame"
+      ],
+      [
+        "GALLEY",
+        "Tray holding composed type or a preliminary printed text proof"
+      ],
+      [
+        "INK",
+        "Coloring material transferred from the raised printing surface"
+      ],
+      [
+        "PRESS",
+        "Machine applying force to make an impression"
+      ],
+      [
+        "PAPER",
+        "Sheet receiving the letterpress image"
+      ],
+      [
+        "PROOF",
+        "Trial print checked before a full printing run"
+      ],
+      [
+        "FONT",
+        "Set of type characters sharing a design"
+      ],
+      [
+        "CASE",
+        "Divided tray storing individual printing letters"
+      ],
+      [
+        "SORT",
+        "Individual piece of metal printing type"
+      ],
+      [
+        "LINE",
+        "Row of arranged type making one text row"
+      ],
+      [
+        "LEAD",
+        "Thin spacing strip between type lines in traditional composition"
+      ]
+    ],
+    "answerNotes": {
+      "LETTERPRESS": "Letterpress is a relief process; it differs from methods that print from recessed grooves or a flat chemically prepared surface.",
+      "TYPE": "Type names the printing characters here rather than a category or variety.",
+      "CHASE": "A chase encloses the arranged material; it is different from the paper receiving the impression.",
+      "QUOIN": "A quoin helps lock the form in place, rather than forming part of the readable text.",
+      "GALLEY": "Galley has related printing uses involving composed material and early proofs."
+    },
+    "requiredAnswers": [
+      "LETTERPRESS"
+    ]
+  }
+]

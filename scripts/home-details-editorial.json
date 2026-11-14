@@ -1,0 +1,392 @@
+[
+  {
+    "id": "home-details",
+    "title": "Parts of an Old-Fashioned Window",
+    "description": "Explore a framed window through its movable sections, dividing strips, and surrounding woodwork.",
+    "cardDescription": "Explore a framed window through its movable sections, dividing strips, and surrounding woodwork.",
+    "subtheme": "Parts of an Old-Fashioned Window",
+    "focus": "A window’s glass, moving sash, and surrounding frame have different names. The clues distinguish small dividing strips from the larger structural pieces around the opening.",
+    "solvingTip": "Use the location: beneath the glass, beside the opening, or between separate panes.",
+    "words": [
+      [
+        "SASH",
+        "Frame holding window glass, often movable within a larger frame"
+      ],
+      [
+        "MULLION",
+        "Vertical member dividing adjacent window units or large sections"
+      ],
+      [
+        "MUNTIN",
+        "Narrow strip separating small panes within a window sash"
+      ],
+      [
+        "SILL",
+        "Horizontal ledge at the bottom of a window opening"
+      ],
+      [
+        "LINTEL",
+        "Horizontal structural support above a window opening"
+      ],
+      [
+        "JAMB",
+        "Vertical side of a window's surrounding opening"
+      ],
+      [
+        "PANE",
+        "Single sheet of glass set into a window"
+      ],
+      [
+        "GLASS",
+        "Transparent material filling most ordinary window openings"
+      ],
+      [
+        "LATCH",
+        "Small fastening keeping a window section closed"
+      ],
+      [
+        "HINGE",
+        "Joint allowing a casement window to swing"
+      ],
+      [
+        "FRAME",
+        "Outer support surrounding the window assembly"
+      ],
+      [
+        "CASEMENT",
+        "Window style with a sash hinged at the side"
+      ],
+      [
+        "GLAZE",
+        "To fit a window with its glass"
+      ],
+      [
+        "RAIL",
+        "Horizontal member within a framed window sash"
+      ]
+    ],
+    "answerNotes": {
+      "SASH": "A sash holds the glazing; the surrounding window frame supports the whole assembly.",
+      "MULLION": "A mullion separates larger sections, while a muntin divides smaller panes within a sash.",
+      "MUNTIN": "Muntins divide individual panes; the word differs from mullion despite the similar sound.",
+      "SILL": "The sill is at the bottom, while the lintel is above the opening.",
+      "LINTEL": "A lintel carries loads over the opening rather than supporting flowerpots below it."
+    },
+    "requiredAnswers": [
+      "SASH"
+    ]
+  },
+  {
+    "id": "home-details-2",
+    "title": "A Door Lock and Its Fittings",
+    "description": "Identify the visible parts and common mechanism names around a household door lock.",
+    "cardDescription": "Identify the visible parts and common mechanism names around a household door lock.",
+    "subtheme": "A Door Lock and Its Fittings",
+    "focus": "The clues separate the moving fastening piece from the plate receiving it and from the trim around the key opening. They name components rather than describing lock-opening techniques.",
+    "solvingTip": "Use which part moves and which stays fixed in the doorway.",
+    "words": [
+      [
+        "DEADBOLT",
+        "Door-fastening bolt that does not spring back like an ordinary latch"
+      ],
+      [
+        "LATCH",
+        "Fastening piece that commonly catches automatically when a door closes"
+      ],
+      [
+        "STRIKE",
+        "Fixed door-frame plate receiving a lock's moving bolt or latch"
+      ],
+      [
+        "ESCUTCHEON",
+        "Protective or decorative plate around a keyhole or handle"
+      ],
+      [
+        "KEYWAY",
+        "Shaped entrance passage for the matching key in a lock"
+      ],
+      [
+        "KEY",
+        "Matching small metal tool used to operate many locks"
+      ],
+      [
+        "BOLT",
+        "Sliding fastening piece extending from a door into its frame"
+      ],
+      [
+        "KNOB",
+        "Round hand control used to turn a door mechanism"
+      ],
+      [
+        "JAMB",
+        "Vertical side of the frame receiving the door's fastening"
+      ],
+      [
+        "PLATE",
+        "Flat metal fitting around or behind door hardware"
+      ],
+      [
+        "LOCK",
+        "Device securing a door against ordinary opening"
+      ],
+      [
+        "TURN",
+        "To rotate the key or handle"
+      ],
+      [
+        "HASP",
+        "Hinged fastening loop commonly used with a padlock"
+      ],
+      [
+        "CYLINDER",
+        "Round lock assembly into which many keys are inserted"
+      ]
+    ],
+    "answerNotes": {
+      "DEADBOLT": "A deadbolt is moved positively by its control rather than simply retracting against a spring-loaded sloping latch face.",
+      "LATCH": "A latch and a deadbolt perform related fastening roles but have different common mechanisms.",
+      "STRIKE": "The strike is on the frame, while the moving fastening piece is on the door.",
+      "ESCUTCHEON": "Escutcheon names surrounding trim, not the internal locking mechanism.",
+      "KEYWAY": "A keyway is an opening in the lock, distinct from the decorative plate around it."
+    },
+    "requiredAnswers": [
+      "DEADBOLT"
+    ]
+  },
+  {
+    "id": "home-details-3",
+    "title": "Inside an Upholstered Armchair",
+    "description": "Look beneath an armchair’s soft covering through its padding, frame, and finishing edges.",
+    "cardDescription": "Look beneath an armchair’s soft covering through its padding, frame, and finishing edges.",
+    "subtheme": "Inside an Upholstered Armchair",
+    "focus": "Upholstery combines a supporting structure with padding and a cover. The clues distinguish the outer fabric from the webbing and cushioning layers below it.",
+    "solvingTip": "Use the layer or body location described before choosing a textile term.",
+    "words": [
+      [
+        "UPHOLSTERY",
+        "Padding and covering work applied to furniture"
+      ],
+      [
+        "CUSHION",
+        "Soft padded support on an armchair's seat or back"
+      ],
+      [
+        "WEBBING",
+        "Strong bands forming support beneath some chair padding"
+      ],
+      [
+        "WELT",
+        "Raised covered cord finishing an upholstered seam"
+      ],
+      [
+        "BATTING",
+        "Soft sheetlike padding layer beneath a furniture cover"
+      ],
+      [
+        "TACK",
+        "Small nail securing fabric or webbing to a furniture frame"
+      ],
+      [
+        "ARM",
+        "Side support for an armchair sitter's forearm"
+      ],
+      [
+        "SEAT",
+        "Part of the chair supporting the sitter's weight"
+      ],
+      [
+        "BACK",
+        "Upright support behind a seated person"
+      ],
+      [
+        "FRAME",
+        "Rigid structure beneath the armchair's padding"
+      ],
+      [
+        "SPRING",
+        "Resilient metal component supporting some upholstered seats"
+      ],
+      [
+        "FABRIC",
+        "Cloth forming the visible chair covering"
+      ],
+      [
+        "FOAM",
+        "Spongy material used for many furniture cushions"
+      ],
+      [
+        "SEAM",
+        "Stitched join between pieces of upholstery cloth"
+      ],
+      [
+        "SKIRT",
+        "Fabric panel hanging below the chair's main upholstered body"
+      ]
+    ],
+    "answerNotes": {
+      "UPHOLSTERY": "Upholstery includes more than the visible cloth; supporting and cushioning materials contribute to the finished seat.",
+      "CUSHION": "A cushion contains padding within a cover, while the chair's frame supplies the rigid structure.",
+      "WEBBING": "Webbing spans the frame in many traditional seats; it differs from the outer decorative fabric.",
+      "WELT": "A welt defines an edge or seam; the cord is enclosed by a covering strip.",
+      "BATTING": "Batting smooths or cushions the surface between other stuffing materials and the cover.",
+      "TACK": "A tack fastens material mechanically rather than bonding it with glue."
+    },
+    "requiredAnswers": [
+      "UPHOLSTERY"
+    ]
+  },
+  {
+    "id": "home-details-4",
+    "title": "A Cabinet Door and Drawer",
+    "description": "Explore cabinet construction through frame pieces, joints, and the hardware that moves a drawer.",
+    "cardDescription": "Explore cabinet construction through frame pieces, joints, and the hardware that moves a drawer.",
+    "subtheme": "A Cabinet Door and Drawer",
+    "focus": "A frame-and-panel door has named vertical and horizontal members. Drawer guides and handles serve different purposes from the wood joints holding the structure together.",
+    "solvingTip": "Use direction and location: upright frame piece, crosspiece, edge recess, or pulling handle.",
+    "words": [
+      [
+        "HINGE",
+        "Joint allowing a cabinet door to swing open"
+      ],
+      [
+        "STILE",
+        "Vertical member of a frame-and-panel cabinet door"
+      ],
+      [
+        "RAIL",
+        "Horizontal member of a framed cabinet door"
+      ],
+      [
+        "DADO",
+        "Rectangular groove cut across a board to receive another piece"
+      ],
+      [
+        "RABBET",
+        "Step-shaped recess cut along the edge of a board"
+      ],
+      [
+        "PANEL",
+        "Broad central piece enclosed by a cabinet door's frame"
+      ],
+      [
+        "KNOB",
+        "Small rounded handle used to pull a drawer"
+      ],
+      [
+        "SHELF",
+        "Horizontal board supporting objects inside a cabinet"
+      ],
+      [
+        "DRAWER",
+        "Sliding boxlike compartment within furniture"
+      ],
+      [
+        "RUNNER",
+        "Guide or support along which a drawer slides"
+      ],
+      [
+        "PULL",
+        "Handle grasped to open a cabinet door or drawer"
+      ],
+      [
+        "DOOR",
+        "Hinged front closure of a cupboard"
+      ],
+      [
+        "FACE",
+        "Broad flat surface of a board"
+      ],
+      [
+        "PEG",
+        "Small pin used to support a movable cabinet shelf"
+      ]
+    ],
+    "answerNotes": {
+      "HINGE": "A hinge permits rotation, while a drawer runner supports sliding movement.",
+      "STILE": "Stiles run vertically, while rails form the horizontal members.",
+      "RAIL": "Rail has a woodworking meaning here rather than naming railway track.",
+      "DADO": "A dado commonly runs across the grain; a rabbet is an open-sided recess along an edge.",
+      "RABBET": "A rabbet is open to the board's edge, unlike a groove enclosed on both sides."
+    },
+    "requiredAnswers": [
+      "HINGE"
+    ]
+  },
+  {
+    "id": "home-details-5",
+    "title": "Looking at a Handwoven Rug",
+    "description": "Explore a woven floor covering through its thread directions, raised surface, and finished edges.",
+    "cardDescription": "Explore a woven floor covering through its thread directions, raised surface, and finished edges.",
+    "subtheme": "Looking at a Handwoven Rug",
+    "focus": "Weaving crosses lengthwise and crosswise strands, while some rugs add a raised pile. A flatwoven surface and a pile surface are different structures rather than just different colors.",
+    "solvingTip": "Separate the direction of a strand from the texture or edge formed by the finished work.",
+    "words": [
+      [
+        "PILE",
+        "Raised surface made of loops or cut fibers on some rugs"
+      ],
+      [
+        "WARP",
+        "Lengthwise strands held under tension during weaving"
+      ],
+      [
+        "WEFT",
+        "Crosswise strand interlaced through a rug's lengthwise threads"
+      ],
+      [
+        "SELVAGE",
+        "Finished lengthwise edge of woven material"
+      ],
+      [
+        "FLATWEAVE",
+        "Rug construction without an upright pile layer"
+      ],
+      [
+        "KNOT",
+        "Tied fastening used to form pile in many rugs"
+      ],
+      [
+        "FRINGE",
+        "Loose thread ends extending from a rug's boundary"
+      ],
+      [
+        "TUFT",
+        "Small bunch of fibers projecting from a textile backing"
+      ],
+      [
+        "WOOL",
+        "Sheep-derived fiber used in many woven rugs"
+      ],
+      [
+        "COTTON",
+        "Plant fiber used for some rug strands or foundations"
+      ],
+      [
+        "BORDER",
+        "Decorative outer band around a rug's design"
+      ],
+      [
+        "LOOM",
+        "Frame or machine holding threads for weaving"
+      ],
+      [
+        "BACK",
+        "Reverse side of the rug beneath its visible surface"
+      ],
+      [
+        "ROW",
+        "Single line of repeated weaving or knotting"
+      ]
+    ],
+    "answerNotes": {
+      "PILE": "Pile describes the raised textile surface; a flatwoven rug does not have the same upright layer.",
+      "WARP": "Warp forms the supported lengthwise set, while weft passes across it.",
+      "WEFT": "Weft runs across the warp; the two directions have different names even when the fibers match.",
+      "SELVAGE": "A selvage forms along the side during weaving, distinct from a cut end finished afterward.",
+      "FLATWEAVE": "Flatweave describes structure rather than one national style or fiber material."
+    },
+    "requiredAnswers": [
+      "PILE"
+    ]
+  }
+]

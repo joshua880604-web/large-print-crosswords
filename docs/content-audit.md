@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 300 current puzzles; 3360 clue entries.
-- 1859 distinct answers; 3360 distinct answer/clue pairs.
-- 300 different introductions; 0 numbered titles remain.
-- 300 editions have dedicated subject notes and answer explanations.
+- 400 current puzzles; 4476 clue entries.
+- 2202 distinct answers; 4476 distinct answer/clue pairs.
+- 400 different introductions; 0 numbered titles remain.
+- 400 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -489,11 +489,151 @@ Subjects: A Friendly Game of Bingo, A Round of Shuffleboard, Mini Golf by the Pa
 
 Subjects: Levers and Lifting, A Pulley and a Rope, Wheels and Axles, Gears at Work, Ramps and Screws.
 
+## Rail and Water Travel: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Night in a Sleeping Car, Beside a Steam Locomotive, A Canal Boat at the Lock, Crossing on a Passenger Ferry, A Paddlewheel Riverboat.
+
+## Roadside Americana: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: At an Old Service Station, A Roadside Motel Stop, At the Soda Fountain, Through the Car Wash, A Glowing Roadside Sign.
+
+## Familiar Vehicles: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Convertible on a Sunday Drive, Alongside a Yellow School Bus, A Tractor Beside the Barn, A Hot-Air Balloon at Dawn, A Streetcar Along the Avenue.
+
+## Working Waterfront: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Fishing Trawler at the Pier, Where the River Meets the Sea, In a Wooden Boat Shed, Buoys Beyond the Harbor, Reading a Harbor Chart.
+
+## Forest Observations: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Ferns on the Forest Floor, Acorns Beneath an Oak, A Pine Cone on the Path, Mushrooms After the Rain, Wildflowers Along a Woodland Path.
+
+## Open Country Wildlife: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Life on the Prairie, Desert Neighbors After Dusk, In an Everglades Wetland, An Alpine Meadow in Summer, Animals of the Northern Tundra.
+
+## Small World Nature: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Ladybugs Among the Leaves, An Ant Colony Under the Path, An Earthworm in the Garden Soil, A Spider at Its Web, A Snail on a Garden Wall.
+
+## Garden Styles: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Window Box in Bloom, A Garden in Dappled Shade, Small Plants in a Rock Garden, Fragrance Beside the Garden Gate, A Meadow for Pollinators.
+
+## Flowers Through the Year: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Daffodil in Early Spring, A Sunflower Facing the Garden, Autumn Mums at the Door, Bright Bracts on a Poinsettia, A Camellia Beside the Walk.
+
+## American Regional Tables: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Bowl of New England Chowder, Gumbo at a Louisiana Table, Salsa on a Southwestern Table, A Southern Grits Breakfast, Cornbread in an Iron Skillet.
+
+## Bakers Specialties: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Twists at the Pretzel Bakery, A Bagel Before Breakfast, A Waffle Iron on the Counter, A Sourdough Starter Jar, Noodle Dough on the Board.
+
+## Craft Room Techniques: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Knots in a Macrame Hanger, A Hooked Rug on Its Frame, Patterns Stamped into Leather, A Stained-Glass Window Panel, Needlepoint Across a Canvas.
+
+## Paper and Lettering: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Calligraphy Pen and Ink, Binding a Small Handmade Book, A Linocut Print on the Table, Swirls in a Marbled Paper Sheet, At a Letterpress Workbench.
+
+## Old Time Entertainment: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Drama on the Family Radio, An Evening of Vaudeville, Song and Dance in a Movie Musical, A Western on the Movie Screen, Clues in a Mystery Film.
+
+## Stage and Performance: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Marionette Above the Stage, Shadows Behind a Theater Screen, Rehearsing a Community Play, Costumes in the Theater Wardrobe, Lights Above a Small Stage.
+
+## Collections and Keepsakes: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Buttons in a Collector’s Tin, Glassware in a Display Cabinet, A Music Box on the Shelf, Shells Arranged in a Cabinet, A Pocket Watch in Its Case.
+
+## Home Details: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Parts of an Old-Fashioned Window, A Door Lock and Its Fittings, Inside an Upholstered Armchair, A Cabinet Door and Drawer, Looking at a Handwoven Rug.
+
+## Everyday Materials: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Glass at the Glassblower’s Bench, Fibers in a Sheet of Paper, Clay Before and After the Kiln, Wood Viewed Along and Across the Grain, Familiar Metals and Alloys.
+
+## Word Patterns: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Everyday Opposites, Letters You Do Not Hear, Putting Two Small Words Together, What Familiar Abbreviations Mean, Words on American Road Signs.
+
+## Winter Holiday Crafts: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Making a Christmas Door Wreath, A Christmas Nutcracker on the Shelf, Opening an Advent Calendar, A Snow Globe on the Mantel, Strings of Outdoor Holiday Lights.
+
 The 100 original layouts remain available as noindex previous editions so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 300 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 400 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -557,5 +697,25 @@ All 300 current puzzles have dedicated editorial content. Continue reviewing clu
 | everyday-wordplay | 57 | 57 | 5 | 0 |
 | recreation-room | 56 | 56 | 5 | 0 |
 | simple-machines | 56 | 56 | 5 | 0 |
+| rail-and-water-travel | 55 | 55 | 5 | 0 |
+| roadside-americana | 56 | 56 | 5 | 0 |
+| familiar-vehicles | 56 | 56 | 5 | 0 |
+| working-waterfront | 56 | 56 | 5 | 0 |
+| forest-observations | 54 | 54 | 5 | 0 |
+| open-country-wildlife | 59 | 59 | 5 | 0 |
+| small-world-nature | 56 | 56 | 5 | 0 |
+| garden-styles | 56 | 56 | 5 | 0 |
+| flowers-through-the-year | 57 | 57 | 5 | 0 |
+| american-regional-tables | 56 | 56 | 5 | 0 |
+| bakers-specialties | 55 | 55 | 5 | 0 |
+| craft-room-techniques | 57 | 57 | 5 | 0 |
+| paper-and-lettering | 55 | 55 | 5 | 0 |
+| old-time-entertainment | 55 | 55 | 5 | 0 |
+| stage-and-performance | 55 | 55 | 5 | 0 |
+| collections-and-keepsakes | 56 | 56 | 5 | 0 |
+| home-details | 55 | 55 | 5 | 0 |
+| everyday-materials | 55 | 55 | 5 | 0 |
+| word-patterns | 56 | 56 | 5 | 0 |
+| winter-holiday-crafts | 56 | 56 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

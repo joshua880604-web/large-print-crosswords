@@ -68,9 +68,18 @@ test('mobile pages fit, touch entry and print navigation',async({page})=>{
  await page.goto('/crosswords/garden-days/');await page.locator('.clue-button').first().click();await page.keyboard.type('A');await page.getByRole('link',{name:'Print this puzzle'}).click();await expect(page.getByRole('button',{name:'Print puzzle'})).toBeVisible();
 });
 
-test('all playable pages and separate print sheets were built',async({request})=>{
- for(const p of puzzles){for(const path of [`/crosswords/${p.id}/`,`/print/${p.id}/`,`/print/${p.id}-answers/`]){const response=await request.get(path);expect(response.status(),path).toBe(200);expect(await response.text()).toContain(p.title.replaceAll('&','&amp;'));}}
-});
+// Bound each request context and test budget as the catalog grows. All games
+// and both print variants remain covered; release bodies after inspecting them.
+for(let start=0;start<puzzles.length;start+=25){
+ const batch=puzzles.slice(start,start+25);
+ test(`playable and print routes batch ${Math.floor(start/25)+1}`,async({request})=>{
+  for(const p of batch)for(const path of [`/crosswords/${p.id}/`,`/print/${p.id}/`,`/print/${p.id}-answers/`]){
+   const response=await request.get(path);
+   try{expect(response.status(),path).toBe(200);expect(await response.text()).toContain(p.title.replaceAll('&','&amp;'));}
+   finally{await response.dispose();}
+  }
+ });
+}
 
 test('touch selection switches direction and larger squares stay inside the board',async({browser})=>{
  const context=await browser.newContext({viewport:{width:390,height:844},hasTouch:true,isMobile:true});const page=await context.newPage();await page.goto('http://127.0.0.1:4321/crosswords/garden-days/');

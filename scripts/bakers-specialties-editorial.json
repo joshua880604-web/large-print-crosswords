@@ -1,0 +1,387 @@
+[
+  {
+    "id": "bakers-specialties",
+    "title": "Twists at the Pretzel Bakery",
+    "description": "Explore pretzel shapes and bakery vocabulary through loops, coarse salt, and a tray of dough.",
+    "cardDescription": "Explore pretzel shapes and bakery vocabulary through loops, coarse salt, and a tray of dough.",
+    "subtheme": "Twists at the Pretzel Bakery",
+    "focus": "A pretzel’s knotlike outline gives several clues their setting. The terms distinguish shaping actions from the dough, surface, and finished baked item.",
+    "solvingTip": "Use a shape or action first, then cross the words for ingredients and baking equipment.",
+    "words": [
+      [
+        "PRETZEL",
+        "Twisted baked bread often finished with coarse salt"
+      ],
+      [
+        "TWIST",
+        "To turn a strip of dough around itself"
+      ],
+      [
+        "LOOP",
+        "Curved enclosed opening in a classic pretzel shape"
+      ],
+      [
+        "COARSE",
+        "Describing large salt crystals on a pretzel's surface"
+      ],
+      [
+        "GLAZE",
+        "Thin surface coating giving a baked item a sheen"
+      ],
+      [
+        "DOUGH",
+        "Unbaked flour mixture shaped into a pretzel"
+      ],
+      [
+        "SALT",
+        "Crystalline seasoning visible on many pretzels"
+      ],
+      [
+        "YEAST",
+        "Microorganism helping many soft pretzel doughs rise"
+      ],
+      [
+        "TRAY",
+        "Flat support holding shaped pretzels in an oven"
+      ],
+      [
+        "KNOT",
+        "Interlaced form suggested by the pretzel's outline"
+      ],
+      [
+        "OVEN",
+        "Heated enclosure in which pretzels bake"
+      ],
+      [
+        "CRUST",
+        "Browned outer layer of a baked pretzel"
+      ],
+      [
+        "FLOUR",
+        "Ground grain powder forming much of the dough"
+      ],
+      [
+        "ROLL",
+        "To shape dough into a long thin rope"
+      ]
+    ],
+    "answerNotes": {
+      "PRETZEL": "Pretzels can be soft or crisp; the familiar twisted shape does not require only one texture.",
+      "TWIST": "Twisting describes the shaping action, while the dough remains the material being shaped.",
+      "LOOP": "A loop is a shape feature rather than an ingredient or a baking stage.",
+      "COARSE": "Coarse concerns crystal size; it is different from how salty the entire bread tastes.",
+      "GLAZE": "Glaze names a coating or finish; its ingredients depend on the item being made."
+    },
+    "requiredAnswers": [
+      "PRETZEL"
+    ]
+  },
+  {
+    "id": "bakers-specialties-2",
+    "title": "A Bagel Before Breakfast",
+    "description": "Identify a bagel through its ring shape, chewy texture, and the words for preparing and serving it.",
+    "cardDescription": "Identify a bagel through its ring shape, chewy texture, and the words for preparing and serving it.",
+    "subtheme": "A Bagel Before Breakfast",
+    "focus": "A familiar bagel is boiled before baking. The clues separate that preparation step from a serving choice such as toasting or adding a spread.",
+    "solvingTip": "Look for the stage described: shaping, cooking, or serving.",
+    "words": [
+      [
+        "BAGEL",
+        "Chewy breakfast ring commonly topped with sesame or poppy seeds"
+      ],
+      [
+        "CHEWY",
+        "Offering some resistance to the bite, as a bagel often does"
+      ],
+      [
+        "SESAME",
+        "Small pale seed commonly used as a bagel topping"
+      ],
+      [
+        "POPPY",
+        "Plant name completing ___ seeds, a familiar bagel topping"
+      ],
+      [
+        "SPREAD",
+        "Soft topping applied across the cut face of a bagel"
+      ],
+      [
+        "RING",
+        "Circular shape with a central opening"
+      ],
+      [
+        "HOLE",
+        "Open space through the middle of a bagel"
+      ],
+      [
+        "DOUGH",
+        "Unbaked mixture formed into a bagel"
+      ],
+      [
+        "BOIL",
+        "To cook in bubbling hot water before the baking stage"
+      ],
+      [
+        "BAKE",
+        "To cook using the dry heat of an oven"
+      ],
+      [
+        "TOAST",
+        "To brown a cut bagel surface before serving"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil used to divide a bagel"
+      ],
+      [
+        "FLOUR",
+        "Main ground-grain ingredient in bagel dough"
+      ],
+      [
+        "YEAST",
+        "Raising organism used in many bagel doughs"
+      ]
+    ],
+    "answerNotes": {
+      "BAGEL": "Boiling before baking helps distinguish a traditional bagel from an ordinary ring-shaped roll.",
+      "CHEWY": "Chewy describes texture rather than flavor or temperature.",
+      "SESAME": "Sesame is a topping ingredient, distinct from the flour in the dough.",
+      "POPPY": "The clue concerns the small food seeds used on baked goods, not a flower's petals.",
+      "SPREAD": "Spread can be a noun for the topping or a verb for applying it."
+    },
+    "requiredAnswers": [
+      "BAGEL"
+    ]
+  },
+  {
+    "id": "bakers-specialties-3",
+    "title": "A Waffle Iron on the Counter",
+    "description": "Explore a familiar breakfast through its patterned cooking plates, batter, and toppings.",
+    "cardDescription": "Explore a familiar breakfast through its patterned cooking plates, batter, and toppings.",
+    "subtheme": "A Waffle Iron on the Counter",
+    "focus": "A waffle takes its patterned shape from heated plates. The clues distinguish the appliance from the mixture poured into it and the food served afterward.",
+    "solvingTip": "Use the difference between tool, uncooked mixture, and topping to guide the crossings.",
+    "words": [
+      [
+        "WAFFLE",
+        "Breakfast cake cooked between patterned heated plates"
+      ],
+      [
+        "GRID",
+        "Regular crossing pattern impressed into a waffle"
+      ],
+      [
+        "BATTER",
+        "Pourable uncooked mixture placed in a waffle iron"
+      ],
+      [
+        "HINGE",
+        "Joint allowing the waffle iron's top to open and close"
+      ],
+      [
+        "SYRUP",
+        "Sweet pourable topping served over many waffles"
+      ],
+      [
+        "IRON",
+        "Traditional name for the patterned waffle-cooking appliance"
+      ],
+      [
+        "PLATE",
+        "Heated patterned surface inside a waffle maker"
+      ],
+      [
+        "POCKET",
+        "Small recessed square in a cooked waffle"
+      ],
+      [
+        "CRISP",
+        "Firm and lightly brittle, as a waffle's browned exterior can be"
+      ],
+      [
+        "BUTTER",
+        "Dairy spread melting into a warm waffle"
+      ],
+      [
+        "FORK",
+        "Pronged utensil used to eat a waffle"
+      ],
+      [
+        "MILK",
+        "Liquid ingredient in many waffle batters"
+      ],
+      [
+        "EGG",
+        "Ingredient contributing structure to many breakfast batters"
+      ],
+      [
+        "STEAM",
+        "Water vapor released as a waffle cooks"
+      ]
+    ],
+    "answerNotes": {
+      "WAFFLE": "A waffle's characteristic grid comes from the cooking plates rather than being cut into it afterward.",
+      "GRID": "Grid describes the surface pattern; the pockets are individual recesses within it.",
+      "BATTER": "Batter is the mixture before cooking, not the cooked waffle or the appliance.",
+      "HINGE": "A hinge connects movable parts while permitting rotation.",
+      "SYRUP": "Syrup is a topping, while sugar may also be part of the uncooked batter."
+    },
+    "requiredAnswers": [
+      "WAFFLE"
+    ]
+  },
+  {
+    "id": "bakers-specialties-4",
+    "title": "A Sourdough Starter Jar",
+    "description": "Explore a fermenting bread culture through its flour, bubbles, and familiar vocabulary of growth and acidity.",
+    "cardDescription": "Explore a fermenting bread culture through its flour, bubbles, and familiar vocabulary of growth and acidity.",
+    "subtheme": "A Sourdough Starter Jar",
+    "focus": "A sourdough starter is a culture containing yeasts and bacteria. Its bubbles and changing aroma reflect fermentation rather than the action of baking powder.",
+    "solvingTip": "Separate the living culture from the vessel, ingredient, or visible sign of activity.",
+    "words": [
+      [
+        "STARTER",
+        "Maintained culture of flour, water, and microbes used for sourdough"
+      ],
+      [
+        "CULTURE",
+        "Community of microorganisms grown in a prepared medium"
+      ],
+      [
+        "YEAST",
+        "Fungus contributing gas production in a bread starter"
+      ],
+      [
+        "FERMENT",
+        "To undergo microbial activity that changes a mixture"
+      ],
+      [
+        "LACTIC",
+        "Describing an acid associated with bacteria in sourdough"
+      ],
+      [
+        "FLOUR",
+        "Ground grain mixed with water to maintain a starter"
+      ],
+      [
+        "WATER",
+        "Liquid combined with flour in the culture"
+      ],
+      [
+        "BUBBLE",
+        "Small gas pocket visible in an active mixture"
+      ],
+      [
+        "JAR",
+        "Container holding a maintained sourdough culture"
+      ],
+      [
+        "RISE",
+        "To increase in volume as gas collects in a mixture"
+      ],
+      [
+        "AROMA",
+        "Smell noticed when opening the starter container"
+      ],
+      [
+        "TANG",
+        "Pleasantly sharp flavor associated with sour bread"
+      ],
+      [
+        "DOUGH",
+        "Bread mixture to which a mature culture may be added"
+      ],
+      [
+        "FEED",
+        "To add fresh flour and water to maintain the culture"
+      ]
+    ],
+    "answerNotes": {
+      "STARTER": "A sourdough starter commonly contains both yeasts and lactic acid bacteria.",
+      "CULTURE": "Culture has a biological meaning here, distinct from the arts or social traditions.",
+      "YEAST": "Yeasts help produce carbon dioxide during fermentation; bacteria also contribute important changes in sourdough.",
+      "FERMENT": "Fermentation describes biological change, not simply flour becoming wet.",
+      "LACTIC": "Lactic acid is one contributor to sourdough's acidity; several products affect its overall flavor and aroma."
+    },
+    "requiredAnswers": [
+      "STARTER"
+    ]
+  },
+  {
+    "id": "bakers-specialties-5",
+    "title": "Noodle Dough on the Board",
+    "description": "Follow the shapes and tools of handmade noodles through rolling, cutting, and a board dusted with flour.",
+    "cardDescription": "Follow the shapes and tools of handmade noodles through rolling, cutting, and a board dusted with flour.",
+    "subtheme": "Noodle Dough on the Board",
+    "focus": "Noodles can be made from many grain ingredients and recipes. This scene focuses on rolled dough and the distinctions between sheets, strands, and serving texture.",
+    "solvingTip": "Use the resulting shape: a broad sheet, a thin strand, or a small cut piece.",
+    "words": [
+      [
+        "NOODLE",
+        "Strip or strand of dough cooked as food"
+      ],
+      [
+        "SEMOLINA",
+        "Coarse milled durum-wheat product used in many pastas"
+      ],
+      [
+        "ROLLINGPIN",
+        "Cylindrical dough-flattening tool, with spaces omitted"
+      ],
+      [
+        "STRAND",
+        "Long thin piece of noodle dough"
+      ],
+      [
+        "ALDENTE",
+        "Italian phrase for firm to the bite, with spaces omitted"
+      ],
+      [
+        "FLOUR",
+        "Powder dusted over a noodle-making board"
+      ],
+      [
+        "DOUGH",
+        "Uncooked mixture rolled into a noodle sheet"
+      ],
+      [
+        "EGG",
+        "Ingredient included in many homemade noodle mixtures"
+      ],
+      [
+        "SHEET",
+        "Broad thin layer of rolled noodle dough"
+      ],
+      [
+        "CUT",
+        "To divide the rolled dough into strips"
+      ],
+      [
+        "BOARD",
+        "Flat work surface beneath the dough"
+      ],
+      [
+        "FORK",
+        "Utensil used to gather cooked noodle strands"
+      ],
+      [
+        "DRY",
+        "To remove moisture from freshly shaped noodles"
+      ],
+      [
+        "SAUCE",
+        "Flavorful accompaniment served with cooked noodles"
+      ]
+    ],
+    "answerNotes": {
+      "NOODLE": "Noodle is a broad food word; ingredients and shapes differ among traditions.",
+      "SEMOLINA": "Semolina names a wheat product, not a ready-made pasta shape.",
+      "ROLLINGPIN": "Rolling pin is continuous in the grid; the tool flattens the dough rather than cooking it.",
+      "STRAND": "A strand is a shape description; a sheet is broader and has not yet been divided into narrow pieces.",
+      "ALDENTE": "Al dente describes a cooked texture rather than a particular noodle shape."
+    },
+    "requiredAnswers": [
+      "NOODLE"
+    ]
+  }
+]

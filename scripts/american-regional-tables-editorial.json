@@ -1,0 +1,387 @@
+[
+  {
+    "id": "american-regional-tables",
+    "title": "A Bowl of New England Chowder",
+    "description": "Explore a familiar creamy chowder through its ingredients, serving pieces, and regional associations.",
+    "cardDescription": "Explore a familiar creamy chowder through its ingredients, serving pieces, and regional associations.",
+    "subtheme": "A Bowl of New England Chowder",
+    "focus": "New England clam chowder commonly combines clams with a creamy base and potatoes. The clues concern that familiar style while recognizing that chowder recipes and regional versions differ.",
+    "solvingTip": "Use a named ingredient before a general cooking or serving word.",
+    "words": [
+      [
+        "CHOWDER",
+        "Chunky soup style associated with clams and other hearty ingredients"
+      ],
+      [
+        "CLAM",
+        "Shellfish central to a familiar New England soup"
+      ],
+      [
+        "POTATO",
+        "Starchy tuber commonly diced into clam chowder"
+      ],
+      [
+        "CREAM",
+        "Rich dairy ingredient associated with the New England style"
+      ],
+      [
+        "LADLE",
+        "Deep-bowled utensil used to serve soup from a pot"
+      ],
+      [
+        "BROTH",
+        "Savory liquid forming part of a soup's base"
+      ],
+      [
+        "BOWL",
+        "Deep individual dish holding a serving of chowder"
+      ],
+      [
+        "ONION",
+        "Layered bulb often cooked into a chowder base"
+      ],
+      [
+        "CRACKER",
+        "Crisp dry accompaniment served beside some soups"
+      ],
+      [
+        "POT",
+        "Deep cooking vessel containing the chowder"
+      ],
+      [
+        "SPOON",
+        "Utensil used to eat a bowl of soup"
+      ],
+      [
+        "CORN",
+        "Yellow kernels featured in another common chowder variety"
+      ],
+      [
+        "SALT",
+        "Seasoning added to adjust a soup's flavor"
+      ],
+      [
+        "STEW",
+        "Thick simmered dish related in texture to a hearty soup"
+      ]
+    ],
+    "answerNotes": {
+      "CHOWDER": "Chowder names a soup family; the creamy New England style is one recognizable version.",
+      "CLAM": "Clams are bivalve mollusks, distinct from crustaceans such as crabs.",
+      "POTATO": "The potato is a stem tuber; its familiar kitchen use differs from the shellfish ingredient.",
+      "CREAM": "A creamy base distinguishes a familiar New England version from tomato-based Manhattan clam chowder.",
+      "LADLE": "A ladle transfers the soup, while a smaller spoon is used for eating it."
+    },
+    "requiredAnswers": [
+      "CHOWDER"
+    ]
+  },
+  {
+    "id": "american-regional-tables-2",
+    "title": "Gumbo at a Louisiana Table",
+    "description": "Identify familiar gumbo vocabulary through its thickening ingredients, cooking base, and rice accompaniment.",
+    "cardDescription": "Identify familiar gumbo vocabulary through its thickening ingredients, cooking base, and rice accompaniment.",
+    "subtheme": "Gumbo at a Louisiana Table",
+    "focus": "Gumbo has varied Louisiana traditions and recipes. The clues distinguish okra, a cooked flour-and-fat base, and powdered sassafras leaves rather than treating them as the same ingredient.",
+    "solvingTip": "Use the ingredient’s source or preparation to choose its name.",
+    "words": [
+      [
+        "GUMBO",
+        "Louisiana stew often served with rice"
+      ],
+      [
+        "ROUX",
+        "Cooked flour-and-fat mixture used as a base in many gumbos"
+      ],
+      [
+        "OKRA",
+        "Green ridged seed pod used in many gumbo recipes"
+      ],
+      [
+        "FILE",
+        "Powder made from dried sassafras leaves, with accent omitted"
+      ],
+      [
+        "SASSAFRAS",
+        "Tree whose dried leaves supply a traditional gumbo powder"
+      ],
+      [
+        "RICE",
+        "Grain commonly served with a bowl of gumbo"
+      ],
+      [
+        "SHRIMP",
+        "Small crustacean included in many seafood gumbos"
+      ],
+      [
+        "CELERY",
+        "Crisp stalk vegetable in a familiar Louisiana cooking base"
+      ],
+      [
+        "ONION",
+        "Layered bulb chopped into many savory Louisiana dishes"
+      ],
+      [
+        "PEPPER",
+        "Bell ___, vegetable paired with onion and celery in a common base"
+      ],
+      [
+        "POT",
+        "Deep vessel in which gumbo simmers"
+      ],
+      [
+        "SPOON",
+        "Utensil used for eating the stew"
+      ],
+      [
+        "BOWL",
+        "Individual dish holding a serving of gumbo"
+      ],
+      [
+        "STOCK",
+        "Flavored cooking liquid used to build a stew's base"
+      ]
+    ],
+    "answerNotes": {
+      "GUMBO": "Gumbo varies across households and traditions; the word does not prescribe one unchanging ingredient list.",
+      "ROUX": "A roux is cooked before liquid is incorporated; its color and flavor depend on preparation.",
+      "OKRA": "Okra is one gumbo ingredient and thickener; it is not required in every version.",
+      "FILE": "Filé is pronounced roughly fee-lay; the grid omits the accent mark.",
+      "SASSAFRAS": "The leaf powder is filé; it is different from a roux made from flour and fat."
+    },
+    "requiredAnswers": [
+      "GUMBO"
+    ]
+  },
+  {
+    "id": "american-regional-tables-3",
+    "title": "Salsa on a Southwestern Table",
+    "description": "Explore a fresh salsa through chopped produce, herbs, citrus, and familiar serving words.",
+    "cardDescription": "Explore a fresh salsa through chopped produce, herbs, citrus, and familiar serving words.",
+    "subtheme": "Salsa on a Southwestern Table",
+    "focus": "Salsa is a broad category with many cooked and fresh forms. The clues focus on a recognizable fresh tomato mixture and distinguish leaves, fruits, and serving vessels.",
+    "solvingTip": "Use the produce description or completed food name before a short preparation word.",
+    "words": [
+      [
+        "SALSA",
+        "Sauce category including fresh tomato-and-chile mixtures"
+      ],
+      [
+        "CILANTRO",
+        "American name for the fresh leaves of the coriander plant"
+      ],
+      [
+        "JALAPENO",
+        "Familiar green chile used in many fresh salsas, with accent omitted"
+      ],
+      [
+        "TOMATO",
+        "Juicy red fruit chopped into a familiar fresh salsa"
+      ],
+      [
+        "PICO",
+        "First word in ___ de gallo, a chopped fresh salsa"
+      ],
+      [
+        "LIME",
+        "Green citrus fruit whose juice brightens many salsas"
+      ],
+      [
+        "ONION",
+        "Layered bulb chopped into a fresh salsa"
+      ],
+      [
+        "CHILE",
+        "Pepper fruit supplying heat to many sauces"
+      ],
+      [
+        "BOWL",
+        "Serving vessel placed beside a dish of tortilla chips"
+      ],
+      [
+        "CHIP",
+        "Crisp tortilla piece used to scoop salsa"
+      ],
+      [
+        "DICE",
+        "To cut produce into small roughly even cubes"
+      ],
+      [
+        "SEED",
+        "Small reproductive structure inside a tomato or pepper"
+      ],
+      [
+        "JUICE",
+        "Liquid pressed from the lime used in this fresh salsa"
+      ],
+      [
+        "SALT",
+        "Seasoning commonly added to a fresh tomato mixture"
+      ]
+    ],
+    "answerNotes": {
+      "SALSA": "Salsa means sauce and includes many forms; a fresh tomato mixture is only one familiar version.",
+      "CILANTRO": "In American kitchen usage, cilantro commonly names the leaves and coriander the dried seeds.",
+      "JALAPENO": "Jalapeño can be used green or ripe; heat varies among peppers rather than following one exact level.",
+      "TOMATO": "Tomato is botanically a fruit, even though its culinary use is often savory.",
+      "PICO": "Pico de gallo is one fresh salsa style; the clue asks for only the opening word."
+    },
+    "requiredAnswers": [
+      "SALSA"
+    ]
+  },
+  {
+    "id": "american-regional-tables-4",
+    "title": "A Southern Grits Breakfast",
+    "description": "Recognize a familiar corn-based breakfast through its grains, texture, and serving companions.",
+    "cardDescription": "Recognize a familiar corn-based breakfast through its grains, texture, and serving companions.",
+    "subtheme": "A Southern Grits Breakfast",
+    "focus": "Grits are made from ground corn, while hominy describes corn treated by a particular process. The clues keep those terms distinct and use familiar breakfast objects for support.",
+    "solvingTip": "Read whether the clue asks for the grain product, its texture, or something served alongside it.",
+    "words": [
+      [
+        "GRITS",
+        "Coarsely ground corn cooked into a familiar Southern porridge"
+      ],
+      [
+        "HOMINY",
+        "Corn treated with an alkaline process that removes its outer hull"
+      ],
+      [
+        "PORRIDGE",
+        "Soft dish made by cooking a grain product in liquid"
+      ],
+      [
+        "COARSE",
+        "Having relatively large particles, as some ground corn does"
+      ],
+      [
+        "KERNEL",
+        "Individual grain on an ear of corn"
+      ],
+      [
+        "CORN",
+        "Grain crop supplying the main ingredient in grits"
+      ],
+      [
+        "BOWL",
+        "Deep dish holding a breakfast serving"
+      ],
+      [
+        "SPOON",
+        "Utensil used to eat a soft cooked grain dish"
+      ],
+      [
+        "BUTTER",
+        "Dairy spread commonly melted into cooked grits"
+      ],
+      [
+        "CHEESE",
+        "Savory dairy addition used in some grits dishes"
+      ],
+      [
+        "CREAMY",
+        "Smooth and rich in consistency, as well-cooked grits may be"
+      ],
+      [
+        "EGG",
+        "Breakfast item often served alongside a grain dish"
+      ],
+      [
+        "MILK",
+        "Dairy liquid used in some breakfast preparations"
+      ],
+      [
+        "POT",
+        "Vessel in which the grain mixture cooks"
+      ]
+    ],
+    "answerNotes": {
+      "GRITS": "Grits can be made from different kinds of corn; not every product is made from hominy.",
+      "HOMINY": "Hominy is processed corn, distinct from ordinary cornmeal before that treatment.",
+      "PORRIDGE": "Porridge is a broad preparation category, including more than one grain or regional dish.",
+      "COARSE": "Coarse describes particle size rather than a particular variety of corn.",
+      "KERNEL": "A kernel is one grain; ground kernels form products with different textures and uses."
+    },
+    "requiredAnswers": [
+      "GRITS"
+    ]
+  },
+  {
+    "id": "american-regional-tables-5",
+    "title": "Cornbread in an Iron Skillet",
+    "description": "Explore skillet cornbread through its cornmeal, leavening, pan, and browned outer edge.",
+    "cardDescription": "Explore skillet cornbread through its cornmeal, leavening, pan, and browned outer edge.",
+    "subtheme": "Cornbread in an Iron Skillet",
+    "focus": "Cornbread recipes vary in sweetness, texture, and ingredients. The clues identify a batter and its cookware without claiming one style belongs exclusively to a single region.",
+    "solvingTip": "Separate the dry ingredient, the mixed batter, and the equipment that shapes the loaf.",
+    "words": [
+      [
+        "CORNBREAD",
+        "Bread made with cornmeal as a principal ingredient"
+      ],
+      [
+        "CORNMEAL",
+        "Ground dried corn used as a baking ingredient"
+      ],
+      [
+        "SKILLET",
+        "Flat-bottomed frying pan used to bake a round cornbread"
+      ],
+      [
+        "BATTER",
+        "Pourable mixture before a quick bread is baked"
+      ],
+      [
+        "LEAVEN",
+        "To make a mixture rise by introducing or producing gas"
+      ],
+      [
+        "CRUST",
+        "Browned outer surface of a baked bread"
+      ],
+      [
+        "WEDGE",
+        "Triangular serving cut from a round skillet bread"
+      ],
+      [
+        "OVEN",
+        "Heated baking chamber holding the cornbread skillet"
+      ],
+      [
+        "MILK",
+        "Dairy liquid used in many cornbread mixtures"
+      ],
+      [
+        "EGG",
+        "Ingredient helping bind many quick-bread batters"
+      ],
+      [
+        "SALT",
+        "Small-quantity seasoning mixed into a bread batter"
+      ],
+      [
+        "FLOUR",
+        "Ground grain ingredient added to some cornbread recipes"
+      ],
+      [
+        "HONEY",
+        "Sweet accompaniment sometimes served with cornbread"
+      ],
+      [
+        "IRON",
+        "Metal associated with a traditional heavy black skillet"
+      ]
+    ],
+    "answerNotes": {
+      "CORNBREAD": "Cornbread has many regional and household forms; sweetness and flour content are not identical in every version.",
+      "CORNMEAL": "Cornmeal differs in grind size and is not the same ingredient as purified cornstarch.",
+      "SKILLET": "A skillet provides the cooking vessel; cast iron is one familiar material rather than part of the definition of every skillet.",
+      "BATTER": "Batter is typically looser than a kneadable dough, though mixtures vary in thickness.",
+      "LEAVEN": "Leaven is a process word; baking powder and yeast work in different ways to produce rising."
+    },
+    "requiredAnswers": [
+      "CORNBREAD"
+    ]
+  }
+]

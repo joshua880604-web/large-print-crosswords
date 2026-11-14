@@ -1,0 +1,387 @@
+[
+  {
+    "id": "stage-and-performance",
+    "title": "A Marionette Above the Stage",
+    "description": "Look behind a small puppet performance through strings, a control bar, and the figure moving below them.",
+    "cardDescription": "Look behind a small puppet performance through strings, a control bar, and the figure moving below them.",
+    "subtheme": "A Marionette Above the Stage",
+    "focus": "A marionette is controlled from above using strings or wires. Other puppet forms use hands or rods, so the clues specify the arrangement rather than applying it to every puppet.",
+    "solvingTip": "Separate the figure from its controls and the theater space surrounding it.",
+    "words": [
+      [
+        "MARIONETTE",
+        "Puppet moved from above by strings or wires"
+      ],
+      [
+        "STRING",
+        "Thin line connecting an overhead control to the puppet"
+      ],
+      [
+        "CONTROL",
+        "Hand-held frame directing a marionette's attached lines"
+      ],
+      [
+        "JOINT",
+        "Movable connection between parts of a puppet's body"
+      ],
+      [
+        "PUPPETEER",
+        "Person operating the figures in a puppet performance"
+      ],
+      [
+        "PUPPET",
+        "Movable figure representing a character"
+      ],
+      [
+        "STAGE",
+        "Small performance area seen by the audience"
+      ],
+      [
+        "HAND",
+        "Operator's body part holding the control frame"
+      ],
+      [
+        "HEAD",
+        "Upper body part of the puppet figure"
+      ],
+      [
+        "ARM",
+        "Movable limb attached beside the puppet's torso"
+      ],
+      [
+        "LEG",
+        "Lower limb lifted during a walking movement"
+      ],
+      [
+        "CURTAIN",
+        "Fabric screen opening onto the puppet scene"
+      ],
+      [
+        "PROP",
+        "Small object used by the puppet character"
+      ],
+      [
+        "SCENE",
+        "One part of the miniature performance"
+      ]
+    ],
+    "answerNotes": {
+      "MARIONETTE": "A marionette uses an overhead control system, unlike a hand puppet operated from inside.",
+      "STRING": "Strings transmit the operator's movements; their placement influences which parts move.",
+      "CONTROL": "The control is held above the figure; it is not the puppet's visible body.",
+      "JOINT": "Joints allow limbs to bend, while strings provide the pulling action.",
+      "PUPPETEER": "A puppeteer creates the movements; performers can use several different puppet techniques."
+    },
+    "requiredAnswers": [
+      "MARIONETTE"
+    ]
+  },
+  {
+    "id": "stage-and-performance-2",
+    "title": "Shadows Behind a Theater Screen",
+    "description": "Explore a shadow performance through a light source, cut-out figures, and the dark shapes seen by the audience.",
+    "cardDescription": "Explore a shadow performance through a light source, cut-out figures, and the dark shapes seen by the audience.",
+    "subtheme": "Shadows Behind a Theater Screen",
+    "focus": "A shadow performance uses a light and an intervening figure to create an outline. The audience sees the resulting silhouette rather than all the surface details of the object making it.",
+    "solvingTip": "Distinguish the light source, the blocking figure, and the surface receiving the shadow.",
+    "words": [
+      [
+        "SILHOUETTE",
+        "Dark outline of a figure seen against a brighter background"
+      ],
+      [
+        "OPAQUE",
+        "Blocking visible light from passing directly through"
+      ],
+      [
+        "SCREEN",
+        "Surface on which a shadow performance is displayed"
+      ],
+      [
+        "CUTOUT",
+        "Flat shaped figure used to cast a recognizable shadow"
+      ],
+      [
+        "PROFILE",
+        "Side-view outline of a face or figure"
+      ],
+      [
+        "SHADOW",
+        "Dark region produced where a figure blocks light"
+      ],
+      [
+        "PUPPET",
+        "Controlled figure used in the performance"
+      ],
+      [
+        "LIGHT",
+        "Illumination needed to make the shadow visible"
+      ],
+      [
+        "LAMP",
+        "Device supplying the light behind the figures"
+      ],
+      [
+        "ROD",
+        "Thin control supporting or moving a shadow figure"
+      ],
+      [
+        "HAND",
+        "Body part that can itself form a shadow shape"
+      ],
+      [
+        "BEAM",
+        "Directed path of light from a source"
+      ],
+      [
+        "WALL",
+        "Flat vertical surface usable as a simple shadow screen"
+      ],
+      [
+        "SHAPE",
+        "Outline distinguishing one shadow character from another"
+      ]
+    ],
+    "answerNotes": {
+      "SILHOUETTE": "A silhouette shows an outline rather than the object's full internal detail.",
+      "OPAQUE": "An opaque figure casts a shadow by blocking light; a translucent screen can pass scattered light.",
+      "SCREEN": "The screen receives or reveals the shadow image; it is separate from the light source behind the figures.",
+      "CUTOUT": "A cutout's outline helps create the image even when its surface markings are unseen.",
+      "PROFILE": "Profile describes a viewing direction rather than the material making the shadow."
+    },
+    "requiredAnswers": [
+      "SILHOUETTE"
+    ]
+  },
+  {
+    "id": "stage-and-performance-3",
+    "title": "Rehearsing a Community Play",
+    "description": "Follow a theater rehearsal through scripts, stage positions, and the short words used to coordinate a scene.",
+    "cardDescription": "Follow a theater rehearsal through scripts, stage positions, and the short words used to coordinate a scene.",
+    "subtheme": "Rehearsing a Community Play",
+    "focus": "A rehearsal prepares a performance through repeated work. The clues distinguish a spoken line, an entrance signal, and a person helping the cast remember the text.",
+    "solvingTip": "Read whether the clue concerns words, movement, a role, or a location beside the stage.",
+    "words": [
+      [
+        "REHEARSAL",
+        "Practice session preparing a play for performance"
+      ],
+      [
+        "PROMPTER",
+        "Person helping a performer recall a forgotten line"
+      ],
+      [
+        "DIRECTOR",
+        "Person guiding a play's interpretation and stage action"
+      ],
+      [
+        "SCRIPT",
+        "Written dialogue and directions used to prepare the play"
+      ],
+      [
+        "CUE",
+        "Signal for a performer to speak or make an entrance"
+      ],
+      [
+        "CAST",
+        "Group of actors taking the play's roles"
+      ],
+      [
+        "ROLE",
+        "Character part assigned to an actor"
+      ],
+      [
+        "LINE",
+        "One portion of dialogue learned by a performer"
+      ],
+      [
+        "SCENE",
+        "Section of action within a play"
+      ],
+      [
+        "STAGE",
+        "Area where the actors rehearse their movements"
+      ],
+      [
+        "WING",
+        "Concealed space beside the acting area"
+      ],
+      [
+        "EXIT",
+        "To leave the visible acting area"
+      ],
+      [
+        "PROP",
+        "Object handled by an actor during a scene"
+      ],
+      [
+        "RUN",
+        "To perform a rehearsal sequence continuously"
+      ]
+    ],
+    "answerNotes": {
+      "REHEARSAL": "A rehearsal develops timing, words, and movement before the public performance.",
+      "PROMPTER": "A prompter supplies a reminder; the director coordinates the larger artistic work.",
+      "DIRECTOR": "A director works with the cast and production team rather than necessarily appearing as a character.",
+      "SCRIPT": "The script supplies text and directions; the performance also involves movement, sound, and interpretation.",
+      "CUE": "A cue marks timing, while the spoken line is the text delivered afterward."
+    },
+    "requiredAnswers": [
+      "REHEARSAL"
+    ]
+  },
+  {
+    "id": "stage-and-performance-4",
+    "title": "Costumes in the Theater Wardrobe",
+    "description": "Explore a theater’s clothing collection through fitting work, fabric pieces, and accessories worn by performers.",
+    "cardDescription": "Explore a theater’s clothing collection through fitting work, fabric pieces, and accessories worn by performers.",
+    "subtheme": "Costumes in the Theater Wardrobe",
+    "focus": "A costume helps establish a character’s appearance. The clues separate a worker’s role from a garment and from the construction details that make a costume fit.",
+    "solvingTip": "Use the part’s function: sewing, fastening, covering, or helping a performer change.",
+    "words": [
+      [
+        "WARDROBE",
+        "Theater department or collection responsible for costumes"
+      ],
+      [
+        "DRESSER",
+        "Theater worker helping performers put on and change costumes"
+      ],
+      [
+        "COSTUME",
+        "Clothing worn by a performer to represent a character"
+      ],
+      [
+        "FITTING",
+        "Session checking and adjusting how a costume sits on its wearer"
+      ],
+      [
+        "PATTERN",
+        "Template guiding the cutting of costume fabric"
+      ],
+      [
+        "FABRIC",
+        "Cloth used to make a stage garment"
+      ],
+      [
+        "HEM",
+        "Folded finish along a costume's lower edge"
+      ],
+      [
+        "SEAM",
+        "Stitched join between pieces of garment fabric"
+      ],
+      [
+        "WIG",
+        "Artificial hair worn as part of a character's appearance"
+      ],
+      [
+        "HAT",
+        "Head covering chosen for a stage character"
+      ],
+      [
+        "CAPE",
+        "Shoulder-hung costume garment leaving the arms free"
+      ],
+      [
+        "MASK",
+        "Face covering used in some theatrical roles"
+      ],
+      [
+        "PIN",
+        "Small pointed fastener used during a costume fitting"
+      ],
+      [
+        "VEST",
+        "Sleeveless garment worn over a shirt"
+      ]
+    ],
+    "answerNotes": {
+      "WARDROBE": "Wardrobe names the costume collection or department here, not a bedroom furniture item.",
+      "DRESSER": "A dresser assists with garments and changes; the same word can name furniture in another context.",
+      "COSTUME": "A costume supports characterization rather than merely describing an actor's ordinary clothes.",
+      "FITTING": "A fitting concerns garment fit and alterations before use on stage.",
+      "PATTERN": "A sewing pattern guides construction; it is distinct from a decorative printed fabric design."
+    },
+    "requiredAnswers": [
+      "WARDROBE"
+    ]
+  },
+  {
+    "id": "stage-and-performance-5",
+    "title": "Lights Above a Small Stage",
+    "description": "Recognize theater lighting equipment through focused beams, colored filters, and controls used during a performance.",
+    "cardDescription": "Recognize theater lighting equipment through focused beams, colored filters, and controls used during a performance.",
+    "subtheme": "Lights Above a Small Stage",
+    "focus": "A lighting design separates direction, intensity, and color. The clues describe equipment and effects rather than electrical installation work.",
+    "solvingTip": "Match the shape of the light or the job of the control to the term.",
+    "words": [
+      [
+        "SPOTLIGHT",
+        "Stage lamp producing a directed concentrated beam"
+      ],
+      [
+        "FLOODLIGHT",
+        "Lamp spreading light over a broad area"
+      ],
+      [
+        "GOBO",
+        "Patterned insert used to shape a projected stage-light image"
+      ],
+      [
+        "DIMMER",
+        "Control adjusting the intensity of a compatible stage lamp"
+      ],
+      [
+        "GEL",
+        "Traditional term for a colored filter placed in a stage-light beam"
+      ],
+      [
+        "LAMP",
+        "Light-producing unit in a theater fixture"
+      ],
+      [
+        "RIG",
+        "Arrangement or installation of overhead stage-lighting equipment"
+      ],
+      [
+        "FRESNEL",
+        "Lens type giving a stage light stepped circular zones"
+      ],
+      [
+        "LENS",
+        "Optical part directing a theatrical lamp's beam"
+      ],
+      [
+        "CUE",
+        "Timed instruction to change the lighting during a scene"
+      ],
+      [
+        "BEAM",
+        "Directed bundle of light aimed at the acting area"
+      ],
+      [
+        "COLOR",
+        "Hue selected for a stage-light effect"
+      ],
+      [
+        "FOCUS",
+        "To adjust a light's aim or sharpness"
+      ],
+      [
+        "SHADE",
+        "Area receiving less illumination than its surroundings"
+      ]
+    ],
+    "answerNotes": {
+      "SPOTLIGHT": "A spotlight emphasizes a selected area rather than broadly lighting an entire surface.",
+      "FLOODLIGHT": "A floodlight provides broad coverage; a spotlight provides a more concentrated beam.",
+      "GOBO": "A gobo can create a pattern by controlling the light passing through an optical system.",
+      "DIMMER": "A dimmer changes brightness; it is separate from a colored filter or a shaped projection insert.",
+      "GEL": "Gel is a filter name in lighting, not a food ingredient or hair product in this setting."
+    },
+    "requiredAnswers": [
+      "SPOTLIGHT"
+    ]
+  }
+]

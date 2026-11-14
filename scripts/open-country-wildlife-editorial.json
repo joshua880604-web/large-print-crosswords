@@ -1,0 +1,387 @@
+[
+  {
+    "id": "open-country-wildlife",
+    "title": "Life on the Prairie",
+    "description": "Explore North American grassland through its grasses, large grazers, and burrowing animals.",
+    "cardDescription": "Explore North American grassland through its grasses, large grazers, and burrowing animals.",
+    "subtheme": "Life on the Prairie",
+    "focus": "A prairie is a grassland ecosystem, not simply an empty field. The clues describe the plants, animals, and ground features that make up the habitat.",
+    "solvingTip": "Use the clue’s category: grazing animal, burrow, plant, or open landscape.",
+    "words": [
+      [
+        "PRAIRIE",
+        "Broad North American grassland landscape"
+      ],
+      [
+        "BISON",
+        "Large grazing mammal often called buffalo in North America"
+      ],
+      [
+        "BURROW",
+        "Underground passage or home dug by a grassland animal"
+      ],
+      [
+        "GOPHER",
+        "Burrowing rodent associated with underground tunnels"
+      ],
+      [
+        "HERD",
+        "Group of large grazing mammals such as bison"
+      ],
+      [
+        "GRASS",
+        "Narrow-leaved plant covering much of a prairie"
+      ],
+      [
+        "LARK",
+        "Meadow___, yellow-breasted grassland bird"
+      ],
+      [
+        "ROOT",
+        "Below-ground plant part extending into prairie soil"
+      ],
+      [
+        "SEED",
+        "Reproductive structure eaten by many grassland birds"
+      ],
+      [
+        "SOIL",
+        "Earth beneath the prairie vegetation"
+      ],
+      [
+        "HAWK",
+        "Bird of prey seen hunting above open country"
+      ],
+      [
+        "BADGER",
+        "Stocky digging mammal with strong claws"
+      ],
+      [
+        "PLAIN",
+        "Wide relatively level area of open land"
+      ],
+      [
+        "WIND",
+        "Moving air sweeping across an open grassland"
+      ]
+    ],
+    "answerNotes": {
+      "PRAIRIE": "Prairies include diverse plant and animal communities; they are not all identical in rainfall, soil, or vegetation height.",
+      "BISON": "American bison are distinct from the true buffalo species of Africa and Asia.",
+      "BURROW": "A burrow is the structure, while the animal occupying it may be a rodent or another kind of creature.",
+      "GOPHER": "Gopher names an animal group, not every small mammal living under a lawn or prairie.",
+      "HERD": "Herd names the group rather than the grassland habitat it occupies."
+    },
+    "requiredAnswers": [
+      "PRAIRIE"
+    ]
+  },
+  {
+    "id": "open-country-wildlife-2",
+    "title": "Desert Neighbors After Dusk",
+    "description": "Look at familiar desert animals through their nighttime activity and adaptations to dry country.",
+    "cardDescription": "Look at familiar desert animals through their nighttime activity and adaptations to dry country.",
+    "subtheme": "Desert Neighbors After Dusk",
+    "focus": "Night activity can reduce exposure to daytime heat, but desert animals have varied habits. The clues use particular body features and animal names rather than assuming every species behaves alike.",
+    "solvingTip": "Try a distinctive ear, tail, or covering before the longer animal names.",
+    "words": [
+      [
+        "NOCTURNAL",
+        "Describing an animal mainly active at night"
+      ],
+      [
+        "JAVELINA",
+        "Peccary of the American Southwest, resembling a small pig"
+      ],
+      [
+        "JACKRABBIT",
+        "Long-eared hare associated with open western country"
+      ],
+      [
+        "GECKO",
+        "Lizard group whose members often have conspicuous toe pads"
+      ],
+      [
+        "DEN",
+        "Sheltered resting place used by a desert mammal"
+      ],
+      [
+        "OWL",
+        "Bird of prey often heard after desert sunset"
+      ],
+      [
+        "FOX",
+        "Kit ___, small desert canine with large ears"
+      ],
+      [
+        "CACTUS",
+        "Spiny succulent plant in many Southwestern habitats"
+      ],
+      [
+        "DUSK",
+        "Evening transition toward darkness"
+      ],
+      [
+        "BAT",
+        "Flying mammal active around many desert evenings"
+      ],
+      [
+        "TAIL",
+        "Rear extension of a fox or lizard"
+      ],
+      [
+        "SAND",
+        "Loose mineral grains covering some desert ground"
+      ],
+      [
+        "ROCK",
+        "Hard natural material offering shade and shelter"
+      ],
+      [
+        "PAW",
+        "Foot of a desert fox"
+      ]
+    ],
+    "answerNotes": {
+      "NOCTURNAL": "Nocturnal concerns activity timing; it does not mean an animal can never be seen during daylight.",
+      "JAVELINA": "A javelina is a peccary, not a member of the domestic pig's family despite its appearance.",
+      "JACKRABBIT": "Jackrabbits are hares despite the common name; their large ears also play a role in heat exchange.",
+      "GECKO": "Many geckos have adhesive toe pads, but that feature is not universal across the whole group.",
+      "DEN": "Den names the shelter; an animal's behavior and location determine the particular kind it uses."
+    },
+    "requiredAnswers": [
+      "NOCTURNAL"
+    ]
+  },
+  {
+    "id": "open-country-wildlife-3",
+    "title": "In an Everglades Wetland",
+    "description": "Explore a South Florida wetland through its shallow water, distinctive plants, and birds.",
+    "cardDescription": "Explore a South Florida wetland through its shallow water, distinctive plants, and birds.",
+    "subtheme": "In an Everglades Wetland",
+    "focus": "The Everglades include more than one habitat. Sawgrass marsh, wooded islands, and tree-lined waterways support different communities rather than forming one uniform landscape.",
+    "solvingTip": "Identify the water feature or plant type before using the animal clues for crossings.",
+    "words": [
+      [
+        "EVERGLADES",
+        "South Florida wetland region, with no space needed"
+      ],
+      [
+        "SAWGRASS",
+        "Sharp-edged sedge prominent in Everglades marshes"
+      ],
+      [
+        "SLOUGH",
+        "Slow-flowing wetland channel or low water-filled area"
+      ],
+      [
+        "HAMMOCK",
+        "Raised wooded island within a South Florida wetland landscape"
+      ],
+      [
+        "EGRET",
+        "Long-legged wading bird often seen feeding in shallow water"
+      ],
+      [
+        "HERON",
+        "Wading bird with long legs and a pointed bill"
+      ],
+      [
+        "IBIS",
+        "Wading bird with a long downward-curving bill"
+      ],
+      [
+        "MARSH",
+        "Wetland dominated by nonwoody vegetation"
+      ],
+      [
+        "MANGROVE",
+        "Salt-tolerant tree group found along some Florida shores"
+      ],
+      [
+        "WATER",
+        "Liquid moving slowly through the wetland"
+      ],
+      [
+        "REED",
+        "Tall grasslike waterside stem"
+      ],
+      [
+        "FISH",
+        "Animal prey caught by many wading birds"
+      ],
+      [
+        "MUCK",
+        "Soft wet soil rich in organic material"
+      ],
+      [
+        "CYPRESS",
+        "Tree associated with swampy southern habitats"
+      ]
+    ],
+    "answerNotes": {
+      "EVERGLADES": "The Everglades contain marshes, tree islands, and other habitats rather than one continuous deep-water lake.",
+      "SAWGRASS": "Sawgrass is a sedge, despite grass in its common name.",
+      "SLOUGH": "Slough is a water-landform word with several regional pronunciations; the clue identifies the wetland meaning.",
+      "HAMMOCK": "Hammock names a patch of trees here rather than a hanging fabric bed.",
+      "EGRET": "Egrets are herons; the common-name distinction is not a separate unrelated bird family."
+    },
+    "requiredAnswers": [
+      "EVERGLADES"
+    ]
+  },
+  {
+    "id": "open-country-wildlife-4",
+    "title": "An Alpine Meadow in Summer",
+    "description": "Visit a high mountain meadow through its short growing season, low plants, and familiar wildlife.",
+    "cardDescription": "Visit a high mountain meadow through its short growing season, low plants, and familiar wildlife.",
+    "subtheme": "An Alpine Meadow in Summer",
+    "focus": "Alpine habitats lie above the tree line. Low growth and a short summer distinguish them from wooded slopes farther down the mountain.",
+    "solvingTip": "Use the elevation or body feature named by the clue, then try the short landscape words.",
+    "words": [
+      [
+        "ALPINE",
+        "Describing the high mountain zone above the tree line"
+      ],
+      [
+        "MARMOT",
+        "Large ground-dwelling squirrel found in many mountain regions"
+      ],
+      [
+        "PIKA",
+        "Small rabbit relative living among mountain rocks"
+      ],
+      [
+        "TALUS",
+        "Accumulation of broken rock on a mountain slope"
+      ],
+      [
+        "TREELINE",
+        "Upper elevation boundary of tree growth, with spaces omitted"
+      ],
+      [
+        "MEADOW",
+        "Open area covered mainly by grasses and other low plants"
+      ],
+      [
+        "MOSS",
+        "Low nonflowering plant growing in moist mountain patches"
+      ],
+      [
+        "RIDGE",
+        "Long narrow crest of a mountain"
+      ],
+      [
+        "SNOW",
+        "Frozen precipitation lingering in high shaded places"
+      ],
+      [
+        "BLOOM",
+        "Open mountain flower during the short growing season"
+      ],
+      [
+        "ROCK",
+        "Hard material forming the meadow's surrounding outcrops"
+      ],
+      [
+        "GRASS",
+        "Narrow-leaved plant in the mountain meadow"
+      ],
+      [
+        "WIND",
+        "Moving air passing over exposed high ground"
+      ],
+      [
+        "ROOT",
+        "Plant anchor beneath a shallow mountain soil"
+      ]
+    ],
+    "answerNotes": {
+      "ALPINE": "Alpine describes elevation and habitat; it is not limited to the European Alps.",
+      "MARMOT": "Marmots are rodents in the squirrel family, often associated with open rocky or meadow habitat.",
+      "PIKA": "A pika belongs to the rabbit-and-hare order rather than the rodent group.",
+      "TALUS": "Talus describes loose rock debris, a setting where animals such as pikas may shelter.",
+      "TREELINE": "Tree line depends on climate and local conditions rather than one worldwide elevation."
+    },
+    "requiredAnswers": [
+      "ALPINE"
+    ]
+  },
+  {
+    "id": "open-country-wildlife-5",
+    "title": "Animals of the Northern Tundra",
+    "description": "Explore a cold northern landscape through low vegetation and the animals adapted to its seasons.",
+    "cardDescription": "Explore a cold northern landscape through low vegetation and the animals adapted to its seasons.",
+    "subtheme": "Animals of the Northern Tundra",
+    "focus": "Tundra supports low-growing vegetation where conditions limit tree growth. The clues distinguish mammal features, bird plumage, and the seasonal background around them.",
+    "solvingTip": "Use a distinctive covering or body part to separate the animal names from habitat words.",
+    "words": [
+      [
+        "TUNDRA",
+        "Cold treeless region supporting low vegetation"
+      ],
+      [
+        "CARIBOU",
+        "North American name for a wild reindeer"
+      ],
+      [
+        "PTARMIGAN",
+        "Northern grouse whose plumage commonly changes toward white in winter"
+      ],
+      [
+        "MUSKOX",
+        "Shaggy northern hoofed mammal with a thick insulating undercoat"
+      ],
+      [
+        "LICHEN",
+        "Partnership of a fungus with an alga or cyanobacterium"
+      ],
+      [
+        "FOX",
+        "Arctic ___, small northern canine"
+      ],
+      [
+        "HARE",
+        "Arctic ___, long-eared northern mammal"
+      ],
+      [
+        "ANTLER",
+        "Branched head structure shed and regrown by deer species"
+      ],
+      [
+        "HOOF",
+        "Hard foot covering on a caribou"
+      ],
+      [
+        "MOSS",
+        "Small nonflowering plant in many damp tundra areas"
+      ],
+      [
+        "SNOW",
+        "White frozen precipitation covering the winter ground"
+      ],
+      [
+        "DEN",
+        "Sheltered resting or breeding place of a northern fox"
+      ],
+      [
+        "FUR",
+        "Insulating hair covering a northern mammal"
+      ],
+      [
+        "HERD",
+        "Group of caribou traveling together"
+      ]
+    ],
+    "answerNotes": {
+      "TUNDRA": "Tundra occurs in northern and high mountain settings; treeless does not mean entirely without plants.",
+      "CARIBOU": "Caribou and reindeer belong to the same species, though the names reflect different regional and domestic contexts.",
+      "PTARMIGAN": "Ptarmigan are birds; seasonal feather changes vary with species, sex, and conditions.",
+      "MUSKOX": "Muskoxen are related to the goat-and-sheep group rather than being domestic cattle.",
+      "LICHEN": "A lichen is a biological partnership, not a moss despite some similar-looking low growth forms."
+    },
+    "requiredAnswers": [
+      "TUNDRA"
+    ]
+  }
+]

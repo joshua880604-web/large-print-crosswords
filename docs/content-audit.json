@@ -1,13 +1,13 @@
 {
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
-    "puzzles": 300,
-    "clueEntries": 3360,
-    "distinctAnswers": 1859,
-    "distinctAnswerCluePairs": 3360,
-    "distinctIntroductions": 300,
+    "puzzles": 400,
+    "clueEntries": 4476,
+    "distinctAnswers": 2202,
+    "distinctAnswerCluePairs": 4476,
+    "distinctIntroductions": 400,
     "numberedTitles": 0,
-    "editedEditions": 300
+    "editedEditions": 400
   },
   "refinedSeries": [
     {
@@ -1809,6 +1809,606 @@
         "Gears at Work",
         "Ramps and Screws"
       ]
+    },
+    {
+      "id": "rail-and-water-travel",
+      "name": "Rail and Water Travel",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "rail-and-water-travel",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Night in a Sleeping Car",
+        "Beside a Steam Locomotive",
+        "A Canal Boat at the Lock",
+        "Crossing on a Passenger Ferry",
+        "A Paddlewheel Riverboat"
+      ]
+    },
+    {
+      "id": "roadside-americana",
+      "name": "Roadside Americana",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "roadside-americana",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "At an Old Service Station",
+        "A Roadside Motel Stop",
+        "At the Soda Fountain",
+        "Through the Car Wash",
+        "A Glowing Roadside Sign"
+      ]
+    },
+    {
+      "id": "familiar-vehicles",
+      "name": "Familiar Vehicles",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "familiar-vehicles",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.222
+      },
+      "subjects": [
+        "A Convertible on a Sunday Drive",
+        "Alongside a Yellow School Bus",
+        "A Tractor Beside the Barn",
+        "A Hot-Air Balloon at Dawn",
+        "A Streetcar Along the Avenue"
+      ]
+    },
+    {
+      "id": "working-waterfront",
+      "name": "Working Waterfront",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "working-waterfront",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Fishing Trawler at the Pier",
+        "Where the River Meets the Sea",
+        "In a Wooden Boat Shed",
+        "Buoys Beyond the Harbor",
+        "Reading a Harbor Chart"
+      ]
+    },
+    {
+      "id": "forest-observations",
+      "name": "Forest Observations",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "forest-observations",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.158
+      },
+      "subjects": [
+        "Ferns on the Forest Floor",
+        "Acorns Beneath an Oak",
+        "A Pine Cone on the Path",
+        "Mushrooms After the Rain",
+        "Wildflowers Along a Woodland Path"
+      ]
+    },
+    {
+      "id": "open-country-wildlife",
+      "name": "Open Country Wildlife",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "open-country-wildlife",
+        "puzzles": 5,
+        "entries": 59,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 59,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.091
+      },
+      "subjects": [
+        "Life on the Prairie",
+        "Desert Neighbors After Dusk",
+        "In an Everglades Wetland",
+        "An Alpine Meadow in Summer",
+        "Animals of the Northern Tundra"
+      ]
+    },
+    {
+      "id": "small-world-nature",
+      "name": "Small World Nature",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "small-world-nature",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Ladybugs Among the Leaves",
+        "An Ant Colony Under the Path",
+        "An Earthworm in the Garden Soil",
+        "A Spider at Its Web",
+        "A Snail on a Garden Wall"
+      ]
+    },
+    {
+      "id": "garden-styles",
+      "name": "Garden Styles",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "garden-styles",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.143
+      },
+      "subjects": [
+        "A Window Box in Bloom",
+        "A Garden in Dappled Shade",
+        "Small Plants in a Rock Garden",
+        "Fragrance Beside the Garden Gate",
+        "A Meadow for Pollinators"
+      ]
+    },
+    {
+      "id": "flowers-through-the-year",
+      "name": "Flowers Through the Year",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "flowers-through-the-year",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 40,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.222
+      },
+      "subjects": [
+        "A Daffodil in Early Spring",
+        "A Sunflower Facing the Garden",
+        "Autumn Mums at the Door",
+        "Bright Bracts on a Poinsettia",
+        "A Camellia Beside the Walk"
+      ]
+    },
+    {
+      "id": "american-regional-tables",
+      "name": "American Regional Tables",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "american-regional-tables",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.158
+      },
+      "subjects": [
+        "A Bowl of New England Chowder",
+        "Gumbo at a Louisiana Table",
+        "Salsa on a Southwestern Table",
+        "A Southern Grits Breakfast",
+        "Cornbread in an Iron Skillet"
+      ]
+    },
+    {
+      "id": "bakers-specialties",
+      "name": "Bakers Specialties",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "bakers-specialties",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.167
+      },
+      "subjects": [
+        "Twists at the Pretzel Bakery",
+        "A Bagel Before Breakfast",
+        "A Waffle Iron on the Counter",
+        "A Sourdough Starter Jar",
+        "Noodle Dough on the Board"
+      ]
+    },
+    {
+      "id": "craft-room-techniques",
+      "name": "Craft Room Techniques",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "craft-room-techniques",
+        "puzzles": 5,
+        "entries": 57,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 57,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.095
+      },
+      "subjects": [
+        "Knots in a Macrame Hanger",
+        "A Hooked Rug on Its Frame",
+        "Patterns Stamped into Leather",
+        "A Stained-Glass Window Panel",
+        "Needlepoint Across a Canvas"
+      ]
+    },
+    {
+      "id": "paper-and-lettering",
+      "name": "Paper and Lettering",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "paper-and-lettering",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Calligraphy Pen and Ink",
+        "Binding a Small Handmade Book",
+        "A Linocut Print on the Table",
+        "Swirls in a Marbled Paper Sheet",
+        "At a Letterpress Workbench"
+      ]
+    },
+    {
+      "id": "old-time-entertainment",
+      "name": "Old Time Entertainment",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "old-time-entertainment",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 53,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Drama on the Family Radio",
+        "An Evening of Vaudeville",
+        "Song and Dance in a Movie Musical",
+        "A Western on the Movie Screen",
+        "Clues in a Mystery Film"
+      ]
+    },
+    {
+      "id": "stage-and-performance",
+      "name": "Stage and Performance",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "stage-and-performance",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Marionette Above the Stage",
+        "Shadows Behind a Theater Screen",
+        "Rehearsing a Community Play",
+        "Costumes in the Theater Wardrobe",
+        "Lights Above a Small Stage"
+      ]
+    },
+    {
+      "id": "collections-and-keepsakes",
+      "name": "Collections and Keepsakes",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "collections-and-keepsakes",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.222
+      },
+      "subjects": [
+        "Buttons in a Collector’s Tin",
+        "Glassware in a Display Cabinet",
+        "A Music Box on the Shelf",
+        "Shells Arranged in a Cabinet",
+        "A Pocket Watch in Its Case"
+      ]
+    },
+    {
+      "id": "home-details",
+      "name": "Home Details",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "home-details",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Parts of an Old-Fashioned Window",
+        "A Door Lock and Its Fittings",
+        "Inside an Upholstered Armchair",
+        "A Cabinet Door and Drawer",
+        "Looking at a Handwoven Rug"
+      ]
+    },
+    {
+      "id": "everyday-materials",
+      "name": "Everyday Materials",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "everyday-materials",
+        "puzzles": 5,
+        "entries": 55,
+        "uniqueAnswers": 55,
+        "uniqueCluePairs": 55,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Glass at the Glassblower’s Bench",
+        "Fibers in a Sheet of Paper",
+        "Clay Before and After the Kiln",
+        "Wood Viewed Along and Across the Grain",
+        "Familiar Metals and Alloys"
+      ]
+    },
+    {
+      "id": "word-patterns",
+      "name": "Word Patterns",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "word-patterns",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 56,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Everyday Opposites",
+        "Letters You Do Not Hear",
+        "Putting Two Small Words Together",
+        "What Familiar Abbreviations Mean",
+        "Words on American Road Signs"
+      ]
+    },
+    {
+      "id": "winter-holiday-crafts",
+      "name": "Winter Holiday Crafts",
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "winter-holiday-crafts",
+        "puzzles": 5,
+        "entries": 56,
+        "uniqueAnswers": 54,
+        "uniqueCluePairs": 56,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Making a Christmas Door Wreath",
+        "A Christmas Nutcracker on the Shelf",
+        "Opening an Advent Calendar",
+        "A Snow Globe on the Mantel",
+        "Strings of Outdoor Holiday Lights"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -1816,6 +2416,20 @@
   "repeatedClues": [],
   "highestOverlapPairs": [],
   "highestAnswerOverlapPairs": [
+    {
+      "first": "handmade-arts",
+      "second": "everyday-materials-3",
+      "sharedAnswers": [
+        "HANDLE",
+        "GLAZE",
+        "BOWL",
+        "CLAY",
+        "FIRE",
+        "POT"
+      ],
+      "jaccard": 0.353,
+      "sameSeries": false
+    },
     {
       "first": "music-memories-4",
       "second": "dance-and-song",
@@ -1883,6 +2497,32 @@
       "sameSeries": false
     },
     {
+      "first": "fruit-and-flavor-4",
+      "second": "garden-styles-4",
+      "sharedAnswers": [
+        "ROSEMARY",
+        "SCENT",
+        "SAGE",
+        "MINT",
+        "LEAF"
+      ],
+      "jaccard": 0.278,
+      "sameSeries": false
+    },
+    {
+      "first": "hands-on-hobbies-2",
+      "second": "craft-room-techniques-5",
+      "sharedAnswers": [
+        "STITCH",
+        "COUNT",
+        "GRID",
+        "EYE",
+        "ROW"
+      ],
+      "jaccard": 0.278,
+      "sameSeries": false
+    },
+    {
       "first": "movie-night",
       "second": "ballpark-baseball-5",
       "sharedAnswers": [
@@ -1921,6 +2561,42 @@
       "sameSeries": false
     },
     {
+      "first": "forest-observations-5",
+      "second": "flowers-through-the-year-5",
+      "sharedAnswers": [
+        "BLOOM",
+        "STEM",
+        "PATH",
+        "BUD"
+      ],
+      "jaccard": 0.235,
+      "sameSeries": false
+    },
+    {
+      "first": "texas-scenes",
+      "second": "old-time-entertainment-4",
+      "sharedAnswers": [
+        "SADDLE",
+        "LARIAT",
+        "RANCH",
+        "SPUR"
+      ],
+      "jaccard": 0.235,
+      "sameSeries": false
+    },
+    {
+      "first": "texas-scenes-2",
+      "second": "forest-observations-5",
+      "sharedAnswers": [
+        "PETAL",
+        "BLOOM",
+        "ROOT",
+        "STEM"
+      ],
+      "jaccard": 0.235,
+      "sameSeries": false
+    },
+    {
       "first": "a-cup-of-comfort-5",
       "second": "fruit-and-flavor",
       "sharedAnswers": [
@@ -1931,6 +2607,18 @@
       ],
       "jaccard": 0.222,
       "sameSeries": false
+    },
+    {
+      "first": "collections-and-keepsakes-3",
+      "second": "collections-and-keepsakes-5",
+      "sharedAnswers": [
+        "SPRING",
+        "GEAR",
+        "CASE",
+        "LID"
+      ],
+      "jaccard": 0.222,
+      "sameSeries": true
     },
     {
       "first": "cozy-at-home-4",
@@ -1945,124 +2633,40 @@
       "sameSeries": false
     },
     {
-      "first": "garden-days-3",
-      "second": "everyday-meals-4",
+      "first": "everyday-meals",
+      "second": "american-regional-tables-4",
       "sharedAnswers": [
-        "SPINACH",
-        "CARROT",
-        "RADISH",
-        "ONION"
+        "SPOON",
+        "MILK",
+        "EGG",
+        "POT"
       ],
       "jaccard": 0.222,
       "sameSeries": false
     },
     {
-      "first": "market-morning-2",
-      "second": "easter-gathering-5",
+      "first": "familiar-vehicles-2",
+      "second": "familiar-vehicles-5",
       "sharedAnswers": [
-        "FLOUR",
-        "LOAF",
-        "TRAY",
-        "BUN"
+        "ROUTE",
+        "SEAT",
+        "STOP",
+        "STEP"
       ],
       "jaccard": 0.222,
-      "sameSeries": false
+      "sameSeries": true
     },
     {
-      "first": "thanksgiving-together",
-      "second": "calendar-celebrations-4",
+      "first": "flowers-through-the-year-3",
+      "second": "flowers-through-the-year-5",
       "sharedAnswers": [
-        "BALLOON",
-        "PARADE",
-        "BANNER",
-        "BAND"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": false
-    },
-    {
-      "first": "treasured-collections-3",
-      "second": "home-inventions-2",
-      "sharedAnswers": [
-        "CAMERA",
-        "FOCUS",
-        "FRAME",
-        "LENS"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": false
-    },
-    {
-      "first": "treasured-collections-5",
-      "second": "american-history-scenes-2",
-      "sharedAnswers": [
-        "CABOOSE",
-        "TRACK",
-        "RAIL",
-        "TIE"
-      ],
-      "jaccard": 0.222,
-      "sameSeries": false
-    },
-    {
-      "first": "cozy-at-home-2",
-      "second": "thanksgiving-together-3",
-      "sharedAnswers": [
-        "TONGS",
-        "LADLE",
-        "KNIFE",
-        "FORK"
-      ],
-      "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "garden-days-2",
-      "second": "texas-scenes-2",
-      "sharedAnswers": [
-        "PRIMROSE",
-        "PETAL",
         "BLOOM",
-        "STEM"
+        "LEAF",
+        "STEM",
+        "BUD"
       ],
-      "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "garden-days-4",
-      "second": "flower-favorites-4",
-      "sharedAnswers": [
-        "BUTTERFLY",
-        "BEETLE",
-        "MOTH",
-        "BEE"
-      ],
-      "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "geography-journeys-2",
-      "second": "american-landmarks-3",
-      "sharedAnswers": [
-        "PLATEAU",
-        "TRAIL",
-        "CLIFF",
-        "ROCK"
-      ],
-      "jaccard": 0.211,
-      "sameSeries": false
-    },
-    {
-      "first": "music-memories-5",
-      "second": "instrument-families-3",
-      "sharedAnswers": [
-        "PICCOLO",
-        "BASSOON",
-        "OBOE",
-        "REED"
-      ],
-      "jaccard": 0.211,
-      "sameSeries": false
+      "jaccard": 0.222,
+      "sameSeries": true
     }
   ],
   "series": [
@@ -2785,6 +3389,246 @@
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
       "highestAnswerJaccard": 0.15
+    },
+    {
+      "id": "rail-and-water-travel",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "roadside-americana",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "familiar-vehicles",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.222
+    },
+    {
+      "id": "working-waterfront",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "forest-observations",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.158
+    },
+    {
+      "id": "open-country-wildlife",
+      "puzzles": 5,
+      "entries": 59,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 59,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.091
+    },
+    {
+      "id": "small-world-nature",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "garden-styles",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.143
+    },
+    {
+      "id": "flowers-through-the-year",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 40,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.222
+    },
+    {
+      "id": "american-regional-tables",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.158
+    },
+    {
+      "id": "bakers-specialties",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.167
+    },
+    {
+      "id": "craft-room-techniques",
+      "puzzles": 5,
+      "entries": 57,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 57,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.095
+    },
+    {
+      "id": "paper-and-lettering",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "old-time-entertainment",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 53,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "stage-and-performance",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "collections-and-keepsakes",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.222
+    },
+    {
+      "id": "home-details",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "everyday-materials",
+      "puzzles": 5,
+      "entries": 55,
+      "uniqueAnswers": 55,
+      "uniqueCluePairs": 55,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "word-patterns",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 56,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "winter-holiday-crafts",
+      "puzzles": 5,
+      "entries": 56,
+      "uniqueAnswers": 54,
+      "uniqueCluePairs": 56,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
     }
   ]
 }

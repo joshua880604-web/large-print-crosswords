@@ -1,0 +1,387 @@
+[
+  {
+    "id": "familiar-vehicles",
+    "title": "A Convertible on a Sunday Drive",
+    "description": "Identify the parts of an open-top automobile through its folding roof, body fittings, and driver’s controls.",
+    "cardDescription": "Identify the parts of an open-top automobile through its folding roof, body fittings, and driver’s controls.",
+    "subtheme": "A Convertible on a Sunday Drive",
+    "focus": "Convertible describes an automobile with a roof that can be lowered or removed. The clues use ordinary American vehicle words and distinguish a body panel from a driving control.",
+    "solvingTip": "Picture the car from front to back. A storage lid, a roof feature, and a control inside have different names.",
+    "words": [
+      [
+        "CONVERTIBLE",
+        "Automobile with a roof that can be lowered or removed"
+      ],
+      [
+        "RAGTOP",
+        "Informal name for a car with a folding fabric roof"
+      ],
+      [
+        "CHROME",
+        "Shiny metallic finish associated with classic automobile trim"
+      ],
+      [
+        "DASH",
+        "Short name for the panel carrying a car's instruments"
+      ],
+      [
+        "TRUNK",
+        "American word for a car's rear luggage compartment"
+      ],
+      [
+        "HOOD",
+        "American word for the panel covering a car's engine compartment"
+      ],
+      [
+        "SEAT",
+        "Cushioned place occupied by a driver or passenger"
+      ],
+      [
+        "BELT",
+        "Safety restraint fastened across an automobile occupant"
+      ],
+      [
+        "HORN",
+        "Sounding device operated by the driver"
+      ],
+      [
+        "PEDAL",
+        "Foot-operated control beneath the dashboard"
+      ],
+      [
+        "WHEEL",
+        "Circular steering control held by the driver"
+      ],
+      [
+        "TOP",
+        "Short name for a convertible's folding roof"
+      ],
+      [
+        "MIRROR",
+        "Reflective fitting showing traffic behind the car"
+      ],
+      [
+        "DOOR",
+        "Hinged side panel through which a passenger enters"
+      ]
+    ],
+    "answerNotes": {
+      "CONVERTIBLE": "Convertibles can use fabric tops or folding hardtops, so the name does not require one roof material.",
+      "RAGTOP": "Ragtop specifically suggests a fabric top, while convertible is the broader vehicle category.",
+      "CHROME": "Chrome is a surface finish in this setting; it is not the name of the car's whole body material.",
+      "DASH": "Dash is short for dashboard; the gauges and controls mounted there are individual components.",
+      "TRUNK": "Trunk names storage space in American English; boot is the familiar British term."
+    },
+    "requiredAnswers": [
+      "CONVERTIBLE"
+    ]
+  },
+  {
+    "id": "familiar-vehicles-2",
+    "title": "Alongside a Yellow School Bus",
+    "description": "Look at a familiar American school bus through its boarding steps, warning fittings, and passenger layout.",
+    "cardDescription": "Look at a familiar American school bus through its boarding steps, warning fittings, and passenger layout.",
+    "subtheme": "Alongside a Yellow School Bus",
+    "focus": "The clues describe recognizable bus features and common vehicle vocabulary. They distinguish the body’s support structure from the seating area and the visible signals around it.",
+    "solvingTip": "Use a body location or an object’s purpose. A control, a passenger fitting, and a warning display belong to different categories.",
+    "words": [
+      [
+        "SCHOOLBUS",
+        "Passenger vehicle carrying pupils, with spaces omitted"
+      ],
+      [
+        "CHASSIS",
+        "Vehicle framework supporting the body and running equipment"
+      ],
+      [
+        "FLASHER",
+        "Lamp that repeatedly lights and darkens as a warning"
+      ],
+      [
+        "HANDRAIL",
+        "Bar a boarding passenger can grip beside the steps"
+      ],
+      [
+        "AISLE",
+        "Passage between the rows of seats in a bus"
+      ],
+      [
+        "YELLOW",
+        "Color strongly associated with American pupil-transport buses"
+      ],
+      [
+        "MIRROR",
+        "Reflective fitting helping a bus driver see around the vehicle"
+      ],
+      [
+        "STEP",
+        "One level climbed while boarding the bus"
+      ],
+      [
+        "SEAT",
+        "Place where a bus passenger sits"
+      ],
+      [
+        "DOOR",
+        "Movable entrance barrier beside the driver"
+      ],
+      [
+        "DRIVER",
+        "Person operating the pupil-transport vehicle"
+      ],
+      [
+        "ROUTE",
+        "Planned series of stops followed by a bus"
+      ],
+      [
+        "WHEEL",
+        "Round rolling support beneath the vehicle"
+      ],
+      [
+        "STOP",
+        "Word displayed on a school bus's folding roadside sign"
+      ]
+    ],
+    "answerNotes": {
+      "SCHOOLBUS": "School bus is written as continuous letters in the grid; it is a vehicle category rather than a single manufacturer.",
+      "CHASSIS": "A chassis supports the vehicle's major assemblies; the passenger body is built on or integrated with it.",
+      "FLASHER": "A flasher is a light signal, while a mirror provides a view rather than emitting light.",
+      "HANDRAIL": "A handrail provides a grip near an entrance; it is not a seat restraint.",
+      "AISLE": "An aisle allows movement through the passenger area; the steps connect that area with the entrance."
+    },
+    "requiredAnswers": [
+      "SCHOOLBUS"
+    ]
+  },
+  {
+    "id": "familiar-vehicles-3",
+    "title": "A Tractor Beside the Barn",
+    "description": "Explore the body, controls, and towing fittings of an agricultural tractor.",
+    "cardDescription": "Explore the body, controls, and towing fittings of an agricultural tractor.",
+    "subtheme": "A Tractor Beside the Barn",
+    "focus": "A tractor supplies pulling power and can drive attached equipment. The clues distinguish a towing connection, a rotating power connection, and the driver’s control area.",
+    "solvingTip": "Start with a large visible part, then look for the smaller connection named by its job.",
+    "words": [
+      [
+        "TRACTOR",
+        "Farm vehicle designed to pull or power working equipment"
+      ],
+      [
+        "HITCH",
+        "Connection used to attach a pulled implement to a tractor"
+      ],
+      [
+        "TREAD",
+        "Raised pattern on a tractor tire's running surface"
+      ],
+      [
+        "DRAWBAR",
+        "Rigid towing bar at the rear of many tractors"
+      ],
+      [
+        "SHAFT",
+        "Rotating rod that can transmit tractor power to equipment"
+      ],
+      [
+        "TIRE",
+        "Large rubber covering around a tractor wheel"
+      ],
+      [
+        "SEAT",
+        "Driver's sitting place above the tractor's controls"
+      ],
+      [
+        "HOOD",
+        "Panel covering the tractor's engine area"
+      ],
+      [
+        "AXLE",
+        "Shaft or assembly supporting the tractor's wheels"
+      ],
+      [
+        "GEAR",
+        "Transmission setting selected for a speed or pulling task"
+      ],
+      [
+        "CAB",
+        "Enclosed driver compartment on many farm vehicles"
+      ],
+      [
+        "FENDER",
+        "Curved protective panel over a tractor wheel"
+      ],
+      [
+        "ENGINE",
+        "Machine supplying a tractor's motive power"
+      ],
+      [
+        "PLOW",
+        "Soil-turning implement a tractor may pull"
+      ]
+    ],
+    "answerNotes": {
+      "TRACTOR": "A tractor provides traction and power; it is distinct from the plow, mower, or other implement it operates.",
+      "HITCH": "A hitch joins the equipment mechanically; a power shaft can serve a separate rotating drive function.",
+      "TREAD": "Tread helps the tire engage the ground; it differs from the complete tire or wheel.",
+      "DRAWBAR": "A drawbar provides a pulling attachment, rather than being the whole rear axle.",
+      "SHAFT": "A power take-off shaft transfers rotation; the hitch itself provides a structural connection."
+    },
+    "requiredAnswers": [
+      "TRACTOR"
+    ]
+  },
+  {
+    "id": "familiar-vehicles-4",
+    "title": "A Hot-Air Balloon at Dawn",
+    "description": "Name the parts of a hot-air balloon and the plain words describing its shape and movement.",
+    "cardDescription": "Name the parts of a hot-air balloon and the plain words describing its shape and movement.",
+    "subtheme": "A Hot-Air Balloon at Dawn",
+    "focus": "A hot-air balloon rises because its heated air is less dense than the surrounding cooler air. Its burner, fabric envelope, and passenger basket are distinct components.",
+    "solvingTip": "Separate the source of heat from the fabric containing the air and the space carrying passengers.",
+    "words": [
+      [
+        "GONDOLA",
+        "Basket or passenger compartment hanging beneath a balloon"
+      ],
+      [
+        "ENVELOPE",
+        "Large fabric body holding the heated air in a balloon"
+      ],
+      [
+        "BURNER",
+        "Device supplying heat to a hot-air balloon"
+      ],
+      [
+        "WICKER",
+        "Woven material traditionally used for many balloon baskets"
+      ],
+      [
+        "TETHER",
+        "Line securing a balloon to a fixed point"
+      ],
+      [
+        "BALLOON",
+        "Aircraft supported by buoyancy rather than wings"
+      ],
+      [
+        "BASKET",
+        "Passenger-carrying container below a hot-air envelope"
+      ],
+      [
+        "PILOT",
+        "Person controlling the balloon's flight"
+      ],
+      [
+        "FLAME",
+        "Visible burning gas above a balloon's heater"
+      ],
+      [
+        "AIR",
+        "Gas mixture heated inside this kind of balloon"
+      ],
+      [
+        "VENT",
+        "Opening through which hot air can be released"
+      ],
+      [
+        "DRIFT",
+        "To move along with the surrounding wind"
+      ],
+      [
+        "LIFT",
+        "Upward supporting effect allowing the balloon to rise"
+      ],
+      [
+        "ROPE",
+        "Strong line forming part of balloon handling equipment"
+      ]
+    ],
+    "answerNotes": {
+      "GONDOLA": "Gondola can name the passenger basket; it also has unrelated meanings in boating and rail travel.",
+      "ENVELOPE": "Envelope is the balloon's fabric container, not a paper cover for a letter.",
+      "BURNER": "The burner heats the air; the heated air's lower density contributes to the balloon's lift.",
+      "WICKER": "Wicker describes woven construction, not one mandatory plant species or fiber.",
+      "TETHER": "A tether limits movement while attached; free flight is a different operating situation."
+    },
+    "requiredAnswers": [
+      "GONDOLA"
+    ]
+  },
+  {
+    "id": "familiar-vehicles-5",
+    "title": "A Streetcar Along the Avenue",
+    "description": "Follow a city streetcar through rails, overhead electrical fittings, and the passenger space inside.",
+    "cardDescription": "Follow a city streetcar through rails, overhead electrical fittings, and the passenger space inside.",
+    "subtheme": "A Streetcar Along the Avenue",
+    "focus": "A streetcar runs on rails in an urban setting. Electrical collection methods vary, so the clues name specific overhead equipment without claiming every vehicle uses the same arrangement.",
+    "solvingTip": "Look for a track component, an electrical fitting, or a passenger feature.",
+    "words": [
+      [
+        "TROLLEY",
+        "Common American name for an electric streetcar"
+      ],
+      [
+        "PANTOGRAPH",
+        "Jointed roof-mounted device collecting current from an overhead wire"
+      ],
+      [
+        "FARE",
+        "Charge paid for a streetcar ride"
+      ],
+      [
+        "CONDUCTOR",
+        "Transit worker traditionally collecting fares aboard a streetcar"
+      ],
+      [
+        "RAIL",
+        "One of the metal running surfaces set along a streetcar route"
+      ],
+      [
+        "TRACK",
+        "Railway route along which an urban streetcar runs"
+      ],
+      [
+        "POLE",
+        "Long roof fitting used by some older cars to contact a wire"
+      ],
+      [
+        "WIRE",
+        "Overhead electrical conductor supplying a streetcar"
+      ],
+      [
+        "BELL",
+        "Ringing warning sound associated with a traditional trolley"
+      ],
+      [
+        "SEAT",
+        "Passenger sitting place inside the streetcar"
+      ],
+      [
+        "AISLE",
+        "Passage through the middle of the passenger area"
+      ],
+      [
+        "STOP",
+        "Designated place for riders to board or leave"
+      ],
+      [
+        "ROUTE",
+        "Scheduled course followed through the city"
+      ],
+      [
+        "STEP",
+        "Level climbed at an older streetcar's entrance"
+      ]
+    ],
+    "answerNotes": {
+      "TROLLEY": "Trolley can mean an urban rail vehicle in American usage; other English varieties use it for different wheeled objects.",
+      "PANTOGRAPH": "A pantograph maintains contact with a wire; some older streetcars use a trolley pole instead.",
+      "FARE": "Fare is a payment word; it sounds like fair but has a different spelling and meaning.",
+      "CONDUCTOR": "The conductor's duties are distinct from operating the driving controls, though staffing arrangements vary.",
+      "RAIL": "Rails guide and support the wheels; overhead wires serve an electrical function instead."
+    },
+    "requiredAnswers": [
+      "TROLLEY"
+    ]
+  }
+]

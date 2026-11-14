@@ -1,0 +1,387 @@
+[
+  {
+    "id": "forest-observations",
+    "title": "Ferns on the Forest Floor",
+    "description": "Look below the woodland canopy for fern fronds, small mosses, and the structures that produce new growth.",
+    "cardDescription": "Look below the woodland canopy for fern fronds, small mosses, and the structures that produce new growth.",
+    "subtheme": "Ferns on the Forest Floor",
+    "focus": "Ferns and mosses reproduce with spores rather than flower seeds. Their growth forms differ, and the clues separate a reproductive structure from the leaf or stem carrying it.",
+    "solvingTip": "Use the body part described: a divided leaf, a spreading stem, or a tiny reproductive unit.",
+    "words": [
+      [
+        "SPORE",
+        "Tiny reproductive unit produced by a fern or moss"
+      ],
+      [
+        "FROND",
+        "Large often-divided leaf of a fern"
+      ],
+      [
+        "FIDDLEHEAD",
+        "Coiled young fern frond before it unfolds"
+      ],
+      [
+        "RHIZOME",
+        "Horizontal stem from which many woodland ferns grow"
+      ],
+      [
+        "CAPSULE",
+        "Spore-bearing case on a stalk in many mosses"
+      ],
+      [
+        "MOSS",
+        "Small nonflowering plant forming a soft woodland carpet"
+      ],
+      [
+        "FERN",
+        "Nonflowering plant often bearing divided leaves called fronds"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sunlight beneath forest trees"
+      ],
+      [
+        "DAMP",
+        "Slightly wet, as a sheltered patch of forest floor"
+      ],
+      [
+        "ROOT",
+        "Anchoring and absorbing organ below a fern's stem"
+      ],
+      [
+        "LEAF",
+        "Plant organ represented by a fern's frond"
+      ],
+      [
+        "STALK",
+        "Slender support beneath a moss's spore case"
+      ],
+      [
+        "SOIL",
+        "Ground material in which many woodland plants grow"
+      ],
+      [
+        "GREEN",
+        "Color of many actively growing fern leaves"
+      ]
+    ],
+    "answerNotes": {
+      "SPORE": "A spore is not a seed; ferns and mosses have life cycles that differ from those of flowering plants.",
+      "FROND": "Frond names a leaf form, not the fern's entire body or its underground stem.",
+      "FIDDLEHEAD": "Fiddlehead describes the curled shape of new growth; the name is not an identification of edibility.",
+      "RHIZOME": "A rhizome is a stem, even when underground; roots are separate organs growing from it.",
+      "CAPSULE": "A moss capsule holds spores rather than flower seeds."
+    },
+    "requiredAnswers": [
+      "SPORE"
+    ]
+  },
+  {
+    "id": "forest-observations-2",
+    "title": "Acorns Beneath an Oak",
+    "description": "Explore an oak tree through its familiar nuts, lobed leaves, and woody branches.",
+    "cardDescription": "Explore an oak tree through its familiar nuts, lobed leaves, and woody branches.",
+    "subtheme": "Acorns Beneath an Oak",
+    "focus": "An acorn is an oak’s fruit, usually containing one seed. The clues connect the nut with its cup and the larger tree without treating all oaks as having identical leaves.",
+    "solvingTip": "Separate the fruit from its covering and from the branch that bears it.",
+    "words": [
+      [
+        "ACORN",
+        "Oak fruit often found nestled in a small scaly cup"
+      ],
+      [
+        "CUPULE",
+        "Cup-shaped structure holding the base of an acorn"
+      ],
+      [
+        "LOBE",
+        "Rounded or pointed projecting section of many oak leaves"
+      ],
+      [
+        "OAK",
+        "Tree group whose fruits are acorns"
+      ],
+      [
+        "SAPLING",
+        "Young tree larger than a tiny seedling"
+      ],
+      [
+        "NUT",
+        "Hard-shelled fruit represented by an acorn"
+      ],
+      [
+        "BARK",
+        "Outer covering of an oak's woody trunk"
+      ],
+      [
+        "BRANCH",
+        "Woody limb extending from the main trunk"
+      ],
+      [
+        "LEAF",
+        "Flat green structure with veins and sometimes deep lobes"
+      ],
+      [
+        "TWIG",
+        "Small slender woody shoot at a branch's end"
+      ],
+      [
+        "SEED",
+        "Reproductive structure contained inside an acorn"
+      ],
+      [
+        "ROOT",
+        "Below-ground structure anchoring an oak"
+      ],
+      [
+        "SHADE",
+        "Cooler sheltered area beneath a broad tree crown"
+      ],
+      [
+        "RING",
+        "Growth band visible in a cut oak trunk"
+      ]
+    ],
+    "answerNotes": {
+      "ACORN": "An acorn is a fruit, usually containing one seed; it is not the entire seedling that later grows from it.",
+      "CUPULE": "The cupule is the acorn's little cup, distinct from the smooth nut sitting in it.",
+      "LOBE": "A lobe is part of a leaf's outline; not every oak species has the same lobed leaf shape.",
+      "OAK": "Oaks include many species with different leaves, bark, and growing habits.",
+      "SAPLING": "Sapling is an informal size or growth-stage term rather than one exact age for every species."
+    },
+    "requiredAnswers": [
+      "ACORN"
+    ]
+  },
+  {
+    "id": "forest-observations-3",
+    "title": "A Pine Cone on the Path",
+    "description": "Study a conifer through its needles, cone scales, and the woody growth around them.",
+    "cardDescription": "Study a conifer through its needles, cone scales, and the woody growth around them.",
+    "subtheme": "A Pine Cone on the Path",
+    "focus": "Pine cones carry reproductive structures rather than forming flowers like a rose. Seed-bearing cones and pollen-producing cones have different roles.",
+    "solvingTip": "Use the clue’s part or process: leaf, seed covering, sticky material, or airborne powder.",
+    "words": [
+      [
+        "CONIFER",
+        "Tree group that includes pines, spruces, and firs"
+      ],
+      [
+        "NEEDLE",
+        "Slender pointed leaf of a pine"
+      ],
+      [
+        "RESIN",
+        "Sticky substance produced by many conifers"
+      ],
+      [
+        "SCALE",
+        "One overlapping segment of a woody pine seed cone"
+      ],
+      [
+        "POLLEN",
+        "Powdery reproductive material released by male pine cones"
+      ],
+      [
+        "PINE",
+        "Conifer whose familiar leaves are long narrow needles"
+      ],
+      [
+        "CONE",
+        "Reproductive structure associated with a pine tree"
+      ],
+      [
+        "SEED",
+        "Plant beginning carried beneath a pine cone's scales"
+      ],
+      [
+        "BARK",
+        "Protective covering on a pine trunk"
+      ],
+      [
+        "TWIG",
+        "Small branch segment bearing needles or cones"
+      ],
+      [
+        "WIND",
+        "Moving air carrying much pine pollen"
+      ],
+      [
+        "WOOD",
+        "Hard material forming the trunk beneath its covering"
+      ],
+      [
+        "TIP",
+        "Pointed end of a pine needle"
+      ],
+      [
+        "BUD",
+        "Compact growing point at the end of a shoot"
+      ]
+    ],
+    "answerNotes": {
+      "CONIFER": "Conifers include familiar cone-bearing trees; the group is broader than pines alone.",
+      "NEEDLE": "A pine needle is a leaf, not a thorn or a detached cone scale.",
+      "RESIN": "Resin differs from watery sap in composition and behavior, though the words are sometimes loosely confused.",
+      "SCALE": "Seed-cone scales protect and carry the seeds; a scale is not the whole cone.",
+      "POLLEN": "Pollen-producing cones have a different role from the larger seed-bearing cones familiar on the ground."
+    },
+    "requiredAnswers": [
+      "CONIFER"
+    ]
+  },
+  {
+    "id": "forest-observations-4",
+    "title": "Mushrooms After the Rain",
+    "description": "Explore visible mushroom structures and the less visible threads growing through woodland material.",
+    "cardDescription": "Explore visible mushroom structures and the less visible threads growing through woodland material.",
+    "subtheme": "Mushrooms After the Rain",
+    "focus": "A mushroom is a fruiting structure of a fungus. Its cap, underside, and supporting stem have different names, while the thread network can extend through soil or wood.",
+    "solvingTip": "Read whether the clue describes the visible structure or the hidden network beneath it.",
+    "words": [
+      [
+        "MYCELIUM",
+        "Network of fungal threads growing through soil or wood"
+      ],
+      [
+        "HYPHA",
+        "Single threadlike filament forming part of a fungus"
+      ],
+      [
+        "FUNGUS",
+        "Organism group containing mushrooms, molds, and yeasts"
+      ],
+      [
+        "GILL",
+        "One thin plate beneath the cap of many mushrooms"
+      ],
+      [
+        "SPORE",
+        "Microscopic reproductive unit released by a mushroom"
+      ],
+      [
+        "CAP",
+        "Upper umbrella-like portion of a familiar mushroom"
+      ],
+      [
+        "STEM",
+        "Upright support beneath a mushroom's cap"
+      ],
+      [
+        "RING",
+        "Skirtlike remnant around the stem of some mushrooms"
+      ],
+      [
+        "PORE",
+        "Small opening beneath certain mushroom caps"
+      ],
+      [
+        "WOOD",
+        "Material on which many woodland fungi grow"
+      ],
+      [
+        "DAMP",
+        "Moist condition often associated with new mushroom growth"
+      ],
+      [
+        "LOG",
+        "Fallen tree section supporting some fungi"
+      ],
+      [
+        "EARTH",
+        "Ground beneath a woodland mushroom"
+      ],
+      [
+        "DECAY",
+        "Breakdown process in which many fungi take part"
+      ]
+    ],
+    "answerNotes": {
+      "MYCELIUM": "Mycelium is a network of hyphae; the visible mushroom is only one possible fruiting structure produced by a fungus.",
+      "HYPHA": "Hypha is singular; hyphae is the plural form often used for the network's individual threads.",
+      "FUNGUS": "Fungi are not plants and do not obtain energy by plant-style photosynthesis.",
+      "GILL": "Gills occur in many mushroom forms, but other species have pores or different spore-bearing surfaces.",
+      "SPORE": "Spores are reproductive units rather than flower seeds; appearance alone is not an edibility guide."
+    },
+    "requiredAnswers": [
+      "MYCELIUM"
+    ]
+  },
+  {
+    "id": "forest-observations-5",
+    "title": "Wildflowers Along a Woodland Path",
+    "description": "Meet woodland flowers through clear names and recognizable plant features.",
+    "cardDescription": "Meet woodland flowers through clear names and recognizable plant features.",
+    "subtheme": "Wildflowers Along a Woodland Path",
+    "focus": "These clues focus on selected plants rather than treating every flower as a garden annual. Common names can describe shape, color, or the time a flower is noticed.",
+    "solvingTip": "Look for a completed common name or a count of a distinctive flower part.",
+    "words": [
+      [
+        "TRILLIUM",
+        "Woodland flower commonly recognized by three petals and three leaflike bracts"
+      ],
+      [
+        "VIOLET",
+        "Low-growing flower group including purple and white woodland kinds"
+      ],
+      [
+        "BLUEBELL",
+        "Common flower name suggesting a blue hanging bell"
+      ],
+      [
+        "ANEMONE",
+        "Wood ___, low-growing spring flower"
+      ],
+      [
+        "PETAL",
+        "One colored segment of a flower's corolla"
+      ],
+      [
+        "FERN",
+        "Frond-bearing plant growing beside woodland flowers"
+      ],
+      [
+        "BLOOM",
+        "Open flower noticed along the woodland path"
+      ],
+      [
+        "LEAF",
+        "Green flat plant part beneath a flower"
+      ],
+      [
+        "ROOT",
+        "Absorbing organ anchoring a woodland plant"
+      ],
+      [
+        "SHADE",
+        "Reduced direct light under woodland trees"
+      ],
+      [
+        "PATH",
+        "Walking route passing the flowering plants"
+      ],
+      [
+        "STEM",
+        "Plant support holding a flower above the ground"
+      ],
+      [
+        "BUD",
+        "Unopened flower before it expands"
+      ],
+      [
+        "SPRING",
+        "Season when many woodland wildflowers bloom before trees fully leaf out"
+      ]
+    ],
+    "answerNotes": {
+      "TRILLIUM": "The characteristic groups of three help explain trillium's name; the structures below the flower are botanically bracts.",
+      "VIOLET": "Violet can name a plant or a color; the flower group includes more colors than the name suggests.",
+      "BLUEBELL": "Bluebell is used for different plants in different regions; the clue concerns the familiar common-name shape.",
+      "ANEMONE": "Wood anemone is a familiar common-name combination; anemone alone names a larger plant group.",
+      "PETAL": "Petals belong to the flower itself, while leaves or bracts around it have different roles."
+    },
+    "requiredAnswers": [
+      "TRILLIUM"
+    ]
+  }
+]

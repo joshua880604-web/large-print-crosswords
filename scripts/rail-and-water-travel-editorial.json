@@ -1,0 +1,395 @@
+[
+  {
+    "id": "rail-and-water-travel",
+    "title": "A Night in a Sleeping Car",
+    "description": "Explore overnight rail travel through sleeping spaces, luggage storage, and the people working aboard a passenger train.",
+    "cardDescription": "Explore overnight rail travel through sleeping spaces, luggage storage, and the people working aboard a passenger train.",
+    "subtheme": "A Night in a Sleeping Car",
+    "focus": "A train compartment can contain a seat by day and sleeping accommodation at night. The clues distinguish the space itself from its bedding and the passage connecting rooms.",
+    "solvingTip": "Use the location described by each clue: beside the window, above a seat, or along the corridor.",
+    "words": [
+      [
+        "BERTH",
+        "Sleeping place aboard a train or ship"
+      ],
+      [
+        "SLEEPER",
+        "Railway car fitted with overnight sleeping accommodation"
+      ],
+      [
+        "PORTER",
+        "Railway worker traditionally helping passengers with luggage"
+      ],
+      [
+        "AISLE",
+        "Passage between seats or compartments in a rail car"
+      ],
+      [
+        "BUNK",
+        "Narrow bed that may be arranged above another"
+      ],
+      [
+        "BLANKET",
+        "Warm covering spread over a train passenger's bed"
+      ],
+      [
+        "PILLOW",
+        "Soft head support on a sleeping-car bed"
+      ],
+      [
+        "SHEET",
+        "Light fabric layer beneath a sleeper's blanket"
+      ],
+      [
+        "CABIN",
+        "Small private room aboard some passenger vehicles"
+      ],
+      [
+        "RACK",
+        "Framework above a seat for storing a travel bag"
+      ],
+      [
+        "TICKET",
+        "Document authorizing the passenger's rail journey"
+      ],
+      [
+        "CURTAIN",
+        "Fabric screen drawn across a sleeping space"
+      ],
+      [
+        "UPPER",
+        "Describing the higher of two stacked sleeping places"
+      ],
+      [
+        "LOWER",
+        "Describing the sleeping place beneath another"
+      ],
+      [
+        "WINDOW",
+        "Glass opening through which a passenger sees the passing countryside"
+      ]
+    ],
+    "answerNotes": {
+      "BERTH": "A berth is a place to sleep in this scene; the same word can also name a vessel's assigned mooring place.",
+      "SLEEPER": "Sleeper names a passenger car here, rather than a person sleeping or a timber beneath railway track.",
+      "PORTER": "Porter describes a passenger-service role; duties and job titles differ among rail operators and periods.",
+      "AISLE": "An aisle is a passage for moving through the car, distinct from the individual accommodation beside it.",
+      "BUNK": "A bunk is the bed itself, while berth can describe the assigned sleeping space."
+    },
+    "requiredAnswers": [
+      "BERTH"
+    ]
+  },
+  {
+    "id": "rail-and-water-travel-2",
+    "title": "Beside a Steam Locomotive",
+    "description": "Identify the working parts of a preserved steam locomotive through its heat, motion, and familiar railway fittings.",
+    "cardDescription": "Identify the working parts of a preserved steam locomotive through its heat, motion, and familiar railway fittings.",
+    "subtheme": "Beside a Steam Locomotive",
+    "focus": "Steam pressure moves pistons, and connecting mechanisms transfer that motion to the driving wheels. The clues separate the source of heat from the parts transmitting motion.",
+    "solvingTip": "Look for a container, a moving component, or the place occupied by the crew.",
+    "words": [
+      [
+        "PISTON",
+        "Sliding engine part moved by pressurized steam"
+      ],
+      [
+        "BOILER",
+        "Locomotive vessel in which water is heated to produce steam"
+      ],
+      [
+        "FIREBOX",
+        "Chamber where fuel burns in a traditional steam locomotive"
+      ],
+      [
+        "TENDER",
+        "Separate vehicle carrying a steam locomotive's fuel and water"
+      ],
+      [
+        "CYLINDER",
+        "Engine chamber in which a steam-driven piston moves"
+      ],
+      [
+        "STEAM",
+        "Water vapor supplying power to a traditional locomotive"
+      ],
+      [
+        "COAL",
+        "Black fuel burned by many historical railway engines"
+      ],
+      [
+        "WHISTLE",
+        "Steam-powered sounding device used to give a railway signal"
+      ],
+      [
+        "CAB",
+        "Enclosed crew space of a locomotive"
+      ],
+      [
+        "ROD",
+        "Rigid bar connecting moving locomotive parts"
+      ],
+      [
+        "VALVE",
+        "Device controlling the passage of steam"
+      ],
+      [
+        "GAUGE",
+        "Instrument displaying a boiler pressure reading"
+      ],
+      [
+        "WHEEL",
+        "Round component rolling on a railway rail"
+      ],
+      [
+        "RAIL",
+        "Steel running surface supporting a train's wheels"
+      ]
+    ],
+    "answerNotes": {
+      "PISTON": "A piston moves back and forth inside a cylinder; rods can transfer that motion to the locomotive's wheels.",
+      "BOILER": "The boiler contains heated water and steam; it is different from the firebox where fuel burns.",
+      "FIREBOX": "A firebox provides heat, while the boiler transfers that heat to water.",
+      "TENDER": "A tender carries supplies; some tank locomotives instead carry their water and fuel on the engine itself.",
+      "CYLINDER": "Cylinder names the chamber, not the sliding piston inside it."
+    },
+    "requiredAnswers": [
+      "PISTON"
+    ]
+  },
+  {
+    "id": "rail-and-water-travel-3",
+    "title": "A Canal Boat at the Lock",
+    "description": "Follow a canal boat through a lock chamber using words for water levels, gates, and the narrow towpath beside the canal.",
+    "cardDescription": "Follow a canal boat through a lock chamber using words for water levels, gates, and the narrow towpath beside the canal.",
+    "subtheme": "A Canal Boat at the Lock",
+    "focus": "A lock changes a boat’s elevation by changing the water level inside a chamber. Its gates and water-control openings have different jobs.",
+    "solvingTip": "Separate the enclosed water space from the barrier at either end and from the path on shore.",
+    "words": [
+      [
+        "LOCK",
+        "Enclosed canal chamber used to raise or lower boats between water levels"
+      ],
+      [
+        "SLUICE",
+        "Controlled opening through which lock water can flow"
+      ],
+      [
+        "TOWPATH",
+        "Canalside path historically used by animals pulling boats"
+      ],
+      [
+        "BOLLARD",
+        "Stout post around which a boat's mooring line can be secured"
+      ],
+      [
+        "CHAMBER",
+        "Enclosed water space between a canal lock's end gates"
+      ],
+      [
+        "GATE",
+        "Large movable barrier closing the end of a canal lock"
+      ],
+      [
+        "CANAL",
+        "Artificial waterway used by these slow-moving boats"
+      ],
+      [
+        "LEVEL",
+        "Height of the water surface within a lock"
+      ],
+      [
+        "ROPE",
+        "Flexible line used to hold a boat alongside"
+      ],
+      [
+        "BARGE",
+        "Flat-bottomed cargo vessel associated with canals"
+      ],
+      [
+        "BOW",
+        "Forward end of the boat entering a lock"
+      ],
+      [
+        "STERN",
+        "Rear end of a canal boat"
+      ],
+      [
+        "BANK",
+        "Land bordering the canal's water"
+      ],
+      [
+        "MOOR",
+        "To secure a boat at a stopping place"
+      ],
+      [
+        "CREW",
+        "People working together aboard the canal vessel"
+      ]
+    ],
+    "answerNotes": {
+      "LOCK": "A lock changes the water level around a floating boat, rather than lifting the boat on a solid platform.",
+      "SLUICE": "A sluice controls water passage; a gate at the chamber's end allows the boat itself to enter or leave.",
+      "TOWPATH": "A towpath runs beside the waterway; it is not the underwater route taken by the boat.",
+      "BOLLARD": "A bollard provides a fixed shore fitting, while the line connects the vessel to it.",
+      "CHAMBER": "The chamber holds the boat as the surrounding water level changes."
+    },
+    "requiredAnswers": [
+      "LOCK"
+    ]
+  },
+  {
+    "id": "rail-and-water-travel-4",
+    "title": "Crossing on a Passenger Ferry",
+    "description": "Picture a short ferry crossing through boarding places, deck fittings, and the people and signals associated with the trip.",
+    "cardDescription": "Picture a short ferry crossing through boarding places, deck fittings, and the people and signals associated with the trip.",
+    "subtheme": "Crossing on a Passenger Ferry",
+    "focus": "A ferry carries people or vehicles across water on a service route. The clues distinguish boarding structures from the boat’s own parts and from its landing destination.",
+    "solvingTip": "Read whether the clue describes something on land, on the vessel, or used to announce its movement.",
+    "words": [
+      [
+        "FERRY",
+        "Vessel carrying passengers or vehicles across a regular water route"
+      ],
+      [
+        "GANGWAY",
+        "Passage or walkway used to board a vessel"
+      ],
+      [
+        "TERMINAL",
+        "Passenger facility at the end or stopping point of a ferry route"
+      ],
+      [
+        "WAKE",
+        "Disturbed water trailing behind a moving boat"
+      ],
+      [
+        "DECK",
+        "Horizontal floor surface aboard a ferry"
+      ],
+      [
+        "DOCK",
+        "Landing place where a ferry can be secured"
+      ],
+      [
+        "RAMP",
+        "Sloping boarding surface used by vehicles on some ferries"
+      ],
+      [
+        "TICKET",
+        "Proof of payment checked before a ferry crossing"
+      ],
+      [
+        "HORN",
+        "Loud sounding device used to signal from a vessel"
+      ],
+      [
+        "CREW",
+        "Workers operating and caring for the ferry"
+      ],
+      [
+        "CABIN",
+        "Enclosed passenger space aboard the boat"
+      ],
+      [
+        "PIER",
+        "Shore structure projecting over water toward a landing"
+      ],
+      [
+        "SHORE",
+        "Land beside the water crossed by a ferry"
+      ],
+      [
+        "ROUTE",
+        "Regular course followed by a passenger service"
+      ]
+    ],
+    "answerNotes": {
+      "FERRY": "Ferry describes a transport service and its vessel; it does not specify one particular hull design.",
+      "GANGWAY": "A gangway connects boarding areas, while the deck is part of the vessel itself.",
+      "TERMINAL": "A terminal serves travelers on shore; it is different from the dock structure beside the vessel.",
+      "WAKE": "A wake forms as a vessel moves through water and differs from the ordinary wind-driven waves around it.",
+      "DECK": "A deck is a structural surface on the vessel; a pier extends from land into the water."
+    },
+    "requiredAnswers": [
+      "FERRY"
+    ]
+  },
+  {
+    "id": "rail-and-water-travel-5",
+    "title": "A Paddlewheel Riverboat",
+    "description": "Look around a traditional riverboat through the turning paddlewheel, steering equipment, and riverside landing.",
+    "cardDescription": "Look around a traditional riverboat through the turning paddlewheel, steering equipment, and riverside landing.",
+    "subtheme": "A Paddlewheel Riverboat",
+    "focus": "A paddlewheel pushes against water to propel a boat. A sternwheel is mounted at the rear, while sidewheel arrangements place wheels alongside the hull.",
+    "solvingTip": "Use the position or purpose of a part. The turning propelling device is different from the wheel used for steering.",
+    "words": [
+      [
+        "PADDLE",
+        "Flat blade on a riverboat's propelling wheel"
+      ],
+      [
+        "STERNWHEEL",
+        "Paddlewheel mounted at the rear of a vessel"
+      ],
+      [
+        "RUDDER",
+        "Movable underwater blade used to steer a riverboat"
+      ],
+      [
+        "PILOT",
+        "Person guiding a vessel through a waterway"
+      ],
+      [
+        "WHARF",
+        "Riverside structure where a boat loads or unloads"
+      ],
+      [
+        "RIVER",
+        "Flowing inland waterway traveled by this vessel"
+      ],
+      [
+        "HULL",
+        "Main body of the riverboat below its upper structures"
+      ],
+      [
+        "DECK",
+        "Floor level on which riverboat passengers can stand"
+      ],
+      [
+        "BELL",
+        "Metal sounding device associated with a traditional boat"
+      ],
+      [
+        "STACK",
+        "Upright exhaust structure on an older powered riverboat"
+      ],
+      [
+        "ROPE",
+        "Line used to secure the boat at a landing"
+      ],
+      [
+        "WHEEL",
+        "Circular steering control in the pilot's station"
+      ],
+      [
+        "CABIN",
+        "Enclosed room aboard a riverboat"
+      ],
+      [
+        "PORT",
+        "Left side of a vessel when facing forward"
+      ]
+    ],
+    "answerNotes": {
+      "PADDLE": "Paddle blades push against water as the wheel rotates; they are not the steering rudder.",
+      "STERNWHEEL": "A sternwheel is at the stern; sidewheel boats place their propelling wheels at the sides.",
+      "RUDDER": "A rudder influences direction, whereas a paddlewheel provides propulsion.",
+      "PILOT": "A river pilot uses local navigation knowledge; the same word also names an aircraft operator in another setting.",
+      "WHARF": "A wharf is a landing structure on shore, separate from the boat's deck."
+    },
+    "requiredAnswers": [
+      "PADDLE"
+    ]
+  }
+]

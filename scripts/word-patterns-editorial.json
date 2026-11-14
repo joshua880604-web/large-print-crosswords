@@ -1,0 +1,403 @@
+[
+  {
+    "id": "word-patterns",
+    "title": "Everyday Opposites",
+    "description": "Choose familiar opposite words by reading the particular meaning supplied in each clue.",
+    "cardDescription": "Choose familiar opposite words by reading the particular meaning supplied in each clue.",
+    "subtheme": "Everyday Opposites",
+    "focus": "One word can have different opposites in different contexts. Weight, brightness, direction, and position are separate comparisons even when the same short word can appear in more than one.",
+    "solvingTip": "Use the context after the opposite-word hint to choose the intended meaning.",
+    "words": [
+      [
+        "LIGHT",
+        "Opposite of heavy when comparing weight"
+      ],
+      [
+        "RIGHT",
+        "Opposite of left when choosing a direction"
+      ],
+      [
+        "CLOSE",
+        "Opposite of open when used as an action"
+      ],
+      [
+        "WIDE",
+        "Opposite of narrow when describing width"
+      ],
+      [
+        "EARLY",
+        "Opposite of late when describing an arrival"
+      ],
+      [
+        "EMPTY",
+        "Opposite of full when describing a container"
+      ],
+      [
+        "QUIET",
+        "Opposite of noisy when describing a room"
+      ],
+      [
+        "SHALLOW",
+        "Opposite of deep when describing water"
+      ],
+      [
+        "FRONT",
+        "Opposite of back when describing an object's sides"
+      ],
+      [
+        "SOUTH",
+        "Direction indicated by S on a compass card"
+      ],
+      [
+        "ABSENT",
+        "Opposite of present when attendance is checked"
+      ],
+      [
+        "LESS",
+        "Opposite of more when comparing an amount"
+      ],
+      [
+        "SOFT",
+        "Opposite of hard when describing a cushion"
+      ],
+      [
+        "DRY",
+        "Opposite of wet when describing a cloth"
+      ]
+    ],
+    "answerNotes": {
+      "LIGHT": "Light contrasts with heavy for weight, but with dark when describing illumination.",
+      "RIGHT": "Right is directional here rather than meaning correct or a legal entitlement.",
+      "CLOSE": "Close is a verb here; its near meaning uses the same spelling with a different sense and pronunciation.",
+      "WIDE": "Wide and narrow compare width rather than height or depth.",
+      "EARLY": "Early is relative to the expected time, not one fixed hour of the day."
+    },
+    "requiredAnswers": [
+      "LIGHT"
+    ]
+  },
+  {
+    "id": "word-patterns-2",
+    "title": "Letters You Do Not Hear",
+    "description": "Identify familiar words through their meaning and a letter that is normally silent in their American pronunciation.",
+    "cardDescription": "Identify familiar words through their meaning and a letter that is normally silent in their American pronunciation.",
+    "subtheme": "Letters You Do Not Hear",
+    "focus": "English spelling sometimes preserves letters no longer heard in ordinary pronunciation. Each clue supplies the meaning as well as the silent-letter hint.",
+    "solvingTip": "Solve the definition first, then check the silent letter against the crossings.",
+    "words": [
+      [
+        "KNIFE",
+        "Blade-and-handle cutting tool whose initial k is silent"
+      ],
+      [
+        "WRIST",
+        "Joint between hand and forearm, with a silent initial w"
+      ],
+      [
+        "LAMB",
+        "Young sheep whose final b is silent"
+      ],
+      [
+        "DEBT",
+        "Money owed, with a silent b"
+      ],
+      [
+        "HONEST",
+        "Truthful, with a silent initial h"
+      ],
+      [
+        "KNEE",
+        "Joint between thigh and lower leg, with a silent k"
+      ],
+      [
+        "GNOME",
+        "Small legendary figure whose initial g is silent"
+      ],
+      [
+        "THUMB",
+        "Hand digit whose final b is silent"
+      ],
+      [
+        "DOUBT",
+        "Uncertainty, with a b that is not pronounced"
+      ],
+      [
+        "ISLAND",
+        "Land surrounded by water, with a silent s"
+      ],
+      [
+        "HOUR",
+        "Sixty-minute period whose initial h is silent"
+      ],
+      [
+        "PSALM",
+        "Sacred song word whose initial p is silent"
+      ],
+      [
+        "COMB",
+        "Toothed hair tool whose final b is silent"
+      ],
+      [
+        "CASTLE",
+        "Fortified residence word with a normally silent t"
+      ]
+    ],
+    "answerNotes": {
+      "KNIFE": "The k is retained in spelling even though ordinary pronunciation begins with the n sound.",
+      "WRIST": "Wrist starts with a written w that is not heard in standard American pronunciation.",
+      "LAMB": "The written b remains at the end even though the spoken word ends in an m sound.",
+      "DEBT": "The b belongs to the spelling rather than the usual spoken sound sequence.",
+      "HONEST": "Honest begins with a vowel sound in ordinary American English, which also explains the phrase an honest person."
+    },
+    "requiredAnswers": [
+      "KNIFE"
+    ]
+  },
+  {
+    "id": "word-patterns-3",
+    "title": "Putting Two Small Words Together",
+    "description": "Explore familiar compound words by connecting their meanings with the shorter words used to form them.",
+    "cardDescription": "Explore familiar compound words by connecting their meanings with the shorter words used to form them.",
+    "subtheme": "Putting Two Small Words Together",
+    "focus": "A compound combines smaller words into an established expression. Some clues ask for the whole compound, while others ask for one component named in the clue.",
+    "solvingTip": "Check whether the definition asks for the finished word or only its first or second part.",
+    "words": [
+      [
+        "TEAPOT",
+        "Brewing vessel whose name joins a leaf drink and a cooking container"
+      ],
+      [
+        "SUNSET",
+        "Evening event named by joining our star and a word for going down"
+      ],
+      [
+        "BEDBUG",
+        "Small biting insect whose name joins sleeping furniture and an informal insect word"
+      ],
+      [
+        "COWBOY",
+        "Ranch worker word joining a female bovine and a male child"
+      ],
+      [
+        "INKWELL",
+        "Small writing-fluid container named from fluid and a hollow"
+      ],
+      [
+        "DAYBED",
+        "Couch-like bed whose name begins with the opposite of night"
+      ],
+      [
+        "ANYONE",
+        "Pronoun for any person, formed as a single compound word"
+      ],
+      [
+        "DOORBELL",
+        "Visitor signal whose name joins an entrance panel and a ringing device"
+      ],
+      [
+        "SUN",
+        "First component of the word sunlight"
+      ],
+      [
+        "BOX",
+        "Final component of the word mailbox"
+      ],
+      [
+        "DAY",
+        "First component of the word daytime"
+      ],
+      [
+        "BELL",
+        "Final component of the word doorbell"
+      ],
+      [
+        "BED",
+        "Final component of the word flowerbed"
+      ],
+      [
+        "TEA",
+        "First component of the word teacup"
+      ],
+      [
+        "POT",
+        "Final component of the word flowerpot"
+      ],
+      [
+        "INK",
+        "First component of the word inkpot"
+      ]
+    ],
+    "answerNotes": {
+      "TEAPOT": "Teapot combines tea and pot into one established word naming a particular vessel.",
+      "SUNSET": "Sunset is written as one word; the combined meaning is more specific than either part alone.",
+      "BEDBUG": "Bedbug is a compound name, not a scientific claim that every insect found near a bed belongs to that group.",
+      "COWBOY": "Cowboy is an established occupation word; its components do not mean that every worker is a child.",
+      "INKWELL": "Inkwell combines ink and well, using well for a holding hollow rather than only a water source."
+    },
+    "requiredAnswers": [
+      "TEAPOT"
+    ]
+  },
+  {
+    "id": "word-patterns-4",
+    "title": "What Familiar Abbreviations Mean",
+    "description": "Expand common American abbreviations for titles, addresses, and everyday measurements.",
+    "cardDescription": "Expand common American abbreviations for titles, addresses, and everyday measurements.",
+    "subtheme": "What Familiar Abbreviations Mean",
+    "focus": "The clue supplies a shortened form and asks for its ordinary expanded word. Context matters because the same abbreviation can mean something different in a specialized field.",
+    "solvingTip": "Look at the category: person’s title, street address, or measurement.",
+    "words": [
+      [
+        "DOCTOR",
+        "Title commonly abbreviated Dr. before a person's name"
+      ],
+      [
+        "MISTER",
+        "Courtesy title usually written as Mr."
+      ],
+      [
+        "JUNIOR",
+        "Name suffix commonly abbreviated Jr."
+      ],
+      [
+        "AVENUE",
+        "Street-address word commonly abbreviated Ave."
+      ],
+      [
+        "OUNCE",
+        "Unit whose ordinary abbreviation is oz."
+      ],
+      [
+        "SENIOR",
+        "Name suffix commonly abbreviated Sr."
+      ],
+      [
+        "STREET",
+        "Address word commonly abbreviated St. in a road name"
+      ],
+      [
+        "MOUNT",
+        "Geographic-name word commonly abbreviated Mt."
+      ],
+      [
+        "FORT",
+        "Military-post word commonly abbreviated Ft. in place names"
+      ],
+      [
+        "SAINT",
+        "Title commonly abbreviated St. before a person's name"
+      ],
+      [
+        "POUND",
+        "Weight unit commonly abbreviated lb."
+      ],
+      [
+        "INCH",
+        "Length unit commonly abbreviated in."
+      ],
+      [
+        "FOOT",
+        "Length unit commonly abbreviated ft."
+      ],
+      [
+        "YARD",
+        "Length unit commonly abbreviated yd."
+      ],
+      [
+        "ROAD",
+        "Address word commonly abbreviated Rd."
+      ],
+      [
+        "PINT",
+        "Liquid-measure word commonly abbreviated pt."
+      ]
+    ],
+    "answerNotes": {
+      "DOCTOR": "Doctor is the expanded title; it can refer to different professional or academic qualifications.",
+      "MISTER": "Mister is the spoken expansion of Mr.; the shortened written form is more common before a surname.",
+      "JUNIOR": "Junior distinguishes names within a naming convention, not necessarily the youngest person in an entire family.",
+      "AVENUE": "Avenue is an address term; the abbreviation does not require one fixed road width or layout.",
+      "OUNCE": "Ounce can measure weight; fluid ounce is a separate volume unit with an additional qualifier."
+    },
+    "requiredAnswers": [
+      "DOCTOR"
+    ]
+  },
+  {
+    "id": "word-patterns-5",
+    "title": "Words on American Road Signs",
+    "description": "Recognize short road-sign words through direct definitions of directions, conditions, and traffic arrangements.",
+    "cardDescription": "Recognize short road-sign words through direct definitions of directions, conditions, and traffic arrangements.",
+    "subtheme": "Words on American Road Signs",
+    "focus": "A sign’s word identifies its general message. This puzzle is a vocabulary scene, with different terms for a route change, joining traffic, and a single travel direction.",
+    "solvingTip": "Use the kind of message: warning, payment, direction, or road feature.",
+    "words": [
+      [
+        "YIELD",
+        "Road-sign instruction to give priority to other traffic when required"
+      ],
+      [
+        "DETOUR",
+        "Alternate route around a closed or obstructed road"
+      ],
+      [
+        "MERGE",
+        "To join another stream of traffic"
+      ],
+      [
+        "TOLL",
+        "Charge paid for using a particular road or crossing"
+      ],
+      [
+        "ONEWAY",
+        "Single-direction traffic arrangement, with spaces omitted"
+      ],
+      [
+        "STOP",
+        "Instruction requiring a complete halt at a road sign"
+      ],
+      [
+        "SLOW",
+        "Word advising reduced speed in a marked area"
+      ],
+      [
+        "EXIT",
+        "Marked route leading off a highway"
+      ],
+      [
+        "LANE",
+        "One marked strip of roadway for a line of vehicles"
+      ],
+      [
+        "SCHOOL",
+        "Word identifying an area associated with pupils and a nearby campus"
+      ],
+      [
+        "CURVE",
+        "Bend in the road shown by a warning sign"
+      ],
+      [
+        "BUMP",
+        "Raised uneven part of a road surface"
+      ],
+      [
+        "DIP",
+        "Short low section of a road surface"
+      ],
+      [
+        "RAMP",
+        "Connecting sloped roadway leading to or from a highway"
+      ]
+    ],
+    "answerNotes": {
+      "YIELD": "Yield concerns right of way; it is different from an unconditional instruction to stop in every situation.",
+      "DETOUR": "A detour changes the route temporarily rather than necessarily changing the destination.",
+      "MERGE": "Merge describes joining flows, distinct from simply crossing a road.",
+      "TOLL": "A toll is a use charge rather than a speed or distance measurement.",
+      "ONEWAY": "One way describes the permitted travel direction; the words are continuous in the grid."
+    },
+    "requiredAnswers": [
+      "YIELD"
+    ]
+  }
+]
