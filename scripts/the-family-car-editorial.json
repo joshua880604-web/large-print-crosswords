@@ -1,0 +1,398 @@
+[
+  {
+    "id": "the-family-car",
+    "title": "Washing the Car in the Driveway",
+    "subtheme": "Washing the Car in the Driveway",
+    "description": "Wash and rinse the body and wheels in the driveway.",
+    "cardDescription": "Wash and rinse the body and wheels in the driveway.",
+    "focus": "The setting is washing the Car in the Driveway. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CAR",
+        "Four-wheeled road vehicle"
+      ],
+      [
+        "WASH",
+        "Clean with water"
+      ],
+      [
+        "HOSE",
+        "Flexible tube carrying water"
+      ],
+      [
+        "BUCKET",
+        "Handled container carrying cleaning water"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "SPONGE",
+        "Porous absorbent object used for wiping"
+      ],
+      [
+        "RINSE",
+        "Wash with clean water"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "TIRE",
+        "Rubber covering around a vehicle wheel"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "SHINE",
+        "Give off or reflect bright light"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "WAX",
+        "Material from which candles are made"
+      ],
+      [
+        "DRIVEWAY",
+        "Short private road leading to a house"
+      ]
+    ],
+    "requiredAnswers": [
+      "CAR",
+      "WASH"
+    ],
+    "answerNotes": {
+      "CAR": "A car carries people on roads. Its trunk holds luggage, while the passenger compartment holds the seats.",
+      "HOSE": "A hose is a flexible tube. A nozzle shapes the flow at one end, while a tap controls its supply at the other.",
+      "SOAP": "Soap helps remove dirt when used with water. Rinsing carries away the loosened dirt and remaining suds.",
+      "WHEEL": "A wheel rotates around an axle. Its tire is an outer covering, not another name for the entire wheel.",
+      "WINDOW": "A window admits light through glass. A screen is a mesh barrier that can keep insects out when the glass is open.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance.",
+      "WAX": "Wax can form a candle or a protective coating. A candle consumes it as fuel, while polishing leaves a thin layer on a surface."
+    }
+  },
+  {
+    "id": "the-family-car-2",
+    "title": "Checking a Road Map Before a Drive",
+    "subtheme": "Checking a Road Map Before a Drive",
+    "description": "Trace a route through towns before setting off by car.",
+    "cardDescription": "Trace a route through towns before setting off by car.",
+    "focus": "The setting is checking a Road Map Before a Drive. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "MAP",
+        "Drawing showing roads and places"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "ROAD",
+        "Way traveled by cars"
+      ],
+      [
+        "HIGHWAY",
+        "Main road connecting towns and cities"
+      ],
+      [
+        "TOWN",
+        "Community smaller than a city"
+      ],
+      [
+        "CITY",
+        "Large community of homes and businesses"
+      ],
+      [
+        "NORTH",
+        "Compass direction opposite south"
+      ],
+      [
+        "SOUTH",
+        "Compass direction opposite north"
+      ],
+      [
+        "EAST",
+        "General direction of sunrise"
+      ],
+      [
+        "WEST",
+        "General direction of sunset"
+      ],
+      [
+        "MILE",
+        "U.S. road-distance unit equal to 5280 feet"
+      ],
+      [
+        "EXIT",
+        "Way out of a place or road"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ]
+    ],
+    "requiredAnswers": [
+      "MAP",
+      "ROUTE"
+    ],
+    "answerNotes": {
+      "ROUTE": "A route is a planned course. Several roads or stops can be parts of a single route.",
+      "ROAD": "A road is a route for vehicles. A sidewalk or footpath provides a different part of the journey for people on foot.",
+      "TOWN": "A town is a community. Its square or town hall is only one place within the larger community.",
+      "FOLD": "Folding brings one part of a sheet over another. A crease is the line left by pressing that fold."
+    }
+  },
+  {
+    "id": "the-family-car-3",
+    "title": "Packing the Trunk for a Weekend",
+    "subtheme": "Packing the Trunk for a Weekend",
+    "description": "Fit luggage and picnic supplies into the rear compartment.",
+    "cardDescription": "Fit luggage and picnic supplies into the rear compartment.",
+    "focus": "The setting is packing the Trunk for a Weekend. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "TRUNK",
+        "Car's compartment for luggage"
+      ],
+      [
+        "SUITCASE",
+        "Travel bag with a handle and firm sides"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "LATCH",
+        "Small fastening holding a gate shut"
+      ],
+      [
+        "PACK",
+        "Put items into a bag or box"
+      ],
+      [
+        "BLANKET",
+        "Large soft covering used for warmth"
+      ],
+      [
+        "COOLER",
+        "Insulated box used to carry chilled picnic food"
+      ],
+      [
+        "MAP",
+        "Diagram of an area's streets"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "CAR",
+        "Family vehicle with seats and a trunk"
+      ],
+      [
+        "SPACE",
+        "Gap left between things"
+      ],
+      [
+        "LOAD",
+        "Cargo or weight supported by a wheeled vehicle"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRUNK",
+      "SUITCASE"
+    ],
+    "answerNotes": {
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "HANDLE": "A handle is the part made for the hand to grip. Its shape depends on whether the object is carried, pulled, poured, or turned.",
+      "LID": "A lid is a removable cover. On a cooking pot it helps contain heat and steam; on a jar it closes the opening.",
+      "BLANKET": "A blanket is a covering used for warmth. A quilt usually has several layers held together with stitching.",
+      "CAR": "A car carries people on roads. Its trunk holds luggage, while the passenger compartment holds the seats.",
+      "LOAD": "A load is the material being carried. The wheelbarrow or cart is the vehicle supporting that load."
+    }
+  },
+  {
+    "id": "the-family-car-4",
+    "title": "A Fresh Set of Windshield Wipers",
+    "subtheme": "A Fresh Set of Windshield Wipers",
+    "description": "A fresh rubber blade sweeps rain from the front glass.",
+    "cardDescription": "A fresh rubber blade sweeps rain from the front glass.",
+    "focus": "The setting is a Fresh Set of Windshield Wipers. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "WIPER",
+        "Car-window blade that clears away rain"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "BLADE",
+        "Flat rubber part of a windshield wiper"
+      ],
+      [
+        "RUBBER",
+        "Flexible material used in boots and tires"
+      ],
+      [
+        "ARM",
+        "Body part from shoulder to wrist"
+      ],
+      [
+        "SWITCH",
+        "Control that turns an electrical device on or off"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ],
+      [
+        "WINDOW",
+        "Framed glass opening letting in daylight"
+      ],
+      [
+        "CAR",
+        "Motor vehicle smaller than a bus"
+      ],
+      [
+        "WATER",
+        "Liquid needed by plants"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ],
+      [
+        "SWEEP",
+        "To gather loose floor debris with a broom"
+      ]
+    ],
+    "requiredAnswers": [
+      "WIPER",
+      "RAIN"
+    ],
+    "answerNotes": {
+      "RAIN": "Rain is liquid water falling from clouds. Snow and hail reach the ground in solid forms instead.",
+      "GLASS": "Glass is usually transparent but can also be colored. A glass is a drinking vessel, while glass without an article can name the material.",
+      "RUBBER": "Rubber bends and springs back. That makes it useful for balls and tires as well as waterproof footwear.",
+      "WINDOW": "A window admits light through glass. A screen is a mesh barrier that can keep insects out when the glass is open.",
+      "CAR": "A car carries people on roads. Its trunk holds luggage, while the passenger compartment holds the seats.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance."
+    }
+  },
+  {
+    "id": "the-family-car-5",
+    "title": "A Picnic Stop at a Rest Area",
+    "subtheme": "A Picnic Stop at a Rest Area",
+    "description": "Pause beside the road for a meal at an outdoor table.",
+    "cardDescription": "Pause beside the road for a meal at an outdoor table.",
+    "focus": "The setting is a Picnic Stop at a Rest Area. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "REST",
+        "Relax without working"
+      ],
+      [
+        "PICNIC",
+        "Meal eaten outdoors"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "MAP",
+        "Drawing used to plan a route"
+      ],
+      [
+        "CAR",
+        "Road vehicle driven with a steering wheel"
+      ],
+      [
+        "PARK",
+        "Public green space where people may walk dogs"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "TREE",
+        "Tall plant with a woody trunk"
+      ],
+      [
+        "SANDWICH",
+        "Food made with filling between pieces of bread"
+      ],
+      [
+        "WATER",
+        "Clear liquid used for washing"
+      ],
+      [
+        "BIN",
+        "Open compartment holding loose goods"
+      ],
+      [
+        "BENCH",
+        "Long seat for several people"
+      ],
+      [
+        "ROAD",
+        "Route connecting towns"
+      ],
+      [
+        "BREAK",
+        "Separate into pieces"
+      ]
+    ],
+    "requiredAnswers": [
+      "REST",
+      "PICNIC"
+    ],
+    "answerNotes": {
+      "TABLE": "A table provides a raised flat surface. Chairs are the separate furniture used to sit beside it.",
+      "CAR": "A car carries people on roads. Its trunk holds luggage, while the passenger compartment holds the seats.",
+      "SHADE": "Shade blocks direct sunlight. A shaded garden corner still receives some light; it is different from a completely dark room.",
+      "TREE": "Trees have woody trunks and branches. Familiar garden trees may provide fruit, flowers, or shade, sometimes all three.",
+      "SANDWICH": "A sandwich places a filling between pieces of bread. An open-faced version uses just one supporting slice.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance.",
+      "BENCH": "A bench normally seats more than one person. It can be used in a park, entryway, or bus shelter without changing that basic meaning.",
+      "ROAD": "A road is a route for vehicles. A sidewalk or footpath provides a different part of the journey for people on foot."
+    }
+  }
+]

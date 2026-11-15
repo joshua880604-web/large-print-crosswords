@@ -1,0 +1,398 @@
+[
+  {
+    "id": "sandwich-counter",
+    "title": "A Grilled Cheese Sandwich in the Skillet",
+    "subtheme": "A Grilled Cheese Sandwich in the Skillet",
+    "description": "Brown buttered bread around a melting cheese filling.",
+    "cardDescription": "Brown buttered bread around a melting cheese filling.",
+    "focus": "The setting is a Grilled Cheese Sandwich in the Skillet. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "GRILL",
+        "Cook over direct heat on a metal grate"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "SKILLET",
+        "Heavy frying pan"
+      ],
+      [
+        "GOLDEN",
+        "Rich yellow in color"
+      ],
+      [
+        "MELT",
+        "Turn from solid into liquid"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "FLIP",
+        "Turn a pancake over"
+      ],
+      [
+        "SPATULA",
+        "Flat cooking tool used to lift or flip food"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHEESE",
+      "GRILL"
+    ],
+    "answerNotes": {
+      "CHEESE": "Cheese comes in many textures and flavors. Sharp describes flavor, while a wedge describes the shape of a cut portion.",
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "BUTTER": "Butter is made by churning cream. It adds flavor and fat to baked goods as well as serving as a spread.",
+      "CRUST": "Crust can mean a pie's pastry shell or a loaf's baked outer surface. Both are outer parts, but they are made differently.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  },
+  {
+    "id": "sandwich-counter-2",
+    "title": "Peanut Butter and Jelly for Lunch",
+    "subtheme": "Peanut Butter and Jelly for Lunch",
+    "description": "Spread a familiar nut butter and fruit preserve between bread slices.",
+    "cardDescription": "Spread a familiar nut butter and fruit preserve between bread slices.",
+    "focus": "The setting is peanut Butter and Jelly for Lunch. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PEANUT",
+        "Small nutlike snack sold in a rough shell"
+      ],
+      [
+        "JELLY",
+        "Preserve commonly made from strained fruit juice"
+      ],
+      [
+        "BREAD",
+        "Baked food commonly served in slices"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "GRAPE",
+        "Small fruit growing in bunches, often used to make wine"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "SANDWICH",
+        "Food made with filling between pieces of bread"
+      ],
+      [
+        "CRUST",
+        "Baked pastry shell around a pie"
+      ],
+      [
+        "SMOOTH",
+        "Even and without bumps"
+      ],
+      [
+        "LUNCH",
+        "Meal between breakfast and supper"
+      ],
+      [
+        "SLICE",
+        "One serving cut from a cake"
+      ],
+      [
+        "NAPKIN",
+        "Cloth or paper square used at a meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEANUT",
+      "JELLY"
+    ],
+    "answerNotes": {
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "JAR": "A jar has a wide opening that makes spooning and filling easier. A bottle usually has a narrower neck.",
+      "SWEET": "Sweet describes flavor, not temperature or texture. A food can be sweet and cold, or sweet and warm.",
+      "KNIFE": "A knife cuts with a blade. In the kitchen, the board beneath the food supports the ingredient while it is sliced.",
+      "SANDWICH": "A sandwich places a filling between pieces of bread. An open-faced version uses just one supporting slice.",
+      "CRUST": "Crust can mean a pie's pastry shell or a loaf's baked outer surface. Both are outer parts, but they are made differently.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions."
+    }
+  },
+  {
+    "id": "sandwich-counter-3",
+    "title": "Layering a Club Sandwich",
+    "subtheme": "Layering a Club Sandwich",
+    "description": "Layers of toast hold bacon, turkey, and crisp vegetables.",
+    "cardDescription": "Layers of toast hold bacon, turkey, and crisp vegetables.",
+    "focus": "The setting is layering a Club Sandwich. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CLUB",
+        "Sandwich with several layers of toast"
+      ],
+      [
+        "BACON",
+        "Crisp breakfast strips of pork"
+      ],
+      [
+        "TURKEY",
+        "Large bird with a fan-shaped tail"
+      ],
+      [
+        "LETTUCE",
+        "Leafy vegetable often placed in a sandwich"
+      ],
+      [
+        "TOMATO",
+        "Red vine-grown salad fruit"
+      ],
+      [
+        "TOAST",
+        "Bread browned by heating"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "PLATE",
+        "Shallow dish used at a meal"
+      ],
+      [
+        "LUNCH",
+        "Midday meal"
+      ],
+      [
+        "SLICE",
+        "Flat cut portion of bread"
+      ],
+      [
+        "CRUST",
+        "Brown outer covering of a loaf"
+      ],
+      [
+        "MAYONNAISE",
+        "Creamy oil-and-egg dressing"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLUB",
+      "BACON"
+    ],
+    "answerNotes": {
+      "TOMATO": "Tomatoes are used like vegetables in savory cooking. Botanically, their seed-bearing fruits belong in the fruit category.",
+      "PICK": "Pick can mean choose or pluck. In a harvest setting, it usually means gathering something from the plant.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions.",
+      "CRUST": "Crust can mean a pie's pastry shell or a loaf's baked outer surface. Both are outer parts, but they are made differently."
+    }
+  },
+  {
+    "id": "sandwich-counter-4",
+    "title": "A Tuna Sandwich on Rye",
+    "subtheme": "A Tuna Sandwich on Rye",
+    "description": "Mix canned fish with a creamy dressing for rye bread.",
+    "cardDescription": "Mix canned fish with a creamy dressing for rye bread.",
+    "focus": "The setting is a Tuna Sandwich on Rye. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "TUNA",
+        "Fish often mixed with mayonnaise for sandwiches"
+      ],
+      [
+        "RYE",
+        "Grain used in many dark deli-style breads"
+      ],
+      [
+        "FISH",
+        "Water animal with fins and gills"
+      ],
+      [
+        "BREAD",
+        "Yeast-raised food for making toast"
+      ],
+      [
+        "CELERY",
+        "Crisp green vegetable with long stalks"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "MIX",
+        "Stir ingredients together"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "MAYONNAISE",
+        "Sandwich spread made with oil and egg"
+      ],
+      [
+        "SPREAD",
+        "Cover bread with butter or another soft topping"
+      ],
+      [
+        "LUNCH",
+        "Meal often packed in a box for school"
+      ],
+      [
+        "SLICE",
+        "Piece cut from a pie"
+      ],
+      [
+        "PLATE",
+        "Flat dinner dish"
+      ]
+    ],
+    "requiredAnswers": [
+      "TUNA",
+      "RYE"
+    ],
+    "answerNotes": {
+      "FISH": "Fish live in water and breathe through gills. A seal or otter swims too, but it is a mammal rather than a fish.",
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "ONION": "An onion bulb has many layers. Its outer dry skin is removed before the inner layers are chopped for cooking.",
+      "BOWL": "A bowl has raised curved sides. That shape helps hold liquid or contain a mixture while it is stirred.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  },
+  {
+    "id": "sandwich-counter-5",
+    "title": "Meatballs in a Long Roll",
+    "subtheme": "Meatballs in a Long Roll",
+    "description": "Tomato sauce and warm meatballs fill a long bread roll.",
+    "cardDescription": "Tomato sauce and warm meatballs fill a long bread roll.",
+    "focus": "The setting is meatballs in a Long Roll. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "MEATBALL",
+        "Small round portion of ground meat"
+      ],
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ],
+      [
+        "SAUCE",
+        "Liquid or creamy topping for food"
+      ],
+      [
+        "TOMATO",
+        "Juicy red fruit used in pasta sauce"
+      ],
+      [
+        "CHEESE",
+        "Milk-based food such as cheddar"
+      ],
+      [
+        "MELT",
+        "Become liquid when warmed"
+      ],
+      [
+        "BREAD",
+        "Loaf food with a crust"
+      ],
+      [
+        "HOT",
+        "Having a high temperature"
+      ],
+      [
+        "LUNCH",
+        "Middle meal of the day"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "PLATE",
+        "Round dish set at a place for dinner"
+      ],
+      [
+        "NAPKIN",
+        "Square used to wipe fingers at the table"
+      ],
+      [
+        "BITE",
+        "Take a mouthful using the teeth"
+      ]
+    ],
+    "requiredAnswers": [
+      "MEATBALL",
+      "ROLL"
+    ],
+    "answerNotes": {
+      "SAUCE": "A sauce adds moisture or flavor to another food. It can be smooth, chunky, hot, or cold.",
+      "TOMATO": "Tomatoes are used like vegetables in savory cooking. Botanically, their seed-bearing fruits belong in the fruit category.",
+      "CHEESE": "Cheese comes in many textures and flavors. Sharp describes flavor, while a wedge describes the shape of a cut portion.",
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "HOT": "Hot describes temperature. A hot dog is a food name, so the two-word phrase has a meaning beyond the adjective alone.",
+      "SPOON": "A spoon has a small bowl at one end. It can hold liquid, unlike the prongs of a fork.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  }
+]

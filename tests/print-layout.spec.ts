@@ -45,7 +45,7 @@ test('print choices still work when browser storage is blocked',async({page})=>{
 test('large print and Christmas collection remain usable without page scripts',async({browser})=>{
  const context=await browser.newContext({javaScriptEnabled:false}),page=await context.newPage();
  try{
-  await page.goto('/christmas-crosswords/');await expect(page.locator('a.puzzle-card')).toHaveCount(27);
+  await page.goto('/christmas-crosswords/');await expect(page.locator('a.puzzle-card')).toHaveCount(42);
   await page.goto('/print/winter-holiday-crafts/');
   await expect(page.getByLabel('Print size')).toBeDisabled();
   await expect(page.locator('.print-clues')).toContainText('Ring-shaped decoration');

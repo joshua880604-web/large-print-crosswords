@@ -1,0 +1,413 @@
+[
+  {
+    "id": "bible-beginnings",
+    "title": "Bible Story: Light and the Created World",
+    "subtheme": "Bible Story: Light and the Created World",
+    "description": "The opening creation story names light, land, water, and living things. Optional Bible interest: Genesis 1.",
+    "cardDescription": "The opening creation story names light, land, water, and living things. Optional Bible interest: Genesis 1.",
+    "focus": "Story setting: Genesis 1. Read the names as part of this particular story, rather than a chapter-and-verse quiz.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "DAY",
+        "Twenty-four-hour period"
+      ],
+      [
+        "NIGHT",
+        "Dark time between sunset and dawn"
+      ],
+      [
+        "SKY",
+        "Expanse overhead"
+      ],
+      [
+        "SEA",
+        "Large expanse of salt water"
+      ],
+      [
+        "LAND",
+        "Dry ground rather than water"
+      ],
+      [
+        "SEED",
+        "Plant part from which a new plant grows"
+      ],
+      [
+        "TREE",
+        "Tall plant with a woody trunk"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "BIRD",
+        "Animal with feathers and a beak"
+      ],
+      [
+        "FISH",
+        "Water animal with fins and gills"
+      ],
+      [
+        "STAR",
+        "Bright point in the night sky"
+      ],
+      [
+        "MOON",
+        "Natural satellite seen in Earth's night sky"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ]
+    ],
+    "requiredAnswers": [
+      "LIGHT",
+      "DAY"
+    ],
+    "answerNotes": {
+      "LIGHT": "Brightness making objects visible. This scene follows Genesis 1; the passage gives the story's context.",
+      "NIGHT": "Night is the dark part of the daily cycle. Dusk is the fading-light period around the approach of night.",
+      "SKY": "Sky describes the overhead view from the ground. Clouds, the Sun, the Moon, and stars can all appear in that view.",
+      "SEED": "A seed contains the beginning of a new plant. A seed packet's planting instructions describe how to help it start growing.",
+      "TREE": "Trees have woody trunks and branches. Familiar garden trees may provide fruit, flowers, or shade, sometimes all three.",
+      "FRUIT": "Everyday fruit dishes can mix several kinds of plant produce. The serving word is culinary and does not require a botanical classification.",
+      "BIRD": "Birds have feathers, beaks, and wings. Not every bird flies, so feathers are a more dependable identifying feature than flight alone.",
+      "FISH": "Fish live in water and breathe through gills. A seal or otter swims too, but it is a mammal rather than a fish.",
+      "STAR": "A star can mean a distant sun or a pointed decorative shape. Christmas ornaments represent the shape rather than an actual celestial object.",
+      "SUN": "The Sun is a star. Its closeness makes it look much larger and brighter than the points of light seen at night.",
+      "DAY": "Twenty-four-hour period. This scene follows Genesis 1; the passage gives the story's context."
+    },
+    "storyReference": "Genesis 1"
+  },
+  {
+    "id": "bible-beginnings-2",
+    "title": "Bible Story: A Garden in Eden",
+    "subtheme": "Bible Story: A Garden in Eden",
+    "description": "The garden story introduces Adam, Eve, and their surroundings. Optional Bible interest: Genesis 2\u20133.",
+    "cardDescription": "The garden story introduces Adam, Eve, and their surroundings. Optional Bible interest: Genesis 2\u20133.",
+    "focus": "Story setting: Genesis 2\u20133. Read the names as part of this particular story, rather than a chapter-and-verse quiz.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "EDEN",
+        "Garden named in the story of Adam and Eve"
+      ],
+      [
+        "ADAM",
+        "Eve's companion in the garden of Eden"
+      ],
+      [
+        "EVE",
+        "Adam's companion in Genesis"
+      ],
+      [
+        "GARDEN",
+        "Area where flowers or vegetables are grown"
+      ],
+      [
+        "TREE",
+        "Woody plant with branches"
+      ],
+      [
+        "FRUIT",
+        "Food grown on trees or vines, such as pears"
+      ],
+      [
+        "RIVER",
+        "Large natural flowing waterway"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "SEED",
+        "Small starting part planted in soil"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "NAME",
+        "Give a word by which an animal is known"
+      ],
+      [
+        "HELPER",
+        "Person who gives assistance"
+      ],
+      [
+        "WORK",
+        "Carry out a task"
+      ],
+      [
+        "EAST",
+        "General direction of sunrise"
+      ]
+    ],
+    "requiredAnswers": [
+      "EDEN",
+      "ADAM"
+    ],
+    "answerNotes": {
+      "GARDEN": "A garden is an area cultivated for plants. A single bed or plot can be one part of a larger garden.",
+      "TREE": "Trees have woody trunks and branches. Familiar garden trees may provide fruit, flowers, or shade, sometimes all three.",
+      "FRUIT": "Everyday fruit dishes can mix several kinds of plant produce. The serving word is culinary and does not require a botanical classification.",
+      "RIVER": "A river is flowing water in a channel. In the baptism scene, Jordan is the proper name of the river.",
+      "SEED": "A seed contains the beginning of a new plant. A seed packet's planting instructions describe how to help it start growing.",
+      "LEAF": "Leaves use light to help a plant make food. The flat blade and its veins are useful details to notice when identifying a leaf.",
+      "NAME": "A name identifies a person or thing. In a family album, adding names helps later readers recognize the people pictured.",
+      "EDEN": "Garden named in the story of Adam and Eve. This scene follows Genesis 2\u20133; the passage gives the story's context.",
+      "ADAM": "Eve's companion in the garden of Eden. This scene follows Genesis 2\u20133; the passage gives the story's context."
+    },
+    "storyReference": "Genesis 2\u20133"
+  },
+  {
+    "id": "bible-beginnings-3",
+    "title": "Bible Story: Noah Builds an Ark",
+    "subtheme": "Bible Story: Noah Builds an Ark",
+    "description": "Noah prepares a large wooden vessel before the flood. Optional Bible interest: Genesis 6\u20137.",
+    "cardDescription": "Noah prepares a large wooden vessel before the flood. Optional Bible interest: Genesis 6\u20137.",
+    "focus": "Story setting: Genesis 6\u20137. Read the names as part of this particular story, rather than a chapter-and-verse quiz.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "NOAH",
+        "Builder of the Bible's ark"
+      ],
+      [
+        "ARK",
+        "Noah's large boat in Genesis"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "BOAT",
+        "Small vessel traveling on water"
+      ],
+      [
+        "FAMILY",
+        "Group of related people"
+      ],
+      [
+        "ANIMAL",
+        "Living creature such as a dog or cow"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "BIRD",
+        "Feathered animal that lays eggs"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "FLOOD",
+        "Water spreading over normally dry land"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "ROOF",
+        "Top covering of a building"
+      ],
+      [
+        "PITCH",
+        "Waterproof coating used on Noah's ark"
+      ]
+    ],
+    "requiredAnswers": [
+      "NOAH",
+      "ARK"
+    ],
+    "answerNotes": {
+      "ARK": "Noah's large boat in Genesis. This scene follows Genesis 6\u20137; the passage gives the story's context.",
+      "WOOD": "Wood comes from trees and has a grain. Following that grain when sanding usually leaves a smoother surface.",
+      "FAMILY": "Family can include several generations and relatives by marriage. A family tree shows relationships rather than everyone's physical appearance.",
+      "BIRD": "Birds have feathers, beaks, and wings. Not every bird flies, so feathers are a more dependable identifying feature than flight alone.",
+      "DOOR": "A door is the movable panel at an entrance. Hinges let it swing, while a latch or lock holds it closed.",
+      "RAIN": "Rain is liquid water falling from clouds. Snow and hail reach the ground in solid forms instead.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance.",
+      "NOAH": "Builder of the Bible's ark. This scene follows Genesis 6\u20137; the passage gives the story's context."
+    },
+    "storyReference": "Genesis 6\u20137"
+  },
+  {
+    "id": "bible-beginnings-4",
+    "title": "Bible Story: A Dove and a Rainbow",
+    "subtheme": "Bible Story: A Dove and a Rainbow",
+    "description": "A returning bird and a colored arc mark the story after the flood. Optional Bible interest: Genesis 8\u20139.",
+    "cardDescription": "A returning bird and a colored arc mark the story after the flood. Optional Bible interest: Genesis 8\u20139.",
+    "focus": "Story setting: Genesis 8\u20139. Read the names as part of this particular story, rather than a chapter-and-verse quiz.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "DOVE",
+        "Bird often associated with a soft cooing call"
+      ],
+      [
+        "RAINBOW",
+        "Colored arc seen when sun shines through rain"
+      ],
+      [
+        "NOAH",
+        "Bible man who sent out a dove"
+      ],
+      [
+        "ARK",
+        "Boat built by Noah for the flood"
+      ],
+      [
+        "OLIVE",
+        "Tree whose leaf the dove brought to Noah"
+      ],
+      [
+        "LEAF",
+        "Plant part growing from a stem"
+      ],
+      [
+        "RAVEN",
+        "Large black bird that brought Elijah food"
+      ],
+      [
+        "WATER",
+        "Liquid needed by plants"
+      ],
+      [
+        "EARTH",
+        "Ground beneath our feet"
+      ],
+      [
+        "SKY",
+        "Space above us where clouds appear"
+      ],
+      [
+        "CLOUD",
+        "White or gray mass in the sky"
+      ],
+      [
+        "PROMISE",
+        "Assurance that something will be done"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "LAND",
+        "Solid part of Earth apart from seas"
+      ]
+    ],
+    "requiredAnswers": [
+      "DOVE",
+      "RAINBOW"
+    ],
+    "answerNotes": {
+      "RAINBOW": "Colored arc seen when sun shines through rain. This scene follows Genesis 8\u20139; the passage gives the story's context.",
+      "ARK": "In Noah's story, ark names the large boat. Other Bible passages use the same English word for a sacred chest, a different object.",
+      "LEAF": "Leaves use light to help a plant make food. The flat blade and its veins are useful details to notice when identifying a leaf.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance.",
+      "SKY": "Sky describes the overhead view from the ground. Clouds, the Sun, the Moon, and stars can all appear in that view.",
+      "CLOUD": "Clouds contain tiny water droplets, ice crystals, or both. Their gray appearance does not mean the water itself is gray.",
+      "DRY": "Dry can be an adjective or an action. It can describe laundry after airing or what happens when moisture leaves a flower bundle.",
+      "DOVE": "Bird often associated with a soft cooing call. This scene follows Genesis 8\u20139; the passage gives the story's context."
+    },
+    "storyReference": "Genesis 8\u20139"
+  },
+  {
+    "id": "bible-beginnings-5",
+    "title": "Bible Story: The Tower of Babel",
+    "subtheme": "Bible Story: The Tower of Babel",
+    "description": "People build a tall structure before their speech is confused. Optional Bible interest: Genesis 11:1\u20139.",
+    "cardDescription": "People build a tall structure before their speech is confused. Optional Bible interest: Genesis 11:1\u20139.",
+    "focus": "Story setting: Genesis 11:1\u20139. Read the names as part of this particular story, rather than a chapter-and-verse quiz.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "BABEL",
+        "Bible tower associated with different languages"
+      ],
+      [
+        "TOWER",
+        "Tall narrow building or structure"
+      ],
+      [
+        "BRICK",
+        "Rectangular building block"
+      ],
+      [
+        "CITY",
+        "Large community of homes and businesses"
+      ],
+      [
+        "BUILD",
+        "Put parts together to make a structure"
+      ],
+      [
+        "LANGUAGE",
+        "System of speech used by a people"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "SPEAK",
+        "Say words aloud"
+      ],
+      [
+        "EARTH",
+        "Soil in a garden"
+      ],
+      [
+        "SKY",
+        "Overhead area seen beyond the trees"
+      ],
+      [
+        "PEOPLE",
+        "Human beings as a group"
+      ],
+      [
+        "NAME",
+        "What someone is called"
+      ],
+      [
+        "SCATTER",
+        "Spread in different directions"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ]
+    ],
+    "requiredAnswers": [
+      "BABEL",
+      "TOWER"
+    ],
+    "answerNotes": {
+      "BRICK": "A brick is a rectangular building block. In The Wizard of Oz, the yellow road is made from these blocks.",
+      "SKY": "Sky describes the overhead view from the ground. Clouds, the Sun, the Moon, and stars can all appear in that view.",
+      "NAME": "A name identifies a person or thing. In a family album, adding names helps later readers recognize the people pictured.",
+      "BABEL": "Bible tower associated with different languages. This scene follows Genesis 11:1\u20139; the passage gives the story's context.",
+      "TOWER": "Tall narrow building or structure. This scene follows Genesis 11:1\u20139; the passage gives the story's context."
+    },
+    "storyReference": "Genesis 11:1\u20139"
+  }
+]

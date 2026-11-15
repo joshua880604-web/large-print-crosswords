@@ -1,0 +1,411 @@
+[
+  {
+    "id": "yarn-for-useful-things",
+    "title": "Knitting a Striped Scarf",
+    "subtheme": "Knitting a Striped Scarf",
+    "description": "Change yarn colors while working a warm neck covering.",
+    "cardDescription": "Change yarn colors while working a warm neck covering.",
+    "focus": "The setting is knitting a Striped Scarf. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "SCARF",
+        "Long cloth worn around the neck"
+      ],
+      [
+        "STRIPE",
+        "Long band of color"
+      ],
+      [
+        "YARN",
+        "Continuous strand for knitting"
+      ],
+      [
+        "NEEDLE",
+        "Pointed tool for forming knitted loops"
+      ],
+      [
+        "KNIT",
+        "Make fabric with yarn and needles"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "STITCH",
+        "One loop of worked thread"
+      ],
+      [
+        "WOOL",
+        "Warm fiber from sheep"
+      ],
+      [
+        "NECK",
+        "Body part between head and shoulders"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "FRINGE",
+        "Loose hanging yarn strands used as decoration"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCARF",
+      "STRIPE"
+    ],
+    "answerNotes": {
+      "YARN": "Yarn is a continuous strand of fibers. A ball or skein is a way to package it, not a separate kind of stitch.",
+      "NEEDLE": "A sewing needle has a point and an eye. Knitting needles generally use pointed ends to form loops without threading an eye.",
+      "ROW": "A row is a line of things side by side. Garden plants, theater seats, and letters in a puzzle can all be arranged in rows.",
+      "STITCH": "A stitch is one unit of worked thread or yarn. Many stitches together form a seam, knitted row, or decorative pattern.",
+      "WOOL": "Wool comes from sheep. It can be spun into yarn and then knitted or woven into warm fabric.",
+      "WARM": "Warm is a relative temperature word. Something warm has more heat than a cool object but is not usually described as hot.",
+      "COLOR": "Color names such as red, blue, and yellow describe appearance. They can help with a flower scene without requiring botanical vocabulary.",
+      "LOOP": "A loop is a curved opening in string or ribbon. It need not be tied into a knot to have that shape."
+    }
+  },
+  {
+    "id": "yarn-for-useful-things-2",
+    "title": "A Crocheted Dishcloth for the Kitchen",
+    "subtheme": "A Crocheted Dishcloth for the Kitchen",
+    "description": "Use a hook and cotton yarn to make a washable kitchen square.",
+    "cardDescription": "Use a hook and cotton yarn to make a washable kitchen square.",
+    "focus": "The setting is a Crocheted Dishcloth for the Kitchen. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "DISHCLOTH",
+        "Small fabric square used to wash plates"
+      ],
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ],
+      [
+        "COTTON",
+        "Soft fiber used for many shirts and towels"
+      ],
+      [
+        "YARN",
+        "Fiber strand worked into stitches"
+      ],
+      [
+        "LOOP",
+        "Round opening in a tied cord"
+      ],
+      [
+        "STITCH",
+        "Single sewn link in a seam"
+      ],
+      [
+        "CHAIN",
+        "Connected series of metal links"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal sides"
+      ],
+      [
+        "ROW",
+        "Line of seats or plants"
+      ],
+      [
+        "WASH",
+        "Clean with water"
+      ],
+      [
+        "SINK",
+        "Basin for washing dishes"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "KNOT",
+        "Fastening made by tying string"
+      ]
+    ],
+    "requiredAnswers": [
+      "DISHCLOTH",
+      "HOOK"
+    ],
+    "answerNotes": {
+      "HOOK": "A fishing hook catches by its pointed curve. A wall hook is shaped for hanging objects rather than catching fish.",
+      "COTTON": "Cotton is a plant fiber used in many washable household items. Wool instead comes from an animal's fleece.",
+      "YARN": "Yarn is a continuous strand of fibers. A ball or skein is a way to package it, not a separate kind of stitch.",
+      "LOOP": "A loop is a curved opening in string or ribbon. It need not be tied into a knot to have that shape.",
+      "STITCH": "A stitch is one unit of worked thread or yarn. Many stitches together form a seam, knitted row, or decorative pattern.",
+      "CHAIN": "A chain is made from connected links. On a porch swing it provides support; on a bicycle it transfers motion.",
+      "ROW": "A row is a line of things side by side. Garden plants, theater seats, and letters in a puzzle can all be arranged in rows.",
+      "SOFT": "Soft describes something that yields to touch. It can refer to cloth, an animal's fur, or food that is easy to bite.",
+      "KNOT": "A knot holds a cord by bending it through loops. It can join ends or stop a strand from sliding through a hole."
+    }
+  },
+  {
+    "id": "yarn-for-useful-things-3",
+    "title": "Pom-Poms for a Woolly Hat",
+    "subtheme": "Pom-Poms for a Woolly Hat",
+    "description": "Tie and trim a fluffy yarn ball for a hat's top.",
+    "cardDescription": "Tie and trim a fluffy yarn ball for a hat's top.",
+    "focus": "The setting is pom-Poms for a Woolly Hat. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "POMPOM",
+        "Fluffy yarn ball on a hat (two words)"
+      ],
+      [
+        "HAT",
+        "Head covering"
+      ],
+      [
+        "YARN",
+        "Knitting material wound into a ball"
+      ],
+      [
+        "WOOL",
+        "Sheep's fleece spun into yarn"
+      ],
+      [
+        "FLUFFY",
+        "Light, soft, and airy"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "SCISSORS",
+        "Two-bladed tool for cutting paper"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "SOFT",
+        "Not hard or stiff"
+      ],
+      [
+        "BRIM",
+        "Projecting edge around the lower part of a hat"
+      ]
+    ],
+    "requiredAnswers": [
+      "POMPOM",
+      "HAT"
+    ],
+    "answerNotes": {
+      "HAT": "A hat covers the head. The brim projects outward, while the crown is the part above it.",
+      "YARN": "Yarn is a continuous strand of fibers. A ball or skein is a way to package it, not a separate kind of stitch.",
+      "WOOL": "Wool comes from sheep. It can be spun into yarn and then knitted or woven into warm fabric.",
+      "TOP": "A toy top spins on a point. Top can also mean the highest part of an object, so the action in the clue matters.",
+      "WRAP": "Wrap means put a covering around something. Paper is common for parcels and shop goods, while cloth can also be a wrapping material.",
+      "CUT": "Cut is an action, unlike a tool name such as scissors or knife. Matching the clue's part of speech helps narrow the answer.",
+      "SCISSORS": "Scissors use two blades moving past one another. Finger loops help control the opening and closing action.",
+      "STRING": "String is a thin cord used for tying or flying a kite. A kite's string connects the flying frame to the person holding it.",
+      "SOFT": "Soft describes something that yields to touch. It can refer to cloth, an animal's fur, or food that is easy to bite."
+    }
+  },
+  {
+    "id": "yarn-for-useful-things-4",
+    "title": "A Knitted Blanket for a Lap",
+    "subtheme": "A Knitted Blanket for a Lap",
+    "description": "Work rows of yarn into a soft covering for a seated lap.",
+    "cardDescription": "Work rows of yarn into a soft covering for a seated lap.",
+    "focus": "The setting is a Knitted Blanket for a Lap. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "BLANKET",
+        "Large soft covering used for warmth"
+      ],
+      [
+        "LAP",
+        "Area across the thighs when sitting"
+      ],
+      [
+        "YARN",
+        "Long strand used with crochet hooks"
+      ],
+      [
+        "WOOL",
+        "Fiber shorn from a sheep"
+      ],
+      [
+        "KNIT",
+        "Form cloth from loops of yarn"
+      ],
+      [
+        "NEEDLE",
+        "Long tool used with yarn to make stitches"
+      ],
+      [
+        "WARM",
+        "Moderately hot"
+      ],
+      [
+        "SOFT",
+        "Gentle to the touch"
+      ],
+      [
+        "ROW",
+        "Plants arranged in a straight line"
+      ],
+      [
+        "SQUARE",
+        "Shape with four right angles and equal edges"
+      ],
+      [
+        "PATCH",
+        "Small piece of fabric for a repair"
+      ],
+      [
+        "EDGE",
+        "Outer part where a surface ends"
+      ],
+      [
+        "STITCH",
+        "Small loop made with a needle"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ]
+    ],
+    "requiredAnswers": [
+      "BLANKET",
+      "LAP"
+    ],
+    "answerNotes": {
+      "BLANKET": "A blanket is a covering used for warmth. A quilt usually has several layers held together with stitching.",
+      "YARN": "Yarn is a continuous strand of fibers. A ball or skein is a way to package it, not a separate kind of stitch.",
+      "WOOL": "Wool comes from sheep. It can be spun into yarn and then knitted or woven into warm fabric.",
+      "NEEDLE": "A sewing needle has a point and an eye. Knitting needles generally use pointed ends to form loops without threading an eye.",
+      "WARM": "Warm is a relative temperature word. Something warm has more heat than a cool object but is not usually described as hot.",
+      "SOFT": "Soft describes something that yields to touch. It can refer to cloth, an animal's fur, or food that is easy to bite.",
+      "ROW": "A row is a line of things side by side. Garden plants, theater seats, and letters in a puzzle can all be arranged in rows.",
+      "STITCH": "A stitch is one unit of worked thread or yarn. Many stitches together form a seam, knitted row, or decorative pattern.",
+      "CHAIR": "A chair is intended for one sitter. A bench or sofa generally provides room for more than one person."
+    }
+  },
+  {
+    "id": "yarn-for-useful-things-5",
+    "title": "Winding Yarn into a Ball",
+    "subtheme": "Winding Yarn into a Ball",
+    "description": "Untangle a loose strand and wind it into a neat round bundle.",
+    "cardDescription": "Untangle a loose strand and wind it into a neat round bundle.",
+    "focus": "The setting is winding Yarn into a Ball. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "YARN",
+        "Spun fiber used in a scarf"
+      ],
+      [
+        "BALL",
+        "Round toy that can roll or bounce"
+      ],
+      [
+        "WIND",
+        "Wrap yarn around to form a ball"
+      ],
+      [
+        "WOOL",
+        "Sheep-derived material used for warm knitting"
+      ],
+      [
+        "SKEIN",
+        "A loosely coiled bundle of yarn"
+      ],
+      [
+        "STRAND",
+        "Single long piece of yarn"
+      ],
+      [
+        "TANGLE",
+        "Knotty jumble of yarn or string"
+      ],
+      [
+        "LOOP",
+        "Curved part of a ribbon bow"
+      ],
+      [
+        "WRAP",
+        "Fold protective material around something"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "SOFT",
+        "Yielding under light pressure"
+      ],
+      [
+        "COLOR",
+        "Red, blue, or yellow, for example"
+      ],
+      [
+        "KNIT",
+        "Work yarn into connected stitches"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ]
+    ],
+    "requiredAnswers": [
+      "YARN",
+      "BALL"
+    ],
+    "answerNotes": {
+      "YARN": "Yarn is a continuous strand of fibers. A ball or skein is a way to package it, not a separate kind of stitch.",
+      "BALL": "A ball is usually round in games such as baseball. American football uses a different, elongated shape.",
+      "WIND": "Wind has two pronunciations and meanings: moving air, or turning something around a center. A yarn ball or clock uses the turning action.",
+      "WOOL": "Wool comes from sheep. It can be spun into yarn and then knitted or woven into warm fabric.",
+      "LOOP": "A loop is a curved opening in string or ribbon. It need not be tied into a knot to have that shape.",
+      "WRAP": "Wrap means put a covering around something. Paper is common for parcels and shop goods, while cloth can also be a wrapping material.",
+      "HAND": "Hand can name a body part or a clock pointer. A clock's minute hand makes a full turn each hour.",
+      "SOFT": "Soft describes something that yields to touch. It can refer to cloth, an animal's fur, or food that is easy to bite.",
+      "COLOR": "Color names such as red, blue, and yellow describe appearance. They can help with a flower scene without requiring botanical vocabulary."
+    }
+  }
+]

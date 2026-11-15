@@ -1,0 +1,399 @@
+[
+  {
+    "id": "supper-on-the-stove",
+    "title": "Spaghetti and Tomato Sauce",
+    "subtheme": "Spaghetti and Tomato Sauce",
+    "description": "Twirl long pasta strands with a familiar red sauce.",
+    "cardDescription": "Twirl long pasta strands with a familiar red sauce.",
+    "focus": "The setting is spaghetti and Tomato Sauce. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "SPAGHETTI",
+        "Pasta in long thin strands"
+      ],
+      [
+        "SAUCE",
+        "Liquid or creamy topping for food"
+      ],
+      [
+        "PASTA",
+        "Food such as spaghetti or macaroni"
+      ],
+      [
+        "TOMATO",
+        "Red vine-grown salad fruit"
+      ],
+      [
+        "POT",
+        "Deep cooking vessel"
+      ],
+      [
+        "BOIL",
+        "Cook in bubbling water"
+      ],
+      [
+        "DRAIN",
+        "Let liquid flow away"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "TWIRL",
+        "Turn around quickly"
+      ],
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "BASIL",
+        "Leafy kitchen herb often used with tomatoes"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ],
+      [
+        "SUPPER",
+        "Evening meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPAGHETTI",
+      "SAUCE"
+    ],
+    "answerNotes": {
+      "SAUCE": "A sauce adds moisture or flavor to another food. It can be smooth, chunky, hot, or cold.",
+      "PASTA": "Pasta comes in many shapes. Spaghetti is long and thin, while macaroni is commonly sold as short tubes.",
+      "TOMATO": "Tomatoes are used like vegetables in savory cooking. Botanically, their seed-bearing fruits belong in the fruit category.",
+      "POT": "Pot can name a cooking vessel or a plant container. The surrounding clues tell you which everyday use is intended.",
+      "FORK": "A fork's prongs hold pieces of food. A garden fork is a larger tool sharing that pronged shape.",
+      "CHEESE": "Cheese comes in many textures and flavors. Sharp describes flavor, while a wedge describes the shape of a cut portion.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  },
+  {
+    "id": "supper-on-the-stove-2",
+    "title": "Rice Simmering Under the Lid",
+    "subtheme": "Rice Simmering Under the Lid",
+    "description": "A covered pot turns dry grains into a fluffy side dish.",
+    "cardDescription": "A covered pot turns dry grains into a fluffy side dish.",
+    "focus": "The setting is rice Simmering Under the Lid. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "RICE",
+        "Small grains commonly served with a meal"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "GRAIN",
+        "Edible seed such as wheat"
+      ],
+      [
+        "POT",
+        "Lidded vessel used to make soup"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "STEAM",
+        "Water vapor rising from a hot kettle"
+      ],
+      [
+        "SIMMER",
+        "Cook gently just below boiling"
+      ],
+      [
+        "FLUFF",
+        "Make light and loose with a fork"
+      ],
+      [
+        "FORK",
+        "Pronged utensil used with a knife"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ]
+    ],
+    "requiredAnswers": [
+      "RICE",
+      "LID"
+    ],
+    "answerNotes": {
+      "RICE": "Rice is a grain that absorbs water as it cooks. The word names the grain, not the pot or the cooking method.",
+      "LID": "A lid is a removable cover. On a cooking pot it helps contain heat and steam; on a jar it closes the opening.",
+      "GRAIN": "Grain can mean an edible seed or the pattern of wood fibers. The food and woodworking scenes use different senses of the same word.",
+      "POT": "Pot can name a cooking vessel or a plant container. The surrounding clues tell you which everyday use is intended.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance.",
+      "FORK": "A fork's prongs hold pieces of food. A garden fork is a larger tool sharing that pronged shape.",
+      "WHITE": "White is a color description, not a flower or bird name. Crossings can help when a clue asks for a color rather than a species.",
+      "CUP": "Cup can name a drinking vessel or a measuring amount. A recipe's measured cup is not simply any small mug."
+    }
+  },
+  {
+    "id": "supper-on-the-stove-3",
+    "title": "Chili for a Cool Evening",
+    "subtheme": "Chili for a Cool Evening",
+    "description": "Beans, tomato, and spice simmer together for a cool evening.",
+    "cardDescription": "Beans, tomato, and spice simmer together for a cool evening.",
+    "focus": "The setting is chili for a Cool Evening. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CHILI",
+        "Spicy stew often made with beans"
+      ],
+      [
+        "BEAN",
+        "Kidney or pinto, for example"
+      ],
+      [
+        "BEEF",
+        "Meat from cattle"
+      ],
+      [
+        "TOMATO",
+        "Juicy red fruit used in pasta sauce"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "POT",
+        "Deep pan for cooking on a stove"
+      ],
+      [
+        "STIR",
+        "Move a spoon around in a mixture"
+      ],
+      [
+        "SIMMER",
+        "Cook in liquid with small slow bubbles"
+      ],
+      [
+        "SPICE",
+        "Flavoring such as cinnamon"
+      ],
+      [
+        "CUMIN",
+        "Aromatic seed spice used in many savory dishes"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "LADLE",
+        "Deep spoon for serving soup"
+      ],
+      [
+        "CRACKER",
+        "Crisp dry accompaniment served beside some soups"
+      ],
+      [
+        "SUPPER",
+        "Meal eaten at the end of the day"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHILI",
+      "BEAN"
+    ],
+    "answerNotes": {
+      "TOMATO": "Tomatoes are used like vegetables in savory cooking. Botanically, their seed-bearing fruits belong in the fruit category.",
+      "ONION": "An onion bulb has many layers. Its outer dry skin is removed before the inner layers are chopped for cooking.",
+      "POT": "Pot can name a cooking vessel or a plant container. The surrounding clues tell you which everyday use is intended.",
+      "STIR": "Stir means move a utensil through a mixture. It combines ingredients without necessarily beating in much air.",
+      "BOWL": "A bowl has raised curved sides. That shape helps hold liquid or contain a mixture while it is stirred."
+    }
+  },
+  {
+    "id": "supper-on-the-stove-4",
+    "title": "Pork Chops in the Frying Pan",
+    "subtheme": "Pork Chops in the Frying Pan",
+    "description": "Bone-in cuts of pork brown in a frying pan.",
+    "cardDescription": "Bone-in cuts of pork brown in a frying pan.",
+    "focus": "The setting is pork Chops in the Frying Pan. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PORK",
+        "Meat from a pig"
+      ],
+      [
+        "CHOP",
+        "Bone-in cut of pork cooked in a skillet"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "BROWN",
+        "Earthy color often seen in tree bark"
+      ],
+      [
+        "BONE",
+        "Hard part of a skeleton"
+      ],
+      [
+        "OIL",
+        "Cooking fat that is liquid at room temperature"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "PEPPER",
+        "Dark seasoning ground over a savory sauce"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "TONGS",
+        "Paired gripping tool used to lift food"
+      ],
+      [
+        "PLATE",
+        "Shallow dish used at a meal"
+      ],
+      [
+        "SUPPER",
+        "Dinner served in the evening"
+      ],
+      [
+        "SIZZLE",
+        "Hissing sound of food in a hot pan"
+      ],
+      [
+        "GRAVY",
+        "Savory sauce often served with roast meat and potatoes"
+      ]
+    ],
+    "requiredAnswers": [
+      "PORK",
+      "CHOP"
+    ],
+    "answerNotes": {
+      "PAN": "Pan is a broad kitchen word. A frying pan is used on a stove, while a loaf pan holds dough or batter in the oven.",
+      "OIL": "Oil has different uses in different scenes. It can be a cooking ingredient, lamp fuel, or part of a story about caring for a traveler.",
+      "SALT": "Salt is a seasoning usually paired with pepper on the table. A pinch describes a small amount rather than a special kind of it.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  },
+  {
+    "id": "supper-on-the-stove-5",
+    "title": "Salmon with a Lemon Wedge",
+    "subtheme": "Salmon with a Lemon Wedge",
+    "description": "Serve pink flaky fish with a sour citrus wedge.",
+    "cardDescription": "Serve pink flaky fish with a sour citrus wedge.",
+    "focus": "The setting is salmon with a Lemon Wedge. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "SALMON",
+        "Pink-fleshed fish often served with lemon"
+      ],
+      [
+        "LEMON",
+        "Yellow citrus fruit commonly used for a sharp juice"
+      ],
+      [
+        "FISH",
+        "Water animal with fins and gills"
+      ],
+      [
+        "PINK",
+        "Light red color"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of fruit"
+      ],
+      [
+        "FORK",
+        "Utensil used to pick up food"
+      ],
+      [
+        "WEDGE",
+        "Piece of fruit cut wider at one edge"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "DILL",
+        "Feathery-leaved herb associated with some pickles"
+      ],
+      [
+        "PAN",
+        "Flat-bottomed vessel used on a stove"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "PLATE",
+        "Flat dinner dish"
+      ],
+      [
+        "FLAKE",
+        "Break cooked fish into small pieces"
+      ],
+      [
+        "SUPPER",
+        "Meal after lunch"
+      ]
+    ],
+    "requiredAnswers": [
+      "SALMON",
+      "LEMON"
+    ],
+    "answerNotes": {
+      "LEMON": "Lemon juice is sour. Zest is the thin colored outer peel used for flavor, not the thick white layer beneath it.",
+      "FISH": "Fish live in water and breathe through gills. A seal or otter swims too, but it is a mammal rather than a fish.",
+      "FORK": "A fork's prongs hold pieces of food. A garden fork is a larger tool sharing that pronged shape.",
+      "WEDGE": "A wedge narrows toward one edge or point. A lemon wedge and a cheese wedge share that shape but are different foods.",
+      "JUICE": "Juice is liquid released from fruit or vegetables. Pulp is the soft plant material that may remain mixed into it.",
+      "PAN": "Pan is a broad kitchen word. A frying pan is used on a stove, while a loaf pan holds dough or batter in the oven.",
+      "BAKE": "Baking uses dry heat in an oven. Boiling instead cooks food in bubbling liquid.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  }
+]

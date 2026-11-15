@@ -1,0 +1,405 @@
+[
+  {
+    "id": "errands-on-main-street",
+    "title": "Picking Up a Prescription at the Counter",
+    "subtheme": "Picking Up a Prescription at the Counter",
+    "description": "Pick up a labeled bottle at the pharmacy counter; the clues concern the errand, not medical advice.",
+    "cardDescription": "Pick up a labeled bottle at the pharmacy counter; the clues concern the errand, not medical advice.",
+    "focus": "The setting is picking Up a Prescription at the Counter. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PHARMACY",
+        "Shop where prescriptions are filled"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "BOTTLE",
+        "Narrow-necked liquid container"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "LINE",
+        "Long narrow mark"
+      ],
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "CLERK",
+        "Store employee helping customers"
+      ],
+      [
+        "ADDRESS",
+        "Location written on a mailed envelope"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ]
+    ],
+    "requiredAnswers": [
+      "PHARMACY",
+      "COUNTER"
+    ],
+    "answerNotes": {
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "LABEL": "A label identifies an item or its contents. It can carry a name, date, size, or address depending on the scene.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "NAME": "A name identifies a person or thing. In a family album, adding names helps later readers recognize the people pictured.",
+      "LINE": "Line can mean a row, a drawn mark, or a fishing cord. The clue's action helps distinguish those meanings.",
+      "RECEIPT": "A receipt records a completed payment. A bill asks for payment, so the two papers serve different purposes.",
+      "SHELF": "A shelf is a horizontal storage surface. A drawer is a compartment that slides in and out.",
+      "ADDRESS": "An address tells where mail should go. The recipient's name identifies the person, while the street, city, and postal code locate the destination.",
+      "WINDOW": "A window admits light through glass. A screen is a mesh barrier that can keep insects out when the glass is open.",
+      "SIGN": "Sign can be a public notice or the action of writing a name. Check whether the clue describes an object or asks for a verb."
+    }
+  },
+  {
+    "id": "errands-on-main-street-2",
+    "title": "Mailing a Letter at the Post Office",
+    "subtheme": "Mailing a Letter at the Post Office",
+    "description": "Address, weigh, and send a letter at the post office.",
+    "cardDescription": "Address, weigh, and send a letter at the post office.",
+    "focus": "The setting is mailing a Letter at the Post Office. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "POSTAGE",
+        "Charge for carrying an item through the mail"
+      ],
+      [
+        "LETTER",
+        "Written message mailed to someone"
+      ],
+      [
+        "STAMP",
+        "Postage label on an envelope"
+      ],
+      [
+        "ENVELOPE",
+        "Paper sleeve for a letter"
+      ],
+      [
+        "ADDRESS",
+        "Recipient's street, city, and postal code"
+      ],
+      [
+        "SCALE",
+        "Device used for weighing"
+      ],
+      [
+        "SLOT",
+        "Narrow opening for letters"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "COUNTER",
+        "Flat shop surface used for transactions"
+      ],
+      [
+        "CLERK",
+        "Shop worker serving at a counter"
+      ],
+      [
+        "ZIP",
+        "First word of the U.S. postal ___ code"
+      ],
+      [
+        "CODE",
+        "System of numbers or symbols carrying information"
+      ],
+      [
+        "SEAL",
+        "Close tightly to prevent leaks"
+      ],
+      [
+        "SEND",
+        "Dispatch through the mail"
+      ]
+    ],
+    "requiredAnswers": [
+      "POSTAGE",
+      "LETTER"
+    ],
+    "answerNotes": {
+      "LETTER": "Letter can mean a written message or one alphabet character. An envelope clue points to the message sense.",
+      "STAMP": "Stamp can mean a postage label or a tool that leaves an ink impression. A mailed letter and a craft project use different senses.",
+      "ENVELOPE": "An envelope encloses a letter. The destination goes on its front; the message stays inside.",
+      "ADDRESS": "An address tells where mail should go. The recipient's name identifies the person, while the street, city, and postal code locate the destination.",
+      "SCALE": "A scale measures weight. Its reading is different from a price, although a shop may calculate price using that weight.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space."
+    }
+  },
+  {
+    "id": "errands-on-main-street-3",
+    "title": "Returning Books at the Library Desk",
+    "subtheme": "Returning Books at the Library Desk",
+    "description": "Bring borrowed books back to the library's return desk.",
+    "cardDescription": "Bring borrowed books back to the library's return desk.",
+    "focus": "The setting is returning Books at the Library Desk. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "RETURN",
+        "To bring a borrowed library item back"
+      ],
+      [
+        "BOOK",
+        "Bound pages inside a cover"
+      ],
+      [
+        "LIBRARY",
+        "Place where books are kept for reading or borrowing"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "DUE",
+        "Expected or required by a set date"
+      ],
+      [
+        "SHELF",
+        "Board that holds books"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "STAMP",
+        "Small label showing mail payment"
+      ],
+      [
+        "SLOT",
+        "Thin opening that takes a coin"
+      ],
+      [
+        "READER",
+        "Person using or enjoying written material"
+      ],
+      [
+        "TITLE",
+        "Name of a book or song"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "BORROW",
+        "To take a library book for temporary use and return it later"
+      ]
+    ],
+    "requiredAnswers": [
+      "RETURN",
+      "BOOK"
+    ],
+    "answerNotes": {
+      "BOOK": "A book has pages joined inside a cover. The title names the work; the author is the person who wrote it.",
+      "CARD": "Card can mean a printed greeting or a playing piece. An envelope points to a greeting; a deck or suit points to a game.",
+      "DATE": "A date identifies a day, usually with a month and year. It can distinguish a photo's occasion from the day its note was written.",
+      "SHELF": "A shelf is a horizontal storage surface. A drawer is a compartment that slides in and out.",
+      "STAMP": "Stamp can mean a postage label or a tool that leaves an ink impression. A mailed letter and a craft project use different senses."
+    }
+  },
+  {
+    "id": "errands-on-main-street-4",
+    "title": "A Deposit at the Bank Window",
+    "subtheme": "A Deposit at the Bank Window",
+    "description": "Fill in a slip and hand a deposit to the bank teller.",
+    "cardDescription": "Fill in a slip and hand a deposit to the bank teller.",
+    "focus": "The setting is a Deposit at the Bank Window. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "BANK",
+        "Business that holds deposits and cashes checks"
+      ],
+      [
+        "DEPOSIT",
+        "Put money into a bank account"
+      ],
+      [
+        "CHECK",
+        "Written order to a bank to pay money"
+      ],
+      [
+        "CASH",
+        "Money paid as bills or coins"
+      ],
+      [
+        "TELLER",
+        "Bank worker who handles deposits and withdrawals"
+      ],
+      [
+        "SLIP",
+        "Paper form used for a bank deposit"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "WINDOW",
+        "Framed glass opening letting in daylight"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "SIGN",
+        "Write one's name on a bank form"
+      ],
+      [
+        "DESK",
+        "Table used for schoolwork"
+      ],
+      [
+        "RECEIPT",
+        "Store paper listing purchases and payment"
+      ]
+    ],
+    "requiredAnswers": [
+      "BANK",
+      "DEPOSIT"
+    ],
+    "answerNotes": {
+      "BANK": "In a water scene, bank means the ground beside a river or creek. In a money scene, it names a financial business.",
+      "CASH": "Cash means physical money such as bills and coins. A check gives an instruction to transfer money rather than being cash itself.",
+      "PEN": "A pen writes with ink. A pencil uses graphite, which can usually be removed with an eraser.",
+      "WINDOW": "A window admits light through glass. A screen is a mesh barrier that can keep insects out when the glass is open.",
+      "COIN": "A coin is a metal piece of money. The value depends on the currency and period; Bible stories do not use modern U.S. coins.",
+      "NOTE": "A note is a short written message. It can be a reminder, a greeting, or a brief explanation attached to an object.",
+      "SIGN": "Sign can be a public notice or the action of writing a name. Check whether the clue describes an object or asks for a verb.",
+      "RECEIPT": "A receipt records a completed payment. A bill asks for payment, so the two papers serve different purposes."
+    }
+  },
+  {
+    "id": "errands-on-main-street-5",
+    "title": "Picking Up Dry Cleaning",
+    "subtheme": "Picking Up Dry Cleaning",
+    "description": "Use a claim ticket to collect freshly cleaned clothes.",
+    "cardDescription": "Use a claim ticket to collect freshly cleaned clothes.",
+    "focus": "The setting is picking Up Dry Cleaning. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CLEANER",
+        "Person or business that removes dirt"
+      ],
+      [
+        "TICKET",
+        "Printed proof of admission"
+      ],
+      [
+        "COAT",
+        "Cold-weather outer garment"
+      ],
+      [
+        "SUIT",
+        "Matching jacket and trousers"
+      ],
+      [
+        "HANGER",
+        "Shaped support on which a garment is hung"
+      ],
+      [
+        "BAG",
+        "Flexible sack with an opening at the top"
+      ],
+      [
+        "COUNTER",
+        "Shop work surface near a register"
+      ],
+      [
+        "NAME",
+        "What someone is called"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "RECEIPT",
+        "Record given after paying"
+      ],
+      [
+        "CLAIM",
+        "Pick up an item left with a service"
+      ],
+      [
+        "CLERK",
+        "Worker who handles purchases"
+      ],
+      [
+        "TAG",
+        "Small label attached to an item"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLEANER",
+      "TICKET"
+    ],
+    "answerNotes": {
+      "TICKET": "A ticket can give admission or identify an item left for a service. A theater ticket and a dry-cleaning claim ticket serve different uses.",
+      "COAT": "A coat is an outer garment. Its lining is inside, while the collar and pockets are visible features outside.",
+      "SUIT": "Suit can mean matching clothes or a group of playing cards. Hearts, diamonds, clubs, and spades are the four card suits.",
+      "HANGER": "A hanger supports a garment by its shoulders. A hook can hold the hanger or directly hold a coat, depending on the entryway.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "NAME": "A name identifies a person or thing. In a family album, adding names helps later readers recognize the people pictured.",
+      "FOLD": "Folding brings one part of a sheet over another. A crease is the line left by pressing that fold.",
+      "RECEIPT": "A receipt records a completed payment. A bill asks for payment, so the two papers serve different purposes."
+    }
+  }
+]

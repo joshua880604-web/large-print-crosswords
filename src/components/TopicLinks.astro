@@ -1,1 +1,4 @@
-<p class="notice">Explore a favorite interest: <a href="/thanksgiving-crosswords/">Thanksgiving crosswords</a> · <a href="/christmas-crosswords/">Christmas crosswords</a> · <a href="/winter-crosswords/">Winter crosswords</a> · <a href="/music-crosswords/">Music crosswords</a> · <a href="/sports-crosswords/">Sports crosswords</a> · <a href="/geography-crosswords/">Geography &amp; state capitals</a> · <a href="/american-history-crosswords/">American history</a> · <a href="/texas-crosswords/">Texas crosswords</a></p>
+---
+import {topics} from '../data/topics';
+---
+<p class="notice">Explore a favorite interest: <a href="/thanksgiving-crosswords/">Thanksgiving crosswords</a> · <a href="/christmas-crosswords/">Christmas crosswords</a> · <a href="/winter-crosswords/">Winter crosswords</a> · <a href="/music-crosswords/">Music crosswords</a> · <a href="/sports-crosswords/">Sports crosswords</a> · <a href="/geography-crosswords/">Geography &amp; state capitals</a> · <a href="/american-history-crosswords/">American history</a> · <a href="/texas-crosswords/">Texas crosswords</a> · {topics.map((t,i)=><>{i>0&&' · '}<a href={`/${t.slug}/`}>{t.name}</a></>)}</p>

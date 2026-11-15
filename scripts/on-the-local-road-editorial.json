@@ -1,0 +1,409 @@
+[
+  {
+    "id": "on-the-local-road",
+    "title": "Waiting for the Crosswalk Signal",
+    "subtheme": "Waiting for the Crosswalk Signal",
+    "description": "Wait at the curb for the signal to cross the street.",
+    "cardDescription": "Wait at the curb for the signal to cross the street.",
+    "focus": "The setting is waiting for the Crosswalk Signal. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CROSSWALK",
+        "Marked part of a street for pedestrians"
+      ],
+      [
+        "SIGNAL",
+        "Light or sound giving an instruction"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "CURB",
+        "Raised edge along a street"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "TRAFFIC",
+        "Vehicles moving along a road"
+      ],
+      [
+        "STRIPE",
+        "Long band of color"
+      ],
+      [
+        "PEDESTRIAN",
+        "Person traveling on foot"
+      ],
+      [
+        "BUTTON",
+        "Control pressed to request a crossing signal"
+      ],
+      [
+        "SAFE",
+        "Free from harm"
+      ]
+    ],
+    "requiredAnswers": [
+      "CROSSWALK",
+      "SIGNAL"
+    ],
+    "answerNotes": {
+      "CROSSWALK": "A crosswalk is a marked place to cross a road. The signal gives instructions; the striped crossing itself does not control traffic.",
+      "SIGNAL": "A signal communicates an instruction. At a crossing it can use lights or symbols rather than spoken words.",
+      "CURB": "A curb is the raised edge between roadway and sidewalk. The corner is where streets meet, not another name for that raised edge.",
+      "STREET": "A street is a road through a built-up area. Its name and building numbers form part of a postal address.",
+      "LIGHT": "Light makes things visible. A lamp produces light, while a mirror mainly reflects light arriving from elsewhere.",
+      "CORNER": "A corner is where two edges meet. In a jigsaw, a corner piece normally has two outer edges.",
+      "STOP": "Stop asks for movement to end. At a crossing, it concerns waiting for the appropriate signal rather than a kind of destination.",
+      "BUTTON": "A button fastens through a buttonhole or loop. Some have holes through the face; others attach by a small shank on the back."
+    }
+  },
+  {
+    "id": "on-the-local-road-2",
+    "title": "Parking Beside the Town Square",
+    "subtheme": "Parking Beside the Town Square",
+    "description": "Find a marked space and check the parking time at the meter.",
+    "cardDescription": "Find a marked space and check the parking time at the meter.",
+    "focus": "The setting is parking Beside the Town Square. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PARK",
+        "Leave a car in a designated space"
+      ],
+      [
+        "METER",
+        "Device that collects parking payments"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "SPACE",
+        "Gap left between things"
+      ],
+      [
+        "CURB",
+        "Border between road and sidewalk"
+      ],
+      [
+        "CAR",
+        "Four-wheeled road vehicle"
+      ],
+      [
+        "STREET",
+        "Town road lined with homes or shops"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "HOUR",
+        "Sixty minutes"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "STOP",
+        "Cease moving"
+      ],
+      [
+        "TICKET",
+        "Printed proof of admission"
+      ],
+      [
+        "SLOT",
+        "Narrow opening for letters"
+      ]
+    ],
+    "requiredAnswers": [
+      "PARK",
+      "METER"
+    ],
+    "answerNotes": {
+      "METER": "A parking meter records paid parking time. Meter can also name other measuring devices, so the street scene supplies the intended meaning.",
+      "COIN": "A coin is a metal piece of money. The value depends on the currency and period; Bible stories do not use modern U.S. coins.",
+      "CURB": "A curb is the raised edge between roadway and sidewalk. The corner is where streets meet, not another name for that raised edge.",
+      "CAR": "A car carries people on roads. Its trunk holds luggage, while the passenger compartment holds the seats.",
+      "STREET": "A street is a road through a built-up area. Its name and building numbers form part of a postal address.",
+      "SIGN": "Sign can be a public notice or the action of writing a name. Check whether the clue describes an object or asks for a verb.",
+      "HOUR": "An hour contains sixty minutes. A minute contains sixty seconds; these two relationships are easy to mix up.",
+      "WHEEL": "A wheel rotates around an axle. Its tire is an outer covering, not another name for the entire wheel.",
+      "STOP": "Stop asks for movement to end. At a crossing, it concerns waiting for the appropriate signal rather than a kind of destination.",
+      "TICKET": "A ticket can give admission or identify an item left for a service. A theater ticket and a dry-cleaning claim ticket serve different uses."
+    }
+  },
+  {
+    "id": "on-the-local-road-3",
+    "title": "Filling the Car at the Gas Pump",
+    "subtheme": "Filling the Car at the Gas Pump",
+    "description": "Connect the nozzle to the tank opening and fill the car.",
+    "cardDescription": "Connect the nozzle to the tank opening and fill the car.",
+    "focus": "The setting is filling the Car at the Gas Pump. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "GAS",
+        "Fuel for many cars, in everyday American speech"
+      ],
+      [
+        "PUMP",
+        "Device that moves water or fuel"
+      ],
+      [
+        "HOSE",
+        "Flexible tube carrying water"
+      ],
+      [
+        "NOZZLE",
+        "End fitting that controls a hose's spray"
+      ],
+      [
+        "TANK",
+        "Container that holds a car's fuel"
+      ],
+      [
+        "CAP",
+        "Cover over a car's fuel-tank opening"
+      ],
+      [
+        "CAR",
+        "Family vehicle with seats and a trunk"
+      ],
+      [
+        "FUEL",
+        "Material supplying power to an engine"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "GALLON",
+        "United States liquid unit used in gasoline sales"
+      ],
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "STATION",
+        "Place where trains stop for passengers"
+      ],
+      [
+        "FULL",
+        "Filled to capacity"
+      ]
+    ],
+    "requiredAnswers": [
+      "GAS",
+      "PUMP"
+    ],
+    "answerNotes": {
+      "GAS": "Gas is the usual American short name for gasoline. The pump sells a liquid fuel despite the short word's other meaning.",
+      "PUMP": "A pump moves liquid. A faucet or tap controls the opening through which the liquid comes out.",
+      "HOSE": "A hose is a flexible tube. A nozzle shapes the flow at one end, while a tap controls its supply at the other.",
+      "CAR": "A car carries people on roads. Its trunk holds luggage, while the passenger compartment holds the seats.",
+      "FUEL": "Fuel provides energy when an engine or heater uses it. Gasoline is one fuel; the general word does not mean gasoline alone.",
+      "PRICE": "Price is the amount asked for an item. Change is money returned after a customer pays more than that amount.",
+      "RECEIPT": "A receipt records a completed payment. A bill asks for payment, so the two papers serve different purposes.",
+      "HANDLE": "A handle is the part made for the hand to grip. Its shape depends on whether the object is carried, pulled, poured, or turned."
+    }
+  },
+  {
+    "id": "on-the-local-road-4",
+    "title": "A Car Key and the Dashboard",
+    "subtheme": "A Car Key and the Dashboard",
+    "description": "The driver's familiar controls sit behind the steering wheel.",
+    "cardDescription": "The driver's familiar controls sit behind the steering wheel.",
+    "focus": "The setting is a Car Key and the Dashboard. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "DASHBOARD",
+        "Panel of controls in front of a car driver"
+      ],
+      [
+        "KEY",
+        "Metal piece opening a lock"
+      ],
+      [
+        "WHEEL",
+        "Circular rolling part of a vehicle"
+      ],
+      [
+        "HORN",
+        "Driver-operated device that honks"
+      ],
+      [
+        "MIRROR",
+        "Reflective surface used to form an image"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "BELT",
+        "Band worn around the waist"
+      ],
+      [
+        "GAUGE",
+        "Instrument that displays a measurement"
+      ],
+      [
+        "SPEED",
+        "Rate at which something moves"
+      ],
+      [
+        "FUEL",
+        "Energy source such as gasoline"
+      ],
+      [
+        "LIGHT",
+        "Illumination that lets us see"
+      ],
+      [
+        "SWITCH",
+        "Control that turns an electrical device on or off"
+      ],
+      [
+        "RADIO",
+        "Device for listening to broadcast programs"
+      ],
+      [
+        "CLOCK",
+        "Device showing the time"
+      ]
+    ],
+    "requiredAnswers": [
+      "DASHBOARD",
+      "KEY"
+    ],
+    "answerNotes": {
+      "DASHBOARD": "A dashboard places instruments and controls in front of the driver. Gauges display information rather than doing the steering.",
+      "KEY": "A door key is shaped to match a particular lock. A spare is another key kept for use if the main one is unavailable.",
+      "WHEEL": "A wheel rotates around an axle. Its tire is an outer covering, not another name for the entire wheel.",
+      "MIRROR": "A mirror reflects light to form an image. Cleaning the surface removes marks; it does not change the reflected object.",
+      "FUEL": "Fuel provides energy when an engine or heater uses it. Gasoline is one fuel; the general word does not mean gasoline alone.",
+      "LIGHT": "Light makes things visible. A lamp produces light, while a mirror mainly reflects light arriving from elsewhere.",
+      "RADIO": "A radio receives broadcasts. Choosing a station selects a particular transmission rather than changing the recorded song itself.",
+      "CLOCK": "A clock shows time. The hour hand moves more slowly than the minute hand on a traditional clock face."
+    }
+  },
+  {
+    "id": "on-the-local-road-5",
+    "title": "A School Crossing on Main Street",
+    "subtheme": "A School Crossing on Main Street",
+    "description": "A crossing guard helps children pass a busy corner.",
+    "cardDescription": "A crossing guard helps children pass a busy corner.",
+    "focus": "The setting is a School Crossing on Main Street. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CROSSING",
+        "Place where people pass from one side to another"
+      ],
+      [
+        "GUARD",
+        "Person who protects or directs people"
+      ],
+      [
+        "SCHOOL",
+        "Place where children learn"
+      ],
+      [
+        "CHILD",
+        "Young son or daughter"
+      ],
+      [
+        "SIGN",
+        "Notice displayed for people to read"
+      ],
+      [
+        "STOP",
+        "End movement"
+      ],
+      [
+        "STREET",
+        "City roadway with sidewalks"
+      ],
+      [
+        "VEST",
+        "Sleeveless garment worn over a shirt"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "CORNER",
+        "Point where two sides join"
+      ],
+      [
+        "WALK",
+        "Travel by taking ordinary steps"
+      ],
+      [
+        "CURB",
+        "Stone or concrete edge of a roadway"
+      ],
+      [
+        "TRAFFIC",
+        "Cars and trucks using a street"
+      ],
+      [
+        "FLAG",
+        "Cloth symbol of a nation"
+      ]
+    ],
+    "requiredAnswers": [
+      "CROSSING",
+      "GUARD"
+    ],
+    "answerNotes": {
+      "SCHOOL": "School memories vary between generations. These scenes select familiar older objects without assuming every reader used the same equipment.",
+      "SIGN": "Sign can be a public notice or the action of writing a name. Check whether the clue describes an object or asks for a verb.",
+      "STOP": "Stop asks for movement to end. At a crossing, it concerns waiting for the appropriate signal rather than a kind of destination.",
+      "STREET": "A street is a road through a built-up area. Its name and building numbers form part of a postal address.",
+      "HAND": "Hand can name a body part or a clock pointer. A clock's minute hand makes a full turn each hour.",
+      "CORNER": "A corner is where two edges meet. In a jigsaw, a corner piece normally has two outer edges.",
+      "CURB": "A curb is the raised edge between roadway and sidewalk. The corner is where streets meet, not another name for that raised edge.",
+      "FLAG": "A flag can be a cloth symbol or a small signaling marker. A mailbox flag shows a postal signal rather than identifying a country."
+    }
+  }
+]

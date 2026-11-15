@@ -1,0 +1,3031 @@
+{
+  "originalObjectsPreserved": 500,
+  "originalSeriesPreserved": 100,
+  "retainedFileHashesChecked": 121,
+  "newFirstEditions": 500,
+  "allocation": {
+    "Gardening": 35,
+    "Flowers": 15,
+    "Nature": 40,
+    "Food": 65,
+    "Baking": 15,
+    "Everyday Life": 100,
+    "Crafts": 35,
+    "Hobbies": 15,
+    "Nostalgia": 20,
+    "Music": 5,
+    "Movies": 5,
+    "Bible": 50,
+    "Spring": 20,
+    "Summer": 15,
+    "Autumn": 15,
+    "Winter": 15,
+    "Christmas": 15,
+    "Easter": 10,
+    "Thanksgiving": 5,
+    "Halloween": 5
+  },
+  "nearestAnswerSets": [
+    {
+      "puzzle": "garden-harvest-baskets",
+      "nearest": "garden-styles",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-harvest-baskets-2",
+      "nearest": "garden-details-2",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-harvest-baskets-3",
+      "nearest": "flowers-through-the-year-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "garden-harvest-baskets-4",
+      "nearest": "thanksgiving-sides-2",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-harvest-baskets-5",
+      "nearest": "flowers-through-the-year-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-small-spaces",
+      "nearest": "fruit-and-flavor-4",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-small-spaces-2",
+      "nearest": "fruit-and-flavor-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-small-spaces-3",
+      "nearest": "flowers-through-the-year-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-small-spaces-4",
+      "nearest": "collections-and-keepsakes-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-small-spaces-5",
+      "nearest": "flowers-through-the-year-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-evening-chores",
+      "nearest": "craft-room-techniques",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-evening-chores-2",
+      "nearest": "home-details-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-evening-chores-3",
+      "nearest": "autumn-walk-2",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "garden-evening-chores-4",
+      "nearest": "paper-and-lettering-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-evening-chores-5",
+      "nearest": "garden-days",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-friendly-flowers",
+      "nearest": "flowers-through-the-year",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-friendly-flowers-2",
+      "nearest": "garden-small-spaces-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-friendly-flowers-3",
+      "nearest": "spring-at-home-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-friendly-flowers-4",
+      "nearest": "flowers-through-the-year-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-friendly-flowers-5",
+      "nearest": "forest-observations-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-cutting-table",
+      "nearest": "garden-friendly-flowers-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "garden-cutting-table-2",
+      "nearest": "garden-styles-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-cutting-table-3",
+      "nearest": "flowers-through-the-year-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-cutting-table-4",
+      "nearest": "garden-friendly-flowers-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-cutting-table-5",
+      "nearest": "flowers-through-the-year-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-from-the-beginning",
+      "nearest": "garden-harvest-baskets",
+      "answerJaccard": 0.1429,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-from-the-beginning-2",
+      "nearest": "forest-observations-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-from-the-beginning-3",
+      "nearest": "garden-days-5",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-from-the-beginning-4",
+      "nearest": "flowers-through-the-year",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-from-the-beginning-5",
+      "nearest": "fruit-and-flavor-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-welcoming-corners",
+      "nearest": "winter-backyard-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-welcoming-corners-2",
+      "nearest": "garden-cutting-table-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-welcoming-corners-3",
+      "nearest": "winter-weather-scenes-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-welcoming-corners-4",
+      "nearest": "halloween-evening-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-welcoming-corners-5",
+      "nearest": "halloween-evening-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-keeping-tools",
+      "nearest": "in-the-workshop-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-keeping-tools-2",
+      "nearest": "spring-at-home-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "garden-keeping-tools-3",
+      "nearest": "weather-and-light-tools-3",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-keeping-tools-4",
+      "nearest": "clothes-and-fabrics-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-keeping-tools-5",
+      "nearest": "garden-welcoming-corners-2",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "garden-fruit-trees",
+      "nearest": "garden-from-the-beginning-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-fruit-trees-2",
+      "nearest": "garden-evening-chores-3",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-fruit-trees-3",
+      "nearest": "garden-fruit-trees-2",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "garden-fruit-trees-4",
+      "nearest": "garden-fruit-trees",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-fruit-trees-5",
+      "nearest": "garden-small-spaces-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-flower-seasons",
+      "nearest": "garden-cutting-table-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-flower-seasons-2",
+      "nearest": "garden-friendly-flowers-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-flower-seasons-3",
+      "nearest": "garden-flower-seasons-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "garden-flower-seasons-4",
+      "nearest": "garden-styles",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "garden-flower-seasons-5",
+      "nearest": "garden-flower-seasons",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "animals-on-the-farm",
+      "nearest": "spring-at-home-4",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "animals-on-the-farm-2",
+      "nearest": "a-day-at-the-farm",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "animals-on-the-farm-3",
+      "nearest": "water-and-wildlife-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "animals-on-the-farm-4",
+      "nearest": "animals-on-the-farm-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "animals-on-the-farm-5",
+      "nearest": "winter-backyard",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "small-wild-visitors",
+      "nearest": "our-furry-friends-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "small-wild-visitors-2",
+      "nearest": "forest-observations-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "small-wild-visitors-3",
+      "nearest": "small-wild-visitors-2",
+      "answerJaccard": 0.1111,
+      "shared": 2
+    },
+    {
+      "puzzle": "small-wild-visitors-4",
+      "nearest": "small-wild-visitors-3",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "small-wild-visitors-5",
+      "nearest": "small-wild-visitors-3",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "birds-to-recognize",
+      "nearest": "spring-at-home-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "birds-to-recognize-2",
+      "nearest": "winter-backyard-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "birds-to-recognize-3",
+      "nearest": "winter-backyard-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "birds-to-recognize-4",
+      "nearest": "garden-small-spaces-4",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "birds-to-recognize-5",
+      "nearest": "birds-to-recognize-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "beside-the-water",
+      "nearest": "water-and-wildlife-2",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "beside-the-water-2",
+      "nearest": "water-and-wildlife-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "beside-the-water-3",
+      "nearest": "winter-backyard-2",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "beside-the-water-4",
+      "nearest": "open-country-wildlife-3",
+      "answerJaccard": 0.4,
+      "shared": 6
+    },
+    {
+      "puzzle": "beside-the-water-5",
+      "nearest": "beside-the-water-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "looking-at-the-shore",
+      "nearest": "working-waterfront-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "looking-at-the-shore-2",
+      "nearest": "looking-at-the-shore",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "looking-at-the-shore-3",
+      "nearest": "beside-the-water-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "looking-at-the-shore-4",
+      "nearest": "beside-the-water-3",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "looking-at-the-shore-5",
+      "nearest": "geography-journeys-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "trees-and-their-fruit",
+      "nearest": "forest-observations-2",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "trees-and-their-fruit-2",
+      "nearest": "trees-and-their-fruit",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "trees-and-their-fruit-3",
+      "nearest": "weather-watching-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "trees-and-their-fruit-4",
+      "nearest": "trees-and-their-fruit",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "trees-and-their-fruit-5",
+      "nearest": "trees-and-their-fruit",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "quiet-outdoor-moments",
+      "nearest": "painting-and-color-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "quiet-outdoor-moments-2",
+      "nearest": "weather-watching",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "quiet-outdoor-moments-3",
+      "nearest": "forest-observations",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "quiet-outdoor-moments-4",
+      "nearest": "everyday-materials",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "quiet-outdoor-moments-5",
+      "nearest": "weather-watching-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "night-outdoors",
+      "nearest": "beside-the-water-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "night-outdoors-2",
+      "nearest": "birds-to-recognize",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "night-outdoors-3",
+      "nearest": "night-outdoors",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "night-outdoors-4",
+      "nearest": "open-country-wildlife-2",
+      "answerJaccard": 0.1765,
+      "shared": 3
+    },
+    {
+      "puzzle": "night-outdoors-5",
+      "nearest": "night-outdoors",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "breakfast-from-the-stove",
+      "nearest": "bakers-specialties-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "breakfast-from-the-stove-2",
+      "nearest": "bakers-specialties-3",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "breakfast-from-the-stove-3",
+      "nearest": "everyday-meals",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "breakfast-from-the-stove-4",
+      "nearest": "breakfast-from-the-stove-2",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "breakfast-from-the-stove-5",
+      "nearest": "american-regional-tables",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bowls-of-soup",
+      "nearest": "winter-comforts-5",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "bowls-of-soup-2",
+      "nearest": "bowls-of-soup",
+      "answerJaccard": 0.3333,
+      "shared": 6
+    },
+    {
+      "puzzle": "bowls-of-soup-3",
+      "nearest": "winter-comforts-5",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "bowls-of-soup-4",
+      "nearest": "winter-comforts-5",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "bowls-of-soup-5",
+      "nearest": "bowls-of-soup",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "sandwich-counter",
+      "nearest": "christmas-kitchen",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "sandwich-counter-2",
+      "nearest": "everyday-meals-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "sandwich-counter-3",
+      "nearest": "everyday-meals-2",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "sandwich-counter-4",
+      "nearest": "everyday-meals-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "sandwich-counter-5",
+      "nearest": "bowls-of-soup-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "supper-in-the-oven",
+      "nearest": "sandwich-counter-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "supper-in-the-oven-2",
+      "nearest": "thanksgiving-sides-5",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "supper-in-the-oven-3",
+      "nearest": "supper-in-the-oven",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "supper-in-the-oven-4",
+      "nearest": "supper-in-the-oven-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "supper-in-the-oven-5",
+      "nearest": "supper-in-the-oven-3",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "supper-on-the-stove",
+      "nearest": "everyday-meals-3",
+      "answerJaccard": 0.4375,
+      "shared": 7
+    },
+    {
+      "puzzle": "supper-on-the-stove-2",
+      "nearest": "everyday-meals-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "supper-on-the-stove-3",
+      "nearest": "bowls-of-soup-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "supper-on-the-stove-4",
+      "nearest": "breakfast-from-the-stove-5",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "supper-on-the-stove-5",
+      "nearest": "supper-in-the-oven-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "salads-to-share",
+      "nearest": "sandwich-counter-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "salads-to-share-2",
+      "nearest": "salads-to-share",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "salads-to-share-3",
+      "nearest": "breakfast-from-the-stove",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "salads-to-share-4",
+      "nearest": "salads-to-share",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "salads-to-share-5",
+      "nearest": "market-morning",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "vegetable-side-dishes",
+      "nearest": "garden-harvest-baskets",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "vegetable-side-dishes-2",
+      "nearest": "salads-to-share-4",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "vegetable-side-dishes-3",
+      "nearest": "thanksgiving-sides-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "vegetable-side-dishes-4",
+      "nearest": "supper-in-the-oven-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "vegetable-side-dishes-5",
+      "nearest": "vegetable-side-dishes-3",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "dessert-bowls",
+      "nearest": "breakfast-from-the-stove-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "dessert-bowls-2",
+      "nearest": "breakfast-from-the-stove-3",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "dessert-bowls-3",
+      "nearest": "dessert-bowls-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "dessert-bowls-4",
+      "nearest": "dessert-bowls",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "dessert-bowls-5",
+      "nearest": "christmas-kitchen",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "cookie-tins",
+      "nearest": "texas-scenes-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "cookie-tins-2",
+      "nearest": "dessert-bowls-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "cookie-tins-3",
+      "nearest": "cookie-tins",
+      "answerJaccard": 0.4667,
+      "shared": 7
+    },
+    {
+      "puzzle": "cookie-tins-4",
+      "nearest": "sunday-baking-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "cookie-tins-5",
+      "nearest": "cookie-tins-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "pies-and-tarts",
+      "nearest": "dessert-bowls-5",
+      "answerJaccard": 0.4667,
+      "shared": 7
+    },
+    {
+      "puzzle": "pies-and-tarts-2",
+      "nearest": "pies-and-tarts",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "pies-and-tarts-3",
+      "nearest": "pies-and-tarts",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "pies-and-tarts-4",
+      "nearest": "christmas-kitchen",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "pies-and-tarts-5",
+      "nearest": "thanksgiving-together-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "baking-small-batches",
+      "nearest": "cookie-tins-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "baking-small-batches-2",
+      "nearest": "cookie-tins-3",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "baking-small-batches-3",
+      "nearest": "supper-in-the-oven",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "baking-small-batches-4",
+      "nearest": "supper-in-the-oven-4",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "baking-small-batches-5",
+      "nearest": "pies-and-tarts",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "kitchen-preparation",
+      "nearest": "garden-from-the-beginning-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "kitchen-preparation-2",
+      "nearest": "cookie-tins-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "kitchen-preparation-3",
+      "nearest": "salads-to-share-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "kitchen-preparation-4",
+      "nearest": "garden-from-the-beginning-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "kitchen-preparation-5",
+      "nearest": "baking-small-batches-4",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "drinks-to-serve",
+      "nearest": "dessert-bowls",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "drinks-to-serve-2",
+      "nearest": "dessert-bowls",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "drinks-to-serve-3",
+      "nearest": "dessert-bowls-4",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "drinks-to-serve-4",
+      "nearest": "halloween-evening",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "drinks-to-serve-5",
+      "nearest": "a-cup-of-comfort-3",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "food-shops",
+      "nearest": "market-morning-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "food-shops-2",
+      "nearest": "baking-small-batches-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "food-shops-3",
+      "nearest": "supper-on-the-stove-5",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "food-shops-4",
+      "nearest": "garden-fruit-trees-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "food-shops-5",
+      "nearest": "everyday-meals-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "snacks-for-a-table",
+      "nearest": "vegetable-side-dishes-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "snacks-for-a-table-2",
+      "nearest": "sandwich-counter",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "snacks-for-a-table-3",
+      "nearest": "everyday-meals-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "snacks-for-a-table-4",
+      "nearest": "christmas-comforts-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "snacks-for-a-table-5",
+      "nearest": "snacks-for-a-table-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "keeping-food-fresh",
+      "nearest": "summer-afternoons",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "keeping-food-fresh-2",
+      "nearest": "fruit-and-flavor-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "keeping-food-fresh-3",
+      "nearest": "keeping-food-fresh-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "keeping-food-fresh-4",
+      "nearest": "christmas-kitchen-5",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "keeping-food-fresh-5",
+      "nearest": "keeping-food-fresh-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "errands-on-main-street",
+      "nearest": "keeping-food-fresh-5",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "errands-on-main-street-2",
+      "nearest": "holiday-table-5",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "errands-on-main-street-3",
+      "nearest": "a-good-book",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "errands-on-main-street-4",
+      "nearest": "errands-on-main-street",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "errands-on-main-street-5",
+      "nearest": "errands-on-main-street",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "neighborhood-businesses",
+      "nearest": "home-details-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "neighborhood-businesses-2",
+      "nearest": "christmas-post-and-paper-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "neighborhood-businesses-3",
+      "nearest": "christmas-post-and-paper-4",
+      "answerJaccard": 0.4,
+      "shared": 6
+    },
+    {
+      "puzzle": "neighborhood-businesses-4",
+      "nearest": "home-inventions-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "neighborhood-businesses-5",
+      "nearest": "easter-gathering-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "around-the-town-square",
+      "nearest": "keeping-food-fresh",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "around-the-town-square-2",
+      "nearest": "trees-and-their-fruit-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "around-the-town-square-3",
+      "nearest": "roadside-americana-2",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "around-the-town-square-4",
+      "nearest": "garden-evening-chores-4",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "around-the-town-square-5",
+      "nearest": "quiet-outdoor-moments-4",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "visits-and-gatherings",
+      "nearest": "weather-and-light-tools-3",
+      "answerJaccard": 0.1111,
+      "shared": 2
+    },
+    {
+      "puzzle": "visits-and-gatherings-2",
+      "nearest": "thanksgiving-together-2",
+      "answerJaccard": 0.1111,
+      "shared": 2
+    },
+    {
+      "puzzle": "visits-and-gatherings-3",
+      "nearest": "visits-and-gatherings",
+      "answerJaccard": 0.1111,
+      "shared": 2
+    },
+    {
+      "puzzle": "visits-and-gatherings-4",
+      "nearest": "market-morning-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "visits-and-gatherings-5",
+      "nearest": "neighborhood-businesses-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "household-paperwork",
+      "nearest": "everyday-materials-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "household-paperwork-2",
+      "nearest": "errands-on-main-street-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "household-paperwork-3",
+      "nearest": "garden-welcoming-corners-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "household-paperwork-4",
+      "nearest": "neighborhood-businesses-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "household-paperwork-5",
+      "nearest": "household-paperwork-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "fresh-laundry",
+      "nearest": "cozy-at-home-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "fresh-laundry-2",
+      "nearest": "home-details-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "fresh-laundry-3",
+      "nearest": "garden-keeping-tools-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "fresh-laundry-4",
+      "nearest": "paper-and-lettering-2",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "fresh-laundry-5",
+      "nearest": "spring-at-home",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "home-cleaning-corners",
+      "nearest": "spring-at-home",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "home-cleaning-corners-2",
+      "nearest": "hands-on-hobbies-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "home-cleaning-corners-3",
+      "nearest": "garden-evening-chores-2",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "home-cleaning-corners-4",
+      "nearest": "neighborhood-businesses-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "home-cleaning-corners-5",
+      "nearest": "rail-and-water-travel",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "useful-home-repairs",
+      "nearest": "garden-keeping-tools-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "useful-home-repairs-2",
+      "nearest": "in-the-workshop",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "useful-home-repairs-3",
+      "nearest": "night-outdoors-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "useful-home-repairs-4",
+      "nearest": "useful-home-repairs",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "useful-home-repairs-5",
+      "nearest": "trees-and-their-fruit-2",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "at-the-writing-desk",
+      "nearest": "everyday-materials-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "at-the-writing-desk-2",
+      "nearest": "at-the-writing-desk",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "at-the-writing-desk-3",
+      "nearest": "everyday-materials-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "at-the-writing-desk-4",
+      "nearest": "at-the-writing-desk-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "at-the-writing-desk-5",
+      "nearest": "at-the-writing-desk",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "through-the-front-door",
+      "nearest": "garden-welcoming-corners-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "through-the-front-door-2",
+      "nearest": "spring-at-home-3",
+      "answerJaccard": 0.4667,
+      "shared": 7
+    },
+    {
+      "puzzle": "through-the-front-door-3",
+      "nearest": "easter-gathering-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "through-the-front-door-4",
+      "nearest": "neighborhood-businesses",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "through-the-front-door-5",
+      "nearest": "painting-and-color-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "restful-household-routines",
+      "nearest": "home-cleaning-corners",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "restful-household-routines-2",
+      "nearest": "home-cleaning-corners-5",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "restful-household-routines-3",
+      "nearest": "around-the-town-square-5",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "restful-household-routines-4",
+      "nearest": "winter-pastimes-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "restful-household-routines-5",
+      "nearest": "through-the-front-door-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "on-the-local-road",
+      "nearest": "neighborhood-stops-4",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "on-the-local-road-2",
+      "nearest": "on-the-local-road",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "on-the-local-road-3",
+      "nearest": "home-inventions-5",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "on-the-local-road-4",
+      "nearest": "on-the-road",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "on-the-local-road-5",
+      "nearest": "on-the-local-road-2",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "community-volunteers",
+      "nearest": "keeping-food-fresh-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "community-volunteers-2",
+      "nearest": "records-and-listening-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "community-volunteers-3",
+      "nearest": "through-the-front-door-5",
+      "answerJaccard": 0.1429,
+      "shared": 3
+    },
+    {
+      "puzzle": "community-volunteers-4",
+      "nearest": "visits-and-gatherings-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "community-volunteers-5",
+      "nearest": "visits-and-gatherings",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "keeping-in-touch",
+      "nearest": "home-inventions",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "keeping-in-touch-2",
+      "nearest": "holiday-table-5",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "keeping-in-touch-3",
+      "nearest": "keeping-in-touch",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "keeping-in-touch-4",
+      "nearest": "calendar-celebrations-5",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "keeping-in-touch-5",
+      "nearest": "everyday-materials-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "shopping-basket",
+      "nearest": "market-morning-5",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "shopping-basket-2",
+      "nearest": "community-volunteers-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "shopping-basket-3",
+      "nearest": "christmas-post-and-paper-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "shopping-basket-4",
+      "nearest": "errands-on-main-street-4",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "shopping-basket-5",
+      "nearest": "keeping-food-fresh-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "small-town-outings",
+      "nearest": "movie-night",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "small-town-outings-2",
+      "nearest": "active-pastimes",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "small-town-outings-3",
+      "nearest": "sandwich-counter-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "small-town-outings-4",
+      "nearest": "garden-days-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "small-town-outings-5",
+      "nearest": "familiar-vehicles-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "home-storage-spaces",
+      "nearest": "fresh-laundry-2",
+      "answerJaccard": 0.4667,
+      "shared": 7
+    },
+    {
+      "puzzle": "home-storage-spaces-2",
+      "nearest": "cozy-at-home-2",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "home-storage-spaces-3",
+      "nearest": "keeping-food-fresh-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "home-storage-spaces-4",
+      "nearest": "restful-household-routines-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "home-storage-spaces-5",
+      "nearest": "home-storage-spaces",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "the-family-car",
+      "nearest": "home-cleaning-corners",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "the-family-car-2",
+      "nearest": "geography-journeys",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "the-family-car-3",
+      "nearest": "restful-household-routines-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "the-family-car-4",
+      "nearest": "weather-and-light-tools-3",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "the-family-car-5",
+      "nearest": "around-the-town-square-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "everyday-timekeepers",
+      "nearest": "home-inventions-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "everyday-timekeepers-2",
+      "nearest": "everyday-timekeepers",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "everyday-timekeepers-3",
+      "nearest": "everyday-timekeepers-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "everyday-timekeepers-4",
+      "nearest": "home-inventions-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "everyday-timekeepers-5",
+      "nearest": "household-paperwork-3",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "porch-and-patio",
+      "nearest": "garden-welcoming-corners-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "porch-and-patio-2",
+      "nearest": "forest-observations",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "porch-and-patio-3",
+      "nearest": "garden-keeping-tools-2",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "porch-and-patio-4",
+      "nearest": "drinks-to-serve",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "porch-and-patio-5",
+      "nearest": "through-the-front-door-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "needle-and-thread-projects",
+      "nearest": "clothes-and-fabrics-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "needle-and-thread-projects-2",
+      "nearest": "paper-and-lettering-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "needle-and-thread-projects-3",
+      "nearest": "a-stitch-in-time",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "needle-and-thread-projects-4",
+      "nearest": "needle-and-thread-projects-3",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "needle-and-thread-projects-5",
+      "nearest": "hands-on-hobbies-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "yarn-for-useful-things",
+      "nearest": "a-stitch-in-time-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "yarn-for-useful-things-2",
+      "nearest": "a-stitch-in-time-3",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "yarn-for-useful-things-3",
+      "nearest": "needle-and-thread-projects-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "yarn-for-useful-things-4",
+      "nearest": "needle-and-thread-projects-3",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "yarn-for-useful-things-5",
+      "nearest": "craft-room-techniques-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "paper-for-keepsakes",
+      "nearest": "handmade-arts-2",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "paper-for-keepsakes-2",
+      "nearest": "treasured-collections-3",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "paper-for-keepsakes-3",
+      "nearest": "holiday-table-4",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "paper-for-keepsakes-4",
+      "nearest": "handmade-arts-2",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "paper-for-keepsakes-5",
+      "nearest": "paper-for-keepsakes-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "painting-home-projects",
+      "nearest": "neighborhood-businesses-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "painting-home-projects-2",
+      "nearest": "painting-home-projects",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "painting-home-projects-3",
+      "nearest": "painting-home-projects-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "painting-home-projects-4",
+      "nearest": "painting-home-projects",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "painting-home-projects-5",
+      "nearest": "painting-and-color-3",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "beads-and-ribbons",
+      "nearest": "hands-on-hobbies-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "beads-and-ribbons-2",
+      "nearest": "paper-for-keepsakes-3",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "beads-and-ribbons-3",
+      "nearest": "beads-and-ribbons",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "beads-and-ribbons-4",
+      "nearest": "beads-and-ribbons-3",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "beads-and-ribbons-5",
+      "nearest": "shopping-basket-3",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "easy-woodwork-projects",
+      "nearest": "home-cleaning-corners-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "easy-woodwork-projects-2",
+      "nearest": "useful-home-repairs-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "easy-woodwork-projects-3",
+      "nearest": "easy-woodwork-projects",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "easy-woodwork-projects-4",
+      "nearest": "winter-holiday-crafts-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "easy-woodwork-projects-5",
+      "nearest": "useful-home-repairs-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "quiet-table-hobbies",
+      "nearest": "hands-on-hobbies",
+      "answerJaccard": 0.4286,
+      "shared": 6
+    },
+    {
+      "puzzle": "quiet-table-hobbies-2",
+      "nearest": "on-the-road-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "quiet-table-hobbies-3",
+      "nearest": "household-paperwork",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "quiet-table-hobbies-4",
+      "nearest": "game-night-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "quiet-table-hobbies-5",
+      "nearest": "game-night-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "outdoor-hobby-bags",
+      "nearest": "around-the-town-square-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "outdoor-hobby-bags-2",
+      "nearest": "looking-at-the-shore-4",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "outdoor-hobby-bags-3",
+      "nearest": "birds-to-recognize-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "outdoor-hobby-bags-4",
+      "nearest": "home-inventions-2",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "outdoor-hobby-bags-5",
+      "nearest": "night-outdoors-4",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "collecting-family-stories",
+      "nearest": "visits-and-gatherings-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "collecting-family-stories-2",
+      "nearest": "thanksgiving-sharing-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "collecting-family-stories-3",
+      "nearest": "collecting-family-stories",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "collecting-family-stories-4",
+      "nearest": "visits-and-gatherings-2",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "collecting-family-stories-5",
+      "nearest": "paper-for-keepsakes-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "flower-and-fabric-crafts",
+      "nearest": "garden-cutting-table-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "flower-and-fabric-crafts-2",
+      "nearest": "handmade-arts-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "flower-and-fabric-crafts-3",
+      "nearest": "beads-and-ribbons-2",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "flower-and-fabric-crafts-4",
+      "nearest": "needle-and-thread-projects-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "flower-and-fabric-crafts-5",
+      "nearest": "garden-cutting-table",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "memories-of-schooldays",
+      "nearest": "keeping-food-fresh",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "memories-of-schooldays-2",
+      "nearest": "at-the-writing-desk-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "memories-of-schooldays-3",
+      "nearest": "at-the-writing-desk-3",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "memories-of-schooldays-4",
+      "nearest": "visits-and-gatherings-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "memories-of-schooldays-5",
+      "nearest": "errands-on-main-street",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "memories-of-main-street",
+      "nearest": "old-time-entertainment-2",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "memories-of-main-street-2",
+      "nearest": "halloween-evening-3",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "memories-of-main-street-3",
+      "nearest": "treasured-collections-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "memories-of-main-street-4",
+      "nearest": "christmas-post-and-paper-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "memories-of-main-street-5",
+      "nearest": "neighborhood-stops",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "songs-with-everyday-words",
+      "nearest": "quiet-outdoor-moments",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "songs-with-everyday-words-2",
+      "nearest": "songs-with-everyday-words",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "songs-with-everyday-words-3",
+      "nearest": "songs-with-everyday-words",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "songs-with-everyday-words-4",
+      "nearest": "active-pastimes-3",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "songs-with-everyday-words-5",
+      "nearest": "songs-with-everyday-words-3",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "classic-movie-settings",
+      "nearest": "cookie-tins-3",
+      "answerJaccard": 0.05,
+      "shared": 1
+    },
+    {
+      "puzzle": "classic-movie-settings-2",
+      "nearest": "through-the-front-door-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "classic-movie-settings-3",
+      "nearest": "american-music-cities",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "classic-movie-settings-4",
+      "nearest": "outdoor-hobby-bags-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "classic-movie-settings-5",
+      "nearest": "easy-woodwork-projects-5",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "memories-of-home-entertainment",
+      "nearest": "keeping-in-touch-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "memories-of-home-entertainment-2",
+      "nearest": "music-memories",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "memories-of-home-entertainment-3",
+      "nearest": "outdoor-hobby-bags-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "memories-of-home-entertainment-4",
+      "nearest": "old-time-entertainment",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "memories-of-home-entertainment-5",
+      "nearest": "memories-of-main-street",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "remembering-simple-play",
+      "nearest": "kitchen-preparation-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "remembering-simple-play-2",
+      "nearest": "memories-of-schooldays-2",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "remembering-simple-play-3",
+      "nearest": "remembering-simple-play-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "remembering-simple-play-4",
+      "nearest": "outdoor-hobby-bags-5",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "remembering-simple-play-5",
+      "nearest": "small-town-outings-3",
+      "answerJaccard": 0.1429,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-beginnings",
+      "nearest": "songs-with-everyday-words-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "bible-beginnings-2",
+      "nearest": "trees-and-their-fruit",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-beginnings-3",
+      "nearest": "through-the-front-door-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-beginnings-4",
+      "nearest": "painting-home-projects-3",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-beginnings-5",
+      "nearest": "bible-beginnings-4",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-family-journeys",
+      "nearest": "the-family-car-5",
+      "answerJaccard": 0.2,
+      "shared": 4
+    },
+    {
+      "puzzle": "bible-family-journeys-2",
+      "nearest": "small-wild-visitors-3",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-family-journeys-3",
+      "nearest": "bible-beginnings-4",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-family-journeys-4",
+      "nearest": "christmas-around-the-room-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-family-journeys-5",
+      "nearest": "bible-family-journeys-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-moses-and-the-journey",
+      "nearest": "beside-the-water-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-moses-and-the-journey-2",
+      "nearest": "collecting-family-stories-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-moses-and-the-journey-3",
+      "nearest": "looking-at-the-shore-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-moses-and-the-journey-4",
+      "nearest": "animals-on-the-farm-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-moses-and-the-journey-5",
+      "nearest": "bible-moses-and-the-journey-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-familiar-people",
+      "nearest": "bible-moses-and-the-journey-4",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-familiar-people-2",
+      "nearest": "collecting-family-stories-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-familiar-people-3",
+      "nearest": "bible-family-journeys-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-familiar-people-4",
+      "nearest": "bible-familiar-people-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-familiar-people-5",
+      "nearest": "bible-moses-and-the-journey-5",
+      "answerJaccard": 0.0476,
+      "shared": 1
+    },
+    {
+      "puzzle": "bible-courage-and-care",
+      "nearest": "bible-family-journeys-5",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-courage-and-care-2",
+      "nearest": "bible-family-journeys-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-courage-and-care-3",
+      "nearest": "bible-moses-and-the-journey-3",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "bible-courage-and-care-4",
+      "nearest": "bible-family-journeys-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-courage-and-care-5",
+      "nearest": "bible-familiar-people-5",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-christmas-and-childhood",
+      "nearest": "christmas-around-the-room-2",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-christmas-and-childhood-2",
+      "nearest": "christmas-around-the-room-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-christmas-and-childhood-3",
+      "nearest": "bible-familiar-people-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-christmas-and-childhood-4",
+      "nearest": "bible-christmas-and-childhood",
+      "answerJaccard": 0.0909,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-christmas-and-childhood-5",
+      "nearest": "christmas-around-the-room-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-by-the-lake",
+      "nearest": "classic-voice-memories-3",
+      "answerJaccard": 0.05,
+      "shared": 1
+    },
+    {
+      "puzzle": "bible-by-the-lake-2",
+      "nearest": "open-country-wildlife-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-by-the-lake-3",
+      "nearest": "bible-family-journeys-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "bible-by-the-lake-4",
+      "nearest": "visits-and-gatherings-3",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-by-the-lake-5",
+      "nearest": "bible-courage-and-care-3",
+      "answerJaccard": 0.0909,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-seeds-and-finding",
+      "nearest": "flowers-through-the-year-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-seeds-and-finding-2",
+      "nearest": "bible-seeds-and-finding",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "bible-seeds-and-finding-3",
+      "nearest": "bible-christmas-and-childhood-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-seeds-and-finding-4",
+      "nearest": "bible-seeds-and-finding-3",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "bible-seeds-and-finding-5",
+      "nearest": "bible-family-journeys-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-stories-jesus-told",
+      "nearest": "thanksgiving-together-5",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-stories-jesus-told-2",
+      "nearest": "bible-familiar-people-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-stories-jesus-told-3",
+      "nearest": "through-the-front-door-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-stories-jesus-told-4",
+      "nearest": "bible-stories-jesus-told-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-stories-jesus-told-5",
+      "nearest": "everyday-timekeepers-5",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-meals-and-celebration",
+      "nearest": "christmas-kitchen-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "bible-meals-and-celebration-2",
+      "nearest": "bible-seeds-and-finding-4",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-meals-and-celebration-3",
+      "nearest": "bible-christmas-and-childhood-3",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "bible-meals-and-celebration-4",
+      "nearest": "bible-meals-and-celebration",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "bible-meals-and-celebration-5",
+      "nearest": "bible-christmas-and-childhood-3",
+      "answerJaccard": 0.0952,
+      "shared": 2
+    },
+    {
+      "puzzle": "spring-first-outings",
+      "nearest": "outdoor-hobby-bags-5",
+      "answerJaccard": 0.4667,
+      "shared": 7
+    },
+    {
+      "puzzle": "spring-first-outings-2",
+      "nearest": "classic-movie-settings-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "spring-first-outings-3",
+      "nearest": "beside-the-water-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-first-outings-4",
+      "nearest": "the-family-car-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-first-outings-5",
+      "nearest": "ballpark-baseball-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-at-the-market",
+      "nearest": "around-the-town-square",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-at-the-market-2",
+      "nearest": "kitchen-preparation",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-at-the-market-3",
+      "nearest": "garden-flower-seasons-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-at-the-market-4",
+      "nearest": "garden-harvest-baskets",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "spring-at-the-market-5",
+      "nearest": "fruit-and-flavor-2",
+      "answerJaccard": 0.4667,
+      "shared": 7
+    },
+    {
+      "puzzle": "spring-house-and-yard",
+      "nearest": "home-storage-spaces-4",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "spring-house-and-yard-2",
+      "nearest": "neighborhood-businesses-5",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "spring-house-and-yard-3",
+      "nearest": "the-family-car",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "spring-house-and-yard-4",
+      "nearest": "porch-and-patio",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "spring-house-and-yard-5",
+      "nearest": "visits-and-gatherings-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "spring-garden-wildlife",
+      "nearest": "birds-to-recognize-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "spring-garden-wildlife-2",
+      "nearest": "backyard-nature-studies",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "spring-garden-wildlife-3",
+      "nearest": "garden-fruit-trees-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "spring-garden-wildlife-4",
+      "nearest": "flowers-through-the-year-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "spring-garden-wildlife-5",
+      "nearest": "birds-to-recognize-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-neighborhood-days",
+      "nearest": "drinks-to-serve-3",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-neighborhood-days-2",
+      "nearest": "american-music-cities",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "summer-neighborhood-days-3",
+      "nearest": "garden-evening-chores",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "summer-neighborhood-days-4",
+      "nearest": "porch-and-patio-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-neighborhood-days-5",
+      "nearest": "food-shops-4",
+      "answerJaccard": 0.3333,
+      "shared": 6
+    },
+    {
+      "puzzle": "summer-away-from-home",
+      "nearest": "by-the-sea",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "summer-away-from-home-2",
+      "nearest": "porch-and-patio",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-away-from-home-3",
+      "nearest": "home-details-5",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "summer-away-from-home-4",
+      "nearest": "small-town-outings-4",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "summer-away-from-home-5",
+      "nearest": "songs-with-everyday-words-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-tastes-and-traditions",
+      "nearest": "garden-fruit-trees-2",
+      "answerJaccard": 0.3333,
+      "shared": 5
+    },
+    {
+      "puzzle": "summer-tastes-and-traditions-2",
+      "nearest": "drinks-to-serve-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-tastes-and-traditions-3",
+      "nearest": "memories-of-main-street-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "summer-tastes-and-traditions-4",
+      "nearest": "summer-afternoons-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "summer-tastes-and-traditions-5",
+      "nearest": "supper-on-the-stove-4",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "autumn-outings",
+      "nearest": "animals-on-the-farm-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "autumn-outings-2",
+      "nearest": "flowers-through-the-year-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "autumn-outings-3",
+      "nearest": "garden-evening-chores-3",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "autumn-outings-4",
+      "nearest": "a-stitch-in-time-4",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "autumn-outings-5",
+      "nearest": "trees-and-their-fruit",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "autumn-home-projects",
+      "nearest": "trees-and-their-fruit-5",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "autumn-home-projects-2",
+      "nearest": "winter-backyard-5",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "autumn-home-projects-3",
+      "nearest": "yarn-for-useful-things-4",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "autumn-home-projects-4",
+      "nearest": "trees-and-their-fruit-2",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "autumn-home-projects-5",
+      "nearest": "spring-house-and-yard-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "autumn-kitchen-and-pantry",
+      "nearest": "baking-small-batches-3",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "autumn-kitchen-and-pantry-2",
+      "nearest": "pies-and-tarts-4",
+      "answerJaccard": 0.3333,
+      "shared": 6
+    },
+    {
+      "puzzle": "autumn-kitchen-and-pantry-3",
+      "nearest": "vegetable-side-dishes",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "autumn-kitchen-and-pantry-4",
+      "nearest": "autumn-kitchen-and-pantry-2",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "autumn-kitchen-and-pantry-5",
+      "nearest": "breakfast-from-the-stove-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "winter-indoor-afternoons",
+      "nearest": "community-volunteers-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "winter-indoor-afternoons-2",
+      "nearest": "kitchen-preparation-4",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "winter-indoor-afternoons-3",
+      "nearest": "flowers-through-the-year-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "winter-indoor-afternoons-4",
+      "nearest": "quiet-table-hobbies",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "winter-indoor-afternoons-5",
+      "nearest": "clothes-and-fabrics-3",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "winter-in-the-neighborhood",
+      "nearest": "garden-welcoming-corners-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "winter-in-the-neighborhood-2",
+      "nearest": "winter-comforts-2",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "winter-in-the-neighborhood-3",
+      "nearest": "winter-in-the-neighborhood",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "winter-in-the-neighborhood-4",
+      "nearest": "songs-with-everyday-words-5",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "winter-in-the-neighborhood-5",
+      "nearest": "spring-house-and-yard",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "winter-light-and-ice",
+      "nearest": "summer-neighborhood-days",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "winter-light-and-ice-2",
+      "nearest": "weather-watching-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "winter-light-and-ice-3",
+      "nearest": "winter-weather-scenes-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "winter-light-and-ice-4",
+      "nearest": "winter-light-and-ice-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "winter-light-and-ice-5",
+      "nearest": "winter-light-and-ice",
+      "answerJaccard": 0.3333,
+      "shared": 6
+    },
+    {
+      "puzzle": "christmas-sharing-projects",
+      "nearest": "christmas-kitchen-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "christmas-sharing-projects-2",
+      "nearest": "christmas-sharing-projects",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "christmas-sharing-projects-3",
+      "nearest": "holiday-table-5",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "christmas-sharing-projects-4",
+      "nearest": "classic-voice-memories-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "christmas-sharing-projects-5",
+      "nearest": "christmas-sharing-projects-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "christmas-little-traditions",
+      "nearest": "christmas-comforts",
+      "answerJaccard": 0.3125,
+      "shared": 5
+    },
+    {
+      "puzzle": "christmas-little-traditions-2",
+      "nearest": "treasured-collections-5",
+      "answerJaccard": 0.375,
+      "shared": 6
+    },
+    {
+      "puzzle": "christmas-little-traditions-3",
+      "nearest": "christmas-sharing-projects-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "christmas-little-traditions-4",
+      "nearest": "winter-holiday-crafts",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "christmas-little-traditions-5",
+      "nearest": "christmas-around-the-room",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "christmas-preparing-the-room",
+      "nearest": "christmas-little-traditions-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "christmas-preparing-the-room-2",
+      "nearest": "christmas-little-traditions-4",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "christmas-preparing-the-room-3",
+      "nearest": "songs-with-everyday-words-5",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "christmas-preparing-the-room-4",
+      "nearest": "useful-home-repairs-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "christmas-preparing-the-room-5",
+      "nearest": "bible-meals-and-celebration-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "easter-spring-color",
+      "nearest": "easter-gathering-2",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "easter-spring-color-2",
+      "nearest": "easter-spring-color",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "easter-spring-color-3",
+      "nearest": "flower-and-fabric-crafts-3",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "easter-spring-color-4",
+      "nearest": "garden-cutting-table-4",
+      "answerJaccard": 0.1667,
+      "shared": 3
+    },
+    {
+      "puzzle": "easter-spring-color-5",
+      "nearest": "painting-home-projects-2",
+      "answerJaccard": 0.3529,
+      "shared": 6
+    },
+    {
+      "puzzle": "easter-at-home",
+      "nearest": "baking-small-batches-2",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "easter-at-home-2",
+      "nearest": "easter-gathering",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "easter-at-home-3",
+      "nearest": "keeping-food-fresh-4",
+      "answerJaccard": 0.2941,
+      "shared": 5
+    },
+    {
+      "puzzle": "easter-at-home-4",
+      "nearest": "christmas-little-traditions-3",
+      "answerJaccard": 0.2778,
+      "shared": 5
+    },
+    {
+      "puzzle": "easter-at-home-5",
+      "nearest": "easter-spring-color-3",
+      "answerJaccard": 0.2632,
+      "shared": 5
+    },
+    {
+      "puzzle": "thanksgiving-small-moments",
+      "nearest": "neighborhood-businesses-2",
+      "answerJaccard": 0.2105,
+      "shared": 4
+    },
+    {
+      "puzzle": "thanksgiving-small-moments-2",
+      "nearest": "bible-meals-and-celebration",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "thanksgiving-small-moments-3",
+      "nearest": "christmas-kitchen-2",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "thanksgiving-small-moments-4",
+      "nearest": "songs-with-everyday-words-2",
+      "answerJaccard": 0.2222,
+      "shared": 4
+    },
+    {
+      "puzzle": "thanksgiving-small-moments-5",
+      "nearest": "easter-at-home-3",
+      "answerJaccard": 0.2353,
+      "shared": 4
+    },
+    {
+      "puzzle": "halloween-porch-scenes",
+      "nearest": "easy-woodwork-projects-5",
+      "answerJaccard": 0.1,
+      "shared": 2
+    },
+    {
+      "puzzle": "halloween-porch-scenes-2",
+      "nearest": "garden-friendly-flowers-2",
+      "answerJaccard": 0.15,
+      "shared": 3
+    },
+    {
+      "puzzle": "halloween-porch-scenes-3",
+      "nearest": "halloween-evening-5",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    },
+    {
+      "puzzle": "halloween-porch-scenes-4",
+      "nearest": "paper-for-keepsakes-2",
+      "answerJaccard": 0.1053,
+      "shared": 2
+    },
+    {
+      "puzzle": "halloween-porch-scenes-5",
+      "nearest": "halloween-evening-3",
+      "answerJaccard": 0.1579,
+      "shared": 3
+    }
+  ],
+  "limit": "Model-assisted authoring and similarity checks do not establish target-reader difficulty, independent editing, or search performance."
+}

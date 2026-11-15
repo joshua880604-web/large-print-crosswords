@@ -1,0 +1,405 @@
+[
+  {
+    "id": "breakfast-from-the-stove",
+    "title": "Scrambling Eggs in a Pan",
+    "subtheme": "Scrambling Eggs in a Pan",
+    "description": "Beat eggs and stir them gently in a warm pan.",
+    "cardDescription": "Beat eggs and stir them gently in a warm pan.",
+    "focus": "The setting is scrambling Eggs in a Pan. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "EGG",
+        "Oval food with a shell, white, and yolk"
+      ],
+      [
+        "SCRAMBLE",
+        "Cook beaten eggs while stirring"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "WHISK",
+        "Wire-looped kitchen tool for mixing"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "YOLK",
+        "Yellow or orange central part of an egg"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "PEPPER",
+        "Dark seasoning ground over a savory sauce"
+      ],
+      [
+        "HEAT",
+        "Warmth used in cooking"
+      ],
+      [
+        "STIR",
+        "Move a spoon around in a mixture"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ]
+    ],
+    "requiredAnswers": [
+      "EGG",
+      "SCRAMBLE"
+    ],
+    "answerNotes": {
+      "EGG": "A hen's egg has a shell, white, and yolk. Recipes sometimes use only one inner part rather than the whole egg.",
+      "PAN": "Pan is a broad kitchen word. A frying pan is used on a stove, while a loaf pan holds dough or batter in the oven.",
+      "BUTTER": "Butter is made by churning cream. It adds flavor and fat to baked goods as well as serving as a spread.",
+      "WHISK": "A whisk's loops help mix liquids and beat in air. It works differently from a flat spatula used to lift or turn food.",
+      "BOWL": "A bowl has raised curved sides. That shape helps hold liquid or contain a mixture while it is stirred.",
+      "WHITE": "White is a color description, not a flower or bird name. Crossings can help when a clue asks for a color rather than a species.",
+      "SALT": "Salt is a seasoning usually paired with pepper on the table. A pinch describes a small amount rather than a special kind of it.",
+      "STIR": "Stir means move a utensil through a mixture. It combines ingredients without necessarily beating in much air.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal.",
+      "FORK": "A fork's prongs hold pieces of food. A garden fork is a larger tool sharing that pronged shape."
+    }
+  },
+  {
+    "id": "breakfast-from-the-stove-2",
+    "title": "A Stack of Blueberry Pancakes",
+    "subtheme": "A Stack of Blueberry Pancakes",
+    "description": "Flip berry-filled breakfast cakes and stack them for syrup.",
+    "cardDescription": "Flip berry-filled breakfast cakes and stack them for syrup.",
+    "focus": "The setting is a Stack of Blueberry Pancakes. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PANCAKE",
+        "Flat breakfast cake cooked in a frying pan"
+      ],
+      [
+        "BLUEBERRY",
+        "Small round fruit often blue when ripe"
+      ],
+      [
+        "BATTER",
+        "Pourable flour mixture"
+      ],
+      [
+        "SYRUP",
+        "Thick sweet liquid"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "LADLE",
+        "Deep spoon for serving soup"
+      ],
+      [
+        "FLIP",
+        "Turn a pancake over"
+      ],
+      [
+        "PAN",
+        "Flat-bottomed vessel used on a stove"
+      ],
+      [
+        "BUTTER",
+        "Cream-based spread that melts on toast"
+      ],
+      [
+        "PLATE",
+        "Shallow dish used at a meal"
+      ],
+      [
+        "FORK",
+        "Pronged utensil used with a knife"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ]
+    ],
+    "requiredAnswers": [
+      "PANCAKE",
+      "BLUEBERRY"
+    ],
+    "answerNotes": {
+      "PAN": "Pan is a broad kitchen word. A frying pan is used on a stove, while a loaf pan holds dough or batter in the oven.",
+      "BUTTER": "Butter is made by churning cream. It adds flavor and fat to baked goods as well as serving as a spread.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal.",
+      "FORK": "A fork's prongs hold pieces of food. A garden fork is a larger tool sharing that pronged shape.",
+      "MILK": "Milk is a dairy liquid used in drinks and batters. Cream is the richer portion, with a higher fat content."
+    }
+  },
+  {
+    "id": "breakfast-from-the-stove-3",
+    "title": "Oatmeal in a Breakfast Bowl",
+    "subtheme": "Oatmeal in a Breakfast Bowl",
+    "description": "Stir a warm bowl of oats with familiar sweet toppings.",
+    "cardDescription": "Stir a warm bowl of oats with familiar sweet toppings.",
+    "focus": "The setting is oatmeal in a Breakfast Bowl. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "OATMEAL",
+        "Warm breakfast dish made from oats"
+      ],
+      [
+        "OAT",
+        "Cereal grain used in a familiar raisin cookie"
+      ],
+      [
+        "BOWL",
+        "Rounded dish for soup or cereal"
+      ],
+      [
+        "MILK",
+        "Dairy liquid from a cow"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "STIR",
+        "Mix by moving a utensil in circles"
+      ],
+      [
+        "HONEY",
+        "Sweet substance made by bees"
+      ],
+      [
+        "RAISIN",
+        "Dried grape"
+      ],
+      [
+        "CINNAMON",
+        "Sweet-smelling brown spice from tree bark"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "POT",
+        "Deep cooking vessel"
+      ],
+      [
+        "THICK",
+        "Having a dense consistency, as a concentrated soup"
+      ],
+      [
+        "BREAKFAST",
+        "Morning meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "OATMEAL",
+      "OAT"
+    ],
+    "answerNotes": {
+      "BOWL": "A bowl has raised curved sides. That shape helps hold liquid or contain a mixture while it is stirred.",
+      "MILK": "Milk is a dairy liquid used in drinks and batters. Cream is the richer portion, with a higher fat content.",
+      "SPOON": "A spoon has a small bowl at one end. It can hold liquid, unlike the prongs of a fork.",
+      "WARM": "Warm is a relative temperature word. Something warm has more heat than a cool object but is not usually described as hot.",
+      "STIR": "Stir means move a utensil through a mixture. It combines ingredients without necessarily beating in much air.",
+      "CINNAMON": "Cinnamon comes from bark. It is sold in rolled sticks as well as ground into a fine powder.",
+      "WATER": "Water is the same liquid whether it is in a drinking glass, a garden hose, or a cooking pot. The container changes the scene, not the substance.",
+      "POT": "Pot can name a cooking vessel or a plant container. The surrounding clues tell you which everyday use is intended."
+    }
+  },
+  {
+    "id": "breakfast-from-the-stove-4",
+    "title": "French Toast on a Sunday Morning",
+    "subtheme": "French Toast on a Sunday Morning",
+    "description": "Dip bread in an egg mixture before browning it for breakfast.",
+    "cardDescription": "Dip bread in an egg mixture before browning it for breakfast.",
+    "focus": "The setting is french Toast on a Sunday Morning. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "TOAST",
+        "Bread browned by heating"
+      ],
+      [
+        "EGG",
+        "Food laid by a hen"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "MILK",
+        "White liquid often poured over cereal"
+      ],
+      [
+        "DIP",
+        "Put briefly into a liquid"
+      ],
+      [
+        "CINNAMON",
+        "Warm brown spice sprinkled on toast"
+      ],
+      [
+        "SYRUP",
+        "Sweet topping poured over pancakes"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "PAN",
+        "Cooking vessel with a handle"
+      ],
+      [
+        "GOLDEN",
+        "Rich yellow in color"
+      ],
+      [
+        "BUTTER",
+        "Dairy fat often used in baking"
+      ],
+      [
+        "FORK",
+        "Utensil used to pick up food"
+      ],
+      [
+        "PLATE",
+        "Flat dinner dish"
+      ],
+      [
+        "BREAKFAST",
+        "Meal often eaten after waking"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOAST",
+      "EGG"
+    ],
+    "answerNotes": {
+      "EGG": "A hen's egg has a shell, white, and yolk. Recipes sometimes use only one inner part rather than the whole egg.",
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "MILK": "Milk is a dairy liquid used in drinks and batters. Cream is the richer portion, with a higher fat content.",
+      "CINNAMON": "Cinnamon comes from bark. It is sold in rolled sticks as well as ground into a fine powder.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions.",
+      "PAN": "Pan is a broad kitchen word. A frying pan is used on a stove, while a loaf pan holds dough or batter in the oven.",
+      "BUTTER": "Butter is made by churning cream. It adds flavor and fat to baked goods as well as serving as a spread.",
+      "FORK": "A fork's prongs hold pieces of food. A garden fork is a larger tool sharing that pronged shape.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  },
+  {
+    "id": "breakfast-from-the-stove-5",
+    "title": "Browning Hash Browns for Breakfast",
+    "subtheme": "Browning Hash Browns for Breakfast",
+    "description": "Grated potatoes brown into a crisp breakfast side dish.",
+    "cardDescription": "Grated potatoes brown into a crisp breakfast side dish.",
+    "focus": "The setting is browning Hash Browns for Breakfast. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "GRATE",
+        "To rub food against a rough perforated surface to make small shreds"
+      ],
+      [
+        "PAN",
+        "Metal vessel for frying food"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ],
+      [
+        "OIL",
+        "Cooking fat that is liquid at room temperature"
+      ],
+      [
+        "SALT",
+        "Seasoning sprinkled from a shaker"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "SHRED",
+        "To cut food into long narrow strips"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "BREAKFAST",
+        "Meal served before lunch"
+      ],
+      [
+        "HEAT",
+        "Energy that raises temperature"
+      ],
+      [
+        "SPATULA",
+        "Flat cooking tool used to lift or flip food"
+      ],
+      [
+        "PLATE",
+        "Round dish set at a place for dinner"
+      ]
+    ],
+    "requiredAnswers": [
+      "POTATO",
+      "GRATE"
+    ],
+    "answerNotes": {
+      "POTATO": "A potato grows underground. Its eyes are small buds from which a new plant can grow.",
+      "PAN": "Pan is a broad kitchen word. A frying pan is used on a stove, while a loaf pan holds dough or batter in the oven.",
+      "OIL": "Oil has different uses in different scenes. It can be a cooking ingredient, lamp fuel, or part of a story about caring for a traveler.",
+      "SALT": "Salt is a seasoning usually paired with pepper on the table. A pinch describes a small amount rather than a special kind of it.",
+      "ONION": "An onion bulb has many layers. Its outer dry skin is removed before the inner layers are chopped for cooking.",
+      "PLATE": "A plate is flatter than a bowl. Its broad surface is useful for separate portions of a meal."
+    }
+  }
+]

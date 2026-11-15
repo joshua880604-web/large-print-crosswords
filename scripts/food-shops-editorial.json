@@ -1,0 +1,399 @@
+[
+  {
+    "id": "food-shops",
+    "title": "Choosing Bagels at the Bakery",
+    "subtheme": "Choosing Bagels at the Bakery",
+    "description": "Choose ring-shaped breads from the bakery tray.",
+    "cardDescription": "Choose ring-shaped breads from the bakery tray.",
+    "focus": "The setting is choosing Bagels at the Bakery. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "BAGEL",
+        "Ring-shaped bread traditionally boiled before baking"
+      ],
+      [
+        "BAKERY",
+        "Shop that makes and sells bread"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "SEED",
+        "Plant part from which a new plant grows"
+      ],
+      [
+        "SESAME",
+        "Small pale seed commonly used as a bagel topping"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "BAG",
+        "Paper sack for carrying fresh bagels"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "TONGS",
+        "Paired gripping tool used to lift food"
+      ],
+      [
+        "FRESH",
+        "Recently made or picked"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "DOZEN",
+        "Group of twelve"
+      ]
+    ],
+    "requiredAnswers": [
+      "BAGEL",
+      "BAKERY"
+    ],
+    "answerNotes": {
+      "SEED": "A seed contains the beginning of a new plant. A seed packet's planting instructions describe how to help it start growing.",
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "PRICE": "Price is the amount asked for an item. Change is money returned after a customer pays more than that amount."
+    }
+  },
+  {
+    "id": "food-shops-2",
+    "title": "A Visit to the Cheese Counter",
+    "subtheme": "A Visit to the Cheese Counter",
+    "description": "Ask for a wedge or slice at a shop's cheese counter.",
+    "cardDescription": "Ask for a wedge or slice at a shop's cheese counter.",
+    "focus": "The setting is a Visit to the Cheese Counter. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "WEDGE",
+        "Piece of fruit cut wider at one edge"
+      ],
+      [
+        "CHEDDAR",
+        "Cheese named for an English village, often sold as mild or sharp"
+      ],
+      [
+        "SWISS",
+        "___ cheese: an American grocery name for a cheese often pictured with holes"
+      ],
+      [
+        "RIND",
+        "Outer skin of citrus fruit"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "SCALE",
+        "Device used for weighing"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "COUNTER",
+        "Flat shop surface used for transactions"
+      ],
+      [
+        "SAMPLE",
+        "Small portion offered to try before buying"
+      ],
+      [
+        "MILD",
+        "Not strongly flavored or spicy"
+      ],
+      [
+        "SHARP",
+        "Strong in flavor, as aged cheddar"
+      ],
+      [
+        "BLOCK",
+        "Solid chunk of cheese or wood"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHEESE",
+      "WEDGE"
+    ],
+    "answerNotes": {
+      "CHEESE": "Cheese comes in many textures and flavors. Sharp describes flavor, while a wedge describes the shape of a cut portion.",
+      "WEDGE": "A wedge narrows toward one edge or point. A lemon wedge and a cheese wedge share that shape but are different foods.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions.",
+      "SCALE": "A scale measures weight. Its reading is different from a price, although a shop may calculate price using that weight.",
+      "WRAP": "Wrap means put a covering around something. Paper is common for parcels and shop goods, while cloth can also be a wrapping material.",
+      "PAPER": "Paper can be folded, cut, and written on. Card stock is heavier and stiffer, making it useful for tags and greeting cards.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space."
+    }
+  },
+  {
+    "id": "food-shops-3",
+    "title": "Fresh Fish on the Market Ice",
+    "subtheme": "Fresh Fish on the Market Ice",
+    "description": "Whole fish and prepared portions rest on the market ice.",
+    "cardDescription": "Whole fish and prepared portions rest on the market ice.",
+    "focus": "The setting is fresh Fish on the Market Ice. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "FISH",
+        "Water animal with fins and gills"
+      ],
+      [
+        "ICE",
+        "Water in solid form"
+      ],
+      [
+        "SCALE",
+        "Instrument showing how heavy something is"
+      ],
+      [
+        "SALMON",
+        "Pink-fleshed fish often served with lemon"
+      ],
+      [
+        "TROUT",
+        "Spotted freshwater fish, as in rainbow ___"
+      ],
+      [
+        "FILLET",
+        "Boneless piece of fish"
+      ],
+      [
+        "COD",
+        "Mild white fish often sold in fillets"
+      ],
+      [
+        "COUNTER",
+        "Shop work surface near a register"
+      ],
+      [
+        "WRAP",
+        "Fold protective material around something"
+      ],
+      [
+        "PRICE",
+        "Cost shown on a store tag"
+      ],
+      [
+        "FRESH",
+        "Newly gathered rather than stored"
+      ],
+      [
+        "WEIGH",
+        "Measure how heavy something is"
+      ],
+      [
+        "SEA",
+        "Large expanse of salt water"
+      ],
+      [
+        "BONE",
+        "Hard part of a skeleton"
+      ]
+    ],
+    "requiredAnswers": [
+      "FISH",
+      "ICE"
+    ],
+    "answerNotes": {
+      "FISH": "Fish live in water and breathe through gills. A seal or otter swims too, but it is a mammal rather than a fish.",
+      "ICE": "Ice is solid water. It absorbs heat as it melts, which helps cool a drink.",
+      "SCALE": "A scale measures weight. Its reading is different from a price, although a shop may calculate price using that weight.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "WRAP": "Wrap means put a covering around something. Paper is common for parcels and shop goods, while cloth can also be a wrapping material.",
+      "PRICE": "Price is the amount asked for an item. Change is money returned after a customer pays more than that amount."
+    }
+  },
+  {
+    "id": "food-shops-4",
+    "title": "Choosing Melons at a Farm Stand",
+    "subtheme": "Choosing Melons at a Farm Stand",
+    "description": "Look over ripe melons at a roadside farm stall.",
+    "cardDescription": "Look over ripe melons at a roadside farm stall.",
+    "focus": "The setting is choosing Melons at a Farm Stand. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "MELON",
+        "Large fruit with a rind, such as a cantaloupe"
+      ],
+      [
+        "RIPE",
+        "Ready to eat, as fruit"
+      ],
+      [
+        "RIND",
+        "Firm outer covering of a melon"
+      ],
+      [
+        "SEED",
+        "Small starting part planted in soil"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "HEAVY",
+        "Weighing a lot"
+      ],
+      [
+        "ROUND",
+        "Circular rather than square"
+      ],
+      [
+        "STAND",
+        "Support that holds an object upright"
+      ],
+      [
+        "FARM",
+        "Place where crops are grown"
+      ],
+      [
+        "PRICE",
+        "Sum charged for an item"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "SLICE",
+        "One serving cut from a cake"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ]
+    ],
+    "requiredAnswers": [
+      "MELON",
+      "RIPE"
+    ],
+    "answerNotes": {
+      "RIPE": "Ripe means ready to eat or harvest. Ripeness and color do not have exactly the same relationship in every kind of fruit.",
+      "SEED": "A seed contains the beginning of a new plant. A seed packet's planting instructions describe how to help it start growing.",
+      "SWEET": "Sweet describes flavor, not temperature or texture. A food can be sweet and cold, or sweet and warm.",
+      "PRICE": "Price is the amount asked for an item. Change is money returned after a customer pays more than that amount.",
+      "BASKET": "A basket is made by weaving flexible material. Its open structure and carrying handle make it useful for collecting garden produce.",
+      "SLICE": "A slice is a flat cut portion of food. Slice can also be the action of cutting food into those portions.",
+      "FRUIT": "Everyday fruit dishes can mix several kinds of plant produce. The serving word is culinary and does not require a botanical classification.",
+      "JUICE": "Juice is liquid released from fruit or vegetables. Pulp is the soft plant material that may remain mixed into it."
+    }
+  },
+  {
+    "id": "food-shops-5",
+    "title": "A Paper Bag from the Delicatessen",
+    "subtheme": "A Paper Bag from the Delicatessen",
+    "description": "A deli wraps sandwiches and other lunch items to carry home.",
+    "cardDescription": "A deli wraps sandwiches and other lunch items to carry home.",
+    "focus": "The setting is a Paper Bag from the Delicatessen. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "DELI",
+        "Short name for a shop selling prepared meats and sandwiches"
+      ],
+      [
+        "BAG",
+        "Flexible sack with an opening at the top"
+      ],
+      [
+        "PAPER",
+        "Thin sheet made from wood pulp"
+      ],
+      [
+        "SANDWICH",
+        "Food made with filling between pieces of bread"
+      ],
+      [
+        "PICKLE",
+        "Food preserved in a brine or acidic mixture"
+      ],
+      [
+        "HAM",
+        "Cured pork traditionally served at many spring holiday meals"
+      ],
+      [
+        "TURKEY",
+        "Large bird with a fan-shaped tail"
+      ],
+      [
+        "RYE",
+        "Grain used in many dark deli-style breads"
+      ],
+      [
+        "COUNTER",
+        "Surface where a clerk serves a customer"
+      ],
+      [
+        "ORDER",
+        "Request for a sandwich at the counter"
+      ],
+      [
+        "WEIGH",
+        "Find weight using a scale"
+      ],
+      [
+        "WRAP",
+        "Enclose in paper or cloth"
+      ],
+      [
+        "CHEESE",
+        "Milk-based food such as cheddar"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ]
+    ],
+    "requiredAnswers": [
+      "DELI",
+      "BAG"
+    ],
+    "answerNotes": {
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "PAPER": "Paper can be folded, cut, and written on. Card stock is heavier and stiffer, making it useful for tags and greeting cards.",
+      "SANDWICH": "A sandwich places a filling between pieces of bread. An open-faced version uses just one supporting slice.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "WRAP": "Wrap means put a covering around something. Paper is common for parcels and shop goods, while cloth can also be a wrapping material.",
+      "CHEESE": "Cheese comes in many textures and flavors. Sharp describes flavor, while a wedge describes the shape of a cut portion."
+    }
+  }
+]

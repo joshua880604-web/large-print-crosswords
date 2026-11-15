@@ -1,3 +1,4 @@
+import {topics} from '../data/topics';
 import puzzles from '../data/puzzles.json';
 
 export function GET() {
@@ -10,7 +11,7 @@ The collection contains ${puzzles.length} independently playable puzzles across 
 
 Online play includes optional hints, larger clues and squares, and an on-screen keyboard. Sound starts off. There is no timer or required account. Puzzle progress and preferences are stored in the player's browser when local storage is available.
 
-Printing defaults to 18pt clues and a larger grid on two US Letter pages. A compact 13pt one-page layout is also available. Puzzle and answer sheets are separate. Use portrait orientation and 100% scale; the browser's Print / Save as PDF dialog creates the PDF. The site does not provide a library of pre-generated PDF downloads.
+Printing defaults to 18pt clues and a larger grid on two US Letter pages. A compact 13pt one-page layout is also available. Puzzle and answer sheets are separate. Use portrait orientation and 100% scale; the browser's Print / Save as PDF dialog creates the PDF. Choose up to ten games on /print-pack/ to prepare a group with separate answers after the puzzles. The site does not provide a library of pre-generated PDF downloads.
 
 The canonical site is https://largeprintcrosswords.com/. Individual games use permanent /crosswords/{slug}/ URLs. The daily selection rotates through the existing collection; it does not create a new puzzle each day. Collection search and theme parameters filter the same games. Print sheets and previous editions are utility copies, with their own noindex directives.
 
@@ -23,6 +24,8 @@ The canonical site is https://largeprintcrosswords.com/. Individual games use pe
 - [How to play](https://largeprintcrosswords.com/how-to-play/): Keyboard, touch, on-screen input, hints, and saved-progress instructions.
 
 ## Topic collections
+
+${topics.map(t=>`- [${t.name} crosswords](https://largeprintcrosswords.com/${t.slug}/): ${t.description}`).join('\n')}
 
 - [Thanksgiving crosswords](https://largeprintcrosswords.com/thanksgiving-crosswords/): Holiday food, gatherings, side dishes, and sharing.
 - [Christmas crosswords](https://largeprintcrosswords.com/christmas-crosswords/): Decorations, festive food, paper crafts, and selected Christmas traditions.

@@ -1,0 +1,397 @@
+[
+  {
+    "id": "quiet-table-hobbies",
+    "title": "Sorting a Jigsaw by Its Edges",
+    "subtheme": "Sorting a Jigsaw by Its Edges",
+    "description": "Find the flat edges and corners before filling in a jigsaw.",
+    "cardDescription": "Find the flat edges and corners before filling in a jigsaw.",
+    "focus": "The setting is sorting a Jigsaw by Its Edges. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "JIGSAW",
+        "Type of picture puzzle assembled from interlocking pieces"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "PIECE",
+        "One separate part of a whole"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "PICTURE",
+        "Image made with a camera or pencil"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ],
+      [
+        "BORDER",
+        "Strip along an outer edge"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ]
+    ],
+    "requiredAnswers": [
+      "JIGSAW",
+      "EDGE"
+    ],
+    "answerNotes": {
+      "PIECE": "A piece is one part of a whole. Matching shape, color, and edges helps a jigsaw piece fit its correct place.",
+      "CORNER": "A corner is where two edges meet. In a jigsaw, a corner piece normally has two outer edges.",
+      "BOX": "A box is a container rather than its contents. In a hobby clue, a kit may come in a box but the two words are not interchangeable.",
+      "TABLE": "A table provides a raised flat surface. Chairs are the separate furniture used to sit beside it.",
+      "COLOR": "Color names such as red, blue, and yellow describe appearance. They can help with a flower scene without requiring botanical vocabulary."
+    }
+  },
+  {
+    "id": "quiet-table-hobbies-2",
+    "title": "A Model Airplane on the Worktable",
+    "subtheme": "A Model Airplane on the Worktable",
+    "description": "Assemble and paint the small parts of a model flying machine.",
+    "cardDescription": "Assemble and paint the small parts of a model flying machine.",
+    "focus": "The setting is a Model Airplane on the Worktable. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "MODEL",
+        "Small representation of a larger object"
+      ],
+      [
+        "AIRPLANE",
+        "Flying vehicle with wings and an engine"
+      ],
+      [
+        "WING",
+        "Side surface that helps an airplane fly"
+      ],
+      [
+        "TAIL",
+        "Rear extension of an animal's body"
+      ],
+      [
+        "GLUE",
+        "Sticky material for joining things"
+      ],
+      [
+        "PAINT",
+        "Colored coating spread with a brush"
+      ],
+      [
+        "PROPELLER",
+        "Rotating blades providing thrust on an early powered airplane"
+      ],
+      [
+        "KIT",
+        "Set of parts for making a model"
+      ],
+      [
+        "PART",
+        "One piece of a larger whole"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "PILOT",
+        "Person who flies an airplane"
+      ],
+      [
+        "DECAL",
+        "Decorative picture transferred onto a model"
+      ],
+      [
+        "BODY",
+        "Main central part of an object"
+      ],
+      [
+        "SCALE",
+        "Device used for weighing"
+      ]
+    ],
+    "requiredAnswers": [
+      "MODEL",
+      "AIRPLANE"
+    ],
+    "answerNotes": {
+      "WING": "Wings help birds, many insects, and airplanes fly, but their structures differ. The model-airplane scene uses a fixed surface rather than feathers.",
+      "TAIL": "Tail can name the rear part of an animal or a trailing end of ribbon or a kite. The word describes different things with a similar extending position.",
+      "GLUE": "Glue bonds surfaces together as it sets. Tape holds them with an adhesive already attached to a strip.",
+      "PAINT": "Paint leaves a colored coating on a surface. A stain usually allows more of wood's natural grain to remain visible.",
+      "WHEEL": "A wheel rotates around an axle. Its tire is an outer covering, not another name for the entire wheel.",
+      "SCALE": "A scale measures weight. Its reading is different from a price, although a shop may calculate price using that weight."
+    }
+  },
+  {
+    "id": "quiet-table-hobbies-3",
+    "title": "Solving a Word Search with a Pencil",
+    "subtheme": "Solving a Word Search with a Pencil",
+    "description": "Look for hidden words in rows, columns, and diagonals.",
+    "cardDescription": "Look for hidden words in rows, columns, and diagonals.",
+    "focus": "The setting is solving a Word Search with a Pencil. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "SEARCH",
+        "Look carefully for something"
+      ],
+      [
+        "LETTER",
+        "Written message mailed to someone"
+      ],
+      [
+        "GRID",
+        "Pattern of crossing rows and columns"
+      ],
+      [
+        "CIRCLE",
+        "Round shape with no corners"
+      ],
+      [
+        "PENCIL",
+        "Writing tool with a graphite core"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "COLUMN",
+        "Vertical line of letters in a word grid"
+      ],
+      [
+        "DIAGONAL",
+        "Line joining opposite corners of a square sheet"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "HIDDEN",
+        "Kept out of sight"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "LINE",
+        "Long narrow mark"
+      ]
+    ],
+    "requiredAnswers": [
+      "WORD",
+      "SEARCH"
+    ],
+    "answerNotes": {
+      "LETTER": "Letter can mean a written message or one alphabet character. An envelope clue points to the message sense.",
+      "CIRCLE": "A circle is a round line or shape. In a marble game, a drawn circle can mark the playing area.",
+      "PENCIL": "The writing core of a modern pencil is graphite, not metallic lead. Lead remains a traditional everyday name for it.",
+      "ROW": "A row is a line of things side by side. Garden plants, theater seats, and letters in a puzzle can all be arranged in rows.",
+      "LIST": "A list records items in order. Checking off a purchased item is different from changing the price or quantity of it.",
+      "PAPER": "Paper can be folded, cut, and written on. Card stock is heavier and stiffer, making it useful for tags and greeting cards.",
+      "LINE": "Line can mean a row, a drawn mark, or a fishing cord. The clue's action helps distinguish those meanings."
+    }
+  },
+  {
+    "id": "quiet-table-hobbies-4",
+    "title": "A Game of Solitaire at the Table",
+    "subtheme": "A Game of Solitaire at the Table",
+    "description": "Lay out a deck for a familiar one-player card game.",
+    "cardDescription": "Lay out a deck for a familiar one-player card game.",
+    "focus": "The setting is a Game of Solitaire at the Table. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "SOLITAIRE",
+        "Card game usually played alone"
+      ],
+      [
+        "ACE",
+        "Card commonly marked with the letter A"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "DECK",
+        "Outdoor platform adjoining a house"
+      ],
+      [
+        "KING",
+        "Face card ranked above a queen"
+      ],
+      [
+        "QUEEN",
+        "Face card ranked between jack and king"
+      ],
+      [
+        "JACK",
+        "Face card commonly marked with the letter J"
+      ],
+      [
+        "SUIT",
+        "Card group such as hearts or spades"
+      ],
+      [
+        "HEART",
+        "Red card suit with a two-lobed symbol"
+      ],
+      [
+        "CLUB",
+        "Black card suit with a three-leaf symbol"
+      ],
+      [
+        "SPADE",
+        "Black card suit with a pointed leaf symbol"
+      ],
+      [
+        "DIAMOND",
+        "Red card suit with a four-pointed symbol"
+      ],
+      [
+        "PILE",
+        "Heap of things together"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ]
+    ],
+    "requiredAnswers": [
+      "SOLITAIRE",
+      "ACE"
+    ],
+    "answerNotes": {
+      "ACE": "An ace is a playing card marked with A. Its value depends on the rules of the game being played.",
+      "CARD": "Card can mean a printed greeting or a playing piece. An envelope points to a greeting; a deck or suit points to a game.",
+      "DECK": "Deck can mean a pack of playing cards or an outdoor platform. Cards and a patio use different senses of the same short word.",
+      "KING": "King can mean a ruler or a face card representing one. In a card deck, it belongs to a suit rather than ruling a country.",
+      "SUIT": "Suit can mean matching clothes or a group of playing cards. Hearts, diamonds, clubs, and spades are the four card suits.",
+      "HEART": "Hearts is one of the two red card suits. Its rounded symbol is different from the pointed diamond symbol in the other red suit."
+    }
+  },
+  {
+    "id": "quiet-table-hobbies-5",
+    "title": "A Domino Line Along the Table",
+    "subtheme": "A Domino Line Along the Table",
+    "description": "Match the marked ends of tiles in a growing tabletop line.",
+    "cardDescription": "Match the marked ends of tiles in a growing tabletop line.",
+    "focus": "The setting is a Domino Line Along the Table. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "DOMINO",
+        "Rectangular game tile divided into two marked ends"
+      ],
+      [
+        "DOT",
+        "Tiny round mark"
+      ],
+      [
+        "TILE",
+        "Small flat piece used in a game or pattern"
+      ],
+      [
+        "BLACK",
+        "Darkest color"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "LINE",
+        "Straight mark drawn with a ruler"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "MATCH",
+        "Pair things that are alike"
+      ],
+      [
+        "DOUBLE",
+        "Domino with matching numbers at both ends"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "TABLE",
+        "Raised surface for meals or work"
+      ],
+      [
+        "HAND",
+        "Tiles held by a domino player"
+      ],
+      [
+        "PLAY",
+        "Take part in a game"
+      ],
+      [
+        "BONE",
+        "Informal name for a domino tile"
+      ]
+    ],
+    "requiredAnswers": [
+      "DOMINO",
+      "DOT"
+    ],
+    "answerNotes": {
+      "DOMINO": "A domino tile has two marked ends. A double has the same count on both ends.",
+      "DOT": "Dot is the everyday word for a small round mark. On dominoes, the groups of dots indicate each end's value.",
+      "WHITE": "White is a color description, not a flower or bird name. Crossings can help when a clue asks for a color rather than a species.",
+      "LINE": "Line can mean a row, a drawn mark, or a fishing cord. The clue's action helps distinguish those meanings.",
+      "TABLE": "A table provides a raised flat surface. Chairs are the separate furniture used to sit beside it.",
+      "HAND": "Hand can name a body part or a clock pointer. A clock's minute hand makes a full turn each hour."
+    }
+  }
+]

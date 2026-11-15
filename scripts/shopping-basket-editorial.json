@@ -1,0 +1,408 @@
+[
+  {
+    "id": "shopping-basket",
+    "title": "A Cart at the Supermarket Entrance",
+    "subtheme": "A Cart at the Supermarket Entrance",
+    "description": "Choose a wheeled basket before beginning the grocery aisles.",
+    "cardDescription": "Choose a wheeled basket before beginning the grocery aisles.",
+    "focus": "The setting is a Cart at the Supermarket Entrance. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CART",
+        "Small wheeled vehicle used to carry a load"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of seats or shelves"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ],
+      [
+        "GROCERY",
+        "Food item bought for home"
+      ],
+      [
+        "PUSH",
+        "Move something away using force"
+      ],
+      [
+        "FOOD",
+        "Something people or animals eat"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "ROLL",
+        "Move forward on wheels"
+      ]
+    ],
+    "requiredAnswers": [
+      "CART",
+      "WHEEL"
+    ],
+    "answerNotes": {
+      "CART": "A cart carries a load on wheels. A grocery cart's basket holds the food while its handle guides the movement.",
+      "WHEEL": "A wheel rotates around an axle. Its tire is an outer covering, not another name for the entire wheel.",
+      "HANDLE": "A handle is the part made for the hand to grip. Its shape depends on whether the object is carried, pulled, poured, or turned.",
+      "BASKET": "A basket is made by weaving flexible material. Its open structure and carrying handle make it useful for collecting garden produce.",
+      "AISLE": "An aisle is a passage between rows. In a theater it lets people reach seats without climbing over them.",
+      "GROCERY": "Grocery describes food and household shopping. A list records intended purchases; the bags contain what was actually bought.",
+      "LIST": "A list records items in order. Checking off a purchased item is different from changing the price or quantity of it.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "METAL": "Metal names a family of materials including iron, copper, and aluminum. The word does not identify which metal a particular tool contains."
+    }
+  },
+  {
+    "id": "shopping-basket-2",
+    "title": "Reading Prices on the Grocery Shelf",
+    "subtheme": "Reading Prices on the Grocery Shelf",
+    "description": "Compare package sizes and costs before making a choice.",
+    "cardDescription": "Compare package sizes and costs before making a choice.",
+    "focus": "The setting is reading Prices on the Grocery Shelf. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "CENT",
+        "One hundredth of a dollar"
+      ],
+      [
+        "DOLLAR",
+        "U.S. money unit of one hundred cents"
+      ],
+      [
+        "SALE",
+        "Event at which goods are offered for money"
+      ],
+      [
+        "SIZE",
+        "Measurement of how big something is"
+      ],
+      [
+        "WEIGHT",
+        "How heavy something is"
+      ],
+      [
+        "ITEM",
+        "One thing on a shopping list"
+      ],
+      [
+        "UNIT",
+        "Single measure used to compare prices"
+      ],
+      [
+        "TAG",
+        "Small label attached to an item"
+      ],
+      [
+        "COMPARE",
+        "Look at two things to see differences"
+      ],
+      [
+        "STORE",
+        "Keep in a safe place"
+      ],
+      [
+        "LIST",
+        "Written reminder of things needed"
+      ]
+    ],
+    "requiredAnswers": [
+      "PRICE",
+      "LABEL"
+    ],
+    "answerNotes": {
+      "PRICE": "Price is the amount asked for an item. Change is money returned after a customer pays more than that amount.",
+      "LABEL": "A label identifies an item or its contents. It can carry a name, date, size, or address depending on the scene.",
+      "SHELF": "A shelf is a horizontal storage surface. A drawer is a compartment that slides in and out.",
+      "DOLLAR": "One U.S. dollar equals one hundred cents. Its value can be represented by one bill or several different combinations of coins.",
+      "SIZE": "Size describes how big something is. A unit price compares cost for the same quantity, helping when package sizes differ.",
+      "ITEM": "An item is one entry or object in a group. The same list can include individual foods, packages, and other household supplies.",
+      "LIST": "A list records items in order. Checking off a purchased item is different from changing the price or quantity of it."
+    }
+  },
+  {
+    "id": "shopping-basket-3",
+    "title": "A Reusable Shopping Bag",
+    "subtheme": "A Reusable Shopping Bag",
+    "description": "Fold a washable carrying bag to take on the next shopping trip.",
+    "cardDescription": "Fold a washable carrying bag to take on the next shopping trip.",
+    "focus": "The setting is a Reusable Shopping Bag. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "REUSE",
+        "Use something again"
+      ],
+      [
+        "BAG",
+        "Flexible sack with an opening at the top"
+      ],
+      [
+        "HANDLE",
+        "Grip attached to a tool"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ],
+      [
+        "SHOP",
+        "Store where customers buy things"
+      ],
+      [
+        "BASKET",
+        "Container woven from flexible strips"
+      ],
+      [
+        "GROCERY",
+        "Household food purchase"
+      ],
+      [
+        "STITCH",
+        "One loop of worked thread"
+      ],
+      [
+        "SEAM",
+        "Line where fabric pieces are joined"
+      ],
+      [
+        "WASH",
+        "Clean with water"
+      ],
+      [
+        "STRONG",
+        "Sturdy and able to support weight"
+      ],
+      [
+        "TOTE",
+        "Large carrying bag with handles"
+      ]
+    ],
+    "requiredAnswers": [
+      "REUSE",
+      "BAG"
+    ],
+    "answerNotes": {
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "HANDLE": "A handle is the part made for the hand to grip. Its shape depends on whether the object is carried, pulled, poured, or turned.",
+      "CLOTH": "Cloth means fabric. A cloth used for wiping is an object made from that material, not a different substance.",
+      "FOLD": "Folding brings one part of a sheet over another. A crease is the line left by pressing that fold.",
+      "BASKET": "A basket is made by weaving flexible material. Its open structure and carrying handle make it useful for collecting garden produce.",
+      "GROCERY": "Grocery describes food and household shopping. A list records intended purchases; the bags contain what was actually bought.",
+      "STITCH": "A stitch is one unit of worked thread or yarn. Many stitches together form a seam, knitted row, or decorative pattern.",
+      "SEAM": "A seam joins pieces of fabric. A hem finishes an edge instead of joining two separate pieces."
+    }
+  },
+  {
+    "id": "shopping-basket-4",
+    "title": "Counting Change at the Checkout",
+    "subtheme": "Counting Change at the Checkout",
+    "description": "Count coins returned after paying the checkout total.",
+    "cardDescription": "Count coins returned after paying the checkout total.",
+    "focus": "The setting is counting Change at the Checkout. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "PENNY",
+        "Common name for a U.S. one-cent coin"
+      ],
+      [
+        "NICKEL",
+        "U.S. five-cent coin"
+      ],
+      [
+        "DIME",
+        "U.S. coin representing ten cents"
+      ],
+      [
+        "QUARTER",
+        "U.S. coin representing twenty-five cents"
+      ],
+      [
+        "CASH",
+        "Money paid as bills or coins"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "TOTAL",
+        "The final sum owed for a purchase"
+      ],
+      [
+        "BILL",
+        "Written statement of money owed"
+      ],
+      [
+        "DOLLAR",
+        "Amount equal to four quarters"
+      ],
+      [
+        "REGISTER",
+        "Checkout machine that records purchases"
+      ],
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "PAY",
+        "Give money for goods or work"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHANGE",
+      "COIN"
+    ],
+    "answerNotes": {
+      "CHANGE": "Change is the money returned when payment exceeds the price. The word can include several coins rather than just one.",
+      "COIN": "A coin is a metal piece of money. The value depends on the currency and period; Bible stories do not use modern U.S. coins.",
+      "NICKEL": "A U.S. nickel is worth five cents. The name does not mean the entire coin is made of pure nickel.",
+      "DIME": "A U.S. dime is worth ten cents. Two nickels have the same value, although they are different coins.",
+      "QUARTER": "A U.S. quarter is worth twenty-five cents. Four quarters make one dollar.",
+      "CASH": "Cash means physical money such as bills and coins. A check gives an instruction to transfer money rather than being cash itself.",
+      "DOLLAR": "One U.S. dollar equals one hundred cents. Its value can be represented by one bill or several different combinations of coins.",
+      "RECEIPT": "A receipt records a completed payment. A bill asks for payment, so the two papers serve different purposes."
+    }
+  },
+  {
+    "id": "shopping-basket-5",
+    "title": "Unpacking Groceries on the Counter",
+    "subtheme": "Unpacking Groceries on the Counter",
+    "description": "Sort bags and packages onto the counter before putting food away.",
+    "cardDescription": "Sort bags and packages onto the counter before putting food away.",
+    "focus": "The setting is unpacking Groceries on the Counter. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "UNPACK",
+        "Take items out of bags or boxes"
+      ],
+      [
+        "GROCERY",
+        "Item from a food store"
+      ],
+      [
+        "BAG",
+        "Carrying sack, often with handles"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "BOTTLE",
+        "Narrow-necked liquid container"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "SHELF",
+        "Board that holds books"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "PANTRY",
+        "Cupboard or small room for storing food"
+      ],
+      [
+        "STORE",
+        "Place in storage"
+      ]
+    ],
+    "requiredAnswers": [
+      "UNPACK",
+      "GROCERY"
+    ],
+    "answerNotes": {
+      "GROCERY": "Grocery describes food and household shopping. A list records intended purchases; the bags contain what was actually bought.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "BOX": "A box is a container rather than its contents. In a hobby clue, a kit may come in a box but the two words are not interchangeable.",
+      "JAR": "A jar has a wide opening that makes spooning and filling easier. A bottle usually has a narrower neck.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "SHELF": "A shelf is a horizontal storage surface. A drawer is a compartment that slides in and out.",
+      "MILK": "Milk is a dairy liquid used in drinks and batters. Cream is the richer portion, with a higher fat content.",
+      "BREAD": "Bread may be a whole loaf or pieces cut from it. A loaf is counted as a whole, while a slice is one flat portion.",
+      "FRUIT": "Everyday fruit dishes can mix several kinds of plant produce. The serving word is culinary and does not require a botanical classification."
+    }
+  }
+]

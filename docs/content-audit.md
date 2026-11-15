@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 500 current puzzles; 5590 clue entries.
-- 2362 distinct answers; 5590 distinct answer/clue pairs.
-- 500 different introductions; 0 numbered titles remain.
-- 500 editions have dedicated subject notes and answer explanations.
+- 1000 current puzzles; 11204 clue entries.
+- 2927 distinct answers; 7715 distinct answer/clue pairs.
+- 1000 different introductions; 0 numbered titles remain.
+- 1000 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -769,11 +769,711 @@ Subjects: Doo-Wop on a Street Corner, Surf Guitar and a Summer Sound, Bluegrass 
 
 Subjects: The Conductor's Rehearsal, A Songwriter's Notebook, Recording a Familiar Song in the Studio, At the Sound Engineer's Console, A Guitar Case After the Sing-Along.
 
+## Garden Harvest Baskets: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Pulling Carrots for Supper, Tomatoes Ripening on the Fence, A Row of Sweet Corn, Digging Potatoes from a Mound, Cutting a Head of Lettuce.
+
+## Garden Small Spaces: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Basil in a Kitchen Pot, Mint Beside the Back Steps, Chives in a Patio Planter, A Strawberry Hanging Basket, A Pepper Plant on the Deck.
+
+## Garden Evening Chores: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Rolling Up the Garden Hose, Tidying the Garden Shed Doorway, Collecting Apples Under the Tree, Saving Marigold Seeds in Envelopes, A Wheelbarrow Full of Mulch.
+
+## Garden Friendly Flowers: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Pansies in a Front-Step Bowl, A Bed of Bright Zinnias, Daisies Beside a White Fence, Tulips Lining the Front Walk, A Climbing Morning Glory.
+
+## Garden Cutting Table: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Arranging Snapdragons in a Tall Vase, A Lavender Bundle to Dry, Hydrangeas in a Porch Pitcher, A Jar of Sweet Peas, A Peony Beside the Garden Seat.
+
+## Garden From The Beginning: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Labeling Seedling Trays, Growing Beans in a Jar, Moving a Seedling to a Larger Pot, Planting an Onion Row, Picking a Young Zucchini.
+
+## Garden Welcoming Corners: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Birdbath Among the Flowers, A Bench Under the Lilac, A Small Garden Sundial, An Evening Garden Lantern, Stepping Stones Across the Bed.
+
+## Garden Keeping Tools: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Hanging Garden Hand Tools, Mending a Sagging Garden Gate, Putting Together a Rain Barrel, A Pair of Garden Gloves, Trimming a Low Hedge.
+
+## Garden Fruit Trees: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Pears Ripening by the Wall, A Basket of Fresh Peaches, Plums for a Kitchen Bowl, Cherries Ready to Pick, A Lemon Tree in a Tub.
+
+## Garden Flower Seasons: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Iris Beside the Garden Pond, Hollyhocks by the Shed Wall, Cosmos Swaying in the Breeze, Petunias Spilling over a Planter, Snowdrops Beside the Path.
+
+## Animals On The Farm: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Hen Leading Her Chicks, A Calf Beside Its Mother, A Lamb in a Green Pasture, A Goat Looking over the Fence, A Donkey by the Barn Door.
+
+## Small Wild Visitors: five first editions
+
+- 53 clues; 53 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Rabbit Under the Blackberry Bush, A Chipmunk on the Stone Step, A Raccoon Beside the Creek, A Skunk Crossing the Yard, An Opossum on a Branch.
+
+## Birds To Recognize: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Woodpecker on an Old Trunk, A Blue Jay at the Oak, Goldfinches on a Seed Head, A Hummingbird by Red Flowers, A Turkey Walking at the Woodland Edge.
+
+## Beside The Water: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Beaver Building by the Stream, An Otter Sliding into the River, A Kingfisher Watching the Pond, A Heron Wading in the Shallows, Dragonflies over the Lily Pads.
+
+## Looking At The Shore: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Crab Along the Wet Sand, A Starfish in a Tide Pool, Seals Resting on a Rock, A Pelican Above the Harbor, Sandpipers Running by the Waves.
+
+## Trees And Their Fruit: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Maple Seeds Spinning Down, A Walnut on the Picnic Table, Willow Branches over the Creek, White Bark on a Birch Tree, A Chestnut in Its Prickly Case.
+
+## Quiet Outdoor Moments: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Rainbow Above the Field, Mist Across the Morning Lake, Dew on a Meadow in the Morning, Pebbles in a Clear Brook, A Breeze Moving Through Tall Grass.
+
+## Night Outdoors: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Fireflies Over the Lawn, An Owl on the Barn Roof, Crickets Beside the Porch, Bats Above the Garden at Dusk, A Moth Beside the Porch Light.
+
+## Breakfast From The Stove: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Scrambling Eggs in a Pan, A Stack of Blueberry Pancakes, Oatmeal in a Breakfast Bowl, French Toast on a Sunday Morning, Browning Hash Browns for Breakfast.
+
+## Bowls Of Soup: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Chicken Noodle Soup for Lunch, Stirring a Pot of Tomato Soup, A Pot of Split Pea Soup, Vegetable Soup in the Stockpot, A Crock of Onion Soup.
+
+## Sandwich Counter: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Grilled Cheese Sandwich in the Skillet, Peanut Butter and Jelly for Lunch, Layering a Club Sandwich, A Tuna Sandwich on Rye, Meatballs in a Long Roll.
+
+## Supper In The Oven: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Meatloaf Ready to Slice, Roast Chicken with Potatoes, Stuffing a Green Pepper, Baking Macaroni and Cheese, A Pan of Vegetable Lasagna.
+
+## Supper On The Stove: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Spaghetti and Tomato Sauce, Rice Simmering Under the Lid, Chili for a Cool Evening, Pork Chops in the Frying Pan, Salmon with a Lemon Wedge.
+
+## Salads To Share: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Potato Salad for a Picnic, A Bowl of Crisp Coleslaw, Cucumber Slices with Dill, A Colorful Three-Bean Salad, A Bowl of Fresh Fruit Salad.
+
+## Vegetable Side Dishes: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Roasting Carrots with Honey, Green Beans with Toasted Almonds, Broccoli Beside the Main Dish, A Baked Potato with Toppings, Buttered Corn off the Cob.
+
+## Dessert Bowls: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Chocolate Pudding Cooling in Cups, Rice Pudding with Cinnamon, A Bowl of Warm Applesauce, Banana Splits at the Kitchen Table, Peaches Under a Cobbler Crust.
+
+## Cookie Tins: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Peanut Butter Cookies on the Rack, Oatmeal Raisin Cookies to Share, Rolling Ginger Cookies, Chocolate Chips in the Mixing Bowl, A Tray of Lemon Shortbread.
+
+## Pies And Tarts: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Peach Pie on the Windowsill, Cherry Pie with a Woven Top, A Lemon Meringue Pie, An Apple Tart in a Round Tin, A Chocolate Cream Pie.
+
+## Baking Small Batches: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Blueberry Muffins for a Neighbor, A Pan of Cinnamon Rolls, Banana Bread in a Loaf Pan, Cheddar Biscuits for Supper, Brownies Cut into Squares.
+
+## Kitchen Preparation: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Peeling and Chopping an Onion, Rolling Dough on the Counter, Whisking Cream in a Chilled Bowl, Straining Pasta over the Sink, Grating Cheese for Supper.
+
+## Drinks To Serve: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Iced Tea with Lemon Slices, A Pitcher of Fruit Punch, Strawberry Milkshakes in Tall Glasses, Fresh Orange Juice at Breakfast, A Warm Mug of Apple Cider.
+
+## Food Shops: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Choosing Bagels at the Bakery, A Visit to the Cheese Counter, Fresh Fish on the Market Ice, Choosing Melons at a Farm Stand, A Paper Bag from the Delicatessen.
+
+## Snacks For A Table: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Popcorn in a Big Bowl, Cheese and Crackers on a Tray, Apple Slices with Peanut Butter, A Bowl of Trail Mix, Cinnamon Toast for an Afternoon Break.
+
+## Keeping Food Fresh: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Lunch Box Ready to Go, Labeling Containers for the Freezer, Putting Groceries in the Refrigerator, A Covered Cake on the Counter, Bread Kept in a Breadbox.
+
+## Errands On Main Street: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Picking Up a Prescription at the Counter, Mailing a Letter at the Post Office, Returning Books at the Library Desk, A Deposit at the Bank Window, Picking Up Dry Cleaning.
+
+## Neighborhood Businesses: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Key Cut at the Hardware Store, Choosing a Card at the Gift Shop, A Parcel at the Shipping Counter, A New Frame for Eyeglasses, Choosing Paint at the Hardware Counter.
+
+## Around The Town Square: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Fresh Produce at the Saturday Market, A Bench Beside the Town Clock, Flowers Around the Town Hall, Reading the Community Notice Board, At the Village Fountain.
+
+## Visits And Gatherings: five first editions
+
+- 52 clues; 52 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Welcoming a Neighbor for Coffee, A Family Reunion in the Park, An Afternoon at the Senior Center, A Neighborhood Yard Sale, A Welcome Basket for New Neighbors.
+
+## Household Paperwork: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Writing a Grocery List, Paying a Bill by Mail, Marking Dates on a Wall Calendar, Sorting the Morning Mail, Filing Papers in a Drawer.
+
+## Fresh Laundry: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Clothes Drying on a Backyard Line, Folding Warm Towels, Matching Socks from the Basket, Ironing a Tablecloth, Washing a Favorite Sweater by Hand.
+
+## Home Cleaning Corners: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Washing Dishes After Supper, Dusting the Living Room Shelves, Sweeping the Front Steps, Cleaning a Mirror Above the Sink, Changing Sheets on the Bed.
+
+## Useful Home Repairs: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Tightening a Loose Door Handle, Hanging a Picture Straight, Replacing a Lamp Shade, Fixing a Squeaky Cabinet Hinge, Putting a Felt Pad Under a Chair.
+
+## At The Writing Desk: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Letter to a Grandchild, An Address Book Open on the Desk, Sharpening a Pencil for a Puzzle, A Desk Drawer of Small Supplies, Writing a Thank-You Note.
+
+## Through The Front Door: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Doormat Ready for Visitors, An Umbrella Dripping in the Hall, Coats Hanging by the Entry, Finding the Right House Key, A Small Table in the Entry Hall.
+
+## Restful Household Routines: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: An Evening Bath Prepared at Home, Getting Ready for Bed, A Glass of Water on the Nightstand, Choosing Comfortable Walking Shoes, Packing a Bag for a Day Out.
+
+## On The Local Road: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Waiting for the Crosswalk Signal, Parking Beside the Town Square, Filling the Car at the Gas Pump, A Car Key and the Dashboard, A School Crossing on Main Street.
+
+## Community Volunteers: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Sorting Donations at the Food Pantry, Folding Programs for a Local Concert, Setting Out Chairs for a Meeting, Sorting Books for a Community Sale, Serving Coffee at the Church Hall.
+
+## Keeping In Touch: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Phone Call with an Old Friend, Choosing a Postcard to Send Home, A Video Call with the Family, A Birthday Card in the Mailbox, Leaving a Note on the Refrigerator.
+
+## Shopping Basket: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Cart at the Supermarket Entrance, Reading Prices on the Grocery Shelf, A Reusable Shopping Bag, Counting Change at the Checkout, Unpacking Groceries on the Counter.
+
+## Small Town Outings: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Tickets at the Community Theater, A Morning at the Town Pool, A Table at the Corner Cafe, Checking Out a Community Garden Plot, A Bench at the Bus Shelter.
+
+## Home Storage Spaces: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Sorting a Linen Closet, A Kitchen Drawer for Utensils, A Shelf for Board Games, A Shoe Rack by the Back Door, Packing Away Summer Clothes.
+
+## The Family Car: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Washing the Car in the Driveway, Checking a Road Map Before a Drive, Packing the Trunk for a Weekend, A Fresh Set of Windshield Wipers, A Picnic Stop at a Rest Area.
+
+## Everyday Timekeepers: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Winding a Bedside Alarm Clock, Reading a Wall Clock at Noon, A Watch with a Leather Band, Setting a Kitchen Timer for Tea, A Calendar Turned to a New Month.
+
+## Porch And Patio: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Rocking Chair on the Porch, An Awning Shading the Patio, A Screen Door in a Summer Breeze, A Pitcher on the Patio Table, Wind Chimes Under the Porch Roof.
+
+## Needle And Thread Projects: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Sewing a Button Back on a Cardigan, A Hem on a Pair of Curtains, A Simple Felt Needle Case, Making a Pincushion from Scraps, A Cloth Napkin with a Stitched Initial.
+
+## Yarn For Useful Things: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Knitting a Striped Scarf, A Crocheted Dishcloth for the Kitchen, Pom-Poms for a Woolly Hat, A Knitted Blanket for a Lap, Winding Yarn into a Ball.
+
+## Paper For Keepsakes: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Making a Bookmark from Card Stock, A Scrapbook of a Family Picnic, Decorating a Paper Gift Tag, A Paper Fan for a Warm Day, Making a Small Memory Box.
+
+## Painting Home Projects: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Painting a Small Wooden Birdhouse, Decorating a Terra-Cotta Flowerpot, Painting Smooth Stones for the Garden, A Stenciled Pattern on a Tray, A Watercolor of a Favorite Teacup.
+
+## Beads And Ribbons: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Stringing Beads for a Bracelet, A Ribbon Bow for a Gift Basket, A Necklace of Wooden Beads, Making a Beaded Key Ring, A Ribbon Handle on a Small Bag.
+
+## Easy Woodwork Projects: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Sanding a Small Wooden Shelf, Building a Wooden Planter Box, Making a Simple Picture Frame, A Wooden Tray with Two Handles, A Peg Rack for Coats.
+
+## Quiet Table Hobbies: five first editions
+
+- 54 clues; 54 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Sorting a Jigsaw by Its Edges, A Model Airplane on the Worktable, Solving a Word Search with a Pencil, A Game of Solitaire at the Table, A Domino Line Along the Table.
+
+## Outdoor Hobby Bags: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Sketchbook at the Park, A Fishing Tackle Box on the Bank, Binoculars for a Bird Walk, A Camera Ready for a Garden Photo, A Kite Waiting for a Breeze.
+
+## Collecting Family Stories: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Labeling Old Family Photographs, A Recipe Book of Family Favorites, Recording a Grandparent's Story, A Family Tree on a Sheet of Paper, A Keepsake Tin of Letters.
+
+## Flower And Fabric Crafts: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Fabric Sachet of Dried Flowers, Pressed Leaves Between Book Pages, A Wreath Made from Fabric Strips, Sewing a Cushion Cover, A Small Bouquet Wrapped in Paper.
+
+## Memories Of Schooldays: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Lunch Pail on the School Desk, Writing with Chalk at the Blackboard, A Pencil Box Before Class, The School Bell at Recess, A Report Card Brought Home.
+
+## Memories Of Main Street: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Nickelodeon Ticket Window, An Old-Fashioned Candy Counter, A Telephone Booth on the Corner, A Paper Route Before Breakfast, A Barber Pole Outside the Shop.
+
+## Songs With Everyday Words: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Home on the Range: Familiar Title Words, Take Me Out to the Ball Game: At the Park, You Are My Sunshine: Weather and Warmth, Daisy Bell: A Bicycle Made for Two, By the Light of the Silvery Moon: Night Words.
+
+## Classic Movie Settings: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Yellow Brick Road on the Screen, A Singin' in the Rain Movie Scene, A Sound of Music Hillside, A Mary Poppins Kite-Flying Scene, A Casablanca Cafe on the Screen.
+
+## Memories Of Home Entertainment: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Family Television with Rabbit Ears, A Stack of Forty-Five Records, A Slide Show in the Living Room, A Saturday Radio Request Show, A Reel of Family Home Movies.
+
+## Remembering Simple Play: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Marbles in a Cloth Bag, A Hopscotch Grid on the Sidewalk, Jacks and a Rubber Ball, A Spinning Top on the Floor, A Checkered Blanket for a Doll Picnic.
+
+## Bible Beginnings: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Light and the Created World, Bible Story: A Garden in Eden, Bible Story: Noah Builds an Ark, Bible Story: A Dove and a Rainbow, Bible Story: The Tower of Babel.
+
+## Bible Family Journeys: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Abraham Welcomes Visitors, Bible Story: Rebekah at the Well, Bible Story: Jacob Dreams of a Ladder, Bible Story: Joseph and His Special Coat, Bible Story: Joseph Stores Grain in Egypt.
+
+## Bible Moses And The Journey: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: A Baby in a Basket, Bible Story: Moses and the Burning Bush, Bible Story: A Path Through the Sea, Bible Story: Manna in the Morning, Bible Story: Tablets on the Mountain.
+
+## Bible Familiar People: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Ruth Stays with Naomi, Bible Story: Samuel Hears His Name, Bible Story: David Tends the Sheep, Bible Story: David and Goliath, Bible Story: Solomon Asks for Wisdom.
+
+## Bible Courage And Care: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Ravens Bring Food to Elijah, Bible Story: Flour and Oil at a Widow's Home, Bible Story: Jonah and the Great Fish, Bible Story: Daniel in the Lions' Den, Bible Story: Queen Esther Speaks Up.
+
+## Bible Christmas And Childhood: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: An Angel Visits Mary, Bible Story: A Manger in Bethlehem, Bible Story: Shepherds Hear Good News, Bible Story: Wise Men Follow a Star, Bible Story: Young Jesus at the Temple.
+
+## Bible By The Lake: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Jesus Is Baptized in the Jordan, Bible Story: Fishermen Leave Their Nets, Bible Story: Water Jars at a Wedding, Bible Story: Friends Open a Roof, Bible Story: Jesus Calms a Storm.
+
+## Bible Seeds And Finding: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Parable: Seeds on Different Ground, Bible Parable: A Small Mustard Seed, Bible Parable: One Lost Sheep, Bible Parable: A Lost Coin in the House, Bible Parable: A Son Returns Home.
+
+## Bible Stories Jesus Told: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Parable: A Helpful Samaritan, Bible Teaching: A Shepherd and His Sheep, Bible Parable: A House Built on Rock, Bible Teaching: A Lamp on a Stand, Bible Parable: Workers in a Vineyard.
+
+## Bible Meals And Celebration: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Five Loaves and Two Fish, Bible Story: Zacchaeus Climbs a Tree, Bible Story: A Donkey and Palm Branches, Bible Story: Bread and a Cup at Supper, Bible Story: The Empty Tomb at Easter.
+
+## Spring First Outings: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Kite Festival on a Spring Afternoon, Puddles Along the Spring Sidewalk, Ducklings on a Park Pond, A First Picnic After Winter, Baseball Gloves Out of the Closet.
+
+## Spring At The Market: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Fresh Asparagus at the Farm Stand, Rhubarb Stalks for a Pie, A Pot of Primroses as a Spring Gift, Radishes with Their Green Tops, A Basket of Early Strawberries.
+
+## Spring House And Yard: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Putting Winter Boots Away, A Fresh Coat of Paint on the Porch Rail, Washing Winter Dust from the Windows, Setting Patio Cushions in the Sun, A Spring Door Basket of Twigs and Flowers.
+
+## Spring Garden Wildlife: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Nest of Robin Eggs, Frog Calls at the Spring Pond, A Bumblebee at an Apple Blossom, Young Leaves on a Garden Tree, A Butterfly on the First Warm Day.
+
+## Summer Neighborhood Days: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Lemon Ice at the Street Fair, A Community Concert on the Lawn, A Sprinkler Turning on the Lawn, A Porch Swing on a Warm Evening, A Bowl of Watermelon Wedges.
+
+## Summer Away From Home: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Beach Umbrella and Two Chairs, A Cabin Beside the Lake, Sitting Beside the Campfire, A Summer Visit to the Zoo, A Ride on the Summer Ferris Wheel.
+
+## Summer Tastes And Traditions: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Fresh Peaches at a Roadside Stand, Making Ice Cream in a Hand-Crank Freezer, A Fourth of July Flag on the Porch, Corn Dogs and Lemonade at the Fair, A Tomato Sandwich from the Garden.
+
+## Autumn Outings: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Hayride Through the Farm, A Pumpkin Patch on a Cool Afternoon, Apples Pressed into Cider, A Quilt Display at the County Fair, An Autumn Drive to See the Leaves.
+
+## Autumn Home Projects: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Raking Leaves into a Big Pile, Stacking Firewood Before Cold Weather, A Wool Blanket on the Porch Chair, A Bowl of Nuts and a Nutcracker, A Dried Corn Decoration at the Door.
+
+## Autumn Kitchen And Pantry: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Pumpkin Bread in a Loaf Pan, Baking Apples with Raisins, Butternut Squash on the Cutting Board, A Jar of Apple Butter, Roasted Pumpkin Seeds in a Bowl.
+
+## Winter Indoor Afternoons: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Quilt and a Book on a Snow Day, A Kettle Steaming Beside the Stove, An Indoor Bulb Blooming in January, A Puzzle Table Beside the Radiator, A Warm Flannel Shirt from the Drawer.
+
+## Winter In The Neighborhood: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Boot Prints Along the Snowy Walk, A Scarf Around a Snowman's Neck, A Mailbox After an Overnight Snow, Holiday Windows on Main Street, A Hat and Mittens Drying by the Door.
+
+## Winter Light And Ice: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Icicles Along the Porch Roof, Frost Patterns on a Windowpane, A Candle Glowing on a Dark Afternoon, Snow Sparkling Under a Streetlamp, A Frozen Puddle Beside the Path.
+
+## Christmas Sharing Projects: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Christmas Angel Tree Gift Tag, Packing a Christmas Cookie Tin for a Friend, A Christmas Card List at the Desk, A Christmas Carol Sheet at Each Seat, A Christmas Craft Table for Friends.
+
+## Christmas Little Traditions: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: An Orange in a Christmas Stocking, A Toy Train Around the Christmas Tree, A Bowl of Christmas Ribbon Candy, A Christmas Bell on the Door Handle, A Paper Hat from a Christmas Cracker.
+
+## Christmas Preparing The Room: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Christmas Table Runner with Holly, A Garland Along the Stair Rail, A Star at the Top of the Christmas Tree, Unpacking Glass Christmas Baubles, A Small Christmas Village on the Mantel.
+
+## Easter Spring Color: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Dyeing Eggs in Cups of Color, An Easter Egg Hunt in the Yard, Paper Bunnies for an Easter Table, A Spring Bouquet for Easter Brunch, A Painted Wooden Egg on a Stand.
+
+## Easter At Home: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Hot Cross Buns on an Easter Tray, A Chocolate Rabbit in Foil, An Easter Table with Carrot Cake, Jelly Beans Sorted by Color, A Napkin Folded into Bunny Ears.
+
+## Thanksgiving Small Moments: five first editions
+
+- 53 clues; 53 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Thanksgiving Place Cards with Family Names, A Wishbone Saved After Thanksgiving, A Cornucopia at the Thanksgiving Table, Watching Football After Thanksgiving Dinner, A Pumpkin Cheesecake for Thanksgiving.
+
+## Halloween Porch Scenes: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Friendly Ghost Made from a Sheet, Carving a Grinning Jack-o'-Lantern, A Witch Hat and a Toy Broom, Paper Bats Hanging in the Window, A Bowl of Wrapped Halloween Treats.
+
 The 100 original layouts and 79 preserved numbered editions remain available as noindex pages so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 500 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 1000 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -877,5 +1577,105 @@ All 500 current puzzles have dedicated editorial content. Continue reviewing clu
 | voices-in-company | 56 | 56 | 5 | 0 |
 | american-style-memories | 54 | 54 | 5 | 0 |
 | music-behind-the-scenes | 56 | 56 | 5 | 0 |
+| garden-harvest-baskets | 59 | 59 | 5 | 0 |
+| garden-small-spaces | 57 | 57 | 5 | 0 |
+| garden-evening-chores | 55 | 55 | 5 | 0 |
+| garden-friendly-flowers | 55 | 55 | 5 | 0 |
+| garden-cutting-table | 56 | 56 | 5 | 0 |
+| garden-from-the-beginning | 59 | 59 | 5 | 0 |
+| garden-welcoming-corners | 56 | 56 | 5 | 0 |
+| garden-keeping-tools | 56 | 56 | 5 | 0 |
+| garden-fruit-trees | 55 | 55 | 5 | 0 |
+| garden-flower-seasons | 56 | 56 | 5 | 0 |
+| animals-on-the-farm | 56 | 56 | 5 | 0 |
+| small-wild-visitors | 53 | 53 | 5 | 0 |
+| birds-to-recognize | 55 | 55 | 5 | 0 |
+| beside-the-water | 54 | 54 | 5 | 0 |
+| looking-at-the-shore | 56 | 56 | 5 | 0 |
+| trees-and-their-fruit | 56 | 56 | 5 | 0 |
+| quiet-outdoor-moments | 57 | 57 | 5 | 0 |
+| night-outdoors | 55 | 55 | 5 | 0 |
+| breakfast-from-the-stove | 56 | 56 | 5 | 0 |
+| bowls-of-soup | 58 | 58 | 5 | 0 |
+| sandwich-counter | 56 | 56 | 5 | 0 |
+| supper-in-the-oven | 55 | 55 | 5 | 0 |
+| supper-on-the-stove | 55 | 55 | 5 | 0 |
+| salads-to-share | 55 | 55 | 5 | 0 |
+| vegetable-side-dishes | 54 | 54 | 5 | 0 |
+| dessert-bowls | 56 | 56 | 5 | 0 |
+| cookie-tins | 56 | 56 | 5 | 0 |
+| pies-and-tarts | 57 | 57 | 5 | 0 |
+| baking-small-batches | 55 | 55 | 5 | 0 |
+| kitchen-preparation | 54 | 54 | 5 | 0 |
+| drinks-to-serve | 55 | 55 | 5 | 0 |
+| food-shops | 58 | 58 | 5 | 0 |
+| snacks-for-a-table | 55 | 55 | 5 | 0 |
+| keeping-food-fresh | 56 | 56 | 5 | 0 |
+| errands-on-main-street | 56 | 56 | 5 | 0 |
+| neighborhood-businesses | 56 | 56 | 5 | 0 |
+| around-the-town-square | 55 | 55 | 5 | 0 |
+| visits-and-gatherings | 52 | 52 | 5 | 0 |
+| household-paperwork | 58 | 58 | 5 | 0 |
+| fresh-laundry | 58 | 58 | 5 | 0 |
+| home-cleaning-corners | 56 | 56 | 5 | 0 |
+| useful-home-repairs | 57 | 57 | 5 | 0 |
+| at-the-writing-desk | 56 | 56 | 5 | 0 |
+| through-the-front-door | 57 | 57 | 5 | 0 |
+| restful-household-routines | 56 | 56 | 5 | 0 |
+| on-the-local-road | 56 | 56 | 5 | 0 |
+| community-volunteers | 57 | 57 | 5 | 0 |
+| keeping-in-touch | 56 | 56 | 5 | 0 |
+| shopping-basket | 58 | 58 | 5 | 0 |
+| small-town-outings | 57 | 57 | 5 | 0 |
+| home-storage-spaces | 56 | 56 | 5 | 0 |
+| the-family-car | 58 | 58 | 5 | 0 |
+| everyday-timekeepers | 57 | 57 | 5 | 0 |
+| porch-and-patio | 56 | 56 | 5 | 0 |
+| needle-and-thread-projects | 57 | 57 | 5 | 0 |
+| yarn-for-useful-things | 56 | 56 | 5 | 0 |
+| paper-for-keepsakes | 57 | 57 | 5 | 0 |
+| painting-home-projects | 54 | 54 | 5 | 0 |
+| beads-and-ribbons | 56 | 56 | 5 | 0 |
+| easy-woodwork-projects | 54 | 54 | 5 | 0 |
+| quiet-table-hobbies | 54 | 54 | 5 | 0 |
+| outdoor-hobby-bags | 56 | 56 | 5 | 0 |
+| collecting-family-stories | 58 | 58 | 5 | 0 |
+| flower-and-fabric-crafts | 57 | 57 | 5 | 0 |
+| memories-of-schooldays | 59 | 59 | 5 | 0 |
+| memories-of-main-street | 57 | 57 | 5 | 0 |
+| songs-with-everyday-words | 57 | 57 | 5 | 0 |
+| classic-movie-settings | 56 | 56 | 5 | 0 |
+| memories-of-home-entertainment | 57 | 57 | 5 | 0 |
+| remembering-simple-play | 57 | 57 | 5 | 0 |
+| bible-beginnings | 59 | 59 | 5 | 0 |
+| bible-family-journeys | 57 | 57 | 5 | 0 |
+| bible-moses-and-the-journey | 57 | 57 | 5 | 0 |
+| bible-familiar-people | 55 | 55 | 5 | 0 |
+| bible-courage-and-care | 58 | 58 | 5 | 0 |
+| bible-christmas-and-childhood | 57 | 57 | 5 | 0 |
+| bible-by-the-lake | 57 | 57 | 5 | 0 |
+| bible-seeds-and-finding | 57 | 57 | 5 | 0 |
+| bible-stories-jesus-told | 55 | 55 | 5 | 0 |
+| bible-meals-and-celebration | 56 | 56 | 5 | 0 |
+| spring-first-outings | 55 | 55 | 5 | 0 |
+| spring-at-the-market | 56 | 56 | 5 | 0 |
+| spring-house-and-yard | 57 | 57 | 5 | 0 |
+| spring-garden-wildlife | 57 | 57 | 5 | 0 |
+| summer-neighborhood-days | 56 | 56 | 5 | 0 |
+| summer-away-from-home | 56 | 56 | 5 | 0 |
+| summer-tastes-and-traditions | 55 | 55 | 5 | 0 |
+| autumn-outings | 56 | 56 | 5 | 0 |
+| autumn-home-projects | 55 | 55 | 5 | 0 |
+| autumn-kitchen-and-pantry | 57 | 57 | 5 | 0 |
+| winter-indoor-afternoons | 56 | 56 | 5 | 0 |
+| winter-in-the-neighborhood | 56 | 56 | 5 | 0 |
+| winter-light-and-ice | 57 | 57 | 5 | 0 |
+| christmas-sharing-projects | 57 | 57 | 5 | 0 |
+| christmas-little-traditions | 55 | 55 | 5 | 0 |
+| christmas-preparing-the-room | 56 | 56 | 5 | 0 |
+| easter-spring-color | 55 | 55 | 5 | 0 |
+| easter-at-home | 58 | 58 | 5 | 0 |
+| thanksgiving-small-moments | 53 | 53 | 5 | 0 |
+| halloween-porch-scenes | 56 | 56 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

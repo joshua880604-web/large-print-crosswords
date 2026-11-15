@@ -1,6 +1,6 @@
 # Audience and content standard
 
-Updated November 14, 2026 from the user's explicit direction: prioritize easy, older-reader-friendly, large-print, printable, themed puzzles, rather than catalog size. The current 500 is a published inventory, not evidence that 500 puzzles meet this standard.
+Updated November 15, 2026 from the user's explicit direction: prioritize easy, older-reader-friendly, large-print, printable, themed puzzles, rather than catalog size. The current 1,000 is a published inventory, not evidence that every puzzle meets this standard.
 
 ## What a useful puzzle offers
 
@@ -22,7 +22,7 @@ Detailed introductions, unique clue wording, exact-pair uniqueness and valid gri
 | Everyday wellbeing | Rest, walking, daily routines and ordinary food vocabulary | Treatment instructions, diagnostic puzzles, memory-benefit claims |
 | Bible | Optional, clearly identified basic stories and familiar names | Denominational tests, obscure chapter/verse recall, assumed beliefs |
 
-The existing Christmas Nativity scene is not a full Bible collection. There is no dedicated everyday-wellbeing collection yet. Do not create empty landing pages or rename unrelated games to imply coverage. Older adults are a varied audience; interest in one period, religion or activity is not universal.
+The November 15 expansion adds a clearly optional 50-scene Bible collection with passage references and ordinary-life scenes. There is no medical or cognitive-health collection. Do not create empty landing pages or rename unrelated games to imply coverage. Older adults are a varied audience; interest in one period, religion or activity is not universal.
 
 ## Match search intent with the real experience
 

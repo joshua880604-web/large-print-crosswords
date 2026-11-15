@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Collection from '../components/Collection.astro';
+import TopicLinks from '../components/TopicLinks.astro';
+import {topics,topicPuzzles} from '../data/topics';
+export function getStaticPaths(){return topics.map(topic=>({params:{topic:topic.slug},props:{topic}}));}
+const {topic}=Astro.props;
+const items=topicPuzzles(topic);
+const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:topic.name,path:`/${topic.slug}/`}];
+---
+<Layout title={`${topic.name} Crosswords — Play and Print in Large Type`} description={topic.description} breadcrumbs={breadcrumbs} active="puzzles">
+<div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">{topic.name}</span></nav>
+<header class="page-heading"><p class="eyebrow">CHOOSE AN INTEREST · YOUR OWN PACE</p><h1>{topic.name} crossword puzzles.</h1><p>{topic.description}</p><p>{items.length} games to choose from. Play online with optional hints and browser saving, or print puzzles and separate answers.</p></header>
+<p class="notice">Default print sheets use 18pt clues on two US Letter pages. The compact 13pt layout uses one page. <a href={`/print-pack/?theme=${encodeURIComponent(topic.printTheme)}`}>Choose a group of puzzles to print together →</a></p>
+<Collection items={items}/>
+<section class="prose section"><h2>Choose a scene that feels familiar</h2><p>{topic.guide}</p>{topic.slug==='easter-crosswords'&&<p><a href="/bible-crosswords/">Explore the optional Bible story collection.</a></p>}<h2>Paper or screen</h2><p>Sound begins off, and there is no required account or timer. Each game saves progress in this browser when storage is available. On paper, use the separate answer sheet when you want to check your work.</p><p>The group-print page lets you choose up to ten games and puts their answers after the puzzles. Use US Letter, portrait, 100% scale, and turn off browser headers and footers. Your browser's Print / Save as PDF dialog creates the file.</p></section>
+<TopicLinks/></div>
+</Layout>

@@ -11,13 +11,16 @@ const corrections=JSON.parse(readFileSync(new URL('../src/data/archive-clue-clar
 const base=new URL(process.argv[2]||'http://127.0.0.1:4323');
 assert.ok(['127.0.0.1','localhost','[::1]'].includes(base.hostname),'Use a local production preview');
 const output=resolve(process.argv[3]||'/tmp/lpc-playthrough-audit.json');mkdirSync(dirname(output),{recursive:true});
+const newOnly=process.argv.includes('--new-only');
+const baselineIds=newOnly?new Set(Object.keys(JSON.parse(readFileSync(new URL('../docs/research/expansion-1000/preservation-baseline.json',import.meta.url),'utf8')).puzzles)):null;
+const selectedPuzzles=newOnly?puzzles.filter(p=>!baselineIds.has(p.id)):puzzles;
 const cases=[
- ...puzzles.map(puzzle=>({puzzle,archive:false,kind:'current',path:`/crosswords/${puzzle.id}/`})),
- ...originals.map(puzzle=>({puzzle,archive:true,kind:'original',path:`/crosswords/${puzzle.id}/previous/`})),
- ...previousEditions.map(puzzle=>({puzzle,archive:true,kind:'revised',path:`/crosswords/${puzzle.id}/editions/${puzzle.revision}/`}))
+ ...selectedPuzzles.map(puzzle=>({puzzle,archive:false,kind:'current',path:`/crosswords/${puzzle.id}/`})),
+ ...(newOnly?[]:originals).map(puzzle=>({puzzle,archive:true,kind:'original',path:`/crosswords/${puzzle.id}/previous/`})),
+ ...(newOnly?[]:previousEditions).map(puzzle=>({puzzle,archive:true,kind:'revised',path:`/crosswords/${puzzle.id}/editions/${puzzle.revision}/`}))
 ];
 const results=[];let cursor=0;
-const report=()=>writeFileSync(output,JSON.stringify({expected:cases.length,checked:results.length,complete:results.filter(r=>!r.error).length,failures:results.filter(r=>r.error),results:[...results].sort((a,b)=>a.index-b.index)},null,2)+'\n');
+const report=()=>writeFileSync(output,JSON.stringify({scope:newOnly?'new-current':'all-current-and-archived',expected:cases.length,checked:results.length,complete:results.filter(r=>!r.error).length,failures:results.filter(r=>r.error),results:[...results].sort((a,b)=>a.index-b.index)},null,2)+'\n');
 // A display may sort clues; physical positions and their labels must stay equal.
 const placement=entries=>entries.map(({answer,number,row,col,direction})=>({answer,number,row,col,direction})).sort((a,b)=>a.number-b.number||a.direction.localeCompare(b.direction));
 const browser=await chromium.launch({executablePath:process.env.LPC_CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});
@@ -37,7 +40,13 @@ async function worker(){
      const clue=correction?correction.clue:entry.clue;
      const button=page.locator(`[data-entry="${entry.number}-${entry.direction}"]`);
      assert.ok((await button.innerText()).includes(clue),`${path}: rendered clue differs`);
-     await button.click();await page.locator(`[data-cell="${entry.row},${entry.col}"] input`).focus();
+     await button.click();
+     // Clue selection intentionally focuses the first empty square, which may
+     // follow a filled crossing. Start at the first square to type the full
+     // answer as before, while avoiding an unrelated smooth page scroll.
+     const focused=await page.evaluate(()=>({row:document.activeElement?.dataset?.row,col:document.activeElement?.dataset?.col}));
+     assert.ok(Array.from({length:entry.answer.length},(_,i)=>({row:String(entry.row+(entry.direction==='down'?i:0)),col:String(entry.col+(entry.direction==='across'?i:0))})).some(p=>p.row===focused.row&&p.col===focused.col),`${path}: clue did not focus its word`);
+     await page.locator(`[data-cell="${entry.row},${entry.col}"] input`).evaluate(el=>el.focus({preventScroll:true}));
      await page.keyboard.type(entry.answer);
     }
     assert.equal(await page.locator('.game-complete').isVisible(),true,`${path}: no completion`);

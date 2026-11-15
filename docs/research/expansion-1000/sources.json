@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-15",
+  "available_in_this_task": [
+    {"type": "user_handover", "filename": "已粘贴的文本.txt", "scope": "Allocation, source-completeness statement, and summaries of all twelve Google search samples"},
+    {"type": "repository_research", "paths": ["docs/expansion-500-research.md", "docs/expansion-400-research.md", "docs/expansion-200-research.md", "docs/audience-content-standard.md", "docs/context-review-2026-11-14.md"]}
+  ],
+  "not_present_in_current_snapshot": [
+    "The original 40 Semrush attachments",
+    "The 13 new XLSX attachments reported to contain 9814 keyword rows",
+    "The twelve original Google screenshots",
+    "The previous expansion-1000 source exports and keyword rows",
+    "The previous preliminary Bible authoring drafts and temporary 180-scene list"
+  ],
+  "user_reported_completeness": {
+    "additional_keywords_with_report_data": 30,
+    "additional_keywords_reported_without_data": 65,
+    "magic_roots_with_reports": 11,
+    "magic_roots_reported_without_data": 4,
+    "new_serp_or_competitor_exports": false,
+    "google_intent_samples": 12
+  },
+  "limits": [
+    "The source row counts and search summaries above are reported in the handover, not independently re-parsed from original attachments in this task.",
+    "Missing search metrics are unknown, never zero; related keyword volumes are not summed.",
+    "Google screenshots are English desktop intent samples, with U.S. location and fixed rankings unverified.",
+    "The allocation is an editorial choice, not a forecast of traffic or independently measured demand for each scene.",
+    "No repeat queries or screenshots are required to complete authoring. Original files may be reattached without collecting them again."
+  ]
+}

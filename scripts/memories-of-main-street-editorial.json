@@ -1,0 +1,407 @@
+[
+  {
+    "id": "memories-of-main-street",
+    "title": "A Nickelodeon Ticket Window",
+    "subtheme": "A Nickelodeon Ticket Window",
+    "description": "A small coin buys admission to an early movie setting.",
+    "cardDescription": "A small coin buys admission to an early movie setting.",
+    "focus": "The setting is a Nickelodeon Ticket Window. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "NICKEL",
+        "U.S. five-cent coin"
+      ],
+      [
+        "TICKET",
+        "Printed proof of admission"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "FILM",
+        "Motion picture shown on a screen"
+      ],
+      [
+        "SCREEN",
+        "Mesh that keeps insects out"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument used to accompany silent films"
+      ],
+      [
+        "SILENT",
+        "Describing a film made without synchronized spoken dialogue"
+      ],
+      [
+        "PICTURE",
+        "Image made with a camera or pencil"
+      ],
+      [
+        "SHOW",
+        "Performance for an audience"
+      ],
+      [
+        "LOBBY",
+        "Entrance area outside a concert auditorium"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "REEL",
+        "Spool storing film or fishing line"
+      ],
+      [
+        "CURTAIN",
+        "Fabric panel hung at a window"
+      ]
+    ],
+    "requiredAnswers": [
+      "NICKEL",
+      "TICKET"
+    ],
+    "answerNotes": {
+      "NICKEL": "A U.S. nickel is worth five cents. The name does not mean the entire coin is made of pure nickel.",
+      "TICKET": "A ticket can give admission or identify an item left for a service. A theater ticket and a dry-cleaning claim ticket serve different uses.",
+      "WINDOW": "A window admits light through glass. A screen is a mesh barrier that can keep insects out when the glass is open.",
+      "FILM": "Film can mean the strip used to record pictures or the finished movie. A projector moves the strip to display successive images.",
+      "SCREEN": "Screen can mean a display surface or a mesh barrier. The phone and movie scenes use the display meaning; a porch door uses the mesh meaning.",
+      "PIANO": "A piano sounds when keys cause hammers to strike strings. In silent-film theaters, a live pianist sometimes supplied the accompaniment.",
+      "COIN": "A coin is a metal piece of money. The value depends on the currency and period; Bible stories do not use modern U.S. coins.",
+      "REEL": "A reel stores a long flexible strip or line. A fishing reel takes up line, while a film reel holds a strip of images."
+    }
+  },
+  {
+    "id": "memories-of-main-street-2",
+    "title": "An Old-Fashioned Candy Counter",
+    "subtheme": "An Old-Fashioned Candy Counter",
+    "description": "Glass jars hold loose sweets at an old-fashioned shop counter.",
+    "cardDescription": "Glass jars hold loose sweets at an old-fashioned shop counter.",
+    "focus": "The setting is an Old-Fashioned Candy Counter. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CANDY",
+        "Sweet sugar-based treat"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "PENNY",
+        "Common name for a U.S. one-cent coin"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "LICORICE",
+        "Chewy candy often colored black or red"
+      ],
+      [
+        "MINT",
+        "Cool-flavored herb used in tea"
+      ],
+      [
+        "CHOCOLATE",
+        "Brown sweet made from cocoa beans"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "SCOOP",
+        "Rounded serving of ice cream"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "STRIPE",
+        "Long band of color"
+      ],
+      [
+        "DROP",
+        "Small hard piece of candy"
+      ],
+      [
+        "TREAT",
+        "Small enjoyable gift of food"
+      ]
+    ],
+    "requiredAnswers": [
+      "CANDY",
+      "JAR"
+    ],
+    "answerNotes": {
+      "JAR": "A jar has a wide opening that makes spooning and filling easier. A bottle usually has a narrower neck.",
+      "SWEET": "Sweet describes flavor, not temperature or texture. A food can be sweet and cold, or sweet and warm.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "GLASS": "Glass is usually transparent but can also be colored. A glass is a drinking vessel, while glass without an article can name the material."
+    }
+  },
+  {
+    "id": "memories-of-main-street-3",
+    "title": "A Telephone Booth on the Corner",
+    "subtheme": "A Telephone Booth on the Corner",
+    "description": "A public telephone waits inside a small glass-sided booth.",
+    "cardDescription": "A public telephone waits inside a small glass-sided booth.",
+    "focus": "The setting is a Telephone Booth on the Corner. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "BOOTH",
+        "Small enclosed space containing a public telephone"
+      ],
+      [
+        "PHONE",
+        "Everyday short name for a telephone"
+      ],
+      [
+        "COIN",
+        "Money piece such as a nickel"
+      ],
+      [
+        "DIAL",
+        "Numbered face of a clock"
+      ],
+      [
+        "RECEIVER",
+        "Telephone term traditionally used for the part held to the ear"
+      ],
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "GLASS",
+        "Clear material used for windows"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "CALL",
+        "Say a name to get attention"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "NICKEL",
+        "Coin worth half a dime"
+      ],
+      [
+        "DIME",
+        "U.S. coin representing ten cents"
+      ],
+      [
+        "OPERATOR",
+        "Person who once helped connect telephone calls"
+      ],
+      [
+        "RING",
+        "Give a clear bell-like sound"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOOTH",
+      "PHONE"
+    ],
+    "answerNotes": {
+      "PHONE": "Phone is the everyday short form of telephone. Older sets had dials and receivers; newer ones can also show video.",
+      "COIN": "A coin is a metal piece of money. The value depends on the currency and period; Bible stories do not use modern U.S. coins.",
+      "DIAL": "A dial can show numbers on a clock, telephone, or radio. Its marks identify times, phone choices, or station frequencies according to the object.",
+      "RECEIVER": "An older telephone receiver combined the parts for hearing and speaking. Returning it to its cradle ended the call.",
+      "CORD": "A cord can carry electricity or connect equipment. In an older telephone, the coiled cord let the handset move away from the base.",
+      "GLASS": "Glass is usually transparent but can also be colored. A glass is a drinking vessel, while glass without an article can name the material.",
+      "DOOR": "A door is the movable panel at an entrance. Hinges let it swing, while a latch or lock holds it closed.",
+      "CALL": "Call can mean telephone contact or saying a name aloud. Both uses involve trying to get someone's attention.",
+      "NUMBER": "A number can count an amount or identify something. A telephone number identifies a connection rather than measuring its size.",
+      "NICKEL": "A U.S. nickel is worth five cents. The name does not mean the entire coin is made of pure nickel.",
+      "DIME": "A U.S. dime is worth ten cents. Two nickels have the same value, although they are different coins."
+    }
+  },
+  {
+    "id": "memories-of-main-street-4",
+    "title": "A Paper Route Before Breakfast",
+    "subtheme": "A Paper Route Before Breakfast",
+    "description": "A rider carries folded morning news to neighborhood doors.",
+    "cardDescription": "A rider carries folded morning news to neighborhood doors.",
+    "focus": "The setting is a Paper Route Before Breakfast. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "NEWSPAPER",
+        "Printed daily or weekly news publication"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "BIKE",
+        "Short everyday name for a bicycle"
+      ],
+      [
+        "BAG",
+        "Flexible sack with an opening at the top"
+      ],
+      [
+        "PORCH",
+        "Covered area at a house entrance"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "DOOR",
+        "Hinged entrance to a house"
+      ],
+      [
+        "DAWN",
+        "Early light before sunrise"
+      ],
+      [
+        "DELIVER",
+        "Bring something to its intended address"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "HEADLINE",
+        "Prominent title above a newspaper story"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ]
+    ],
+    "requiredAnswers": [
+      "NEWSPAPER",
+      "ROUTE"
+    ],
+    "answerNotes": {
+      "ROUTE": "A route is a planned course. Several roads or stops can be parts of a single route.",
+      "BAG": "A bag is a flexible carrying container. A pocket is generally a smaller compartment attached to clothing or another bag.",
+      "PORCH": "A porch is an outdoor entrance area, often with a roof. A patio is usually a paved sitting area at ground level.",
+      "STEP": "Step can name an action or one level of a stairway. In a stepping-stone clue, it concerns placing a foot on the next surface.",
+      "DOOR": "A door is the movable panel at an entrance. Hinges let it swing, while a latch or lock holds it closed.",
+      "PAPER": "Paper can be folded, cut, and written on. Card stock is heavier and stiffer, making it useful for tags and greeting cards.",
+      "FOLD": "Folding brings one part of a sheet over another. A crease is the line left by pressing that fold.",
+      "STREET": "A street is a road through a built-up area. Its name and building numbers form part of a postal address.",
+      "HOME": "Home can mean a dwelling or the local side in a sporting match. Read the clue before applying the familiar household meaning."
+    }
+  },
+  {
+    "id": "memories-of-main-street-5",
+    "title": "A Barber Pole Outside the Shop",
+    "subtheme": "A Barber Pole Outside the Shop",
+    "description": "A striped shop sign marks the place for a haircut.",
+    "cardDescription": "A striped shop sign marks the place for a haircut.",
+    "focus": "The setting is a Barber Pole Outside the Shop. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "BARBER",
+        "Person whose trade includes cutting hair and shaving beards"
+      ],
+      [
+        "POLE",
+        "Long upright support"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "BLUE",
+        "Color of a clear daytime sky"
+      ],
+      [
+        "STRIPE",
+        "Line of contrasting color"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "COMB",
+        "Toothed grooming tool drawn through hair"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool for applying paint"
+      ],
+      [
+        "MIRROR",
+        "Reflective surface used to form an image"
+      ],
+      [
+        "CLIP",
+        "Small fastener that grips papers together"
+      ],
+      [
+        "HAIR",
+        "Strands growing on the head"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ],
+      [
+        "SPIN",
+        "Turn quickly around a center"
+      ]
+    ],
+    "requiredAnswers": [
+      "BARBER",
+      "POLE"
+    ],
+    "answerNotes": {
+      "POLE": "A barber pole's stripes traditionally identify the shop. The moving pattern can make the stripes appear to travel upward or downward.",
+      "WHITE": "White is a color description, not a flower or bird name. Crossings can help when a clue asks for a color rather than a species.",
+      "CHAIR": "A chair is intended for one sitter. A bench or sofa generally provides room for more than one person.",
+      "COMB": "A comb has a row of teeth used to arrange hair. A brush uses bristles rather than a single row of rigid teeth.",
+      "BRUSH": "A brush holds many bristles in one handle. Their width and stiffness affect the marks or cleaning action it makes.",
+      "MIRROR": "A mirror reflects light to form an image. Cleaning the surface removes marks; it does not change the reflected object.",
+      "SPIN": "Spin means rotate around a center. A top stays upright while turning quickly, then wobbles as it slows."
+    }
+  }
+]

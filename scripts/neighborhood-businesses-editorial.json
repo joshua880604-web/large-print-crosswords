@@ -1,0 +1,403 @@
+[
+  {
+    "id": "neighborhood-businesses",
+    "title": "A Key Cut at the Hardware Store",
+    "subtheme": "A Key Cut at the Hardware Store",
+    "description": "A hardware worker copies a house key from a blank.",
+    "cardDescription": "A hardware worker copies a house key from a blank.",
+    "focus": "The setting is a Key Cut at the Hardware Store. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "KEY",
+        "Metal piece opening a lock"
+      ],
+      [
+        "HARDWARE",
+        "Tools, fasteners, and similar store goods"
+      ],
+      [
+        "LOCK",
+        "Device secured or released with a door key"
+      ],
+      [
+        "RING",
+        "Circular band"
+      ],
+      [
+        "COPY",
+        "Make another version of a written page"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "TOOTH",
+        "One jagged edge on a key"
+      ],
+      [
+        "BLANK",
+        "Plain key piece before its teeth are cut"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "MACHINE",
+        "Device with moving parts that does work"
+      ],
+      [
+        "CLERK",
+        "Store employee helping customers"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ]
+    ],
+    "requiredAnswers": [
+      "KEY",
+      "HARDWARE"
+    ],
+    "answerNotes": {
+      "KEY": "A door key is shaped to match a particular lock. A spare is another key kept for use if the main one is unavailable.",
+      "HARDWARE": "A hardware store sells tools and practical supplies. A key blank can be cut there to match the shape of an existing key.",
+      "LOCK": "A lock restricts access until the correct key or code is used. A latch holds a door closed without necessarily locking it.",
+      "METAL": "Metal names a family of materials including iron, copper, and aluminum. The word does not identify which metal a particular tool contains.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "DOOR": "A door is the movable panel at an entrance. Hinges let it swing, while a latch or lock holds it closed."
+    }
+  },
+  {
+    "id": "neighborhood-businesses-2",
+    "title": "Choosing a Card at the Gift Shop",
+    "subtheme": "Choosing a Card at the Gift Shop",
+    "description": "Choose a printed greeting and a matching envelope for a friend.",
+    "cardDescription": "Choose a printed greeting and a matching envelope for a friend.",
+    "focus": "The setting is choosing a Card at the Gift Shop. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "GREETING",
+        "Friendly words of welcome"
+      ],
+      [
+        "ENVELOPE",
+        "Paper sleeve for a letter"
+      ],
+      [
+        "MESSAGE",
+        "Written communication"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "BIRTHDAY",
+        "Yearly celebration of the day someone was born"
+      ],
+      [
+        "THANKS",
+        "Expression of gratitude"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "STAMP",
+        "Postage label on an envelope"
+      ]
+    ],
+    "requiredAnswers": [
+      "CARD",
+      "GREETING"
+    ],
+    "answerNotes": {
+      "CARD": "Card can mean a printed greeting or a playing piece. An envelope points to a greeting; a deck or suit points to a game.",
+      "ENVELOPE": "An envelope encloses a letter. The destination goes on its front; the message stays inside.",
+      "THANKS": "Thanks expresses gratitude. The feeding story includes giving thanks before food is distributed.",
+      "PAPER": "Paper can be folded, cut, and written on. Card stock is heavier and stiffer, making it useful for tags and greeting cards.",
+      "FOLD": "Folding brings one part of a sheet over another. A crease is the line left by pressing that fold.",
+      "PEN": "A pen writes with ink. A pencil uses graphite, which can usually be removed with an eraser.",
+      "GIFT": "A gift is something given, rather than sold. A tag identifies the recipient; wrapping protects or decorates the present.",
+      "PRICE": "Price is the amount asked for an item. Change is money returned after a customer pays more than that amount.",
+      "STAMP": "Stamp can mean a postage label or a tool that leaves an ink impression. A mailed letter and a craft project use different senses."
+    }
+  },
+  {
+    "id": "neighborhood-businesses-3",
+    "title": "A Parcel at the Shipping Counter",
+    "subtheme": "A Parcel at the Shipping Counter",
+    "description": "Weigh a securely wrapped parcel and add its destination label.",
+    "cardDescription": "Weigh a securely wrapped parcel and add its destination label.",
+    "focus": "The setting is a Parcel at the Shipping Counter. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PARCEL",
+        "Wrapped package ready to give or send"
+      ],
+      [
+        "SCALE",
+        "Device used for weighing"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "ADDRESS",
+        "Location written on a mailed envelope"
+      ],
+      [
+        "WEIGH",
+        "Measure how heavy something is"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "SHIP",
+        "Send a package to another place"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "COUNTER",
+        "Flat shop surface used for transactions"
+      ],
+      [
+        "FRAGILE",
+        "Easily broken; handle with care"
+      ],
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "CARTON",
+        "Box made from stiff cardboard"
+      ]
+    ],
+    "requiredAnswers": [
+      "PARCEL",
+      "SCALE"
+    ],
+    "answerNotes": {
+      "PARCEL": "A parcel is a wrapped package prepared for delivery. Labeling and secure wrapping help keep its address and contents together.",
+      "SCALE": "A scale measures weight. Its reading is different from a price, although a shop may calculate price using that weight.",
+      "BOX": "A box is a container rather than its contents. In a hobby clue, a kit may come in a box but the two words are not interchangeable.",
+      "TAPE": "Adhesive tape fastens surfaces with a sticky strip. Magnetic recording tape is a different material sharing the same short name.",
+      "LABEL": "A label identifies an item or its contents. It can carry a name, date, size, or address depending on the scene.",
+      "ADDRESS": "An address tells where mail should go. The recipient's name identifies the person, while the street, city, and postal code locate the destination.",
+      "WRAP": "Wrap means put a covering around something. Paper is common for parcels and shop goods, while cloth can also be a wrapping material.",
+      "STRING": "String is a thin cord used for tying or flying a kite. A kite's string connects the flying frame to the person holding it.",
+      "COUNTER": "A counter is a raised work or serving surface. In a shop it separates the customer area from the worker's space.",
+      "RECEIPT": "A receipt records a completed payment. A bill asks for payment, so the two papers serve different purposes."
+    }
+  },
+  {
+    "id": "neighborhood-businesses-4",
+    "title": "A New Frame for Eyeglasses",
+    "subtheme": "A New Frame for Eyeglasses",
+    "description": "Try a frame and notice the familiar parts of eyeglasses.",
+    "cardDescription": "Try a frame and notice the familiar parts of eyeglasses.",
+    "focus": "The setting is a New Frame for Eyeglasses. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "GLASSES",
+        "Pair of lenses worn to help with seeing"
+      ],
+      [
+        "FRAME",
+        "Structure holding the two eyeglass lenses"
+      ],
+      [
+        "LENS",
+        "Curved glass that focuses light"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "BRIDGE",
+        "Part of eyeglasses resting over the nose"
+      ],
+      [
+        "ARM",
+        "Side support of eyeglasses resting over an ear"
+      ],
+      [
+        "HINGE",
+        "Small joint that lets an eyeglass arm fold"
+      ],
+      [
+        "NOSE",
+        "Face part used for smelling"
+      ],
+      [
+        "EAR",
+        "Body part used to hear"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "FIT",
+        "Match a space without gaps"
+      ],
+      [
+        "SHOP",
+        "Store where customers buy things"
+      ],
+      [
+        "MIRROR",
+        "Reflective surface used to form an image"
+      ]
+    ],
+    "requiredAnswers": [
+      "GLASSES",
+      "FRAME"
+    ],
+    "answerNotes": {
+      "FRAME": "An eyeglass frame supports both lenses. Its bridge rests over the nose, and its arms extend toward the ears.",
+      "EAR": "Ears receive sound. In an animal clue, the word usually asks for a body part rather than a call or other sound.",
+      "CLOTH": "Cloth means fabric. A cloth used for wiping is an object made from that material, not a different substance.",
+      "MIRROR": "A mirror reflects light to form an image. Cleaning the surface removes marks; it does not change the reflected object."
+    }
+  },
+  {
+    "id": "neighborhood-businesses-5",
+    "title": "Choosing Paint at the Hardware Counter",
+    "subtheme": "Choosing Paint at the Hardware Counter",
+    "description": "Compare color samples before choosing a can of paint.",
+    "cardDescription": "Compare color samples before choosing a can of paint.",
+    "focus": "The setting is choosing Paint at the Hardware Counter. Match each clue to a thing, action, or description in that scene.",
+    "solvingTip": "Begin with a short answer you recognize. Use its crossing letters to work toward the longer scene words.",
+    "words": [
+      [
+        "PAINT",
+        "Colored coating spread with a brush"
+      ],
+      [
+        "SWATCH",
+        "Small sample of a fabric or paint color"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool for applying paint"
+      ],
+      [
+        "ROLLER",
+        "Cylindrical tool that spreads paint as it turns"
+      ],
+      [
+        "SAMPLE",
+        "Small portion offered to try before buying"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "STIR",
+        "Move a spoon around in a mixture"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "GLOSS",
+        "High-shine appearance of a finished surface"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ]
+    ],
+    "requiredAnswers": [
+      "PAINT",
+      "SWATCH"
+    ],
+    "answerNotes": {
+      "PAINT": "Paint leaves a colored coating on a surface. A stain usually allows more of wood's natural grain to remain visible.",
+      "COLOR": "Color names such as red, blue, and yellow describe appearance. They can help with a flower scene without requiring botanical vocabulary.",
+      "BRUSH": "A brush holds many bristles in one handle. Their width and stiffness affect the marks or cleaning action it makes.",
+      "LID": "A lid is a removable cover. On a cooking pot it helps contain heat and steam; on a jar it closes the opening.",
+      "STIR": "Stir means move a utensil through a mixture. It combines ingredients without necessarily beating in much air.",
+      "WHITE": "White is a color description, not a flower or bird name. Crossings can help when a clue asks for a color rather than a species.",
+      "SHADE": "Shade blocks direct sunlight. A shaded garden corner still receives some light; it is different from a completely dark room."
+    }
+  }
+]
