@@ -17,6 +17,7 @@ const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Christmas</span></nav>
 <header class="page-heading"><p class="eyebrow">FAMILIAR TRADITIONS · YOUR OWN PACE</p><h1>Christmas crossword puzzles in large print.</h1><p>Choose from {christmasPuzzles.length} original themed mini crosswords for adults who enjoy clear clues and larger letters. Play online with hints, or print a puzzle and its separate answer sheet. No account or timer is required.</p></header>
 <p class="notice">Print pages start with 18pt clues and a larger grid on two US Letter pages. A compact 13pt single-page option is also available.</p>
+<p class="topic-print-pack"><a class="button" href="/print-pack/?collection=christmas">Choose Christmas puzzles for a print pack</a></p>
 <Collection items={christmasPuzzles}/>
 <div class="prose"><h2>Choose a Christmas scene</h2><p>These small crosswords explore different parts of the season, from a tree and a sweet counter to a music gathering and miniature decorations. The clues use direct American English definitions. A few plant, music, or craft terms may be less familiar; crossing letters and optional hints are there to help.</p>
 {groups.map(group=><section><h3>{group.title}</h3><p>{group.description}</p><ul>{group.ids.map(id=>{const puzzle=christmasPuzzles.find(p=>p.id===id)!;return <li><a href={`/crosswords/${id}/`}>{puzzle.title}</a> · <a href={`/print/${id}/`} aria-label={`Print ${puzzle.title}`}>Print</a></li>;})}</ul></section>)}
@@ -24,3 +25,7 @@ const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'
 <h2>A little help with the clues</h2><p>Try a familiar object first and let its letters help with a longer word. Each game has a specific solving tip and three optional answer explanations. Keep the explanations closed until you want a closer look, or use Reveal letter for one crossing.</p><p>Christmas customs differ between families and communities. These puzzles offer selected scenes to enjoy, including the Christian Advent calendar alongside decorations and everyday seasonal objects.</p></div>
 <div class="section"><TopicLinks/></div></div>
 </Layout>
+
+<style>
+.topic-print-pack{margin:20px 0 28px}
+</style>

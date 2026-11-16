@@ -39,7 +39,12 @@ test('collections keep every puzzle crawlable without scripts and load compact p
    await page.goto(path,{waitUntil:'domcontentloaded'});
    await expect(page.locator('a.puzzle-card')).toHaveCount(puzzles.length);
    const links=await page.locator('a.puzzle-card').evaluateAll(anchors=>anchors.map(a=>a.getAttribute('href')));
-   expect(links.sort()).toEqual(puzzles.map(p=>`/crosswords/${p.id}/`).sort());
+   expect(links.sort()).toEqual(puzzles.map(p=>`${path==='/printable/'?'/print/':'/crosswords/'}${p.id}/`).sort());
+   if(path==='/printable/'){
+    const online=await page.locator('.print-card-links a[href^="/crosswords/"]').evaluateAll(anchors=>anchors.map(a=>a.getAttribute('href')));
+    expect(online.sort()).toEqual(puzzles.map(p=>`/crosswords/${p.id}/`).sort());
+    await expect(page.locator('.print-card-links a[href$="-answers/"]')).toHaveCount(puzzles.length);
+   }
    await expect(page.locator('.puzzle-card .mini-cell')).toHaveCount(0);
    await expect(page.locator('.puzzle-card img[loading="lazy"][alt=""]')).toHaveCount(puzzles.length);
   }
@@ -51,7 +56,7 @@ test('collections keep every puzzle crawlable without scripts and load compact p
   expect(svg).toContain(`viewBox="0 0 ${puzzle.cols*24} ${puzzle.rows*24}"`);
   const starts=new Set(puzzle.entries.map(e=>e.number));
   expect([...svg.matchAll(/<text\b[^>]*>(\d+)<\/text>/g)].map(m=>Number(m[1])).sort((a,b)=>a-b)).toEqual([...starts].sort((a,b)=>a-b));
-  const image=page.locator(`.puzzle-card[href="/crosswords/${puzzle.id}/"] img`);
+  const image=page.locator(`.puzzle-card[href="/print/${puzzle.id}/"] img`);
   await image.scrollIntoViewIfNeeded();
   await expect(image).toHaveJSProperty('complete',true);
   expect(await image.evaluate(el=>(el as HTMLImageElement).naturalWidth)).toBe(puzzle.cols*24);

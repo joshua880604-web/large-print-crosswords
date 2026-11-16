@@ -15,8 +15,13 @@ const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Winter</span></nav>
 <header class="page-heading"><p class="eyebrow">WINTER SCENES · YOUR OWN PACE</p><h1>Winter crossword puzzles in large print.</h1><p>Explore {winterPuzzles.length} original mini crosswords about familiar comforts, winter nature, weather, and snowy pastimes. Choose a scene, play with hints, or print a puzzle and its separate answers. No account or timer is required.</p></header>
 <p class="notice">Print with 18pt clues and a larger board on two US Letter pages, or choose the compact 13pt single-page layout.</p>
+<p class="topic-print-pack"><a class="button" href="/print-pack/?collection=winter">Choose winter puzzles for a print pack</a></p>
 <Collection items={winterPuzzles}/>
 <div class="prose"><h2>Find a winter scene you enjoy</h2>{groups.map(group=><section><h3>{group.title}</h3><p>{group.text}</p><ul>{group.ids.map(id=>{const p=winterPuzzles.find(p=>p.id===id)!;return <li><a href={`/crosswords/${id}/`}>{p.title}</a> · <a href={`/print/${id}/`} aria-label={`Print ${p.title}`}>Print</a></li>;})}</ul></section>)}
 <h2>From a familiar word to a new one</h2><p>Begin with an object such as a scarf, seed, ski, or cloud. A few longer nature and weather terms have direct definitions and optional explanations. Each game also supplies a specific solving tip, and Reveal letter can help with a crossing.</p><h2>A larger printout for a quiet afternoon</h2><p>The default 18pt layout separates the larger grid and the clues onto two pages. A compact 13pt version keeps them on one page. Choose the matching answer sheet when you want to check your work. Use US Letter, portrait, and 100% scale in the browser's Print or Save as PDF dialog, with browser headers and footers off.</p><p>Copies are free for personal use and noncommercial group activities.</p></div>
 <div class="section"><TopicLinks/></div></div>
 </Layout>
+
+<style>
+.topic-print-pack{margin:20px 0 28px}
+</style>
