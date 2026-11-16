@@ -1,0 +1,387 @@
+[
+  {
+    "id": "community-notices",
+    "title": "Signing Up for a Library Class",
+    "subtheme": "Signing Up for a Library Class",
+    "description": "Write a name on the list for a free class at the local library.",
+    "cardDescription": "Write a name on the list for a free class at the local library.",
+    "focus": "Write a name on the list for a free class at the local library.",
+    "solvingTip": "Start with this clue: \u201cGroup learning together.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CLASS",
+        "Group learning together"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "SIGN",
+        "Write a name to reserve a class place"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "LIBRARY",
+        "Place where books are kept for reading or borrowing"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "FREE",
+        "Available without payment"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "LEARN",
+        "Gain new knowledge or a skill"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "JOIN",
+        "Connect things together"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLASS",
+      "LIST",
+      "SIGN"
+    ],
+    "answerNotes": {
+      "CLASS": "A class brings learners together for a shared lesson.",
+      "LIST": "The list records the people planning to attend.",
+      "SIGN": "Here sign means write a name, not a roadside board."
+    }
+  },
+  {
+    "id": "community-notices-2",
+    "title": "A Table for Voter Registration",
+    "subtheme": "A Table for Voter Registration",
+    "description": "Fill out the registration form at a community information table.",
+    "cardDescription": "Fill out the registration form at a community information table.",
+    "focus": "Fill out the registration form at a community information table.",
+    "solvingTip": "Start with this clue: \u201cPerson who casts a ballot in an election.\u201d Its answer begins with V. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "VOTER",
+        "Person who casts a ballot in an election"
+      ],
+      [
+        "REGISTER",
+        "Put a name on the voter list"
+      ],
+      [
+        "FORM",
+        "Paper with spaces for a name and other details"
+      ],
+      [
+        "NAME",
+        "Person's identification written on the form"
+      ],
+      [
+        "ADDRESS",
+        "Location written on a mailed envelope"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "SIGN",
+        "Write a signature at the bottom of a form"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "CITIZEN",
+        "Member of a country with legal rights and duties"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "HELP",
+        "Give useful assistance with the form"
+      ]
+    ],
+    "requiredAnswers": [
+      "VOTER",
+      "REGISTER",
+      "FORM"
+    ],
+    "answerNotes": {
+      "VOTER": "A voter is a person who can cast a ballot.",
+      "REGISTER": "Register means add a person's details to the official list.",
+      "FORM": "The form has spaces for the information needed by the office."
+    }
+  },
+  {
+    "id": "community-notices-3",
+    "title": "Returning a Borrowed Folding Chair",
+    "subtheme": "Returning a Borrowed Folding Chair",
+    "description": "Bring a neighbor's extra chair back after a family gathering.",
+    "cardDescription": "Bring a neighbor's extra chair back after a family gathering.",
+    "focus": "Bring a neighbor's extra chair back after a family gathering.",
+    "solvingTip": "Start with this clue: \u201cTo take a library book for temporary use and return it later.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BORROW",
+        "To take a library book for temporary use and return it later"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "SEAT",
+        "Part of the chair on which a person sits"
+      ],
+      [
+        "NEIGHBOR",
+        "Person living nearby"
+      ],
+      [
+        "THANKS",
+        "Expression of gratitude"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ],
+      [
+        "BACK",
+        "Side opposite the front"
+      ],
+      [
+        "LEG",
+        "Limb used for walking"
+      ],
+      [
+        "PORCH",
+        "Covered area at a house entrance"
+      ],
+      [
+        "VISIT",
+        "Spend time at someone's home"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ]
+    ],
+    "requiredAnswers": [
+      "BORROW",
+      "RETURN",
+      "CHAIR"
+    ],
+    "answerNotes": {
+      "BORROW": "Borrow means use something temporarily with permission.",
+      "RETURN": "Returning brings the borrowed item back to its owner.",
+      "CHAIR": "The chair folds for easier carrying and storage."
+    }
+  },
+  {
+    "id": "community-notices-4",
+    "title": "Choosing a Volunteer Shift",
+    "subtheme": "Choosing a Volunteer Shift",
+    "description": "Read the schedule and choose a morning to help at a local event.",
+    "cardDescription": "Read the schedule and choose a morning to help at a local event.",
+    "focus": "Read the schedule and choose a morning to help at a local event.",
+    "solvingTip": "Start with this clue: \u201cScheduled period of volunteer work.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SHIFT",
+        "Scheduled period of volunteer work"
+      ],
+      [
+        "SCHEDULE",
+        "List of planned events and their times"
+      ],
+      [
+        "HELP",
+        "Lend a hand with the event"
+      ],
+      [
+        "MORNING",
+        "Time before noon"
+      ],
+      [
+        "DATE",
+        "Calendar day chosen for helping"
+      ],
+      [
+        "NAME",
+        "Word written to reserve a volunteer time"
+      ],
+      [
+        "LIST",
+        "Written series of volunteer tasks"
+      ],
+      [
+        "HOUR",
+        "Sixty minutes"
+      ],
+      [
+        "SIGN",
+        "Add a signature to the volunteer sheet"
+      ],
+      [
+        "TEAM",
+        "Group working together"
+      ],
+      [
+        "TABLE",
+        "Furniture holding the sign-up sheet"
+      ],
+      [
+        "TASK",
+        "One job to be done"
+      ],
+      [
+        "START",
+        "Begin"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHIFT",
+      "SCHEDULE",
+      "HELP"
+    ],
+    "answerNotes": {
+      "SHIFT": "A shift is a scheduled period of work or help.",
+      "SCHEDULE": "The schedule shows which times still need volunteers.",
+      "HELP": "Help means useful assistance with the event's tasks."
+    }
+  },
+  {
+    "id": "community-notices-5",
+    "title": "Signing Out a Community Tool",
+    "subtheme": "Signing Out a Community Tool",
+    "description": "Borrow a shared tool and write down when it will be returned.",
+    "cardDescription": "Borrow a shared tool and write down when it will be returned.",
+    "focus": "Borrow a shared tool and write down when it will be returned.",
+    "solvingTip": "Start with this clue: \u201cImplement used to do a task.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TOOL",
+        "Implement used to do a task"
+      ],
+      [
+        "BORROW",
+        "Take a shared tool for temporary use"
+      ],
+      [
+        "RETURN",
+        "Bring a shared tool back to the shed"
+      ],
+      [
+        "SHARED",
+        "Used together by more than one person"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "SHOVEL",
+        "Broad-bladed tool for moving soil or snow"
+      ],
+      [
+        "RAKE",
+        "Long-handled tool with teeth for gathering leaves"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "SHED",
+        "Small building for storing garden tools"
+      ],
+      [
+        "SIGN",
+        "Write a name beside the borrowed tool"
+      ],
+      [
+        "CHECK",
+        "Look over a borrowed tool's condition"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOOL",
+      "BORROW",
+      "RETURN"
+    ],
+    "answerNotes": {
+      "TOOL": "A tool is an object used to do a particular job.",
+      "BORROW": "Borrowing is temporary use, with the owner's permission.",
+      "RETURN": "The return date tells the next borrower when to expect the tool back."
+    }
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "garden-sharing",
+    "title": "A Neighborhood Seed Swap",
+    "subtheme": "A Neighborhood Seed Swap",
+    "description": "Compare seed packets with a neighbor and choose a few vegetables for next year's beds.",
+    "cardDescription": "Compare seed packets with a neighbor and choose a few vegetables for next year's beds.",
+    "focus": "Compare seed packets with a neighbor and choose a few vegetables for next year's beds.",
+    "solvingTip": "Start with this clue: \u201cExchange one thing for another.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SWAP",
+        "Exchange one thing for another"
+      ],
+      [
+        "PACKET",
+        "Small paper envelope in which seeds are often sold"
+      ],
+      [
+        "BEAN",
+        "Kidney or pinto, for example"
+      ],
+      [
+        "SEED",
+        "Plant part from which a new plant grows"
+      ],
+      [
+        "TRADE",
+        "Exchange things with another person"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "PEPPER",
+        "Bell-shaped garden vegetable"
+      ],
+      [
+        "TOMATO",
+        "Red vine-grown salad fruit"
+      ],
+      [
+        "GROW",
+        "Become bigger"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ]
+    ],
+    "requiredAnswers": [
+      "SWAP",
+      "PACKET",
+      "BEAN"
+    ],
+    "answerNotes": {
+      "SWAP": "A swap exchanges something you have for something another gardener can share.",
+      "PACKET": "The packet identifies the seeds inside and often gives sowing information.",
+      "BEAN": "A bean is both an edible seed and the plant grown from it."
+    }
+  },
+  {
+    "id": "garden-sharing-2",
+    "title": "A Garden Vacation Helper",
+    "subtheme": "A Garden Vacation Helper",
+    "description": "Leave a simple watering note so a friend can look after the pots while you are away.",
+    "cardDescription": "Leave a simple watering note so a friend can look after the pots while you are away.",
+    "focus": "Leave a simple watering note so a friend can look after the pots while you are away.",
+    "solvingTip": "Start with this clue: \u201cShort written message.\u201d Its answer begins with N. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "POT",
+        "Container used for growing a plant"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "DAY",
+        "Twenty-four-hour period"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "CAN",
+        "Container with a spout used for watering"
+      ],
+      [
+        "VISIT",
+        "Spend time at someone's home"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "CHECK",
+        "Look over to make sure something is right"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ]
+    ],
+    "requiredAnswers": [
+      "NOTE",
+      "WATER",
+      "FRIEND"
+    ],
+    "answerNotes": {
+      "NOTE": "A written note can identify which pots a visitor should check.",
+      "WATER": "Watering needs can differ between pots, so this scene leaves instructions for each one.",
+      "FRIEND": "The friend is helping with the plants while their owner is away."
+    }
+  },
+  {
+    "id": "garden-sharing-3",
+    "title": "Giving Away Extra Summer Squash",
+    "subtheme": "Giving Away Extra Summer Squash",
+    "description": "Set surplus squash in a box with a free sign for neighbors to take home.",
+    "cardDescription": "Set surplus squash in a box with a free sign for neighbors to take home.",
+    "focus": "Set surplus squash in a box with a free sign for neighbors to take home.",
+    "solvingTip": "Start with this clue: \u201cZucchini and butternut are types of this vegetable.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SQUASH",
+        "Zucchini and butternut are types of this vegetable"
+      ],
+      [
+        "FREE",
+        "Available without payment"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ],
+      [
+        "PORCH",
+        "Covered area at a house entrance"
+      ],
+      [
+        "RIPE",
+        "Ready to eat, as fruit"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "TAKE",
+        "Carry something away with you"
+      ],
+      [
+        "NEIGHBOR",
+        "Person living nearby"
+      ],
+      [
+        "BAG",
+        "Sack for carrying home a few vegetables"
+      ],
+      [
+        "EXTRA",
+        "More than the usual amount"
+      ],
+      [
+        "CROP",
+        "Plants grown for food, considered collectively"
+      ]
+    ],
+    "requiredAnswers": [
+      "SQUASH",
+      "FREE",
+      "BOX"
+    ],
+    "answerNotes": {
+      "SQUASH": "Summer squash includes zucchini and the familiar yellow varieties.",
+      "FREE": "The free sign tells neighbors they do not need to pay.",
+      "BOX": "The box holds the extra vegetables together for visitors to choose."
+    }
+  },
+  {
+    "id": "garden-sharing-4",
+    "title": "An Open Garden Afternoon",
+    "subtheme": "An Open Garden Afternoon",
+    "description": "Welcome visitors along the paths and point out favorite plants without leaving the garden gate.",
+    "cardDescription": "Welcome visitors along the paths and point out favorite plants without leaving the garden gate.",
+    "focus": "Welcome visitors along the paths and point out favorite plants without leaving the garden gate.",
+    "solvingTip": "Start with this clue: \u201cPerson who comes to see someone or somewhere.\u201d Its answer begins with V. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "VISITOR",
+        "Person who comes to see someone or somewhere"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "MAP",
+        "Drawing showing roads and places"
+      ],
+      [
+        "GATE",
+        "Movable entrance in a fence"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "GUIDE",
+        "Person who shows visitors around the garden"
+      ],
+      [
+        "SIGN",
+        "Board pointing visitors toward the garden entrance"
+      ],
+      [
+        "FLOWER",
+        "Bloom with petals"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "TOUR",
+        "Guided walk around a garden"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "TREE",
+        "Tall plant with a woody trunk"
+      ],
+      [
+        "BED",
+        "Area of soil planted with flowers or vegetables"
+      ]
+    ],
+    "requiredAnswers": [
+      "VISITOR",
+      "PATH",
+      "MAP"
+    ],
+    "answerNotes": {
+      "VISITOR": "Visitors come to look around a garden opened for the afternoon.",
+      "PATH": "A path gives visitors a route between the planted beds.",
+      "MAP": "A simple map can show the entrance, paths, and stopping places."
+    }
+  },
+  {
+    "id": "garden-sharing-5",
+    "title": "A Plant Cutting Rooting in Water",
+    "subtheme": "A Plant Cutting Rooting in Water",
+    "description": "Watch for little roots on a stem cutting placed in a clear jar.",
+    "cardDescription": "Watch for little roots on a stem cutting placed in a clear jar.",
+    "focus": "Watch for little roots on a stem cutting placed in a clear jar.",
+    "solvingTip": "Start with this clue: \u201cPiece of plant stem used to grow a new plant.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CUTTING",
+        "Piece of plant stem used to grow a new plant"
+      ],
+      [
+        "ROOT",
+        "New plant part growing from the stem into water"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "WATER",
+        "Liquid in the clear rooting jar"
+      ],
+      [
+        "LEAF",
+        "Flat plant part still attached to the cutting"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "GROW",
+        "Develop into a larger plant"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "FRESH",
+        "Recently made or picked"
+      ],
+      [
+        "PLANT",
+        "Living greenery grown in soil"
+      ],
+      [
+        "TRIM",
+        "To cut away unwanted ends or edges"
+      ],
+      [
+        "NEW",
+        "Not there before"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ]
+    ],
+    "requiredAnswers": [
+      "CUTTING",
+      "ROOT",
+      "JAR"
+    ],
+    "answerNotes": {
+      "CUTTING": "A cutting is a piece taken from a plant to start another.",
+      "ROOT": "New roots may grow from a suitable cutting placed in water.",
+      "JAR": "A clear jar makes it easier to see the new growth below the waterline."
+    }
+  }
+]

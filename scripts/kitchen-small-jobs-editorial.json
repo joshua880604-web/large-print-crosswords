@@ -1,0 +1,387 @@
+[
+  {
+    "id": "kitchen-small-jobs",
+    "title": "Shelling Peas at the Kitchen Table",
+    "subtheme": "Shelling Peas at the Kitchen Table",
+    "description": "Open a green pod and roll the round peas into a waiting bowl.",
+    "cardDescription": "Open a green pod and roll the round peas into a waiting bowl.",
+    "focus": "Open a green pod and roll the round peas into a waiting bowl.",
+    "solvingTip": "Start with this clue: \u201cSmall round green vegetable found in a pod.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "PEA",
+        "Small round green vegetable found in a pod"
+      ],
+      [
+        "POD",
+        "Long green case holding the peas"
+      ],
+      [
+        "SHELL",
+        "Remove peas from their pods"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "SPLIT",
+        "Divide into two parts"
+      ],
+      [
+        "THUMB",
+        "Short thick digit at the side of a hand"
+      ],
+      [
+        "FINGER",
+        "One of the five digits on a hand"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "FRESH",
+        "Recently made or picked"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "ROLL",
+        "Move a round pea along the table"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEA",
+      "POD",
+      "SHELL"
+    ],
+    "answerNotes": {
+      "PEA": "The pea is the round seed taken from inside the pod.",
+      "POD": "The pod is the long green case around the peas.",
+      "SHELL": "Here shell is an action: removing the seeds from their covering."
+    }
+  },
+  {
+    "id": "kitchen-small-jobs-2",
+    "title": "Snapping the Ends from Green Beans",
+    "subtheme": "Snapping the Ends from Green Beans",
+    "description": "Prepare a bowl of fresh beans by removing their stem ends.",
+    "cardDescription": "Prepare a bowl of fresh beans by removing their stem ends.",
+    "focus": "Prepare a bowl of fresh beans by removing their stem ends.",
+    "solvingTip": "Start with this clue: \u201cKidney or pinto, for example.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BEAN",
+        "Kidney or pinto, for example"
+      ],
+      [
+        "SNAP",
+        "Break a bean end off with the fingers"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "GREEN",
+        "Color of the fresh pods"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "FRESH",
+        "Recently picked rather than dried"
+      ],
+      [
+        "BREAK",
+        "Separate into pieces"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "RINSE",
+        "Wash with clean water"
+      ],
+      [
+        "SINK",
+        "Basin for washing dishes"
+      ],
+      [
+        "PILE",
+        "Heap of things together"
+      ],
+      [
+        "VEGETABLE",
+        "Carrot or cabbage, for example"
+      ]
+    ],
+    "requiredAnswers": [
+      "BEAN",
+      "SNAP",
+      "END"
+    ],
+    "answerNotes": {
+      "BEAN": "The bean is a fresh green pod prepared before cooking.",
+      "SNAP": "Snap describes breaking the small end away with the fingers.",
+      "END": "The end is the tip being removed, not a separate ingredient."
+    }
+  },
+  {
+    "id": "kitchen-small-jobs-3",
+    "title": "Separating an Egg for Baking",
+    "subtheme": "Separating an Egg for Baking",
+    "description": "Keep the yolk and white in separate bowls for a baking project.",
+    "cardDescription": "Keep the yolk and white in separate bowls for a baking project.",
+    "focus": "Keep the yolk and white in separate bowls for a baking project.",
+    "solvingTip": "Start with this clue: \u201cKeep two things apart.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SEPARATE",
+        "Keep two things apart"
+      ],
+      [
+        "YOLK",
+        "Yellow or orange central part of an egg"
+      ],
+      [
+        "WHITE",
+        "Clear part of a raw egg surrounding the yolk"
+      ],
+      [
+        "EGG",
+        "Oval food with a shell, white, and yolk"
+      ],
+      [
+        "SHELL",
+        "Hard outer covering"
+      ],
+      [
+        "BOWL",
+        "Dish that keeps the yolk apart from the white"
+      ],
+      [
+        "CRACK",
+        "Break open a hard shell"
+      ],
+      [
+        "BAKING",
+        "Cooking food in an oven"
+      ],
+      [
+        "MIX",
+        "Stir ingredients together"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "CAREFUL",
+        "Taking care to avoid a mistake"
+      ],
+      [
+        "SPLIT",
+        "Divide into two parts"
+      ],
+      [
+        "ROUND",
+        "Circular in shape, like the yolk"
+      ]
+    ],
+    "requiredAnswers": [
+      "SEPARATE",
+      "YOLK",
+      "WHITE"
+    ],
+    "answerNotes": {
+      "SEPARATE": "Separating keeps the two parts in different bowls.",
+      "YOLK": "The yolk is the yellow center of the egg.",
+      "WHITE": "The white is clear before cooking, despite its familiar name."
+    }
+  },
+  {
+    "id": "kitchen-small-jobs-4",
+    "title": "Mashing Bananas with a Fork",
+    "subtheme": "Mashing Bananas with a Fork",
+    "description": "Turn soft ripe bananas into a mixture ready for a loaf of bread.",
+    "cardDescription": "Turn soft ripe bananas into a mixture ready for a loaf of bread.",
+    "focus": "Turn soft ripe bananas into a mixture ready for a loaf of bread.",
+    "solvingTip": "Start with this clue: \u201cLong curved fruit often peeled from a yellow skin.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BANANA",
+        "Long curved fruit often peeled from a yellow skin"
+      ],
+      [
+        "MASH",
+        "Crush soft food with a fork"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "RIPE",
+        "Ready to eat, as fruit"
+      ],
+      [
+        "BOWL",
+        "Dish in which the ripe fruit is crushed"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "PEEL",
+        "Remove the outer skin of fruit"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "MIX",
+        "Blend the mashed fruit with other ingredients"
+      ],
+      [
+        "YELLOW",
+        "Color of a ripe lemon"
+      ],
+      [
+        "SPOT",
+        "Small mark or patch of color"
+      ],
+      [
+        "LOAF",
+        "Whole shaped portion of baked bread"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ]
+    ],
+    "requiredAnswers": [
+      "BANANA",
+      "MASH",
+      "FORK"
+    ],
+    "answerNotes": {
+      "BANANA": "The banana is peeled before it goes into the bowl.",
+      "MASH": "Mashing crushes the soft fruit into a mixture.",
+      "FORK": "The fork's prongs press the fruit against the bowl."
+    }
+  },
+  {
+    "id": "kitchen-small-jobs-5",
+    "title": "Lining a Baking Pan with Paper",
+    "subtheme": "Lining a Baking Pan with Paper",
+    "description": "Fit a sheet of baking paper inside a pan before adding the mixture.",
+    "cardDescription": "Fit a sheet of baking paper inside a pan before adding the mixture.",
+    "focus": "Fit a sheet of baking paper inside a pan before adding the mixture.",
+    "solvingTip": "Start with this clue: \u201cMaterial used for writing or wrapping.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "LINE",
+        "Cover the inside of the pan"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "BAKING",
+        "Cooking food in an oven"
+      ],
+      [
+        "SHEET",
+        "Large flat piece of paper"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of something"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "LIFT",
+        "Raise something upward"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ]
+    ],
+    "requiredAnswers": [
+      "PAPER",
+      "PAN",
+      "LINE"
+    ],
+    "answerNotes": {
+      "PAPER": "The paper forms a layer between the mixture and the pan.",
+      "PAN": "The pan holds the mixture while it bakes.",
+      "LINE": "Here line means cover the inside, rather than draw a mark."
+    }
+  }
+]

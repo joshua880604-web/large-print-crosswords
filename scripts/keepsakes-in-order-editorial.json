@@ -1,0 +1,387 @@
+[
+  {
+    "id": "keepsakes-in-order",
+    "title": "A Postmark on an Old Envelope",
+    "subtheme": "A Postmark on an Old Envelope",
+    "description": "Read the town and date stamped beside the postage on an old letter.",
+    "cardDescription": "Read the town and date stamped beside the postage on an old letter.",
+    "focus": "Read the town and date stamped beside the postage on an old letter.",
+    "solvingTip": "Start with this clue: \u201cPostal mark showing where or when an item entered the mail.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "POSTMARK",
+        "Postal mark showing where or when an item entered the mail"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "TOWN",
+        "Community smaller than a city"
+      ],
+      [
+        "ENVELOPE",
+        "Paper sleeve for a letter"
+      ],
+      [
+        "STAMP",
+        "Postage label on an envelope"
+      ],
+      [
+        "LETTER",
+        "One character in a word"
+      ],
+      [
+        "INK",
+        "Colored liquid used by a pen"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "CIRCLE",
+        "Round shape with no corners"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ]
+    ],
+    "requiredAnswers": [
+      "POSTMARK",
+      "DATE",
+      "TOWN"
+    ],
+    "answerNotes": {
+      "POSTMARK": "A postmark records a place or date used in processing the mail.",
+      "DATE": "The date helps place the old letter in time.",
+      "TOWN": "The town name identifies where the postal marking was made."
+    }
+  },
+  {
+    "id": "keepsakes-in-order-2",
+    "title": "A Ticket Saved from a Concert",
+    "subtheme": "A Ticket Saved from a Concert",
+    "description": "Place an old ticket with the concert program in a keepsake album.",
+    "cardDescription": "Place an old ticket with the concert program in a keepsake album.",
+    "focus": "Place an old ticket with the concert program in a keepsake album.",
+    "solvingTip": "Start with this clue: \u201cPrinted proof of admission.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TICKET",
+        "Printed proof of admission"
+      ],
+      [
+        "CONCERT",
+        "Live performance of music for an audience"
+      ],
+      [
+        "PROGRAM",
+        "Printed guide to a performance or event"
+      ],
+      [
+        "DATE",
+        "Calendar day printed on the concert ticket"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "ALBUM",
+        "Book used to hold a set of photographs"
+      ],
+      [
+        "MUSIC",
+        "Organized sounds with rhythm and melody"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "STUB",
+        "Portion of a paper admission ticket kept after entry"
+      ],
+      [
+        "MEMORY",
+        "Something remembered from the past"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ],
+      [
+        "KEEP",
+        "Hold onto rather than discard"
+      ]
+    ],
+    "requiredAnswers": [
+      "TICKET",
+      "CONCERT",
+      "PROGRAM"
+    ],
+    "answerNotes": {
+      "TICKET": "The ticket records admission to the performance.",
+      "CONCERT": "The concert is the event remembered by the keepsake.",
+      "PROGRAM": "The program lists details of the performers or music."
+    }
+  },
+  {
+    "id": "keepsakes-in-order-3",
+    "title": "Sorting Recipe Clippings by Course",
+    "subtheme": "Sorting Recipe Clippings by Course",
+    "description": "Arrange saved recipes under breakfast, supper, and dessert headings.",
+    "cardDescription": "Arrange saved recipes under breakfast, supper, and dessert headings.",
+    "focus": "Arrange saved recipes under breakfast, supper, and dessert headings.",
+    "solvingTip": "Start with this clue: \u201cPiece cut from a newspaper or magazine.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CLIPPING",
+        "Piece cut from a newspaper or magazine"
+      ],
+      [
+        "RECIPE",
+        "Written ingredients and directions for making a dish"
+      ],
+      [
+        "COURSE",
+        "One part of a meal, such as dessert"
+      ],
+      [
+        "FILE",
+        "Keep papers in an organized folder"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "DESSERT",
+        "Sweet course after dinner"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "SUPPER",
+        "Evening meal"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "SORT",
+        "Arrange recipes by the kind of dish"
+      ],
+      [
+        "FOLDER",
+        "Folded cover used to keep papers together"
+      ],
+      [
+        "TAB",
+        "Small folder label used to mark a category"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ],
+      [
+        "KEEP",
+        "Hold onto rather than discard"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLIPPING",
+      "RECIPE",
+      "COURSE"
+    ],
+    "answerNotes": {
+      "CLIPPING": "A clipping is a piece cut from a printed publication.",
+      "RECIPE": "The recipe gives instructions for preparing a dish.",
+      "COURSE": "A course is one part of a meal, such as dessert."
+    }
+  },
+  {
+    "id": "keepsakes-in-order-4",
+    "title": "A Souvenir Spoon in a Display Rack",
+    "subtheme": "A Souvenir Spoon in a Display Rack",
+    "description": "Read a place name on a small spoon collected on a trip.",
+    "cardDescription": "Read a place name on a small spoon collected on a trip.",
+    "focus": "Read a place name on a small spoon collected on a trip.",
+    "solvingTip": "Start with this clue: \u201cObject kept as a reminder of a place visited.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SOUVENIR",
+        "Object kept as a reminder of a place visited"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "SILVER",
+        "Shiny gray precious metal"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "TOWN",
+        "Community smaller than a city"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "DISPLAY",
+        "An arrangement of objects put out for people to see"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "SHINE",
+        "Give off or reflect bright light"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "KEEP",
+        "Save as a reminder of a trip"
+      ]
+    ],
+    "requiredAnswers": [
+      "SOUVENIR",
+      "SPOON",
+      "RACK"
+    ],
+    "answerNotes": {
+      "SOUVENIR": "A souvenir is kept to remember a place or visit.",
+      "SPOON": "The spoon has a small bowl at one end and a handle at the other.",
+      "RACK": "The rack holds the collection where its place names can be seen."
+    }
+  },
+  {
+    "id": "keepsakes-in-order-5",
+    "title": "A Thimble among the Sewing Keepsakes",
+    "subtheme": "A Thimble among the Sewing Keepsakes",
+    "description": "Look at the little finger cover in a collection of sewing objects.",
+    "cardDescription": "Look at the little finger cover in a collection of sewing objects.",
+    "focus": "Look at the little finger cover in a collection of sewing objects.",
+    "solvingTip": "Start with this clue: \u201cSmall finger cover that helps push a sewing needle.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "THIMBLE",
+        "Small finger cover that helps push a sewing needle"
+      ],
+      [
+        "FINGER",
+        "One of the five digits on a hand"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "NEEDLE",
+        "Slim sewing tool with an eye for thread"
+      ],
+      [
+        "SEW",
+        "Join fabric with needle and thread"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing"
+      ],
+      [
+        "TIN",
+        "Metal container with a lid"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "TOP",
+        "Closed end of a thimble"
+      ],
+      [
+        "PUSH",
+        "Move something away using force"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "SILVER",
+        "Shiny gray precious metal used for some keepsakes"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ]
+    ],
+    "requiredAnswers": [
+      "THIMBLE",
+      "FINGER",
+      "METAL"
+    ],
+    "answerNotes": {
+      "THIMBLE": "A thimble covers a finger while pushing a needle.",
+      "FINGER": "The finger fits inside the small rounded cover.",
+      "METAL": "Metal is a common material for the sturdy little sewing tool."
+    }
+  }
+]

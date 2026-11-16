@@ -11,7 +11,8 @@ import fitz
 
 directory=Path(sys.argv[1] if len(sys.argv)>1 else '/tmp/lpc-expansion-print')
 export=json.loads((directory/'exports.json').read_text())
-assert export['checked']==export['expected']==2000 and not export['failures']
+expected_count=int(sys.argv[2]) if len(sys.argv)>2 else 2000
+assert expected_count>0 and export['checked']==export['expected']==expected_count and not export['failures']
 def normalize(text):
     # Chromium may break after a visible hyphen. PDF extraction inserts a newline
     # there; join that line without changing any printed letters or punctuation.
@@ -24,8 +25,8 @@ for case in export['results']:
         assert len(doc)==case['pages'],f'{len(doc)} pages, expected {case["pages"]}'
         text=normalize(' '.join(page.get_text() for page in doc))
         assert normalize(case['title']) in text,'Missing title'
-        for expected in case['expectedText']:
-            assert normalize(expected) in text,f'Missing text: {expected}'
+        for expected_text in case['expectedText']:
+            assert normalize(expected_text) in text,f'Missing text: {expected_text}'
         spans=[]
         for page in doc:
             assert abs(page.rect.width-612)<1 and abs(page.rect.height-792)<1,'Not US Letter'
@@ -43,7 +44,7 @@ for case in export['results']:
         assert any(abs(span['size']-case['font'])<.15 for span in spans),'Wrong clue/answer font size'
     except Exception as error:
         failures.append({'file':case['file'],'error':str(error)})
-report={'expected':2000,'checked':len(export['results']),'passed':2000-len(failures),'failures':failures,'limits':'Chromium PDF rendering; not a physical-printer or reader study.'}
+report={'expected':expected_count,'checked':len(export['results']),'passed':expected_count-len(failures),'failures':failures,'limits':'Chromium PDF rendering; not a physical-printer or reader study.'}
 (directory/'validation.json').write_text(json.dumps(report,indent=2)+'\n')
 print(json.dumps({k:v for k,v in report.items() if k!='failures'}))
 for failure in failures[:20]:print(failure)

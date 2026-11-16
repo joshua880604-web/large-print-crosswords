@@ -1,0 +1,387 @@
+[
+  {
+    "id": "thanksgiving-table-help",
+    "title": "A Serving Spoon for Each Side Dish",
+    "subtheme": "A Serving Spoon for Each Side Dish",
+    "description": "Match a spoon or fork with each bowl before the holiday meal.",
+    "cardDescription": "Match a spoon or fork with each bowl before the holiday meal.",
+    "focus": "Match a spoon or fork with each bowl before the holiday meal.",
+    "solvingTip": "Start with this clue: \u201cWord before spoon for a utensil used to pass food.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SERVING",
+        "Word before spoon for a utensil used to pass food"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "MEAL",
+        "Food eaten together at a customary time"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "GRAVY",
+        "Savory sauce often served with roast meat and potatoes"
+      ],
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "VEGETABLE",
+        "Carrot or cabbage, for example"
+      ],
+      [
+        "PASS",
+        "Hand a dish to the next person"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "HELP",
+        "To give useful assistance"
+      ]
+    ],
+    "requiredAnswers": [
+      "SERVING",
+      "SPOON",
+      "DISH"
+    ],
+    "answerNotes": {
+      "SERVING": "Serving describes the spoon's job of moving food to a plate.",
+      "SPOON": "The spoon is the utensil with a bowl-shaped end.",
+      "DISH": "The dish is the container holding one part of the meal."
+    }
+  },
+  {
+    "id": "thanksgiving-table-help-2",
+    "title": "A Thanksgiving Guest Book",
+    "subtheme": "A Thanksgiving Guest Book",
+    "description": "Invite family and friends to write a greeting beside their names.",
+    "cardDescription": "Invite family and friends to write a greeting beside their names.",
+    "focus": "Invite family and friends to write a greeting beside their names.",
+    "solvingTip": "Start with this clue: \u201cPerson invited to a home or event.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GUEST",
+        "Person invited to a home or event"
+      ],
+      [
+        "BOOK",
+        "Bound pages inside a cover"
+      ],
+      [
+        "GREETING",
+        "Friendly words of welcome"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "FAMILY",
+        "Group of related people"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "THANKS",
+        "Expression of gratitude"
+      ],
+      [
+        "VISIT",
+        "Spend time at someone's home"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "TABLE",
+        "Furniture on which the guest book is placed"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "MEMORY",
+        "Something remembered from the past"
+      ]
+    ],
+    "requiredAnswers": [
+      "GUEST",
+      "BOOK",
+      "GREETING"
+    ],
+    "answerNotes": {
+      "GUEST": "A guest is one of the people welcomed to the gathering.",
+      "BOOK": "The book provides pages for visitors' names and messages.",
+      "GREETING": "The greeting is a few friendly words beside the signature."
+    }
+  },
+  {
+    "id": "thanksgiving-table-help-3",
+    "title": "A Separate Dish for Cranberry Sauce",
+    "subtheme": "A Separate Dish for Cranberry Sauce",
+    "description": "Set the red sauce in a small bowl beside the turkey platter.",
+    "cardDescription": "Set the red sauce in a small bowl beside the turkey platter.",
+    "focus": "Set the red sauce in a small bowl beside the turkey platter.",
+    "solvingTip": "Start with this clue: \u201cLiquid or creamy topping for food.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SAUCE",
+        "Liquid or creamy topping for food"
+      ],
+      [
+        "CRANBERRY",
+        "Tart red fruit made into a familiar Thanksgiving sauce"
+      ],
+      [
+        "DISH",
+        "Small serving container for cranberry sauce"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "TURKEY",
+        "Large bird with a fan-shaped tail"
+      ],
+      [
+        "TABLE",
+        "Dining surface where the sauce is set"
+      ],
+      [
+        "SPOON",
+        "Utensil used to pass the red sauce"
+      ],
+      [
+        "TART",
+        "Sharp and sour in taste"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "PLATTER",
+        "Large plate for serving food"
+      ],
+      [
+        "SERVE",
+        "To offer prepared food to someone"
+      ],
+      [
+        "MEAL",
+        "Thanksgiving food eaten together"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ]
+    ],
+    "requiredAnswers": [
+      "SAUCE",
+      "CRANBERRY",
+      "DISH"
+    ],
+    "answerNotes": {
+      "SAUCE": "The sauce is the red accompaniment to the turkey.",
+      "CRANBERRY": "Cranberry is the tart fruit from which it is made.",
+      "DISH": "The dish keeps the sauce separate from the other foods."
+    }
+  },
+  {
+    "id": "thanksgiving-table-help-4",
+    "title": "Dividing the Last Thanksgiving Roll",
+    "subtheme": "Dividing the Last Thanksgiving Roll",
+    "description": "Cut the final bread roll in half so two people can share it.",
+    "cardDescription": "Cut the final bread roll in half so two people can share it.",
+    "focus": "Cut the final bread roll in half so two people can share it.",
+    "solvingTip": "Start with this clue: \u201cSmall bread served with dinner.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ],
+      [
+        "HALF",
+        "One of two equal parts of a measured amount"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "TABLE",
+        "Eating surface shared by the guests"
+      ],
+      [
+        "TWO",
+        "Number of wheels on a bicycle"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "LAST",
+        "Coming after all others"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROLL",
+      "HALF",
+      "SHARE"
+    ],
+    "answerNotes": {
+      "ROLL": "The roll is a small individual bread from the basket.",
+      "HALF": "Half is one of two equal portions after cutting.",
+      "SHARE": "Sharing gives each of two people a portion of the last roll."
+    }
+  },
+  {
+    "id": "thanksgiving-table-help-5",
+    "title": "Washing the Roasting Pan after Thanksgiving",
+    "subtheme": "Washing the Roasting Pan after Thanksgiving",
+    "description": "Soak the roasting pan and clear the kitchen after the meal.",
+    "cardDescription": "Soak the roasting pan and clear the kitchen after the meal.",
+    "focus": "Soak the roasting pan and clear the kitchen after the meal.",
+    "solvingTip": "Start with this clue: \u201cShallow metal cooking vessel.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "SOAK",
+        "Leave a pan in water to loosen stuck food"
+      ],
+      [
+        "ROAST",
+        "Cook with dry heat in an oven"
+      ],
+      [
+        "SINK",
+        "Basin for washing dishes"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "SCRUB",
+        "Rub firmly to clean"
+      ],
+      [
+        "SPONGE",
+        "Porous absorbent object used for wiping"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "TURKEY",
+        "Holiday bird cooked in the roasting pan"
+      ],
+      [
+        "KITCHEN",
+        "Room where meals are prepared"
+      ],
+      [
+        "MEAL",
+        "Dinner that has finished before cleanup"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "DISH",
+        "Food container washed after the meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "PAN",
+      "SOAK",
+      "ROAST"
+    ],
+    "answerNotes": {
+      "PAN": "The pan held the roast while it cooked.",
+      "SOAK": "Soaking leaves it in water to loosen stuck food.",
+      "ROAST": "Roast names food cooked with dry oven heat here."
+    }
+  }
+]

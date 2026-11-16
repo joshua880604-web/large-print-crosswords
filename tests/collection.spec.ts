@@ -53,7 +53,7 @@ test('topic pages restore their own valid filters and reject unavailable themes'
  expect(new URL(page.url()).searchParams.has('theme')).toBeFalsy();
  await page.getByRole('button',{name:'Clear filters'}).click();
  await expect(page.locator('[data-title]:visible')).toHaveCount(12);
- await expect(page.locator('.result-count')).toHaveText('Showing 12 of 85 puzzles');
+ await expect(page.locator('.result-count')).toHaveText('Showing 12 of 95 puzzles');
  await page.goto('/');
  await expect(page.getByRole('link',{name:'Music crosswords',exact:true})).toHaveAttribute('href','/music-crosswords/');
  await expect(page.getByRole('link',{name:'Sports crosswords',exact:true})).toHaveAttribute('href','/sports-crosswords/');

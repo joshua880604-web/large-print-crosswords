@@ -1,0 +1,387 @@
+[
+  {
+    "id": "simple-suppers",
+    "title": "A Tuna Noodle Casserole",
+    "subtheme": "A Tuna Noodle Casserole",
+    "description": "Mix familiar pantry tuna with noodles and bake a warm supper dish.",
+    "cardDescription": "Mix familiar pantry tuna with noodles and bake a warm supper dish.",
+    "focus": "Mix familiar pantry tuna with noodles and bake a warm supper dish.",
+    "solvingTip": "Start with this clue: \u201cFish often mixed with mayonnaise for sandwiches.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TUNA",
+        "Fish often mixed with mayonnaise for sandwiches"
+      ],
+      [
+        "NOODLE",
+        "Strip or strand of dough cooked as food"
+      ],
+      [
+        "CASSEROLE",
+        "Baked mixed dish also named for its cooking vessel"
+      ],
+      [
+        "PEA",
+        "Small round green vegetable found in a pod"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "CRUMB",
+        "Tiny piece broken from bread"
+      ],
+      [
+        "TOP",
+        "Upper layer of the baked dish"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "DINNER",
+        "Main meal of the day"
+      ],
+      [
+        "MIX",
+        "Stir ingredients together"
+      ]
+    ],
+    "requiredAnswers": [
+      "TUNA",
+      "NOODLE",
+      "CASSEROLE"
+    ],
+    "answerNotes": {
+      "TUNA": "Tuna is the familiar canned fish in this supper.",
+      "NOODLE": "A noodle is a strip or strand of dough cooked before assembling the dish.",
+      "CASSEROLE": "Casserole names both a baked mixed dish and the vessel that holds it."
+    }
+  },
+  {
+    "id": "simple-suppers-2",
+    "title": "Beef Stew with Tender Carrots",
+    "subtheme": "Beef Stew with Tender Carrots",
+    "description": "Look into a pot of beef stew with carrots, potatoes, and a rich broth.",
+    "cardDescription": "Look into a pot of beef stew with carrots, potatoes, and a rich broth.",
+    "focus": "Look into a pot of beef stew with carrots, potatoes, and a rich broth.",
+    "solvingTip": "Start with this clue: \u201cMeat from cattle.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BEEF",
+        "Meat from cattle"
+      ],
+      [
+        "STEW",
+        "Thick dish of ingredients cooked together in liquid"
+      ],
+      [
+        "CARROT",
+        "Orange root vegetable"
+      ],
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "BROTH",
+        "Savory liquid made by simmering ingredients in water"
+      ],
+      [
+        "POT",
+        "Deep pan in which the stew simmers"
+      ],
+      [
+        "LADLE",
+        "Deep spoon for serving soup"
+      ],
+      [
+        "MEAT",
+        "Animal flesh used as food"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "SIMMER",
+        "Cook gently just below boiling"
+      ],
+      [
+        "CUBE",
+        "Small square-shaped piece of meat"
+      ],
+      [
+        "DINNER",
+        "Evening meal served from the stew pot"
+      ],
+      [
+        "THICK",
+        "Having a dense consistency, as a concentrated soup"
+      ]
+    ],
+    "requiredAnswers": [
+      "BEEF",
+      "STEW",
+      "CARROT"
+    ],
+    "answerNotes": {
+      "BEEF": "Beef is meat from cattle, cut into pieces for the pot.",
+      "STEW": "A stew is thicker and chunkier than many soups.",
+      "CARROT": "Carrots provide the familiar orange vegetable pieces in the dish."
+    }
+  },
+  {
+    "id": "simple-suppers-3",
+    "title": "Fish Sticks beside a Lemon Wedge",
+    "subtheme": "Fish Sticks beside a Lemon Wedge",
+    "description": "Serve crisp breaded fish with a slice of lemon on the side.",
+    "cardDescription": "Serve crisp breaded fish with a slice of lemon on the side.",
+    "focus": "Serve crisp breaded fish with a slice of lemon on the side.",
+    "solvingTip": "Start with this clue: \u201cWater animal with fins and gills.\u201d Its answer begins with F. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "FISH",
+        "Water animal with fins and gills"
+      ],
+      [
+        "LEMON",
+        "Yellow citrus fruit with sour juice"
+      ],
+      [
+        "WEDGE",
+        "Piece of fruit cut wider at one edge"
+      ],
+      [
+        "CRUMB",
+        "Small bread piece forming the crisp coating"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "OVEN",
+        "Kitchen appliance used to bake the breaded fish"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "STICK",
+        "Small thin piece of wood"
+      ],
+      [
+        "GOLDEN",
+        "Rich yellow in color"
+      ],
+      [
+        "DINNER",
+        "Main meal with breaded fish here"
+      ],
+      [
+        "COAT",
+        "Cover the fish with crumbs"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ]
+    ],
+    "requiredAnswers": [
+      "FISH",
+      "LEMON",
+      "WEDGE"
+    ],
+    "answerNotes": {
+      "FISH": "The fish is covered with a crisp breaded coating.",
+      "LEMON": "The lemon supplies a sharp citrus flavor beside the fish.",
+      "WEDGE": "A wedge is a slice wider at one edge than at the other."
+    }
+  },
+  {
+    "id": "simple-suppers-4",
+    "title": "A Ham Steak in the Skillet",
+    "subtheme": "A Ham Steak in the Skillet",
+    "description": "Warm a thick slice of ham and serve it with pineapple.",
+    "cardDescription": "Warm a thick slice of ham and serve it with pineapple.",
+    "focus": "Warm a thick slice of ham and serve it with pineapple.",
+    "solvingTip": "Start with this clue: \u201cCured pork often served in thick slices.\u201d Its answer begins with H. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "HAM",
+        "Cured pork often served in thick slices"
+      ],
+      [
+        "STEAK",
+        "Thick slice of meat"
+      ],
+      [
+        "PINEAPPLE",
+        "Tropical fruit with a spiky crown and a rough patterned exterior"
+      ],
+      [
+        "SKILLET",
+        "Frying pan with a long handle"
+      ],
+      [
+        "SLICE",
+        "Flat piece cut from a larger ham"
+      ],
+      [
+        "RING",
+        "Round slice of pineapple with a hole"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "SALTY",
+        "Tasting of salt"
+      ],
+      [
+        "PLATE",
+        "Dish on which the ham is served"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "MEAT",
+        "Food represented by ham in this supper"
+      ],
+      [
+        "DINNER",
+        "Meal featuring a thick slice of ham"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ]
+    ],
+    "requiredAnswers": [
+      "HAM",
+      "STEAK",
+      "PINEAPPLE"
+    ],
+    "answerNotes": {
+      "HAM": "Ham is cured pork, served as a thick slice here.",
+      "STEAK": "Steak describes the thick cut of ham in this scene.",
+      "PINEAPPLE": "Pineapple rings add a sweet fruit alongside the salty meat."
+    }
+  },
+  {
+    "id": "simple-suppers-5",
+    "title": "A Turkey Sandwich after Supper",
+    "subtheme": "A Turkey Sandwich after Supper",
+    "description": "Layer sliced roast turkey on bread with a little cranberry sauce.",
+    "cardDescription": "Layer sliced roast turkey on bread with a little cranberry sauce.",
+    "focus": "Layer sliced roast turkey on bread with a little cranberry sauce.",
+    "solvingTip": "Start with this clue: \u201cLarge bird with a fan-shaped tail.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TURKEY",
+        "Large bird with a fan-shaped tail"
+      ],
+      [
+        "CRANBERRY",
+        "Tart red fruit made into a familiar Thanksgiving sauce"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "SAUCE",
+        "Liquid or creamy topping for food"
+      ],
+      [
+        "LETTUCE",
+        "Leafy vegetable often placed in a sandwich"
+      ],
+      [
+        "PLATE",
+        "Flat dish beneath the sandwich"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ],
+      [
+        "ROAST",
+        "Cook with dry heat in an oven"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "FILLING",
+        "Turkey and other food between slices of bread"
+      ]
+    ],
+    "requiredAnswers": [
+      "TURKEY",
+      "CRANBERRY",
+      "LAYER"
+    ],
+    "answerNotes": {
+      "TURKEY": "The turkey is already roasted before it is sliced for bread.",
+      "CRANBERRY": "Cranberry sauce is the tart red topping in the sandwich.",
+      "LAYER": "A layer is one part arranged above another in the filling."
+    }
+  }
+]

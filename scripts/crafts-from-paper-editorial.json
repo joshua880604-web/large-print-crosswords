@@ -1,0 +1,387 @@
+[
+  {
+    "id": "crafts-from-paper",
+    "title": "A Paper Envelope for a Gift Card",
+    "subtheme": "A Paper Envelope for a Gift Card",
+    "description": "Fold a small envelope and tuck a greeting inside with the gift card.",
+    "cardDescription": "Fold a small envelope and tuck a greeting inside with the gift card.",
+    "focus": "Fold a small envelope and tuck a greeting inside with the gift card.",
+    "solvingTip": "Start with this clue: \u201cPaper sleeve for a letter.\u201d Its answer begins with E. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ENVELOPE",
+        "Paper sleeve for a letter"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "FLAP",
+        "Folded piece that opens and closes"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "GLUE",
+        "Sticky material for joining things"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "MESSAGE",
+        "Written communication"
+      ],
+      [
+        "SEAL",
+        "Close tightly to prevent leaks"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "INSIDE",
+        "Within rather than outside"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "TUCK",
+        "Push an edge neatly into place"
+      ]
+    ],
+    "requiredAnswers": [
+      "ENVELOPE",
+      "CARD",
+      "FLAP"
+    ],
+    "answerNotes": {
+      "ENVELOPE": "The envelope is folded around the card and message.",
+      "CARD": "The card is the small gift tucked inside.",
+      "FLAP": "The flap folds over the opening to close the envelope."
+    }
+  },
+  {
+    "id": "crafts-from-paper-2",
+    "title": "A Paper Cone for Party Nuts",
+    "subtheme": "A Paper Cone for Party Nuts",
+    "description": "Roll a sheet into a cone for a small serving of nuts.",
+    "cardDescription": "Roll a sheet into a cone for a small serving of nuts.",
+    "focus": "Roll a sheet into a cone for a small serving of nuts.",
+    "solvingTip": "Start with this clue: \u201cShape of a party hat.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CONE",
+        "Shape of a party hat"
+      ],
+      [
+        "NUT",
+        "Hard-shelled food such as an almond"
+      ],
+      [
+        "PAPER",
+        "Flexible sheet rolled into the snack holder"
+      ],
+      [
+        "ROLL",
+        "Curve a sheet into a cone"
+      ],
+      [
+        "POINT",
+        "Narrow bottom tip of the paper cone"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "PARTY",
+        "Gathering held to celebrate"
+      ],
+      [
+        "FILL",
+        "Put contents into an empty container"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "SNACK",
+        "Small food serving between meals"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "SERVE",
+        "To offer prepared food to someone"
+      ]
+    ],
+    "requiredAnswers": [
+      "CONE",
+      "NUT",
+      "PAPER"
+    ],
+    "answerNotes": {
+      "CONE": "A cone has a wide round opening and a narrow point.",
+      "NUT": "The nuts are the small serving carried in the paper holder.",
+      "PAPER": "The paper is rolled to make the container's shape."
+    }
+  },
+  {
+    "id": "crafts-from-paper-3",
+    "title": "A Paper Sleeve for a Flowerpot",
+    "subtheme": "A Paper Sleeve for a Flowerpot",
+    "description": "Wrap a pot in decorative paper without covering its drainage opening.",
+    "cardDescription": "Wrap a pot in decorative paper without covering its drainage opening.",
+    "focus": "Wrap a pot in decorative paper without covering its drainage opening.",
+    "solvingTip": "Start with this clue: \u201cShirt part covering an arm.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SLEEVE",
+        "Shirt part covering an arm"
+      ],
+      [
+        "POT",
+        "Container used for growing a plant"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "PAPER",
+        "Decorative sheet wrapped around the pot"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip of fabric"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "FLOWER",
+        "Bloom with petals"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of something"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "TAPE",
+        "Sticky strip securing the wrapping"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "TRIM",
+        "To cut away unwanted ends or edges"
+      ]
+    ],
+    "requiredAnswers": [
+      "SLEEVE",
+      "POT",
+      "WRAP"
+    ],
+    "answerNotes": {
+      "SLEEVE": "The sleeve wraps around the sides of the pot.",
+      "POT": "The pot still needs its bottom opening free to drain.",
+      "WRAP": "Wrap means cover the outside with a flexible material."
+    }
+  },
+  {
+    "id": "crafts-from-paper-4",
+    "title": "A Homemade Birthday Banner",
+    "subtheme": "A Homemade Birthday Banner",
+    "description": "Join large paper letters to spell a birthday greeting across a wall.",
+    "cardDescription": "Join large paper letters to spell a birthday greeting across a wall.",
+    "focus": "Join large paper letters to spell a birthday greeting across a wall.",
+    "solvingTip": "Start with this clue: \u201cLong sign carried or displayed in a procession.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BANNER",
+        "Long sign carried or displayed in a procession"
+      ],
+      [
+        "LETTER",
+        "One character in a word"
+      ],
+      [
+        "BIRTHDAY",
+        "Yearly celebration of the day someone was born"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "GREETING",
+        "Friendly words of welcome"
+      ],
+      [
+        "FLAG",
+        "Small panel raised on a rural mailbox"
+      ],
+      [
+        "FOLD",
+        "Bend a paper flag along its top"
+      ]
+    ],
+    "requiredAnswers": [
+      "BANNER",
+      "LETTER",
+      "BIRTHDAY"
+    ],
+    "answerNotes": {
+      "BANNER": "The banner displays a greeting across a wall.",
+      "LETTER": "Each letter contributes one part of the written message.",
+      "BIRTHDAY": "The birthday is the occasion named by the greeting."
+    }
+  },
+  {
+    "id": "crafts-from-paper-5",
+    "title": "A Small Paper Lantern with a Handle",
+    "subtheme": "A Small Paper Lantern with a Handle",
+    "description": "Fold and cut a paper decoration that needs no flame inside.",
+    "cardDescription": "Fold and cut a paper decoration that needs no flame inside.",
+    "focus": "Fold and cut a paper decoration that needs no flame inside.",
+    "solvingTip": "Start with this clue: \u201cLight with a protective housing that can be carried or hung.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LANTERN",
+        "Light with a protective housing that can be carried or hung"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "PAPER",
+        "Thin craft material cut to make the lantern"
+      ],
+      [
+        "FOLD",
+        "Bend the sheet before cutting the strips"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece of paper"
+      ],
+      [
+        "GLUE",
+        "Sticky material for joining things"
+      ],
+      [
+        "HANG",
+        "Suspend the lantern by its loop"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "COLOR",
+        "Hue chosen for the lantern's decoration"
+      ],
+      [
+        "DECORATION",
+        "Object put out to make a place look festive"
+      ],
+      [
+        "TAPE",
+        "Sticky strip joining the lantern's edges"
+      ],
+      [
+        "ROUND",
+        "Circular rather than square in shape"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of the craft sheet"
+      ]
+    ],
+    "requiredAnswers": [
+      "LANTERN",
+      "HANDLE",
+      "PAPER"
+    ],
+    "answerNotes": {
+      "LANTERN": "This lantern is a decoration rather than a flame holder.",
+      "HANDLE": "The handle forms a loop above the paper body.",
+      "PAPER": "The paper is folded and cut to make the rounded shape."
+    }
+  }
+]

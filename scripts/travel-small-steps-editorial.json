@@ -1,0 +1,387 @@
+[
+  {
+    "id": "travel-small-steps",
+    "title": "Packing a Toiletry Bag",
+    "subtheme": "Packing a Toiletry Bag",
+    "description": "Choose the everyday washing items for a short visit away from home.",
+    "cardDescription": "Choose the everyday washing items for a short visit away from home.",
+    "focus": "Choose the everyday washing items for a short visit away from home.",
+    "solvingTip": "Start with this clue: \u201cSmall brush used with toothpaste.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TOOTHBRUSH",
+        "Small brush used with toothpaste"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "COMB",
+        "Toothed grooming tool drawn through hair"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "PASTE",
+        "Short for the toothpaste packed with a toothbrush"
+      ],
+      [
+        "WASH",
+        "Clean with water"
+      ],
+      [
+        "HAIR",
+        "Strands growing on the head"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "ZIPPER",
+        "Fastener closed by pulling a sliding tab"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "PACK",
+        "Put items into a bag or box"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOOTHBRUSH",
+      "SOAP",
+      "COMB"
+    ],
+    "answerNotes": {
+      "TOOTHBRUSH": "A toothbrush is packed with the paste used for cleaning teeth.",
+      "SOAP": "Soap is one of the washing items for the visit.",
+      "COMB": "A comb has teeth arranged for tidying hair."
+    }
+  },
+  {
+    "id": "travel-small-steps-2",
+    "title": "A Name Tag on a Suitcase",
+    "subtheme": "A Name Tag on a Suitcase",
+    "description": "Write a name on the luggage tag before a trip.",
+    "cardDescription": "Write a name on the luggage tag before a trip.",
+    "focus": "Write a name on the luggage tag before a trip.",
+    "solvingTip": "Start with this clue: \u201cTravel bag with a handle and firm sides.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SUITCASE",
+        "Travel bag with a handle and firm sides"
+      ],
+      [
+        "TAG",
+        "Small label attached to an item"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "STRAP",
+        "Carrying band attached to a bag"
+      ],
+      [
+        "BAG",
+        "Container carried on a trip"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "ADDRESS",
+        "Location written on a mailed envelope"
+      ],
+      [
+        "LUGGAGE",
+        "Suitcases and other bags taken on a trip"
+      ],
+      [
+        "ZIPPER",
+        "Sliding fastener that closes the luggage"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "PACK",
+        "Put belongings into a travel case"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ]
+    ],
+    "requiredAnswers": [
+      "SUITCASE",
+      "TAG",
+      "NAME"
+    ],
+    "answerNotes": {
+      "SUITCASE": "A suitcase carries clothing and other travel belongings.",
+      "TAG": "The tag is attached to the case rather than packed deep inside.",
+      "NAME": "The name identifies the bag's owner."
+    }
+  },
+  {
+    "id": "travel-small-steps-3",
+    "title": "Checking a Train Ticket's Time",
+    "subtheme": "Checking a Train Ticket's Time",
+    "description": "Read the departure time and platform information before boarding.",
+    "cardDescription": "Read the departure time and platform information before boarding.",
+    "focus": "Read the departure time and platform information before boarding.",
+    "solvingTip": "Start with this clue: \u201cPrinted proof of admission.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TICKET",
+        "Printed proof of admission"
+      ],
+      [
+        "DEPART",
+        "Leave to begin a trip"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "TRAIN",
+        "Connected rail vehicles traveling together"
+      ],
+      [
+        "PLATFORM",
+        "Raised area beside the track where passengers wait to board"
+      ],
+      [
+        "CLOCK",
+        "Device showing the time"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "CAR",
+        "Four-wheeled road vehicle"
+      ],
+      [
+        "STATION",
+        "Place where trains stop for passengers"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ]
+    ],
+    "requiredAnswers": [
+      "TICKET",
+      "DEPART",
+      "TIME"
+    ],
+    "answerNotes": {
+      "TICKET": "The ticket gives the passenger's travel details.",
+      "DEPART": "Depart means leave the station to begin the journey.",
+      "TIME": "The time on the ticket tells when the train is scheduled to leave."
+    }
+  },
+  {
+    "id": "travel-small-steps-4",
+    "title": "A Hotel Wake-Up Call",
+    "subtheme": "A Hotel Wake-Up Call",
+    "description": "Ask the front desk for a morning call before an early journey.",
+    "cardDescription": "Ask the front desk for a morning call before an early journey.",
+    "focus": "Ask the front desk for a morning call before an early journey.",
+    "solvingTip": "Start with this clue: \u201cBuilding offering lodging in rooms for paying guests.\u201d Its answer begins with H. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "HOTEL",
+        "Building offering lodging in rooms for paying guests"
+      ],
+      [
+        "CALL",
+        "Telephone ring requested by a hotel guest"
+      ],
+      [
+        "WAKE",
+        "Stop sleeping"
+      ],
+      [
+        "MORNING",
+        "Time before noon"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "PHONE",
+        "Everyday short name for a telephone"
+      ],
+      [
+        "TIME",
+        "Hour requested for the morning call"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "CLOCK",
+        "Device showing the requested hour"
+      ],
+      [
+        "EARLY",
+        "Opposite of late when describing an arrival"
+      ],
+      [
+        "GUEST",
+        "Person invited to a home or event"
+      ],
+      [
+        "SLEEP",
+        "Rest with the eyes closed at night"
+      ],
+      [
+        "RING",
+        "Sound a telephone makes to get attention"
+      ],
+      [
+        "ASK",
+        "Put a question to someone"
+      ]
+    ],
+    "requiredAnswers": [
+      "HOTEL",
+      "CALL",
+      "WAKE"
+    ],
+    "answerNotes": {
+      "HOTEL": "The hotel is the lodging place where the guest is staying.",
+      "CALL": "The call comes by telephone at the requested time.",
+      "WAKE": "To wake is to stop sleeping before the early departure."
+    }
+  },
+  {
+    "id": "travel-small-steps-5",
+    "title": "A Restroom Stop on a Long Drive",
+    "subtheme": "A Restroom Stop on a Long Drive",
+    "description": "Follow the signs at a roadside stop and take a short break.",
+    "cardDescription": "Follow the signs at a roadside stop and take a short break.",
+    "focus": "Follow the signs at a roadside stop and take a short break.",
+    "solvingTip": "Start with this clue: \u201cPublic room with toilets and sinks.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RESTROOM",
+        "Public room with toilets and sinks"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "BREAK",
+        "Separate into pieces"
+      ],
+      [
+        "ROAD",
+        "Way traveled by cars"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "CAR",
+        "Vehicle parked during the rest stop"
+      ],
+      [
+        "PARK",
+        "Public green space where people may walk dogs"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "DRIVE",
+        "Travel in a car"
+      ],
+      [
+        "MAP",
+        "Drawing showing roads and places"
+      ],
+      [
+        "EXIT",
+        "A way off a highway, often marked with a number"
+      ],
+      [
+        "TRIP",
+        "Journey paused for a short break"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ]
+    ],
+    "requiredAnswers": [
+      "RESTROOM",
+      "SIGN",
+      "BREAK"
+    ],
+    "answerNotes": {
+      "RESTROOM": "A restroom is the public room with toilets and sinks.",
+      "SIGN": "A sign points travelers toward the facilities.",
+      "BREAK": "A break is a short pause in the longer journey."
+    }
+  }
+]

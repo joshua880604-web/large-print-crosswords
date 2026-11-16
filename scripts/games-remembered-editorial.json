@@ -1,0 +1,387 @@
+[
+  {
+    "id": "games-remembered",
+    "title": "A Jump Rope Hung on a Hook",
+    "subtheme": "A Jump Rope Hung on a Hook",
+    "description": "Recall the rope's handles and the turning motion of an outdoor game.",
+    "cardDescription": "Recall the rope's handles and the turning motion of an outdoor game.",
+    "focus": "Recall the rope's handles and the turning motion of an outdoor game.",
+    "solvingTip": "Start with this clue: \u201cStrong thick cord.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ROPE",
+        "Strong thick cord"
+      ],
+      [
+        "JUMP",
+        "Push off the ground with the feet"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "SKIP",
+        "Jump lightly over the moving rope"
+      ],
+      [
+        "SWING",
+        "Move the rope in a wide arc"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "GAME",
+        "Activity played under rules"
+      ],
+      [
+        "PLAY",
+        "Take part in a game"
+      ],
+      [
+        "FOOT",
+        "Body part below the ankle"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ],
+      [
+        "RHYME",
+        "Similarity of ending sounds in words"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROPE",
+      "JUMP",
+      "HANDLE"
+    ],
+    "answerNotes": {
+      "ROPE": "The rope passes around the player as its handles turn.",
+      "JUMP": "A jump lifts the feet over the moving rope.",
+      "HANDLE": "The handles give the player a firm grip at each end."
+    }
+  },
+  {
+    "id": "games-remembered-2",
+    "title": "A Paper Fortune Teller Folded by Hand",
+    "subtheme": "A Paper Fortune Teller Folded by Hand",
+    "description": "Recall folding paper corners and opening the little flaps to reveal a message.",
+    "cardDescription": "Recall folding paper corners and opening the little flaps to reveal a message.",
+    "focus": "Recall folding paper corners and opening the little flaps to reveal a message.",
+    "solvingTip": "Start with this clue: \u201cA prediction of what may happen in the future.\u201d Its answer begins with F. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "FORTUNE",
+        "A prediction of what may happen in the future"
+      ],
+      [
+        "FLAP",
+        "Folded piece that opens and closes"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "MESSAGE",
+        "Written communication"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal sides"
+      ],
+      [
+        "CREASE",
+        "Line made by sharply folding paper"
+      ],
+      [
+        "GAME",
+        "Activity played under rules"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ]
+    ],
+    "requiredAnswers": [
+      "FORTUNE",
+      "FLAP",
+      "FOLD"
+    ],
+    "answerNotes": {
+      "FORTUNE": "A fortune is the playful prediction hidden under a folded flap.",
+      "FLAP": "A flap opens to show the message written underneath.",
+      "FOLD": "Folding brings paper edges together to form the little toy."
+    }
+  },
+  {
+    "id": "games-remembered-3",
+    "title": "The Hoop beside the Backyard Fence",
+    "subtheme": "The Hoop beside the Backyard Fence",
+    "description": "Picture the wide hoop that circles a player's waist.",
+    "cardDescription": "Picture the wide hoop that circles a player's waist.",
+    "focus": "Picture the wide hoop that circles a player's waist.",
+    "solvingTip": "Start with this clue: \u201cLarge ring spun around the waist in a game.\u201d Its answer begins with H. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "HOOP",
+        "Large ring spun around the waist in a game"
+      ],
+      [
+        "WAIST",
+        "Middle of the body above the hips"
+      ],
+      [
+        "CIRCLE",
+        "Round shape with no corners"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "SPIN",
+        "Turn quickly around a center"
+      ],
+      [
+        "PLASTIC",
+        "Lightweight material used for many refillable Easter eggs"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ],
+      [
+        "GAME",
+        "Activity played for enjoyment"
+      ],
+      [
+        "PLAY",
+        "Take part in a fun activity"
+      ],
+      [
+        "TURN",
+        "Rotate around the player's middle"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "RING",
+        "Circular band"
+      ],
+      [
+        "WIDE",
+        "Opposite of narrow when describing width"
+      ],
+      [
+        "COLOR",
+        "Hue of the plastic play ring"
+      ]
+    ],
+    "requiredAnswers": [
+      "HOOP",
+      "WAIST",
+      "CIRCLE"
+    ],
+    "answerNotes": {
+      "HOOP": "The hoop is a wide ring used for spinning play.",
+      "WAIST": "The waist is the middle of the body around which it turns.",
+      "CIRCLE": "The circle is the round shape with no corners."
+    }
+  },
+  {
+    "id": "games-remembered-4",
+    "title": "A Paddle Ball on an Elastic String",
+    "subtheme": "A Paddle Ball on an Elastic String",
+    "description": "Recall a small ball bouncing back toward a wooden paddle.",
+    "cardDescription": "Recall a small ball bouncing back toward a wooden paddle.",
+    "focus": "Recall a small ball bouncing back toward a wooden paddle.",
+    "solvingTip": "Start with this clue: \u201cHandheld striking implement used in table tennis.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "PADDLE",
+        "Handheld striking implement used in table tennis"
+      ],
+      [
+        "BALL",
+        "Round toy that can roll or bounce"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "BOUNCE",
+        "Spring back after hitting a surface"
+      ],
+      [
+        "RUBBER",
+        "Flexible material used in boots and tires"
+      ],
+      [
+        "ELASTIC",
+        "Stretchy material that springs back"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "HIT",
+        "Strike a ball with a paddle"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "GAME",
+        "Pastime with a ball attached by a cord"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ],
+      [
+        "HANDLE",
+        "Grip at the end of the wooden paddle"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ]
+    ],
+    "requiredAnswers": [
+      "PADDLE",
+      "BALL",
+      "STRING"
+    ],
+    "answerNotes": {
+      "PADDLE": "The paddle is the flat wooden striking surface.",
+      "BALL": "The ball returns toward it on the stretchy cord.",
+      "STRING": "The string connects the small ball to the paddle."
+    }
+  },
+  {
+    "id": "games-remembered-5",
+    "title": "A Ring Toss at the School Fair",
+    "subtheme": "A Ring Toss at the School Fair",
+    "description": "Aim a small ring toward a peg during a friendly fairground game.",
+    "cardDescription": "Aim a small ring toward a peg during a friendly fairground game.",
+    "focus": "Aim a small ring toward a peg during a friendly fairground game.",
+    "solvingTip": "Start with this clue: \u201cCircular piece thrown at the target.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RING",
+        "Circular piece thrown at the target"
+      ],
+      [
+        "TOSS",
+        "Throw a ring toward a peg"
+      ],
+      [
+        "PEG",
+        "Short pin fitted into a hole"
+      ],
+      [
+        "AIM",
+        "Point toward a target"
+      ],
+      [
+        "THROW",
+        "Send through the air by hand"
+      ],
+      [
+        "GAME",
+        "Fair activity with pegs as targets"
+      ],
+      [
+        "FAIR",
+        "Community event with exhibits, contests, and entertainment"
+      ],
+      [
+        "PRIZE",
+        "Award given to a winning entry"
+      ],
+      [
+        "SCORE",
+        "Number of points earned in a game"
+      ],
+      [
+        "TURN",
+        "One player's chance to aim at the peg"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "TARGET",
+        "Object a player aims toward"
+      ],
+      [
+        "HAND",
+        "Body part that releases the ring"
+      ]
+    ],
+    "requiredAnswers": [
+      "RING",
+      "TOSS",
+      "PEG"
+    ],
+    "answerNotes": {
+      "RING": "The ring is the loop thrown toward a target.",
+      "TOSS": "Toss means make a light throw by hand.",
+      "PEG": "The peg is the upright target the ring must go around."
+    }
+  }
+]

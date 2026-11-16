@@ -1,0 +1,387 @@
+[
+  {
+    "id": "town-service-desks",
+    "title": "A Watch Battery at the Jewelry Counter",
+    "subtheme": "A Watch Battery at the Jewelry Counter",
+    "description": "Bring a stopped watch to the counter for a fresh battery.",
+    "cardDescription": "Bring a stopped watch to the counter for a fresh battery.",
+    "focus": "Bring a stopped watch to the counter for a fresh battery.",
+    "solvingTip": "Start with this clue: \u201cSmall timepiece worn on the wrist.\u201d Its answer begins with W. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "WATCH",
+        "Small timepiece worn on the wrist"
+      ],
+      [
+        "BATTERY",
+        "Small power source inside a remote control"
+      ],
+      [
+        "JEWELER",
+        "Person who sells or repairs rings and watches"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "WRIST",
+        "Joint between a hand and forearm"
+      ],
+      [
+        "FACE",
+        "Front surface of a watch that shows the time"
+      ],
+      [
+        "HAND",
+        "Pointer on a watch face"
+      ],
+      [
+        "TICK",
+        "Small regular beat made by a traditional clock"
+      ],
+      [
+        "BAND",
+        "Strap holding a watch on the wrist"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "REPLACE",
+        "Put a new item where an old one was"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ]
+    ],
+    "requiredAnswers": [
+      "WATCH",
+      "BATTERY",
+      "JEWELER"
+    ],
+    "answerNotes": {
+      "WATCH": "The watch is the small timepiece brought in for service.",
+      "BATTERY": "A fresh battery provides power when the old one is used up.",
+      "JEWELER": "A jeweler may sell or repair watches as well as jewelry."
+    }
+  },
+  {
+    "id": "town-service-desks-2",
+    "title": "Checking In at the Dental Desk",
+    "subtheme": "Checking In at the Dental Desk",
+    "description": "Give a name at reception and take a seat until an appointment is called.",
+    "cardDescription": "Give a name at reception and take a seat until an appointment is called.",
+    "focus": "Give a name at reception and take a seat until an appointment is called.",
+    "solvingTip": "Start with this clue: \u201cProfessional who checks and cares for teeth.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DENTIST",
+        "Professional who checks and cares for teeth"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "APPOINTMENT",
+        "Arranged time for a visit"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "FORM",
+        "Paper with spaces for a name and other details"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "VISIT",
+        "Spend time at someone's home"
+      ],
+      [
+        "CLOCK",
+        "Device showing the time"
+      ],
+      [
+        "CARD",
+        "Small printed reminder of an appointment"
+      ],
+      [
+        "OFFICE",
+        "Place with desks where people do paperwork"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "CALL",
+        "Say a name to get attention"
+      ]
+    ],
+    "requiredAnswers": [
+      "DENTIST",
+      "DESK",
+      "APPOINTMENT"
+    ],
+    "answerNotes": {
+      "DENTIST": "A dentist checks and cares for teeth.",
+      "DESK": "The desk is the reception point for arriving patients.",
+      "APPOINTMENT": "An appointment reserves a time for the visit."
+    }
+  },
+  {
+    "id": "town-service-desks-3",
+    "title": "Buying a Roll of Postage Stamps",
+    "subtheme": "Buying a Roll of Postage Stamps",
+    "description": "Ask for a roll of stamps and keep the receipt for the purchase.",
+    "cardDescription": "Ask for a roll of stamps and keep the receipt for the purchase.",
+    "focus": "Ask for a roll of stamps and keep the receipt for the purchase.",
+    "solvingTip": "Start with this clue: \u201cCost of sending something through the mail.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "POSTAGE",
+        "Cost of sending something through the mail"
+      ],
+      [
+        "ROLL",
+        "Long strip of stamps wound into a coil"
+      ],
+      [
+        "STAMP",
+        "Postage label on an envelope"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "BUY",
+        "Pay money to get something"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "LETTER",
+        "Message sent inside an envelope"
+      ],
+      [
+        "ENVELOPE",
+        "Paper sleeve for a letter"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "COIL",
+        "Strip of stamps wound into a spiral"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "CLERK",
+        "Person helping customers at a store counter"
+      ],
+      [
+        "ADHESIVE",
+        "Sticky material used to attach things"
+      ]
+    ],
+    "requiredAnswers": [
+      "POSTAGE",
+      "ROLL",
+      "STAMP"
+    ],
+    "answerNotes": {
+      "POSTAGE": "Postage is the charge for sending something through the mail.",
+      "ROLL": "A roll holds a strip of stamps wound into a coil.",
+      "STAMP": "A stamp shows that postage has been paid for the letter."
+    }
+  },
+  {
+    "id": "town-service-desks-4",
+    "title": "An Appliance Repair Appointment",
+    "subtheme": "An Appliance Repair Appointment",
+    "description": "Describe a noisy washer and choose a time for a repair visit.",
+    "cardDescription": "Describe a noisy washer and choose a time for a repair visit.",
+    "focus": "Describe a noisy washer and choose a time for a repair visit.",
+    "solvingTip": "Start with this clue: \u201cMachine used to clean laundry.\u201d Its answer begins with W. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "WASHER",
+        "Machine used to clean laundry"
+      ],
+      [
+        "REPAIR",
+        "Fix something that is damaged"
+      ],
+      [
+        "NOISE",
+        "Unwanted or unpleasant sound"
+      ],
+      [
+        "CALL",
+        "Phone conversation to arrange the visit"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "TIME",
+        "Hour chosen for the repair visit"
+      ],
+      [
+        "VISIT",
+        "Spend time at someone's home"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "NAME",
+        "Word identifying the person booking the visit"
+      ],
+      [
+        "PHONE",
+        "Everyday short name for a telephone"
+      ],
+      [
+        "SPIN",
+        "Turn quickly around a center"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "MACHINE",
+        "Device with moving parts that does work"
+      ]
+    ],
+    "requiredAnswers": [
+      "WASHER",
+      "REPAIR",
+      "NOISE"
+    ],
+    "answerNotes": {
+      "WASHER": "The washer is the household laundry machine needing attention.",
+      "REPAIR": "A repair puts a damaged or faulty item back in working order.",
+      "NOISE": "The noise is the sound described when arranging the visit."
+    }
+  },
+  {
+    "id": "town-service-desks-5",
+    "title": "A Lost Umbrella at the Service Desk",
+    "subtheme": "A Lost Umbrella at the Service Desk",
+    "description": "Ask at the lost-and-found desk for an umbrella left behind yesterday.",
+    "cardDescription": "Ask at the lost-and-found desk for an umbrella left behind yesterday.",
+    "focus": "Ask at the lost-and-found desk for an umbrella left behind yesterday.",
+    "solvingTip": "Start with this clue: \u201cUnable to be found.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LOST",
+        "Unable to be found"
+      ],
+      [
+        "FOUND",
+        "Discovered after being lost"
+      ],
+      [
+        "UMBRELLA",
+        "Handheld cover against rain"
+      ],
+      [
+        "DESK",
+        "Counter where lost items are claimed"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "NAME",
+        "Owner's identification on the umbrella tag"
+      ],
+      [
+        "CLAIM",
+        "Ask to have a lost item returned"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "STRIPE",
+        "Long band of color"
+      ],
+      [
+        "BLACK",
+        "Darkest color"
+      ],
+      [
+        "ASK",
+        "Put a question to someone"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ]
+    ],
+    "requiredAnswers": [
+      "LOST",
+      "FOUND",
+      "UMBRELLA"
+    ],
+    "answerNotes": {
+      "LOST": "Lost means the owner cannot find the umbrella.",
+      "FOUND": "Found describes the item after someone has recovered it.",
+      "UMBRELLA": "An umbrella opens above the head to keep off rain."
+    }
+  }
+]

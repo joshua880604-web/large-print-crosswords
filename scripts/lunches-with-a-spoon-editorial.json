@@ -1,0 +1,387 @@
+[
+  {
+    "id": "lunches-with-a-spoon",
+    "title": "A Bowl of White Bean Soup",
+    "subtheme": "A Bowl of White Bean Soup",
+    "description": "Find white beans and vegetables in a warm bowl of simple soup.",
+    "cardDescription": "Find white beans and vegetables in a warm bowl of simple soup.",
+    "focus": "Find white beans and vegetables in a warm bowl of simple soup.",
+    "solvingTip": "Start with this clue: \u201cColor word before bean in this soup.\u201d Its answer begins with W. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "WHITE",
+        "Color word before bean in this soup"
+      ],
+      [
+        "BEAN",
+        "Kidney or pinto, for example"
+      ],
+      [
+        "SOUP",
+        "Liquid-based dish served in a bowl"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "CARROT",
+        "Orange root vegetable"
+      ],
+      [
+        "CELERY",
+        "Crisp green vegetable with long stalks"
+      ],
+      [
+        "BROTH",
+        "Savory liquid made by simmering ingredients in water"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "POT",
+        "Deep cooking container holding the soup"
+      ],
+      [
+        "BAY",
+        "Leaf often added to soup for flavor"
+      ],
+      [
+        "SIMMER",
+        "Cook gently just below boiling"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "LADLE",
+        "Deep spoon for serving soup"
+      ]
+    ],
+    "requiredAnswers": [
+      "WHITE",
+      "BEAN",
+      "SOUP"
+    ],
+    "answerNotes": {
+      "WHITE": "White describes the color of the beans in this particular soup.",
+      "BEAN": "A bean is the familiar edible seed cooked in the broth.",
+      "SOUP": "Soup is a liquid-based dish eaten from a bowl."
+    }
+  },
+  {
+    "id": "lunches-with-a-spoon-2",
+    "title": "A Baked Sweet Potato for Lunch",
+    "subtheme": "A Baked Sweet Potato for Lunch",
+    "description": "Split the tender potato and add a small pat of butter.",
+    "cardDescription": "Split the tender potato and add a small pat of butter.",
+    "focus": "Split the tender potato and add a small pat of butter.",
+    "solvingTip": "Start with this clue: \u201cSugary in taste.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "SPLIT",
+        "Divide into two parts"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of a potato"
+      ],
+      [
+        "ORANGE",
+        "Color of this sweet potato's flesh"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "STEAM",
+        "Mist rising from a hot bowl"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ],
+      [
+        "PAT",
+        "Small flat piece of butter"
+      ]
+    ],
+    "requiredAnswers": [
+      "SWEET",
+      "POTATO",
+      "SPLIT"
+    ],
+    "answerNotes": {
+      "SWEET": "Sweet is part of the vegetable's name in this scene.",
+      "POTATO": "A sweet potato has a different flavor from an ordinary white potato.",
+      "SPLIT": "Splitting opens the cooked vegetable to reach the soft inside."
+    }
+  },
+  {
+    "id": "lunches-with-a-spoon-3",
+    "title": "Egg Salad in a Sandwich",
+    "subtheme": "Egg Salad in a Sandwich",
+    "description": "Chop a hard-cooked egg and mix a simple filling for two slices of bread.",
+    "cardDescription": "Chop a hard-cooked egg and mix a simple filling for two slices of bread.",
+    "focus": "Chop a hard-cooked egg and mix a simple filling for two slices of bread.",
+    "solvingTip": "Start with this clue: \u201cOval food with a shell, white, and yolk.\u201d Its answer begins with E. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "EGG",
+        "Oval food with a shell, white, and yolk"
+      ],
+      [
+        "SALAD",
+        "Chopped egg mixture used as a sandwich filling"
+      ],
+      [
+        "CHOP",
+        "Cut food into small pieces"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "MAYONNAISE",
+        "Creamy oil-and-egg dressing"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "CELERY",
+        "Crunchy green stalk chopped into the filling"
+      ],
+      [
+        "MIX",
+        "Combine the chopped ingredients"
+      ],
+      [
+        "SPOON",
+        "Utensil used to mix the egg filling"
+      ],
+      [
+        "FILLING",
+        "Mixture put between slices of bread"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "LUNCH",
+        "Midday meal served between bread slices here"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ]
+    ],
+    "requiredAnswers": [
+      "EGG",
+      "SALAD",
+      "CHOP"
+    ],
+    "answerNotes": {
+      "EGG": "The hard-cooked egg is chopped for the sandwich mixture.",
+      "SALAD": "Here salad means the creamy egg filling rather than a leafy dish.",
+      "CHOP": "Chopping makes pieces small enough to mix and spread."
+    }
+  },
+  {
+    "id": "lunches-with-a-spoon-4",
+    "title": "A Bowl of Hummus with Pita",
+    "subtheme": "A Bowl of Hummus with Pita",
+    "description": "Scoop a smooth chickpea spread with pieces of soft pita bread.",
+    "cardDescription": "Scoop a smooth chickpea spread with pieces of soft pita bread.",
+    "focus": "Scoop a smooth chickpea spread with pieces of soft pita bread.",
+    "solvingTip": "Start with this clue: \u201cSmooth chickpea dip often eaten with pita.\u201d Its answer begins with H. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "HUMMUS",
+        "Smooth chickpea dip often eaten with pita"
+      ],
+      [
+        "PITA",
+        "Soft flat bread often eaten with hummus"
+      ],
+      [
+        "CHICKPEA",
+        "Round pale bean used to make hummus"
+      ],
+      [
+        "DIP",
+        "Thick spread scooped up with bread"
+      ],
+      [
+        "BOWL",
+        "Round dish holding the chickpea dip"
+      ],
+      [
+        "BREAD",
+        "Food represented by pita in this snack"
+      ],
+      [
+        "GARLIC",
+        "Strong-flavored bulb divided into cloves"
+      ],
+      [
+        "LEMON",
+        "Yellow citrus fruit with sour juice"
+      ],
+      [
+        "SMOOTH",
+        "Even and without bumps"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "SPOON",
+        "Utensil for scooping dip into a dish"
+      ],
+      [
+        "SNACK",
+        "Small food serving between meals"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "SOFT",
+        "Easy to bend, like fresh pita"
+      ]
+    ],
+    "requiredAnswers": [
+      "HUMMUS",
+      "PITA",
+      "CHICKPEA"
+    ],
+    "answerNotes": {
+      "HUMMUS": "Hummus is a smooth spread commonly made from chickpeas.",
+      "PITA": "Pita is a soft flat bread used to scoop up the spread.",
+      "CHICKPEA": "A chickpea is also known as a garbanzo bean."
+    }
+  },
+  {
+    "id": "lunches-with-a-spoon-5",
+    "title": "A Corn Tortilla Filled for Lunch",
+    "subtheme": "A Corn Tortilla Filled for Lunch",
+    "description": "Fold a soft corn tortilla around beans, cheese, and a spoonful of salsa.",
+    "cardDescription": "Fold a soft corn tortilla around beans, cheese, and a spoonful of salsa.",
+    "focus": "Fold a soft corn tortilla around beans, cheese, and a spoonful of salsa.",
+    "solvingTip": "Start with this clue: \u201cRound flat bread used to wrap a filling.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TORTILLA",
+        "Round flat bread used to wrap a filling"
+      ],
+      [
+        "CORN",
+        "Vegetable with kernels growing on a cob"
+      ],
+      [
+        "SALSA",
+        "Tomato-based sauce often served with tortilla chips"
+      ],
+      [
+        "BEAN",
+        "Small cooked seed added beside the cheese"
+      ],
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "FILL",
+        "Put contents into an empty container"
+      ],
+      [
+        "LUNCH",
+        "Meal between breakfast and dinner"
+      ],
+      [
+        "SOFT",
+        "Flexible enough to fold around a filling"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "PLATE",
+        "Flat dish beneath the filled tortilla"
+      ],
+      [
+        "TOMATO",
+        "Red vine-grown salad fruit"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "SPOON",
+        "Utensil for adding salsa to the filling"
+      ]
+    ],
+    "requiredAnswers": [
+      "TORTILLA",
+      "CORN",
+      "SALSA"
+    ],
+    "answerNotes": {
+      "TORTILLA": "A tortilla is a flat bread that can fold around a filling.",
+      "CORN": "Corn is the grain used for the tortilla in this scene.",
+      "SALSA": "Salsa is the tomato-based topping added to the filling."
+    }
+  }
+]

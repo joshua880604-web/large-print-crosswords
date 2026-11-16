@@ -1,0 +1,387 @@
+[
+  {
+    "id": "christmas-small-touches",
+    "title": "A Christmas Tree Watering Can",
+    "subtheme": "A Christmas Tree Watering Can",
+    "description": "Check the tree stand and use a small can to add water.",
+    "cardDescription": "Check the tree stand and use a small can to add water.",
+    "focus": "Check the tree stand and use a small can to add water.",
+    "solvingTip": "Start with this clue: \u201cSupport that holds an object upright.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "STAND",
+        "Support that holds an object upright"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "TREE",
+        "Tall plant with a woody trunk"
+      ],
+      [
+        "CAN",
+        "Container with a spout for watering"
+      ],
+      [
+        "CHRISTMAS",
+        "December holiday with decorated trees"
+      ],
+      [
+        "NEEDLE",
+        "Narrow leaf on a Christmas tree"
+      ],
+      [
+        "BRANCH",
+        "Woody limb of a tree"
+      ],
+      [
+        "TRUNK",
+        "Main woody stem of a tree"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "BASE",
+        "Lowest supporting part"
+      ],
+      [
+        "CHECK",
+        "Look over to make sure something is right"
+      ],
+      [
+        "FRESH",
+        "Recently made or picked"
+      ]
+    ],
+    "requiredAnswers": [
+      "STAND",
+      "WATER",
+      "TREE"
+    ],
+    "answerNotes": {
+      "STAND": "The stand supports the cut tree upright.",
+      "WATER": "Water is added to the reservoir around the trunk.",
+      "TREE": "The tree is the evergreen being displayed indoors for Christmas."
+    }
+  },
+  {
+    "id": "christmas-small-touches-2",
+    "title": "A Red Bow on a Christmas Mailbox",
+    "subtheme": "A Red Bow on a Christmas Mailbox",
+    "description": "Tie a weather-ready ribbon around the mailbox for the season.",
+    "cardDescription": "Tie a weather-ready ribbon around the mailbox for the season.",
+    "focus": "Tie a weather-ready ribbon around the mailbox for the season.",
+    "solvingTip": "Start with this clue: \u201cRibbon decoration with loops and tails.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BOW",
+        "Ribbon decoration with loops and tails"
+      ],
+      [
+        "MAILBOX",
+        "Container where a household receives delivered letters"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip of fabric"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "KNOT",
+        "Fastening made by tying string"
+      ],
+      [
+        "CHRISTMAS",
+        "December holiday celebrated by the mailbox decoration"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "TAIL",
+        "One loose end hanging from the ribbon bow"
+      ],
+      [
+        "FLAG",
+        "Small panel raised on a rural mailbox"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOW",
+      "MAILBOX",
+      "RED"
+    ],
+    "answerNotes": {
+      "BOW": "The bow is a ribbon decoration with loops and tails.",
+      "MAILBOX": "The mailbox holds delivered letters beneath the decoration.",
+      "RED": "Red is the color of the ribbon chosen for this scene."
+    }
+  },
+  {
+    "id": "christmas-small-touches-3",
+    "title": "A Christmas Orange Studded with Cloves",
+    "subtheme": "A Christmas Orange Studded with Cloves",
+    "description": "Press whole cloves into an orange to make a fragrant seasonal decoration.",
+    "cardDescription": "Press whole cloves into an orange to make a fragrant seasonal decoration.",
+    "focus": "Press whole cloves into an orange to make a fragrant seasonal decoration.",
+    "solvingTip": "Start with this clue: \u201cRound citrus fruit.\u201d Its answer begins with O. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ORANGE",
+        "Round citrus fruit"
+      ],
+      [
+        "CLOVE",
+        "Small whole spice pressed into an orange"
+      ],
+      [
+        "SCENT",
+        "Pleasant smell"
+      ],
+      [
+        "CHRISTMAS",
+        "Winter holiday for this fragrant craft"
+      ],
+      [
+        "SPICE",
+        "Flavoring such as cinnamon"
+      ],
+      [
+        "PEEL",
+        "Remove the outer skin of fruit"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip of fabric"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "WHOLE",
+        "Not ground into powder, as these spices are"
+      ],
+      [
+        "PATTERN",
+        "Repeated design of shapes"
+      ]
+    ],
+    "requiredAnswers": [
+      "ORANGE",
+      "CLOVE",
+      "SCENT"
+    ],
+    "answerNotes": {
+      "ORANGE": "The orange supplies the round fragrant fruit for the decoration.",
+      "CLOVE": "A clove is the small whole spice pressed into the peel.",
+      "SCENT": "The scent combines the citrus peel and the cloves."
+    }
+  },
+  {
+    "id": "christmas-small-touches-4",
+    "title": "A Christmas Ornament with a Family Name",
+    "subtheme": "A Christmas Ornament with a Family Name",
+    "description": "Write a name and year on a simple decoration before hanging it.",
+    "cardDescription": "Write a name and year on a simple decoration before hanging it.",
+    "focus": "Write a name and year on a simple decoration before hanging it.",
+    "solvingTip": "Start with this clue: \u201cDecorative object hung on a holiday tree.\u201d Its answer begins with O. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ORNAMENT",
+        "Decorative object hung on a holiday tree"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "YEAR",
+        "Calendar period divided into twelve months"
+      ],
+      [
+        "CHRISTMAS",
+        "Holiday marked by the decorated evergreen"
+      ],
+      [
+        "TREE",
+        "Evergreen on which the keepsake hangs"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip of fabric"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "GIFT",
+        "Present bearing a loved one's name"
+      ],
+      [
+        "FAMILY",
+        "Group of related people"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "LETTER",
+        "One character in a word"
+      ],
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ]
+    ],
+    "requiredAnswers": [
+      "ORNAMENT",
+      "NAME",
+      "YEAR"
+    ],
+    "answerNotes": {
+      "ORNAMENT": "The ornament is the decoration hung on the tree.",
+      "NAME": "The name identifies the person remembered by this keepsake.",
+      "YEAR": "The year records when the decoration was made or given."
+    }
+  },
+  {
+    "id": "christmas-small-touches-5",
+    "title": "Putting Christmas Lights Back in a Box",
+    "subtheme": "Putting Christmas Lights Back in a Box",
+    "description": "Wind a light string neatly before storing the decorations for another year.",
+    "cardDescription": "Wind a light string neatly before storing the decorations for another year.",
+    "focus": "Wind a light string neatly before storing the decorations for another year.",
+    "solvingTip": "Start with this clue: \u201cOne small bulb on the holiday string.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LIGHT",
+        "One small bulb on the holiday string"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "WIND",
+        "Wrap the light string into loops"
+      ],
+      [
+        "CHRISTMAS",
+        "Holiday whose lights are being put away"
+      ],
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "BULB",
+        "Glass part of a lamp that gives light"
+      ],
+      [
+        "PLUG",
+        "Connector inserted into a matching power receptacle"
+      ],
+      [
+        "COIL",
+        "Series of loops wound around one another"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "YEAR",
+        "Twelve-month period until another holiday season"
+      ],
+      [
+        "TANGLE",
+        "Knotty jumble of yarn or string"
+      ]
+    ],
+    "requiredAnswers": [
+      "LIGHT",
+      "STRING",
+      "STORE"
+    ],
+    "answerNotes": {
+      "LIGHT": "Each light is a small bulb on the cord.",
+      "STRING": "The string is the connected set of lights rather than tying thread.",
+      "STORE": "Store means put the decorations away until another season."
+    }
+  }
+]

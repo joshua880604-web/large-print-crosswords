@@ -1,0 +1,387 @@
+[
+  {
+    "id": "useful-sewing",
+    "title": "A Drawstring Bag for Clothespins",
+    "subtheme": "A Drawstring Bag for Clothespins",
+    "description": "Thread a cord through a small cloth bag to keep the pegs together.",
+    "cardDescription": "Thread a cord through a small cloth bag to keep the pegs together.",
+    "focus": "Thread a cord through a small cloth bag to keep the pegs together.",
+    "solvingTip": "Start with this clue: \u201cCord pulled to close a bag.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DRAWSTRING",
+        "Cord pulled to close a bag"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "SEAM",
+        "Line where fabric pieces are joined"
+      ],
+      [
+        "NEEDLE",
+        "Slim sewing tool with an eye for thread"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing"
+      ],
+      [
+        "HEM",
+        "Folded and stitched edge of cloth"
+      ],
+      [
+        "PEG",
+        "Another name for a clothespin"
+      ],
+      [
+        "KNOT",
+        "Fastening made by tying string"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "COTTON",
+        "Soft fiber used for many shirts and towels"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ]
+    ],
+    "requiredAnswers": [
+      "DRAWSTRING",
+      "BAG",
+      "CORD"
+    ],
+    "answerNotes": {
+      "DRAWSTRING": "A drawstring pulls the bag's opening closed.",
+      "BAG": "The bag keeps loose clothespins together.",
+      "CORD": "The cord passes through a channel near the opening."
+    }
+  },
+  {
+    "id": "useful-sewing-2",
+    "title": "A Fabric Doorstop by the Kitchen",
+    "subtheme": "A Fabric Doorstop by the Kitchen",
+    "description": "Fill a small sewn bag so it can hold an inside door open.",
+    "cardDescription": "Fill a small sewn bag so it can hold an inside door open.",
+    "focus": "Fill a small sewn bag so it can hold an inside door open.",
+    "solvingTip": "Start with this clue: \u201cObject that holds a door open.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DOORSTOP",
+        "Object that holds a door open"
+      ],
+      [
+        "WEIGHT",
+        "Something heavy placed inside the bag"
+      ],
+      [
+        "BAG",
+        "Cloth container holding the heavy filling"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "SEAM",
+        "Line where fabric pieces are joined"
+      ],
+      [
+        "FILL",
+        "Put contents into an empty container"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "HEAVY",
+        "Weighing a lot"
+      ],
+      [
+        "NEEDLE",
+        "Pointed sewing tool used with the thread"
+      ],
+      [
+        "THREAD",
+        "Fine strand joining the doorstop's fabric"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal sides"
+      ],
+      [
+        "OPEN",
+        "Held apart from the door frame"
+      ]
+    ],
+    "requiredAnswers": [
+      "DOORSTOP",
+      "WEIGHT",
+      "BAG"
+    ],
+    "answerNotes": {
+      "DOORSTOP": "A doorstop prevents the door from swinging shut.",
+      "WEIGHT": "The weight inside makes the small bag heavy enough for its job.",
+      "BAG": "The bag is the sewn outer covering around the filling."
+    }
+  },
+  {
+    "id": "useful-sewing-3",
+    "title": "An Apron Pocket for a Recipe Card",
+    "subtheme": "An Apron Pocket for a Recipe Card",
+    "description": "Sew a handy pocket on an apron to hold a small recipe card.",
+    "cardDescription": "Sew a handy pocket on an apron to hold a small recipe card.",
+    "focus": "Sew a handy pocket on an apron to hold a small recipe card.",
+    "solvingTip": "Start with this clue: \u201cProtective garment tied over clothes while working.\u201d Its answer begins with A. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "APRON",
+        "Protective garment tied over clothes while working"
+      ],
+      [
+        "POCKET",
+        "Small sewn pouch in clothing"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "SEW",
+        "Join fabric with needle and thread"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "THREAD",
+        "Strand used to attach the apron pocket"
+      ],
+      [
+        "NEEDLE",
+        "Sewing tool drawn through the apron fabric"
+      ],
+      [
+        "HEM",
+        "Folded edge at the top of the pocket"
+      ],
+      [
+        "FRONT",
+        "Side facing forward"
+      ],
+      [
+        "RECIPE",
+        "Written ingredients and directions for making a dish"
+      ],
+      [
+        "PIN",
+        "Small sharp fastener used before sewing"
+      ],
+      [
+        "SEAM",
+        "Line of stitches joining the pocket edges"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "KITCHEN",
+        "Room where meals are prepared"
+      ]
+    ],
+    "requiredAnswers": [
+      "APRON",
+      "POCKET",
+      "CARD"
+    ],
+    "answerNotes": {
+      "APRON": "The apron protects clothing during kitchen work.",
+      "POCKET": "The pocket is sewn onto the apron to hold small items.",
+      "CARD": "A recipe card can fit inside without becoming part of the apron."
+    }
+  },
+  {
+    "id": "useful-sewing-4",
+    "title": "A Cloth Cover for a Bread Basket",
+    "subtheme": "A Cloth Cover for a Bread Basket",
+    "description": "Hem a square of cloth to cover the rolls in a basket.",
+    "cardDescription": "Hem a square of cloth to cover the rolls in a basket.",
+    "focus": "Hem a square of cloth to cover the rolls in a basket.",
+    "solvingTip": "Start with this clue: \u201cProtective top over something.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "ROLL",
+        "Small bread served with a meal"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "HEM",
+        "Turned and stitched border of the cloth"
+      ],
+      [
+        "THREAD",
+        "Fine sewing strand around the cover's edge"
+      ],
+      [
+        "NEEDLE",
+        "Slim pointed tool used to sew the cover"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal straight sides"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "EDGE",
+        "Outside border of the bread cloth"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "NAPKIN",
+        "Cloth or paper square used at a meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "COVER",
+      "BASKET",
+      "ROLL"
+    ],
+    "answerNotes": {
+      "COVER": "The cover lies over the bread while it is on the table.",
+      "BASKET": "The basket holds the rolls together for serving.",
+      "ROLL": "A roll is a small individual bread rather than a whole loaf."
+    }
+  },
+  {
+    "id": "useful-sewing-5",
+    "title": "A Sewn Case for Reading Glasses",
+    "subtheme": "A Sewn Case for Reading Glasses",
+    "description": "Add a soft lining to a small fabric case for a pair of glasses.",
+    "cardDescription": "Add a soft lining to a small fabric case for a pair of glasses.",
+    "focus": "Add a soft lining to a small fabric case for a pair of glasses.",
+    "solvingTip": "Start with this clue: \u201cProtective holder for an object.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "LINING",
+        "Inner layer of a bag or garment"
+      ],
+      [
+        "GLASSES",
+        "Pair of lenses worn to help with seeing"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "SEAM",
+        "Line where fabric pieces are joined"
+      ],
+      [
+        "NEEDLE",
+        "Thread-carrying tool used to stitch the case"
+      ],
+      [
+        "THREAD",
+        "Sewing strand holding the case together"
+      ],
+      [
+        "FOLD",
+        "Bend the fabric into two layers"
+      ],
+      [
+        "EDGE",
+        "Outer border where the case is stitched"
+      ],
+      [
+        "POCKET",
+        "Small pouch shape of the glasses holder"
+      ],
+      [
+        "OPEN",
+        "Not closed at the top of the case"
+      ],
+      [
+        "PAD",
+        "Small soft cushion placed under something"
+      ],
+      [
+        "STITCH",
+        "One loop of worked thread"
+      ]
+    ],
+    "requiredAnswers": [
+      "CASE",
+      "LINING",
+      "GLASSES"
+    ],
+    "answerNotes": {
+      "CASE": "The case protects the glasses between uses.",
+      "LINING": "The lining is the soft inner layer facing the lenses.",
+      "GLASSES": "The glasses are the pair of lenses carried inside the fabric case."
+    }
+  }
+]

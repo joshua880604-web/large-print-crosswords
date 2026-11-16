@@ -1,0 +1,387 @@
+[
+  {
+    "id": "town-meeting-places",
+    "title": "Paying at the Laundromat",
+    "subtheme": "Paying at the Laundromat",
+    "description": "Choose the washer, load the clothes, and add payment for a wash.",
+    "cardDescription": "Choose the washer, load the clothes, and add payment for a wash.",
+    "focus": "Choose the washer, load the clothes, and add payment for a wash.",
+    "solvingTip": "Start with this clue: \u201cShop with washers and dryers for public use.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LAUNDROMAT",
+        "Shop with washers and dryers for public use"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "WASHER",
+        "Machine that cleans clothes"
+      ],
+      [
+        "CLOTHES",
+        "Shirts, coats, and other things people wear"
+      ],
+      [
+        "LOAD",
+        "Amount of laundry put in a washer"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "DRYER",
+        "Machine that removes moisture from laundry"
+      ],
+      [
+        "SPIN",
+        "Turn quickly around a center"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "MACHINE",
+        "Device with moving parts that does work"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "CYCLE",
+        "A complete programmed sequence of washing-machine stages"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ]
+    ],
+    "requiredAnswers": [
+      "LAUNDROMAT",
+      "COIN",
+      "WASHER"
+    ],
+    "answerNotes": {
+      "LAUNDROMAT": "A laundromat provides machines that customers use for laundry.",
+      "COIN": "Coins are one familiar way of paying for a machine.",
+      "WASHER": "The washer cleans the clothes before they go into the dryer."
+    }
+  },
+  {
+    "id": "town-meeting-places-2",
+    "title": "A Menu at the Breakfast Counter",
+    "subtheme": "A Menu at the Breakfast Counter",
+    "description": "Choose a simple breakfast from the menu and tell the server.",
+    "cardDescription": "Choose a simple breakfast from the menu and tell the server.",
+    "focus": "Choose a simple breakfast from the menu and tell the server.",
+    "solvingTip": "Start with this clue: \u201cList of dishes and drinks offered by a restaurant.\u201d Its answer begins with M. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "MENU",
+        "List of dishes and drinks offered by a restaurant"
+      ],
+      [
+        "SERVER",
+        "Person who brings food to a restaurant table"
+      ],
+      [
+        "ORDER",
+        "Ask the server for a chosen meal"
+      ],
+      [
+        "EGGS",
+        "Foods with shells, whites, and yolks"
+      ],
+      [
+        "TOAST",
+        "Bread browned by heating"
+      ],
+      [
+        "COFFEE",
+        "Drink made from roasted ground beans"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "BILL",
+        "Written amount owed for the meal"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "STOOL",
+        "Tall seat commonly placed at a diner counter"
+      ],
+      [
+        "BACON",
+        "Crisp breakfast strips of pork"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "TIP",
+        "Extra money left for a server"
+      ]
+    ],
+    "requiredAnswers": [
+      "MENU",
+      "SERVER",
+      "ORDER"
+    ],
+    "answerNotes": {
+      "MENU": "The menu lists choices and prices before the meal is ordered.",
+      "SERVER": "The server takes the order and brings the food.",
+      "ORDER": "An order is the diner's request for a chosen meal."
+    }
+  },
+  {
+    "id": "town-meeting-places-3",
+    "title": "Picking a Seat at the Band Concert",
+    "subtheme": "Picking a Seat at the Band Concert",
+    "description": "Find a seat facing the band and wait for the music to begin.",
+    "cardDescription": "Find a seat facing the band and wait for the music to begin.",
+    "focus": "Find a seat facing the band and wait for the music to begin.",
+    "solvingTip": "Start with this clue: \u201cPlace for one person to sit.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "BAND",
+        "Group of musicians playing together"
+      ],
+      [
+        "CONCERT",
+        "Live performance of music for an audience"
+      ],
+      [
+        "STAGE",
+        "Raised area for performers"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of seats or shelves"
+      ],
+      [
+        "MUSIC",
+        "Organized sounds with rhythm and melody"
+      ],
+      [
+        "PROGRAM",
+        "Printed guide to a performance or event"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to a sound"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ],
+      [
+        "CLAP",
+        "Applaud by striking the hands together"
+      ],
+      [
+        "FRONT",
+        "Side facing forward"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ]
+    ],
+    "requiredAnswers": [
+      "SEAT",
+      "BAND",
+      "CONCERT"
+    ],
+    "answerNotes": {
+      "SEAT": "The seat faces the performance area.",
+      "BAND": "A band is the group of musicians performing together.",
+      "CONCERT": "The concert is the whole live musical event."
+    }
+  },
+  {
+    "id": "town-meeting-places-4",
+    "title": "Checking the Pool's Open Hours",
+    "subtheme": "Checking the Pool's Open Hours",
+    "description": "Read the posted hours before planning a visit to the town pool.",
+    "cardDescription": "Read the posted hours before planning a visit to the town pool.",
+    "focus": "Read the posted hours before planning a visit to the town pool.",
+    "solvingTip": "Start with this clue: \u201cTimes during which a place is open.\u201d Its answer begins with H. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "HOURS",
+        "Times during which a place is open"
+      ],
+      [
+        "POOL",
+        "Water-filled place for swimming"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "SWIM",
+        "Move through water"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "CLOSE",
+        "Shut rather than open"
+      ],
+      [
+        "DAY",
+        "Twenty-four-hour period"
+      ],
+      [
+        "GATE",
+        "Movable entrance in a fence"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "LOCKER",
+        "Small secure cupboard for personal items"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "SCHEDULE",
+        "List of planned events and their times"
+      ]
+    ],
+    "requiredAnswers": [
+      "HOURS",
+      "POOL",
+      "OPEN"
+    ],
+    "answerNotes": {
+      "HOURS": "The hours show when visitors may use the pool.",
+      "POOL": "The pool is the swimming facility being visited.",
+      "OPEN": "Open means visitors can enter during the posted times."
+    }
+  },
+  {
+    "id": "town-meeting-places-5",
+    "title": "A Quiet Corner at the Book Sale",
+    "subtheme": "A Quiet Corner at the Book Sale",
+    "description": "Browse used books and choose a title to take to the payment table.",
+    "cardDescription": "Browse used books and choose a title to take to the payment table.",
+    "focus": "Browse used books and choose a title to take to the payment table.",
+    "solvingTip": "Start with this clue: \u201cPreviously owned.\u201d Its answer begins with U. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "USED",
+        "Previously owned"
+      ],
+      [
+        "BOOK",
+        "Bound pages inside a cover"
+      ],
+      [
+        "SALE",
+        "Event at which goods are offered for money"
+      ],
+      [
+        "TITLE",
+        "Name of a book or song"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "BROWSE",
+        "Look through things without choosing right away"
+      ],
+      [
+        "CASH",
+        "Money paid as bills or coins"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "SPINE",
+        "Back edge of a book"
+      ]
+    ],
+    "requiredAnswers": [
+      "USED",
+      "BOOK",
+      "SALE"
+    ],
+    "answerNotes": {
+      "USED": "Used books have been owned before this sale.",
+      "BOOK": "A book has pages held together inside a cover.",
+      "SALE": "The sale is where the books are offered for purchase."
+    }
+  }
+]

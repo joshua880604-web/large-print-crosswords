@@ -1,0 +1,387 @@
+[
+  {
+    "id": "gentle-daily-routines",
+    "title": "A Short Walk before Breakfast",
+    "subtheme": "A Short Walk before Breakfast",
+    "description": "Choose a nearby route and look forward to breakfast at home.",
+    "cardDescription": "Choose a nearby route and look forward to breakfast at home.",
+    "focus": "Choose a nearby route and look forward to breakfast at home.",
+    "solvingTip": "Start with this clue: \u201cMove on foot.\u201d Its answer begins with W. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "SHOE",
+        "Covering for the foot"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "MORNING",
+        "Time before noon"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ],
+      [
+        "BLOCK",
+        "Section of a street between two crossings"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "PACE",
+        "Rate at which a person moves along a route"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "PARK",
+        "Public green space where people may walk dogs"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ]
+    ],
+    "requiredAnswers": [
+      "WALK",
+      "ROUTE",
+      "BREAKFAST"
+    ],
+    "answerNotes": {
+      "WALK": "A walk is a trip made on foot.",
+      "ROUTE": "The route is the course chosen before setting out.",
+      "BREAKFAST": "Breakfast is the meal waiting at home after the outing."
+    }
+  },
+  {
+    "id": "gentle-daily-routines-2",
+    "title": "Opening the Curtains in the Morning",
+    "subtheme": "Opening the Curtains in the Morning",
+    "description": "Let daylight into the room and look at the weather outside.",
+    "cardDescription": "Let daylight into the room and look at the weather outside.",
+    "focus": "Let daylight into the room and look at the weather outside.",
+    "solvingTip": "Start with this clue: \u201cFabric panel hung at a window.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CURTAIN",
+        "Fabric panel hung at a window"
+      ],
+      [
+        "DAYLIGHT",
+        "Natural light present during the daytime"
+      ],
+      [
+        "MORNING",
+        "Part of the day when the curtains are opened here"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "CLOUD",
+        "White or gray mass in the sky"
+      ],
+      [
+        "VIEW",
+        "Scene seen from a place"
+      ],
+      [
+        "ROD",
+        "Long bar from which a curtain hangs"
+      ],
+      [
+        "DRAW",
+        "Pull the curtains along their rod"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "SKY",
+        "Expanse overhead"
+      ]
+    ],
+    "requiredAnswers": [
+      "CURTAIN",
+      "DAYLIGHT",
+      "MORNING"
+    ],
+    "answerNotes": {
+      "CURTAIN": "Curtains cover a window and move aside to admit light.",
+      "DAYLIGHT": "Daylight is natural light from outside.",
+      "MORNING": "Morning is the part of the day before noon."
+    }
+  },
+  {
+    "id": "gentle-daily-routines-3",
+    "title": "A Quiet Seat after Lunch",
+    "subtheme": "A Quiet Seat after Lunch",
+    "description": "Settle into a comfortable chair with a book after the meal.",
+    "cardDescription": "Settle into a comfortable chair with a book after the meal.",
+    "focus": "Settle into a comfortable chair with a book after the meal.",
+    "solvingTip": "Start with this clue: \u201cSeat for one person.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ],
+      [
+        "QUIET",
+        "Making little noise"
+      ],
+      [
+        "BOOK",
+        "Bound pages inside a cover"
+      ],
+      [
+        "REST",
+        "Relax without working"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "CUSHION",
+        "Soft pad placed on a reading chair"
+      ],
+      [
+        "ARM",
+        "Side support on a comfortable chair"
+      ],
+      [
+        "LAMP",
+        "Light set on a table"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "ROOM",
+        "Indoor space containing the reading chair"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHAIR",
+      "LUNCH",
+      "QUIET"
+    ],
+    "answerNotes": {
+      "CHAIR": "The chair provides a comfortable place to sit.",
+      "LUNCH": "Lunch is the midday meal before this quiet pause.",
+      "QUIET": "Quiet describes the low level of noise in the reading corner."
+    }
+  },
+  {
+    "id": "gentle-daily-routines-4",
+    "title": "A Drink Refilled during the Day",
+    "subtheme": "A Drink Refilled during the Day",
+    "description": "Fill a clean glass from the pitcher and set it within reach.",
+    "cardDescription": "Fill a clean glass from the pitcher and set it within reach.",
+    "focus": "Fill a clean glass from the pitcher and set it within reach.",
+    "solvingTip": "Start with this clue: \u201cClear vessel used for a drink.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GLASS",
+        "Clear vessel used for a drink"
+      ],
+      [
+        "REFILL",
+        "Another serving poured into a cup that has been emptied"
+      ],
+      [
+        "PITCHER",
+        "Serving jug with a handle and spout"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "TABLE",
+        "Furniture holding the water pitcher"
+      ],
+      [
+        "REACH",
+        "Stretch out an arm to get something"
+      ],
+      [
+        "SIP",
+        "Take a small mouthful of liquid"
+      ],
+      [
+        "FULL",
+        "Filled to the top"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "DRINK",
+        "Swallow a liquid"
+      ]
+    ],
+    "requiredAnswers": [
+      "GLASS",
+      "REFILL",
+      "PITCHER"
+    ],
+    "answerNotes": {
+      "GLASS": "The glass is the drinking vessel on the table.",
+      "REFILL": "To refill is to add another serving after some is gone.",
+      "PITCHER": "The pitcher holds the water and has a handle for pouring."
+    }
+  },
+  {
+    "id": "gentle-daily-routines-5",
+    "title": "Turning Off the Reading Light",
+    "subtheme": "Turning Off the Reading Light",
+    "description": "Mark the page and switch off the lamp when it is time for bed.",
+    "cardDescription": "Mark the page and switch off the lamp when it is time for bed.",
+    "focus": "Mark the page and switch off the lamp when it is time for bed.",
+    "solvingTip": "Start with this clue: \u201cBrightness supplied by the bedside lamp.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LIGHT",
+        "Brightness supplied by the bedside lamp"
+      ],
+      [
+        "OFF",
+        "Word on a switch when the light is out"
+      ],
+      [
+        "BOOKMARK",
+        "Strip or object left between pages to mark one's place"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "BED",
+        "Furniture used for sleeping"
+      ],
+      [
+        "LAMP",
+        "Light set on a table"
+      ],
+      [
+        "SWITCH",
+        "Control that turns an electrical device on or off"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "NIGHT",
+        "Dark time between sunset and dawn"
+      ],
+      [
+        "BOOK",
+        "Bound reading material closed at bedtime"
+      ],
+      [
+        "CLOSE",
+        "Shut rather than open"
+      ],
+      [
+        "TABLE",
+        "Small piece of furniture beside the bed"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "REST",
+        "Relax after putting the book away"
+      ]
+    ],
+    "requiredAnswers": [
+      "LIGHT",
+      "OFF",
+      "BOOKMARK"
+    ],
+    "answerNotes": {
+      "LIGHT": "The light makes the page visible while reading.",
+      "OFF": "Off describes the switch position after reading is finished.",
+      "BOOKMARK": "A bookmark keeps the place without folding the page."
+    }
+  }
+]

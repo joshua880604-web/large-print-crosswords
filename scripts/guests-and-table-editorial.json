@@ -1,0 +1,387 @@
+[
+  {
+    "id": "guests-and-table",
+    "title": "Setting Out a Guest Towel",
+    "subtheme": "Setting Out a Guest Towel",
+    "description": "Fold a clean towel and set a fresh bar of soap beside the sink.",
+    "cardDescription": "Fold a clean towel and set a fresh bar of soap beside the sink.",
+    "focus": "Fold a clean towel and set a fresh bar of soap beside the sink.",
+    "solvingTip": "Start with this clue: \u201cPerson invited to a home or event.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GUEST",
+        "Person invited to a home or event"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "SINK",
+        "Basin for washing dishes"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "BAR",
+        "Solid block of soap"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "BATHROOM",
+        "Room with a sink and toilet"
+      ],
+      [
+        "WASH",
+        "Clean with water"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ]
+    ],
+    "requiredAnswers": [
+      "GUEST",
+      "TOWEL",
+      "SOAP"
+    ],
+    "answerNotes": {
+      "GUEST": "The guest is the person staying or visiting.",
+      "TOWEL": "A towel provides a clean cloth for drying hands.",
+      "SOAP": "Soap is the cleansing material set beside the sink."
+    }
+  },
+  {
+    "id": "guests-and-table-2",
+    "title": "Making Room at the Supper Table",
+    "subtheme": "Making Room at the Supper Table",
+    "description": "Pull up an extra chair and add a place setting for a friend.",
+    "cardDescription": "Pull up an extra chair and add a place setting for a friend.",
+    "focus": "Pull up an extra chair and add a place setting for a friend.",
+    "solvingTip": "Start with this clue: \u201cMore than the usual amount.\u201d Its answer begins with E. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "EXTRA",
+        "More than the usual amount"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "PLACE",
+        "Word before setting for one person's dishes"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "NAPKIN",
+        "Cloth or paper square used at a meal"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "GLASS",
+        "Drinking vessel beside the plate"
+      ],
+      [
+        "SUPPER",
+        "Evening meal"
+      ],
+      [
+        "MAT",
+        "Small flat covering used on a floor"
+      ],
+      [
+        "SET",
+        "Put something in a particular position"
+      ]
+    ],
+    "requiredAnswers": [
+      "EXTRA",
+      "CHAIR",
+      "PLACE"
+    ],
+    "answerNotes": {
+      "EXTRA": "Extra means one more than the table already had.",
+      "CHAIR": "The chair provides another place for someone to sit.",
+      "PLACE": "A place setting is the group of dishes and utensils for one diner."
+    }
+  },
+  {
+    "id": "guests-and-table-3",
+    "title": "A Breakfast Tray for an Overnight Guest",
+    "subtheme": "A Breakfast Tray for an Overnight Guest",
+    "description": "Carry a small breakfast to a guest who is staying overnight.",
+    "cardDescription": "Carry a small breakfast to a guest who is staying overnight.",
+    "focus": "Carry a small breakfast to a guest who is staying overnight.",
+    "solvingTip": "Start with this clue: \u201cFlat serving container with a raised edge.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "TOAST",
+        "Bread browned by heating"
+      ],
+      [
+        "GUEST",
+        "Person staying overnight in the home"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "NAPKIN",
+        "Square used to wipe hands during the meal"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "PLATE",
+        "Dish holding the toast on the tray"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "JAM",
+        "Fruit preserve that might be entered in a canning contest"
+      ],
+      [
+        "COFFEE",
+        "Drink made from roasted ground beans"
+      ],
+      [
+        "BED",
+        "Furniture used for sleeping"
+      ],
+      [
+        "SERVE",
+        "To offer prepared food to someone"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRAY",
+      "JUICE",
+      "TOAST"
+    ],
+    "answerNotes": {
+      "TRAY": "A tray carries the small meal in one trip.",
+      "JUICE": "Juice is the fruit drink served with breakfast.",
+      "TOAST": "Toast is bread browned by heat before it is served."
+    }
+  },
+  {
+    "id": "guests-and-table-4",
+    "title": "Directions Written for a Visitor",
+    "subtheme": "Directions Written for a Visitor",
+    "description": "Write clear turns and street names so a friend can find the house.",
+    "cardDescription": "Write clear turns and street names so a friend can find the house.",
+    "focus": "Write clear turns and street names so a friend can find the house.",
+    "solvingTip": "Start with this clue: \u201cInstructions for finding a place.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DIRECTIONS",
+        "Instructions for finding a place"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "LEFT",
+        "Direction opposite right"
+      ],
+      [
+        "RIGHT",
+        "Direction opposite left"
+      ],
+      [
+        "MAP",
+        "Drawing showing roads and places"
+      ],
+      [
+        "HOUSE",
+        "Building used as a dwelling"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "ROAD",
+        "Way traveled by cars"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "FRIEND",
+        "Person invited to come to the house"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ]
+    ],
+    "requiredAnswers": [
+      "DIRECTIONS",
+      "TURN",
+      "STREET"
+    ],
+    "answerNotes": {
+      "DIRECTIONS": "Directions give the route to a destination.",
+      "TURN": "A turn changes the traveler's direction at a junction.",
+      "STREET": "The street name helps identify the correct road through town."
+    }
+  },
+  {
+    "id": "guests-and-table-5",
+    "title": "Tea for a Friend Who Prefers Decaf",
+    "subtheme": "Tea for a Friend Who Prefers Decaf",
+    "description": "Offer a warm drink and set a separate cup beside the teapot.",
+    "cardDescription": "Offer a warm drink and set a separate cup beside the teapot.",
+    "focus": "Offer a warm drink and set a separate cup beside the teapot.",
+    "solvingTip": "Start with this clue: \u201cTea or coffee with most caffeine removed.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DECAF",
+        "Tea or coffee with most caffeine removed"
+      ],
+      [
+        "TEAPOT",
+        "Vessel with a spout used to brew and serve tea"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "SAUCER",
+        "Small dish placed beneath a teacup"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "TEA",
+        "Drink made by steeping dried leaves"
+      ],
+      [
+        "BAG",
+        "Small packet of tea leaves"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystals used in baking"
+      ],
+      [
+        "HOT",
+        "Having a high temperature"
+      ],
+      [
+        "TRAY",
+        "Flat carrier beneath the cups and teapot"
+      ],
+      [
+        "OFFER",
+        "Ask if someone would like something"
+      ]
+    ],
+    "requiredAnswers": [
+      "DECAF",
+      "TEAPOT",
+      "CUP"
+    ],
+    "answerNotes": {
+      "DECAF": "Decaf has most of its caffeine removed.",
+      "TEAPOT": "The teapot holds the brewed drink before it is poured.",
+      "CUP": "The cup is the smaller vessel from which the guest drinks."
+    }
+  }
+]

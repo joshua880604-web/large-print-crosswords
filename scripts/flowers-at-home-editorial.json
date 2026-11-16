@@ -1,0 +1,387 @@
+[
+  {
+    "id": "flowers-at-home",
+    "title": "Marigolds beside the Vegetable Row",
+    "subtheme": "Marigolds beside the Vegetable Row",
+    "description": "Look at the bright orange and yellow flowers edging a vegetable bed.",
+    "cardDescription": "Look at the bright orange and yellow flowers edging a vegetable bed.",
+    "focus": "Look at the bright orange and yellow flowers edging a vegetable bed.",
+    "solvingTip": "Start with this clue: \u201cGarden flower often grown for golden or orange blooms.\u201d Its answer begins with M. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "MARIGOLD",
+        "Garden flower often grown for golden or orange blooms"
+      ],
+      [
+        "ORANGE",
+        "Color between red and yellow"
+      ],
+      [
+        "BLOOM",
+        "Open flower"
+      ],
+      [
+        "YELLOW",
+        "Color of a ripe lemon"
+      ],
+      [
+        "PETAL",
+        "One colorful part of a flower"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "BED",
+        "Growing area with flowers around its edge"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "SEED",
+        "Plant part from which a new plant grows"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "FLOWER",
+        "Bloom with petals"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "ROOT",
+        "Plant part taking up water below ground"
+      ]
+    ],
+    "requiredAnswers": [
+      "MARIGOLD",
+      "ORANGE",
+      "BLOOM"
+    ],
+    "answerNotes": {
+      "MARIGOLD": "Marigolds are familiar garden flowers with yellow or orange blooms.",
+      "ORANGE": "Orange is one of the bright colors in this flower bed.",
+      "BLOOM": "A bloom is an open flower, rather than an unopened bud."
+    }
+  },
+  {
+    "id": "flowers-at-home-2",
+    "title": "Geraniums on a Sunny Balcony",
+    "subtheme": "Geraniums on a Sunny Balcony",
+    "description": "Turn a pot of familiar red flowers toward the light on a small balcony.",
+    "cardDescription": "Turn a pot of familiar red flowers toward the light on a small balcony.",
+    "focus": "Turn a pot of familiar red flowers toward the light on a small balcony.",
+    "solvingTip": "Start with this clue: \u201cPopular red-flowered plant for pots; starts with G.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GERANIUM",
+        "Popular red-flowered plant for pots; starts with G"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "BALCONY",
+        "Outdoor platform projecting from an upper floor"
+      ],
+      [
+        "POT",
+        "Container used for growing a plant"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "LEAF",
+        "Green plant part beneath the flowers"
+      ],
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "FLOWER",
+        "Colorful part of the potted plant"
+      ],
+      [
+        "RAIL",
+        "Long hand support beside steps"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "BUD",
+        "Small unopened growth on a plant"
+      ],
+      [
+        "BLOOM",
+        "Open blossom on the geranium"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ]
+    ],
+    "requiredAnswers": [
+      "GERANIUM",
+      "RED",
+      "BALCONY"
+    ],
+    "answerNotes": {
+      "GERANIUM": "A geranium is a familiar flowering plant often kept in a pot.",
+      "RED": "Red describes the flowers chosen for this particular balcony scene.",
+      "BALCONY": "A balcony projects from an upper floor and has a protective rail."
+    }
+  },
+  {
+    "id": "flowers-at-home-3",
+    "title": "Roses in a Get-Well Bouquet",
+    "subtheme": "Roses in a Get-Well Bouquet",
+    "description": "Unwrap a simple bouquet and place the roses in fresh water for a friend.",
+    "cardDescription": "Unwrap a simple bouquet and place the roses in fresh water for a friend.",
+    "focus": "Unwrap a simple bouquet and place the roses in fresh water for a friend.",
+    "solvingTip": "Start with this clue: \u201cFlowering shrub with many fragrant varieties.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ROSE",
+        "Flowering shrub with many fragrant varieties"
+      ],
+      [
+        "BOUQUET",
+        "An arranged bunch of cut flowers, often given as a gift"
+      ],
+      [
+        "VASE",
+        "Container for cut flowers"
+      ],
+      [
+        "WATER",
+        "Liquid keeping the cut stems fresh"
+      ],
+      [
+        "STEM",
+        "Long part of a rose placed in the vase"
+      ],
+      [
+        "THORN",
+        "Sharp point on a rose stem"
+      ],
+      [
+        "PINK",
+        "Light red color"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "NOTE",
+        "Short message sent with the flowers"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "PETAL",
+        "One colorful part of a flower"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip of fabric"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "BLOOM",
+        "One opened rose in the gift"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROSE",
+      "BOUQUET",
+      "VASE"
+    ],
+    "answerNotes": {
+      "ROSE": "A rose is the flower at the center of this gift.",
+      "BOUQUET": "A bouquet is a group of cut flowers arranged together.",
+      "VASE": "The vase holds the stems and their fresh water."
+    }
+  },
+  {
+    "id": "flowers-at-home-4",
+    "title": "A Gardenia Floating in a Bowl",
+    "subtheme": "A Gardenia Floating in a Bowl",
+    "description": "Float a fragrant white flower in a shallow bowl on the table.",
+    "cardDescription": "Float a fragrant white flower in a shallow bowl on the table.",
+    "focus": "Float a fragrant white flower in a shallow bowl on the table.",
+    "solvingTip": "Start with this clue: \u201cFragrant white flower with glossy leaves; starts with G.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GARDENIA",
+        "Fragrant white flower with glossy leaves; starts with G"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "SCENT",
+        "Pleasant smell"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "WATER",
+        "Clear liquid in the shallow bowl"
+      ],
+      [
+        "FLOAT",
+        "Rest on top of water rather than sink"
+      ],
+      [
+        "PETAL",
+        "One white part surrounding the bloom's center"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "BLOOM",
+        "White blossom chosen for the bowl"
+      ],
+      [
+        "CREAM",
+        "Pale yellowish-white color"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "GLOSSY",
+        "Smooth and shiny"
+      ],
+      [
+        "FLOWER",
+        "Fragrant blossom resting on the water"
+      ]
+    ],
+    "requiredAnswers": [
+      "GARDENIA",
+      "WHITE",
+      "SCENT"
+    ],
+    "answerNotes": {
+      "GARDENIA": "Gardenias are known for fragrant white flowers and glossy leaves.",
+      "WHITE": "White describes the pale petals floating on the water.",
+      "SCENT": "Scent is the smell of the bloom, rather than its shape or color."
+    }
+  },
+  {
+    "id": "flowers-at-home-5",
+    "title": "A Red Poppy in the Flower Border",
+    "subtheme": "A Red Poppy in the Flower Border",
+    "description": "Notice a bright red flower and its dark center beside a garden path.",
+    "cardDescription": "Notice a bright red flower and its dark center beside a garden path.",
+    "focus": "Notice a bright red flower and its dark center beside a garden path.",
+    "solvingTip": "Start with this clue: \u201cFlower known for bright red petals; starts with P.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "POPPY",
+        "Flower known for bright red petals; starts with P"
+      ],
+      [
+        "RED",
+        "Color of this poppy's delicate petals"
+      ],
+      [
+        "CENTER",
+        "Middle of an object or place"
+      ],
+      [
+        "PETAL",
+        "One delicate red part of the poppy"
+      ],
+      [
+        "SEED",
+        "Tiny plant part inside the poppy's pod"
+      ],
+      [
+        "STEM",
+        "Stalk holding the poppy above its leaves"
+      ],
+      [
+        "FLOWER",
+        "Red blossom growing beside the path"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "BED",
+        "Garden area where the poppy grows"
+      ],
+      [
+        "BUD",
+        "Unopened poppy blossom"
+      ],
+      [
+        "POD",
+        "Long green case holding the peas"
+      ],
+      [
+        "GARDEN",
+        "Area where flowers or vegetables are grown"
+      ],
+      [
+        "BRIGHT",
+        "Strong and vivid, as a red holiday display is"
+      ]
+    ],
+    "requiredAnswers": [
+      "POPPY",
+      "RED",
+      "CENTER"
+    ],
+    "answerNotes": {
+      "POPPY": "A poppy has delicate petals surrounding a noticeable center.",
+      "RED": "Red is the color of the poppy pictured in this scene.",
+      "CENTER": "The center is the part surrounded by the flower's petals."
+    }
+  }
+]

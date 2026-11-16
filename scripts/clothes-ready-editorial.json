@@ -1,0 +1,387 @@
+[
+  {
+    "id": "clothes-ready",
+    "title": "Trying on a Raincoat in the Hall",
+    "subtheme": "Trying on a Raincoat in the Hall",
+    "description": "Fasten a raincoat and check its hood before stepping outside.",
+    "cardDescription": "Fasten a raincoat and check its hood before stepping outside.",
+    "focus": "Fasten a raincoat and check its hood before stepping outside.",
+    "solvingTip": "Start with this clue: \u201cOuter garment designed to shed falling water.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RAINCOAT",
+        "Outer garment designed to shed falling water"
+      ],
+      [
+        "HOOD",
+        "Part of a raincoat that covers the head"
+      ],
+      [
+        "FASTEN",
+        "To secure a garment with a closure"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "COAT",
+        "Cold-weather outer garment"
+      ],
+      [
+        "ZIPPER",
+        "Fastener closed by pulling a sliding tab"
+      ],
+      [
+        "BUTTON",
+        "Small control pressed on a remote"
+      ],
+      [
+        "SLEEVE",
+        "Shirt part covering an arm"
+      ],
+      [
+        "POCKET",
+        "Small sewn pouch in clothing"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "WEATHER",
+        "Conditions such as rain, wind, or sunshine"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ],
+      [
+        "HANGER",
+        "Shaped support on which a garment is hung"
+      ],
+      [
+        "WEAR",
+        "Have clothes on the body"
+      ]
+    ],
+    "requiredAnswers": [
+      "RAINCOAT",
+      "HOOD",
+      "FASTEN"
+    ],
+    "answerNotes": {
+      "RAINCOAT": "A raincoat is made to help shed rain from clothing.",
+      "HOOD": "The hood covers the head and is part of the coat.",
+      "FASTEN": "Fastening closes the front with buttons or a zipper."
+    }
+  },
+  {
+    "id": "clothes-ready-2",
+    "title": "Polishing a Pair of Dress Shoes",
+    "subtheme": "Polishing a Pair of Dress Shoes",
+    "description": "Brush a little polish over leather shoes and buff them with a cloth.",
+    "cardDescription": "Brush a little polish over leather shoes and buff them with a cloth.",
+    "focus": "Brush a little polish over leather shoes and buff them with a cloth.",
+    "solvingTip": "Start with this clue: \u201cTo rub a surface to improve its shine.\u201d Its answer begins with P. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "POLISH",
+        "To rub a surface to improve its shine"
+      ],
+      [
+        "LEATHER",
+        "Material made from treated animal hide"
+      ],
+      [
+        "SHINE",
+        "Give off or reflect bright light"
+      ],
+      [
+        "SHOE",
+        "Covering for the foot"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles for cleaning or grooming"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "TOE",
+        "Front part of a foot or shoe"
+      ],
+      [
+        "HEEL",
+        "Back part of a foot or shoe"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "LACE",
+        "Cord used to fasten a shoe"
+      ],
+      [
+        "BLACK",
+        "Darkest color"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ],
+      [
+        "BUFF",
+        "Rub a shoe with a cloth to make it shine"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ]
+    ],
+    "requiredAnswers": [
+      "POLISH",
+      "LEATHER",
+      "SHINE"
+    ],
+    "answerNotes": {
+      "POLISH": "Polish is rubbed on the shoe to improve its finish.",
+      "LEATHER": "Leather is the material being brushed and buffed here.",
+      "SHINE": "Shine is the bright reflected finish left after buffing."
+    }
+  },
+  {
+    "id": "clothes-ready-3",
+    "title": "A Belt through the Loops",
+    "subtheme": "A Belt through the Loops",
+    "description": "Thread a belt through the waistband and close its buckle.",
+    "cardDescription": "Thread a belt through the waistband and close its buckle.",
+    "focus": "Thread a belt through the waistband and close its buckle.",
+    "solvingTip": "Start with this clue: \u201cBand worn around the waist.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BELT",
+        "Band worn around the waist"
+      ],
+      [
+        "BUCKLE",
+        "Frame and catch used to secure many belts"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "WAIST",
+        "Middle of the body above the hips"
+      ],
+      [
+        "LEATHER",
+        "Treated hide used for many belts"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "PANTS",
+        "American word for trousers"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ],
+      [
+        "STRAP",
+        "Carrying band attached to a bag"
+      ],
+      [
+        "TIGHT",
+        "Firmly fastened, rather than loose"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "WEAR",
+        "Have a belt around the waist"
+      ]
+    ],
+    "requiredAnswers": [
+      "BELT",
+      "BUCKLE",
+      "LOOP"
+    ],
+    "answerNotes": {
+      "BELT": "A belt fits around the waist to help hold clothing in place.",
+      "BUCKLE": "The buckle joins the ends and allows the fit to be adjusted.",
+      "LOOP": "Each loop guides the belt around the waistband."
+    }
+  },
+  {
+    "id": "clothes-ready-4",
+    "title": "Rolling Sleeves before Washing Dishes",
+    "subtheme": "Rolling Sleeves before Washing Dishes",
+    "description": "Turn back a shirt's cuffs before putting hands in the sink.",
+    "cardDescription": "Turn back a shirt's cuffs before putting hands in the sink.",
+    "focus": "Turn back a shirt's cuffs before putting hands in the sink.",
+    "solvingTip": "Start with this clue: \u201cPart of a shirt rolled above the wrist.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SLEEVE",
+        "Part of a shirt rolled above the wrist"
+      ],
+      [
+        "CUFF",
+        "Band at a sleeve's wrist"
+      ],
+      [
+        "ROLL",
+        "Turn the fabric back in a fold"
+      ],
+      [
+        "SHIRT",
+        "Upper-body garment with sleeves"
+      ],
+      [
+        "WRIST",
+        "Joint between a hand and forearm"
+      ],
+      [
+        "ELBOW",
+        "Joint where the arm bends"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "ARM",
+        "Body part from shoulder to wrist"
+      ],
+      [
+        "BUTTON",
+        "Small control pressed on a remote"
+      ],
+      [
+        "SINK",
+        "Basin for washing dishes"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "DRY",
+        "Not soaked by the dishwater"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "CLOTH",
+        "Fabric of the shirt kept away from water"
+      ]
+    ],
+    "requiredAnswers": [
+      "SLEEVE",
+      "CUFF",
+      "ROLL"
+    ],
+    "answerNotes": {
+      "SLEEVE": "The sleeve covers the arm of the shirt.",
+      "CUFF": "The cuff is the band at the wrist end.",
+      "ROLL": "Rolling turns the fabric back so it stays farther from the water."
+    }
+  },
+  {
+    "id": "clothes-ready-5",
+    "title": "A Loose Thread on a Jacket",
+    "subtheme": "A Loose Thread on a Jacket",
+    "description": "Find the hanging thread and trim it neatly without pulling the seam.",
+    "cardDescription": "Find the hanging thread and trim it neatly without pulling the seam.",
+    "focus": "Find the hanging thread and trim it neatly without pulling the seam.",
+    "solvingTip": "Start with this clue: \u201cFine strand hanging from a seam.\u201d Its answer begins with T. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "THREAD",
+        "Fine strand hanging from a seam"
+      ],
+      [
+        "JACKET",
+        "Short outer coat"
+      ],
+      [
+        "TRIM",
+        "To cut away unwanted ends or edges"
+      ],
+      [
+        "SEAM",
+        "Line where fabric pieces are joined"
+      ],
+      [
+        "SCISSORS",
+        "Two-bladed tool for cutting paper"
+      ],
+      [
+        "CLOTH",
+        "Fabric from which the jacket is made"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "POCKET",
+        "Small sewn pouch in clothing"
+      ],
+      [
+        "LINING",
+        "Inner layer of a bag or garment"
+      ],
+      [
+        "SLEEVE",
+        "Garment part around the arm"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "HEM",
+        "Folded and stitched edge of cloth"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "SHORT",
+        "Not long"
+      ]
+    ],
+    "requiredAnswers": [
+      "THREAD",
+      "JACKET",
+      "TRIM"
+    ],
+    "answerNotes": {
+      "THREAD": "The thread is the thin strand hanging from the cloth.",
+      "JACKET": "The jacket is an outer garment with sleeves.",
+      "TRIM": "Trimming removes the loose end rather than pulling at the seam."
+    }
+  }
+]

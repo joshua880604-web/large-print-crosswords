@@ -1,0 +1,387 @@
+[
+  {
+    "id": "old-home-routines",
+    "title": "Using a Handheld Carpet Sweeper",
+    "subtheme": "Using a Handheld Carpet Sweeper",
+    "description": "Push a small carpet sweeper across the rug and empty the collected dust.",
+    "cardDescription": "Push a small carpet sweeper across the rug and empty the collected dust.",
+    "focus": "Push a small carpet sweeper across the rug and empty the collected dust.",
+    "solvingTip": "Start with this clue: \u201cSmall push tool for picking dust up from a carpet.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SWEEPER",
+        "Small push tool for picking dust up from a carpet"
+      ],
+      [
+        "CARPET",
+        "Floor covering that may stretch across a room"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles for cleaning or grooming"
+      ],
+      [
+        "DUST",
+        "Fine dirt settled on furniture"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "PUSH",
+        "Move something away using force"
+      ],
+      [
+        "RUG",
+        "Floor covering placed beside the chair"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "ROLL",
+        "Move forward on small wheels"
+      ]
+    ],
+    "requiredAnswers": [
+      "SWEEPER",
+      "CARPET",
+      "HANDLE"
+    ],
+    "answerNotes": {
+      "SWEEPER": "The sweeper gathers dust as it is pushed along.",
+      "CARPET": "The carpet is the fabric floor covering underneath it.",
+      "HANDLE": "The handle lets a person guide the tool while standing."
+    }
+  },
+  {
+    "id": "old-home-routines-2",
+    "title": "An Ice Tray with a Metal Lever",
+    "subtheme": "An Ice Tray with a Metal Lever",
+    "description": "Lift the lever to release cubes from an old metal ice tray.",
+    "cardDescription": "Lift the lever to release cubes from an old metal ice tray.",
+    "focus": "Lift the lever to release cubes from an old metal ice tray.",
+    "solvingTip": "Start with this clue: \u201cBar lifted to release cubes from an old ice tray.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LEVER",
+        "Bar lifted to release cubes from an old ice tray"
+      ],
+      [
+        "CUBE",
+        "Small block shape in which frozen water is often served"
+      ],
+      [
+        "TRAY",
+        "Shallow container divided into cube spaces"
+      ],
+      [
+        "ICE",
+        "Water in solid form"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "FREEZER",
+        "Cold storage compartment keeping ice cream frozen"
+      ],
+      [
+        "HANDLE",
+        "Part lifted to free the ice"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "LIFT",
+        "Raise something upward"
+      ],
+      [
+        "FROZEN",
+        "Solid because of cold"
+      ],
+      [
+        "GRID",
+        "Framework dividing the tray into cube spaces"
+      ],
+      [
+        "KITCHEN",
+        "Room where meals are prepared"
+      ],
+      [
+        "RELEASE",
+        "Let something go free"
+      ]
+    ],
+    "requiredAnswers": [
+      "LEVER",
+      "CUBE",
+      "TRAY"
+    ],
+    "answerNotes": {
+      "LEVER": "The lever is lifted to loosen the frozen cubes.",
+      "CUBE": "Each cube occupies a separate space in the tray.",
+      "TRAY": "The tray holds the water while it freezes."
+    }
+  },
+  {
+    "id": "old-home-routines-3",
+    "title": "Turning a Hand-Crank Can Opener",
+    "subtheme": "Turning a Hand-Crank Can Opener",
+    "description": "Hold the opener on the rim and turn the handle to cut the lid.",
+    "cardDescription": "Hold the opener on the rim and turn the handle to cut the lid.",
+    "focus": "Hold the opener on the rim and turn the handle to cut the lid.",
+    "solvingTip": "Start with this clue: \u201cTool that cuts the lid from a can.\u201d Its answer begins with O. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "OPENER",
+        "Tool that cuts the lid from a can"
+      ],
+      [
+        "CRANK",
+        "Handle turned to work a small machine"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "HANDLE",
+        "Grip turned to move the cutting wheel"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "METAL",
+        "Material used for the can and lid"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "KITCHEN",
+        "Room where the can is opened"
+      ],
+      [
+        "TIN",
+        "Metal container with a lid"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "GRIP",
+        "Hold firmly with the hand"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ]
+    ],
+    "requiredAnswers": [
+      "OPENER",
+      "CRANK",
+      "LID"
+    ],
+    "answerNotes": {
+      "OPENER": "The opener grips the rim and cuts around the lid.",
+      "CRANK": "The crank is the handle turned to move the cutting wheel.",
+      "LID": "The lid is the top being separated from the can."
+    }
+  },
+  {
+    "id": "old-home-routines-4",
+    "title": "A Foldaway Card Table in the Closet",
+    "subtheme": "A Foldaway Card Table in the Closet",
+    "description": "Open the folding legs of the table before friends arrive for cards.",
+    "cardDescription": "Open the folding legs of the table before friends arrive for cards.",
+    "focus": "Open the folding legs of the table before friends arrive for cards.",
+    "solvingTip": "Start with this clue: \u201cBend one part over another.\u201d Its answer begins with F. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "LEG",
+        "Limb used for walking"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "CLOSET",
+        "Small built-in space used to store clothing or household items"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal sides"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "GAME",
+        "Activity played under rules"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "HINGE",
+        "Joint allowing a door to swing"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ]
+    ],
+    "requiredAnswers": [
+      "FOLD",
+      "TABLE",
+      "LEG"
+    ],
+    "answerNotes": {
+      "FOLD": "To fold the legs is to make the table flatter for storage.",
+      "TABLE": "The table opens to provide a surface for the game.",
+      "LEG": "Each leg supports the tabletop when it is in use."
+    }
+  },
+  {
+    "id": "old-home-routines-5",
+    "title": "Paper Grocery Sacks Saved for Reuse",
+    "subtheme": "Paper Grocery Sacks Saved for Reuse",
+    "description": "Fold the empty bags flat and tuck them beside the cupboard.",
+    "cardDescription": "Fold the empty bags flat and tuck them beside the cupboard.",
+    "focus": "Fold the empty bags flat and tuck them beside the cupboard.",
+    "solvingTip": "Start with this clue: \u201cPaper bag used for groceries.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SACK",
+        "Paper bag used for groceries"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "REUSE",
+        "Use something again"
+      ],
+      [
+        "FOLD",
+        "Bend the bag along its creases"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "FLAT",
+        "Folded without much thickness"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of something"
+      ],
+      [
+        "CREASE",
+        "Line made by sharply folding paper"
+      ],
+      [
+        "GROCERY",
+        "Food item bought for home"
+      ],
+      [
+        "CUPBOARD",
+        "Kitchen storage space with shelves behind a door"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "EMPTY",
+        "With all the groceries removed"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ]
+    ],
+    "requiredAnswers": [
+      "SACK",
+      "PAPER",
+      "REUSE"
+    ],
+    "answerNotes": {
+      "SACK": "A sack is another name for the paper grocery bag.",
+      "PAPER": "The paper bends into flat folds for storage.",
+      "REUSE": "Reuse means put the same item to work again."
+    }
+  }
+]

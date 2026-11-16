@@ -1,0 +1,387 @@
+[
+  {
+    "id": "familiar-song-scenes",
+    "title": "America the Beautiful: Land and Sky",
+    "subtheme": "America the Beautiful: Land and Sky",
+    "description": "Use ordinary landscape words from the familiar song's title and opening images.",
+    "cardDescription": "Use ordinary landscape words from the familiar song's title and opening images.",
+    "focus": "Use ordinary landscape words from the familiar song's title and opening images.",
+    "solvingTip": "Start with this clue: \u201cCountry name in the song ___ the Beautiful.\u201d Its answer begins with A. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "AMERICA",
+        "Country name in the song ___ the Beautiful"
+      ],
+      [
+        "BEAUTIFUL",
+        "Lovely to look at"
+      ],
+      [
+        "MOUNTAIN",
+        "Very high area of land"
+      ],
+      [
+        "GRAIN",
+        "Edible seed such as wheat"
+      ],
+      [
+        "SKY",
+        "Expanse overhead"
+      ],
+      [
+        "SEA",
+        "Large expanse of salt water"
+      ],
+      [
+        "WAVE",
+        "Move a hand or fan from side to side"
+      ],
+      [
+        "FIELD",
+        "Open area used for crops"
+      ],
+      [
+        "GOLD",
+        "Yellow color named for a precious metal"
+      ],
+      [
+        "PURPLE",
+        "Color made by mixing red and blue"
+      ],
+      [
+        "PLAIN",
+        "Wide flat area of land"
+      ],
+      [
+        "LAND",
+        "Dry ground rather than water"
+      ],
+      [
+        "WIDE",
+        "Opposite of narrow when describing width"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ]
+    ],
+    "requiredAnswers": [
+      "AMERICA",
+      "BEAUTIFUL",
+      "MOUNTAIN"
+    ],
+    "answerNotes": {
+      "AMERICA": "America is the country named by the song's title.",
+      "BEAUTIFUL": "Beautiful describes the admired landscape in the song.",
+      "MOUNTAIN": "The mountain is one of the large landforms pictured by its opening images."
+    }
+  },
+  {
+    "id": "familiar-song-scenes-2",
+    "title": "My Bonnie Lies over the Ocean: Across the Water",
+    "subtheme": "My Bonnie Lies over the Ocean: Across the Water",
+    "description": "Picture the water and distance in a familiar sing-along, without a music-history quiz.",
+    "cardDescription": "Picture the water and distance in a familiar sing-along, without a music-history quiz.",
+    "focus": "Picture the water and distance in a familiar sing-along, without a music-history quiz.",
+    "solvingTip": "Start with this clue: \u201cVery large body of salt water.\u201d Its answer begins with O. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "OCEAN",
+        "Very large body of salt water"
+      ],
+      [
+        "BONNIE",
+        "Name in the song title My ___ Lies over the Ocean"
+      ],
+      [
+        "SEA",
+        "Broad saltwater expanse in the sing-along"
+      ],
+      [
+        "WAVE",
+        "Move a hand or fan from side to side"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "SHIP",
+        "Large boat"
+      ],
+      [
+        "FAR",
+        "A long distance away"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ],
+      [
+        "SONG",
+        "Familiar tune about someone across the sea"
+      ],
+      [
+        "WIND",
+        "Moving air above the water"
+      ],
+      [
+        "SAIL",
+        "Large fabric surface that catches wind to move a boat"
+      ],
+      [
+        "SHORE",
+        "Land beside a lake"
+      ],
+      [
+        "BLUE",
+        "Color of a clear daytime sky"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ]
+    ],
+    "requiredAnswers": [
+      "OCEAN",
+      "BONNIE",
+      "SEA"
+    ],
+    "answerNotes": {
+      "OCEAN": "The ocean represents the broad water separating people in the song.",
+      "BONNIE": "Bonnie is the name given in the familiar title.",
+      "SEA": "Sea is another everyday word for a large expanse of salt water."
+    }
+  },
+  {
+    "id": "familiar-song-scenes-3",
+    "title": "She'll Be Coming Round the Mountain: A Welcome",
+    "subtheme": "She'll Be Coming Round the Mountain: A Welcome",
+    "description": "Picture a mountain journey and people getting ready to greet a visitor.",
+    "cardDescription": "Picture a mountain journey and people getting ready to greet a visitor.",
+    "focus": "Picture a mountain journey and people getting ready to greet a visitor.",
+    "solvingTip": "Start with this clue: \u201cHigh landform named in the song's title.\u201d Its answer begins with M. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "MOUNTAIN",
+        "High landform named in the song's title"
+      ],
+      [
+        "WELCOME",
+        "Friendly greeting to a visitor"
+      ],
+      [
+        "JOURNEY",
+        "Trip from one place to another"
+      ],
+      [
+        "ROAD",
+        "Way traveled by cars"
+      ],
+      [
+        "HORSE",
+        "Animal that can pull a wagon"
+      ],
+      [
+        "ROUND",
+        "Around, in the wording of the song title"
+      ],
+      [
+        "COME",
+        "Move toward the speaker"
+      ],
+      [
+        "VISITOR",
+        "Person who comes to see someone or somewhere"
+      ],
+      [
+        "SING",
+        "Make music with the voice"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "HILL",
+        "Raised area of land smaller than a mountain"
+      ],
+      [
+        "RIDE",
+        "Travel on a vehicle or amusement attraction"
+      ],
+      [
+        "GREET",
+        "Say hello to a visitor"
+      ],
+      [
+        "TEAM",
+        "Pair or group of horses pulling together"
+      ]
+    ],
+    "requiredAnswers": [
+      "MOUNTAIN",
+      "WELCOME",
+      "JOURNEY"
+    ],
+    "answerNotes": {
+      "MOUNTAIN": "The mountain is the landmark on the imagined journey.",
+      "WELCOME": "A welcome is the greeting prepared for the arriving visitor.",
+      "JOURNEY": "The journey is the trip before that arrival."
+    }
+  },
+  {
+    "id": "familiar-song-scenes-4",
+    "title": "Let Me Call You Sweetheart: Words of Affection",
+    "subtheme": "Let Me Call You Sweetheart: Words of Affection",
+    "description": "Try the everyday words of an affectionate old song rather than recalling a performer.",
+    "cardDescription": "Try the everyday words of an affectionate old song rather than recalling a performer.",
+    "focus": "Try the everyday words of an affectionate old song rather than recalling a performer.",
+    "solvingTip": "Start with this clue: \u201cAffectionate name for someone you love.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SWEETHEART",
+        "Affectionate name for someone you love"
+      ],
+      [
+        "LOVE",
+        "Deep affection"
+      ],
+      [
+        "DEAR",
+        "Affectionate word in \"my ___ friend\""
+      ],
+      [
+        "HEART",
+        "Organ that pumps blood"
+      ],
+      [
+        "CALL",
+        "Address someone by a loving name"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "ROSE",
+        "Flowering shrub with many fragrant varieties"
+      ],
+      [
+        "SMILE",
+        "Happy expression with an upturned mouth"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "CARE",
+        "Kind attention to someone's needs"
+      ],
+      [
+        "HAPPY",
+        "Feeling glad"
+      ],
+      [
+        "SING",
+        "Make music with the voice"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ]
+    ],
+    "requiredAnswers": [
+      "SWEETHEART",
+      "LOVE",
+      "DEAR"
+    ],
+    "answerNotes": {
+      "SWEETHEART": "Sweetheart is an affectionate name used in the song.",
+      "LOVE": "Love is the affection expressed by the title.",
+      "DEAR": "Dear is another familiar word of affection."
+    }
+  },
+  {
+    "id": "familiar-song-scenes-5",
+    "title": "Row, Row, Row Your Boat: Along the Stream",
+    "subtheme": "Row, Row, Row Your Boat: Along the Stream",
+    "description": "Picture the boat, oars, and gentle stream in a familiar round that a group can sing.",
+    "cardDescription": "Picture the boat, oars, and gentle stream in a familiar round that a group can sing.",
+    "focus": "Picture the boat, oars, and gentle stream in a familiar round that a group can sing.",
+    "solvingTip": "Start with this clue: \u201cMove a boat using oars.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ROW",
+        "Move a boat using oars"
+      ],
+      [
+        "BOAT",
+        "Small vessel traveling on water"
+      ],
+      [
+        "STREAM",
+        "Small natural flowing watercourse"
+      ],
+      [
+        "OAR",
+        "Long implement used to row a boat"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "GENTLE",
+        "Mild and easy rather than rough"
+      ],
+      [
+        "SONG",
+        "Tune that can be sung as a round"
+      ],
+      [
+        "ROUND",
+        "Song sung by groups starting at different times"
+      ],
+      [
+        "DREAM",
+        "Images experienced while asleep"
+      ],
+      [
+        "LIFE",
+        "State of being alive"
+      ],
+      [
+        "FLOAT",
+        "Rest on top of water rather than sink"
+      ],
+      [
+        "BANK",
+        "Land at the side of a stream"
+      ],
+      [
+        "DRIFT",
+        "Float along with the current"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROW",
+      "BOAT",
+      "STREAM"
+    ],
+    "answerNotes": {
+      "ROW": "To row is to move a boat by pulling on oars.",
+      "BOAT": "The boat is the small craft pictured in the song.",
+      "STREAM": "The stream is the flowing water along its route."
+    }
+  }
+]

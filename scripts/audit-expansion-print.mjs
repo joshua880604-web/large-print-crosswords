@@ -3,19 +3,19 @@ import {readFileSync,writeFileSync,mkdirSync,existsSync} from 'node:fs';
 import {resolve,join} from 'node:path';
 import {chromium} from '@playwright/test';
 import assert from 'node:assert/strict';
+import {releaseScope} from './release-scope.mjs';
 const base=new URL(process.argv[2]||'http://127.0.0.1:4323');
 assert.ok(['127.0.0.1','localhost','[::1]'].includes(base.hostname));
 const directory=resolve(process.argv[3]||'/tmp/lpc-expansion-print');mkdirSync(directory,{recursive:true});
-const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8')).slice(500);
-assert.equal(puzzles.length,500);
+const puzzles=releaseScope().puzzles;
 const allCases=puzzles.flatMap(puzzle=>['large','compact'].flatMap(layout=>[false,true].map(answers=>({puzzle,layout,answers}))));
 const key=({puzzle,layout,answers})=>`${puzzle.id}-${answers?'answers':'puzzle'}-${layout}.pdf`;
 const signature=(p,answers)=>JSON.stringify({title:p.title,description:p.description,rows:p.rows,cols:p.cols,entries:p.entries.map(e=>({answer:e.answer,number:e.number,row:e.row,col:e.col,direction:e.direction,...(!answers?{clue:e.clue}:{})}))});
 const results=[];let cursor=0;let cases=allCases;
-if(process.argv[4]){
+if(process.argv[4]&&!process.argv[4].startsWith('--')){
  const before=new Map(JSON.parse(readFileSync(resolve(process.argv[4]),'utf8')).map(p=>[p.id,p]));
  const previous=JSON.parse(readFileSync(join(directory,'exports.json'),'utf8'));
- assert.equal(previous.expected,2000);assert.equal(previous.checked,2000);assert.equal(previous.failures.length,0);
+ assert.equal(previous.expected,allCases.length);assert.equal(previous.checked,allCases.length);assert.equal(previous.failures.length,0);
  const byFile=new Map(previous.results.map(r=>[r.file,r]));
  cases=allCases.filter(c=>{
   const old=before.get(c.puzzle.id),saved=byFile.get(key(c));

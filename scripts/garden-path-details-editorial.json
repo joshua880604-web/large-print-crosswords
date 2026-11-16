@@ -1,0 +1,387 @@
+[
+  {
+    "id": "garden-path-details",
+    "title": "Gravel for a Muddy Garden Path",
+    "subtheme": "Gravel for a Muddy Garden Path",
+    "description": "Fill a damp low spot in the path with small loose stones.",
+    "cardDescription": "Fill a damp low spot in the path with small loose stones.",
+    "focus": "Fill a damp low spot in the path with small loose stones.",
+    "solvingTip": "Start with this clue: \u201cSmall stones spread on a garden path.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GRAVEL",
+        "Small stones spread on a garden path"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "MUD",
+        "Wet soft earth"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "RAKE",
+        "Long-handled tool with teeth for gathering leaves"
+      ],
+      [
+        "BOOT",
+        "Footwear rising above the ankle"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "LEVEL",
+        "Make a path flat and even"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "LOAD",
+        "Amount of laundry put in a washer"
+      ],
+      [
+        "PILE",
+        "Heap of things together"
+      ],
+      [
+        "SHOVEL",
+        "Broad-bladed tool for moving soil or snow"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "GATE",
+        "Movable entrance in a fence"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRAVEL",
+      "PATH",
+      "MUD"
+    ],
+    "answerNotes": {
+      "GRAVEL": "Gravel consists of many small loose stones rather than one solid slab.",
+      "PATH": "The path is the walking route through the garden.",
+      "MUD": "Mud forms where soil is mixed with enough water to soften it."
+    }
+  },
+  {
+    "id": "garden-path-details-2",
+    "title": "A Hose Guide beside the Flower Bed",
+    "subtheme": "A Hose Guide beside the Flower Bed",
+    "description": "Keep the watering hose out of the flowers as it goes around a corner.",
+    "cardDescription": "Keep the watering hose out of the flowers as it goes around a corner.",
+    "focus": "Keep the watering hose out of the flowers as it goes around a corner.",
+    "solvingTip": "Start with this clue: \u201cPlace where two edges meet.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "HOSE",
+        "Flexible tube carrying water"
+      ],
+      [
+        "GUIDE",
+        "Object that helps direct a garden hose"
+      ],
+      [
+        "BED",
+        "Planted garden area beside the hose"
+      ],
+      [
+        "FLOWER",
+        "Bloom with petals"
+      ],
+      [
+        "EDGE",
+        "Outer border of the planted area"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "STAKE",
+        "Upright support for a garden plant"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "BEND",
+        "Curve in a path or stream"
+      ],
+      [
+        "CURVE",
+        "Line that bends rather than staying straight"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ]
+    ],
+    "requiredAnswers": [
+      "CORNER",
+      "HOSE",
+      "GUIDE"
+    ],
+    "answerNotes": {
+      "CORNER": "The corner is where the hose must change direction.",
+      "HOSE": "The hose carries water from the faucet to the plants.",
+      "GUIDE": "The guide keeps the hose on its route around the planted area."
+    }
+  },
+  {
+    "id": "garden-path-details-3",
+    "title": "Brushing Moss from a Garden Step",
+    "subtheme": "Brushing Moss from a Garden Step",
+    "description": "Clear a stone step and notice its shady, damp corner of the yard.",
+    "cardDescription": "Clear a stone step and notice its shady, damp corner of the yard.",
+    "focus": "Clear a stone step and notice its shady, damp corner of the yard.",
+    "solvingTip": "Start with this clue: \u201cSmall soft green growth on a woodland rock.\u201d Its answer begins with M. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "MOSS",
+        "Small soft green growth on a woodland rock"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles for cleaning or grooming"
+      ],
+      [
+        "STONE",
+        "Hard natural material of the garden step"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "DAMP",
+        "Slightly wet, rather than soaked"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "EDGE",
+        "Rim of the step beside the moss"
+      ],
+      [
+        "PATH",
+        "Walking route leading to the step"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "BROOM",
+        "Bristled tool used to sweep loose dirt"
+      ],
+      [
+        "WALK",
+        "Go along the garden route on foot"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ]
+    ],
+    "requiredAnswers": [
+      "MOSS",
+      "STEP",
+      "BRUSH"
+    ],
+    "answerNotes": {
+      "MOSS": "Moss is a small green growth often seen in damp shade.",
+      "STEP": "The step raises the walking surface to a different level.",
+      "BRUSH": "The brush clears the surface with its bristles."
+    }
+  },
+  {
+    "id": "garden-path-details-4",
+    "title": "A Small Sign for an Herb Bed",
+    "subtheme": "A Small Sign for an Herb Bed",
+    "description": "Paint a readable plant name on a wooden marker beside the herbs.",
+    "cardDescription": "Paint a readable plant name on a wooden marker beside the herbs.",
+    "focus": "Paint a readable plant name on a wooden marker beside the herbs.",
+    "solvingTip": "Start with this clue: \u201cSmall sign identifying a garden plant.\u201d Its answer begins with M. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "MARKER",
+        "Small sign identifying a garden plant"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "HERB",
+        "Plant whose leaves are used to flavor food, fresh or dried"
+      ],
+      [
+        "PAINT",
+        "Colored coating spread with a brush"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "BRUSH",
+        "Tool used to apply paint to the marker"
+      ],
+      [
+        "LETTER",
+        "One character in a word"
+      ],
+      [
+        "STAKE",
+        "Pointed wooden support pushed into soil"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "BED",
+        "Small growing area for the herbs"
+      ],
+      [
+        "MINT",
+        "Cool-flavored herb used in tea"
+      ],
+      [
+        "SAGE",
+        "Aromatic herb often used to season bread stuffing"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ]
+    ],
+    "requiredAnswers": [
+      "MARKER",
+      "NAME",
+      "HERB"
+    ],
+    "answerNotes": {
+      "MARKER": "A marker identifies the plant growing beside it.",
+      "NAME": "The name on the sign distinguishes one herb from another.",
+      "HERB": "An herb is a plant used for its flavor or scent."
+    }
+  },
+  {
+    "id": "garden-path-details-5",
+    "title": "A Garden Seat after the Rain",
+    "subtheme": "A Garden Seat after the Rain",
+    "description": "Wipe the rain from a bench before sitting down to enjoy the view.",
+    "cardDescription": "Wipe the rain from a bench before sitting down to enjoy the view.",
+    "focus": "Wipe the rain from a bench before sitting down to enjoy the view.",
+    "solvingTip": "Start with this clue: \u201cLong seat for several people.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BENCH",
+        "Long seat for several people"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "DROP",
+        "Let something fall"
+      ],
+      [
+        "BACK",
+        "Upright support behind a seated person"
+      ],
+      [
+        "ARM",
+        "Side support for an elbow on the bench"
+      ],
+      [
+        "REST",
+        "Relax without working"
+      ],
+      [
+        "VIEW",
+        "Scene seen from a place"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "GARDEN",
+        "Area where flowers or vegetables are grown"
+      ],
+      [
+        "CLOUD",
+        "White or gray mass in the sky"
+      ]
+    ],
+    "requiredAnswers": [
+      "BENCH",
+      "WIPE",
+      "RAIN"
+    ],
+    "answerNotes": {
+      "BENCH": "A bench is a long seat with space for more than one person.",
+      "WIPE": "Wiping removes water with a cloth before someone sits down.",
+      "RAIN": "Rain can leave drops on the seat even after the clouds pass."
+    }
+  }
+]

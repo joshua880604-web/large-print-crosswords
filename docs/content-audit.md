@@ -4,10 +4,10 @@ Counts and similarity are internal editorial signals, not Google thresholds or a
 
 ## Current collection
 
-- 1000 current puzzles; 11204 clue entries.
-- 2927 distinct answers; 7715 distinct answer/clue pairs.
-- 1000 different introductions; 0 numbered titles remain.
-- 1000 editions have dedicated subject notes and answer explanations.
+- 1200 current puzzles; 13484 clue entries.
+- 3067 distinct answers; 8488 distinct answer/clue pairs.
+- 1200 different introductions; 0 numbered titles remain.
+- 1200 editions have dedicated subject notes and answer explanations.
 
 ## Gardening: five stable URLs
 
@@ -1469,11 +1469,291 @@ Subjects: Thanksgiving Place Cards with Family Names, A Wishbone Saved After Tha
 
 Subjects: A Friendly Ghost Made from a Sheet, Carving a Grinning Jack-o'-Lantern, A Witch Hat and a Toy Broom, Paper Bats Hanging in the Window, A Bowl of Wrapped Halloween Treats.
 
+## Sharing a Garden: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Neighborhood Seed Swap, A Garden Vacation Helper, Giving Away Extra Summer Squash, An Open Garden Afternoon, A Plant Cutting Rooting in Water.
+
+## Looking After a Small Harvest: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Netting over a Blueberry Bush, A Tomato Stem on a Soft Tie, Straw Beneath Growing Melons, A Cover for a Chilly Garden Night, A Fence around the Vegetable Bed.
+
+## After the Garden Work: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Mud on a Pair of Garden Boots, Rinsing Empty Plant Pots, Checking a Garden Hose for a Leak, A Notebook of This Year's Harvest, An Empty Garden Bed in Late Fall.
+
+## Along the Garden Walk: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Gravel for a Muddy Garden Path, A Hose Guide beside the Flower Bed, Brushing Moss from a Garden Step, A Small Sign for an Herb Bed, A Garden Seat after the Rain.
+
+## Everyday Flowers to Enjoy: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Marigolds beside the Vegetable Row, Geraniums on a Sunny Balcony, Roses in a Get-Well Bouquet, A Gardenia Floating in a Bowl, A Red Poppy in the Flower Border.
+
+## Ordinary Days with Pets: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Dog's Supper Bowl, A Cat Watching through a Window, A Pet Carrier Ready for a Visit, Brushing a Dog's Coat, A Goldfish at Feeding Time.
+
+## Watching Familiar Birds: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Robin Pulling at a Worm, A Duck Smoothing Its Feathers, Geese Flying in a V, A Sparrow Taking a Dust Bath, A Nest after the Young Birds Leave.
+
+## A Closer Look beside Water: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Toad beside a Leaky Garden Tap, A Minnow in Shallow Water, A Duck Footprint in Wet Sand, A Floating Leaf on a Creek, A Smooth Stone Skipped across a Pond.
+
+## Familiar Lunch Plates: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Bowl of White Bean Soup, A Baked Sweet Potato for Lunch, Egg Salad in a Sandwich, A Bowl of Hummus with Pita, A Corn Tortilla Filled for Lunch.
+
+## More Breakfast Favorites: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Toasted English Muffin, Soft-Boiled Eggs in Egg Cups, Yogurt with a Spoonful of Granola, Cream Cheese on a Bagel Half, A Grapefruit Cut for Breakfast.
+
+## Simple Suppers to Recognize: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Tuna Noodle Casserole, Beef Stew with Tender Carrots, Fish Sticks beside a Lemon Wedge, A Ham Steak in the Skillet, A Turkey Sandwich after Supper.
+
+## Party Plates and Desserts: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Plate of Deviled Eggs, A Bowl of Tapioca Pudding, A Slice of Angel Food Cake, An Ice-Cream Sandwich in Its Wrapper, A Baked Custard in a Little Dish.
+
+## Small Jobs in the Kitchen: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Shelling Peas at the Kitchen Table, Snapping the Ends from Green Beans, Separating an Egg for Baking, Mashing Bananas with a Fork, Lining a Baking Pan with Paper.
+
+## Familiar Pantry Choices: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Choosing a Jar of Peanut Butter, A Box of Cornflakes for the Cupboard, A Can of Peaches in the Pantry, Mustard and Ketchup at the Table, A Bag of Flour for the Baking Shelf.
+
+## Helpful Counters in Town: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Watch Battery at the Jewelry Counter, Checking In at the Dental Desk, Buying a Roll of Postage Stamps, An Appliance Repair Appointment, A Lost Umbrella at the Service Desk.
+
+## Joining In around Town: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Signing Up for a Library Class, A Table for Voter Registration, Returning a Borrowed Folding Chair, Choosing a Volunteer Shift, Signing Out a Community Tool.
+
+## A Place for a Visitor: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Setting Out a Guest Towel, Making Room at the Supper Table, A Breakfast Tray for an Overnight Guest, Directions Written for a Visitor, Tea for a Friend Who Prefers Decaf.
+
+## Small Checks around the House: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Testing a Flashlight before a Storm, Changing the Batteries in a Remote, A Grocery Receipt on the Counter, Sorting Recycling on Collection Day, Measuring a Window for Curtains.
+
+## Clothes Ready for the Day: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Trying on a Raincoat in the Hall, Polishing a Pair of Dress Shoes, A Belt through the Loops, Rolling Sleeves before Washing Dishes, A Loose Thread on a Jacket.
+
+## Familiar Daily Routines: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Short Walk before Breakfast, Opening the Curtains in the Morning, A Quiet Seat after Lunch, A Drink Refilled during the Day, Turning Off the Reading Light.
+
+## Simple Travel Preparations: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Packing a Toiletry Bag, A Name Tag on a Suitcase, Checking a Train Ticket's Time, A Hotel Wake-Up Call, A Restroom Stop on a Long Drive.
+
+## Places to Meet in Town: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Paying at the Laundromat, A Menu at the Breakfast Counter, Picking a Seat at the Band Concert, Checking the Pool's Open Hours, A Quiet Corner at the Book Sale.
+
+## Useful Sewing Projects: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Drawstring Bag for Clothespins, A Fabric Doorstop by the Kitchen, An Apron Pocket for a Recipe Card, A Cloth Cover for a Bread Basket, A Sewn Case for Reading Glasses.
+
+## Paper Projects with a Purpose: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Paper Envelope for a Gift Card, A Paper Cone for Party Nuts, A Paper Sleeve for a Flowerpot, A Homemade Birthday Banner, A Small Paper Lantern with a Handle.
+
+## Familiar Table Pastimes: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Game of Scrabble with Friends, Yahtzee at the Kitchen Table, A Round of Rummy, A Game of Connect Four, Rolling Doubles in a Board Game.
+
+## Keeping Small Collections: five first editions
+
+- 55 clues; 55 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Postmark on an Old Envelope, A Ticket Saved from a Concert, Sorting Recipe Clippings by Course, A Souvenir Spoon in a Display Rack, A Thimble among the Sewing Keepsakes.
+
+## Getting Ready to Sing Together: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Choosing a Starting Note for a Song, Large Song Sheets for a Group, An Unaccompanied Birthday Song, Keeping Time with a Foot Tap, Putting Song Sheets Back in Order.
+
+## Familiar Song Title Scenes: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: America the Beautiful: Land and Sky, My Bonnie Lies over the Ocean: Across the Water, She'll Be Coming Round the Mountain: A Welcome, Let Me Call You Sweetheart: Words of Affection, Row, Row, Row Your Boat: Along the Stream.
+
+## Remembering Ordinary Home Jobs: five first editions
+
+- 59 clues; 59 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Using a Handheld Carpet Sweeper, An Ice Tray with a Metal Lever, Turning a Hand-Crank Can Opener, A Foldaway Card Table in the Closet, Paper Grocery Sacks Saved for Reuse.
+
+## Remembered Shop Windows: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Catalog Order at the General Store, A Shoe Store's Foot-Measuring Tool, A Bakery's Rotating Cake Display, A Hardware Store's Bulk Nail Bin, A Dime Store's Spool Rack.
+
+## Remembering Familiar Play: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Jump Rope Hung on a Hook, A Paper Fortune Teller Folded by Hand, The Hoop beside the Backyard Fence, A Paddle Ball on an Elastic String, A Ring Toss at the School Fair.
+
+## Spring Plans at Home: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Garden Center's Spring Opening, A Welcome Mat Shaken in Spring Sunshine, Filling the Hummingbird Feeder, A New Pair of Garden Kneepads, The First Lawn Mowing of Spring.
+
+## Small Summer Treats: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Frozen Fruit Pop on the Porch, A Bowl of Cherries on the Patio, Slices of Cantaloupe for a Cool Snack, A Picnic Tablecloth Held by Clips, A Paper Plate Fan at a Picnic.
+
+## Autumn Close to Home: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Scarecrow beside the Farm Gate, A Bag of Acorns for a Nature Table, A Flannel Throw at a Football Game, A Leaf-Shaped Cookie Cutter, A Paper Turkey for the Kitchen Door.
+
+## Winter Close to Home: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Car's Frosty Windshield in the Morning, A Thermos Filled before an Outing, Wet Boots on a Drip Tray, A Hot-Water Bottle in a Cloth Cover, A Draft Stopper along the Door.
+
+## More Thanksgiving Table Moments: five first editions
+
+- 56 clues; 56 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Serving Spoon for Each Side Dish, A Thanksgiving Guest Book, A Separate Dish for Cranberry Sauce, Dividing the Last Thanksgiving Roll, Washing the Roasting Pan after Thanksgiving.
+
+## Small Christmas Touches: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: A Christmas Tree Watering Can, A Red Bow on a Christmas Mailbox, A Christmas Orange Studded with Cloves, A Christmas Ornament with a Family Name, Putting Christmas Lights Back in a Box.
+
+## Small Easter Preparations: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Grass for the Bottom of an Easter Basket, A Ribbon Tied around an Easter Bread, An Easter Table Set on the Porch, Unwrapping a Small Easter Egg, Gathering Empty Eggs after the Hunt.
+
+## Bible Stories of Help and Welcome: five first editions
+
+- 57 clues; 57 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Lydia Welcomes Visitors, Bible Story: Philip Meets a Traveler, Bible Story: Hannah Brings a Little Coat, Bible Story: Neighbors Repair a Wall, Bible Story: Dorcas Makes Clothes.
+
+## Familiar Objects in Bible Scenes: five first editions
+
+- 58 clues; 58 distinct answer/clue pairs.
+- Five distinct introductions and three answer explanations per puzzle.
+
+Subjects: Bible Story: Peter Finds a Coin in a Fish, Bible Story: Mary Listens while Martha Serves, Bible Story: Breakfast beside the Lake, Bible Story: Jesus Washes the Disciples' Feet, Bible Story: Paul and Silas Sing at Night.
+
 The 100 original layouts and 79 preserved numbered editions remain available as noindex pages so browser-saved answers can still be used. Current editions have separate progress keys.
 
 ## Ongoing editorial review
 
-All 1000 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
+All 1200 current puzzles have dedicated editorial content. Continue reviewing clue clarity and difficulty with reader feedback. Exact-clue and answer overlap remain review signals, not indexing rules.
 
 | Series | Entries | Distinct clue pairs | Different intros | Numbered titles |
 | --- | ---: | ---: | ---: | ---: |
@@ -1677,5 +1957,45 @@ All 1000 current puzzles have dedicated editorial content. Continue reviewing cl
 | easter-at-home | 58 | 58 | 5 | 0 |
 | thanksgiving-small-moments | 53 | 53 | 5 | 0 |
 | halloween-porch-scenes | 56 | 56 | 5 | 0 |
+| garden-sharing | 57 | 57 | 5 | 0 |
+| garden-protection | 58 | 58 | 5 | 0 |
+| garden-aftercare | 56 | 56 | 5 | 0 |
+| garden-path-details | 58 | 58 | 5 | 0 |
+| flowers-at-home | 56 | 56 | 5 | 0 |
+| pets-at-home | 57 | 57 | 5 | 0 |
+| birds-in-motion | 59 | 59 | 5 | 0 |
+| water-close-by | 57 | 57 | 5 | 0 |
+| lunches-with-a-spoon | 57 | 57 | 5 | 0 |
+| familiar-breakfasts | 59 | 59 | 5 | 0 |
+| simple-suppers | 58 | 58 | 5 | 0 |
+| sweets-to-share | 55 | 55 | 5 | 0 |
+| kitchen-small-jobs | 58 | 58 | 5 | 0 |
+| pantry-choices | 57 | 57 | 5 | 0 |
+| town-service-desks | 56 | 56 | 5 | 0 |
+| community-notices | 56 | 56 | 5 | 0 |
+| guests-and-table | 57 | 57 | 5 | 0 |
+| home-little-checks | 55 | 55 | 5 | 0 |
+| clothes-ready | 56 | 56 | 5 | 0 |
+| gentle-daily-routines | 57 | 57 | 5 | 0 |
+| travel-small-steps | 59 | 59 | 5 | 0 |
+| town-meeting-places | 58 | 58 | 5 | 0 |
+| useful-sewing | 59 | 59 | 5 | 0 |
+| crafts-from-paper | 55 | 55 | 5 | 0 |
+| table-pastimes | 55 | 55 | 5 | 0 |
+| keepsakes-in-order | 55 | 55 | 5 | 0 |
+| singalong-preparations | 57 | 57 | 5 | 0 |
+| familiar-song-scenes | 57 | 57 | 5 | 0 |
+| old-home-routines | 59 | 59 | 5 | 0 |
+| remembered-shop-windows | 56 | 56 | 5 | 0 |
+| games-remembered | 57 | 57 | 5 | 0 |
+| spring-small-plans | 57 | 57 | 5 | 0 |
+| summer-neighborly-treats | 57 | 57 | 5 | 0 |
+| autumn-local-scenes | 57 | 57 | 5 | 0 |
+| winter-nearby-scenes | 58 | 58 | 5 | 0 |
+| thanksgiving-table-help | 56 | 56 | 5 | 0 |
+| christmas-small-touches | 57 | 57 | 5 | 0 |
+| easter-small-preparations | 57 | 57 | 5 | 0 |
+| bible-helping-hands | 57 | 57 | 5 | 0 |
+| bible-familiar-objects | 58 | 58 | 5 | 0 |
 
 See content-audit.json for the most repeated exact clues and both exact-clue and answer-set overlap pairs. Answer-set overlap ignores clue wording, so paraphrasing clues does not hide reused vocabulary. Run npm run audit:content -- --write after editing data to refresh both reports. The report also lists clues that spell out their own answer; edited editions fail this check until corrected. The production build runs the audit without modifying tracked reports.

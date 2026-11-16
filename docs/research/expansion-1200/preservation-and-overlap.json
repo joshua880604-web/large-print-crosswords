@@ -1,0 +1,3586 @@
+{
+  "baselineCommit": "1ea3d2eb581cf2dfca5d91c063eafd8e0c9cc19a",
+  "preservedCurrentObjects": 1000,
+  "preservedSeries": 200,
+  "retainedFilesChecked": 226,
+  "metadataChanges": [
+    "src/data/topics.ts"
+  ],
+  "newFirstEditions": 200,
+  "newClues": 2280,
+  "allocation": {
+    "Gardening": 20,
+    "Flowers": 5,
+    "Nature": 15,
+    "Food": 30,
+    "Everyday Life": 40,
+    "Crafts": 10,
+    "Hobbies": 10,
+    "Music": 10,
+    "Nostalgia": 15,
+    "Spring": 5,
+    "Summer": 5,
+    "Autumn": 5,
+    "Winter": 5,
+    "Thanksgiving": 5,
+    "Christmas": 5,
+    "Easter": 5,
+    "Bible": 10
+  },
+  "maxAnswerJaccard": 0.4375,
+  "nearest": [
+    {
+      "id": "garden-sharing",
+      "title": "A Neighborhood Seed Swap",
+      "anchors": [
+        "SWAP",
+        "PACKET",
+        "BEAN"
+      ],
+      "nearest": "community-volunteers",
+      "nearestTitle": "Sorting Donations at the Food Pantry",
+      "answerJaccard": 0.15,
+      "shared": [
+        "BAG",
+        "BEAN",
+        "LABEL"
+      ]
+    },
+    {
+      "id": "garden-sharing-2",
+      "title": "A Garden Vacation Helper",
+      "anchors": [
+        "NOTE",
+        "WATER",
+        "FRIEND"
+      ],
+      "nearest": "flowers-through-the-year-4",
+      "nearestTitle": "A Poinsettia on the Holiday Table",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "LEAF",
+        "POT",
+        "SOIL",
+        "WATER"
+      ]
+    },
+    {
+      "id": "garden-sharing-3",
+      "title": "Giving Away Extra Summer Squash",
+      "anchors": [
+        "SQUASH",
+        "FREE",
+        "BOX"
+      ],
+      "nearest": "garden-from-the-beginning-5",
+      "nearestTitle": "Picking a Young Zucchini",
+      "answerJaccard": 0.1429,
+      "shared": [
+        "GREEN",
+        "PICK",
+        "SQUASH"
+      ]
+    },
+    {
+      "id": "garden-sharing-4",
+      "title": "An Open Garden Afternoon",
+      "anchors": [
+        "VISITOR",
+        "PATH",
+        "MAP"
+      ],
+      "nearest": "easter-spring-color-2",
+      "nearestTitle": "An Easter Egg Hunt in the Yard",
+      "answerJaccard": 0.15,
+      "shared": [
+        "PATH",
+        "TREE",
+        "YARD"
+      ]
+    },
+    {
+      "id": "garden-sharing-5",
+      "title": "A Plant Cutting Rooting in Water",
+      "anchors": [
+        "CUTTING",
+        "ROOT",
+        "JAR"
+      ],
+      "nearest": "garden-from-the-beginning-2",
+      "nearestTitle": "Growing Beans in a Jar",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "GROW",
+        "JAR",
+        "LEAF",
+        "ROOT"
+      ]
+    },
+    {
+      "id": "garden-protection",
+      "title": "Netting over a Blueberry Bush",
+      "anchors": [
+        "NET",
+        "BERRY",
+        "BUSH"
+      ],
+      "nearest": "garden-details-5",
+      "nearestTitle": "Picking Berries in the Garden",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BERRY",
+        "BLUE",
+        "NET",
+        "RIPE"
+      ]
+    },
+    {
+      "id": "garden-protection-2",
+      "title": "A Tomato Stem on a Soft Tie",
+      "anchors": [
+        "STEM",
+        "TIE",
+        "STAKE"
+      ],
+      "nearest": "garden-harvest-baskets-2",
+      "nearestTitle": "Tomatoes Ripening on the Fence",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FRUIT",
+        "STAKE",
+        "TIE",
+        "TOMATO"
+      ]
+    },
+    {
+      "id": "garden-protection-3",
+      "title": "Straw Beneath Growing Melons",
+      "anchors": [
+        "MELON",
+        "STRAW",
+        "SOIL"
+      ],
+      "nearest": "food-shops-4",
+      "nearestTitle": "Choosing Melons at a Farm Stand",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FRUIT",
+        "MELON",
+        "RIND",
+        "ROUND"
+      ]
+    },
+    {
+      "id": "garden-protection-4",
+      "title": "A Cover for a Chilly Garden Night",
+      "anchors": [
+        "COVER",
+        "FROST",
+        "NIGHT"
+      ],
+      "nearest": "bible-christmas-and-childhood-2",
+      "nearestTitle": "Bible Story: A Manger in Bethlehem",
+      "answerJaccard": 0.15,
+      "shared": [
+        "BED",
+        "CLOTH",
+        "NIGHT"
+      ]
+    },
+    {
+      "id": "garden-protection-5",
+      "title": "A Fence around the Vegetable Bed",
+      "anchors": [
+        "FENCE",
+        "RABBIT",
+        "WIRE"
+      ],
+      "nearest": "spring-at-home-2",
+      "nearestTitle": "Opening the Garden Gate",
+      "answerJaccard": 0.2,
+      "shared": [
+        "BED",
+        "FENCE",
+        "GATE",
+        "POST"
+      ]
+    },
+    {
+      "id": "garden-aftercare",
+      "title": "Mud on a Pair of Garden Boots",
+      "anchors": [
+        "BOOT",
+        "MUD",
+        "BRUSH"
+      ],
+      "nearest": "spring-house-and-yard",
+      "nearestTitle": "Putting Winter Boots Away",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "BOOT",
+        "BRUSH",
+        "DRY",
+        "PAIR",
+        "SOLE"
+      ]
+    },
+    {
+      "id": "garden-aftercare-2",
+      "title": "Rinsing Empty Plant Pots",
+      "anchors": [
+        "RINSE",
+        "POT",
+        "STACK"
+      ],
+      "nearest": "garden-from-the-beginning-3",
+      "nearestTitle": "Moving a Seedling to a Larger Pot",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "HOLE",
+        "POT",
+        "RIM",
+        "SOIL",
+        "WATER"
+      ]
+    },
+    {
+      "id": "garden-aftercare-3",
+      "title": "Checking a Garden Hose for a Leak",
+      "anchors": [
+        "LEAK",
+        "DRIP",
+        "FAUCET"
+      ],
+      "nearest": "summer-neighborhood-days-3",
+      "nearestTitle": "A Sprinkler Turning on the Lawn",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "HOSE",
+        "TAP",
+        "WATER",
+        "WET"
+      ]
+    },
+    {
+      "id": "garden-aftercare-4",
+      "title": "A Notebook of This Year's Harvest",
+      "anchors": [
+        "HARVEST",
+        "RECORD",
+        "DATE"
+      ],
+      "nearest": "keeping-in-touch-5",
+      "nearestTitle": "Leaving a Note on the Refrigerator",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "DATE",
+        "LIST",
+        "NOTE",
+        "PEN"
+      ]
+    },
+    {
+      "id": "garden-aftercare-5",
+      "title": "An Empty Garden Bed in Late Fall",
+      "anchors": [
+        "BARE",
+        "MULCH",
+        "STEM"
+      ],
+      "nearest": "garden-evening-chores-5",
+      "nearestTitle": "A Wheelbarrow Full of Mulch",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "BED",
+        "COVER",
+        "LAYER",
+        "MULCH"
+      ]
+    },
+    {
+      "id": "garden-path-details",
+      "title": "Gravel for a Muddy Garden Path",
+      "anchors": [
+        "GRAVEL",
+        "PATH",
+        "MUD"
+      ],
+      "nearest": "garden-welcoming-corners-5",
+      "nearestTitle": "Stepping Stones Across the Bed",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "BOOT",
+        "GRAVEL",
+        "MUD",
+        "PATH",
+        "STONE",
+        "WALK"
+      ]
+    },
+    {
+      "id": "garden-path-details-2",
+      "title": "A Hose Guide beside the Flower Bed",
+      "anchors": [
+        "CORNER",
+        "HOSE",
+        "GUIDE"
+      ],
+      "nearest": "hands-on-hobbies",
+      "nearestTitle": "A Jigsaw on the Table",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "CORNER",
+        "EDGE",
+        "TURN"
+      ]
+    },
+    {
+      "id": "garden-path-details-3",
+      "title": "Brushing Moss from a Garden Step",
+      "anchors": [
+        "MOSS",
+        "STEP",
+        "BRUSH"
+      ],
+      "nearest": "garden-welcoming-corners-5",
+      "nearestTitle": "Stepping Stones Across the Bed",
+      "answerJaccard": 0.15,
+      "shared": [
+        "PATH",
+        "STEP",
+        "STONE"
+      ]
+    },
+    {
+      "id": "garden-path-details-4",
+      "title": "A Small Sign for an Herb Bed",
+      "anchors": [
+        "MARKER",
+        "NAME",
+        "HERB"
+      ],
+      "nearest": "errands-on-main-street",
+      "nearestTitle": "Picking Up a Prescription at the Counter",
+      "answerJaccard": 0.1,
+      "shared": [
+        "NAME",
+        "SIGN"
+      ]
+    },
+    {
+      "id": "garden-path-details-5",
+      "title": "A Garden Seat after the Rain",
+      "anchors": [
+        "BENCH",
+        "WIPE",
+        "RAIN"
+      ],
+      "nearest": "the-family-car-4",
+      "nearestTitle": "A Fresh Set of Windshield Wipers",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "ARM",
+        "RAIN",
+        "WIPE"
+      ]
+    },
+    {
+      "id": "flowers-at-home",
+      "title": "Marigolds beside the Vegetable Row",
+      "anchors": [
+        "MARIGOLD",
+        "ORANGE",
+        "BLOOM"
+      ],
+      "nearest": "garden-flower-seasons-2",
+      "nearestTitle": "Hollyhocks by the Shed Wall",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FLOWER",
+        "LEAF",
+        "SEED",
+        "STEM"
+      ]
+    },
+    {
+      "id": "flowers-at-home-2",
+      "title": "Geraniums on a Sunny Balcony",
+      "anchors": [
+        "GERANIUM",
+        "RED",
+        "BALCONY"
+      ],
+      "nearest": "winter-indoor-afternoons-3",
+      "nearestTitle": "An Indoor Bulb Blooming in January",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "BLOOM",
+        "FLOWER",
+        "POT",
+        "RED",
+        "SOIL",
+        "WATER"
+      ]
+    },
+    {
+      "id": "flowers-at-home-3",
+      "title": "Roses in a Get-Well Bouquet",
+      "anchors": [
+        "ROSE",
+        "BOUQUET",
+        "VASE"
+      ],
+      "nearest": "easter-spring-color-4",
+      "nearestTitle": "A Spring Bouquet for Easter Brunch",
+      "answerJaccard": 0.25,
+      "shared": [
+        "BOUQUET",
+        "STEM",
+        "VASE",
+        "WATER"
+      ]
+    },
+    {
+      "id": "flowers-at-home-4",
+      "title": "A Gardenia Floating in a Bowl",
+      "anchors": [
+        "GARDENIA",
+        "WHITE",
+        "SCENT"
+      ],
+      "nearest": "flowers-at-home-3",
+      "nearestTitle": "Roses in a Get-Well Bouquet",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "BLOOM",
+        "PETAL",
+        "WATER"
+      ]
+    },
+    {
+      "id": "flowers-at-home-5",
+      "title": "A Red Poppy in the Flower Border",
+      "anchors": [
+        "POPPY",
+        "RED",
+        "CENTER"
+      ],
+      "nearest": "garden-friendly-flowers-2",
+      "nearestTitle": "A Bed of Bright Zinnias",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "PETAL",
+        "RED",
+        "SEED",
+        "STEM"
+      ]
+    },
+    {
+      "id": "pets-at-home",
+      "title": "A Dog's Supper Bowl",
+      "anchors": [
+        "DOG",
+        "BOWL",
+        "FOOD"
+      ],
+      "nearest": "small-wild-visitors-3",
+      "nearestTitle": "A Raccoon Beside the Creek",
+      "answerJaccard": 0.1,
+      "shared": [
+        "TAIL",
+        "WATER"
+      ]
+    },
+    {
+      "id": "pets-at-home-2",
+      "title": "A Cat Watching through a Window",
+      "anchors": [
+        "CAT",
+        "WINDOW",
+        "WHISKER"
+      ],
+      "nearest": "home-details",
+      "nearestTitle": "An Open Window in Spring",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "GLASS",
+        "SILL",
+        "SUN",
+        "WINDOW"
+      ]
+    },
+    {
+      "id": "pets-at-home-3",
+      "title": "A Pet Carrier Ready for a Visit",
+      "anchors": [
+        "CARRIER",
+        "TOWEL",
+        "VET"
+      ],
+      "nearest": "porch-and-patio-3",
+      "nearestTitle": "A Screen Door in a Summer Breeze",
+      "answerJaccard": 0.15,
+      "shared": [
+        "DOOR",
+        "HANDLE",
+        "LATCH"
+      ]
+    },
+    {
+      "id": "pets-at-home-4",
+      "title": "Brushing a Dog's Coat",
+      "anchors": [
+        "BRUSH",
+        "FUR",
+        "COAT"
+      ],
+      "nearest": "home-storage-spaces-4",
+      "nearestTitle": "A Shoe Rack by the Back Door",
+      "answerJaccard": 0.1,
+      "shared": [
+        "BRUSH",
+        "MAT"
+      ]
+    },
+    {
+      "id": "pets-at-home-5",
+      "title": "A Goldfish at Feeding Time",
+      "anchors": [
+        "GOLDFISH",
+        "FLAKE",
+        "FIN"
+      ],
+      "nearest": "our-furry-friends-5",
+      "nearestTitle": "Life in a Fish Tank",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "FLAKE",
+        "GOLDFISH",
+        "TAIL",
+        "TANK"
+      ]
+    },
+    {
+      "id": "birds-in-motion",
+      "title": "A Robin Pulling at a Worm",
+      "anchors": [
+        "ROBIN",
+        "WORM",
+        "LAWN"
+      ],
+      "nearest": "spring-garden-wildlife",
+      "nearestTitle": "A Nest of Robin Eggs",
+      "answerJaccard": 0.2,
+      "shared": [
+        "BIRD",
+        "GRASS",
+        "ROBIN",
+        "WING"
+      ]
+    },
+    {
+      "id": "birds-in-motion-2",
+      "title": "A Duck Smoothing Its Feathers",
+      "anchors": [
+        "DUCK",
+        "BILL",
+        "FEATHER"
+      ],
+      "nearest": "spring-first-outings-3",
+      "nearestTitle": "Ducklings on a Park Pond",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BILL",
+        "DUCK",
+        "FLOAT",
+        "POND"
+      ]
+    },
+    {
+      "id": "birds-in-motion-3",
+      "title": "Geese Flying in a V",
+      "anchors": [
+        "GEESE",
+        "FLOCK",
+        "SKY"
+      ],
+      "nearest": "backyard-birds-3",
+      "nearestTitle": "Wings in Motion",
+      "answerJaccard": 0.2,
+      "shared": [
+        "AIR",
+        "FLOCK",
+        "SKY",
+        "WING"
+      ]
+    },
+    {
+      "id": "birds-in-motion-4",
+      "title": "A Sparrow Taking a Dust Bath",
+      "anchors": [
+        "SPARROW",
+        "DUST",
+        "BATH"
+      ],
+      "nearest": "birds-to-recognize-2",
+      "nearestTitle": "A Blue Jay at the Oak",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "FEATHER",
+        "TAIL",
+        "WING"
+      ]
+    },
+    {
+      "id": "birds-in-motion-5",
+      "title": "A Nest after the Young Birds Leave",
+      "anchors": [
+        "NEST",
+        "TWIG",
+        "EMPTY"
+      ],
+      "nearest": "spring-garden-wildlife",
+      "nearestTitle": "A Nest of Robin Eggs",
+      "answerJaccard": 0.3333,
+      "shared": [
+        "BIRD",
+        "GRASS",
+        "NEST",
+        "SPRING",
+        "TREE",
+        "TWIG"
+      ]
+    },
+    {
+      "id": "water-close-by",
+      "title": "A Toad beside a Leaky Garden Tap",
+      "anchors": [
+        "TOAD",
+        "DAMP",
+        "TAP"
+      ],
+      "nearest": "garden-sharing-2",
+      "nearestTitle": "A Garden Vacation Helper",
+      "answerJaccard": 0.15,
+      "shared": [
+        "SHADE",
+        "SOIL",
+        "WATER"
+      ]
+    },
+    {
+      "id": "water-close-by-2",
+      "title": "A Minnow in Shallow Water",
+      "anchors": [
+        "MINNOW",
+        "SHALLOW",
+        "DART"
+      ],
+      "nearest": "quiet-outdoor-moments-4",
+      "nearestTitle": "Pebbles in a Clear Brook",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "CLEAR",
+        "SAND",
+        "SMALL",
+        "STREAM",
+        "WATER"
+      ]
+    },
+    {
+      "id": "water-close-by-3",
+      "title": "A Duck Footprint in Wet Sand",
+      "anchors": [
+        "TRACK",
+        "SAND",
+        "WEBBED"
+      ],
+      "nearest": "birds-in-motion-2",
+      "nearestTitle": "A Duck Smoothing Its Feathers",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BANK",
+        "DUCK",
+        "WATER",
+        "WEBBED"
+      ]
+    },
+    {
+      "id": "water-close-by-4",
+      "title": "A Floating Leaf on a Creek",
+      "anchors": [
+        "LEAF",
+        "FLOAT",
+        "CURRENT"
+      ],
+      "nearest": "quiet-outdoor-moments-4",
+      "nearestTitle": "Pebbles in a Clear Brook",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "FLOW",
+        "RIPPLE",
+        "STREAM",
+        "WATER"
+      ]
+    },
+    {
+      "id": "water-close-by-5",
+      "title": "A Smooth Stone Skipped across a Pond",
+      "anchors": [
+        "STONE",
+        "SKIP",
+        "FLAT"
+      ],
+      "nearest": "beside-the-water-3",
+      "nearestTitle": "A Kingfisher Watching the Pond",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "BANK",
+        "POND",
+        "WATER"
+      ]
+    },
+    {
+      "id": "lunches-with-a-spoon",
+      "title": "A Bowl of White Bean Soup",
+      "anchors": [
+        "WHITE",
+        "BEAN",
+        "SOUP"
+      ],
+      "nearest": "winter-comforts-5",
+      "nearestTitle": "A Pot of Winter Soup",
+      "answerJaccard": 0.4375,
+      "shared": [
+        "BEAN",
+        "BOWL",
+        "CARROT",
+        "CELERY",
+        "LADLE",
+        "POT",
+        "SOUP"
+      ]
+    },
+    {
+      "id": "lunches-with-a-spoon-2",
+      "title": "A Baked Sweet Potato for Lunch",
+      "anchors": [
+        "SWEET",
+        "POTATO",
+        "SPLIT"
+      ],
+      "nearest": "vegetable-side-dishes-4",
+      "nearestTitle": "A Baked Potato with Toppings",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BAKE",
+        "BUTTER",
+        "POTATO",
+        "SPLIT"
+      ]
+    },
+    {
+      "id": "lunches-with-a-spoon-3",
+      "title": "Egg Salad in a Sandwich",
+      "anchors": [
+        "EGG",
+        "SALAD",
+        "CHOP"
+      ],
+      "nearest": "sandwich-counter-2",
+      "nearestTitle": "Peanut Butter and Jelly for Lunch",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "BREAD",
+        "CRUST",
+        "LUNCH",
+        "SLICE"
+      ]
+    },
+    {
+      "id": "lunches-with-a-spoon-4",
+      "title": "A Bowl of Hummus with Pita",
+      "anchors": [
+        "HUMMUS",
+        "PITA",
+        "CHICKPEA"
+      ],
+      "nearest": "dessert-bowls-3",
+      "nearestTitle": "A Bowl of Warm Applesauce",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BOWL",
+        "SMOOTH",
+        "SOFT",
+        "SPOON"
+      ]
+    },
+    {
+      "id": "lunches-with-a-spoon-5",
+      "title": "A Corn Tortilla Filled for Lunch",
+      "anchors": [
+        "TORTILLA",
+        "CORN",
+        "SALSA"
+      ],
+      "nearest": "sandwich-counter-5",
+      "nearestTitle": "Meatballs in a Long Roll",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "LUNCH",
+        "PLATE",
+        "SPOON",
+        "TOMATO"
+      ]
+    },
+    {
+      "id": "familiar-breakfasts",
+      "title": "A Toasted English Muffin",
+      "anchors": [
+        "MUFFIN",
+        "TOAST",
+        "HALF"
+      ],
+      "nearest": "snacks-for-a-table-5",
+      "nearestTitle": "Cinnamon Toast for an Afternoon Break",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "BREAD",
+        "CRUST",
+        "TOAST",
+        "WARM"
+      ]
+    },
+    {
+      "id": "familiar-breakfasts-2",
+      "title": "Soft-Boiled Eggs in Egg Cups",
+      "anchors": [
+        "EGG",
+        "CUP",
+        "YOLK"
+      ],
+      "nearest": "breakfast-from-the-stove",
+      "nearestTitle": "Scrambling Eggs in a Pan",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "EGG",
+        "PLATE",
+        "SALT",
+        "WHITE",
+        "YOLK"
+      ]
+    },
+    {
+      "id": "familiar-breakfasts-3",
+      "title": "Yogurt with a Spoonful of Granola",
+      "anchors": [
+        "YOGURT",
+        "GRANOLA",
+        "FRUIT"
+      ],
+      "nearest": "breakfast-from-the-stove-3",
+      "nearestTitle": "Oatmeal in a Breakfast Bowl",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "BOWL",
+        "BREAKFAST",
+        "HONEY",
+        "SPOON",
+        "STIR"
+      ]
+    },
+    {
+      "id": "familiar-breakfasts-4",
+      "title": "Cream Cheese on a Bagel Half",
+      "anchors": [
+        "BAGEL",
+        "SPREAD",
+        "CREAM"
+      ],
+      "nearest": "bakers-specialties-2",
+      "nearestTitle": "A Bagel Before Breakfast",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "BAGEL",
+        "HOLE",
+        "SPREAD",
+        "TOAST"
+      ]
+    },
+    {
+      "id": "familiar-breakfasts-5",
+      "title": "A Grapefruit Cut for Breakfast",
+      "anchors": [
+        "GRAPEFRUIT",
+        "SECTION",
+        "SPOON"
+      ],
+      "nearest": "drinks-to-serve-4",
+      "nearestTitle": "Fresh Orange Juice at Breakfast",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "BREAKFAST",
+        "FRUIT",
+        "JUICE",
+        "RIND",
+        "SEED"
+      ]
+    },
+    {
+      "id": "simple-suppers",
+      "title": "A Tuna Noodle Casserole",
+      "anchors": [
+        "TUNA",
+        "NOODLE",
+        "CASSEROLE"
+      ],
+      "nearest": "baking-small-batches-4",
+      "nearestTitle": "Cheddar Biscuits for Supper",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "BAKE",
+        "CHEESE",
+        "MILK",
+        "OVEN",
+        "PAN"
+      ]
+    },
+    {
+      "id": "simple-suppers-2",
+      "title": "Beef Stew with Tender Carrots",
+      "anchors": [
+        "BEEF",
+        "STEW",
+        "CARROT"
+      ],
+      "nearest": "lunches-with-a-spoon",
+      "nearestTitle": "A Bowl of White Bean Soup",
+      "answerJaccard": 0.3333,
+      "shared": [
+        "BOWL",
+        "BROTH",
+        "CARROT",
+        "LADLE",
+        "POT",
+        "SIMMER"
+      ]
+    },
+    {
+      "id": "simple-suppers-3",
+      "title": "Fish Sticks beside a Lemon Wedge",
+      "anchors": [
+        "FISH",
+        "LEMON",
+        "WEDGE"
+      ],
+      "nearest": "snacks-for-a-table-2",
+      "nearestTitle": "Cheese and Crackers on a Tray",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "CRISP",
+        "PLATE",
+        "SLICE",
+        "WEDGE"
+      ]
+    },
+    {
+      "id": "simple-suppers-4",
+      "title": "A Ham Steak in the Skillet",
+      "anchors": [
+        "HAM",
+        "STEAK",
+        "PINEAPPLE"
+      ],
+      "nearest": "simple-suppers-3",
+      "nearestTitle": "Fish Sticks beside a Lemon Wedge",
+      "answerJaccard": 0.15,
+      "shared": [
+        "DINNER",
+        "PLATE",
+        "SLICE"
+      ]
+    },
+    {
+      "id": "simple-suppers-5",
+      "title": "A Turkey Sandwich after Supper",
+      "anchors": [
+        "TURKEY",
+        "CRANBERRY",
+        "LAYER"
+      ],
+      "nearest": "everyday-meals-2",
+      "nearestTitle": "Making a Sandwich Plate",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "KNIFE",
+        "LETTUCE",
+        "LUNCH",
+        "PLATE"
+      ]
+    },
+    {
+      "id": "sweets-to-share",
+      "title": "A Plate of Deviled Eggs",
+      "anchors": [
+        "YOLK",
+        "MUSTARD",
+        "PAPRIKA"
+      ],
+      "nearest": "familiar-breakfasts-2",
+      "nearestTitle": "Soft-Boiled Eggs in Egg Cups",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "PLATE",
+        "SALT",
+        "WHITE",
+        "YOLK"
+      ]
+    },
+    {
+      "id": "sweets-to-share-2",
+      "title": "A Bowl of Tapioca Pudding",
+      "anchors": [
+        "TAPIOCA",
+        "PEARL",
+        "PUDDING"
+      ],
+      "nearest": "dessert-bowls-2",
+      "nearestTitle": "Rice Pudding with Cinnamon",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "BOWL",
+        "PUDDING",
+        "SPOON",
+        "STIR",
+        "SWEET"
+      ]
+    },
+    {
+      "id": "sweets-to-share-3",
+      "title": "A Slice of Angel Food Cake",
+      "anchors": [
+        "ANGEL",
+        "CAKE",
+        "LIGHT"
+      ],
+      "nearest": "christmas-kitchen-5",
+      "nearestTitle": "Decorating a Christmas Log Cake",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "CAKE",
+        "FORK",
+        "PLATE",
+        "SLICE"
+      ]
+    },
+    {
+      "id": "sweets-to-share-4",
+      "title": "An Ice-Cream Sandwich in Its Wrapper",
+      "anchors": [
+        "SANDWICH",
+        "WRAPPER",
+        "COOKIE"
+      ],
+      "nearest": "halloween-porch-scenes-5",
+      "nearestTitle": "A Bowl of Wrapped Halloween Treats",
+      "answerJaccard": 0.1053,
+      "shared": [
+        "PAPER",
+        "WRAPPER"
+      ]
+    },
+    {
+      "id": "sweets-to-share-5",
+      "title": "A Baked Custard in a Little Dish",
+      "anchors": [
+        "CUSTARD",
+        "MILK",
+        "EGG"
+      ],
+      "nearest": "dessert-bowls",
+      "nearestTitle": "Chocolate Pudding Cooling in Cups",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "DESSERT",
+        "SMOOTH",
+        "SPOON",
+        "SUGAR"
+      ]
+    },
+    {
+      "id": "kitchen-small-jobs",
+      "title": "Shelling Peas at the Kitchen Table",
+      "anchors": [
+        "PEA",
+        "POD",
+        "SHELL"
+      ],
+      "nearest": "garden-details-2",
+      "nearestTitle": "Picking Peas Beside the Trellis",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "GREEN",
+        "PEA",
+        "POD"
+      ]
+    },
+    {
+      "id": "kitchen-small-jobs-2",
+      "title": "Snapping the Ends from Green Beans",
+      "anchors": [
+        "BEAN",
+        "SNAP",
+        "END"
+      ],
+      "nearest": "garden-from-the-beginning-5",
+      "nearestTitle": "Picking a Young Zucchini",
+      "answerJaccard": 0.1429,
+      "shared": [
+        "GREEN",
+        "LONG",
+        "STEM"
+      ]
+    },
+    {
+      "id": "kitchen-small-jobs-3",
+      "title": "Separating an Egg for Baking",
+      "anchors": [
+        "SEPARATE",
+        "YOLK",
+        "WHITE"
+      ],
+      "nearest": "familiar-breakfasts-2",
+      "nearestTitle": "Soft-Boiled Eggs in Egg Cups",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "CUP",
+        "EGG",
+        "ROUND",
+        "WHITE",
+        "YOLK"
+      ]
+    },
+    {
+      "id": "kitchen-small-jobs-4",
+      "title": "Mashing Bananas with a Fork",
+      "anchors": [
+        "BANANA",
+        "MASH",
+        "FORK"
+      ],
+      "nearest": "baking-small-batches-3",
+      "nearestTitle": "Banana Bread in a Loaf Pan",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BANANA",
+        "BREAD",
+        "LOAF",
+        "MASH"
+      ]
+    },
+    {
+      "id": "kitchen-small-jobs-5",
+      "title": "Lining a Baking Pan with Paper",
+      "anchors": [
+        "PAPER",
+        "PAN",
+        "LINE"
+      ],
+      "nearest": "paper-and-lettering-4",
+      "nearestTitle": "Swirls in a Marbled Paper Sheet",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "LIFT",
+        "PAPER",
+        "SHEET",
+        "TRAY"
+      ]
+    },
+    {
+      "id": "pantry-choices",
+      "title": "Choosing a Jar of Peanut Butter",
+      "anchors": [
+        "PEANUT",
+        "SMOOTH",
+        "CRUNCHY"
+      ],
+      "nearest": "autumn-kitchen-and-pantry-4",
+      "nearestTitle": "A Jar of Apple Butter",
+      "answerJaccard": 0.2,
+      "shared": [
+        "BUTTER",
+        "LID",
+        "SMOOTH",
+        "SPREAD"
+      ]
+    },
+    {
+      "id": "pantry-choices-2",
+      "title": "A Box of Cornflakes for the Cupboard",
+      "anchors": [
+        "CORNFLAKE",
+        "CEREAL",
+        "BOX"
+      ],
+      "nearest": "spring-house-and-yard",
+      "nearestTitle": "Putting Winter Boots Away",
+      "answerJaccard": 0.1053,
+      "shared": [
+        "BOX",
+        "DRY"
+      ]
+    },
+    {
+      "id": "pantry-choices-3",
+      "title": "A Can of Peaches in the Pantry",
+      "anchors": [
+        "CAN",
+        "PEACH",
+        "SYRUP"
+      ],
+      "nearest": "garden-fruit-trees-2",
+      "nearestTitle": "A Basket of Fresh Peaches",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "PEACH",
+        "SLICE",
+        "SWEET"
+      ]
+    },
+    {
+      "id": "pantry-choices-4",
+      "title": "Mustard and Ketchup at the Table",
+      "anchors": [
+        "MUSTARD",
+        "KETCHUP",
+        "BOTTLE"
+      ],
+      "nearest": "summer-tastes-and-traditions-5",
+      "nearestTitle": "A Tomato Sandwich from the Garden",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "PLATE",
+        "RED",
+        "TOMATO"
+      ]
+    },
+    {
+      "id": "pantry-choices-5",
+      "title": "A Bag of Flour for the Baking Shelf",
+      "anchors": [
+        "FLOUR",
+        "BAG",
+        "MEASURE"
+      ],
+      "nearest": "errands-on-main-street",
+      "nearestTitle": "Picking Up a Prescription at the Counter",
+      "answerJaccard": 0.1053,
+      "shared": [
+        "BAG",
+        "SHELF"
+      ]
+    },
+    {
+      "id": "town-service-desks",
+      "title": "A Watch Battery at the Jewelry Counter",
+      "anchors": [
+        "WATCH",
+        "BATTERY",
+        "JEWELER"
+      ],
+      "nearest": "everyday-timekeepers-3",
+      "nearestTitle": "A Watch with a Leather Band",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "FACE",
+        "HAND",
+        "ROUND",
+        "TIME",
+        "WATCH"
+      ]
+    },
+    {
+      "id": "town-service-desks-2",
+      "title": "Checking In at the Dental Desk",
+      "anchors": [
+        "DENTIST",
+        "DESK",
+        "APPOINTMENT"
+      ],
+      "nearest": "visits-and-gatherings",
+      "nearestTitle": "Welcoming a Neighbor for Coffee",
+      "answerJaccard": 0.1,
+      "shared": [
+        "CHAIR",
+        "VISIT"
+      ]
+    },
+    {
+      "id": "town-service-desks-3",
+      "title": "Buying a Roll of Postage Stamps",
+      "anchors": [
+        "POSTAGE",
+        "ROLL",
+        "STAMP"
+      ],
+      "nearest": "errands-on-main-street-2",
+      "nearestTitle": "Mailing a Letter at the Post Office",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "CLERK",
+        "LETTER",
+        "POSTAGE",
+        "STAMP"
+      ]
+    },
+    {
+      "id": "town-service-desks-4",
+      "title": "An Appliance Repair Appointment",
+      "anchors": [
+        "WASHER",
+        "REPAIR",
+        "NOISE"
+      ],
+      "nearest": "garden-sharing-2",
+      "nearestTitle": "A Garden Vacation Helper",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "HOME",
+        "NOTE",
+        "WATER"
+      ]
+    },
+    {
+      "id": "town-service-desks-5",
+      "title": "A Lost Umbrella at the Service Desk",
+      "anchors": [
+        "LOST",
+        "FOUND",
+        "UMBRELLA"
+      ],
+      "nearest": "classic-movie-settings-2",
+      "nearestTitle": "A Singin' in the Rain Movie Scene",
+      "answerJaccard": 0.1,
+      "shared": [
+        "RAIN",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "id": "community-notices",
+      "title": "Signing Up for a Library Class",
+      "anchors": [
+        "CLASS",
+        "LIST",
+        "SIGN"
+      ],
+      "nearest": "town-service-desks-2",
+      "nearestTitle": "Checking In at the Dental Desk",
+      "answerJaccard": 0.15,
+      "shared": [
+        "DESK",
+        "NAME",
+        "SEAT"
+      ]
+    },
+    {
+      "id": "community-notices-2",
+      "title": "A Table for Voter Registration",
+      "anchors": [
+        "VOTER",
+        "REGISTER",
+        "FORM"
+      ],
+      "nearest": "christmas-sharing-projects-3",
+      "nearestTitle": "A Christmas Card List at the Desk",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "ADDRESS",
+        "MAIL",
+        "NAME",
+        "PEN",
+        "SIGN"
+      ]
+    },
+    {
+      "id": "community-notices-3",
+      "title": "Returning a Borrowed Folding Chair",
+      "anchors": [
+        "BORROW",
+        "RETURN",
+        "CHAIR"
+      ],
+      "nearest": "visits-and-gatherings",
+      "nearestTitle": "Welcoming a Neighbor for Coffee",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "CHAIR",
+        "NEIGHBOR",
+        "VISIT"
+      ]
+    },
+    {
+      "id": "community-notices-4",
+      "title": "Choosing a Volunteer Shift",
+      "anchors": [
+        "SHIFT",
+        "SCHEDULE",
+        "HELP"
+      ],
+      "nearest": "community-notices",
+      "nearestTitle": "Signing Up for a Library Class",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "DATE",
+        "LIST",
+        "NAME",
+        "SIGN"
+      ]
+    },
+    {
+      "id": "community-notices-5",
+      "title": "Signing Out a Community Tool",
+      "anchors": [
+        "TOOL",
+        "BORROW",
+        "RETURN"
+      ],
+      "nearest": "garden-keeping-tools",
+      "nearestTitle": "Hanging Garden Hand Tools",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "CLEAN",
+        "HANDLE",
+        "TOOL"
+      ]
+    },
+    {
+      "id": "guests-and-table",
+      "title": "Setting Out a Guest Towel",
+      "anchors": [
+        "GUEST",
+        "TOWEL",
+        "SOAP"
+      ],
+      "nearest": "fresh-laundry-2",
+      "nearestTitle": "Folding Warm Towels",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "CLEAN",
+        "DRY",
+        "FOLD",
+        "SHELF",
+        "TOWEL"
+      ]
+    },
+    {
+      "id": "guests-and-table-2",
+      "title": "Making Room at the Supper Table",
+      "anchors": [
+        "EXTRA",
+        "CHAIR",
+        "PLACE"
+      ],
+      "nearest": "small-town-outings-3",
+      "nearestTitle": "A Table at the Corner Cafe",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "CHAIR",
+        "PLATE",
+        "SPOON",
+        "TABLE"
+      ]
+    },
+    {
+      "id": "guests-and-table-3",
+      "title": "A Breakfast Tray for an Overnight Guest",
+      "anchors": [
+        "TRAY",
+        "JUICE",
+        "TOAST"
+      ],
+      "nearest": "familiar-breakfasts",
+      "nearestTitle": "A Toasted English Muffin",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "BREAKFAST",
+        "BUTTER",
+        "JAM",
+        "PLATE",
+        "TOAST"
+      ]
+    },
+    {
+      "id": "guests-and-table-4",
+      "title": "Directions Written for a Visitor",
+      "anchors": [
+        "DIRECTIONS",
+        "TURN",
+        "STREET"
+      ],
+      "nearest": "bible-seeds-and-finding-4",
+      "nearestTitle": "Bible Parable: A Lost Coin in the House",
+      "answerJaccard": 0.15,
+      "shared": [
+        "FIND",
+        "FRIEND",
+        "HOUSE"
+      ]
+    },
+    {
+      "id": "guests-and-table-5",
+      "title": "Tea for a Friend Who Prefers Decaf",
+      "anchors": [
+        "DECAF",
+        "TEAPOT",
+        "CUP"
+      ],
+      "nearest": "visits-and-gatherings",
+      "nearestTitle": "Welcoming a Neighbor for Coffee",
+      "answerJaccard": 0.3125,
+      "shared": [
+        "CUP",
+        "POUR",
+        "SAUCER",
+        "SUGAR",
+        "TRAY"
+      ]
+    },
+    {
+      "id": "home-little-checks",
+      "title": "Testing a Flashlight before a Storm",
+      "anchors": [
+        "FLASHLIGHT",
+        "BATTERY",
+        "BEAM"
+      ],
+      "nearest": "outdoor-hobby-bags-4",
+      "nearestTitle": "A Camera Ready for a Garden Photo",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "CASE",
+        "LENS",
+        "LIGHT"
+      ]
+    },
+    {
+      "id": "home-little-checks-2",
+      "title": "Changing the Batteries in a Remote",
+      "anchors": [
+        "REMOTE",
+        "BATTERY",
+        "COVER"
+      ],
+      "nearest": "keeping-food-fresh-4",
+      "nearestTitle": "A Covered Cake on the Counter",
+      "answerJaccard": 0.1053,
+      "shared": [
+        "COVER",
+        "FRESH"
+      ]
+    },
+    {
+      "id": "home-little-checks-3",
+      "title": "A Grocery Receipt on the Counter",
+      "anchors": [
+        "RECEIPT",
+        "TOTAL",
+        "CHANGE"
+      ],
+      "nearest": "shopping-basket-4",
+      "nearestTitle": "Counting Change at the Checkout",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "CASH",
+        "CHANGE",
+        "COIN",
+        "RECEIPT",
+        "TOTAL"
+      ]
+    },
+    {
+      "id": "home-little-checks-4",
+      "title": "Sorting Recycling on Collection Day",
+      "anchors": [
+        "RECYCLE",
+        "BIN",
+        "BOTTLE"
+      ],
+      "nearest": "household-paperwork-4",
+      "nearestTitle": "Sorting the Morning Mail",
+      "answerJaccard": 0.1429,
+      "shared": [
+        "PAPER",
+        "RECYCLE",
+        "SORT"
+      ]
+    },
+    {
+      "id": "home-little-checks-5",
+      "title": "Measuring a Window for Curtains",
+      "anchors": [
+        "WIDTH",
+        "HEIGHT",
+        "WINDOW"
+      ],
+      "nearest": "useful-home-repairs-2",
+      "nearestTitle": "Hanging a Picture Straight",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "MEASURE",
+        "TAPE",
+        "WALL"
+      ]
+    },
+    {
+      "id": "clothes-ready",
+      "title": "Trying on a Raincoat in the Hall",
+      "anchors": [
+        "RAINCOAT",
+        "HOOD",
+        "FASTEN"
+      ],
+      "nearest": "clothes-and-fabrics-5",
+      "nearestTitle": "A Rainy-Day Outfit",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "COAT",
+        "HOOD",
+        "RAINCOAT",
+        "SLEEVE"
+      ]
+    },
+    {
+      "id": "clothes-ready-2",
+      "title": "Polishing a Pair of Dress Shoes",
+      "anchors": [
+        "POLISH",
+        "LEATHER",
+        "SHINE"
+      ],
+      "nearest": "restful-household-routines-4",
+      "nearestTitle": "Choosing Comfortable Walking Shoes",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "HEEL",
+        "PAIR",
+        "SHOE",
+        "SOLE",
+        "TOE"
+      ]
+    },
+    {
+      "id": "clothes-ready-3",
+      "title": "A Belt through the Loops",
+      "anchors": [
+        "BELT",
+        "BUCKLE",
+        "LOOP"
+      ],
+      "nearest": "beads-and-ribbons",
+      "nearestTitle": "Stringing Beads for a Bracelet",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "HOLE",
+        "LOOP",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "clothes-ready-4",
+      "title": "Rolling Sleeves before Washing Dishes",
+      "anchors": [
+        "SLEEVE",
+        "CUFF",
+        "ROLL"
+      ],
+      "nearest": "winter-indoor-afternoons-5",
+      "nearestTitle": "A Warm Flannel Shirt from the Drawer",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "CUFF",
+        "FOLD",
+        "SHIRT"
+      ]
+    },
+    {
+      "id": "clothes-ready-5",
+      "title": "A Loose Thread on a Jacket",
+      "anchors": [
+        "THREAD",
+        "JACKET",
+        "TRIM"
+      ],
+      "nearest": "beads-and-ribbons-5",
+      "nearestTitle": "A Ribbon Handle on a Small Bag",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "CLOTH",
+        "EDGE",
+        "SEAM",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "gentle-daily-routines",
+      "title": "A Short Walk before Breakfast",
+      "anchors": [
+        "WALK",
+        "ROUTE",
+        "BREAKFAST"
+      ],
+      "nearest": "garden-welcoming-corners-5",
+      "nearestTitle": "Stepping Stones Across the Bed",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "PATH",
+        "STEP",
+        "WALK"
+      ]
+    },
+    {
+      "id": "gentle-daily-routines-2",
+      "title": "Opening the Curtains in the Morning",
+      "anchors": [
+        "CURTAIN",
+        "DAYLIGHT",
+        "MORNING"
+      ],
+      "nearest": "home-details",
+      "nearestTitle": "An Open Window in Spring",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "CURTAIN",
+        "GLASS",
+        "VIEW",
+        "WINDOW"
+      ]
+    },
+    {
+      "id": "gentle-daily-routines-3",
+      "title": "A Quiet Seat after Lunch",
+      "anchors": [
+        "CHAIR",
+        "LUNCH",
+        "QUIET"
+      ],
+      "nearest": "porch-and-patio",
+      "nearestTitle": "A Rocking Chair on the Porch",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "ARM",
+        "CHAIR",
+        "REST",
+        "SEAT"
+      ]
+    },
+    {
+      "id": "gentle-daily-routines-4",
+      "title": "A Drink Refilled during the Day",
+      "anchors": [
+        "GLASS",
+        "REFILL",
+        "PITCHER"
+      ],
+      "nearest": "weather-and-light-tools-3",
+      "nearestTitle": "Rain in a Garden Measuring Jar",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "CUP",
+        "EMPTY",
+        "FULL",
+        "POUR"
+      ]
+    },
+    {
+      "id": "gentle-daily-routines-5",
+      "title": "Turning Off the Reading Light",
+      "anchors": [
+        "LIGHT",
+        "OFF",
+        "BOOKMARK"
+      ],
+      "nearest": "winter-light-and-ice-4",
+      "nearestTitle": "Snow Sparkling Under a Streetlamp",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "DARK",
+        "LAMP",
+        "LIGHT"
+      ]
+    },
+    {
+      "id": "travel-small-steps",
+      "title": "Packing a Toiletry Bag",
+      "anchors": [
+        "TOOTHBRUSH",
+        "SOAP",
+        "COMB"
+      ],
+      "nearest": "guests-and-table",
+      "nearestTitle": "Setting Out a Guest Towel",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "CLEAN",
+        "SOAP",
+        "TOWEL",
+        "WASH"
+      ]
+    },
+    {
+      "id": "travel-small-steps-2",
+      "title": "A Name Tag on a Suitcase",
+      "anchors": [
+        "SUITCASE",
+        "TAG",
+        "NAME"
+      ],
+      "nearest": "restful-household-routines-5",
+      "nearestTitle": "Packing a Bag for a Day Out",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BAG",
+        "HANDLE",
+        "PACK",
+        "ZIPPER"
+      ]
+    },
+    {
+      "id": "travel-small-steps-3",
+      "title": "Checking a Train Ticket's Time",
+      "anchors": [
+        "TICKET",
+        "DEPART",
+        "TIME"
+      ],
+      "nearest": "on-the-local-road-2",
+      "nearestTitle": "Parking Beside the Town Square",
+      "answerJaccard": 0.15,
+      "shared": [
+        "CAR",
+        "TICKET",
+        "TIME"
+      ]
+    },
+    {
+      "id": "travel-small-steps-4",
+      "title": "A Hotel Wake-Up Call",
+      "anchors": [
+        "HOTEL",
+        "CALL",
+        "WAKE"
+      ],
+      "nearest": "everyday-timekeepers",
+      "nearestTitle": "Winding a Bedside Alarm Clock",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "CLOCK",
+        "TIME",
+        "WAKE"
+      ]
+    },
+    {
+      "id": "travel-small-steps-5",
+      "title": "A Restroom Stop on a Long Drive",
+      "anchors": [
+        "RESTROOM",
+        "SIGN",
+        "BREAK"
+      ],
+      "nearest": "gentle-daily-routines",
+      "nearestTitle": "A Short Walk before Breakfast",
+      "answerJaccard": 0.15,
+      "shared": [
+        "PARK",
+        "RETURN",
+        "WALK"
+      ]
+    },
+    {
+      "id": "town-meeting-places",
+      "title": "Paying at the Laundromat",
+      "anchors": [
+        "LAUNDROMAT",
+        "COIN",
+        "WASHER"
+      ],
+      "nearest": "visits-and-gatherings-5",
+      "nearestTitle": "A Welcome Basket for New Neighbors",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "BASKET",
+        "DOOR",
+        "SOAP"
+      ]
+    },
+    {
+      "id": "town-meeting-places-2",
+      "title": "A Menu at the Breakfast Counter",
+      "anchors": [
+        "MENU",
+        "SERVER",
+        "ORDER"
+      ],
+      "nearest": "guests-and-table-3",
+      "nearestTitle": "A Breakfast Tray for an Overnight Guest",
+      "answerJaccard": 0.2,
+      "shared": [
+        "BREAKFAST",
+        "COFFEE",
+        "PLATE",
+        "TOAST"
+      ]
+    },
+    {
+      "id": "town-meeting-places-3",
+      "title": "Picking a Seat at the Band Concert",
+      "anchors": [
+        "SEAT",
+        "BAND",
+        "CONCERT"
+      ],
+      "nearest": "summer-neighborhood-days-2",
+      "nearestTitle": "A Community Concert on the Lawn",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "BAND",
+        "CHAIR",
+        "CLAP",
+        "CONCERT",
+        "MUSIC",
+        "STAGE"
+      ]
+    },
+    {
+      "id": "town-meeting-places-4",
+      "title": "Checking the Pool's Open Hours",
+      "anchors": [
+        "HOURS",
+        "POOL",
+        "OPEN"
+      ],
+      "nearest": "small-town-outings-2",
+      "nearestTitle": "A Morning at the Town Pool",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "LOCKER",
+        "POOL",
+        "SWIM",
+        "TOWEL"
+      ]
+    },
+    {
+      "id": "town-meeting-places-5",
+      "title": "A Quiet Corner at the Book Sale",
+      "anchors": [
+        "USED",
+        "BOOK",
+        "SALE"
+      ],
+      "nearest": "community-volunteers-4",
+      "nearestTitle": "Sorting Books for a Community Sale",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "BOOK",
+        "PAGE",
+        "PRICE",
+        "SALE",
+        "TABLE",
+        "USED"
+      ]
+    },
+    {
+      "id": "useful-sewing",
+      "title": "A Drawstring Bag for Clothespins",
+      "anchors": [
+        "DRAWSTRING",
+        "BAG",
+        "CORD"
+      ],
+      "nearest": "beads-and-ribbons-5",
+      "nearestTitle": "A Ribbon Handle on a Small Bag",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BAG",
+        "LOOP",
+        "SEAM",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "useful-sewing-2",
+      "title": "A Fabric Doorstop by the Kitchen",
+      "anchors": [
+        "DOORSTOP",
+        "WEIGHT",
+        "BAG"
+      ],
+      "nearest": "useful-sewing",
+      "nearestTitle": "A Drawstring Bag for Clothespins",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BAG",
+        "NEEDLE",
+        "OPEN",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "useful-sewing-3",
+      "title": "An Apron Pocket for a Recipe Card",
+      "anchors": [
+        "APRON",
+        "POCKET",
+        "CARD"
+      ],
+      "nearest": "clothes-ready-5",
+      "nearestTitle": "A Loose Thread on a Jacket",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "EDGE",
+        "HEM",
+        "POCKET",
+        "SEAM",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "useful-sewing-4",
+      "title": "A Cloth Cover for a Bread Basket",
+      "anchors": [
+        "COVER",
+        "BASKET",
+        "ROLL"
+      ],
+      "nearest": "needle-and-thread-projects-2",
+      "nearestTitle": "A Hem on a Pair of Curtains",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "EDGE",
+        "FOLD",
+        "HEM",
+        "NEEDLE",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "useful-sewing-5",
+      "title": "A Sewn Case for Reading Glasses",
+      "anchors": [
+        "CASE",
+        "LINING",
+        "GLASSES"
+      ],
+      "nearest": "beads-and-ribbons-5",
+      "nearestTitle": "A Ribbon Handle on a Small Bag",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "CLOTH",
+        "EDGE",
+        "FOLD",
+        "STITCH",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "crafts-from-paper",
+      "title": "A Paper Envelope for a Gift Card",
+      "anchors": [
+        "ENVELOPE",
+        "CARD",
+        "FLAP"
+      ],
+      "nearest": "at-the-writing-desk-5",
+      "nearestTitle": "Writing a Thank-You Note",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "ENVELOPE",
+        "GIFT",
+        "NOTE",
+        "PAPER"
+      ]
+    },
+    {
+      "id": "crafts-from-paper-2",
+      "title": "A Paper Cone for Party Nuts",
+      "anchors": [
+        "CONE",
+        "NUT",
+        "PAPER"
+      ],
+      "nearest": "remembering-simple-play",
+      "nearestTitle": "Marbles in a Cloth Bag",
+      "answerJaccard": 0.1,
+      "shared": [
+        "ROLL",
+        "ROUND"
+      ]
+    },
+    {
+      "id": "crafts-from-paper-3",
+      "title": "A Paper Sleeve for a Flowerpot",
+      "anchors": [
+        "SLEEVE",
+        "POT",
+        "WRAP"
+      ],
+      "nearest": "spring-at-the-market-3",
+      "nearestTitle": "A Pot of Primroses as a Spring Gift",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "COLOR",
+        "FLOWER",
+        "POT",
+        "WRAP"
+      ]
+    },
+    {
+      "id": "crafts-from-paper-4",
+      "title": "A Homemade Birthday Banner",
+      "anchors": [
+        "BANNER",
+        "LETTER",
+        "BIRTHDAY"
+      ],
+      "nearest": "halloween-porch-scenes-4",
+      "nearestTitle": "Paper Bats Hanging in the Window",
+      "answerJaccard": 0.1053,
+      "shared": [
+        "HANG",
+        "STRING"
+      ]
+    },
+    {
+      "id": "crafts-from-paper-5",
+      "title": "A Small Paper Lantern with a Handle",
+      "anchors": [
+        "LANTERN",
+        "HANDLE",
+        "PAPER"
+      ],
+      "nearest": "crafts-from-paper-3",
+      "nearestTitle": "A Paper Sleeve for a Flowerpot",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "COLOR",
+        "EDGE",
+        "FOLD",
+        "PAPER",
+        "TAPE"
+      ]
+    },
+    {
+      "id": "table-pastimes",
+      "title": "A Game of Scrabble with Friends",
+      "anchors": [
+        "SCRABBLE",
+        "TILE",
+        "WORD"
+      ],
+      "nearest": "quiet-table-hobbies-3",
+      "nearestTitle": "Solving a Word Search with a Pencil",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "LETTER",
+        "ROW",
+        "WORD"
+      ]
+    },
+    {
+      "id": "table-pastimes-2",
+      "title": "Yahtzee at the Kitchen Table",
+      "anchors": [
+        "YAHTZEE",
+        "DICE",
+        "ROLL"
+      ],
+      "nearest": "quiet-table-hobbies",
+      "nearestTitle": "Sorting a Jigsaw by Its Edges",
+      "answerJaccard": 0.1,
+      "shared": [
+        "BOX",
+        "TABLE"
+      ]
+    },
+    {
+      "id": "table-pastimes-3",
+      "title": "A Round of Rummy",
+      "anchors": [
+        "RUMMY",
+        "CARD",
+        "HAND"
+      ],
+      "nearest": "game-night-4",
+      "nearestTitle": "Inside a Deck of Cards",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "ACE",
+        "CARD",
+        "DEAL",
+        "DISCARD",
+        "HAND"
+      ]
+    },
+    {
+      "id": "table-pastimes-4",
+      "title": "A Game of Connect Four",
+      "anchors": [
+        "DISC",
+        "FOUR",
+        "RACK"
+      ],
+      "nearest": "garden-from-the-beginning-4",
+      "nearestTitle": "Planting an Onion Row",
+      "answerJaccard": 0.15,
+      "shared": [
+        "LINE",
+        "RED",
+        "ROW"
+      ]
+    },
+    {
+      "id": "table-pastimes-5",
+      "title": "Rolling Doubles in a Board Game",
+      "anchors": [
+        "DOUBLES",
+        "DICE",
+        "MATCH"
+      ],
+      "nearest": "game-night-3",
+      "nearestTitle": "Dominoes on the Table",
+      "answerJaccard": 0.15,
+      "shared": [
+        "MATCH",
+        "SPOT",
+        "TURN"
+      ]
+    },
+    {
+      "id": "keepsakes-in-order",
+      "title": "A Postmark on an Old Envelope",
+      "anchors": [
+        "POSTMARK",
+        "DATE",
+        "TOWN"
+      ],
+      "nearest": "household-paperwork-4",
+      "nearestTitle": "Sorting the Morning Mail",
+      "answerJaccard": 0.3333,
+      "shared": [
+        "ENVELOPE",
+        "LETTER",
+        "MAIL",
+        "PAPER",
+        "SORT",
+        "STAMP"
+      ]
+    },
+    {
+      "id": "keepsakes-in-order-2",
+      "title": "A Ticket Saved from a Concert",
+      "anchors": [
+        "TICKET",
+        "CONCERT",
+        "PROGRAM"
+      ],
+      "nearest": "movie-night",
+      "nearestTitle": "An Evening at the Movies",
+      "answerJaccard": 0.2353,
+      "shared": [
+        "ROW",
+        "SEAT",
+        "STUB",
+        "TICKET"
+      ]
+    },
+    {
+      "id": "keepsakes-in-order-3",
+      "title": "Sorting Recipe Clippings by Course",
+      "anchors": [
+        "CLIPPING",
+        "RECIPE",
+        "COURSE"
+      ],
+      "nearest": "household-paperwork-5",
+      "nearestTitle": "Filing Papers in a Drawer",
+      "answerJaccard": 0.2353,
+      "shared": [
+        "FILE",
+        "FOLDER",
+        "SORT",
+        "TAB"
+      ]
+    },
+    {
+      "id": "keepsakes-in-order-4",
+      "title": "A Souvenir Spoon in a Display Rack",
+      "anchors": [
+        "SOUVENIR",
+        "SPOON",
+        "RACK"
+      ],
+      "nearest": "cookie-tins-2",
+      "nearestTitle": "Oatmeal Raisin Cookies to Share",
+      "answerJaccard": 0.15,
+      "shared": [
+        "BOWL",
+        "RACK",
+        "SPOON"
+      ]
+    },
+    {
+      "id": "keepsakes-in-order-5",
+      "title": "A Thimble among the Sewing Keepsakes",
+      "anchors": [
+        "THIMBLE",
+        "FINGER",
+        "METAL"
+      ],
+      "nearest": "treasured-collections-2",
+      "nearestTitle": "Coins in a Collector\u2019s Tray",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "CASE",
+        "METAL",
+        "RIM"
+      ]
+    },
+    {
+      "id": "singalong-preparations",
+      "title": "Choosing a Starting Note for a Song",
+      "anchors": [
+        "NOTE",
+        "START",
+        "TUNE"
+      ],
+      "nearest": "voices-in-company",
+      "nearestTitle": "Four Friends Singing Together",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "HIGH",
+        "LISTEN",
+        "SING",
+        "TUNE",
+        "VOICE"
+      ]
+    },
+    {
+      "id": "singalong-preparations-2",
+      "title": "Large Song Sheets for a Group",
+      "anchors": [
+        "LYRICS",
+        "SHEET",
+        "COPY"
+      ],
+      "nearest": "christmas-sharing-projects-4",
+      "nearestTitle": "A Christmas Carol Sheet at Each Seat",
+      "answerJaccard": 0.15,
+      "shared": [
+        "PRINT",
+        "SHEET",
+        "WORD"
+      ]
+    },
+    {
+      "id": "singalong-preparations-3",
+      "title": "An Unaccompanied Birthday Song",
+      "anchors": [
+        "VOICE",
+        "BIRTHDAY",
+        "SING"
+      ],
+      "nearest": "voices-in-company",
+      "nearestTitle": "Four Friends Singing Together",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "FRIEND",
+        "SING",
+        "TOGETHER",
+        "VOICE"
+      ]
+    },
+    {
+      "id": "singalong-preparations-4",
+      "title": "Keeping Time with a Foot Tap",
+      "anchors": [
+        "BEAT",
+        "FOOT",
+        "TAP"
+      ],
+      "nearest": "classic-movie-settings-2",
+      "nearestTitle": "A Singin' in the Rain Movie Scene",
+      "answerJaccard": 0.15,
+      "shared": [
+        "SHOE",
+        "SONG",
+        "TAP"
+      ]
+    },
+    {
+      "id": "singalong-preparations-5",
+      "title": "Putting Song Sheets Back in Order",
+      "anchors": [
+        "ORDER",
+        "PAGE",
+        "NUMBER"
+      ],
+      "nearest": "everyday-timekeepers-5",
+      "nearestTitle": "A Calendar Turned to a New Month",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "FIRST",
+        "LAST",
+        "NUMBER",
+        "PAGE"
+      ]
+    },
+    {
+      "id": "familiar-song-scenes",
+      "title": "America the Beautiful: Land and Sky",
+      "anchors": [
+        "AMERICA",
+        "BEAUTIFUL",
+        "MOUNTAIN"
+      ],
+      "nearest": "classic-movie-settings-3",
+      "nearestTitle": "A Sound of Music Hillside",
+      "answerJaccard": 0.1,
+      "shared": [
+        "MOUNTAIN",
+        "SONG"
+      ]
+    },
+    {
+      "id": "familiar-song-scenes-2",
+      "title": "My Bonnie Lies over the Ocean: Across the Water",
+      "anchors": [
+        "OCEAN",
+        "BONNIE",
+        "SEA"
+      ],
+      "nearest": "bible-moses-and-the-journey-3",
+      "nearestTitle": "Bible Story: A Path Through the Sea",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "SEA",
+        "SHORE",
+        "WATER",
+        "WIND"
+      ]
+    },
+    {
+      "id": "familiar-song-scenes-3",
+      "title": "She'll Be Coming Round the Mountain: A Welcome",
+      "anchors": [
+        "MOUNTAIN",
+        "WELCOME",
+        "JOURNEY"
+      ],
+      "nearest": "classic-movie-settings-3",
+      "nearestTitle": "A Sound of Music Hillside",
+      "answerJaccard": 0.1,
+      "shared": [
+        "HILL",
+        "MOUNTAIN"
+      ]
+    },
+    {
+      "id": "familiar-song-scenes-4",
+      "title": "Let Me Call You Sweetheart: Words of Affection",
+      "anchors": [
+        "SWEETHEART",
+        "LOVE",
+        "DEAR"
+      ],
+      "nearest": "songs-with-everyday-words-3",
+      "nearestTitle": "You Are My Sunshine: Weather and Warmth",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "DEAR",
+        "HAPPY",
+        "HEART",
+        "LOVE",
+        "SING",
+        "SMILE"
+      ]
+    },
+    {
+      "id": "familiar-song-scenes-5",
+      "title": "Row, Row, Row Your Boat: Along the Stream",
+      "anchors": [
+        "ROW",
+        "BOAT",
+        "STREAM"
+      ],
+      "nearest": "water-close-by-4",
+      "nearestTitle": "A Floating Leaf on a Creek",
+      "answerJaccard": 0.15,
+      "shared": [
+        "DRIFT",
+        "FLOAT",
+        "STREAM"
+      ]
+    },
+    {
+      "id": "old-home-routines",
+      "title": "Using a Handheld Carpet Sweeper",
+      "anchors": [
+        "SWEEPER",
+        "CARPET",
+        "HANDLE"
+      ],
+      "nearest": "home-inventions-5",
+      "nearestTitle": "Inside a Vacuum Cleaner",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "BRUSH",
+        "DUST",
+        "HANDLE"
+      ]
+    },
+    {
+      "id": "old-home-routines-2",
+      "title": "An Ice Tray with a Metal Lever",
+      "anchors": [
+        "LEVER",
+        "CUBE",
+        "TRAY"
+      ],
+      "nearest": "porch-and-patio-4",
+      "nearestTitle": "A Pitcher on the Patio Table",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "HANDLE",
+        "ICE",
+        "TRAY",
+        "WATER"
+      ]
+    },
+    {
+      "id": "old-home-routines-3",
+      "title": "Turning a Hand-Crank Can Opener",
+      "anchors": [
+        "OPENER",
+        "CRANK",
+        "LID"
+      ],
+      "nearest": "simple-machines",
+      "nearestTitle": "Opening a Paint Can in the Shed",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "CAN",
+        "EDGE",
+        "LID",
+        "RIM"
+      ]
+    },
+    {
+      "id": "old-home-routines-4",
+      "title": "A Foldaway Card Table in the Closet",
+      "anchors": [
+        "FOLD",
+        "TABLE",
+        "LEG"
+      ],
+      "nearest": "guests-and-table-2",
+      "nearestTitle": "Making Room at the Supper Table",
+      "answerJaccard": 0.15,
+      "shared": [
+        "CHAIR",
+        "FRIEND",
+        "TABLE"
+      ]
+    },
+    {
+      "id": "old-home-routines-5",
+      "title": "Paper Grocery Sacks Saved for Reuse",
+      "anchors": [
+        "SACK",
+        "PAPER",
+        "REUSE"
+      ],
+      "nearest": "christmas-post-and-paper",
+      "nearestTitle": "Folding a Christmas Paper Star",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "CREASE",
+        "FLAT",
+        "FOLD",
+        "PAPER"
+      ]
+    },
+    {
+      "id": "remembered-shop-windows",
+      "title": "A Catalog Order at the General Store",
+      "anchors": [
+        "CATALOG",
+        "ORDER",
+        "FORM"
+      ],
+      "nearest": "shopping-basket-2",
+      "nearestTitle": "Reading Prices on the Grocery Shelf",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "ITEM",
+        "PRICE",
+        "SIZE"
+      ]
+    },
+    {
+      "id": "remembered-shop-windows-2",
+      "title": "A Shoe Store's Foot-Measuring Tool",
+      "anchors": [
+        "FOOT",
+        "SIZE",
+        "MEASURE"
+      ],
+      "nearest": "clothes-ready-2",
+      "nearestTitle": "Polishing a Pair of Dress Shoes",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "HEEL",
+        "SHOE",
+        "TOE"
+      ]
+    },
+    {
+      "id": "remembered-shop-windows-3",
+      "title": "A Bakery's Rotating Cake Display",
+      "anchors": [
+        "DISPLAY",
+        "CAKE",
+        "TURN"
+      ],
+      "nearest": "keeping-food-fresh-4",
+      "nearestTitle": "A Covered Cake on the Counter",
+      "answerJaccard": 0.375,
+      "shared": [
+        "CAKE",
+        "ICING",
+        "PLATE",
+        "SLICE",
+        "STAND",
+        "SWEET"
+      ]
+    },
+    {
+      "id": "remembered-shop-windows-4",
+      "title": "A Hardware Store's Bulk Nail Bin",
+      "anchors": [
+        "NAIL",
+        "BIN",
+        "SCOOP"
+      ],
+      "nearest": "memories-of-main-street-2",
+      "nearestTitle": "An Old-Fashioned Candy Counter",
+      "answerJaccard": 0.15,
+      "shared": [
+        "BAG",
+        "COUNTER",
+        "SCOOP"
+      ]
+    },
+    {
+      "id": "remembered-shop-windows-5",
+      "title": "A Dime Store's Spool Rack",
+      "anchors": [
+        "DIME",
+        "SPOOL",
+        "THREAD"
+      ],
+      "nearest": "a-stitch-in-time-4",
+      "nearestTitle": "A Patchwork Quilt for the Sofa",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "COTTON",
+        "NEEDLE",
+        "SEW",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "games-remembered",
+      "title": "A Jump Rope Hung on a Hook",
+      "anchors": [
+        "ROPE",
+        "JUMP",
+        "HANDLE"
+      ],
+      "nearest": "remembering-simple-play-2",
+      "nearestTitle": "A Hopscotch Grid on the Sidewalk",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FOOT",
+        "GAME",
+        "SKIP",
+        "TURN"
+      ]
+    },
+    {
+      "id": "games-remembered-2",
+      "title": "A Paper Fortune Teller Folded by Hand",
+      "anchors": [
+        "FORTUNE",
+        "FLAP",
+        "FOLD"
+      ],
+      "nearest": "hands-on-hobbies-5",
+      "nearestTitle": "Folding an Origami Crane",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "CORNER",
+        "FLAP",
+        "FOLD",
+        "SQUARE"
+      ]
+    },
+    {
+      "id": "games-remembered-3",
+      "title": "The Hoop beside the Backyard Fence",
+      "anchors": [
+        "HOOP",
+        "WAIST",
+        "CIRCLE"
+      ],
+      "nearest": "games-remembered",
+      "nearestTitle": "A Jump Rope Hung on a Hook",
+      "answerJaccard": 0.1429,
+      "shared": [
+        "GAME",
+        "PLAY",
+        "TURN"
+      ]
+    },
+    {
+      "id": "games-remembered-4",
+      "title": "A Paddle Ball on an Elastic String",
+      "anchors": [
+        "PADDLE",
+        "BALL",
+        "STRING"
+      ],
+      "nearest": "remembering-simple-play-3",
+      "nearestTitle": "Jacks and a Rubber Ball",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BALL",
+        "BOUNCE",
+        "GAME",
+        "RUBBER"
+      ]
+    },
+    {
+      "id": "games-remembered-5",
+      "title": "A Ring Toss at the School Fair",
+      "anchors": [
+        "RING",
+        "TOSS",
+        "PEG"
+      ],
+      "nearest": "remembering-simple-play-2",
+      "nearestTitle": "A Hopscotch Grid on the Sidewalk",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "GAME",
+        "THROW",
+        "TURN"
+      ]
+    },
+    {
+      "id": "spring-small-plans",
+      "title": "A Garden Center's Spring Opening",
+      "anchors": [
+        "SEEDLING",
+        "DISPLAY",
+        "LABEL"
+      ],
+      "nearest": "craft-room-techniques",
+      "nearestTitle": "A Hanging Flowerpot by the Window",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "PLANT",
+        "POT",
+        "WATER"
+      ]
+    },
+    {
+      "id": "spring-small-plans-2",
+      "title": "A Welcome Mat Shaken in Spring Sunshine",
+      "anchors": [
+        "MAT",
+        "SHAKE",
+        "DUST"
+      ],
+      "nearest": "garden-path-details-3",
+      "nearestTitle": "Brushing Moss from a Garden Step",
+      "answerJaccard": 0.2,
+      "shared": [
+        "BRUSH",
+        "CLEAN",
+        "EDGE",
+        "STEP"
+      ]
+    },
+    {
+      "id": "spring-small-plans-3",
+      "title": "Filling the Hummingbird Feeder",
+      "anchors": [
+        "FEEDER",
+        "SUGAR",
+        "WATER"
+      ],
+      "nearest": "birds-to-recognize-4",
+      "nearestTitle": "A Hummingbird by Red Flowers",
+      "answerJaccard": 0.3125,
+      "shared": [
+        "FEEDER",
+        "FLOWER",
+        "RED",
+        "SUGAR",
+        "WATER"
+      ]
+    },
+    {
+      "id": "spring-small-plans-4",
+      "title": "A New Pair of Garden Kneepads",
+      "anchors": [
+        "KNEEPAD",
+        "KNEE",
+        "SOFT"
+      ],
+      "nearest": "flowers-through-the-year",
+      "nearestTitle": "Yellow Daffodils in Spring",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "BED",
+        "GARDEN",
+        "SPRING"
+      ]
+    },
+    {
+      "id": "spring-small-plans-5",
+      "title": "The First Lawn Mowing of Spring",
+      "anchors": [
+        "MOWER",
+        "GRASS",
+        "CUT"
+      ],
+      "nearest": "old-home-routines-3",
+      "nearestTitle": "Turning a Hand-Crank Can Opener",
+      "answerJaccard": 0.15,
+      "shared": [
+        "CUT",
+        "HANDLE",
+        "WHEEL"
+      ]
+    },
+    {
+      "id": "summer-neighborly-treats",
+      "title": "A Frozen Fruit Pop on the Porch",
+      "anchors": [
+        "POP",
+        "STICK",
+        "FROZEN"
+      ],
+      "nearest": "summer-neighborhood-days",
+      "nearestTitle": "A Lemon Ice at the Street Fair",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FROZEN",
+        "SUMMER",
+        "SWEET",
+        "TREAT"
+      ]
+    },
+    {
+      "id": "summer-neighborly-treats-2",
+      "title": "A Bowl of Cherries on the Patio",
+      "anchors": [
+        "CHERRY",
+        "PIT",
+        "STEM"
+      ],
+      "nearest": "garden-fruit-trees-4",
+      "nearestTitle": "Cherries Ready to Pick",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "CHERRY",
+        "JUICE",
+        "PAIR",
+        "PIT",
+        "STEM"
+      ]
+    },
+    {
+      "id": "summer-neighborly-treats-3",
+      "title": "Slices of Cantaloupe for a Cool Snack",
+      "anchors": [
+        "CANTALOUPE",
+        "MELON",
+        "SEED"
+      ],
+      "nearest": "summer-neighborhood-days-5",
+      "nearestTitle": "A Bowl of Watermelon Wedges",
+      "answerJaccard": 0.2778,
+      "shared": [
+        "FRUIT",
+        "SEED",
+        "SLICE",
+        "SUMMER",
+        "SWEET"
+      ]
+    },
+    {
+      "id": "summer-neighborly-treats-4",
+      "title": "A Picnic Tablecloth Held by Clips",
+      "anchors": [
+        "CLIP",
+        "TABLECLOTH",
+        "BREEZE"
+      ],
+      "nearest": "spring-first-outings-4",
+      "nearestTitle": "A First Picnic After Winter",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "BREEZE",
+        "PARK",
+        "PICNIC"
+      ]
+    },
+    {
+      "id": "summer-neighborly-treats-5",
+      "title": "A Paper Plate Fan at a Picnic",
+      "anchors": [
+        "FAN",
+        "PLATE",
+        "WAVE"
+      ],
+      "nearest": "crafts-from-paper-5",
+      "nearestTitle": "A Small Paper Lantern with a Handle",
+      "answerJaccard": 0.15,
+      "shared": [
+        "HANDLE",
+        "PAPER",
+        "ROUND"
+      ]
+    },
+    {
+      "id": "autumn-local-scenes",
+      "title": "A Scarecrow beside the Farm Gate",
+      "anchors": [
+        "SCARECROW",
+        "STRAW",
+        "HAT"
+      ],
+      "nearest": "clothes-ready-4",
+      "nearestTitle": "Rolling Sleeves before Washing Dishes",
+      "answerJaccard": 0.1,
+      "shared": [
+        "SHIRT",
+        "SLEEVE"
+      ]
+    },
+    {
+      "id": "autumn-local-scenes-2",
+      "title": "A Bag of Acorns for a Nature Table",
+      "anchors": [
+        "ACORN",
+        "CAP",
+        "OAK"
+      ],
+      "nearest": "trees-and-their-fruit-5",
+      "nearestTitle": "A Chestnut in Its Prickly Case",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "BROWN",
+        "FALL",
+        "LEAF",
+        "NUT",
+        "SHELL",
+        "TREE"
+      ]
+    },
+    {
+      "id": "autumn-local-scenes-3",
+      "title": "A Flannel Throw at a Football Game",
+      "anchors": [
+        "FLANNEL",
+        "THROW",
+        "LAP"
+      ],
+      "nearest": "winter-indoor-afternoons-5",
+      "nearestTitle": "A Warm Flannel Shirt from the Drawer",
+      "answerJaccard": 0.3125,
+      "shared": [
+        "FLANNEL",
+        "FOLD",
+        "PLAID",
+        "SOFT",
+        "WARM"
+      ]
+    },
+    {
+      "id": "autumn-local-scenes-4",
+      "title": "A Leaf-Shaped Cookie Cutter",
+      "anchors": [
+        "CUTTER",
+        "LEAF",
+        "DOUGH"
+      ],
+      "nearest": "cookie-tins-3",
+      "nearestTitle": "Rolling Ginger Cookies",
+      "answerJaccard": 0.2353,
+      "shared": [
+        "COOKIE",
+        "DOUGH",
+        "OVEN",
+        "ROLL"
+      ]
+    },
+    {
+      "id": "autumn-local-scenes-5",
+      "title": "A Paper Turkey for the Kitchen Door",
+      "anchors": [
+        "TURKEY",
+        "FEATHER",
+        "PAPER"
+      ],
+      "nearest": "flower-and-fabric-crafts-2",
+      "nearestTitle": "Pressed Leaves Between Book Pages",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "BROWN",
+        "FALL",
+        "PAPER",
+        "SHAPE"
+      ]
+    },
+    {
+      "id": "winter-nearby-scenes",
+      "title": "A Car's Frosty Windshield in the Morning",
+      "anchors": [
+        "WINDSHIELD",
+        "SCRAPER",
+        "FROST"
+      ],
+      "nearest": "winter-light-and-ice-2",
+      "nearestTitle": "Frost Patterns on a Windowpane",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FROST",
+        "ICE",
+        "WINDOW",
+        "WINTER"
+      ]
+    },
+    {
+      "id": "winter-nearby-scenes-2",
+      "title": "A Thermos Filled before an Outing",
+      "anchors": [
+        "THERMOS",
+        "FLASK",
+        "LID"
+      ],
+      "nearest": "winter-indoor-afternoons-2",
+      "nearestTitle": "A Kettle Steaming Beside the Stove",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "CUP",
+        "HOT",
+        "LID",
+        "TEA",
+        "WINTER"
+      ]
+    },
+    {
+      "id": "winter-nearby-scenes-3",
+      "title": "Wet Boots on a Drip Tray",
+      "anchors": [
+        "BOOT",
+        "TRAY",
+        "MELT"
+      ],
+      "nearest": "winter-light-and-ice-5",
+      "nearestTitle": "A Frozen Puddle Beside the Path",
+      "answerJaccard": 0.2,
+      "shared": [
+        "ICE",
+        "MELT",
+        "WATER",
+        "WINTER"
+      ]
+    },
+    {
+      "id": "winter-nearby-scenes-4",
+      "title": "A Hot-Water Bottle in a Cloth Cover",
+      "anchors": [
+        "BOTTLE",
+        "STOPPER",
+        "COVER"
+      ],
+      "nearest": "everyday-materials",
+      "nearestTitle": "Glass Bottles on the Kitchen Shelf",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "BOTTLE",
+        "NECK",
+        "WATER"
+      ]
+    },
+    {
+      "id": "winter-nearby-scenes-5",
+      "title": "A Draft Stopper along the Door",
+      "anchors": [
+        "DRAFT",
+        "GAP",
+        "TUBE"
+      ],
+      "nearest": "useful-sewing-2",
+      "nearestTitle": "A Fabric Doorstop by the Kitchen",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "DOOR",
+        "FILL",
+        "FLOOR"
+      ]
+    },
+    {
+      "id": "thanksgiving-table-help",
+      "title": "A Serving Spoon for Each Side Dish",
+      "anchors": [
+        "SERVING",
+        "SPOON",
+        "DISH"
+      ],
+      "nearest": "everyday-meals-5",
+      "nearestTitle": "A Casserole on the Table",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "DISH",
+        "MEAL",
+        "TABLE"
+      ]
+    },
+    {
+      "id": "thanksgiving-table-help-2",
+      "title": "A Thanksgiving Guest Book",
+      "anchors": [
+        "GUEST",
+        "BOOK",
+        "GREETING"
+      ],
+      "nearest": "garden-aftercare-4",
+      "nearestTitle": "A Notebook of This Year's Harvest",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "DATE",
+        "PAGE",
+        "PEN"
+      ]
+    },
+    {
+      "id": "thanksgiving-table-help-3",
+      "title": "A Separate Dish for Cranberry Sauce",
+      "anchors": [
+        "SAUCE",
+        "CRANBERRY",
+        "DISH"
+      ],
+      "nearest": "thanksgiving-table-help",
+      "nearestTitle": "A Serving Spoon for Each Side Dish",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "DISH",
+        "MEAL",
+        "SPOON",
+        "TABLE"
+      ]
+    },
+    {
+      "id": "thanksgiving-table-help-4",
+      "title": "Dividing the Last Thanksgiving Roll",
+      "anchors": [
+        "ROLL",
+        "HALF",
+        "SHARE"
+      ],
+      "nearest": "familiar-breakfasts",
+      "nearestTitle": "A Toasted English Muffin",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "BREAD",
+        "BUTTER",
+        "CRUST",
+        "HALF"
+      ]
+    },
+    {
+      "id": "thanksgiving-table-help-5",
+      "title": "Washing the Roasting Pan after Thanksgiving",
+      "anchors": [
+        "PAN",
+        "SOAK",
+        "ROAST"
+      ],
+      "nearest": "home-cleaning-corners",
+      "nearestTitle": "Washing Dishes After Supper",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "DISH",
+        "DRY",
+        "SPONGE",
+        "WATER"
+      ]
+    },
+    {
+      "id": "christmas-small-touches",
+      "title": "A Christmas Tree Watering Can",
+      "anchors": [
+        "STAND",
+        "WATER",
+        "TREE"
+      ],
+      "nearest": "christmas-around-the-room-4",
+      "nearestTitle": "A Cloth Skirt Beneath the Christmas Tree",
+      "answerJaccard": 0.2,
+      "shared": [
+        "FLOOR",
+        "GREEN",
+        "STAND",
+        "TREE"
+      ]
+    },
+    {
+      "id": "christmas-small-touches-2",
+      "title": "A Red Bow on a Christmas Mailbox",
+      "anchors": [
+        "BOW",
+        "MAILBOX",
+        "RED"
+      ],
+      "nearest": "beads-and-ribbons-2",
+      "nearestTitle": "A Ribbon Bow for a Gift Basket",
+      "answerJaccard": 0.3529,
+      "shared": [
+        "BOW",
+        "KNOT",
+        "LOOP",
+        "RIBBON",
+        "TAIL",
+        "TIE"
+      ]
+    },
+    {
+      "id": "christmas-small-touches-3",
+      "title": "A Christmas Orange Studded with Cloves",
+      "anchors": [
+        "ORANGE",
+        "CLOVE",
+        "SCENT"
+      ],
+      "nearest": "christmas-little-traditions",
+      "nearestTitle": "An Orange in a Christmas Stocking",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "CHRISTMAS",
+        "ORANGE",
+        "PEEL"
+      ]
+    },
+    {
+      "id": "christmas-small-touches-4",
+      "title": "A Christmas Ornament with a Family Name",
+      "anchors": [
+        "ORNAMENT",
+        "NAME",
+        "YEAR"
+      ],
+      "nearest": "collecting-family-stories",
+      "nearestTitle": "Labeling Old Family Photographs",
+      "answerJaccard": 0.2,
+      "shared": [
+        "DATE",
+        "FAMILY",
+        "NAME",
+        "YEAR"
+      ]
+    },
+    {
+      "id": "christmas-small-touches-5",
+      "title": "Putting Christmas Lights Back in a Box",
+      "anchors": [
+        "LIGHT",
+        "STRING",
+        "STORE"
+      ],
+      "nearest": "neighborhood-businesses-3",
+      "nearestTitle": "A Parcel at the Shipping Counter",
+      "answerJaccard": 0.1667,
+      "shared": [
+        "BOX",
+        "STRING",
+        "WRAP"
+      ]
+    },
+    {
+      "id": "easter-small-preparations",
+      "title": "Grass for the Bottom of an Easter Basket",
+      "anchors": [
+        "GRASS",
+        "BASKET",
+        "PAPER"
+      ],
+      "nearest": "easter-gathering",
+      "nearestTitle": "An Easter Basket Display",
+      "answerJaccard": 0.2222,
+      "shared": [
+        "BASKET",
+        "EGG",
+        "GRASS",
+        "TREAT"
+      ]
+    },
+    {
+      "id": "easter-small-preparations-2",
+      "title": "A Ribbon Tied around an Easter Bread",
+      "anchors": [
+        "RIBBON",
+        "LOAF",
+        "BOW"
+      ],
+      "nearest": "christmas-sharing-projects-2",
+      "nearestTitle": "Packing a Christmas Cookie Tin for a Friend",
+      "answerJaccard": 0.2941,
+      "shared": [
+        "BAKE",
+        "GIFT",
+        "PAPER",
+        "RIBBON",
+        "SWEET"
+      ]
+    },
+    {
+      "id": "easter-small-preparations-3",
+      "title": "An Easter Table Set on the Porch",
+      "anchors": [
+        "PORCH",
+        "TABLE",
+        "SPRING"
+      ],
+      "nearest": "guests-and-table-2",
+      "nearestTitle": "Making Room at the Supper Table",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FORK",
+        "NAPKIN",
+        "PLATE",
+        "TABLE"
+      ]
+    },
+    {
+      "id": "easter-small-preparations-4",
+      "title": "Unwrapping a Small Easter Egg",
+      "anchors": [
+        "FOIL",
+        "CHOCOLATE",
+        "EGG"
+      ],
+      "nearest": "easter-spring-color",
+      "nearestTitle": "Dyeing Eggs in Cups of Color",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "COLOR",
+        "EGG",
+        "SHELL"
+      ]
+    },
+    {
+      "id": "easter-small-preparations-5",
+      "title": "Gathering Empty Eggs after the Hunt",
+      "anchors": [
+        "PLASTIC",
+        "EGG",
+        "MATCH"
+      ],
+      "nearest": "easter-small-preparations",
+      "nearestTitle": "Grass for the Bottom of an Easter Basket",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "BASKET",
+        "BOTTOM",
+        "EGG"
+      ]
+    },
+    {
+      "id": "bible-helping-hands",
+      "title": "Bible Story: Lydia Welcomes Visitors",
+      "anchors": [
+        "LYDIA",
+        "PURPLE",
+        "CLOTH"
+      ],
+      "nearest": "visits-and-gatherings-3",
+      "nearestTitle": "An Afternoon at the Senior Center",
+      "answerJaccard": 0.1,
+      "shared": [
+        "DOOR",
+        "WELCOME"
+      ]
+    },
+    {
+      "id": "bible-helping-hands-2",
+      "title": "Bible Story: Philip Meets a Traveler",
+      "anchors": [
+        "PHILIP",
+        "CHARIOT",
+        "READ"
+      ],
+      "nearest": "gentle-daily-routines-5",
+      "nearestTitle": "Turning Off the Reading Light",
+      "answerJaccard": 0.1,
+      "shared": [
+        "BOOK",
+        "READ"
+      ]
+    },
+    {
+      "id": "bible-helping-hands-3",
+      "title": "Bible Story: Hannah Brings a Little Coat",
+      "anchors": [
+        "HANNAH",
+        "COAT",
+        "VISIT"
+      ],
+      "nearest": "clothes-ready",
+      "nearestTitle": "Trying on a Raincoat in the Hall",
+      "answerJaccard": 0.0952,
+      "shared": [
+        "COAT",
+        "WEAR"
+      ]
+    },
+    {
+      "id": "bible-helping-hands-4",
+      "title": "Bible Story: Neighbors Repair a Wall",
+      "anchors": [
+        "WALL",
+        "GATE",
+        "REPAIR"
+      ],
+      "nearest": "bible-stories-jesus-told",
+      "nearestTitle": "Bible Parable: A Helpful Samaritan",
+      "answerJaccard": 0.1,
+      "shared": [
+        "HELP",
+        "NEIGHBOR"
+      ]
+    },
+    {
+      "id": "bible-helping-hands-5",
+      "title": "Bible Story: Dorcas Makes Clothes",
+      "anchors": [
+        "DORCAS",
+        "CLOTHES",
+        "SEW"
+      ],
+      "nearest": "remembered-shop-windows-5",
+      "nearestTitle": "A Dime Store's Spool Rack",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "NEEDLE",
+        "SEW",
+        "THREAD"
+      ]
+    },
+    {
+      "id": "bible-familiar-objects",
+      "title": "Bible Story: Peter Finds a Coin in a Fish",
+      "anchors": [
+        "PETER",
+        "COIN",
+        "FISH"
+      ],
+      "nearest": "bible-courage-and-care-3",
+      "nearestTitle": "Bible Story: Jonah and the Great Fish",
+      "answerJaccard": 0.2,
+      "shared": [
+        "FISH",
+        "SEA",
+        "SHORE",
+        "WATER"
+      ]
+    },
+    {
+      "id": "bible-familiar-objects-2",
+      "title": "Bible Story: Mary Listens while Martha Serves",
+      "anchors": [
+        "MARY",
+        "MARTHA",
+        "LISTEN"
+      ],
+      "nearest": "bible-helping-hands",
+      "nearestTitle": "Bible Story: Lydia Welcomes Visitors",
+      "answerJaccard": 0.2632,
+      "shared": [
+        "GUEST",
+        "HOME",
+        "HOUSE",
+        "LISTEN",
+        "WELCOME"
+      ]
+    },
+    {
+      "id": "bible-familiar-objects-3",
+      "title": "Bible Story: Breakfast beside the Lake",
+      "anchors": [
+        "BREAKFAST",
+        "FIRE",
+        "SHORE"
+      ],
+      "nearest": "bible-by-the-lake-2",
+      "nearestTitle": "Bible Story: Fishermen Leave Their Nets",
+      "answerJaccard": 0.2105,
+      "shared": [
+        "FISH",
+        "LAKE",
+        "PETER",
+        "SHORE"
+      ]
+    },
+    {
+      "id": "bible-familiar-objects-4",
+      "title": "Bible Story: Jesus Washes the Disciples' Feet",
+      "anchors": [
+        "JESUS",
+        "BASIN",
+        "TOWEL"
+      ],
+      "nearest": "guests-and-table",
+      "nearestTitle": "Setting Out a Guest Towel",
+      "answerJaccard": 0.15,
+      "shared": [
+        "DRY",
+        "TOWEL",
+        "WASH"
+      ]
+    },
+    {
+      "id": "bible-familiar-objects-5",
+      "title": "Bible Story: Paul and Silas Sing at Night",
+      "anchors": [
+        "PAUL",
+        "SILAS",
+        "SONG"
+      ],
+      "nearest": "singalong-preparations",
+      "nearestTitle": "Choosing a Starting Note for a Song",
+      "answerJaccard": 0.1579,
+      "shared": [
+        "LISTEN",
+        "SONG",
+        "VOICE"
+      ]
+    }
+  ],
+  "limits": "Model-assisted scene and clue review; not independent editing or a target-reader study. Familiar words can recur; overlap is a review signal, not a difficulty or SEO score."
+}

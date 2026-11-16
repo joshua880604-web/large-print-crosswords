@@ -1,0 +1,387 @@
+[
+  {
+    "id": "remembered-shop-windows",
+    "title": "A Catalog Order at the General Store",
+    "subtheme": "A Catalog Order at the General Store",
+    "description": "Point to an illustrated item and fill in an order form at the store counter.",
+    "cardDescription": "Point to an illustrated item and fill in an order form at the store counter.",
+    "focus": "Point to an illustrated item and fill in an order form at the store counter.",
+    "solvingTip": "Start with this clue: \u201cBook showing goods available to order.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CATALOG",
+        "Book showing goods available to order"
+      ],
+      [
+        "ORDER",
+        "Request to buy an item from the printed book"
+      ],
+      [
+        "FORM",
+        "Paper on which a purchase request is written"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "SIZE",
+        "How large or small something is"
+      ],
+      [
+        "SHIRT",
+        "Upper-body garment with sleeves"
+      ],
+      [
+        "COAT",
+        "Cold-weather outer garment"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "CLERK",
+        "Person helping customers at a store counter"
+      ],
+      [
+        "ITEM",
+        "One thing on a shopping list"
+      ],
+      [
+        "STOCK",
+        "Goods a store has available to sell"
+      ],
+      [
+        "PICTURE",
+        "Illustration showing an item for sale"
+      ]
+    ],
+    "requiredAnswers": [
+      "CATALOG",
+      "ORDER",
+      "FORM"
+    ],
+    "answerNotes": {
+      "CATALOG": "The catalog shows illustrated items that can be ordered from the store.",
+      "ORDER": "An order is a request to buy a chosen item.",
+      "FORM": "The form records details such as the item's number and size."
+    }
+  },
+  {
+    "id": "remembered-shop-windows-2",
+    "title": "A Shoe Store's Foot-Measuring Tool",
+    "subtheme": "A Shoe Store's Foot-Measuring Tool",
+    "description": "Place a foot on the marked tool to check a shoe size.",
+    "cardDescription": "Place a foot on the marked tool to check a shoe size.",
+    "focus": "Place a foot on the marked tool to check a shoe size.",
+    "solvingTip": "Start with this clue: \u201cBody part below the ankle.\u201d Its answer begins with F. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "FOOT",
+        "Body part below the ankle"
+      ],
+      [
+        "SIZE",
+        "Number used when choosing shoes"
+      ],
+      [
+        "MEASURE",
+        "Find an object's size or length"
+      ],
+      [
+        "SHOE",
+        "Covering for the foot"
+      ],
+      [
+        "HEEL",
+        "Back part of a foot or shoe"
+      ],
+      [
+        "TOE",
+        "Front part of a foot or shoe"
+      ],
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ],
+      [
+        "LENGTH",
+        "Distance from one end of an object to the other"
+      ],
+      [
+        "TOOL",
+        "Implement used to do a task"
+      ],
+      [
+        "SLIDE",
+        "Move the tool's measuring part along a scale"
+      ],
+      [
+        "SOCK",
+        "Cloth covering for a foot"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ]
+    ],
+    "requiredAnswers": [
+      "FOOT",
+      "SIZE",
+      "MEASURE"
+    ],
+    "answerNotes": {
+      "FOOT": "The foot rests on the tool while its length is checked.",
+      "SIZE": "Size translates the measurement into a shoe-fitting number.",
+      "MEASURE": "To measure is to find length or width using marked units."
+    }
+  },
+  {
+    "id": "remembered-shop-windows-3",
+    "title": "A Bakery's Rotating Cake Display",
+    "subtheme": "A Bakery's Rotating Cake Display",
+    "description": "Watch the cakes turn slowly behind the glass near the shop window.",
+    "cardDescription": "Watch the cakes turn slowly behind the glass near the shop window.",
+    "focus": "Watch the cakes turn slowly behind the glass near the shop window.",
+    "solvingTip": "Start with this clue: \u201cAn arrangement of objects put out for people to see.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DISPLAY",
+        "An arrangement of objects put out for people to see"
+      ],
+      [
+        "CAKE",
+        "Sweet baked dessert often covered with icing"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "ICING",
+        "Sweet coating spread or poured over a cake"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "SHOP",
+        "Place where the baked goods are sold"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "PLATE",
+        "Flat dish under a displayed cake"
+      ],
+      [
+        "STAND",
+        "Support that holds an object upright"
+      ]
+    ],
+    "requiredAnswers": [
+      "DISPLAY",
+      "CAKE",
+      "TURN"
+    ],
+    "answerNotes": {
+      "DISPLAY": "The display puts the decorated cakes where customers can see them.",
+      "CAKE": "The cake is the sweet baked item on the stand.",
+      "TURN": "To turn is to rotate the display slowly past the window."
+    }
+  },
+  {
+    "id": "remembered-shop-windows-4",
+    "title": "A Hardware Store's Bulk Nail Bin",
+    "subtheme": "A Hardware Store's Bulk Nail Bin",
+    "description": "Choose a few nails from the bin and put them in a small paper bag.",
+    "cardDescription": "Choose a few nails from the bin and put them in a small paper bag.",
+    "focus": "Choose a few nails from the bin and put them in a small paper bag.",
+    "solvingTip": "Start with this clue: \u201cPointed metal fastener struck by a hammer.\u201d Its answer begins with N. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "NAIL",
+        "Pointed metal fastener struck by a hammer"
+      ],
+      [
+        "BIN",
+        "Open compartment holding loose goods"
+      ],
+      [
+        "SCOOP",
+        "Small shovel for lifting loose nails"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "POINT",
+        "Sharp end of a nail"
+      ],
+      [
+        "HEAD",
+        "Body part containing the eyes and mouth"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "WEIGH",
+        "Measure how heavy something is"
+      ],
+      [
+        "SCALE",
+        "Device used for weighing"
+      ],
+      [
+        "PRICE",
+        "Cost written beside the nail bin"
+      ],
+      [
+        "HARDWARE",
+        "Tools, fasteners, and similar store goods"
+      ],
+      [
+        "COUNTER",
+        "Service surface beside the nail bins"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "HAMMER",
+        "Striking tool commonly used to drive nails"
+      ]
+    ],
+    "requiredAnswers": [
+      "NAIL",
+      "BIN",
+      "SCOOP"
+    ],
+    "answerNotes": {
+      "NAIL": "A nail has a pointed end driven into wood.",
+      "BIN": "The bin keeps loose nails grouped at the counter.",
+      "SCOOP": "A scoop lifts several small nails without picking each one up."
+    }
+  },
+  {
+    "id": "remembered-shop-windows-5",
+    "title": "A Dime Store's Spool Rack",
+    "subtheme": "A Dime Store's Spool Rack",
+    "description": "Choose a color of sewing thread from the rows of wooden spools.",
+    "cardDescription": "Choose a color of sewing thread from the rows of wooden spools.",
+    "focus": "Choose a color of sewing thread from the rows of wooden spools.",
+    "solvingTip": "Start with this clue: \u201cU.S. coin worth ten cents.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DIME",
+        "U.S. coin worth ten cents"
+      ],
+      [
+        "SPOOL",
+        "Small cylinder holding thread or line"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "SEW",
+        "Join fabric with needle and thread"
+      ],
+      [
+        "NEEDLE",
+        "Slim sewing tool with an eye for thread"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "COTTON",
+        "Soft fiber used for many shirts and towels"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "SHOP",
+        "Retail place with the sewing display"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ]
+    ],
+    "requiredAnswers": [
+      "DIME",
+      "SPOOL",
+      "THREAD"
+    ],
+    "answerNotes": {
+      "DIME": "A dime is a ten-cent coin that gave these stores their old name.",
+      "SPOOL": "A spool is the small cylinder around which thread is wound.",
+      "THREAD": "Thread is the fine strand chosen for a sewing project."
+    }
+  }
+]

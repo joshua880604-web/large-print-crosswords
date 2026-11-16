@@ -1,0 +1,387 @@
+[
+  {
+    "id": "singalong-preparations",
+    "title": "Choosing a Starting Note for a Song",
+    "subtheme": "Choosing a Starting Note for a Song",
+    "description": "Listen to the first note before joining a familiar tune.",
+    "cardDescription": "Listen to the first note before joining a familiar tune.",
+    "focus": "Listen to the first note before joining a familiar tune.",
+    "solvingTip": "Start with this clue: \u201cOne musical sound at a certain pitch.\u201d Its answer begins with N. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "NOTE",
+        "One musical sound at a certain pitch"
+      ],
+      [
+        "START",
+        "Begin"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "VOICE",
+        "Sound made when speaking"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument with strings struck by hammers"
+      ],
+      [
+        "KEY",
+        "Piano part pressed to sound a starting note"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to a sound"
+      ],
+      [
+        "HIGH",
+        "At the upper end of a musical range"
+      ],
+      [
+        "LOW",
+        "At the lower end of a musical range"
+      ],
+      [
+        "SING",
+        "Make music with the voice"
+      ],
+      [
+        "HUM",
+        "Sing a tune with closed lips and no words"
+      ],
+      [
+        "FIRST",
+        "Coming before all others"
+      ],
+      [
+        "SOUND",
+        "Something heard by the ears"
+      ]
+    ],
+    "requiredAnswers": [
+      "NOTE",
+      "START",
+      "TUNE"
+    ],
+    "answerNotes": {
+      "NOTE": "A note is one musical pitch used to begin the tune.",
+      "START": "The start gives the singers a common beginning.",
+      "TUNE": "The tune is the melody followed by the voices."
+    }
+  },
+  {
+    "id": "singalong-preparations-2",
+    "title": "Large Song Sheets for a Group",
+    "subtheme": "Large Song Sheets for a Group",
+    "description": "Set out readable copies so everyone can follow the words of a song.",
+    "cardDescription": "Set out readable copies so everyone can follow the words of a song.",
+    "focus": "Set out readable copies so everyone can follow the words of a song.",
+    "solvingTip": "Start with this clue: \u201cWords of a song.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LYRICS",
+        "Words of a song"
+      ],
+      [
+        "SHEET",
+        "Large flat piece of paper"
+      ],
+      [
+        "COPY",
+        "One duplicate of a song page"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "TYPE",
+        "Printed letters of a chosen size"
+      ],
+      [
+        "LARGE",
+        "Big in size"
+      ],
+      [
+        "PRINT",
+        "Put words or pictures on paper"
+      ],
+      [
+        "VERSE",
+        "Section of a song whose words often change when it returns"
+      ],
+      [
+        "CHORUS",
+        "Part of a song repeated after the verses"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "MUSIC",
+        "Organized sounds with rhythm and melody"
+      ],
+      [
+        "GROUP",
+        "Several people or things together"
+      ]
+    ],
+    "requiredAnswers": [
+      "LYRICS",
+      "SHEET",
+      "COPY"
+    ],
+    "answerNotes": {
+      "LYRICS": "Lyrics are the words people sing.",
+      "SHEET": "A sheet is one page handed to a singer.",
+      "COPY": "A copy repeats the same words so another person can follow them."
+    }
+  },
+  {
+    "id": "singalong-preparations-3",
+    "title": "An Unaccompanied Birthday Song",
+    "subtheme": "An Unaccompanied Birthday Song",
+    "description": "Sing a birthday greeting together using voices without instruments.",
+    "cardDescription": "Sing a birthday greeting together using voices without instruments.",
+    "focus": "Sing a birthday greeting together using voices without instruments.",
+    "solvingTip": "Start with this clue: \u201cSound produced by one singer.\u201d Its answer begins with V. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "VOICE",
+        "Sound produced by one singer"
+      ],
+      [
+        "BIRTHDAY",
+        "Yearly celebration of the day someone was born"
+      ],
+      [
+        "SING",
+        "Use the voice to follow a tune"
+      ],
+      [
+        "SONG",
+        "Musical birthday greeting"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ],
+      [
+        "GROUP",
+        "Several friends singing at once"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "WISH",
+        "Hope for something good"
+      ],
+      [
+        "CLAP",
+        "Applaud by striking the hands together"
+      ],
+      [
+        "CANDLE",
+        "Wax light used as a table decoration"
+      ],
+      [
+        "CAKE",
+        "Sweet baked dessert often covered with icing"
+      ],
+      [
+        "CHEER",
+        "Good spirits expressed in a friendly seasonal message"
+      ],
+      [
+        "HUM",
+        "Sing a tune with closed lips and no words"
+      ],
+      [
+        "TOGETHER",
+        "At the same time, as partners play a duet"
+      ]
+    ],
+    "requiredAnswers": [
+      "VOICE",
+      "BIRTHDAY",
+      "SING"
+    ],
+    "answerNotes": {
+      "VOICE": "The voice supplies the music without an instrument.",
+      "BIRTHDAY": "The birthday is the occasion for the greeting.",
+      "SING": "Singing uses the voice to follow a tune rather than speak normally."
+    }
+  },
+  {
+    "id": "singalong-preparations-4",
+    "title": "Keeping Time with a Foot Tap",
+    "subtheme": "Keeping Time with a Foot Tap",
+    "description": "Tap a steady beat while listening to a favorite recording.",
+    "cardDescription": "Tap a steady beat while listening to a favorite recording.",
+    "focus": "Tap a steady beat while listening to a favorite recording.",
+    "solvingTip": "Start with this clue: \u201cSteady pulse in music.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BEAT",
+        "Steady pulse in music"
+      ],
+      [
+        "FOOT",
+        "Body part below the ankle"
+      ],
+      [
+        "TAP",
+        "Touch a foot to the floor to keep time"
+      ],
+      [
+        "RHYTHM",
+        "Pattern of beats in music"
+      ],
+      [
+        "MUSIC",
+        "Sounds arranged in a pattern to enjoy"
+      ],
+      [
+        "SONG",
+        "Recorded tune being followed by the listener"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "STEADY",
+        "Keeping an even pace or beat"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to a sound"
+      ],
+      [
+        "SHOE",
+        "Covering for the foot"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ],
+      [
+        "SOUND",
+        "Something noticed through hearing"
+      ]
+    ],
+    "requiredAnswers": [
+      "BEAT",
+      "FOOT",
+      "TAP"
+    ],
+    "answerNotes": {
+      "BEAT": "The beat is the regular pulse followed while listening.",
+      "FOOT": "The foot marks that pulse against the floor.",
+      "TAP": "A tap is a light repeated touch rather than a hard stamp."
+    }
+  },
+  {
+    "id": "singalong-preparations-5",
+    "title": "Putting Song Sheets Back in Order",
+    "subtheme": "Putting Song Sheets Back in Order",
+    "description": "Sort a stack of song pages so the next gathering is ready.",
+    "cardDescription": "Sort a stack of song pages so the next gathering is ready.",
+    "focus": "Sort a stack of song pages so the next gathering is ready.",
+    "solvingTip": "Start with this clue: \u201cArrange in a chosen sequence.\u201d Its answer begins with O. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "ORDER",
+        "Arrange in a chosen sequence"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "SONG",
+        "Tune whose pages are being organized"
+      ],
+      [
+        "SHEET",
+        "Large flat piece of paper"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "FOLDER",
+        "Folded cover used to keep papers together"
+      ],
+      [
+        "CLIP",
+        "Fastener that holds pages together"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ],
+      [
+        "TITLE",
+        "Name of a book or song"
+      ],
+      [
+        "FIRST",
+        "Before all the other pages"
+      ],
+      [
+        "LAST",
+        "Coming after all others"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "MUSIC",
+        "Printed notes arranged for singers"
+      ]
+    ],
+    "requiredAnswers": [
+      "ORDER",
+      "PAGE",
+      "NUMBER"
+    ],
+    "answerNotes": {
+      "ORDER": "Order means the sequence of pages in the folder.",
+      "PAGE": "A page holds one part of the printed song material.",
+      "NUMBER": "The number helps return each sheet to its place."
+    }
+  }
+]

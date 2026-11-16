@@ -5,6 +5,7 @@ import {dirname,resolve} from 'node:path';
 import assert from 'node:assert/strict';
 import {chromium} from '@playwright/test';
 import {originals,previousEditions} from './editorial-data.mjs';
+import {releaseScope} from './release-scope.mjs';
 
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
 const corrections=JSON.parse(readFileSync(new URL('../src/data/archive-clue-clarifications.json',import.meta.url),'utf8'));
@@ -12,8 +13,7 @@ const base=new URL(process.argv[2]||'http://127.0.0.1:4323');
 assert.ok(['127.0.0.1','localhost','[::1]'].includes(base.hostname),'Use a local production preview');
 const output=resolve(process.argv[3]||'/tmp/lpc-playthrough-audit.json');mkdirSync(dirname(output),{recursive:true});
 const newOnly=process.argv.includes('--new-only');
-const baselineIds=newOnly?new Set(Object.keys(JSON.parse(readFileSync(new URL('../docs/research/expansion-1000/preservation-baseline.json',import.meta.url),'utf8')).puzzles)):null;
-const selectedPuzzles=newOnly?puzzles.filter(p=>!baselineIds.has(p.id)):puzzles;
+const selectedPuzzles=newOnly?releaseScope().puzzles:puzzles;
 const cases=[
  ...selectedPuzzles.map(puzzle=>({puzzle,archive:false,kind:'current',path:`/crosswords/${puzzle.id}/`})),
  ...(newOnly?[]:originals).map(puzzle=>({puzzle,archive:true,kind:'original',path:`/crosswords/${puzzle.id}/previous/`})),

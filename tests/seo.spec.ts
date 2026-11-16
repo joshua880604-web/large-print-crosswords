@@ -29,10 +29,14 @@ test('print copies and missing pages are excluded from indexing',async({page,req
 });
 
 test('collections keep every puzzle crawlable without scripts and load compact previews',async({browser,request})=>{
+ // This audits two complete 1,200-card catalogs with scripts disabled. Chromium
+ // also loads their image resources without native lazy loading in this mode.
+ test.setTimeout(90_000);
  const context=await browser.newContext({javaScriptEnabled:false}),page=await context.newPage();
  try{
   for(const path of ['/crosswords/','/printable/']){
-   await page.goto(path);
+   // Crawlability requires the complete DOM; individual previews are checked below.
+   await page.goto(path,{waitUntil:'domcontentloaded'});
    await expect(page.locator('a.puzzle-card')).toHaveCount(puzzles.length);
    const links=await page.locator('a.puzzle-card').evaluateAll(anchors=>anchors.map(a=>a.getAttribute('href')));
    expect(links.sort()).toEqual(puzzles.map(p=>`/crosswords/${p.id}/`).sort());

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "table-pastimes",
+    "title": "A Game of Scrabble with Friends",
+    "subtheme": "A Game of Scrabble with Friends",
+    "description": "Set letter tiles on the board and look for a familiar word.",
+    "cardDescription": "Set letter tiles on the board and look for a familiar word.",
+    "focus": "Set letter tiles on the board and look for a familiar word.",
+    "solvingTip": "Start with this clue: \u201cBoard game with letter tiles and words; starts with S.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "SCRABBLE",
+        "Board game with letter tiles and words; starts with S"
+      ],
+      [
+        "TILE",
+        "Small square with a letter in a word game"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "LETTER",
+        "One character in a word"
+      ],
+      [
+        "SCORE",
+        "Number of points earned in a game"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "POINT",
+        "One unit added to a player's score"
+      ],
+      [
+        "FRIEND",
+        "Person known and liked"
+      ],
+      [
+        "PLAY",
+        "Take part in a game"
+      ],
+      [
+        "ROW",
+        "Line of squares across the board"
+      ],
+      [
+        "SPELL",
+        "To give the letters of a written word in order"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCRABBLE",
+      "TILE",
+      "WORD"
+    ],
+    "answerNotes": {
+      "SCRABBLE": "Scrabble uses letter tiles to build words on a board.",
+      "TILE": "A tile carries one letter used in a played word.",
+      "WORD": "The word must be spelled by the tiles laid in order."
+    }
+  },
+  {
+    "id": "table-pastimes-2",
+    "title": "Yahtzee at the Kitchen Table",
+    "subtheme": "Yahtzee at the Kitchen Table",
+    "description": "Roll the dice and write a score in the right box.",
+    "cardDescription": "Roll the dice and write a score in the right box.",
+    "focus": "Roll the dice and write a score in the right box.",
+    "solvingTip": "Start with this clue: \u201cDice game scored on a sheet; starts with Y.\u201d Its answer begins with Y. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "YAHTZEE",
+        "Dice game scored on a sheet; starts with Y"
+      ],
+      [
+        "DICE",
+        "Plural name for numbered cubes rolled in games"
+      ],
+      [
+        "ROLL",
+        "Tumble the dice across the table"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "SCORE",
+        "Points written on the game sheet"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "PENCIL",
+        "Writing tool with a graphite core"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "FIVE",
+        "Number of dice rolled in Yahtzee"
+      ],
+      [
+        "GAME",
+        "Activity played under rules"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "CHANCE",
+        "Possibility of something happening"
+      ],
+      [
+        "TOTAL",
+        "The final sum owed for a purchase"
+      ],
+      [
+        "SHAKE",
+        "Move back and forth quickly"
+      ]
+    ],
+    "requiredAnswers": [
+      "YAHTZEE",
+      "DICE",
+      "ROLL"
+    ],
+    "answerNotes": {
+      "YAHTZEE": "Yahtzee is a dice game with a score sheet.",
+      "DICE": "Dice is the plural of die, the cube rolled in the game.",
+      "ROLL": "A roll sends the dice tumbling to show new numbers."
+    }
+  },
+  {
+    "id": "table-pastimes-3",
+    "title": "A Round of Rummy",
+    "subtheme": "A Round of Rummy",
+    "description": "Pick up a card and arrange matching groups or runs in a hand.",
+    "cardDescription": "Pick up a card and arrange matching groups or runs in a hand.",
+    "focus": "Pick up a card and arrange matching groups or runs in a hand.",
+    "solvingTip": "Start with this clue: \u201cCard game with matching sets and runs; starts with R.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RUMMY",
+        "Card game with matching sets and runs; starts with R"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "DEAL",
+        "To distribute cards to players"
+      ],
+      [
+        "DRAW",
+        "Pick up a card from the deck"
+      ],
+      [
+        "DISCARD",
+        "To put a card aside from one's hand"
+      ],
+      [
+        "SET",
+        "Group of cards with the same value"
+      ],
+      [
+        "RUN",
+        "Sequence of cards in the same suit"
+      ],
+      [
+        "SUIT",
+        "One of the four card groups, such as hearts"
+      ],
+      [
+        "RANK",
+        "A card's value, such as king or ten"
+      ],
+      [
+        "ACE",
+        "Card commonly marked with the letter A"
+      ],
+      [
+        "KING",
+        "Face card with a crowned man"
+      ],
+      [
+        "QUEEN",
+        "Face card with a crowned woman"
+      ],
+      [
+        "TURN",
+        "One player's chance to draw and discard"
+      ]
+    ],
+    "requiredAnswers": [
+      "RUMMY",
+      "CARD",
+      "HAND"
+    ],
+    "answerNotes": {
+      "RUMMY": "Rummy uses matching sets and runs of cards.",
+      "CARD": "A card has a rank and suit in the deck.",
+      "HAND": "A hand is the group of cards held by one player."
+    }
+  },
+  {
+    "id": "table-pastimes-4",
+    "title": "A Game of Connect Four",
+    "subtheme": "A Game of Connect Four",
+    "description": "Drop colored discs into an upright rack and try to line up four.",
+    "cardDescription": "Drop colored discs into an upright rack and try to line up four.",
+    "focus": "Drop colored discs into an upright rack and try to line up four.",
+    "solvingTip": "Start with this clue: \u201cFlat round playing piece.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DISC",
+        "Flat round playing piece"
+      ],
+      [
+        "FOUR",
+        "Number that comes after three"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "YELLOW",
+        "Color of a ripe lemon"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "DROP",
+        "Let something fall"
+      ],
+      [
+        "GAME",
+        "Activity played under rules"
+      ],
+      [
+        "SLOT",
+        "Narrow opening for a playing disc"
+      ],
+      [
+        "TURN",
+        "One player's chance to drop a disc"
+      ],
+      [
+        "LINE",
+        "Straight row of matching discs"
+      ],
+      [
+        "MATCH",
+        "Get four discs of the same color in line"
+      ],
+      [
+        "VERTICAL",
+        "Going straight up and down"
+      ],
+      [
+        "DIAGONAL",
+        "Slanting from corner to corner"
+      ]
+    ],
+    "requiredAnswers": [
+      "DISC",
+      "FOUR",
+      "RACK"
+    ],
+    "answerNotes": {
+      "DISC": "A disc is the flat round piece dropped into the rack.",
+      "FOUR": "Four matching discs in a line are the goal of the game.",
+      "RACK": "The upright rack holds the discs where both players can see them."
+    }
+  },
+  {
+    "id": "table-pastimes-5",
+    "title": "Rolling Doubles in a Board Game",
+    "subtheme": "Rolling Doubles in a Board Game",
+    "description": "Watch for matching numbers on a pair of dice beside the game board.",
+    "cardDescription": "Watch for matching numbers on a pair of dice beside the game board.",
+    "focus": "Watch for matching numbers on a pair of dice beside the game board.",
+    "solvingTip": "Start with this clue: \u201cA matching pair of numbers rolled on dice.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DOUBLES",
+        "A matching pair of numbers rolled on dice"
+      ],
+      [
+        "DICE",
+        "Pair of cubes showing the player's numbers"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ],
+      [
+        "ROLL",
+        "Throw the dice to show their numbers"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "BOARD",
+        "Playing surface with marked spaces"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "TURN",
+        "One player's chance to roll the dice"
+      ],
+      [
+        "GAME",
+        "Activity played under rules"
+      ],
+      [
+        "TWO",
+        "Number of wheels on a bicycle"
+      ],
+      [
+        "SPOT",
+        "One dot on the face of a die"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "HAND",
+        "Body part holding the dice before a roll"
+      ]
+    ],
+    "requiredAnswers": [
+      "DOUBLES",
+      "DICE",
+      "MATCH"
+    ],
+    "answerNotes": {
+      "DOUBLES": "Doubles means the two dice show the same number.",
+      "DICE": "Dice have numbered faces, often marked with dots.",
+      "MATCH": "A match is a pair of equal numbers rather than a contest here."
+    }
+  }
+]

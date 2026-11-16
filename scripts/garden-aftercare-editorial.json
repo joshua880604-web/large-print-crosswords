@@ -1,0 +1,387 @@
+[
+  {
+    "id": "garden-aftercare",
+    "title": "Mud on a Pair of Garden Boots",
+    "subtheme": "Mud on a Pair of Garden Boots",
+    "description": "Brush dried soil from the boots before putting them on the rack.",
+    "cardDescription": "Brush dried soil from the boots before putting them on the rack.",
+    "focus": "Brush dried soil from the boots before putting them on the rack.",
+    "solvingTip": "Start with this clue: \u201cFootwear rising above the ankle.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BOOT",
+        "Footwear rising above the ankle"
+      ],
+      [
+        "MUD",
+        "Wet soft earth"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles for cleaning or grooming"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "HEEL",
+        "Back part of a foot or shoe"
+      ],
+      [
+        "TOE",
+        "Front part of a foot or shoe"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "DIRT",
+        "Loose earth or soil"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "SHED",
+        "Small building for storing garden tools"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOOT",
+      "MUD",
+      "BRUSH"
+    ],
+    "answerNotes": {
+      "BOOT": "The boot protects the foot and extends above the ankle.",
+      "MUD": "Mud is wet soil that can cling to a boot's sole.",
+      "BRUSH": "A stiff brush loosens dried dirt before the boots go away."
+    }
+  },
+  {
+    "id": "garden-aftercare-2",
+    "title": "Rinsing Empty Plant Pots",
+    "subtheme": "Rinsing Empty Plant Pots",
+    "description": "Wash soil from used flowerpots and stack them after they dry.",
+    "cardDescription": "Wash soil from used flowerpots and stack them after they dry.",
+    "focus": "Wash soil from used flowerpots and stack them after they dry.",
+    "solvingTip": "Start with this clue: \u201cWash with clean water.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RINSE",
+        "Wash with clean water"
+      ],
+      [
+        "POT",
+        "Container used for growing a plant"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "SINK",
+        "Basin for washing dishes"
+      ],
+      [
+        "DRY",
+        "Free of water before the pots are stacked"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "BASE",
+        "Lowest supporting part"
+      ],
+      [
+        "CLEAN",
+        "Wash away the old soil"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ],
+      [
+        "SOAP",
+        "Cleansing material used with water"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "RINSE",
+      "POT",
+      "STACK"
+    ],
+    "answerNotes": {
+      "RINSE": "Rinsing carries loose soil away with clean water.",
+      "POT": "The pot is empty here, ready to be cleaned before another use.",
+      "STACK": "A stack places one dry container above another to save space."
+    }
+  },
+  {
+    "id": "garden-aftercare-3",
+    "title": "Checking a Garden Hose for a Leak",
+    "subtheme": "Checking a Garden Hose for a Leak",
+    "description": "Follow a drip to a loose hose connection beside the outdoor faucet.",
+    "cardDescription": "Follow a drip to a loose hose connection beside the outdoor faucet.",
+    "focus": "Follow a drip to a loose hose connection beside the outdoor faucet.",
+    "solvingTip": "Start with this clue: \u201cOpening that lets water escape.\u201d Its answer begins with L. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "LEAK",
+        "Opening that lets water escape"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "FAUCET",
+        "Fixture that turns tap water on and off"
+      ],
+      [
+        "HOSE",
+        "Flexible tube carrying water"
+      ],
+      [
+        "WATER",
+        "Liquid escaping from the loose connection"
+      ],
+      [
+        "TIGHT",
+        "Firmly fastened, rather than loose"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "JOIN",
+        "Connect things together"
+      ],
+      [
+        "WASHER",
+        "Small sealing ring inside a hose connection"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "TAP",
+        "Another name for a water faucet"
+      ],
+      [
+        "CHECK",
+        "Look over to make sure something is right"
+      ]
+    ],
+    "requiredAnswers": [
+      "LEAK",
+      "DRIP",
+      "FAUCET"
+    ],
+    "answerNotes": {
+      "LEAK": "A leak lets water escape somewhere other than the intended opening.",
+      "DRIP": "A drip is a small falling drop that helps reveal the leak.",
+      "FAUCET": "The faucet controls the water before it enters the hose."
+    }
+  },
+  {
+    "id": "garden-aftercare-4",
+    "title": "A Notebook of This Year's Harvest",
+    "subtheme": "A Notebook of This Year's Harvest",
+    "description": "Write down the crops that grew well and the dates they were picked.",
+    "cardDescription": "Write down the crops that grew well and the dates they were picked.",
+    "focus": "Write down the crops that grew well and the dates they were picked.",
+    "solvingTip": "Start with this clue: \u201cGathering of ripe crops.\u201d Its answer begins with H. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "HARVEST",
+        "Gathering of ripe crops"
+      ],
+      [
+        "RECORD",
+        "Written account of what happened"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "CROP",
+        "Plants grown for food, considered collectively"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "PEN",
+        "Ink-filled writing tool"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "BEAN",
+        "Kidney or pinto, for example"
+      ],
+      [
+        "CORN",
+        "Vegetable with kernels growing on a cob"
+      ],
+      [
+        "YIELD",
+        "Amount of produce gathered from a garden"
+      ],
+      [
+        "YEAR",
+        "Calendar period divided into twelve months"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "GARDEN",
+        "Area where flowers or vegetables are grown"
+      ],
+      [
+        "PLAN",
+        "Decide ahead what to do"
+      ]
+    ],
+    "requiredAnswers": [
+      "HARVEST",
+      "RECORD",
+      "DATE"
+    ],
+    "answerNotes": {
+      "HARVEST": "The harvest is the crop gathered from the garden.",
+      "RECORD": "A record preserves details that might otherwise be forgotten.",
+      "DATE": "The date connects a garden event with a day on the calendar."
+    }
+  },
+  {
+    "id": "garden-aftercare-5",
+    "title": "An Empty Garden Bed in Late Fall",
+    "subtheme": "An Empty Garden Bed in Late Fall",
+    "description": "Remove old stems and spread a protective layer over bare garden soil.",
+    "cardDescription": "Remove old stems and spread a protective layer over bare garden soil.",
+    "focus": "Remove old stems and spread a protective layer over bare garden soil.",
+    "solvingTip": "Start with this clue: \u201cWithout a covering.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BARE",
+        "Without a covering"
+      ],
+      [
+        "MULCH",
+        "Covering layer spread on the soil around plants"
+      ],
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "BED",
+        "Garden plot left after the crop is finished"
+      ],
+      [
+        "FALL",
+        "Season after summer"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "RAKE",
+        "Long-handled tool with teeth for gathering leaves"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "ROOT",
+        "Plant part taking up water below ground"
+      ],
+      [
+        "REST",
+        "Relax without working"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ]
+    ],
+    "requiredAnswers": [
+      "BARE",
+      "MULCH",
+      "STEM"
+    ],
+    "answerNotes": {
+      "BARE": "Bare ground has no covering on top of its soil.",
+      "MULCH": "Mulch is a layer spread over the soil's surface.",
+      "STEM": "An old stem may remain after the crop or flowers are finished."
+    }
+  }
+]

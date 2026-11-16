@@ -1,0 +1,387 @@
+[
+  {
+    "id": "garden-protection",
+    "title": "Netting over a Blueberry Bush",
+    "subtheme": "Netting over a Blueberry Bush",
+    "description": "Look at the lightweight cover keeping birds away from a ripening berry crop.",
+    "cardDescription": "Look at the lightweight cover keeping birds away from a ripening berry crop.",
+    "focus": "Look at the lightweight cover keeping birds away from a ripening berry crop.",
+    "solvingTip": "Start with this clue: \u201cCovering made of strands with small openings.\u201d Its answer begins with N. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "NET",
+        "Covering made of strands with small openings"
+      ],
+      [
+        "BERRY",
+        "Small juicy fruit such as a blueberry"
+      ],
+      [
+        "BUSH",
+        "Low woody plant"
+      ],
+      [
+        "BLUE",
+        "Color named in blueberry"
+      ],
+      [
+        "RIPE",
+        "Ready to eat, as fruit"
+      ],
+      [
+        "BIRD",
+        "Animal with feathers and a beak"
+      ],
+      [
+        "MESH",
+        "Material made of joined strands with small openings"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "STAKE",
+        "Upright support for a garden plant"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "GARDEN",
+        "Area where flowers or vegetables are grown"
+      ]
+    ],
+    "requiredAnswers": [
+      "NET",
+      "BERRY",
+      "BUSH"
+    ],
+    "answerNotes": {
+      "NET": "The net has small openings that let light and air through.",
+      "BERRY": "The berry is the small fruit being protected as it ripens.",
+      "BUSH": "A bush is a woody plant usually smaller than a tree."
+    }
+  },
+  {
+    "id": "garden-protection-2",
+    "title": "A Tomato Stem on a Soft Tie",
+    "subtheme": "A Tomato Stem on a Soft Tie",
+    "description": "Support a heavy tomato stem with a stake and a soft strip of cloth.",
+    "cardDescription": "Support a heavy tomato stem with a stake and a soft strip of cloth.",
+    "focus": "Support a heavy tomato stem with a stake and a soft strip of cloth.",
+    "solvingTip": "Start with this clue: \u201cMain stalk of a plant.\u201d Its answer begins with S. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "TIE",
+        "Soft strip that fastens the stem to its support"
+      ],
+      [
+        "STAKE",
+        "Pole supporting a tomato plant"
+      ],
+      [
+        "TOMATO",
+        "Red vine-grown salad fruit"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "TALL",
+        "High from bottom to top"
+      ],
+      [
+        "SUPPORT",
+        "Hold a heavy plant stem upright"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "KNOT",
+        "Fastening made by tying string"
+      ],
+      [
+        "PLANT",
+        "Living greenery grown in soil"
+      ],
+      [
+        "GROW",
+        "Become bigger"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ]
+    ],
+    "requiredAnswers": [
+      "STEM",
+      "TIE",
+      "STAKE"
+    ],
+    "answerNotes": {
+      "STEM": "The stem carries the leaves and fruit above the ground.",
+      "TIE": "The tie connects the plant to its support without a hard wire.",
+      "STAKE": "A stake stands beside the plant to support its growing stem."
+    }
+  },
+  {
+    "id": "garden-protection-3",
+    "title": "Straw Beneath Growing Melons",
+    "subtheme": "Straw Beneath Growing Melons",
+    "description": "Keep a melon off bare soil with a dry layer of straw beneath the fruit.",
+    "cardDescription": "Keep a melon off bare soil with a dry layer of straw beneath the fruit.",
+    "focus": "Keep a melon off bare soil with a dry layer of straw beneath the fruit.",
+    "solvingTip": "Start with this clue: \u201cLarge fruit with a rind, such as a cantaloupe.\u201d Its answer begins with M. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "MELON",
+        "Large fruit with a rind, such as a cantaloupe"
+      ],
+      [
+        "STRAW",
+        "Dry stems used for animal bedding"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "VINE",
+        "Climbing or trailing plant"
+      ],
+      [
+        "FRUIT",
+        "Edible part of the vine with seeds inside"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "RIND",
+        "Outer skin of a melon or citrus fruit"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "GROW",
+        "Become bigger"
+      ],
+      [
+        "PATCH",
+        "Small area of ground"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ]
+    ],
+    "requiredAnswers": [
+      "MELON",
+      "STRAW",
+      "SOIL"
+    ],
+    "answerNotes": {
+      "MELON": "The melon grows along a vine near the ground.",
+      "STRAW": "Straw provides a dry layer under the growing fruit in this scene.",
+      "SOIL": "Soil is the earth beneath the straw and the plant's roots."
+    }
+  },
+  {
+    "id": "garden-protection-4",
+    "title": "A Cover for a Chilly Garden Night",
+    "subtheme": "A Cover for a Chilly Garden Night",
+    "description": "Set a light cover over a tender planting before a cool night.",
+    "cardDescription": "Set a light cover over a tender planting before a cool night.",
+    "focus": "Set a light cover over a tender planting before a cool night.",
+    "solvingTip": "Start with this clue: \u201cCloth placed above tender seedlings.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "COVER",
+        "Cloth placed above tender seedlings"
+      ],
+      [
+        "FROST",
+        "Ice crystals forming on a cold surface"
+      ],
+      [
+        "NIGHT",
+        "Dark time between sunset and dawn"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "BRICK",
+        "Rectangular building block"
+      ],
+      [
+        "BED",
+        "Growing area protected by the cloth"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "MORNING",
+        "Time before noon"
+      ],
+      [
+        "LIFT",
+        "Raise the cover from the plants"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "PLANT",
+        "Living thing protected by the garden cover"
+      ],
+      [
+        "TUCK",
+        "Push an edge neatly into place"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ]
+    ],
+    "requiredAnswers": [
+      "COVER",
+      "FROST",
+      "NIGHT"
+    ],
+    "answerNotes": {
+      "COVER": "The cover lies above the plants rather than becoming part of them.",
+      "FROST": "Frost is a coating of ice crystals on a cold surface.",
+      "NIGHT": "The cool night is followed by a morning check of the covered bed."
+    }
+  },
+  {
+    "id": "garden-protection-5",
+    "title": "A Fence around the Vegetable Bed",
+    "subtheme": "A Fence around the Vegetable Bed",
+    "description": "Follow the low fence that separates the vegetables from a curious rabbit.",
+    "cardDescription": "Follow the low fence that separates the vegetables from a curious rabbit.",
+    "focus": "Follow the low fence that separates the vegetables from a curious rabbit.",
+    "solvingTip": "Start with this clue: \u201cBarrier built around a yard.\u201d Its answer begins with F. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "FENCE",
+        "Barrier built around a yard"
+      ],
+      [
+        "RABBIT",
+        "Long-eared hopping mammal"
+      ],
+      [
+        "WIRE",
+        "Thin strand of metal"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "GATE",
+        "Movable entrance in a fence"
+      ],
+      [
+        "MESH",
+        "Wire netting with many small openings"
+      ],
+      [
+        "BED",
+        "Planted section inside the fence"
+      ],
+      [
+        "CARROT",
+        "Orange root vegetable"
+      ],
+      [
+        "LETTUCE",
+        "Leafy vegetable often placed in a sandwich"
+      ],
+      [
+        "ROW",
+        "Straight line of vegetables"
+      ],
+      [
+        "DIG",
+        "Make a hole in the soil"
+      ],
+      [
+        "EDGE",
+        "Boundary along the vegetable patch"
+      ],
+      [
+        "GARDEN",
+        "Growing area enclosed by the fence"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ]
+    ],
+    "requiredAnswers": [
+      "FENCE",
+      "RABBIT",
+      "WIRE"
+    ],
+    "answerNotes": {
+      "FENCE": "The fence marks a boundary around the growing area.",
+      "RABBIT": "A rabbit is a familiar long-eared visitor that may nibble vegetables.",
+      "WIRE": "Wire forms the strands of the garden barrier in this scene."
+    }
+  }
+]

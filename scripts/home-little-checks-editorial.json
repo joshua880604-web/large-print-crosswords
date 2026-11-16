@@ -1,0 +1,387 @@
+[
+  {
+    "id": "home-little-checks",
+    "title": "Testing a Flashlight before a Storm",
+    "subtheme": "Testing a Flashlight before a Storm",
+    "description": "Check the light and keep spare batteries where they are easy to find.",
+    "cardDescription": "Check the light and keep spare batteries where they are easy to find.",
+    "focus": "Check the light and keep spare batteries where they are easy to find.",
+    "solvingTip": "Start with this clue: \u201cHandheld electric light with a directed beam.\u201d Its answer begins with F. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "FLASHLIGHT",
+        "Handheld electric light with a directed beam"
+      ],
+      [
+        "BATTERY",
+        "Small power source inside a remote control"
+      ],
+      [
+        "BEAM",
+        "Narrow ray of light"
+      ],
+      [
+        "SWITCH",
+        "Control that turns an electrical device on or off"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "SPARE",
+        "Extra item kept for later use"
+      ],
+      [
+        "DRAWER",
+        "Pull-out compartment in a piece of furniture"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "STORM",
+        "Weather with strong wind and rain"
+      ],
+      [
+        "CHECK",
+        "Look over to make sure something is right"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "LENS",
+        "Clear cover in front of the flashlight bulb"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "FLASHLIGHT",
+      "BATTERY",
+      "BEAM"
+    ],
+    "answerNotes": {
+      "FLASHLIGHT": "A flashlight gives a directed beam from a handheld light.",
+      "BATTERY": "Batteries supply the power when the switch is on.",
+      "BEAM": "The beam is the narrow area of light ahead of the flashlight."
+    }
+  },
+  {
+    "id": "home-little-checks-2",
+    "title": "Changing the Batteries in a Remote",
+    "subtheme": "Changing the Batteries in a Remote",
+    "description": "Open the back cover and fit a fresh pair of batteries inside.",
+    "cardDescription": "Open the back cover and fit a fresh pair of batteries inside.",
+    "focus": "Open the back cover and fit a fresh pair of batteries inside.",
+    "solvingTip": "Start with this clue: \u201cHandheld control used to change a television channel.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "REMOTE",
+        "Handheld control used to change a television channel"
+      ],
+      [
+        "BATTERY",
+        "Replaceable cell inside the handheld control"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "BUTTON",
+        "Small control pressed on a remote"
+      ],
+      [
+        "BACK",
+        "Side opposite the front"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "FRESH",
+        "Recently made or picked"
+      ],
+      [
+        "VOLUME",
+        "Loudness setting on a remote"
+      ],
+      [
+        "CELL",
+        "One small battery"
+      ],
+      [
+        "PLUS",
+        "Word for the positive mark on a battery"
+      ],
+      [
+        "MINUS",
+        "Word for the negative mark on a battery"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "POWER",
+        "Energy that makes an electrical device work"
+      ]
+    ],
+    "requiredAnswers": [
+      "REMOTE",
+      "BATTERY",
+      "COVER"
+    ],
+    "answerNotes": {
+      "REMOTE": "The remote sends commands without a cord to the television.",
+      "BATTERY": "Each battery must fit the marked direction inside the case.",
+      "COVER": "The cover closes the battery compartment after the change."
+    }
+  },
+  {
+    "id": "home-little-checks-3",
+    "title": "A Grocery Receipt on the Counter",
+    "subtheme": "A Grocery Receipt on the Counter",
+    "description": "Compare the printed receipt with the groceries and the change.",
+    "cardDescription": "Compare the printed receipt with the groceries and the change.",
+    "focus": "Compare the printed receipt with the groceries and the change.",
+    "solvingTip": "Start with this clue: \u201cPrinted proof of purchase.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "TOTAL",
+        "The final sum owed for a purchase"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "ITEM",
+        "One thing on a shopping list"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "CHECK",
+        "Compare the receipt with the purchases"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "CASH",
+        "Money paid as bills or coins"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "AMOUNT",
+        "Sum of money to be paid"
+      ]
+    ],
+    "requiredAnswers": [
+      "RECEIPT",
+      "TOTAL",
+      "CHANGE"
+    ],
+    "answerNotes": {
+      "RECEIPT": "A receipt records what the store charged for the purchase.",
+      "TOTAL": "The total is the sum of the listed charges.",
+      "CHANGE": "Change is money returned when the payment is larger than the bill."
+    }
+  },
+  {
+    "id": "home-little-checks-4",
+    "title": "Sorting Recycling on Collection Day",
+    "subtheme": "Sorting Recycling on Collection Day",
+    "description": "Separate clean paper, cans, and bottles into the local collection bins.",
+    "cardDescription": "Separate clean paper, cans, and bottles into the local collection bins.",
+    "focus": "Separate clean paper, cans, and bottles into the local collection bins.",
+    "solvingTip": "Start with this clue: \u201cProcess used materials so they can be used again.\u201d Its answer begins with R. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "RECYCLE",
+        "Process used materials so they can be used again"
+      ],
+      [
+        "BIN",
+        "Open compartment holding loose goods"
+      ],
+      [
+        "BOTTLE",
+        "Narrow-necked liquid container"
+      ],
+      [
+        "PAPER",
+        "Material in newspapers and flattened sheets"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "CARTON",
+        "Paperboard box used for packaging"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ],
+      [
+        "CURB",
+        "Raised edge between a sidewalk and a street"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "TRUCK",
+        "Road vehicle that carries large loads"
+      ],
+      [
+        "DAY",
+        "Twenty-four-hour period"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ]
+    ],
+    "requiredAnswers": [
+      "RECYCLE",
+      "BIN",
+      "BOTTLE"
+    ],
+    "answerNotes": {
+      "RECYCLE": "Recycling processes suitable used materials for another use.",
+      "BIN": "The bin holds one group of materials for collection.",
+      "BOTTLE": "A bottle is a narrow-necked container, often made of glass or plastic."
+    }
+  },
+  {
+    "id": "home-little-checks-5",
+    "title": "Measuring a Window for Curtains",
+    "subtheme": "Measuring a Window for Curtains",
+    "description": "Write down the window's width and height before choosing curtains.",
+    "cardDescription": "Write down the window's width and height before choosing curtains.",
+    "focus": "Write down the window's width and height before choosing curtains.",
+    "solvingTip": "Start with this clue: \u201cDistance across an object from side to side.\u201d Its answer begins with W. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ],
+      [
+        "HEIGHT",
+        "Distance from bottom to top"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "INCH",
+        "U.S. length unit equal to one-twelfth of a foot"
+      ],
+      [
+        "MEASURE",
+        "Find an object's size or length"
+      ],
+      [
+        "CURTAIN",
+        "Fabric panel hung at a window"
+      ],
+      [
+        "ROD",
+        "Bar from which the fabric panels hang"
+      ],
+      [
+        "FRAME",
+        "Support surrounding a window opening"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "LENGTH",
+        "Distance from one end of an object to the other"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ]
+    ],
+    "requiredAnswers": [
+      "WIDTH",
+      "HEIGHT",
+      "WINDOW"
+    ],
+    "answerNotes": {
+      "WIDTH": "Width is the measurement across the window.",
+      "HEIGHT": "Height runs from the window's bottom to its top.",
+      "WINDOW": "The window opening is measured before choosing its covering."
+    }
+  }
+]

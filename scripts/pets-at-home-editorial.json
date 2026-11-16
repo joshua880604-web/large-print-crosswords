@@ -1,0 +1,415 @@
+[
+  {
+    "id": "pets-at-home",
+    "title": "A Dog's Supper Bowl",
+    "subtheme": "A Dog's Supper Bowl",
+    "description": "Measure out a pet's dinner and set fresh water beside the food bowl.",
+    "cardDescription": "Measure out a pet's dinner and set fresh water beside the food bowl.",
+    "focus": "Measure out a pet's dinner and set fresh water beside the food bowl.",
+    "solvingTip": "Start with this clue: \u201cFamiliar pet that barks.\u201d Its answer begins with D. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "DOG",
+        "Familiar pet that barks"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "FOOD",
+        "Something people or animals eat"
+      ],
+      [
+        "SCOOP",
+        "Small tool for lifting dry pet food"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "FEED",
+        "Give food to a pet"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ],
+      [
+        "MAT",
+        "Small floor covering beneath the pet's bowls"
+      ],
+      [
+        "TAIL",
+        "Rear extension of an animal's body"
+      ],
+      [
+        "PAW",
+        "Soft animal foot with claws"
+      ],
+      [
+        "PET",
+        "Animal kept for companionship"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "MEAL",
+        "Food eaten together at a customary time"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "EAT",
+        "Take food into the body"
+      ],
+      [
+        "SERVE",
+        "Put a pet's meal in its dish"
+      ],
+      [
+        "HUNGRY",
+        "Ready for a meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "DOG",
+      "BOWL",
+      "FOOD"
+    ],
+    "answerNotes": {
+      "DOG": "The dog is the household pet being fed in this scene.",
+      "BOWL": "The bowl contains the meal rather than serving as a measuring tool.",
+      "FOOD": "The food is the meal being portioned for the pet."
+    }
+  },
+  {
+    "id": "pets-at-home-2",
+    "title": "A Cat Watching through a Window",
+    "subtheme": "A Cat Watching through a Window",
+    "description": "Follow a cat's gaze toward a moving leaf outside the window.",
+    "cardDescription": "Follow a cat's gaze toward a moving leaf outside the window.",
+    "focus": "Follow a cat's gaze toward a moving leaf outside the window.",
+    "solvingTip": "Start with this clue: \u201cDomestic feline commonly kept as a household pet.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CAT",
+        "Domestic feline commonly kept as a household pet"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "WHISKER",
+        "Long stiff hair on an animal's face"
+      ],
+      [
+        "TAIL",
+        "Long rear part a cat may flick"
+      ],
+      [
+        "PAW",
+        "Soft animal foot with claws"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "SILL",
+        "Ledge along the bottom of a window"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "WATCH",
+        "Small timepiece worn on the wrist"
+      ],
+      [
+        "EYE",
+        "Organ used for seeing"
+      ],
+      [
+        "EAR",
+        "Body part used to hear"
+      ],
+      [
+        "PURR",
+        "Low vibrating sound a cat may make"
+      ],
+      [
+        "PET",
+        "Animal kept for companionship"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ]
+    ],
+    "requiredAnswers": [
+      "CAT",
+      "WINDOW",
+      "WHISKER"
+    ],
+    "answerNotes": {
+      "CAT": "The cat watches the movement outside while staying indoors.",
+      "WINDOW": "The window lets the animal see the garden through glass.",
+      "WHISKER": "A whisker is one of the long sensitive hairs on a cat's face."
+    }
+  },
+  {
+    "id": "pets-at-home-3",
+    "title": "A Pet Carrier Ready for a Visit",
+    "subtheme": "A Pet Carrier Ready for a Visit",
+    "description": "Put a soft towel inside a carrier before a pet's appointment.",
+    "cardDescription": "Put a soft towel inside a carrier before a pet's appointment.",
+    "focus": "Put a soft towel inside a carrier before a pet's appointment.",
+    "solvingTip": "Start with this clue: \u201cPortable container for taking a pet to the vet.\u201d Its answer begins with C. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "CARRIER",
+        "Portable container for taking a pet to the vet"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "VET",
+        "Short name for a doctor who cares for animals"
+      ],
+      [
+        "PET",
+        "Animal being taken to the appointment"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "LATCH",
+        "Small fastening holding a gate shut"
+      ],
+      [
+        "CAT",
+        "Purring household pet that may ride in the carrier"
+      ],
+      [
+        "DOG",
+        "Familiar pet that barks"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ]
+    ],
+    "requiredAnswers": [
+      "CARRIER",
+      "TOWEL",
+      "VET"
+    ],
+    "answerNotes": {
+      "CARRIER": "The carrier holds the pet for the journey to an appointment.",
+      "TOWEL": "The towel makes a soft layer on the carrier's floor.",
+      "VET": "Vet is the common short name for a veterinarian."
+    }
+  },
+  {
+    "id": "pets-at-home-4",
+    "title": "Brushing a Dog's Coat",
+    "subtheme": "Brushing a Dog's Coat",
+    "description": "Use a brush to gather loose fur while a familiar pet stands nearby.",
+    "cardDescription": "Use a brush to gather loose fur while a familiar pet stands nearby.",
+    "focus": "Use a brush to gather loose fur while a familiar pet stands nearby.",
+    "solvingTip": "Start with this clue: \u201cTool with bristles for cleaning or grooming.\u201d Its answer begins with B. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "BRUSH",
+        "Tool with bristles for cleaning or grooming"
+      ],
+      [
+        "FUR",
+        "Soft animal hair"
+      ],
+      [
+        "COAT",
+        "All the fur covering a dog's body"
+      ],
+      [
+        "DOG",
+        "Familiar pet that barks"
+      ],
+      [
+        "COMB",
+        "Toothed grooming tool drawn through hair"
+      ],
+      [
+        "TAIL",
+        "Rear extension of an animal's body"
+      ],
+      [
+        "PAW",
+        "Soft animal foot with claws"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "PET",
+        "Household animal being groomed"
+      ],
+      [
+        "SHED",
+        "Lose some fur naturally"
+      ],
+      [
+        "HAIR",
+        "Strands growing on the head"
+      ],
+      [
+        "MAT",
+        "Small flat covering used on a floor"
+      ],
+      [
+        "GENTLE",
+        "Mild and easy rather than rough"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "STROKE",
+        "One gentle pass of a brush"
+      ],
+      [
+        "GROOM",
+        "Brush and tidy a pet's coat"
+      ],
+      [
+        "REMOVE",
+        "Take something away"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ]
+    ],
+    "requiredAnswers": [
+      "BRUSH",
+      "FUR",
+      "COAT"
+    ],
+    "answerNotes": {
+      "BRUSH": "The brush gathers loose hair from the pet's coat.",
+      "FUR": "Fur is the hair covering many familiar animals.",
+      "COAT": "Here coat means the animal's fur, rather than a garment."
+    }
+  },
+  {
+    "id": "pets-at-home-5",
+    "title": "A Goldfish at Feeding Time",
+    "subtheme": "A Goldfish at Feeding Time",
+    "description": "Watch a bright fish swim up toward a small pinch of food.",
+    "cardDescription": "Watch a bright fish swim up toward a small pinch of food.",
+    "focus": "Watch a bright fish swim up toward a small pinch of food.",
+    "solvingTip": "Start with this clue: \u201cCommon pet fish often pictured as orange or golden.\u201d Its answer begins with G. Then use the crossing letters for the other scene words.",
+    "words": [
+      [
+        "GOLDFISH",
+        "Common pet fish often pictured as orange or golden"
+      ],
+      [
+        "FLAKE",
+        "One small thin piece of fish food"
+      ],
+      [
+        "FIN",
+        "Thin projecting body part used by a fish for movement or balance"
+      ],
+      [
+        "TANK",
+        "Glass container used as a fish's home"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "TAIL",
+        "Rear part a fish moves while swimming"
+      ],
+      [
+        "GILL",
+        "Breathing organ through which a fish takes oxygen from water"
+      ],
+      [
+        "SWIM",
+        "Move through water"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "BOWL",
+        "Round glass container used for a fish"
+      ],
+      [
+        "ORANGE",
+        "Round citrus fruit"
+      ],
+      [
+        "FOOD",
+        "Flakes offered at feeding time"
+      ],
+      [
+        "PINCH",
+        "Press between thumb and finger"
+      ],
+      [
+        "SURFACE",
+        "Top layer of the water"
+      ]
+    ],
+    "requiredAnswers": [
+      "GOLDFISH",
+      "FLAKE",
+      "FIN"
+    ],
+    "answerNotes": {
+      "GOLDFISH": "A goldfish is a familiar freshwater pet with fins and gills.",
+      "FLAKE": "A flake is one small thin piece of the prepared fish food.",
+      "FIN": "A fin helps the fish move or balance in the water."
+    }
+  }
+]

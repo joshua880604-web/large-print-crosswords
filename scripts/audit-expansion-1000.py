@@ -10,18 +10,18 @@ canonical_hash=lambda x:hashlib.sha256(json.dumps(x,sort_keys=True,separators=('
 baseline=read('docs/research/expansion-1000/preservation-baseline.json')
 puzzles=read('src/data/puzzles.json')
 manifest=read('src/data/editorial-series.json')
-assert len(puzzles)==1000 and len(manifest)==200
+assert len(puzzles)>=1000 and len(manifest)>=200
 for p in puzzles[:500]:
     assert canonical_hash(p)==baseline['puzzles'][p['id']],f'Published object changed: {p["id"]}'
 assert {p['id'] for p in puzzles[:500]}==set(baseline['puzzles'])
 assert canonical_hash(manifest[:100])==baseline['editorialSeries'],'Published series changed'
 for name, expected in baseline['retainedFiles'].items():
     assert hashlib.sha256((ROOT/name).read_bytes()).hexdigest()==expected,f'Published source/archive changed: {name}'
-sources={s['id']:s for c in manifest[100:] for s in read('scripts/'+c['source'])}
+sources={s['id']:s for c in manifest[100:200] for s in read('scripts/'+c['source'])}
 assert len(sources)==500
 sets=[set(e['answer'] for e in p['entries']) for p in puzzles]
 nearest=[]
-for i,p in enumerate(puzzles[500:],500):
+for i,p in enumerate(puzzles[500:1000],500):
     source=sources[p['id']]
     assert p['revision']==1
     assert set(source['requiredAnswers'])<=sets[i]
@@ -38,7 +38,7 @@ for i,p in enumerate(puzzles[500:],500):
         matches.append((score,j,len(shared)))
     score,j,shared=max(matches)
     nearest.append({'puzzle':p['id'],'nearest':puzzles[j]['id'],'answerJaccard':round(score,4),'shared':shared})
-allocation=collections.Counter(p['theme'] for p in puzzles[500:])
+allocation=collections.Counter(p['theme'] for p in puzzles[500:1000])
 expected={'Gardening':35,'Flowers':15,'Nature':40,'Food':65,'Baking':15,'Everyday Life':100,'Crafts':35,'Hobbies':15,'Nostalgia':20,'Music':5,'Movies':5,'Bible':50,'Spring':20,'Summer':15,'Autumn':15,'Winter':15,'Christmas':15,'Easter':10,'Thanksgiving':5,'Halloween':5}
 assert dict(allocation)==expected
 report={'originalObjectsPreserved':500,'originalSeriesPreserved':100,'retainedFileHashesChecked':len(baseline['retainedFiles']),'newFirstEditions':500,'allocation':dict(allocation),'nearestAnswerSets':nearest,'limit':'Model-assisted authoring and similarity checks do not establish target-reader difficulty, independent editing, or search performance.'}
