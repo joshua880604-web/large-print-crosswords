@@ -3,6 +3,7 @@ import collections
 import hashlib
 import json
 from pathlib import Path
+from clue_corrections import CORRECTIONS,puzzle_before_corrections,source_before_corrections
 
 ROOT=Path(__file__).resolve().parents[1]
 read=lambda path:json.loads((ROOT/path).read_text())
@@ -15,7 +16,7 @@ assert len(baseline['puzzles'])==baseline['count']==1000
 assert manifest[:200]==baseline['manifest']
 assert {p['id'] for p in puzzles[:1000]}==set(baseline['puzzles'])
 for p in puzzles[:1000]:
-    assert digest(p)==baseline['puzzles'][p['id']],p['id']
+    assert digest(puzzle_before_corrections(p))==baseline['puzzles'][p['id']],p['id']
 metadata_changes=[]
 for name,expected in baseline['retainedFiles'].items():
     actual=hashlib.sha256((ROOT/name).read_bytes()).hexdigest()
@@ -25,7 +26,7 @@ for name,expected in baseline['retainedFiles'].items():
         if actual!=expected:
             metadata_changes.append(name)
         continue
-    assert actual==expected,'Retained file changed: '+name
+    assert hashlib.sha256(source_before_corrections(name)).hexdigest()==expected,'Retained file changed: '+name
 sources={s['id']:s for c in manifest[200:] for s in read('scripts/'+c['source'])}
 assert len(sources)==200
 assert {p['id'] for p in puzzles[1000:]}==set(sources)
@@ -61,7 +62,9 @@ expected={'Gardening':20,'Flowers':5,'Nature':15,'Food':30,'Everyday Life':40,'C
           'Hobbies':10,'Music':10,'Nostalgia':15,'Spring':5,'Summer':5,'Autumn':5,'Winter':5,
           'Thanksgiving':5,'Christmas':5,'Easter':5,'Bible':10}
 assert dict(allocation)==expected,allocation
-report=dict(baselineCommit=baseline['commit'],preservedCurrentObjects=1000,preservedSeries=200,
+corrected_ids={c['puzzleId'] for c in CORRECTIONS if c['puzzleId'] in baseline['puzzles']}
+report=dict(baselineCommit=baseline['commit'],preservedCurrentObjects=1000-len(corrected_ids),preservedCurrentBoardsAndProgress=1000,
+            documentedClueOnlyCorrections=CORRECTIONS,preservedSeries=200,
             retainedFilesChecked=len(baseline['retainedFiles'])-len(metadata_changes),metadataChanges=metadata_changes,
             newFirstEditions=200,newClues=sum(len(p['entries']) for p in puzzles[1000:]),
             allocation=dict(allocation),maxAnswerJaccard=max(n['answerJaccard'] for n in nearest),nearest=nearest,

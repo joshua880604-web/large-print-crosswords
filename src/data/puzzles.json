@@ -112741,7 +112741,7 @@
       },
       {
         "answer": "ORANGE",
-        "clue": "Round citrus fruit",
+        "clue": "Color between red and yellow",
         "row": 0,
         "col": 4,
         "direction": "down",
@@ -112749,7 +112749,7 @@
       },
       {
         "answer": "FLOWER",
-        "clue": "Colorful plant part that attracts bees",
+        "clue": "Blossom a butterfly may visit for nectar",
         "row": 5,
         "col": 6,
         "direction": "down",
@@ -112765,7 +112765,7 @@
       },
       {
         "answer": "NECTAR",
-        "clue": "Sugary floral liquid sipped by hummingbirds",
+        "clue": "Sweet flower liquid many butterflies sip",
         "row": 3,
         "col": 4,
         "direction": "across",
@@ -112789,7 +112789,7 @@
       },
       {
         "answer": "WING",
-        "clue": "Bird's flight limb",
+        "clue": "Body part a butterfly flaps to fly",
         "row": 7,
         "col": 9,
         "direction": "down",

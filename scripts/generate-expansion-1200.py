@@ -10,6 +10,7 @@ import os
 import random
 from pathlib import Path
 from crossword_grid import generate
+from clue_corrections import puzzle_before_corrections
 
 ROOT = Path(__file__).resolve().parents[1]
 CACHE = Path('/workspace/artifacts/expansion-1200/generated')
@@ -63,7 +64,7 @@ if __name__ == '__main__':
     old = json.loads(puzzles_path.read_text())[:1000]
     assert len(old)==1000
     for p in old:
-        assert hashlib.sha256(json.dumps(p,sort_keys=True,separators=(',',':')).encode()).hexdigest()==BASELINE['puzzles'][p['id']]
+        assert hashlib.sha256(json.dumps(puzzle_before_corrections(p),sort_keys=True,separators=(',',':')).encode()).hexdigest()==BASELINE['puzzles'][p['id']]
     configs = json.loads((ROOT/'src/data/editorial-series.json').read_text())[200:]
     assert len(configs)==40
     results = {}

@@ -1,6 +1,41 @@
 {
   "baselineCommit": "1ea3d2eb581cf2dfca5d91c063eafd8e0c9cc19a",
-  "preservedCurrentObjects": 1000,
+  "preservedCurrentObjects": 999,
+  "preservedCurrentBoardsAndProgress": 1000,
+  "documentedClueOnlyCorrections": [
+    {
+      "puzzleId": "spring-garden-wildlife-5",
+      "answer": "ORANGE",
+      "source": "scripts/spring-garden-wildlife-editorial.json",
+      "before": "Round citrus fruit",
+      "after": "Color between red and yellow",
+      "reason": "Use the butterfly scene rather than another animal or the fruit meaning; preserve the answer, board and revision."
+    },
+    {
+      "puzzleId": "spring-garden-wildlife-5",
+      "answer": "FLOWER",
+      "source": "scripts/spring-garden-wildlife-editorial.json",
+      "before": "Colorful plant part that attracts bees",
+      "after": "Blossom a butterfly may visit for nectar",
+      "reason": "Use the butterfly scene rather than another animal or the fruit meaning; preserve the answer, board and revision."
+    },
+    {
+      "puzzleId": "spring-garden-wildlife-5",
+      "answer": "NECTAR",
+      "source": "scripts/spring-garden-wildlife-editorial.json",
+      "before": "Sugary floral liquid sipped by hummingbirds",
+      "after": "Sweet flower liquid many butterflies sip",
+      "reason": "Use the butterfly scene rather than another animal or the fruit meaning; preserve the answer, board and revision."
+    },
+    {
+      "puzzleId": "spring-garden-wildlife-5",
+      "answer": "WING",
+      "source": "scripts/spring-garden-wildlife-editorial.json",
+      "before": "Bird's flight limb",
+      "after": "Body part a butterfly flaps to fly",
+      "reason": "Use the butterfly scene rather than another animal or the fruit meaning; preserve the answer, board and revision."
+    }
+  ],
   "preservedSeries": 200,
   "retainedFilesChecked": 226,
   "metadataChanges": [

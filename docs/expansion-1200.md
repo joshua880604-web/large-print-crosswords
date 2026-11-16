@@ -51,6 +51,11 @@ the canonical sitemap.
 
 ## Reproducing this release
 
+Subsequent wording-only corrections are recorded in the
+[current clue ledger](research/current-clue-corrections-2026-11-16.json).
+The original release baseline remains unchanged; the audit and generator
+permit only those exact clue substitutions while preserving all board fields.
+
 Use the existing checkout. To rebuild only this release's authoring outputs:
 
 ```sh

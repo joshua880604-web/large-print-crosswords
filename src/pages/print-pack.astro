@@ -10,54 +10,19 @@ const themes=[...new Set(puzzles.map(p=>p.theme))].sort();
 <noscript><p class="notice">Building a pack needs JavaScript. You can still <a href="/printable/">open and print individual puzzles</a>.</p></noscript>
 <form id="pack-form"><div class="pack-options"><label>Find a puzzle<input id="pack-search" type="search" placeholder="Title or theme" /></label><label>Holiday or season<select id="pack-collection"><option value="">All holidays and seasons</option>{printCollections.map(c=><option value={c.id}>{c.name}</option>)}</select></label><label>Theme<select id="pack-theme"><option value="">All themes</option>{themes.map(t=><option>{t}</option>)}</select></label><label>Print size<select id="pack-layout"><option value="large">Large — 18pt, two pages per sheet</option><option value="compact">Compact — 13pt, one page per sheet</option></select></label><label><input id="pack-answers" type="checkbox" checked /> Include separate answer sheets</label></div>
 <p id="pack-count" role="status">0 of 10 puzzles selected.</p><p>Filtering keeps your selections. <button type="button" id="pack-clear">Clear selections</button></p>
+<p id="pack-draft-status" role="status">Your selection can be saved in this browser.</p>
+<section class="pack-selected" aria-labelledby="pack-selected-title"><h2 id="pack-selected-title">Selected puzzles</h2><p id="pack-selected-empty">No puzzles selected yet.</p><ul id="pack-selected"></ul></section>
 <p id="pack-results" role="status">All puzzles are shown.</p>
-<fieldset class="pack-list"><legend>Choose puzzles</legend>{puzzles.map(p=><label class="pack-choice" data-theme={p.theme} data-collections={printCollections.filter(c=>c.puzzles.some(item=>item.id===p.id)).map(c=>c.id).join(' ')} data-search={`${p.title} ${p.theme}`.toLowerCase()}><input type="checkbox" name="puzzle" value={p.id}/><span>{p.title} <small>— {p.theme}</small></span></label>)}</fieldset>
+<fieldset class="pack-list"><legend>Choose puzzles</legend>{puzzles.map(p=><label class="pack-choice" data-theme={p.theme} data-collections={printCollections.filter(c=>c.puzzles.some(item=>item.id===p.id)).map(c=>c.id).join(' ')} data-title={p.title} data-search={`${p.title} ${p.theme} ${p.subtheme||''} ${p.series?.replaceAll('-', ' ')||''}`}><input type="checkbox" name="puzzle" value={p.id}/><span>{p.title} <small>— {p.theme}</small></span></label>)}</fieldset>
 <p><button class="button" id="pack-build" type="submit" disabled>Prepare print pack</button> <button class="button button-outline" id="pack-print" type="button" disabled>Print prepared pack</button></p>
 <p id="pack-status" role="status" tabindex="-1">Choose at least one puzzle to begin.</p><p>Choose US Letter, portrait, 100% scale, and turn off browser headers and footers. Use Print / Save as PDF in your browser; files are not pre-generated downloads.</p></form></div>
 <div id="pack-output" class="container" role="region" aria-label="Prepared print sheets"></div>
 </Layout>
 <style>
 .pack-options{display:flex;flex-wrap:wrap;gap:18px;align-items:end}.pack-options label{display:grid;gap:6px}.pack-options input,.pack-options select{font:inherit;max-width:100%;padding:8px}.pack-list{max-height:28rem;overflow:auto;padding:16px;border:1px solid var(--line)}.pack-choice{display:flex;gap:12px;padding:10px;align-items:start}.pack-choice[hidden]{display:none}.pack-choice input{width:22px;height:22px;flex-shrink:0}.pack-choice small{color:var(--muted)}.pack-options label:has([type=checkbox]){display:flex;align-items:center}.pack-options input[type=checkbox]{width:22px;height:22px}
+.pack-selected{margin:24px 0}.pack-selected h2{font-size:26px}.pack-selected ul{list-style:none;padding:0}.pack-selected :global(li){display:flex;align-items:center;justify-content:space-between;gap:16px;padding:8px 0;border-bottom:1px solid var(--line)}.pack-selected :global(button){font:inherit;min-height:48px;min-width:76px;background:var(--paper);color:var(--green);border:1px solid var(--line);border-radius:4px;padding:8px}
 @media print{.pack-controls{display:none!important}#pack-output{padding:0;max-width:none}#pack-output :global(.print-workspace)+:global(.print-workspace){break-before:page}#pack-output:empty::after{content:'Prepare a print pack before printing.'}}
 </style>
 <script>
-const form=document.querySelector<HTMLFormElement>('#pack-form')!;
-const choices=[...form.querySelectorAll<HTMLInputElement>('input[name=puzzle]')];
-const search=document.querySelector<HTMLInputElement>('#pack-search')!;
-const theme=document.querySelector<HTMLSelectElement>('#pack-theme')!;
-const collection=document.querySelector<HTMLSelectElement>('#pack-collection')!;
-const layout=document.querySelector<HTMLSelectElement>('#pack-layout')!;
-const answers=document.querySelector<HTMLInputElement>('#pack-answers')!;
-const build=document.querySelector<HTMLButtonElement>('#pack-build')!;
-const print=document.querySelector<HTMLButtonElement>('#pack-print')!;
-const status=document.querySelector<HTMLElement>('#pack-status')!;
-const output=document.querySelector<HTMLElement>('#pack-output')!;
-let generation=0;
-const selected=()=>choices.filter(c=>c.checked);
-function invalidate(){generation++;print.disabled=true;output.replaceChildren();build.disabled=selected().length===0;document.querySelector('#pack-count')!.textContent=`${selected().length} of 10 puzzles selected.`;status.textContent='Choose your puzzles, then prepare the pack.';}
-function filter(){const q=search.value.trim().toLowerCase();let count=0;for(const label of form.querySelectorAll<HTMLElement>('.pack-choice')){label.hidden=!!((collection.value&&!label.dataset.collections?.split(' ').includes(collection.value))||(theme.value&&label.dataset.theme!==theme.value)||(q&&!label.dataset.search!.includes(q)));if(!label.hidden)count++;}document.querySelector('#pack-results')!.textContent=count?`${count} ${count===1?'puzzle':'puzzles'} shown.`:'No puzzles match. Try another search, holiday, or theme.';}
-search.addEventListener('input',filter);theme.addEventListener('change',filter);collection.addEventListener('change',filter);
-const params=new URLSearchParams(location.search);
-const initialTheme=params.get('theme');if(initialTheme&&[...theme.options].some(o=>o.value===initialTheme))theme.value=initialTheme;
-const initialCollection=params.get('collection');if(initialCollection&&[...collection.options].some(o=>o.value===initialCollection))collection.value=initialCollection;
-filter();
-form.addEventListener('change',e=>{const target=e.target as HTMLInputElement;if(target.name==='puzzle'&&selected().length>10){target.checked=false;status.textContent='Choose at most ten puzzles per pack.';return;}if(target.name==='puzzle'||target===layout||target===answers)invalidate();});
-document.querySelector('#pack-clear')!.addEventListener('click',()=>{for(const c of choices)c.checked=false;invalidate();});
-form.addEventListener('submit',async e=>{
- e.preventDefault();const ids=selected().map(c=>c.value);if(!ids.length||ids.length>10)return;
- const token=++generation;const size=layout.value;const withAnswers=answers.checked;print.disabled=true;build.disabled=true;output.replaceChildren();status.textContent='Preparing sheets…';
- const fragment=document.createDocumentFragment();
- try{
-  const sheets=[...ids.map(id=>({id,answer:false})),...(withAnswers?ids.map(id=>({id,answer:true})):[])];
-  for(const [i,sheet] of sheets.entries()){
-   const response=await fetch(`/print/${sheet.id}${sheet.answer?'-answers':''}/`);if(!response.ok)throw Error('Sheet request failed');
-   const doc=new DOMParser().parseFromString(await response.text(),'text/html');const article=doc.querySelector('.print-page');if(!article)throw Error('Missing sheet');
-   const workspace=document.createElement('div');workspace.className='print-workspace';workspace.dataset.printLayout=size;workspace.dataset.sheetKind=sheet.answer?'answers':'clues';workspace.append(document.importNode(article,true));fragment.append(workspace);
-   if(token!==generation)return;status.textContent=`Preparing sheet ${i+1} of ${sheets.length}…`;
-  }
-  if(token!==generation)return;output.append(fragment);print.disabled=false;status.textContent=`Ready: ${ids.length} ${ids.length===1?'puzzle':'puzzles'}${withAnswers?' and separate answers':''}, ${sheets.length*(size==='large'?2:1)} US Letter pages. Print the prepared pack below.`;
- }catch{if(token===generation){output.replaceChildren();status.textContent='Could not prepare every sheet. Check your connection and try again; no partial pack was printed.';}}
- finally{if(token===generation)build.disabled=false;}
-});
-print.addEventListener('click',()=>{if(!print.disabled)window.print();});
+import '../scripts/print-pack';
 </script>
