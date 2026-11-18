@@ -1,0 +1,302 @@
+[
+  {
+    "id": "old-shop-tools",
+    "title": "A Hand Bell on the Shop Counter",
+    "description": "A bell on the counter lets a waiting customer announce a visit.",
+    "words": [
+      [
+        "BELL",
+        "Metal object that rings when struck"
+      ],
+      [
+        "RING",
+        "Circular band"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "CUSTOMER",
+        "Person who buys something at a store"
+      ],
+      [
+        "CLERK",
+        "Person who helps customers in a shop"
+      ],
+      [
+        "TAP",
+        "Faucet controlling the flow of water"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "SOUND",
+        "Something you can hear"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ],
+      [
+        "CALL",
+        "Say a name to get attention"
+      ],
+      [
+        "BRASS",
+        "Yellow metal used for many door handles and bells"
+      ]
+    ],
+    "requiredAnswers": [
+      "BELL",
+      "RING",
+      "COUNTER"
+    ]
+  },
+  {
+    "id": "old-shop-tools-2",
+    "title": "A Price Tag Tied to a Teapot",
+    "description": "A string loop holds the price at the handle without leaving tape on the pot.",
+    "words": [
+      [
+        "TAG",
+        "Small label attached to an item"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "TEAPOT",
+        "Vessel with a spout used to brew and serve tea"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ],
+      [
+        "SALE",
+        "Event at which goods are offered for money"
+      ],
+      [
+        "MARK",
+        "Put a sign or line on something"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ]
+    ],
+    "requiredAnswers": [
+      "TAG",
+      "PRICE",
+      "STRING"
+    ]
+  },
+  {
+    "id": "old-shop-tools-3",
+    "title": "A Receipt on a Counter Spike",
+    "description": "Paper slips go onto a tall pin so they stay in one stack during the day.",
+    "words": [
+      [
+        "RECEIPT",
+        "Printed proof of purchase"
+      ],
+      [
+        "SPIKE",
+        "Elongated flower cluster with stalkless blooms attached along its axis"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "PAPER",
+        "Thin sheet made from wood pulp"
+      ],
+      [
+        "SLIP",
+        "Assigned narrow space where a boat is berthed"
+      ],
+      [
+        "PIN",
+        "Small sharp fastener used before sewing"
+      ],
+      [
+        "SALE",
+        "Exchange of goods for payment"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "BASE",
+        "Lowest supporting part"
+      ],
+      [
+        "TOTAL",
+        "The final sum owed for a purchase"
+      ],
+      [
+        "ORDER",
+        "Request for food at a cafe"
+      ]
+    ],
+    "requiredAnswers": [
+      "RECEIPT",
+      "SPIKE",
+      "STACK"
+    ]
+  },
+  {
+    "id": "old-shop-tools-4",
+    "title": "A Pencil Tied beside the Order Book",
+    "description": "A short string keeps the pencil close to the page where each order is written.",
+    "words": [
+      [
+        "PENCIL",
+        "Writing tool with a graphite core"
+      ],
+      [
+        "STRING",
+        "Thin cord attached to some tea pouches"
+      ],
+      [
+        "ORDER",
+        "Request for a sandwich at the counter"
+      ],
+      [
+        "BOOK",
+        "Bound pages inside a cover"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "TIE",
+        "American name for a crosspiece supporting railroad rails"
+      ],
+      [
+        "LEDGER",
+        "Book recording a store's accounts"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "CLERK",
+        "Official or employee maintaining public documents"
+      ],
+      [
+        "DESK",
+        "Table used for schoolwork"
+      ],
+      [
+        "POINT",
+        "Sharp tip of a pencil"
+      ]
+    ],
+    "requiredAnswers": [
+      "PENCIL",
+      "STRING",
+      "ORDER"
+    ]
+  },
+  {
+    "id": "old-shop-tools-5",
+    "title": "A Scale with a Sliding Weight",
+    "description": "The marker moves along the beam until the pan and weights come into balance.",
+    "words": [
+      [
+        "SCALE",
+        "Device used for weighing"
+      ],
+      [
+        "BEAM",
+        "Narrow stretch of light shining from the tower"
+      ],
+      [
+        "WEIGHT",
+        "Heavy object applying pressure from above"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "SLIDE",
+        "Photograph shown through a projector"
+      ],
+      [
+        "LEVEL",
+        "Tool that checks a horizontal line"
+      ],
+      [
+        "BALANCE",
+        "Keep steady without falling"
+      ],
+      [
+        "MARK",
+        "Put a sign or line on something"
+      ],
+      [
+        "POUND",
+        "Weight unit commonly abbreviated lb."
+      ],
+      [
+        "MEASURE",
+        "Find an object's size or length"
+      ],
+      [
+        "METAL",
+        "Material from which ordinary coins are made"
+      ],
+      [
+        "LOAD",
+        "Cargo or weight supported by a wheeled vehicle"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCALE",
+      "BEAM",
+      "WEIGHT"
+    ]
+  }
+]

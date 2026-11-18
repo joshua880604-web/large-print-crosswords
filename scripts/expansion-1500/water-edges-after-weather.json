@@ -1,0 +1,298 @@
+[
+  {
+    "id": "water-edges-after-weather",
+    "title": "An Empty Boat Pulled Above the Waterline",
+    "description": "A small boat sits up on the bank where rising water cannot take it away.",
+    "words": [
+      [
+        "BOAT",
+        "Small vessel traveling on water"
+      ],
+      [
+        "BANK",
+        "Land beside a river"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "LINE",
+        "Long narrow mark"
+      ],
+      [
+        "ROPE",
+        "Strong thick cord"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "HULL",
+        "Main body of a boat"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "LEVEL",
+        "Tool that checks a horizontal line"
+      ],
+      [
+        "RISE",
+        "Move upward"
+      ],
+      [
+        "MUD",
+        "Wet soft earth beneath a pond visitor's boots"
+      ],
+      [
+        "SHORE",
+        "Land beside a lake"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOAT",
+      "BANK",
+      "PULL"
+    ]
+  },
+  {
+    "id": "water-edges-after-weather-2",
+    "title": "A Smooth Stone below a Footbridge",
+    "description": "Moving water rounds the edges of an old stone below the crossing.",
+    "words": [
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "SMOOTH",
+        "Even and without bumps"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "STREAM",
+        "Small natural flowing watercourse"
+      ],
+      [
+        "BRIDGE",
+        "Structure that carries a road over water or another obstacle"
+      ],
+      [
+        "ROCK",
+        "Hard piece of natural stone"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "WORN",
+        "Thinned or damaged by use"
+      ],
+      [
+        "GRAVEL",
+        "Small stones spread on a garden path"
+      ],
+      [
+        "BED",
+        "Furniture used for sleeping"
+      ]
+    ],
+    "requiredAnswers": [
+      "STONE",
+      "SMOOTH",
+      "WATER"
+    ]
+  },
+  {
+    "id": "water-edges-after-weather-3",
+    "title": "A Pool Left by a Falling Stream",
+    "description": "A pocket off the main water can stay full even after the stream drops.",
+    "words": [
+      [
+        "POOL",
+        "Small body of still water"
+      ],
+      [
+        "DROP",
+        "Go down to a lower level"
+      ],
+      [
+        "STREAM",
+        "Small flowing watercourse that may join a river"
+      ],
+      [
+        "WATER",
+        "Liquid needed by plants"
+      ],
+      [
+        "BANK",
+        "Land immediately along the side of a river"
+      ],
+      [
+        "LOW",
+        "Close to the ground"
+      ],
+      [
+        "SHALLOW",
+        "Opposite of deep when describing water"
+      ],
+      [
+        "ROCKS",
+        "Hard stones"
+      ],
+      [
+        "EDGE",
+        "Outer part where a surface ends"
+      ],
+      [
+        "MUD",
+        "Wet soft earth beneath a pond visitor's boots"
+      ],
+      [
+        "STILL",
+        "Not moving"
+      ],
+      [
+        "POCKET",
+        "Small sewn pouch in clothing"
+      ]
+    ],
+    "requiredAnswers": [
+      "POOL",
+      "DROP",
+      "STREAM"
+    ]
+  },
+  {
+    "id": "water-edges-after-weather-4",
+    "title": "Ripples Where a Creek Meets a Pond",
+    "description": "A narrow current makes little ridges as it spreads into still water.",
+    "words": [
+      [
+        "RIPPLES",
+        "Small waves on water"
+      ],
+      [
+        "CREEK",
+        "Small flowing stream"
+      ],
+      [
+        "POND",
+        "Small body of still water"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "CURRENT",
+        "Movement of water along a river channel"
+      ],
+      [
+        "WATER",
+        "Liquid needed by plants"
+      ],
+      [
+        "SURFACE",
+        "Top layer of the water"
+      ],
+      [
+        "EDGE",
+        "Outer part where a surface ends"
+      ],
+      [
+        "WAVE",
+        "Moving ridge of water near the coast"
+      ],
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ]
+    ],
+    "requiredAnswers": [
+      "RIPPLES",
+      "CREEK",
+      "POND"
+    ]
+  },
+  {
+    "id": "water-edges-after-weather-5",
+    "title": "Dry Grass above a High-Water Mark",
+    "description": "Bits of dry plants caught on a bank show where the earlier water reached.",
+    "words": [
+      [
+        "GRASS",
+        "Green plant covering a lawn"
+      ],
+      [
+        "BANK",
+        "Land beside a waterway at the end of a crossing"
+      ],
+      [
+        "MARK",
+        "Put a sign or line on something"
+      ],
+      [
+        "HIGH",
+        "Far above the ground"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "CAUGHT",
+        "Held so it could not get away"
+      ],
+      [
+        "REACH",
+        "Stretch out an arm to get something"
+      ],
+      [
+        "WATER",
+        "Liquid needed by plants"
+      ],
+      [
+        "TWIG",
+        "Small thin branch"
+      ],
+      [
+        "LINE",
+        "Straight mark drawn with a ruler"
+      ],
+      [
+        "MUD",
+        "Wet soft earth"
+      ],
+      [
+        "LEVEL",
+        "Tool that checks a horizontal line"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRASS",
+      "BANK",
+      "MARK"
+    ]
+  }
+]

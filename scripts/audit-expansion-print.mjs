@@ -36,6 +36,25 @@ async function worker(){
   try{
    const response=await page.goto(new URL(`/print/${puzzle.id}${answers?'-answers':''}/?layout=${layout}`,base).href);assert.equal(response.status(),200);
    await page.waitForFunction(layout=>document.querySelector('.print-workspace')?.dataset.printLayout===layout,layout);
+   const cells=Array.from({length:puzzle.rows*puzzle.cols},()=>({block:true,number:'',letter:''}));
+   for(const entry of puzzle.entries){
+    for(let i=0;i<entry.answer.length;i++){
+     const row=entry.row+(entry.direction==='down'?i:0),col=entry.col+(entry.direction==='across'?i:0);
+     const cell=cells[row*puzzle.cols+col];
+     cell.block=false;
+     if(i===0)cell.number=String(entry.number);
+     if(answers)cell.letter=entry.answer[i];
+    }
+   }
+   const rendered=await page.locator('.print-board .mini-cell').evaluateAll(nodes=>nodes.map(node=>({
+    block:node.classList.contains('is-block'),
+    number:node.querySelector('small')?.textContent||'',
+    letter:[...node.childNodes].filter(child=>child.nodeType===Node.TEXT_NODE).map(child=>child.textContent).join('').trim()
+   })));
+   assert.deepEqual(rendered,cells,`${file}: printed grid does not match puzzle data`);
+   const printEntries=['across','down'].flatMap(direction=>puzzle.entries.filter(entry=>entry.direction===direction)
+    .sort((a,b)=>a.number-b.number).map(entry=>`${entry.number}. ${answers?entry.answer:`${entry.clue} (${entry.answer.length})`}`));
+   assert.deepEqual(await page.locator('.print-clues p').allTextContents(),printEntries,`${file}: print numbering or content differs`);
    await page.pdf({path:join(directory,file),preferCSSPageSize:true,printBackground:true});
    results.push({id:puzzle.id,layout,answers,file,pages:layout==='large'?2:1,font:layout==='large'?18:13,title:puzzle.title,expectedText:puzzle.entries.map(e=>answers?e.answer:e.clue)});
    if(results.length%100===0){report();console.log(`Exported ${results.length}/${allCases.length}`);}

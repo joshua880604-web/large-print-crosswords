@@ -1,0 +1,298 @@
+[
+  {
+    "id": "meals-with-rice",
+    "title": "A Pot of Rice and Black Beans",
+    "description": "Dark beans and white grains make an easy supper with onion and a squeeze of lime.",
+    "words": [
+      [
+        "RICE",
+        "Small grains commonly served with a meal"
+      ],
+      [
+        "BEANS",
+        "Dried kidney or pinto seeds used as food"
+      ],
+      [
+        "LIME",
+        "Small citrus fruit often green-skinned and paired with lemon"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "BLACK",
+        "Darkest color"
+      ],
+      [
+        "GRAIN",
+        "Edible seed such as wheat"
+      ],
+      [
+        "STEAM",
+        "Water vapor rising from a hot kettle"
+      ],
+      [
+        "POT",
+        "Deep cooking vessel"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "SIMMER",
+        "Cook gently just below boiling"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "SCOOP",
+        "Rounded serving of ice cream"
+      ]
+    ],
+    "requiredAnswers": [
+      "RICE",
+      "BEANS",
+      "LIME"
+    ]
+  },
+  {
+    "id": "meals-with-rice-2",
+    "title": "A Pan of Fried Rice",
+    "description": "Rice, peas and bits of egg cook together in a hot pan.",
+    "words": [
+      [
+        "FRIED",
+        "Cooked in hot oil"
+      ],
+      [
+        "PEAS",
+        "Small round green seeds commonly served as a vegetable"
+      ],
+      [
+        "EGG",
+        "Oval food with a shell, white, and yolk"
+      ],
+      [
+        "CARROTS",
+        "Orange vegetables with leafy green tops"
+      ],
+      [
+        "SOY",
+        "Bean used to make a dark salty sauce"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "STIR",
+        "Move a spoon around in a mixture"
+      ],
+      [
+        "OIL",
+        "Cooking fat that is liquid at room temperature"
+      ],
+      [
+        "HEAT",
+        "Energy supplied while the pottery is fired"
+      ],
+      [
+        "RICE",
+        "Small grain used in many mixed supper dishes"
+      ],
+      [
+        "DICE",
+        "To cut food into small roughly equal cubes"
+      ],
+      [
+        "LEFTOVER",
+        "Food remaining after a meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "FRIED",
+      "PEAS",
+      "EGG"
+    ]
+  },
+  {
+    "id": "meals-with-rice-3",
+    "title": "Stuffed Bell Peppers",
+    "description": "The pepper halves hold a spoonable filling of rice and tomato.",
+    "words": [
+      [
+        "PEPPER",
+        "Hollow vegetable with seeds clustered inside"
+      ],
+      [
+        "STUFFED",
+        "Filled on the inside"
+      ],
+      [
+        "TOMATO",
+        "Red vine-grown salad fruit"
+      ],
+      [
+        "HALVES",
+        "Two equal parts of something"
+      ],
+      [
+        "FILL",
+        "Put contents into an empty container"
+      ],
+      [
+        "RICE",
+        "Grain commonly served with a bowl of gumbo"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "SEEDS",
+        "Little parts that can grow into new plants"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEPPER",
+      "STUFFED",
+      "TOMATO"
+    ]
+  },
+  {
+    "id": "meals-with-rice-4",
+    "title": "Chicken and Rice in a Covered Dish",
+    "description": "Rice soaks up the broth under the lid while pieces of chicken cook above it.",
+    "words": [
+      [
+        "CHICKEN",
+        "Farm bird often roasted for dinner"
+      ],
+      [
+        "BROTH",
+        "Savory liquid made by simmering ingredients in water"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "OVEN",
+        "Kitchen appliance used to bake bread"
+      ],
+      [
+        "STEAM",
+        "Visible mist above hot water"
+      ],
+      [
+        "STOCK",
+        "Fragrant garden flower whose name also means a shop's supply"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "DISH",
+        "Container in which a pie is baked or served"
+      ],
+      [
+        "GRAIN",
+        "Natural pattern and direction of wood fibers"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHICKEN",
+      "BROTH",
+      "COVER"
+    ]
+  },
+  {
+    "id": "meals-with-rice-5",
+    "title": "Lemon Rice with Peas",
+    "description": "Pale rice, green peas and fresh lemon make a bright side dish.",
+    "words": [
+      [
+        "LEMON",
+        "Yellow citrus fruit commonly used for a sharp juice"
+      ],
+      [
+        "PEAS",
+        "Small round green vegetables in the rice"
+      ],
+      [
+        "GRAINS",
+        "Separate kernels of cooked rice"
+      ],
+      [
+        "ZEST",
+        "Colored outermost citrus skin used for flavor"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "TOSS",
+        "To throw a ball with a gentle upward motion"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "FLUFF",
+        "Shake out to make fuller"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "SERVE",
+        "To offer prepared food to someone"
+      ],
+      [
+        "BRIGHT",
+        "Giving off plenty of light"
+      ]
+    ],
+    "requiredAnswers": [
+      "LEMON",
+      "PEAS",
+      "GRAINS"
+    ]
+  }
+]

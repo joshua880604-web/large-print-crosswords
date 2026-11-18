@@ -1,13 +1,13 @@
 {
   "note": "Counts and similarity are internal editorial signals, not Google thresholds or a guarantee of indexation. Repeated familiar words can be appropriate; examine context and complete puzzles.",
   "collection": {
-    "puzzles": 1200,
-    "clueEntries": 13484,
-    "distinctAnswers": 3067,
-    "distinctAnswerCluePairs": 8488,
-    "distinctIntroductions": 1200,
+    "puzzles": 1500,
+    "clueEntries": 16563,
+    "distinctAnswers": 3323,
+    "distinctAnswerCluePairs": 8900,
+    "distinctIntroductions": 1500,
     "numberedTitles": 0,
-    "editedEditions": 1200
+    "editedEditions": 1500
   },
   "preservedRevisedEditions": 79,
   "refinedSeries": [
@@ -7450,6 +7450,1866 @@
         "Bible Story: Jesus Washes the Disciples' Feet",
         "Bible Story: Paul and Silas Sing at Night"
       ]
+    },
+    {
+      "id": "garden-repairs-and-labels",
+      "name": "Garden repairs and labels",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "garden-repairs-and-labels",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "Cleaning Grit from a Watering Wand",
+        "A Label That Survives the Rain",
+        "A Handle for an Outdoor Tap",
+        "A Wheelbarrow with a Soft Tire",
+        "A Cracked Handle on the Spade"
+      ]
+    },
+    {
+      "id": "kitchen-windowsill-greens",
+      "name": "Greens on the kitchen sill",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "kitchen-windowsill-greens",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.176
+      },
+      "subjects": [
+        "Pea Shoots on a Sunny Sill",
+        "Green Onions Back in a Glass",
+        "Cilantro Before It Flowers",
+        "Lettuce in a Window Box",
+        "Parsley by the Kitchen Door"
+      ]
+    },
+    {
+      "id": "garden-season-decisions",
+      "name": "Judging garden conditions",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "garden-season-decisions",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.056
+      },
+      "subjects": [
+        "A Spot that Dries Last",
+        "A Dry Patch Under the Eaves",
+        "The Windy Side of the Garden",
+        "A South-Facing Brick Wall",
+        "A Pale Place Under the Lawn Chair"
+      ]
+    },
+    {
+      "id": "garden-fruit-variety",
+      "name": "Fruit from the yard",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "garden-fruit-variety",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Fig Split on the Branch",
+        "Mulberries on the Sidewalk",
+        "A Grape Vine Over the Arbor",
+        "A Net Under the Cherry Tree",
+        "A Tray of Drying Apricots"
+      ]
+    },
+    {
+      "id": "flower-display-details",
+      "name": "Flowers on display",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "flower-display-details",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 41,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.176
+      },
+      "subjects": [
+        "A Rosebud at the End of a Napkin Tie",
+        "A Corsage for the Guest of Honor",
+        "A Violet under a Glass Bell",
+        "A Flower Crown for the Picnic",
+        "A Boutonniere on a Jacket"
+      ]
+    },
+    {
+      "id": "kitchen-sandwich-sides",
+      "name": "Deli sides and toppings",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "kitchen-sandwich-sides",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.111
+      },
+      "subjects": [
+        "A Dill Pickle Spear",
+        "Potato Chips from a Paper Bag",
+        "A Deli Plate of Sweet Pepper Rings",
+        "A Spoonful of Olive Spread",
+        "Roasted Peppers on a Roll"
+      ]
+    },
+    {
+      "id": "bakery-slice-and-serve",
+      "name": "Slices from the bakery",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "bakery-slice-and-serve",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "A Slice of Marble Cake",
+        "Breaking Apart a Pan of Rolls",
+        "The Cut Ends of a Jelly Roll",
+        "A Wedge of Lemon Bar",
+        "A Cream Puff in a Paper Cup"
+      ]
+    },
+    {
+      "id": "meals-with-rice",
+      "name": "Rice on the table",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "meals-with-rice",
+        "puzzles": 5,
+        "entries": 54,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 54,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Pot of Rice and Black Beans",
+        "A Pan of Fried Rice",
+        "Stuffed Bell Peppers",
+        "Chicken and Rice in a Covered Dish",
+        "Lemon Rice with Peas"
+      ]
+    },
+    {
+      "id": "kitchen-jars-and-tins",
+      "name": "Open a jar or a tin",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "kitchen-jars-and-tins",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 43,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.125
+      },
+      "subjects": [
+        "Pimentos from a Little Jar",
+        "The Ring Pull on a Tuna Can",
+        "A Scoop of Sauerkraut from a Jar",
+        "Roasted Peanuts from a Tin",
+        "Sliced Beets for a Cold Plate"
+      ]
+    },
+    {
+      "id": "food-on-the-griddle",
+      "name": "From the griddle",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "food-on-the-griddle",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.111
+      },
+      "subjects": [
+        "A Piece of Canadian Bacon",
+        "A Salmon Patty in the Skillet",
+        "A Slice of Polenta on the Griddle",
+        "A Sweet Potato Cut into Coins",
+        "A Corn Fritter on a Cooling Rack"
+      ]
+    },
+    {
+      "id": "neighborhood-counter-jobs",
+      "name": "Familiar jobs at the counter",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "neighborhood-counter-jobs",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "Matching a Loose Screw at the Hardware Store",
+        "A Picture Mat Cut to Fit",
+        "A Suit Brought In for Pressing",
+        "A Chipped Mug Used as a Pencil Cup",
+        "A Fresh Band on a Wristwatch"
+      ]
+    },
+    {
+      "id": "town-events-behind-scenes",
+      "name": "Helping at town events",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "town-events-behind-scenes",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "A Roll of Tickets at the Door",
+        "Setting Up a Coat Check",
+        "Testing the Hall Microphone",
+        "Counting the Seats in the Hall",
+        "A Sign for a Closed Entrance"
+      ]
+    },
+    {
+      "id": "sharing-books-locally",
+      "name": "Sharing books nearby",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "sharing-books-locally",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Little Library with a Loose Door",
+        "Choosing Books for a Sale Table",
+        "A Reading Group Chooses Next Month's Book",
+        "A Book That Needs a Larger Bookmark",
+        "Finding a Book by Its Call Number"
+      ]
+    },
+    {
+      "id": "stairs-and-hallway",
+      "name": "Around the hallway",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "stairs-and-hallway",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.111
+      },
+      "subjects": [
+        "A Rug That Slips on the Landing",
+        "A Bulb Above the Back Stairs",
+        "A Bag Hook by the Side Door",
+        "A Mirror at the End of the Hall",
+        "A Basket for Shoes in the Entry"
+      ]
+    },
+    {
+      "id": "table-for-evening",
+      "name": "Setting an evening table",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "table-for-evening",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Candle in a Low Holder",
+        "Folding a Cloth Napkin into a Pocket",
+        "A Trivet Under the Hot Dish",
+        "A Water Glass at Each Seat",
+        "A Small Pitcher for Gravy"
+      ]
+    },
+    {
+      "id": "visits-and-welcome",
+      "name": "A comfortable visit",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "visits-and-welcome",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Place to Set a Walking Stick",
+        "A Card that Says Come Anytime",
+        "A Basket of Slippers by the Guest Bed",
+        "A Pitcher and Glass for Overnight",
+        "Leaving Directions to the Spare Key"
+      ]
+    },
+    {
+      "id": "clothing-for-weather",
+      "name": "Dressing for the weather",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "clothing-for-weather",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.167
+      },
+      "subjects": [
+        "A Poncho Before the Downpour",
+        "A Windbreaker for a Breezy Walk",
+        "Boots with a Muddy Tread",
+        "A Hat with a Chin Strap",
+        "A Coat Liner on a Mild Day"
+      ]
+    },
+    {
+      "id": "quiet-comforts-at-home",
+      "name": "Everyday comforts",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "quiet-comforts-at-home",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.188
+      },
+      "subjects": [
+        "A Footstool by the Window Seat",
+        "A Blind that Tilts toward the Evening Sun",
+        "A Cushion That Needs More Filling",
+        "A Glasses Case within Reach",
+        "A Lamp Turned Away from the Screen"
+      ]
+    },
+    {
+      "id": "everyday-kitchen-repairs",
+      "name": "Small fixes in the kitchen",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "everyday-kitchen-repairs",
+        "puzzles": 5,
+        "entries": 48,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 48,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.133
+      },
+      "subjects": [
+        "A Drawer That Sticks in Damp Weather",
+        "A Lid with a Loose Knob",
+        "A Cupboard Shelf That Sags",
+        "A Fridge Door That Will Not Seal",
+        "A Jar That Spins on the Counter"
+      ]
+    },
+    {
+      "id": "sorting-and-donating",
+      "name": "Making things ready to give away",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "sorting-and-donating",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.167
+      },
+      "subjects": [
+        "Pairing Gloves Before Donating Them",
+        "Checking the Pieces of a Jigsaw",
+        "A Box of Dishes for the Charity Shop",
+        "Sorting the Loose Cords in a Drawer",
+        "An Old Suit with a Spare Pair of Pants"
+      ]
+    },
+    {
+      "id": "fabric-on-the-table",
+      "name": "Useful fabric projects",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "fabric-on-the-table",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 43,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.111
+      },
+      "subjects": [
+        "A Cloth Sleeve for a Hot Pan Handle",
+        "A Folded Corner on a Table Runner",
+        "A Lining for a Recipe Basket",
+        "A Patch over a Pocket Corner",
+        "A Fabric Strip for a Bundle of Letters"
+      ]
+    },
+    {
+      "id": "craft-glass-and-ceramic",
+      "name": "Glass and tile projects",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "craft-glass-and-ceramic",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Tile Saved for a Chipped Corner",
+        "A Painted Number on a Tile",
+        "A Glass Jar with a Frosted Band",
+        "A Broken Saucer Made into a Marker",
+        "A Felt Pad for a Ceramic Bowl"
+      ]
+    },
+    {
+      "id": "gift-paper-folds",
+      "name": "Paper folded for a gift",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "gift-paper-folds",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 41,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.176
+      },
+      "subjects": [
+        "A Paper Fan Tucked into a Gift Bag",
+        "A Box with a Lift-Off Paper Lid",
+        "A Recipe Card That Stands by Itself",
+        "A Paper Roll with a Message Inside",
+        "A Gift Envelope for a Flat Bookmark"
+      ]
+    },
+    {
+      "id": "handwork-fixing-keepsakes",
+      "name": "Repairing keepsakes",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "handwork-fixing-keepsakes",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Loose Clasp on a Bracelet",
+        "A Frayed End on a Braided Rug",
+        "A Picture Album with a Torn Pocket",
+        "A Frame That Hangs Crooked",
+        "A Brass Tag that Needs a Polish"
+      ]
+    },
+    {
+      "id": "hobbies-in-daylight",
+      "name": "Outdoor hobbies in daylight",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "hobbies-in-daylight",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "A Trail Sketch from an Overlook",
+        "Following a Shadow across the Patio",
+        "Watching Clouds through a Cardboard Frame",
+        "A Photo of the Same Tree Each Month",
+        "An Empty Seedpod for a Nature Table"
+      ]
+    },
+    {
+      "id": "games-at-a-club",
+      "name": "Around the game table",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "games-at-a-club",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Peg that Gets Lost under the Game Table",
+        "A Game of Five in a Row",
+        "Waiting for a Bowling Ball to Return",
+        "A Cube That Matches Its Colors",
+        "Shuffling a Worn Deck of Cards"
+      ]
+    },
+    {
+      "id": "old-shop-tools",
+      "name": "Tools behind old shop counters",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "old-shop-tools",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Hand Bell on the Shop Counter",
+        "A Price Tag Tied to a Teapot",
+        "A Receipt on a Counter Spike",
+        "A Pencil Tied beside the Order Book",
+        "A Scale with a Sliding Weight"
+      ]
+    },
+    {
+      "id": "family-photos-and-film",
+      "name": "Family pictures and home movies",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "family-photos-and-film",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.118
+      },
+      "subjects": [
+        "A Film Canister in the Junk Drawer",
+        "A Slide Viewed against the Window",
+        "Splicing a Torn Home Movie",
+        "A Photo with a Torn Corner",
+        "A Cloth over a Projector Screen"
+      ]
+    },
+    {
+      "id": "street-sights-remembered",
+      "name": "Remembered street sights",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "street-sights-remembered",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 51,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.048
+      },
+      "subjects": [
+        "A Paper Band around an Ironed Shirt",
+        "A Newspaper Rack with a Coin Slot",
+        "Chalk Prices in the Shop Window",
+        "A Bicycle with a Wire Basket",
+        "A Name Painted on the Store Glass"
+      ]
+    },
+    {
+      "id": "kitchen-memories-in-use",
+      "name": "Kitchen objects remembered",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "kitchen-memories-in-use",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "Cranking a Hand Egg Beater",
+        "A Tin Flour Sifter",
+        "A Wax-Paper Sandwich Wrap",
+        "A Wall Calendar from the Grocer",
+        "Writing Down a Recipe over the Phone"
+      ]
+    },
+    {
+      "id": "guitar-to-gathering",
+      "name": "A guitar for a gathering",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "guitar-to-gathering",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Pick Lost inside the Guitar",
+        "A Capo Clipped across the Strings",
+        "A Footrest for a Seated Guitar Player",
+        "Matching Two Guitar Pitches",
+        "A Spare String Rolled in Its Sleeve"
+      ]
+    },
+    {
+      "id": "picnic-band-sounds",
+      "name": "Sounds from an outdoor band",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "picnic-band-sounds",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 43,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.235
+      },
+      "subjects": [
+        "A Triangle Ringing above the Band",
+        "A Tambourine Shaken at the Side",
+        "A Slide on a Trombone",
+        "A Fold-Up Stand for Sheet Music",
+        "A Drum Brush for a Quiet Beat"
+      ]
+    },
+    {
+      "id": "sing-with-the-room",
+      "name": "Singing together",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "sing-with-the-room",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 40,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.176
+      },
+      "subjects": [
+        "A Round that Starts Twice",
+        "A Duet at the Piano Bench",
+        "A Song Finished without Instruments",
+        "A Singer Waiting for the Cue",
+        "A Chorus Everyone Knows"
+      ]
+    },
+    {
+      "id": "sounds-of-the-recording-room",
+      "name": "Listening and recording",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "sounds-of-the-recording-room",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 39,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.25
+      },
+      "subjects": [
+        "An Old Recording with a Soft Hiss",
+        "A Headphone Splitter for Two",
+        "A Speaker with a Fuzzy Sound",
+        "Two Headphones Marked Left and Right",
+        "A Faded Label on a Song Tape"
+      ]
+    },
+    {
+      "id": "remembered-dance-tunes",
+      "name": "Dance-floor traditions",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "remembered-dance-tunes",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 38,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.25
+      },
+      "subjects": [
+        "A Waltz Counted in Threes",
+        "Learning to Bow at the End of a Dance",
+        "Clapping along with a Polka",
+        "A Slow Dance after Supper",
+        "The Last Note at a Dance"
+      ]
+    },
+    {
+      "id": "bible-river-and-road",
+      "name": "Bible journeys by river and road",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "bible-river-and-road",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 52,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0
+      },
+      "subjects": [
+        "Bible Story: Miriam Plays a Hand Drum",
+        "Bible Story: Ruth Gathers Leftover Grain",
+        "Bible Story: A Chariot of Fire",
+        "Bible Story: Naaman Washes in the Jordan",
+        "Bible Story: A Basket Lowered from a Wall"
+      ]
+    },
+    {
+      "id": "bible-parables-and-choices",
+      "name": "Bible stories about choices",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "bible-parables-and-choices",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "Bible Parable: A Merchant Finds a Pearl",
+        "Bible Teaching: Counting the Cost of a Tower",
+        "Bible Parable: Two Sons at the Vineyard",
+        "Bible Parable: A Neighbor Asks for Bread",
+        "Bible Parable: A Net Drawn to Shore"
+      ]
+    },
+    {
+      "id": "birds-using-familiar-spaces",
+      "name": "Birds around familiar places",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "birds-using-familiar-spaces",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.05
+      },
+      "subjects": [
+        "A Pigeon Cooing under the Bridge",
+        "A Swallow Skimming a Field",
+        "A Robin Looking After a Shower",
+        "A Crow Carrying a Bread Crust",
+        "A Woodpecker at a Telephone Pole"
+      ]
+    },
+    {
+      "id": "animals-around-the-farmyard",
+      "name": "Sights around a farmyard",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "animals-around-the-farmyard",
+        "puzzles": 5,
+        "entries": 48,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 48,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.056
+      },
+      "subjects": [
+        "A Donkey Listening at the Fence",
+        "Ducks in a Shallow Farm Pan",
+        "A Barn Cat Hunting at Dusk",
+        "A Calf Learning to Drink from a Pail",
+        "A Rooster on the Top Rail"
+      ]
+    },
+    {
+      "id": "signs-of-rain",
+      "name": "Rain nearby",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "signs-of-rain",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "Rain Beads on a Leaf",
+        "A Stream Running Along the Curb",
+        "The First Drops on Hot Pavement",
+        "A Rainbow in the Garden Sprayer",
+        "A Cloud that Hides the Hill"
+      ]
+    },
+    {
+      "id": "water-edges-after-weather",
+      "name": "Edges of ponds and streams",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "water-edges-after-weather",
+        "puzzles": 5,
+        "entries": 49,
+        "uniqueAnswers": 43,
+        "uniqueCluePairs": 49,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.111
+      },
+      "subjects": [
+        "An Empty Boat Pulled Above the Waterline",
+        "A Smooth Stone below a Footbridge",
+        "A Pool Left by a Falling Stream",
+        "Ripples Where a Creek Meets a Pond",
+        "Dry Grass above a High-Water Mark"
+      ]
+    },
+    {
+      "id": "gardens-after-cold",
+      "name": "Spring garden surprises",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "gardens-after-cold",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.118
+      },
+      "subjects": [
+        "A Chalk Line for the First Row",
+        "A Rhubarb Stalk near the Shed",
+        "A New Leaf Unfolding on a Fern",
+        "A Bee Inside a Crocus",
+        "A Damp Bag of Seed Packets"
+      ]
+    },
+    {
+      "id": "spring-outdoor-get-together",
+      "name": "A spring gathering outside",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "spring-outdoor-get-together",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Folding Table on Uneven Ground",
+        "A Bowl of Water by the Garden Bench",
+        "A Picnic Basket Lined with a Cloth",
+        "An Outside Seat that Needs Wiping",
+        "A Paper Cup with a Cardboard Sleeve"
+      ]
+    },
+    {
+      "id": "warm-day-by-the-water",
+      "name": "Warm days near water",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "warm-day-by-the-water",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Swimming Towel on a Fence",
+        "A Squeeze Bottle on the Picnic Blanket",
+        "A Boat Ramp at Low Water",
+        "A Sand Dollar on the Beach",
+        "A Floating Rope at a Swimming Area"
+      ]
+    },
+    {
+      "id": "summer-shade-and-breaks",
+      "name": "Shade and summer breaks",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "summer-shade-and-breaks",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Parasol over a Market Stall",
+        "An Ice Pack in the Lunch Bag",
+        "A Glass Leaving a Wet Ring",
+        "A Hand Fan in the Church Hall",
+        "A Porch Screen with a Loose Corner"
+      ]
+    },
+    {
+      "id": "fall-harvest-work",
+      "name": "At harvest time",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "fall-harvest-work",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Firm Quince for the Preserving Pan",
+        "A Paper Sack for Black Walnuts",
+        "Dried Corn Hanging by Its Husks",
+        "A Scale at the Pumpkin Stand",
+        "Cranberries in a Sorting Tray"
+      ]
+    },
+    {
+      "id": "keeping-winter-wet-out",
+      "name": "Keeping winter wet outside",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "keeping-winter-wet-out",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Boot Tray Full of Melted Snow",
+        "A Damp Mitten on a Drying Rack",
+        "A Garage Door with Ice at the Bottom",
+        "A Snow Marker beside the Driveway",
+        "A Park Rail with a Dusting of Snow"
+      ]
+    },
+    {
+      "id": "christmas-tree-care",
+      "name": "Caring for a Christmas tree",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "christmas-tree-care",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.176
+      },
+      "subjects": [
+        "A Loose Tree Stand Screw",
+        "A Bare Spot toward the Wall",
+        "A Low Branch with a Heavy Ornament",
+        "A Stack of Blocks under a Small Tree",
+        "A Paper Sleeve on a Glass Ornament"
+      ]
+    },
+    {
+      "id": "thanksgiving-cleanup",
+      "name": "After the Thanksgiving meal",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "thanksgiving-cleanup",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 50,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "Dividing a Leftover Pie",
+        "The Last Serving of Dressing",
+        "Removing the Extra Table Leaves",
+        "A Bowl Set Aside for the Gravy",
+        "A Stain on the Dinner Tablecloth"
+      ]
+    },
+    {
+      "id": "easter-basket-details",
+      "name": "Small Easter basket projects",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "easter-basket-details",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Stiff Handle on an Easter Basket",
+        "A Paper Cup for One Decorated Egg",
+        "A Carrot-Shaped Treat Bag",
+        "A Card with a Rabbit Footprint",
+        "A Ribbon across the Basket Handle"
+      ]
+    },
+    {
+      "id": "halloween-costume-fixes",
+      "name": "Easy costume adjustments",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "halloween-costume-fixes",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Paper Hat that Needs a Chin Loop",
+        "A Loose Hem on a Short Cape",
+        "A Mask with Wider Eye Holes",
+        "A Crooked Mustache on a Stick",
+        "A Bell on a Dress-Up Collar"
+      ]
+    },
+    {
+      "id": "around-a-local-bus-route",
+      "name": "Riding a local bus",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "around-a-local-bus-route",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 46,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "Finding the Right Side of the Street",
+        "A Seat Beside the Bus Window",
+        "The Cord for the Next Stop",
+        "A Bus Pass in the Front Pocket",
+        "Changing Buses across the Square"
+      ]
+    },
+    {
+      "id": "welcoming-a-new-neighbor",
+      "name": "Meeting new neighbors",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "welcoming-a-new-neighbor",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "A Map to the Nearest Grocery",
+        "A Note about Trash Day",
+        "A Potted Herb for the New Steps",
+        "An Offer to Bring In the Mail",
+        "A Welcome Note on a Moving Box"
+      ]
+    },
+    {
+      "id": "clothesline-weather-choices",
+      "name": "Air-drying clothes indoors and out",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "clothesline-weather-choices",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.053
+      },
+      "subjects": [
+        "Hanging a Shirt by Its Hem",
+        "Taking Down a Line before a Storm",
+        "Drying a Sweater Flat",
+        "A Mesh Bag for Small Socks",
+        "A Sheet Dripping on the Bathroom Rod"
+      ]
+    },
+    {
+      "id": "eating-at-the-diner",
+      "name": "Old diner menu favorites",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "eating-at-the-diner",
+        "puzzles": 5,
+        "entries": 50,
+        "uniqueAnswers": 44,
+        "uniqueCluePairs": 50,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.105
+      },
+      "subjects": [
+        "A Patty Melt on Rye",
+        "A Hot Roll Split for Honey",
+        "A Diner Bowl of Cream of Wheat",
+        "A Biscuit Split for Sausage Gravy",
+        "A Waffle with a Spoonful of Berries"
+      ]
+    },
+    {
+      "id": "sewing-for-the-kitchen",
+      "name": "Simple sewing for the kitchen",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "sewing-for-the-kitchen",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 39,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.294
+      },
+      "subjects": [
+        "A Fresh Apron Tie",
+        "A Loop Added to a Dish Towel",
+        "A Cloth Tie on a Potluck Dish",
+        "A Towel Sewn to an Oven Handle Loop",
+        "A Set of Fabric Coasters"
+      ]
+    },
+    {
+      "id": "useful-things-in-the-car",
+      "name": "Small comforts in the car",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "useful-things-in-the-car",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 45,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.167
+      },
+      "subjects": [
+        "A Bag That Keeps Groceries Upright",
+        "A Glove Box with a Pencil and Map",
+        "A Sun Visor Turned toward the Side Window",
+        "A Blanket Rolled behind the Seat",
+        "A Paper Liner on a Car Mat"
+      ]
+    },
+    {
+      "id": "local-show-opening",
+      "name": "Opening a neighborhood show",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "local-show-opening",
+        "puzzles": 5,
+        "entries": 53,
+        "uniqueAnswers": 49,
+        "uniqueCluePairs": 53,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Curtain That Needs an Even Pull",
+        "A Program Folded at the Door",
+        "A Spotlight Moved across the Floor",
+        "A Seat Saved with a Scarf",
+        "A Piano Bench Moved Before the Show"
+      ]
+    },
+    {
+      "id": "household-fasteners",
+      "name": "Fasteners around the house",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "household-fasteners",
+        "puzzles": 5,
+        "entries": 52,
+        "uniqueAnswers": 48,
+        "uniqueCluePairs": 52,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.1
+      },
+      "subjects": [
+        "A Safety Pin for a Loose Strap",
+        "A Snap on the Cuff",
+        "A Stuck Zipper at the Corner of a Bag",
+        "A Hook and Eye at the Collar",
+        "A Screw Cap on a Travel Bottle"
+      ]
+    },
+    {
+      "id": "small-community-meals",
+      "name": "Working at a community meal",
+      "allFirstEditions": true,
+      "before": {
+        "puzzles": 0,
+        "entries": 0,
+        "uniqueAnswers": 0,
+        "uniqueCluePairs": 0,
+        "uniqueIntroductions": 0
+      },
+      "after": {
+        "id": "small-community-meals",
+        "puzzles": 5,
+        "entries": 51,
+        "uniqueAnswers": 47,
+        "uniqueCluePairs": 51,
+        "uniqueIntroductions": 5,
+        "numberedTitles": 0,
+        "editedEditions": 5,
+        "highestExactClueJaccard": 0,
+        "highestAnswerJaccard": 0.111
+      },
+      "subjects": [
+        "A Place for Empty Plates",
+        "A Sign for the Meatless Pot",
+        "Keeping Cups by the Drink Table",
+        "A List for the Potluck Table",
+        "Taking a Plate to Someone at Home"
+      ]
     }
   ],
   "selfAnswerClues": [],
@@ -7458,102 +9318,102 @@
     {
       "answer": "WATER",
       "clue": "Clear liquid from a tap",
-      "occurrences": 45
+      "occurrences": 59
     },
     {
       "answer": "HANDLE",
       "clue": "Part held when carrying or using something",
-      "occurrences": 37
-    },
-    {
-      "answer": "TABLE",
-      "clue": "Furniture with a flat top and legs",
-      "occurrences": 31
+      "occurrences": 53
     },
     {
       "answer": "PAPER",
       "clue": "Material used for writing or wrapping",
-      "occurrences": 30
+      "occurrences": 48
     },
     {
-      "answer": "SWEET",
-      "clue": "Sugary in taste",
-      "occurrences": 30
+      "answer": "EDGE",
+      "clue": "Outside boundary of something",
+      "occurrences": 46
     },
     {
-      "answer": "BAG",
-      "clue": "Soft container for carrying things",
-      "occurrences": 28
-    },
-    {
-      "answer": "LEAF",
-      "clue": "Flat green part of a plant",
-      "occurrences": 27
-    },
-    {
-      "answer": "RED",
-      "clue": "Color of a ripe tomato",
-      "occurrences": 27
-    },
-    {
-      "answer": "DOOR",
-      "clue": "Movable panel at a room's entrance",
-      "occurrences": 26
-    },
-    {
-      "answer": "SOFT",
-      "clue": "Easy to press",
-      "occurrences": 26
-    },
-    {
-      "answer": "WHITE",
-      "clue": "Color of fresh snow",
-      "occurrences": 26
-    },
-    {
-      "answer": "ROUND",
-      "clue": "Shaped like a circle",
-      "occurrences": 25
-    },
-    {
-      "answer": "BOWL",
-      "clue": "Deep round dish for food",
-      "occurrences": 24
+      "answer": "TABLE",
+      "clue": "Furniture with a flat top and legs",
+      "occurrences": 41
     },
     {
       "answer": "DRY",
       "clue": "No longer wet",
-      "occurrences": 24
+      "occurrences": 40
     },
     {
       "answer": "FOLD",
       "clue": "Bend one part over another",
-      "occurrences": 24
+      "occurrences": 38
     },
     {
-      "answer": "SEED",
-      "clue": "Plant part from which a new plant grows",
-      "occurrences": 24
+      "answer": "SOFT",
+      "clue": "Easy to press",
+      "occurrences": 38
     },
     {
-      "answer": "SLICE",
-      "clue": "Thin flat piece cut from food",
-      "occurrences": 24
+      "answer": "BAG",
+      "clue": "Soft container for carrying things",
+      "occurrences": 36
+    },
+    {
+      "answer": "ROUND",
+      "clue": "Shaped like a circle",
+      "occurrences": 35
+    },
+    {
+      "answer": "SWEET",
+      "clue": "Sugary in taste",
+      "occurrences": 35
+    },
+    {
+      "answer": "TURN",
+      "clue": "Rotate to face another direction",
+      "occurrences": 35
+    },
+    {
+      "answer": "CLOTH",
+      "clue": "Woven material",
+      "occurrences": 34
+    },
+    {
+      "answer": "LIGHT",
+      "clue": "Brightness making objects visible",
+      "occurrences": 34
+    },
+    {
+      "answer": "RED",
+      "clue": "Color of a ripe tomato",
+      "occurrences": 34
     },
     {
       "answer": "SPOON",
       "clue": "Utensil with a small bowl at one end",
-      "occurrences": 24
+      "occurrences": 34
     },
     {
-      "answer": "TREE",
-      "clue": "Tall plant with a woody trunk",
-      "occurrences": 24
+      "answer": "CUT",
+      "clue": "Separate with a sharp edge",
+      "occurrences": 33
     },
     {
-      "answer": "CUP",
-      "clue": "Small drinking vessel",
-      "occurrences": 23
+      "answer": "DOOR",
+      "clue": "Movable panel at a room's entrance",
+      "occurrences": 33
+    },
+    {
+      "answer": "BOWL",
+      "clue": "Deep round dish for food",
+      "occurrences": 32
+    },
+    {
+      "answer": "GLASS",
+      "clue": "Hard transparent material",
+      "occurrences": 30
     }
   ],
   "highestOverlapPairs": [
@@ -7586,10 +9446,45 @@
       "sameSeries": false
     },
     {
+      "first": "bible-familiar-people",
+      "second": "bible-river-and-road-2",
+      "sharedClues": 5,
+      "jaccard": 0.333,
+      "sameSeries": false
+    },
+    {
+      "first": "christmas-preparing-the-room-4",
+      "second": "christmas-tree-care-5",
+      "sharedClues": 5,
+      "jaccard": 0.333,
+      "sameSeries": false
+    },
+    {
+      "first": "beads-and-ribbons-5",
+      "second": "halloween-costume-fixes-2",
+      "sharedClues": 5,
+      "jaccard": 0.313,
+      "sameSeries": false
+    },
+    {
+      "first": "porch-and-patio-4",
+      "second": "visits-and-welcome-4",
+      "sharedClues": 5,
+      "jaccard": 0.313,
+      "sameSeries": false
+    },
+    {
       "first": "visits-and-gatherings",
       "second": "community-volunteers-5",
       "sharedClues": 5,
       "jaccard": 0.313,
+      "sameSeries": false
+    },
+    {
+      "first": "birds-in-motion",
+      "second": "birds-using-familiar-spaces-3",
+      "sharedClues": 5,
+      "jaccard": 0.294,
       "sameSeries": false
     },
     {
@@ -7660,41 +9555,6 @@
       "second": "memories-of-schooldays",
       "sharedClues": 5,
       "jaccard": 0.278,
-      "sameSeries": false
-    },
-    {
-      "first": "restful-household-routines-4",
-      "second": "clothes-ready-2",
-      "sharedClues": 5,
-      "jaccard": 0.278,
-      "sameSeries": false
-    },
-    {
-      "first": "shopping-basket-4",
-      "second": "home-little-checks-3",
-      "sharedClues": 5,
-      "jaccard": 0.278,
-      "sameSeries": false
-    },
-    {
-      "first": "summer-neighborhood-days-2",
-      "second": "town-meeting-places-3",
-      "sharedClues": 5,
-      "jaccard": 0.278,
-      "sameSeries": false
-    },
-    {
-      "first": "bible-helping-hands",
-      "second": "bible-familiar-objects-2",
-      "sharedClues": 5,
-      "jaccard": 0.263,
-      "sameSeries": false
-    },
-    {
-      "first": "bowls-of-soup",
-      "second": "lunches-with-a-spoon",
-      "sharedClues": 5,
-      "jaccard": 0.263,
       "sameSeries": false
     }
   ],
@@ -7879,6 +9739,20 @@
       "sameSeries": false
     },
     {
+      "first": "beads-and-ribbons-5",
+      "second": "halloween-costume-fixes-2",
+      "sharedAnswers": [
+        "STITCH",
+        "THREAD",
+        "CLOTH",
+        "EDGE",
+        "FOLD",
+        "SEAM"
+      ],
+      "jaccard": 0.4,
+      "sameSeries": false
+    },
+    {
       "first": "christmas-post-and-paper-4",
       "second": "neighborhood-businesses-3",
       "sharedAnswers": [
@@ -7902,6 +9776,20 @@
         "WING",
         "REED",
         "LEG"
+      ],
+      "jaccard": 0.4,
+      "sameSeries": false
+    },
+    {
+      "first": "porch-and-patio-4",
+      "second": "visits-and-welcome-4",
+      "sharedAnswers": [
+        "PITCHER",
+        "HANDLE",
+        "WATER",
+        "TABLE",
+        "GLASS",
+        "TRAY"
       ],
       "jaccard": 0.4,
       "sameSeries": false
@@ -7958,34 +9846,6 @@
         "STIR",
         "WARM",
         "POT"
-      ],
-      "jaccard": 0.375,
-      "sameSeries": false
-    },
-    {
-      "first": "home-inventions-2",
-      "second": "outdoor-hobby-bags-4",
-      "sharedAnswers": [
-        "SHUTTER",
-        "CAMERA",
-        "FRAME",
-        "FOCUS",
-        "LENS",
-        "CASE"
-      ],
-      "jaccard": 0.375,
-      "sameSeries": false
-    },
-    {
-      "first": "keeping-food-fresh-4",
-      "second": "remembered-shop-windows-3",
-      "sharedAnswers": [
-        "STAND",
-        "SWEET",
-        "ICING",
-        "PLATE",
-        "SLICE",
-        "CAKE"
       ],
       "jaccard": 0.375,
       "sameSeries": false
@@ -10871,6 +12731,726 @@
       "editedEditions": 5,
       "highestExactClueJaccard": 0,
       "highestAnswerJaccard": 0.15
+    },
+    {
+      "id": "garden-repairs-and-labels",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "kitchen-windowsill-greens",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.176
+    },
+    {
+      "id": "garden-season-decisions",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.056
+    },
+    {
+      "id": "garden-fruit-variety",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "flower-display-details",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 41,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.176
+    },
+    {
+      "id": "kitchen-sandwich-sides",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.111
+    },
+    {
+      "id": "bakery-slice-and-serve",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "meals-with-rice",
+      "puzzles": 5,
+      "entries": 54,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 54,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "kitchen-jars-and-tins",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 43,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.125
+    },
+    {
+      "id": "food-on-the-griddle",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.111
+    },
+    {
+      "id": "neighborhood-counter-jobs",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "town-events-behind-scenes",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "sharing-books-locally",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "stairs-and-hallway",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.111
+    },
+    {
+      "id": "table-for-evening",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "visits-and-welcome",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "clothing-for-weather",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.167
+    },
+    {
+      "id": "quiet-comforts-at-home",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.188
+    },
+    {
+      "id": "everyday-kitchen-repairs",
+      "puzzles": 5,
+      "entries": 48,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 48,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.133
+    },
+    {
+      "id": "sorting-and-donating",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.167
+    },
+    {
+      "id": "fabric-on-the-table",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 43,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.111
+    },
+    {
+      "id": "craft-glass-and-ceramic",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "gift-paper-folds",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 41,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.176
+    },
+    {
+      "id": "handwork-fixing-keepsakes",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "hobbies-in-daylight",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "games-at-a-club",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "old-shop-tools",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "family-photos-and-film",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.118
+    },
+    {
+      "id": "street-sights-remembered",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 51,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.048
+    },
+    {
+      "id": "kitchen-memories-in-use",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "guitar-to-gathering",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "picnic-band-sounds",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 43,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.235
+    },
+    {
+      "id": "sing-with-the-room",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 40,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.176
+    },
+    {
+      "id": "sounds-of-the-recording-room",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 39,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.25
+    },
+    {
+      "id": "remembered-dance-tunes",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 38,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.25
+    },
+    {
+      "id": "bible-river-and-road",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 52,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0
+    },
+    {
+      "id": "bible-parables-and-choices",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "birds-using-familiar-spaces",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.05
+    },
+    {
+      "id": "animals-around-the-farmyard",
+      "puzzles": 5,
+      "entries": 48,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 48,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.056
+    },
+    {
+      "id": "signs-of-rain",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "water-edges-after-weather",
+      "puzzles": 5,
+      "entries": 49,
+      "uniqueAnswers": 43,
+      "uniqueCluePairs": 49,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.111
+    },
+    {
+      "id": "gardens-after-cold",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.118
+    },
+    {
+      "id": "spring-outdoor-get-together",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "warm-day-by-the-water",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "summer-shade-and-breaks",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "fall-harvest-work",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "keeping-winter-wet-out",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "christmas-tree-care",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.176
+    },
+    {
+      "id": "thanksgiving-cleanup",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 50,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "easter-basket-details",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "halloween-costume-fixes",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "around-a-local-bus-route",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 46,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "welcoming-a-new-neighbor",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "clothesline-weather-choices",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.053
+    },
+    {
+      "id": "eating-at-the-diner",
+      "puzzles": 5,
+      "entries": 50,
+      "uniqueAnswers": 44,
+      "uniqueCluePairs": 50,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.105
+    },
+    {
+      "id": "sewing-for-the-kitchen",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 39,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.294
+    },
+    {
+      "id": "useful-things-in-the-car",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 45,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.167
+    },
+    {
+      "id": "local-show-opening",
+      "puzzles": 5,
+      "entries": 53,
+      "uniqueAnswers": 49,
+      "uniqueCluePairs": 53,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "household-fasteners",
+      "puzzles": 5,
+      "entries": 52,
+      "uniqueAnswers": 48,
+      "uniqueCluePairs": 52,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.1
+    },
+    {
+      "id": "small-community-meals",
+      "puzzles": 5,
+      "entries": 51,
+      "uniqueAnswers": 47,
+      "uniqueCluePairs": 51,
+      "uniqueIntroductions": 5,
+      "numberedTitles": 0,
+      "editedEditions": 5,
+      "highestExactClueJaccard": 0,
+      "highestAnswerJaccard": 0.111
     }
   ]
 }

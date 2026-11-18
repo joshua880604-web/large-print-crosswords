@@ -1,0 +1,298 @@
+[
+  {
+    "id": "sharing-books-locally",
+    "title": "A Little Library with a Loose Door",
+    "description": "A small exchange box needs a door that closes before its donated books get wet.",
+    "words": [
+      [
+        "HINGE",
+        "Joint allowing a door to swing"
+      ],
+      [
+        "BOOKS",
+        "Bound pages to read"
+      ],
+      [
+        "DONATE",
+        "Give something to help others"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "LATCH",
+        "Small fastening holding a gate shut"
+      ],
+      [
+        "TRADE",
+        "Exchange things with another person"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "REPAIR",
+        "Fix something that is damaged"
+      ]
+    ],
+    "requiredAnswers": [
+      "HINGE",
+      "BOOKS",
+      "DONATE"
+    ]
+  },
+  {
+    "id": "sharing-books-locally-2",
+    "title": "Choosing Books for a Sale Table",
+    "description": "Helpers sort the donated hardcovers apart from the light paperbacks before pricing them.",
+    "words": [
+      [
+        "BOOKS",
+        "Things sold in hardcover and paperback"
+      ],
+      [
+        "SALE",
+        "Event at which goods are offered for money"
+      ],
+      [
+        "PRICES",
+        "Amounts a shop charges"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ],
+      [
+        "COVER",
+        "Protective top placed over a dish during transport"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "FICTION",
+        "Stories made up by the writer"
+      ],
+      [
+        "NOVEL",
+        "Long fictional story usually written in prose"
+      ],
+      [
+        "COPY",
+        "One of several identical books or pages"
+      ],
+      [
+        "BROWSE",
+        "Look through a group of things at your own pace"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOOKS",
+      "SALE",
+      "PRICES"
+    ]
+  },
+  {
+    "id": "sharing-books-locally-3",
+    "title": "A Reading Group Chooses Next Month's Book",
+    "description": "At the end of a discussion the group settles on a title everyone can find.",
+    "words": [
+      [
+        "TITLE",
+        "Name of a book or song"
+      ],
+      [
+        "AUTHOR",
+        "Person credited with writing the text"
+      ],
+      [
+        "DISCUSS",
+        "Talk something over together"
+      ],
+      [
+        "VOTE",
+        "Choose by raising a hand or marking a ballot"
+      ],
+      [
+        "MONTH",
+        "Calendar division with a name such as April"
+      ],
+      [
+        "CHOOSE",
+        "Pick from several options"
+      ],
+      [
+        "GROUP",
+        "Several people or things together"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "MEET",
+        "To come together with someone, sounding like meat"
+      ],
+      [
+        "COPY",
+        "One of several identical books or pages"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ]
+    ],
+    "requiredAnswers": [
+      "TITLE",
+      "AUTHOR",
+      "DISCUSS"
+    ]
+  },
+  {
+    "id": "sharing-books-locally-4",
+    "title": "A Book That Needs a Larger Bookmark",
+    "description": "A sturdy marker can stay put in a heavy book without bending the corner of a page.",
+    "words": [
+      [
+        "BOOKMARK",
+        "Strip or object left between pages to mark one's place"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "MARK",
+        "Put a sign or line on something"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "RIBBON",
+        "Narrow decorative strip of fabric"
+      ],
+      [
+        "THICK",
+        "Having a dense consistency, as a concentrated soup"
+      ],
+      [
+        "CLOSED",
+        "Shut, like a locked store"
+      ],
+      [
+        "COVER",
+        "Protective top placed over a dish during transport"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOOKMARK",
+      "PAGE",
+      "CORNER"
+    ]
+  },
+  {
+    "id": "sharing-books-locally-5",
+    "title": "Finding a Book by Its Call Number",
+    "description": "Letters and numbers on a spine help a reader find a book on a crowded shelf.",
+    "words": [
+      [
+        "SPINE",
+        "Bound edge of a book visible when it stands on a shelf"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "SHELF",
+        "Board that holds books"
+      ],
+      [
+        "LABEL",
+        "Small written marker identifying something on a table"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ],
+      [
+        "LETTER",
+        "Written message mailed to someone"
+      ],
+      [
+        "CODE",
+        "System representing letters with agreed signal patterns"
+      ],
+      [
+        "ORDER",
+        "Request for food at a cafe"
+      ],
+      [
+        "BOOK",
+        "Bound pages inside a cover"
+      ],
+      [
+        "GUIDE",
+        "On-screen list of programs and viewing times"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of seats or shelves"
+      ],
+      [
+        "SECTION",
+        "Separate part of a larger whole"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPINE",
+      "NUMBER",
+      "SHELF"
+    ]
+  }
+]

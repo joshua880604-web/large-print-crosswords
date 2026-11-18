@@ -1,0 +1,298 @@
+[
+  {
+    "id": "food-on-the-griddle",
+    "title": "A Piece of Canadian Bacon",
+    "description": "A small round of lean pork heats through before it goes beside the eggs.",
+    "words": [
+      [
+        "PORK",
+        "Meat from a pig"
+      ],
+      [
+        "BACON",
+        "Cured pork served here in thick rounds"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "LEAN",
+        "Tilt against a support"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "EGGS",
+        "Foods with shells, whites, and yolks"
+      ],
+      [
+        "GRIDDLE",
+        "Flat heated surface for cooking pancakes"
+      ],
+      [
+        "HEAT",
+        "Energy supplied while the pottery is fired"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ],
+      [
+        "MEAT",
+        "Animal flesh used as food"
+      ],
+      [
+        "SERVE",
+        "To offer prepared food to someone"
+      ]
+    ],
+    "requiredAnswers": [
+      "PORK",
+      "BACON",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "food-on-the-griddle-2",
+    "title": "A Salmon Patty in the Skillet",
+    "description": "Flaked fish and crumbs hold together in a small round patty.",
+    "words": [
+      [
+        "SALMON",
+        "Pink-fleshed fish often served with lemon"
+      ],
+      [
+        "PATTY",
+        "A small flat round of ground meat or mashed food"
+      ],
+      [
+        "FLAKE",
+        "Separate a cooked fish into small thin pieces"
+      ],
+      [
+        "CRUMBS",
+        "Little bits that fall from bread or cake"
+      ],
+      [
+        "SKILLET",
+        "Heavy frying pan"
+      ],
+      [
+        "EGG",
+        "Oval food with a shell, white, and yolk"
+      ],
+      [
+        "FRY",
+        "Cook in a little hot oil"
+      ],
+      [
+        "BROWN",
+        "Earthy color often seen in tree bark"
+      ],
+      [
+        "MIX",
+        "Stir ingredients together"
+      ],
+      [
+        "ROUND",
+        "Circular rather than square"
+      ],
+      [
+        "DRAIN",
+        "Let liquid flow away"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ]
+    ],
+    "requiredAnswers": [
+      "SALMON",
+      "PATTY",
+      "FLAKE"
+    ]
+  },
+  {
+    "id": "food-on-the-griddle-3",
+    "title": "A Slice of Polenta on the Griddle",
+    "description": "Chilled cornmeal holds its shape long enough for a slice to brown on each side.",
+    "words": [
+      [
+        "POLENTA",
+        "A dish of cooked ground corn that can be sliced when cool"
+      ],
+      [
+        "CORNMEAL",
+        "Ground maize used in foods such as cornbread"
+      ],
+      [
+        "CHILL",
+        "Make cold before serving"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "FIRM",
+        "Not easily pressed out of shape"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "GOLDEN",
+        "Rich yellow in color"
+      ],
+      [
+        "FLIP",
+        "Turn a pancake over"
+      ],
+      [
+        "CAKE",
+        "Sweet baked dessert often covered with icing"
+      ],
+      [
+        "OIL",
+        "Cooking fat that is liquid at room temperature"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ]
+    ],
+    "requiredAnswers": [
+      "POLENTA",
+      "CORNMEAL",
+      "CHILL"
+    ]
+  },
+  {
+    "id": "food-on-the-griddle-4",
+    "title": "A Sweet Potato Cut into Coins",
+    "description": "Thin rounds soften and brown where their cut sides touch the pan.",
+    "words": [
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "COINS",
+        "Thin round pieces like small pieces of money"
+      ],
+      [
+        "ROUND",
+        "Circular course of crochet stitches"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "PEEL",
+        "Remove the outer skin of fruit"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "HEAT",
+        "Energy from the candles that warms the nearby air"
+      ],
+      [
+        "ORANGE",
+        "Round citrus fruit"
+      ],
+      [
+        "BROWN",
+        "Common color of a ripe acorn"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of fruit"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ]
+    ],
+    "requiredAnswers": [
+      "POTATO",
+      "COINS",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "food-on-the-griddle-5",
+    "title": "A Corn Fritter on a Cooling Rack",
+    "description": "Bits of sweet corn show through the hot batter as the fritter cools.",
+    "words": [
+      [
+        "FRITTER",
+        "Small bit of food fried in batter"
+      ],
+      [
+        "CORN",
+        "Vegetable with kernels growing on a cob"
+      ],
+      [
+        "BATTER",
+        "Pourable flour mixture"
+      ],
+      [
+        "KERNELS",
+        "Separate grains from an ear of corn"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "DROP",
+        "One small rounded amount of falling rain"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "OIL",
+        "Olive or canola, for example, when sold for cooking"
+      ],
+      [
+        "GOLDEN",
+        "Color of a well-browned biscuit"
+      ]
+    ],
+    "requiredAnswers": [
+      "FRITTER",
+      "CORN",
+      "BATTER"
+    ]
+  }
+]

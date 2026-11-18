@@ -15,9 +15,10 @@ test('sports collection offers adult everyday topics with playable and print lin
 
 test('music collection combines existing and new subjects and appears in the sitemap',async({page,request})=>{
  await page.goto('/music-crosswords/');
- await expect(page.locator('.puzzle-card')).toHaveCount(95);
+ await expect(page.locator('.puzzle-card')).toHaveCount(120);
  await page.getByLabel('Find a puzzle').fill('guitar');
- await expect(page.locator('[data-title]:visible')).toHaveCount(4);
+ await expect(page.locator('[data-title]:visible')).toHaveCount(9);
+ await expect(page.getByRole('link',{name:/A Pick Lost inside the Guitar/}).first()).toBeVisible();
  await expect(page.locator('link[rel=canonical]')).toHaveAttribute('href','https://largeprintcrosswords.com/music-crosswords/');
  const map=await(await request.get('/sitemap.xml')).text();
  expect(map).toContain('/music-crosswords/');expect(map).toContain('/sports-crosswords/');
@@ -29,9 +30,9 @@ for(const topic of [
  {path:'/geography-crosswords/',heading:'Geography crosswords in large print.',count:10,slug:'geography-journeys'},
  {path:'/american-history-crosswords/',heading:'American history crosswords in large print.',count:5,slug:'american-history-scenes'},
  {path:'/texas-crosswords/',heading:'Texas crosswords in large print.',count:5,slug:'texas-scenes'},
- {path:'/christmas-crosswords/',heading:'Christmas crossword puzzles in large print.',count:47,slug:'christmas-comforts'},
- {path:'/thanksgiving-crosswords/',heading:'Thanksgiving crossword puzzles in large print.',count:26,slug:'thanksgiving-sides'},
- {path:'/winter-crosswords/',heading:'Winter crossword puzzles in large print.',count:40,slug:'winter-backyard'}
+ {path:'/christmas-crosswords/',heading:'Christmas crossword puzzles in large print.',count:52,slug:'christmas-comforts'},
+ {path:'/thanksgiving-crosswords/',heading:'Thanksgiving crossword puzzles in large print.',count:31,slug:'thanksgiving-sides'},
+ {path:'/winter-crosswords/',heading:'Winter crossword puzzles in large print.',count:45,slug:'winter-backyard'}
 ])test(`new topic ${topic.path} links to real games, print sheets and a canonical collection`,async({page,request})=>{
  await page.goto('/');
  await expect(page.locator(`a[href="${topic.path}"]`)).toBeVisible();

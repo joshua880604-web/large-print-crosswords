@@ -40,7 +40,7 @@ test('a topic link replaces previous filters but keeps the reader’s selected p
  await expect(page.getByLabel('Find a puzzle')).toHaveValue('');
  await expect(page.getByRole('combobox',{name:'Theme',exact:true})).toHaveValue('');
  await expect(page.getByLabel('Holiday or season')).toHaveValue('christmas');
- await expect(page.locator('#pack-results')).toHaveText('47 puzzles shown.');
+ await expect(page.locator('#pack-results')).toHaveText('52 puzzles shown.');
  await expect(page.locator('input[value="garden-days"]')).toBeChecked();
  await expect(page.getByRole('button',{name:'Remove Garden Tools',exact:true})).toBeVisible();
  await page.getByRole('button',{name:'Remove Garden Tools',exact:true}).click();

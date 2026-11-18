@@ -1,0 +1,302 @@
+[
+  {
+    "id": "clothesline-weather-choices",
+    "title": "Hanging a Shirt by Its Hem",
+    "description": "Pinning the bottom keeps the shoulders free as the shirt sways on the line.",
+    "words": [
+      [
+        "SHIRT",
+        "Upper-body garment with sleeves"
+      ],
+      [
+        "HEM",
+        "Folded and stitched edge of cloth"
+      ],
+      [
+        "PIN",
+        "Small sharp fastener used before sewing"
+      ],
+      [
+        "LINE",
+        "Long narrow mark"
+      ],
+      [
+        "SWAY",
+        "To move gently back and forth in the wind"
+      ],
+      [
+        "SHOULDERS",
+        "Parts of the body where the arms meet the neck area"
+      ],
+      [
+        "SLEEVE",
+        "Shirt part covering an arm"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "BREEZE",
+        "Gentle light wind"
+      ],
+      [
+        "SNAP",
+        "Sharp cracking sound when something breaks"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHIRT",
+      "HEM",
+      "PIN"
+    ]
+  },
+  {
+    "id": "clothesline-weather-choices-2",
+    "title": "Taking Down a Line before a Storm",
+    "description": "A removable line can be coiled and set in the shed before a strong wind.",
+    "words": [
+      [
+        "LINE",
+        "Cord used to hang clothes"
+      ],
+      [
+        "STORM",
+        "Weather with strong wind and rain"
+      ],
+      [
+        "COIL",
+        "Wind into a series of loops"
+      ],
+      [
+        "SHED",
+        "Small building for storing garden tools"
+      ],
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ],
+      [
+        "ROPE",
+        "Strong thick cord"
+      ],
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ],
+      [
+        "TAKE",
+        "One recorded attempt at filming a scene"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ]
+    ],
+    "requiredAnswers": [
+      "LINE",
+      "STORM",
+      "COIL"
+    ]
+  },
+  {
+    "id": "clothesline-weather-choices-3",
+    "title": "Drying a Sweater Flat",
+    "description": "A towel beneath the sweater supports its shape while it dries.",
+    "words": [
+      [
+        "SWEATER",
+        "Knitted upper-body garment with sleeves"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ],
+      [
+        "DRY",
+        "Free of moisture on the surface"
+      ],
+      [
+        "WOOL",
+        "Warm fiber from sheep"
+      ],
+      [
+        "LAY",
+        "Put down flat"
+      ],
+      [
+        "DAMP",
+        "Slightly wet, rather than soaked"
+      ],
+      [
+        "SUPPORT",
+        "Structure helping a long rose cane stay in position"
+      ],
+      [
+        "CUFF",
+        "Band at a sleeve's wrist"
+      ],
+      [
+        "KNIT",
+        "Make fabric with yarn and needles"
+      ],
+      [
+        "STRETCH",
+        "To extend the body and limbs after resting"
+      ]
+    ],
+    "requiredAnswers": [
+      "SWEATER",
+      "FLAT",
+      "TOWEL"
+    ]
+  },
+  {
+    "id": "clothesline-weather-choices-4",
+    "title": "A Mesh Bag for Small Socks",
+    "description": "A bag with holes keeps small socks together as they dry in the open air.",
+    "words": [
+      [
+        "MESH",
+        "Open fabric that lets air pass through"
+      ],
+      [
+        "SOCKS",
+        "Soft coverings worn inside shoes"
+      ],
+      [
+        "HOLES",
+        "Open spaces through a material"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "DRY",
+        "Opposite of damp"
+      ],
+      [
+        "AIR",
+        "Mixture of gases we breathe"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "CLIP",
+        "Small fastener that holds things in place"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ]
+    ],
+    "requiredAnswers": [
+      "MESH",
+      "SOCKS",
+      "HOLES"
+    ]
+  },
+  {
+    "id": "clothesline-weather-choices-5",
+    "title": "A Sheet Dripping on the Bathroom Rod",
+    "description": "The tub catches the drops while the wet sheet hangs on the rod above it.",
+    "words": [
+      [
+        "SHEET",
+        "Large piece of bedding cloth"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "ROD",
+        "Straight bar that holds a shower curtain"
+      ],
+      [
+        "TUB",
+        "Large open container that can hold water"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "BATHROOM",
+        "Room with the tub or shower"
+      ],
+      [
+        "DROP",
+        "One small rounded amount of falling rain"
+      ],
+      [
+        "HANG",
+        "Attach so something dangles below"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "DAMP",
+        "Slightly wet rather than fully soaked"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHEET",
+      "DRIP",
+      "ROD"
+    ]
+  }
+]

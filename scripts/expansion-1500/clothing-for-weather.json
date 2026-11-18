@@ -1,0 +1,302 @@
+[
+  {
+    "id": "clothing-for-weather",
+    "title": "A Poncho Before the Downpour",
+    "description": "A loose rain cover slips over a jacket and leaves room to carry a bag beneath it.",
+    "words": [
+      [
+        "PONCHO",
+        "Loose rain covering slipped over the head"
+      ],
+      [
+        "HOOD",
+        "Attached head covering on many rain jackets"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "COAT",
+        "Cold-weather outer garment"
+      ],
+      [
+        "SLEEVE",
+        "Shirt part covering an arm"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ]
+    ],
+    "requiredAnswers": [
+      "PONCHO",
+      "HOOD",
+      "RAIN"
+    ]
+  },
+  {
+    "id": "clothing-for-weather-2",
+    "title": "A Windbreaker for a Breezy Walk",
+    "description": "A light jacket cuts the wind yet can roll up small when the air warms.",
+    "words": [
+      [
+        "JACKET",
+        "Short coat that covers the upper body"
+      ],
+      [
+        "BREEZE",
+        "Gentle light wind"
+      ],
+      [
+        "ZIPPER",
+        "Fastener closed by pulling a sliding tab"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ],
+      [
+        "CUFF",
+        "Band at a sleeve's wrist"
+      ],
+      [
+        "COLLAR",
+        "Folded band around a shirt's neckline"
+      ],
+      [
+        "POCKET",
+        "Small sewn pouch in clothing"
+      ],
+      [
+        "FOLD",
+        "Bring two sides together along a crease"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ]
+    ],
+    "requiredAnswers": [
+      "JACKET",
+      "BREEZE",
+      "ZIPPER"
+    ]
+  },
+  {
+    "id": "clothing-for-weather-3",
+    "title": "Boots with a Muddy Tread",
+    "description": "A stiff brush reaches the lines in the soles when the boots come off at the door.",
+    "words": [
+      [
+        "BOOTS",
+        "Footwear reaching above the ankles"
+      ],
+      [
+        "TREAD",
+        "Raised pattern on a tractor tire's running surface"
+      ],
+      [
+        "MUD",
+        "Wet soft earth beneath a pond visitor's boots"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool for applying paint"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "LINES",
+        "Long narrow marks"
+      ],
+      [
+        "SCRAPE",
+        "Remove material by dragging an edge across it"
+      ],
+      [
+        "MAT",
+        "Small flat covering used on a floor"
+      ],
+      [
+        "DIRT",
+        "Loose earth or soil"
+      ],
+      [
+        "RINSE",
+        "Wash with clean water"
+      ],
+      [
+        "RUBBER",
+        "Flexible material used in boots and tires"
+      ],
+      [
+        "DRY",
+        "Free of moisture on the surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOOTS",
+      "TREAD",
+      "MUD"
+    ]
+  },
+  {
+    "id": "clothing-for-weather-4",
+    "title": "A Hat with a Chin Strap",
+    "description": "A cord beneath the chin keeps a sun hat from lifting when the wind comes up.",
+    "words": [
+      [
+        "HAT",
+        "Head covering"
+      ],
+      [
+        "BRIM",
+        "Projecting edge around the lower part of a hat"
+      ],
+      [
+        "CHIN",
+        "Part of the face below the mouth"
+      ],
+      [
+        "STRAP",
+        "Carrying band attached to a bag"
+      ],
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "HEAD",
+        "Body part containing the eyes and mouth"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "SNUG",
+        "Close fitting and comfortable"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "DRAW",
+        "Chess result in which neither side wins"
+      ]
+    ],
+    "requiredAnswers": [
+      "HAT",
+      "BRIM",
+      "CHIN"
+    ]
+  },
+  {
+    "id": "clothing-for-weather-5",
+    "title": "A Coat Liner on a Mild Day",
+    "description": "A removable inner layer gives the same coat a warmer or cooler fit.",
+    "words": [
+      [
+        "LINER",
+        "Inner layer that can be taken out of a coat"
+      ],
+      [
+        "COAT",
+        "Outer garment worn over other clothes"
+      ],
+      [
+        "LAYER",
+        "One garment worn over or under another"
+      ],
+      [
+        "WARM",
+        "Comfortably heated rather than cold"
+      ],
+      [
+        "ZIPPER",
+        "Fastener whose interlocking rows close as a small piece slides along them"
+      ],
+      [
+        "BUTTON",
+        "Small round clothing fastener"
+      ],
+      [
+        "INSIDE",
+        "Within rather than outside"
+      ],
+      [
+        "REMOVE",
+        "Take something away"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "ATTACH",
+        "Fasten one thing to another"
+      ],
+      [
+        "SEAM",
+        "Line where fabric pieces are joined"
+      ],
+      [
+        "MILD",
+        "Not strongly flavored or spicy"
+      ]
+    ],
+    "requiredAnswers": [
+      "LINER",
+      "COAT",
+      "LAYER"
+    ]
+  }
+]

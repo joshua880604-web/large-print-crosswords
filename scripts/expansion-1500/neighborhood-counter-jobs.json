@@ -1,0 +1,302 @@
+[
+  {
+    "id": "neighborhood-counter-jobs",
+    "title": "Matching a Loose Screw at the Hardware Store",
+    "description": "The clerk checks a screw against a row of sample nuts to find the right size.",
+    "words": [
+      [
+        "SCREW",
+        "Threaded metal fastener"
+      ],
+      [
+        "NUT",
+        "Small metal fastener with a threaded hole"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing"
+      ],
+      [
+        "SIZE",
+        "Thickened liquid bath supporting colors in one paper-marbling method"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "SAMPLE",
+        "Small portion offered to try before buying"
+      ],
+      [
+        "BIN",
+        "Open compartment holding loose goods"
+      ],
+      [
+        "HEAD",
+        "Body part containing the eyes and mouth"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCREW",
+      "NUT",
+      "MATCH"
+    ]
+  },
+  {
+    "id": "neighborhood-counter-jobs-2",
+    "title": "A Picture Mat Cut to Fit",
+    "description": "A plain border separates the picture from the edge of its frame.",
+    "words": [
+      [
+        "MAT",
+        "Flat border between a picture and its frame"
+      ],
+      [
+        "BORDER",
+        "Strip along an outer edge"
+      ],
+      [
+        "FRAME",
+        "Border holding a picture"
+      ],
+      [
+        "OPENING",
+        "Space that lets you reach through"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "RULER",
+        "Straight measuring tool marked with units"
+      ],
+      [
+        "PICTURE",
+        "Image made with a camera or pencil"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "MOUNT",
+        "Attach a picture to a board for display"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ]
+    ],
+    "requiredAnswers": [
+      "MAT",
+      "BORDER",
+      "FRAME"
+    ]
+  },
+  {
+    "id": "neighborhood-counter-jobs-3",
+    "title": "A Suit Brought In for Pressing",
+    "description": "Steam and a careful press smooth the wrinkles without washing the cloth.",
+    "words": [
+      [
+        "SUIT",
+        "Matching jacket and trousers worn for a formal performance"
+      ],
+      [
+        "PRESS",
+        "Smooth cloth with a warm iron or machine"
+      ],
+      [
+        "STEAM",
+        "Mist from hot water used to relax wrinkles"
+      ],
+      [
+        "CREASE",
+        "Line made by sharply folding paper"
+      ],
+      [
+        "WRINKLE",
+        "Small unwanted fold in cloth"
+      ],
+      [
+        "HANGER",
+        "Shaped support on which a garment is hung"
+      ],
+      [
+        "CUFF",
+        "Band at a sleeve's wrist"
+      ],
+      [
+        "JACKET",
+        "Short coat that covers the upper body"
+      ],
+      [
+        "SLEEVE",
+        "Shirt part covering an arm"
+      ],
+      [
+        "CLOTH",
+        "Woven material"
+      ],
+      [
+        "TAG",
+        "Small label attached to an item"
+      ],
+      [
+        "HEM",
+        "Folded and stitched edge of cloth"
+      ]
+    ],
+    "requiredAnswers": [
+      "SUIT",
+      "PRESS",
+      "STEAM"
+    ]
+  },
+  {
+    "id": "neighborhood-counter-jobs-4",
+    "title": "A Chipped Mug Used as a Pencil Cup",
+    "description": "A mug with a broken grip can still be useful as a desk cup for pencils.",
+    "words": [
+      [
+        "MUG",
+        "Large handled drinking cup"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "PENCILS",
+        "Writing tools that can be erased"
+      ],
+      [
+        "CERAMIC",
+        "Made of baked clay"
+      ],
+      [
+        "BROKEN",
+        "In pieces or damaged"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "HOLDER",
+        "Something that keeps an object in place"
+      ],
+      [
+        "DESK",
+        "Worktable for writing"
+      ],
+      [
+        "CHIP",
+        "A small piece broken off an edge"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "PENS",
+        "Writing tools that use ink"
+      ],
+      [
+        "ROUND",
+        "Circular rather than square"
+      ]
+    ],
+    "requiredAnswers": [
+      "MUG",
+      "HANDLE",
+      "PENCILS"
+    ]
+  },
+  {
+    "id": "neighborhood-counter-jobs-5",
+    "title": "A Fresh Band on a Wristwatch",
+    "description": "The new strap should sit flat on the wrist and close at a comfortable hole.",
+    "words": [
+      [
+        "STRAP",
+        "Narrow band that holds a watch to the wrist"
+      ],
+      [
+        "BUCKLE",
+        "Frame and catch used to secure many belts"
+      ],
+      [
+        "WRIST",
+        "Joint between a hand and forearm"
+      ],
+      [
+        "WATCH",
+        "Small timepiece worn on the wrist"
+      ],
+      [
+        "LEATHER",
+        "Material made from treated animal hide"
+      ],
+      [
+        "PIN",
+        "Small sharp fastener used before sewing"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "FIT",
+        "To match the shape and space of a neighboring puzzle piece"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "SNUG",
+        "Close fitting and comfortable"
+      ],
+      [
+        "BAND",
+        "Flat strip that goes around something"
+      ],
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ]
+    ],
+    "requiredAnswers": [
+      "STRAP",
+      "BUCKLE",
+      "WRIST"
+    ]
+  }
+]

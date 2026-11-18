@@ -1,0 +1,298 @@
+[
+  {
+    "id": "signs-of-rain",
+    "title": "Rain Beads on a Leaf",
+    "description": "Small drops hold their round shape before they roll from a waxy leaf.",
+    "words": [
+      [
+        "BEADS",
+        "Small round drops"
+      ],
+      [
+        "DROPS",
+        "Small amounts of water that fall separately"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "WAXY",
+        "Smooth and water-resistant like wax"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "STAY",
+        "Remain in place"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "PLANT",
+        "Living greenery grown in soil"
+      ],
+      [
+        "TIP",
+        "Small pointed end of something"
+      ]
+    ],
+    "requiredAnswers": [
+      "BEADS",
+      "DROPS",
+      "LEAF"
+    ]
+  },
+  {
+    "id": "signs-of-rain-2",
+    "title": "A Stream Running Along the Curb",
+    "description": "Rainwater follows the low side of the street toward the drain.",
+    "words": [
+      [
+        "CURB",
+        "Raised roadside edge beside a bus boarding area"
+      ],
+      [
+        "STREAM",
+        "Small natural flowing watercourse"
+      ],
+      [
+        "DRAIN",
+        "Let liquid flow away"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "SLOPE",
+        "Inclined side of a hill or mountain"
+      ],
+      [
+        "GUTTER",
+        "Channel along a roof edge that carries away rainwater"
+      ],
+      [
+        "WATER",
+        "Liquid needed by plants"
+      ],
+      [
+        "LEAVES",
+        "Flat green parts of a plant"
+      ],
+      [
+        "GRATE",
+        "To rub food against a rough perforated surface to make small shreds"
+      ],
+      [
+        "LOW",
+        "Close to the ground"
+      ]
+    ],
+    "requiredAnswers": [
+      "CURB",
+      "STREAM",
+      "DRAIN"
+    ]
+  },
+  {
+    "id": "signs-of-rain-3",
+    "title": "The First Drops on Hot Pavement",
+    "description": "A few dark marks appear on the dry path before the whole surface turns wet.",
+    "words": [
+      [
+        "PAVEMENT",
+        "Hard surface of a road or path"
+      ],
+      [
+        "DROPS",
+        "What leaves individual wet dots before a shower"
+      ],
+      [
+        "SPOTS",
+        "Small marks on a surface"
+      ],
+      [
+        "HOT",
+        "Having a high temperature"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "WET",
+        "Covered with or containing liquid water"
+      ],
+      [
+        "SURFACE",
+        "Top layer of the water"
+      ],
+      [
+        "SHOWER",
+        "Brief period of falling rain"
+      ],
+      [
+        "STEAM",
+        "Water vapor rising from a hot kettle"
+      ],
+      [
+        "GRAY",
+        "Color between black and white"
+      ]
+    ],
+    "requiredAnswers": [
+      "PAVEMENT",
+      "DROPS",
+      "SPOTS"
+    ]
+  },
+  {
+    "id": "signs-of-rain-4",
+    "title": "A Rainbow in the Garden Sprayer",
+    "description": "Sunlight passing through a fine spray can show a small arc of colors.",
+    "words": [
+      [
+        "RAINBOW",
+        "Colored arc seen when sun shines through rain"
+      ],
+      [
+        "SPRAY",
+        "Send out water in fine drops"
+      ],
+      [
+        "ARC",
+        "Part of a circle's curved edge"
+      ],
+      [
+        "COLORS",
+        "Shades such as red, blue and green"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "MIST",
+        "Thin fog over water or land"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "HOSE",
+        "Flexible tube carrying water"
+      ],
+      [
+        "BLUE",
+        "Color of a clear daytime sky"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "ANGLE",
+        "Opening between two intersecting lines"
+      ]
+    ],
+    "requiredAnswers": [
+      "RAINBOW",
+      "SPRAY",
+      "ARC"
+    ]
+  },
+  {
+    "id": "signs-of-rain-5",
+    "title": "A Cloud that Hides the Hill",
+    "description": "Low cloud can make the far ridge gradually disappear from view.",
+    "words": [
+      [
+        "CLOUD",
+        "White or gray mass in the sky"
+      ],
+      [
+        "RIDGE",
+        "Long narrow crest of a mountain"
+      ],
+      [
+        "HILL",
+        "Raised area of land smaller than a mountain"
+      ],
+      [
+        "MIST",
+        "Suspended tiny droplets producing lighter obscuration than fog"
+      ],
+      [
+        "HIDE",
+        "Go where you cannot be seen"
+      ],
+      [
+        "LOW",
+        "Describing the tide at its lower level"
+      ],
+      [
+        "GRAY",
+        "Color between black and white"
+      ],
+      [
+        "VIEW",
+        "Scene seen from a place"
+      ],
+      [
+        "DISTANCE",
+        "Space between two places"
+      ],
+      [
+        "FOG",
+        "Thick mist that can hide the view of the coast"
+      ],
+      [
+        "EDGE",
+        "Outer part where a surface ends"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLOUD",
+      "RIDGE",
+      "HILL"
+    ]
+  }
+]

@@ -21,6 +21,9 @@ test('print directory opens the sheet directly and keeps answers and play separa
  await expect(page).toHaveURL(/\/print\/garden-days-answers\/\?layout=large$/);
  const context=await browser.newContext({javaScriptEnabled:false});
  try{
+  // Chromium eagerly fetches lazy images when JavaScript is disabled.
+  // This check exercises the catalog links and printable sheet.
+  await context.route('**/previews/*.svg',route=>route.abort());
   const plain=await context.newPage();await plain.goto('/printable/',{waitUntil:'domcontentloaded'});
   await plain.locator('a.puzzle-card[href="/print/garden-days/"]').click();
   await expect(plain.locator('.print-clues')).toBeVisible();

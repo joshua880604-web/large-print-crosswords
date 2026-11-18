@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bakery-slice-and-serve",
+    "title": "A Slice of Marble Cake",
+    "description": "Dark and light batter make a curled pattern through each cut piece.",
+    "words": [
+      [
+        "MARBLE",
+        "Word for cake with light and dark streaks"
+      ],
+      [
+        "SWIRL",
+        "Curved spiral pattern made in icing"
+      ],
+      [
+        "BATTER",
+        "Pourable flour mixture"
+      ],
+      [
+        "COCOA",
+        "Cacao powder used to add chocolate flavor"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "VANILLA",
+        "Sweet flavor often used in ice cream"
+      ],
+      [
+        "CRUMB",
+        "Tiny piece broken from bread"
+      ],
+      [
+        "LOAF",
+        "Whole shaped portion of baked bread"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "MIX",
+        "Stir ingredients together"
+      ],
+      [
+        "CAKE",
+        "Sweet baked dessert often covered with icing"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ]
+    ],
+    "requiredAnswers": [
+      "MARBLE",
+      "SWIRL",
+      "BATTER"
+    ]
+  },
+  {
+    "id": "bakery-slice-and-serve-2",
+    "title": "Breaking Apart a Pan of Rolls",
+    "description": "The soft sides pull apart where the rolls touched in the oven.",
+    "words": [
+      [
+        "ROLLS",
+        "Small pieces of bread baked separately"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "DOUGH",
+        "Unbaked mixture of flour and liquid"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "YEAST",
+        "Ingredient that makes bread dough rise"
+      ],
+      [
+        "RISE",
+        "Move upward"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "DIVIDE",
+        "Split into parts"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROLLS",
+      "PULL",
+      "CRUST"
+    ]
+  },
+  {
+    "id": "bakery-slice-and-serve-3",
+    "title": "The Cut Ends of a Jelly Roll",
+    "description": "The cuts show circles of fruit filling tucked into thin sponge cake.",
+    "words": [
+      [
+        "JELLY",
+        "Preserve commonly made from strained fruit juice"
+      ],
+      [
+        "SPIRAL",
+        "Winding path suggested by a screw's thread"
+      ],
+      [
+        "SPONGE",
+        "Light soft type of cake"
+      ],
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "FILLING",
+        "Mixture enclosed or supported by a pie crust"
+      ],
+      [
+        "JAM",
+        "Fruit preserve that might be entered in a canning contest"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "SLICE",
+        "One serving cut from a cake"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "SUGAR",
+        "Sweet crystals used in baking"
+      ]
+    ],
+    "requiredAnswers": [
+      "JELLY",
+      "SPIRAL",
+      "SPONGE"
+    ]
+  },
+  {
+    "id": "bakery-slice-and-serve-4",
+    "title": "A Wedge of Lemon Bar",
+    "description": "A sunny lemon topping sets over a buttery base and takes a dusting of sugar.",
+    "words": [
+      [
+        "LEMON",
+        "Yellow citrus fruit commonly used for a sharp juice"
+      ],
+      [
+        "TART",
+        "Sharp and sour in taste"
+      ],
+      [
+        "ZEST",
+        "Colored outermost citrus skin used for flavor"
+      ],
+      [
+        "BASE",
+        "Lowest supporting part"
+      ],
+      [
+        "SUGAR",
+        "Sweetener commonly spooned into tea"
+      ],
+      [
+        "DUST",
+        "Fine dirt settled on furniture"
+      ],
+      [
+        "WEDGE",
+        "Piece of fruit cut wider at one edge"
+      ],
+      [
+        "CRUST",
+        "Baked pastry shell around a pie"
+      ],
+      [
+        "BUTTERY",
+        "Tasting of butter"
+      ],
+      [
+        "CHILL",
+        "Make cold before serving"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal sides"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ]
+    ],
+    "requiredAnswers": [
+      "LEMON",
+      "TART",
+      "ZEST"
+    ]
+  },
+  {
+    "id": "bakery-slice-and-serve-5",
+    "title": "A Cream Puff in a Paper Cup",
+    "description": "A hollow baked shell holds a spoonful of soft cream.",
+    "words": [
+      [
+        "PUFF",
+        "A light pastry shell often filled with cream"
+      ],
+      [
+        "CREAM",
+        "Rich fatty part of milk"
+      ],
+      [
+        "SHELL",
+        "Hard outer covering"
+      ],
+      [
+        "HOLLOW",
+        "Empty inside"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "PASTRY",
+        "Dough used to make a pie shell"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "SPLIT",
+        "Divide into two parts"
+      ],
+      [
+        "FILL",
+        "Put contents into an empty container"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "PLAIN",
+        "Large area of relatively level land"
+      ]
+    ],
+    "requiredAnswers": [
+      "PUFF",
+      "CREAM",
+      "SHELL"
+    ]
+  }
+]

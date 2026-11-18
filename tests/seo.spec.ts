@@ -29,11 +29,15 @@ test('print copies and missing pages are excluded from indexing',async({page,req
 });
 
 test('collections keep every puzzle crawlable without scripts and load compact previews',async({browser,request})=>{
- // This audits two complete 1,200-card catalogs with scripts disabled. Chromium
- // also loads their image resources without native lazy loading in this mode.
  test.setTimeout(90_000);
+ const puzzle=puzzles.find(p=>p.rows!==p.cols)!;
+ const preview=`/previews/${puzzle.id}-v${puzzle.revision||1}.svg`;
  const context=await browser.newContext({javaScriptEnabled:false}),page=await context.newPage();
  try{
+  // Without scripts Chromium eagerly fetches all lazy images. Load the preview
+  // used by the rendering assertion and inspect every other preview in the DOM.
+  await context.route('**/previews/*.svg',route=>
+   new URL(route.request().url()).pathname===preview?route.continue():route.abort());
   for(const path of ['/crosswords/','/printable/']){
    // Crawlability requires the complete DOM; individual previews are checked below.
    await page.goto(path,{waitUntil:'domcontentloaded'});
@@ -49,8 +53,7 @@ test('collections keep every puzzle crawlable without scripts and load compact p
    await expect(page.locator('.puzzle-card img[loading="lazy"][alt=""]')).toHaveCount(puzzles.length);
   }
   // A rectangular preview must keep its real board geometry and clue numbers.
-  const puzzle=puzzles.find(p=>p.rows!==p.cols)!;
-  const response=await request.get(`/previews/${puzzle.id}-v${puzzle.revision||1}.svg`);
+  const response=await request.get(preview);
   expect(response.status()).toBe(200);expect(response.headers()['content-type']).toContain('image/svg+xml');
   const svg=await response.text();
   expect(svg).toContain(`viewBox="0 0 ${puzzle.cols*24} ${puzzle.rows*24}"`);

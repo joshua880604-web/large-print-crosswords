@@ -1,0 +1,302 @@
+[
+  {
+    "id": "garden-season-decisions",
+    "title": "A Spot that Dries Last",
+    "description": "A low patch stays damp after the rest of the garden path has dried.",
+    "words": [
+      [
+        "LOW",
+        "Close to the ground"
+      ],
+      [
+        "DAMP",
+        "Slightly wet, rather than soaked"
+      ],
+      [
+        "PUDDLE",
+        "Small shallow pool of rainwater on the ground"
+      ],
+      [
+        "DRAIN",
+        "Let liquid flow away"
+      ],
+      [
+        "SLOPE",
+        "Inclined side of a hill or mountain"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "GRAVEL",
+        "Small stones spread on a garden path"
+      ],
+      [
+        "SAND",
+        "Fine loose grains on a beach"
+      ],
+      [
+        "MUD",
+        "Wet soft earth beneath a pond visitor's boots"
+      ],
+      [
+        "PATCH",
+        "Small piece of fabric for a repair"
+      ]
+    ],
+    "requiredAnswers": [
+      "LOW",
+      "DAMP",
+      "PUDDLE"
+    ]
+  },
+  {
+    "id": "garden-season-decisions-2",
+    "title": "A Dry Patch Under the Eaves",
+    "description": "Even after a good rain, soil beneath the roof overhang can stay dry.",
+    "words": [
+      [
+        "EAVES",
+        "Roof edges that stick out past the walls"
+      ],
+      [
+        "GUTTER",
+        "Channel along a roof edge that carries away rainwater"
+      ],
+      [
+        "SHELTER",
+        "Covered place offering protection from weather"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "ROOF",
+        "Top covering of a building"
+      ],
+      [
+        "DROP",
+        "One small rounded amount of falling rain"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "DUST",
+        "Fine dirt settled on furniture"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ]
+    ],
+    "requiredAnswers": [
+      "EAVES",
+      "GUTTER",
+      "SHELTER"
+    ]
+  },
+  {
+    "id": "garden-season-decisions-3",
+    "title": "The Windy Side of the Garden",
+    "description": "A break in the wind gives tall vegetables a quieter place to stand.",
+    "words": [
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ],
+      [
+        "FENCE",
+        "Barrier built around a yard"
+      ],
+      [
+        "SHELTER",
+        "Place protected from direct wind"
+      ],
+      [
+        "GUST",
+        "Sudden brief increase in wind strength"
+      ],
+      [
+        "BEND",
+        "To curve under the force of a strong gust"
+      ],
+      [
+        "SCREEN",
+        "Mesh that keeps insects out"
+      ],
+      [
+        "TALL",
+        "High from bottom to top"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "STAKE",
+        "Upright support for a garden plant"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "BLOCK",
+        "Get in the way of something"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ]
+    ],
+    "requiredAnswers": [
+      "WIND",
+      "FENCE",
+      "SHELTER"
+    ]
+  },
+  {
+    "id": "garden-season-decisions-4",
+    "title": "A South-Facing Brick Wall",
+    "description": "Sun-warmed bricks give off heat after the brightest part of the afternoon.",
+    "words": [
+      [
+        "BRICK",
+        "Rectangular building block"
+      ],
+      [
+        "SOUTH",
+        "Compass direction opposite north"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "WALL",
+        "Upright side of a gingerbread building"
+      ],
+      [
+        "HEAT",
+        "Energy supplied while the pottery is fired"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "FACE",
+        "Front of the head"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "EVENING",
+        "Later part of the day"
+      ],
+      [
+        "HOLD",
+        "Keep in place"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ],
+      [
+        "SHADE",
+        "Cool area out of sunlight"
+      ]
+    ],
+    "requiredAnswers": [
+      "BRICK",
+      "SOUTH",
+      "WARM"
+    ]
+  },
+  {
+    "id": "garden-season-decisions-5",
+    "title": "A Pale Place Under the Lawn Chair",
+    "description": "Grass hidden beneath a chair gets less light than the blades around it.",
+    "words": [
+      [
+        "GRASS",
+        "Green plant covering a lawn"
+      ],
+      [
+        "PALE",
+        "Light in color"
+      ],
+      [
+        "LAWN",
+        "Area of closely cut grass"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "SHADE",
+        "Area sheltered from direct sunlight"
+      ],
+      [
+        "PATCH",
+        "Separate piece of fabric sewn over a damaged area"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "BLADE",
+        "Broad flat part of a tool that cuts or digs"
+      ],
+      [
+        "LEG",
+        "Limb used for walking"
+      ],
+      [
+        "GROW",
+        "Become bigger"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRASS",
+      "PALE",
+      "LAWN"
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "town-events-behind-scenes",
+    "title": "A Roll of Tickets at the Door",
+    "description": "A volunteer tears off an admission ticket while the next guest waits.",
+    "words": [
+      [
+        "TICKET",
+        "Printed proof of admission"
+      ],
+      [
+        "ROLL",
+        "Long strip wound into a coil"
+      ],
+      [
+        "TEAR",
+        "Pull something apart with your hands"
+      ],
+      [
+        "STUB",
+        "Portion of a paper admission ticket kept after entry"
+      ],
+      [
+        "ADMIT",
+        "Let someone come in"
+      ],
+      [
+        "ENTRY",
+        "An item submitted for a competition"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "LINE",
+        "Long narrow mark"
+      ],
+      [
+        "GUEST",
+        "Person invited to a home or event"
+      ],
+      [
+        "CASH",
+        "Money paid as bills or coins"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ]
+    ],
+    "requiredAnswers": [
+      "TICKET",
+      "ROLL",
+      "TEAR"
+    ]
+  },
+  {
+    "id": "town-events-behind-scenes-2",
+    "title": "Setting Up a Coat Check",
+    "description": "Numbered tags keep similar coats and scarves from going home with the wrong people.",
+    "words": [
+      [
+        "COAT",
+        "Cold-weather outer garment"
+      ],
+      [
+        "TAG",
+        "Small label attached to an item"
+      ],
+      [
+        "NUMBER",
+        "Sequence of digits identifying a telephone connection"
+      ],
+      [
+        "CLAIM",
+        "Ask to have a lost item returned"
+      ],
+      [
+        "HANGER",
+        "Shaped support on which a garment is hung"
+      ],
+      [
+        "SCARF",
+        "Long cloth worn around the neck"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ],
+      [
+        "OWNER",
+        "Person to whom something belongs"
+      ]
+    ],
+    "requiredAnswers": [
+      "COAT",
+      "TAG",
+      "NUMBER"
+    ]
+  },
+  {
+    "id": "town-events-behind-scenes-3",
+    "title": "Testing the Hall Microphone",
+    "description": "A voice at the front should reach someone in the last row clearly.",
+    "words": [
+      [
+        "MICROPHONE",
+        "Device you speak into so a room can hear"
+      ],
+      [
+        "VOICE",
+        "Sound made when speaking"
+      ],
+      [
+        "SOUND",
+        "Something you can hear"
+      ],
+      [
+        "SPEAKER",
+        "Device that produces a television's sound"
+      ],
+      [
+        "VOLUME",
+        "Control setting that makes recorded sound louder or softer"
+      ],
+      [
+        "TEST",
+        "Trial made to observe how an aircraft design performs"
+      ],
+      [
+        "STAND",
+        "Support that holds an object upright"
+      ],
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "HEAR",
+        "Notice sound with the ears"
+      ],
+      [
+        "ECHO",
+        "Repeating sound used as a comparison for an answering entry"
+      ],
+      [
+        "ROW",
+        "Line of things side by side"
+      ]
+    ],
+    "requiredAnswers": [
+      "MICROPHONE",
+      "VOICE",
+      "SOUND"
+    ]
+  },
+  {
+    "id": "town-events-behind-scenes-4",
+    "title": "Counting the Seats in the Hall",
+    "description": "The aisle stays clear between rows of chairs set out before the meeting.",
+    "words": [
+      [
+        "AISLE",
+        "Passage between rows of seats or shelves"
+      ],
+      [
+        "CHAIRS",
+        "Seats with backs"
+      ],
+      [
+        "ROWS",
+        "Lines of seats or objects"
+      ],
+      [
+        "SEATS",
+        "Places for people to sit"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ],
+      [
+        "SPACE",
+        "Gap left between things"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ],
+      [
+        "MEETING",
+        "Gathering to discuss plans"
+      ],
+      [
+        "FRONT",
+        "Boundary between air masses with different characteristics"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "ATTEND",
+        "Go to an event"
+      ]
+    ],
+    "requiredAnswers": [
+      "AISLE",
+      "CHAIRS",
+      "ROWS"
+    ]
+  },
+  {
+    "id": "town-events-behind-scenes-5",
+    "title": "A Sign for a Closed Entrance",
+    "description": "An arrow sends visitors around the building to the door that is still open.",
+    "words": [
+      [
+        "ARROW",
+        "Pointed sign shape directing attention toward an entrance"
+      ],
+      [
+        "ENTRANCE",
+        "Way into a building"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "CLOSED",
+        "Shut, like a locked store"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "EXIT",
+        "To leave the visible acting area"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "NOTICE",
+        "Written announcement for people to read"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ]
+    ],
+    "requiredAnswers": [
+      "ARROW",
+      "ENTRANCE",
+      "SIGN"
+    ]
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "around-a-local-bus-route",
+    "title": "Finding the Right Side of the Street",
+    "description": "The two stops have similar signs, so the direction of the route matters.",
+    "words": [
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "DIRECTION",
+        "The way you are headed"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "BUS",
+        "Large road vehicle carrying passengers along a public route"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "OPPOSITE",
+        "Across from or facing the other way"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "CHECK",
+        "Look over to make sure something is right"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "CROSS",
+        "Mark formed by two intersecting lines"
+      ],
+      [
+        "MAP",
+        "Drawing showing roads and places"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROUTE",
+      "STREET",
+      "DIRECTION"
+    ]
+  },
+  {
+    "id": "around-a-local-bus-route-2",
+    "title": "A Seat Beside the Bus Window",
+    "description": "A passenger can watch for a landmark and stand after the bus stops.",
+    "words": [
+      [
+        "PASSENGER",
+        "Rider who is not driving"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "BUS",
+        "Large road vehicle carrying many passengers"
+      ],
+      [
+        "LANDMARK",
+        "An easily recognized place along a route"
+      ],
+      [
+        "WATCH",
+        "Small timepiece worn on the wrist"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "RIDE",
+        "Travel on a vehicle or amusement attraction"
+      ],
+      [
+        "SIT",
+        "Command asking a dog to rest on its haunches"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of seats or shelves"
+      ],
+      [
+        "VIEW",
+        "Scene seen from a place"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ]
+    ],
+    "requiredAnswers": [
+      "PASSENGER",
+      "SEAT",
+      "WINDOW"
+    ]
+  },
+  {
+    "id": "around-a-local-bus-route-3",
+    "title": "The Cord for the Next Stop",
+    "description": "A pull alerts the driver that someone wants to get off at the next marked stop.",
+    "words": [
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "DRIVER",
+        "Person operating a local passenger bus"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "ALERT",
+        "Give someone a signal"
+      ],
+      [
+        "NEXT",
+        "Immediately following this one"
+      ],
+      [
+        "STOP",
+        "Designated place where a public bus picks up riders"
+      ],
+      [
+        "RING",
+        "Circular band"
+      ],
+      [
+        "SIGNAL",
+        "Railway indication telling a train whether or how to proceed"
+      ],
+      [
+        "EXIT",
+        "To leave the visible acting area"
+      ],
+      [
+        "RIDER",
+        "Person riding a bus or bicycle"
+      ],
+      [
+        "REQUEST",
+        "Ask for something to happen"
+      ]
+    ],
+    "requiredAnswers": [
+      "CORD",
+      "DRIVER",
+      "PULL"
+    ]
+  },
+  {
+    "id": "around-a-local-bus-route-4",
+    "title": "A Bus Pass in the Front Pocket",
+    "description": "Keeping the pass in the same place saves searching when it is time to board.",
+    "words": [
+      [
+        "PASS",
+        "Card that lets you ride the bus"
+      ],
+      [
+        "POCKET",
+        "Small sewn pouch in clothing"
+      ],
+      [
+        "FARE",
+        "Charge paid for a ride on a public bus"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "RIDE",
+        "Journey made aboard the streetcar"
+      ],
+      [
+        "DRIVER",
+        "Person operating the streetcar"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "READY",
+        "All set to begin"
+      ],
+      [
+        "FRONT",
+        "Boundary between air masses with different characteristics"
+      ],
+      [
+        "REACH",
+        "Stretch out an arm to get something"
+      ],
+      [
+        "ENTRY",
+        "An item submitted for a competition"
+      ],
+      [
+        "CHECK",
+        "Bank payment written on a small form"
+      ]
+    ],
+    "requiredAnswers": [
+      "PASS",
+      "POCKET",
+      "FARE"
+    ]
+  },
+  {
+    "id": "around-a-local-bus-route-5",
+    "title": "Changing Buses across the Square",
+    "description": "A rider checks the second route and allows time to reach its stop on foot.",
+    "words": [
+      [
+        "TRANSFER",
+        "Pass or permission allowing a rider to change to another bus"
+      ],
+      [
+        "ROUTE",
+        "Planned path followed by a holiday parade"
+      ],
+      [
+        "SQUARE",
+        "Open public space where streets meet"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "SECOND",
+        "Time unit making up one-sixtieth of a minute"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "MAP",
+        "Drawing showing the area covered by a weather report"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "CROSS",
+        "Shape marked on top of a familiar spiced holiday bun"
+      ],
+      [
+        "CONNECT",
+        "Join two things"
+      ],
+      [
+        "RIDE",
+        "Journey made aboard the streetcar"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRANSFER",
+      "ROUTE",
+      "SQUARE"
+    ]
+  }
+]

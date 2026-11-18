@@ -2,9 +2,9 @@ import {test,expect} from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
 const collections=[
- ['gardening',80],['flower',30],['nature',110],['food',110],['everyday',140],
- ['hobby',100],['nostalgia',45],['bible',60],['spring',30],['summer',25],
- ['autumn',25],['easter',20],['halloween',10]
+ ['gardening',100],['flower',35],['nature',130],['food',140],['everyday',225],
+ ['hobby',135],['nostalgia',65],['bible',70],['spring',40],['summer',35],
+ ['autumn',30],['easter',25],['halloween',15]
 ] as const;
 for(const [slug,count] of collections)test(`${slug} collection has actual games and clean navigation`,async({page,request})=>{
  const path=`/${slug}-crosswords/`;
@@ -24,7 +24,7 @@ for(const [slug,count] of collections)test(`${slug} collection has actual games 
 test('optional Bible scenes are identified and collections fit a phone',async({page})=>{
  await page.setViewportSize({width:390,height:844});
  await page.goto('/bible-crosswords/');
- await expect(page.getByText(/optional collection of 60 basic Bible/)).toBeVisible();
+ await expect(page.getByText(/optional collection of 70 basic Bible/)).toBeVisible();
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBeTruthy();
  expect((await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze()).violations).toEqual([]);
  await page.goto('/crosswords/bible-beginnings/');

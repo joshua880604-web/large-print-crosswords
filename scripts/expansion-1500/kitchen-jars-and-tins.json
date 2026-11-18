@@ -1,0 +1,294 @@
+[
+  {
+    "id": "kitchen-jars-and-tins",
+    "title": "Pimentos from a Little Jar",
+    "description": "Soft red pepper strips add color to a cheese spread.",
+    "words": [
+      [
+        "PIMENTO",
+        "A mild red pepper often sold in small jars"
+      ],
+      [
+        "PEPPER",
+        "Hollow vegetable with seeds clustered inside"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "STRIPS",
+        "Long narrow pieces"
+      ],
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "DRAIN",
+        "Let liquid flow away"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ]
+    ],
+    "requiredAnswers": [
+      "PIMENTO",
+      "PEPPER",
+      "RED"
+    ]
+  },
+  {
+    "id": "kitchen-jars-and-tins-2",
+    "title": "The Ring Pull on a Tuna Can",
+    "description": "The little metal loop lifts the lid before the fish is tipped into a bowl.",
+    "words": [
+      [
+        "TUNA",
+        "Fish often mixed with mayonnaise for sandwiches"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "TAB",
+        "Small projecting flap or label"
+      ],
+      [
+        "RING",
+        "Circular band"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "LID",
+        "Cover fitted over a pot"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "FISH",
+        "Water animal with fins and gills"
+      ],
+      [
+        "FORK",
+        "Eating tool with prongs"
+      ],
+      [
+        "DRAIN",
+        "To allow water to move through a growing mixture"
+      ],
+      [
+        "TIN",
+        "Metal container with a lid"
+      ],
+      [
+        "SALAD",
+        "Cold dish of mixed vegetables"
+      ]
+    ],
+    "requiredAnswers": [
+      "TUNA",
+      "CAN",
+      "TAB"
+    ]
+  },
+  {
+    "id": "kitchen-jars-and-tins-3",
+    "title": "A Scoop of Sauerkraut from a Jar",
+    "description": "Sour cabbage strands go into a bowl beside the supper plates.",
+    "words": [
+      [
+        "SAUERKRAUT",
+        "Sour cabbage preserved in salt"
+      ],
+      [
+        "CABBAGE",
+        "Leafy head vegetable often shredded for coleslaw"
+      ],
+      [
+        "SOUR",
+        "Tart in taste, like a lemon"
+      ],
+      [
+        "STRANDS",
+        "Long narrow pieces like lengths of thread"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "BRINE",
+        "Salt dissolved in water"
+      ],
+      [
+        "DRAIN",
+        "Pour cooking water away from boiled potatoes"
+      ],
+      [
+        "TANGY",
+        "Pleasantly sharp in taste"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "FORK",
+        "Pronged utensil used with a knife"
+      ],
+      [
+        "SHRED",
+        "To cut food into long narrow strips"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ]
+    ],
+    "requiredAnswers": [
+      "SAUERKRAUT",
+      "CABBAGE",
+      "SOUR"
+    ]
+  },
+  {
+    "id": "kitchen-jars-and-tins-4",
+    "title": "Roasted Peanuts from a Tin",
+    "description": "The tin's tight top keeps the salty nuts crisp until they are poured out.",
+    "words": [
+      [
+        "PEANUTS",
+        "Shelled or unshelled nuts sometimes offered to birds"
+      ],
+      [
+        "TIN",
+        "Metal container with a lid"
+      ],
+      [
+        "ROAST",
+        "Cook with dry heat in an oven"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "NUTS",
+        "Almonds and walnuts, in everyday food language"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "SNACK",
+        "Small food serving between meals"
+      ],
+      [
+        "SEAL",
+        "Close tightly to prevent leaks"
+      ],
+      [
+        "LID",
+        "Cover fitted over a pot"
+      ],
+      [
+        "PARTY",
+        "Gathering held to celebrate"
+      ],
+      [
+        "BOWL",
+        "Rounded dish for soup or cereal"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEANUTS",
+      "TIN",
+      "ROAST"
+    ]
+  },
+  {
+    "id": "kitchen-jars-and-tins-5",
+    "title": "Sliced Beets for a Cold Plate",
+    "description": "Red beet rounds can stain the plate as their juice runs out of the jar.",
+    "words": [
+      [
+        "BEETS",
+        "Deep red root vegetables"
+      ],
+      [
+        "RED",
+        "Bright color of many cherries"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "SLICED",
+        "Cut into thin pieces"
+      ],
+      [
+        "STAIN",
+        "Wood-coloring treatment that can leave the grain visible"
+      ],
+      [
+        "ROOT",
+        "Plant part taking up water below ground"
+      ],
+      [
+        "SALAD",
+        "Leafy side dish with dressing"
+      ],
+      [
+        "JAR",
+        "Glass food container often closed with a screw-on lid"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "FORK",
+        "Pronged utensil used with a knife"
+      ]
+    ],
+    "requiredAnswers": [
+      "BEETS",
+      "RED",
+      "JUICE"
+    ]
+  }
+]

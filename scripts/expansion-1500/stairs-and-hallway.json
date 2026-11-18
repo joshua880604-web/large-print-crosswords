@@ -1,0 +1,302 @@
+[
+  {
+    "id": "stairs-and-hallway",
+    "title": "A Rug That Slips on the Landing",
+    "description": "A pad under the rug helps keep its edge from moving underfoot.",
+    "words": [
+      [
+        "RUG",
+        "Floor covering placed beside the chair"
+      ],
+      [
+        "PAD",
+        "Small soft cushion placed under something"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "LANDING",
+        "Flat place where a staircase ends or turns"
+      ],
+      [
+        "SLIP",
+        "Assigned narrow space where a boat is berthed"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "MAT",
+        "Small flat covering used on a floor"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ]
+    ],
+    "requiredAnswers": [
+      "RUG",
+      "PAD",
+      "GRIP"
+    ]
+  },
+  {
+    "id": "stairs-and-hallway-2",
+    "title": "A Bulb Above the Back Stairs",
+    "description": "After the switch is turned on, the new bulb makes the bottom step easier to see.",
+    "words": [
+      [
+        "BULB",
+        "Screw-in glass part that lights up"
+      ],
+      [
+        "SWITCH",
+        "Control that turns an electrical device on or off"
+      ],
+      [
+        "STAIRS",
+        "Indoor steps between floors"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "SOCKET",
+        "Fitting a light bulb screws into"
+      ],
+      [
+        "STEP",
+        "One movement of a dancer's foot"
+      ],
+      [
+        "GLOW",
+        "Shine with a soft light"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "CEILING",
+        "Top inside surface of a room"
+      ],
+      [
+        "SHADOW",
+        "Darker area formed where light is blocked"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ]
+    ],
+    "requiredAnswers": [
+      "BULB",
+      "SWITCH",
+      "STAIRS"
+    ]
+  },
+  {
+    "id": "stairs-and-hallway-3",
+    "title": "A Bag Hook by the Side Door",
+    "description": "A hook near the entrance keeps a shopping bag off the floor.",
+    "words": [
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "SCREW",
+        "Threaded metal fastener"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "WALL",
+        "Upright side of a gingerbread building"
+      ],
+      [
+        "REACH",
+        "Stretch out an arm to get something"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "STRAP",
+        "Carrying band attached to a bag"
+      ],
+      [
+        "LOAD",
+        "Cargo or weight supported by a wheeled vehicle"
+      ],
+      [
+        "WOOD",
+        "Material from the trunk or branches of a tree"
+      ],
+      [
+        "HOLD",
+        "Keep in place"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ]
+    ],
+    "requiredAnswers": [
+      "HOOK",
+      "BAG",
+      "SCREW"
+    ]
+  },
+  {
+    "id": "stairs-and-hallway-4",
+    "title": "A Mirror at the End of the Hall",
+    "description": "A wall mirror reflects the doorway and gives the narrow hall more light.",
+    "words": [
+      [
+        "MIRROR",
+        "Reflective surface used to form an image"
+      ],
+      [
+        "REFLECT",
+        "Send light back, as a mirror does"
+      ],
+      [
+        "HALL",
+        "Passage inside an entrance"
+      ],
+      [
+        "FRAME",
+        "Border holding a picture"
+      ],
+      [
+        "GLASS",
+        "Clear material used for windows"
+      ],
+      [
+        "WALL",
+        "Upright side of a small built shelter"
+      ],
+      [
+        "IMAGE",
+        "Sensory picture suggested by descriptive language"
+      ],
+      [
+        "HANG",
+        "Attach so something dangles below"
+      ],
+      [
+        "ANGLE",
+        "Opening between two intersecting lines"
+      ],
+      [
+        "NARROW",
+        "Not very wide"
+      ],
+      [
+        "WIDE",
+        "Opposite of narrow when describing width"
+      ],
+      [
+        "SHINE",
+        "Give off or reflect bright light"
+      ]
+    ],
+    "requiredAnswers": [
+      "MIRROR",
+      "REFLECT",
+      "HALL"
+    ]
+  },
+  {
+    "id": "stairs-and-hallway-5",
+    "title": "A Basket for Shoes in the Entry",
+    "description": "Keeping pairs together makes it easier to find both shoes before leaving.",
+    "words": [
+      [
+        "SHOES",
+        "Footwear with soles"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "ENTRY",
+        "An item submitted for a competition"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ],
+      [
+        "LACES",
+        "Cords used to tie shoes"
+      ],
+      [
+        "BOOTS",
+        "Footwear reaching above the ankles"
+      ],
+      [
+        "HEELS",
+        "Back parts of shoes below the ankles"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "BENCH",
+        "Long seat for several people"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "FLOOR",
+        "Hotel building level, abbreviated fl."
+      ]
+    ],
+    "requiredAnswers": [
+      "SHOES",
+      "PAIR",
+      "BASKET"
+    ]
+  }
+]

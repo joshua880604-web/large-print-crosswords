@@ -1,0 +1,302 @@
+[
+  {
+    "id": "welcoming-a-new-neighbor",
+    "title": "A Map to the Nearest Grocery",
+    "description": "A few turns on a simple sketch can help a new neighbor find a shop on foot.",
+    "words": [
+      [
+        "MAP",
+        "Drawing showing roads and places"
+      ],
+      [
+        "GROCERY",
+        "Short name for a store that sells food"
+      ],
+      [
+        "SKETCH",
+        "Quick preliminary drawing for a picture"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "WALK",
+        "Move on foot"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "BLOCK",
+        "Get in the way of something"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "NEAR",
+        "Close in distance to the target ball"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "ARROW",
+        "Pointed sign shape directing attention toward an entrance"
+      ]
+    ],
+    "requiredAnswers": [
+      "MAP",
+      "GROCERY",
+      "SKETCH"
+    ]
+  },
+  {
+    "id": "welcoming-a-new-neighbor-2",
+    "title": "A Note about Trash Day",
+    "description": "A note on the refrigerator tells the household when the bins go to the curb.",
+    "words": [
+      [
+        "TRASH",
+        "Things thrown away"
+      ],
+      [
+        "CURB",
+        "Raised roadside edge beside a bus boarding area"
+      ],
+      [
+        "BINS",
+        "Large containers for storing or sorting things"
+      ],
+      [
+        "DAY",
+        "Twenty-four-hour period"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "PICKUP",
+        "Device converting steel-guitar string vibration into an electrical signal"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "STREET",
+        "Address word commonly abbreviated St. in a road name"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "REMIND",
+        "Help someone remember"
+      ],
+      [
+        "WEEK",
+        "Period of seven days"
+      ],
+      [
+        "OUTSIDE",
+        "Out in the open air"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRASH",
+      "CURB",
+      "BINS"
+    ]
+  },
+  {
+    "id": "welcoming-a-new-neighbor-3",
+    "title": "A Potted Herb for the New Steps",
+    "description": "A small pot is light enough for the new neighbor to move to a sunny spot.",
+    "words": [
+      [
+        "HERB",
+        "Plant whose leaves are used to flavor food, fresh or dried"
+      ],
+      [
+        "POT",
+        "Container where a plant grows"
+      ],
+      [
+        "GIFT",
+        "Present for another person"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "STEPS",
+        "Stairway units leading upward in a large structure"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "DRAIN",
+        "Let liquid flow away"
+      ]
+    ],
+    "requiredAnswers": [
+      "HERB",
+      "POT",
+      "GIFT"
+    ]
+  },
+  {
+    "id": "welcoming-a-new-neighbor-4",
+    "title": "An Offer to Bring In the Mail",
+    "description": "A neighbor can agree on where to leave the letters while the house is empty.",
+    "words": [
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "LETTERS",
+        "Written messages sent in envelopes"
+      ],
+      [
+        "NEIGHBOR",
+        "Person living nearby"
+      ],
+      [
+        "OFFER",
+        "Ask if someone would like something"
+      ],
+      [
+        "HOLD",
+        "Keep in place"
+      ],
+      [
+        "AWAY",
+        "Gone from home"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "PILE",
+        "Heap of things together"
+      ],
+      [
+        "HOUSE",
+        "Building used as a dwelling"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ]
+    ],
+    "requiredAnswers": [
+      "MAIL",
+      "LETTERS",
+      "NEIGHBOR"
+    ]
+  },
+  {
+    "id": "welcoming-a-new-neighbor-5",
+    "title": "A Welcome Note on a Moving Box",
+    "description": "A note on top of the box is easy to see among the first things unpacked.",
+    "words": [
+      [
+        "WELCOME",
+        "Friendly greeting to a visitor"
+      ],
+      [
+        "NOTE",
+        "Brief reminder on paper"
+      ],
+      [
+        "BOX",
+        "Rigid container with a lid"
+      ],
+      [
+        "MOVING",
+        "Leaving one home to live in another"
+      ],
+      [
+        "UNPACK",
+        "Take items out of bags or boxes"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "TOP",
+        "Highest part"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "LIFT",
+        "Raise to a higher position"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ]
+    ],
+    "requiredAnswers": [
+      "WELCOME",
+      "NOTE",
+      "BOX"
+    ]
+  }
+]

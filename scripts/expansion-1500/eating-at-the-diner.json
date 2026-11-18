@@ -1,0 +1,310 @@
+[
+  {
+    "id": "eating-at-the-diner",
+    "title": "A Patty Melt on Rye",
+    "description": "A burger, browned onion and melted cheese sit between two slices of rye.",
+    "words": [
+      [
+        "PATTY",
+        "A small flat round of ground meat or mashed food"
+      ],
+      [
+        "RYE",
+        "Grain used in many dark deli-style breads"
+      ],
+      [
+        "ONION",
+        "Layered bulb used in cooking"
+      ],
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "MELT",
+        "Turn from solid into liquid"
+      ],
+      [
+        "BURGER",
+        "Ground beef patty served on a bun"
+      ],
+      [
+        "GRILL",
+        "Outdoor cooking surface at a summer picnic"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "BROWN",
+        "Color of chocolate"
+      ],
+      [
+        "BUTTER",
+        "Yellow dairy spread for bread"
+      ],
+      [
+        "LUNCH",
+        "Meal around midday"
+      ]
+    ],
+    "requiredAnswers": [
+      "PATTY",
+      "RYE",
+      "ONION"
+    ]
+  },
+  {
+    "id": "eating-at-the-diner-2",
+    "title": "A Hot Roll Split for Honey",
+    "description": "Honey slips through the soft cut surface while the warm roll waits on the plate.",
+    "words": [
+      [
+        "HONEY",
+        "Sweet substance made by bees"
+      ],
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ],
+      [
+        "SPLIT",
+        "Divide into two parts"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "BUTTER",
+        "Cream-based spread that melts on toast"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ]
+    ],
+    "requiredAnswers": [
+      "HONEY",
+      "ROLL",
+      "SPLIT"
+    ]
+  },
+  {
+    "id": "eating-at-the-diner-3",
+    "title": "A Diner Bowl of Cream of Wheat",
+    "description": "The cereal is stirred until smooth and spooned out while it is still steaming.",
+    "words": [
+      [
+        "WHEAT",
+        "Grain commonly used to make bread flour"
+      ],
+      [
+        "CEREAL",
+        "Breakfast food commonly served in a bowl with milk"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "SMOOTH",
+        "Even and without bumps"
+      ],
+      [
+        "STIR",
+        "Move a spoon around in a mixture"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "STEAM",
+        "Water vapor rising from a hot kettle"
+      ],
+      [
+        "HOT",
+        "Having a high temperature"
+      ],
+      [
+        "COOK",
+        "Prepare food with heat"
+      ],
+      [
+        "GRAIN",
+        "Edible seed such as wheat"
+      ],
+      [
+        "LUMP",
+        "Unwanted small clump in an otherwise smooth gravy"
+      ],
+      [
+        "CREAM",
+        "Rich fatty part of milk"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ]
+    ],
+    "requiredAnswers": [
+      "WHEAT",
+      "CEREAL",
+      "BOWL"
+    ]
+  },
+  {
+    "id": "eating-at-the-diner-4",
+    "title": "A Biscuit Split for Sausage Gravy",
+    "description": "The soft halves make a base for a ladleful of peppery breakfast gravy.",
+    "words": [
+      [
+        "BISCUIT",
+        "Small soft American quick bread"
+      ],
+      [
+        "GRAVY",
+        "Savory sauce often served with roast meat and potatoes"
+      ],
+      [
+        "SAUSAGE",
+        "Seasoned ground meat sold in links or patties"
+      ],
+      [
+        "SPLIT",
+        "Separated standing pins left after a first roll"
+      ],
+      [
+        "PEPPER",
+        "Hollow vegetable with seeds clustered inside"
+      ],
+      [
+        "LADLE",
+        "Deep spoon for serving soup"
+      ],
+      [
+        "FLOUR",
+        "Powder ground from grain for baking"
+      ],
+      [
+        "MILK",
+        "Dairy liquid from a cow"
+      ],
+      [
+        "WARM",
+        "Comfortably heated rather than cold"
+      ],
+      [
+        "HALVES",
+        "Two equal parts of something"
+      ],
+      [
+        "BREAKFAST",
+        "First meal of the day"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ]
+    ],
+    "requiredAnswers": [
+      "BISCUIT",
+      "GRAVY",
+      "SAUSAGE"
+    ]
+  },
+  {
+    "id": "eating-at-the-diner-5",
+    "title": "A Waffle with a Spoonful of Berries",
+    "description": "The small pockets catch a little berry juice as it reaches the plate.",
+    "words": [
+      [
+        "WAFFLE",
+        "Breakfast cake baked in an iron with a grid pattern"
+      ],
+      [
+        "BERRIES",
+        "Small fruits such as raspberries"
+      ],
+      [
+        "POCKETS",
+        "Small hollows like the squares in a waffle"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "IRON",
+        "Heated household tool for smoothing cloth"
+      ],
+      [
+        "BATTER",
+        "Pourable flour mixture"
+      ],
+      [
+        "PLATE",
+        "Shallow dish used at a meal"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "GOLDEN",
+        "Rich yellow in color"
+      ],
+      [
+        "SPOON",
+        "Tool for eating soup"
+      ],
+      [
+        "POUR",
+        "To transfer lemonade in a stream from a serving container"
+      ],
+      [
+        "BLUE",
+        "Color of a clear daytime sky"
+      ]
+    ],
+    "requiredAnswers": [
+      "WAFFLE",
+      "BERRIES",
+      "POCKETS"
+    ]
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "visits-and-welcome",
+    "title": "A Place to Set a Walking Stick",
+    "description": "A cane laid across the floor can block the path, so a stand gives it a steady place.",
+    "words": [
+      [
+        "CANE",
+        "Stick carried for support while walking"
+      ],
+      [
+        "STAND",
+        "Support that holds an object upright"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "ENTRY",
+        "An item submitted for a competition"
+      ],
+      [
+        "TIP",
+        "Small pointed end of something"
+      ],
+      [
+        "RUBBER",
+        "Flexible material used in boots and tires"
+      ],
+      [
+        "LEAN",
+        "Tilt against a support"
+      ],
+      [
+        "CORNER",
+        "Place where two edges meet"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room"
+      ],
+      [
+        "REACH",
+        "Stretch out an arm to get something"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "UPRIGHT",
+        "Standing straight up"
+      ]
+    ],
+    "requiredAnswers": [
+      "CANE",
+      "STAND",
+      "HANDLE"
+    ]
+  },
+  {
+    "id": "visits-and-welcome-2",
+    "title": "A Card that Says Come Anytime",
+    "description": "A handwritten invitation can offer a time, an address and a simple way to reply.",
+    "words": [
+      [
+        "INVITATION",
+        "A note asking someone to come"
+      ],
+      [
+        "REPLY",
+        "Answer a message"
+      ],
+      [
+        "ADDRESS",
+        "Location written on a mailed envelope"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "VISIT",
+        "Spend time at someone's home"
+      ],
+      [
+        "PHONE",
+        "Everyday short name for a telephone"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "WELCOME",
+        "Friendly greeting to a visitor"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "GUEST",
+        "Person invited to a home or event"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ]
+    ],
+    "requiredAnswers": [
+      "INVITATION",
+      "REPLY",
+      "ADDRESS"
+    ]
+  },
+  {
+    "id": "visits-and-welcome-3",
+    "title": "A Basket of Slippers by the Guest Bed",
+    "description": "A loose pair is easy to find when someone gets up in a cool room.",
+    "words": [
+      [
+        "SLIPPERS",
+        "Soft shoes worn indoors"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "FOOT",
+        "Body part below the ankle"
+      ],
+      [
+        "ROOM",
+        "Enclosed space inside a building"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "BED",
+        "Furniture used for sleeping"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "HEEL",
+        "Back part of a foot or shoe"
+      ],
+      [
+        "GUEST",
+        "Person invited to share a holiday meal"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ]
+    ],
+    "requiredAnswers": [
+      "SLIPPERS",
+      "PAIR",
+      "BASKET"
+    ]
+  },
+  {
+    "id": "visits-and-welcome-4",
+    "title": "A Pitcher and Glass for Overnight",
+    "description": "Water beside the bed means a guest can have a sip without finding the kitchen in the dark.",
+    "words": [
+      [
+        "PITCHER",
+        "Serving jug with a handle and spout"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "BEDSIDE",
+        "Place next to the bed"
+      ],
+      [
+        "NIGHT",
+        "Dark time between sunset and dawn"
+      ],
+      [
+        "LAMP",
+        "Light set on a table"
+      ],
+      [
+        "SIP",
+        "Take a small mouthful of liquid"
+      ],
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "BED",
+        "Piece of furniture provided for sleeping"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "HANDLE",
+        "Grip attached to a tool"
+      ]
+    ],
+    "requiredAnswers": [
+      "PITCHER",
+      "GLASS",
+      "WATER"
+    ]
+  },
+  {
+    "id": "visits-and-welcome-5",
+    "title": "Leaving Directions to the Spare Key",
+    "description": "A short note gives a visitor one clear place to look before they arrive.",
+    "words": [
+      [
+        "KEY",
+        "Metal piece opening a lock"
+      ],
+      [
+        "DIRECTIONS",
+        "Instructions for finding a place"
+      ],
+      [
+        "SPARE",
+        "Extra key kept in case the usual one is unavailable"
+      ],
+      [
+        "NOTE",
+        "Brief reminder on paper"
+      ],
+      [
+        "ARRIVE",
+        "Get to a place"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "LOCK",
+        "Device secured or released with a door key"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ],
+      [
+        "LOOK",
+        "Direct the eyes toward something"
+      ],
+      [
+        "CODE",
+        "System representing letters with agreed signal patterns"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "LEAVE",
+        "Go away from a place"
+      ]
+    ],
+    "requiredAnswers": [
+      "KEY",
+      "DIRECTIONS",
+      "SPARE"
+    ]
+  }
+]

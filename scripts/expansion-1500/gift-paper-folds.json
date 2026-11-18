@@ -1,0 +1,302 @@
+[
+  {
+    "id": "gift-paper-folds",
+    "title": "A Paper Fan Tucked into a Gift Bag",
+    "description": "The creases stack together at the base and open into a bright fan above the bag.",
+    "words": [
+      [
+        "FAN",
+        "Handheld object waved to make a breeze"
+      ],
+      [
+        "PLEAT",
+        "Narrow fold pressed into cloth or paper"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "CREASE",
+        "Line made by sharply folding paper"
+      ],
+      [
+        "BASE",
+        "Lowest supporting part"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "BEND",
+        "To curve under the force of a strong gust"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ]
+    ],
+    "requiredAnswers": [
+      "FAN",
+      "PLEAT",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "gift-paper-folds-2",
+    "title": "A Box with a Lift-Off Paper Lid",
+    "description": "The top is folded just a little wider so it will fit over the sides of the box.",
+    "words": [
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "SQUARE",
+        "Shape with four equal sides"
+      ],
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ],
+      [
+        "FOLD",
+        "Bring two sides together along a crease"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ],
+      [
+        "CARD",
+        "Piece of stiff paper carrying a message"
+      ],
+      [
+        "FLAP",
+        "Folded piece that opens and closes"
+      ],
+      [
+        "CREASE",
+        "Line left where a sheet has been sharply folded"
+      ],
+      [
+        "EDGE",
+        "Outside boundary of something"
+      ],
+      [
+        "TAB",
+        "Small projecting flap or label"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOX",
+      "LID",
+      "SQUARE"
+    ]
+  },
+  {
+    "id": "gift-paper-folds-3",
+    "title": "A Recipe Card That Stands by Itself",
+    "description": "A crease in heavy paper lets a handwritten recipe stand up against the flour jar.",
+    "words": [
+      [
+        "RECIPE",
+        "Written ingredients and directions for making a dish"
+      ],
+      [
+        "CARD",
+        "Stiff piece of paper that can hold a recipe"
+      ],
+      [
+        "FOLD",
+        "Make a crease to bring one half over another"
+      ],
+      [
+        "STAND",
+        "Support that holds an object upright"
+      ],
+      [
+        "HEAVY",
+        "Hard to lift because of its weight"
+      ],
+      [
+        "PAPER",
+        "Thin sheet made from wood pulp"
+      ],
+      [
+        "INK",
+        "Colored liquid used by a pen"
+      ],
+      [
+        "INGREDIENTS",
+        "Foods used to make a recipe"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "MARK",
+        "Put a sign or line on something"
+      ],
+      [
+        "BASE",
+        "One of the stations a runner must reach"
+      ]
+    ],
+    "requiredAnswers": [
+      "RECIPE",
+      "CARD",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "gift-paper-folds-4",
+    "title": "A Paper Roll with a Message Inside",
+    "description": "A slip of paper with a greeting can lie inside a rolled paper band tied with string.",
+    "words": [
+      [
+        "MESSAGE",
+        "Written communication"
+      ],
+      [
+        "ROLL",
+        "Curl a flat sheet around itself"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "GREETING",
+        "Friendly words of welcome"
+      ],
+      [
+        "SLIP",
+        "Assigned narrow space where a boat is berthed"
+      ],
+      [
+        "PAPER",
+        "Material folded to make a card"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "CURL",
+        "Decorative curved flourish at a letter's end"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "OPEN",
+        "Not shut"
+      ],
+      [
+        "EDGE",
+        "Outer part where a surface ends"
+      ],
+      [
+        "WORDS",
+        "Units of speech or writing"
+      ]
+    ],
+    "requiredAnswers": [
+      "MESSAGE",
+      "ROLL",
+      "STRING"
+    ]
+  },
+  {
+    "id": "gift-paper-folds-5",
+    "title": "A Gift Envelope for a Flat Bookmark",
+    "description": "An envelope just wide enough keeps the bookmark from sliding loose in a larger bag.",
+    "words": [
+      [
+        "ENVELOPE",
+        "Paper sleeve for a letter"
+      ],
+      [
+        "BOOKMARK",
+        "Strip or object left between pages to mark one's place"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "PAPER",
+        "Material folded to make a card"
+      ],
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ],
+      [
+        "FLAP",
+        "Loose folded section of a paper model"
+      ],
+      [
+        "SEAL",
+        "Close tightly to prevent leaks"
+      ],
+      [
+        "TUCK",
+        "Push a sheet's edge under a mattress"
+      ],
+      [
+        "EDGE",
+        "Outer boundary of a board"
+      ],
+      [
+        "SLIDE",
+        "Photograph shown through a projector"
+      ],
+      [
+        "FIT",
+        "To match the shape and space of a neighboring puzzle piece"
+      ],
+      [
+        "CLOSE",
+        "Shut rather than open"
+      ]
+    ],
+    "requiredAnswers": [
+      "ENVELOPE",
+      "BOOKMARK",
+      "FLAT"
+    ]
+  }
+]

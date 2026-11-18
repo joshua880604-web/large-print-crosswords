@@ -1,0 +1,302 @@
+[
+  {
+    "id": "street-sights-remembered",
+    "title": "A Paper Band around an Ironed Shirt",
+    "description": "A wide band of paper kept the folded shirt neat until the customer carried it home.",
+    "words": [
+      [
+        "SHIRT",
+        "Upper-body garment with sleeves"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "BAND",
+        "Flat strip that goes around something"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "COLLAR",
+        "Folded band around a shirt's neckline"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "WIDE",
+        "Opposite of narrow when describing width"
+      ],
+      [
+        "PACKAGE",
+        "An item wrapped to carry or send"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHIRT",
+      "PAPER",
+      "BAND"
+    ]
+  },
+  {
+    "id": "street-sights-remembered-2",
+    "title": "A Newspaper Rack with a Coin Slot",
+    "description": "A coin let a customer lift the front and take a newspaper from the stack.",
+    "words": [
+      [
+        "NEWSPAPER",
+        "Printed daily or weekly news publication"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "SLOT",
+        "Narrow opening for letters"
+      ],
+      [
+        "RACK",
+        "Framework for holding things"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "PAPER",
+        "Thin sheet made from wood pulp"
+      ],
+      [
+        "LIFT",
+        "Raise to a higher position"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "PRICE",
+        "Amount a shopper pays"
+      ]
+    ],
+    "requiredAnswers": [
+      "NEWSPAPER",
+      "COIN",
+      "SLOT"
+    ]
+  },
+  {
+    "id": "street-sights-remembered-3",
+    "title": "Chalk Prices in the Shop Window",
+    "description": "The figures could be wiped away and written again whenever the price changed.",
+    "words": [
+      [
+        "CHALK",
+        "Soft white stick for writing on a board"
+      ],
+      [
+        "PRICE",
+        "The amount of money asked for one item"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ],
+      [
+        "FIGURE",
+        "A written symbol for a number"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "DUST",
+        "Fine dirt settled on furniture"
+      ],
+      [
+        "SALE",
+        "Event at which goods are offered for money"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHALK",
+      "PRICE",
+      "BOARD"
+    ]
+  },
+  {
+    "id": "street-sights-remembered-4",
+    "title": "A Bicycle with a Wire Basket",
+    "description": "A small basket on the handlebars kept a parcel in view on the ride home.",
+    "words": [
+      [
+        "BICYCLE",
+        "Two-wheeled vehicle moved by pedaling"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "WIRE",
+        "Thin metal strand used in some jewelry making"
+      ],
+      [
+        "HANDLEBAR",
+        "Steering bar gripped by a cyclist"
+      ],
+      [
+        "PARCEL",
+        "Wrapped package ready to give or send"
+      ],
+      [
+        "FRONT",
+        "Boundary between air masses with different characteristics"
+      ],
+      [
+        "RIDE",
+        "Travel on a vehicle or amusement attraction"
+      ],
+      [
+        "PEDAL",
+        "Foot-operated part that drives a bicycle"
+      ],
+      [
+        "WHEEL",
+        "Round part that turns on an axle"
+      ],
+      [
+        "BELL",
+        "Metal object that rings when struck"
+      ],
+      [
+        "STRAP",
+        "Carrying band attached to a bag"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ]
+    ],
+    "requiredAnswers": [
+      "BICYCLE",
+      "BASKET",
+      "WIRE"
+    ]
+  },
+  {
+    "id": "street-sights-remembered-5",
+    "title": "A Name Painted on the Store Glass",
+    "description": "Gold letters on the glass marked the shop even when the door was shut.",
+    "words": [
+      [
+        "LETTERS",
+        "Written messages sent in envelopes"
+      ],
+      [
+        "PAINT",
+        "Colored coating spread with a brush"
+      ],
+      [
+        "GOLD",
+        "Precious yellow metal"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool for applying paint"
+      ],
+      [
+        "WINDOW",
+        "Opening shape represented with icing on a gingerbread wall"
+      ],
+      [
+        "SHINE",
+        "Give off or reflect bright light"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ]
+    ],
+    "requiredAnswers": [
+      "LETTERS",
+      "PAINT",
+      "GOLD"
+    ]
+  }
+]

@@ -2635,5 +2635,425 @@
     "gridSize": 11,
     "minEntries": 10,
     "revision": 1
+  },
+  {
+    "id": "garden-repairs-and-labels",
+    "name": "Garden repairs and labels",
+    "theme": "Gardening",
+    "source": "expansion-1500/garden-repairs-and-labels.json",
+    "revision": 1
+  },
+  {
+    "id": "kitchen-windowsill-greens",
+    "name": "Greens on the kitchen sill",
+    "theme": "Gardening",
+    "source": "expansion-1500/kitchen-windowsill-greens.json",
+    "revision": 1
+  },
+  {
+    "id": "garden-season-decisions",
+    "name": "Judging garden conditions",
+    "theme": "Gardening",
+    "source": "expansion-1500/garden-season-decisions.json",
+    "revision": 1
+  },
+  {
+    "id": "garden-fruit-variety",
+    "name": "Fruit from the yard",
+    "theme": "Gardening",
+    "source": "expansion-1500/garden-fruit-variety.json",
+    "revision": 1
+  },
+  {
+    "id": "flower-display-details",
+    "name": "Flowers on display",
+    "theme": "Flowers",
+    "source": "expansion-1500/flower-display-details.json",
+    "revision": 1
+  },
+  {
+    "id": "kitchen-sandwich-sides",
+    "name": "Deli sides and toppings",
+    "theme": "Food",
+    "source": "expansion-1500/kitchen-sandwich-sides.json",
+    "revision": 1
+  },
+  {
+    "id": "bakery-slice-and-serve",
+    "name": "Slices from the bakery",
+    "theme": "Baking",
+    "source": "expansion-1500/bakery-slice-and-serve.json",
+    "revision": 1
+  },
+  {
+    "id": "meals-with-rice",
+    "name": "Rice on the table",
+    "theme": "Food",
+    "source": "expansion-1500/meals-with-rice.json",
+    "revision": 1
+  },
+  {
+    "id": "kitchen-jars-and-tins",
+    "name": "Open a jar or a tin",
+    "theme": "Food",
+    "source": "expansion-1500/kitchen-jars-and-tins.json",
+    "revision": 1
+  },
+  {
+    "id": "food-on-the-griddle",
+    "name": "From the griddle",
+    "theme": "Food",
+    "source": "expansion-1500/food-on-the-griddle.json",
+    "revision": 1
+  },
+  {
+    "id": "neighborhood-counter-jobs",
+    "name": "Familiar jobs at the counter",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/neighborhood-counter-jobs.json",
+    "revision": 1
+  },
+  {
+    "id": "town-events-behind-scenes",
+    "name": "Helping at town events",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/town-events-behind-scenes.json",
+    "revision": 1
+  },
+  {
+    "id": "sharing-books-locally",
+    "name": "Sharing books nearby",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/sharing-books-locally.json",
+    "revision": 1
+  },
+  {
+    "id": "stairs-and-hallway",
+    "name": "Around the hallway",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/stairs-and-hallway.json",
+    "revision": 1
+  },
+  {
+    "id": "table-for-evening",
+    "name": "Setting an evening table",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/table-for-evening.json",
+    "revision": 1
+  },
+  {
+    "id": "visits-and-welcome",
+    "name": "A comfortable visit",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/visits-and-welcome.json",
+    "revision": 1
+  },
+  {
+    "id": "clothing-for-weather",
+    "name": "Dressing for the weather",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/clothing-for-weather.json",
+    "revision": 1
+  },
+  {
+    "id": "quiet-comforts-at-home",
+    "name": "Everyday comforts",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/quiet-comforts-at-home.json",
+    "revision": 1
+  },
+  {
+    "id": "everyday-kitchen-repairs",
+    "name": "Small fixes in the kitchen",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/everyday-kitchen-repairs.json",
+    "revision": 1
+  },
+  {
+    "id": "sorting-and-donating",
+    "name": "Making things ready to give away",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/sorting-and-donating.json",
+    "revision": 1
+  },
+  {
+    "id": "fabric-on-the-table",
+    "name": "Useful fabric projects",
+    "theme": "Crafts",
+    "source": "expansion-1500/fabric-on-the-table.json",
+    "revision": 1
+  },
+  {
+    "id": "craft-glass-and-ceramic",
+    "name": "Glass and tile projects",
+    "theme": "Crafts",
+    "source": "expansion-1500/craft-glass-and-ceramic.json",
+    "revision": 1
+  },
+  {
+    "id": "gift-paper-folds",
+    "name": "Paper folded for a gift",
+    "theme": "Crafts",
+    "source": "expansion-1500/gift-paper-folds.json",
+    "revision": 1
+  },
+  {
+    "id": "handwork-fixing-keepsakes",
+    "name": "Repairing keepsakes",
+    "theme": "Crafts",
+    "source": "expansion-1500/handwork-fixing-keepsakes.json",
+    "revision": 1
+  },
+  {
+    "id": "hobbies-in-daylight",
+    "name": "Outdoor hobbies in daylight",
+    "theme": "Hobbies",
+    "source": "expansion-1500/hobbies-in-daylight.json",
+    "revision": 1
+  },
+  {
+    "id": "games-at-a-club",
+    "name": "Around the game table",
+    "theme": "Hobbies",
+    "source": "expansion-1500/games-at-a-club.json",
+    "revision": 1
+  },
+  {
+    "id": "old-shop-tools",
+    "name": "Tools behind old shop counters",
+    "theme": "Nostalgia",
+    "source": "expansion-1500/old-shop-tools.json",
+    "revision": 1
+  },
+  {
+    "id": "family-photos-and-film",
+    "name": "Family pictures and home movies",
+    "theme": "Nostalgia",
+    "source": "expansion-1500/family-photos-and-film.json",
+    "revision": 1
+  },
+  {
+    "id": "street-sights-remembered",
+    "name": "Remembered street sights",
+    "theme": "Nostalgia",
+    "source": "expansion-1500/street-sights-remembered.json",
+    "revision": 1
+  },
+  {
+    "id": "kitchen-memories-in-use",
+    "name": "Kitchen objects remembered",
+    "theme": "Nostalgia",
+    "source": "expansion-1500/kitchen-memories-in-use.json",
+    "revision": 1
+  },
+  {
+    "id": "guitar-to-gathering",
+    "name": "A guitar for a gathering",
+    "theme": "Music",
+    "source": "expansion-1500/guitar-to-gathering.json",
+    "revision": 1
+  },
+  {
+    "id": "picnic-band-sounds",
+    "name": "Sounds from an outdoor band",
+    "theme": "Music",
+    "source": "expansion-1500/picnic-band-sounds.json",
+    "revision": 1
+  },
+  {
+    "id": "sing-with-the-room",
+    "name": "Singing together",
+    "theme": "Music",
+    "source": "expansion-1500/sing-with-the-room.json",
+    "revision": 1
+  },
+  {
+    "id": "sounds-of-the-recording-room",
+    "name": "Listening and recording",
+    "theme": "Music",
+    "source": "expansion-1500/sounds-of-the-recording-room.json",
+    "revision": 1
+  },
+  {
+    "id": "remembered-dance-tunes",
+    "name": "Dance-floor traditions",
+    "theme": "Music",
+    "source": "expansion-1500/remembered-dance-tunes.json",
+    "revision": 1
+  },
+  {
+    "id": "bible-river-and-road",
+    "name": "Bible journeys by river and road",
+    "theme": "Bible",
+    "source": "expansion-1500/bible-river-and-road.json",
+    "revision": 1
+  },
+  {
+    "id": "bible-parables-and-choices",
+    "name": "Bible stories about choices",
+    "theme": "Bible",
+    "source": "expansion-1500/bible-parables-and-choices.json",
+    "revision": 1
+  },
+  {
+    "id": "birds-using-familiar-spaces",
+    "name": "Birds around familiar places",
+    "theme": "Nature",
+    "source": "expansion-1500/birds-using-familiar-spaces.json",
+    "revision": 1
+  },
+  {
+    "id": "animals-around-the-farmyard",
+    "name": "Sights around a farmyard",
+    "theme": "Nature",
+    "source": "expansion-1500/animals-around-the-farmyard.json",
+    "revision": 1
+  },
+  {
+    "id": "signs-of-rain",
+    "name": "Rain nearby",
+    "theme": "Nature",
+    "source": "expansion-1500/signs-of-rain.json",
+    "revision": 1
+  },
+  {
+    "id": "water-edges-after-weather",
+    "name": "Edges of ponds and streams",
+    "theme": "Nature",
+    "source": "expansion-1500/water-edges-after-weather.json",
+    "revision": 1
+  },
+  {
+    "id": "gardens-after-cold",
+    "name": "Spring garden surprises",
+    "theme": "Spring",
+    "source": "expansion-1500/gardens-after-cold.json",
+    "revision": 1
+  },
+  {
+    "id": "spring-outdoor-get-together",
+    "name": "A spring gathering outside",
+    "theme": "Spring",
+    "source": "expansion-1500/spring-outdoor-get-together.json",
+    "revision": 1
+  },
+  {
+    "id": "warm-day-by-the-water",
+    "name": "Warm days near water",
+    "theme": "Summer",
+    "source": "expansion-1500/warm-day-by-the-water.json",
+    "revision": 1
+  },
+  {
+    "id": "summer-shade-and-breaks",
+    "name": "Shade and summer breaks",
+    "theme": "Summer",
+    "source": "expansion-1500/summer-shade-and-breaks.json",
+    "revision": 1
+  },
+  {
+    "id": "fall-harvest-work",
+    "name": "At harvest time",
+    "theme": "Autumn",
+    "source": "expansion-1500/fall-harvest-work.json",
+    "revision": 1
+  },
+  {
+    "id": "keeping-winter-wet-out",
+    "name": "Keeping winter wet outside",
+    "theme": "Winter",
+    "source": "expansion-1500/keeping-winter-wet-out.json",
+    "revision": 1
+  },
+  {
+    "id": "christmas-tree-care",
+    "name": "Caring for a Christmas tree",
+    "theme": "Christmas",
+    "source": "expansion-1500/christmas-tree-care.json",
+    "revision": 1
+  },
+  {
+    "id": "thanksgiving-cleanup",
+    "name": "After the Thanksgiving meal",
+    "theme": "Thanksgiving",
+    "source": "expansion-1500/thanksgiving-cleanup.json",
+    "revision": 1
+  },
+  {
+    "id": "easter-basket-details",
+    "name": "Small Easter basket projects",
+    "theme": "Easter",
+    "source": "expansion-1500/easter-basket-details.json",
+    "revision": 1
+  },
+  {
+    "id": "halloween-costume-fixes",
+    "name": "Easy costume adjustments",
+    "theme": "Halloween",
+    "source": "expansion-1500/halloween-costume-fixes.json",
+    "revision": 1
+  },
+  {
+    "id": "around-a-local-bus-route",
+    "name": "Riding a local bus",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/around-a-local-bus-route.json",
+    "revision": 1
+  },
+  {
+    "id": "welcoming-a-new-neighbor",
+    "name": "Meeting new neighbors",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/welcoming-a-new-neighbor.json",
+    "revision": 1
+  },
+  {
+    "id": "clothesline-weather-choices",
+    "name": "Air-drying clothes indoors and out",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/clothesline-weather-choices.json",
+    "revision": 1
+  },
+  {
+    "id": "eating-at-the-diner",
+    "name": "Old diner menu favorites",
+    "theme": "Food",
+    "source": "expansion-1500/eating-at-the-diner.json",
+    "revision": 1
+  },
+  {
+    "id": "sewing-for-the-kitchen",
+    "name": "Simple sewing for the kitchen",
+    "theme": "Crafts",
+    "source": "expansion-1500/sewing-for-the-kitchen.json",
+    "revision": 1
+  },
+  {
+    "id": "useful-things-in-the-car",
+    "name": "Small comforts in the car",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/useful-things-in-the-car.json",
+    "revision": 1
+  },
+  {
+    "id": "local-show-opening",
+    "name": "Opening a neighborhood show",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/local-show-opening.json",
+    "revision": 1
+  },
+  {
+    "id": "household-fasteners",
+    "name": "Fasteners around the house",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/household-fasteners.json",
+    "revision": 1
+  },
+  {
+    "id": "small-community-meals",
+    "name": "Working at a community meal",
+    "theme": "Everyday Life",
+    "source": "expansion-1500/small-community-meals.json",
+    "revision": 1
   }
 ]

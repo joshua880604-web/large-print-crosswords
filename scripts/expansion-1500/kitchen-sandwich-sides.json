@@ -1,0 +1,298 @@
+[
+  {
+    "id": "kitchen-sandwich-sides",
+    "title": "A Dill Pickle Spear",
+    "description": "A long slice of a sour cucumber shares the plate with a sandwich.",
+    "words": [
+      [
+        "PICKLE",
+        "Food preserved in a brine or acidic mixture"
+      ],
+      [
+        "DILL",
+        "Feathery-leaved herb associated with some pickles"
+      ],
+      [
+        "SPEAR",
+        "Long wedge cut from a pickle"
+      ],
+      [
+        "BRINE",
+        "Salt dissolved in water"
+      ],
+      [
+        "SOUR",
+        "Tart in taste, like a lemon"
+      ],
+      [
+        "CRUNCH",
+        "Crackling sound when biting crisp food"
+      ],
+      [
+        "CUCUMBER",
+        "Long crisp vegetable often sliced into a salad"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ]
+    ],
+    "requiredAnswers": [
+      "PICKLE",
+      "DILL",
+      "SPEAR"
+    ]
+  },
+  {
+    "id": "kitchen-sandwich-sides-2",
+    "title": "Potato Chips from a Paper Bag",
+    "description": "Thin crisp slices tumble out beside the lunch counter's sandwich plate.",
+    "words": [
+      [
+        "CHIPS",
+        "Thin crisp slices of fried potato"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "PAPER",
+        "Material used for writing or wrapping"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "FRIED",
+        "Cooked in hot oil"
+      ],
+      [
+        "SALTY",
+        "Tasting of added sodium chloride"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "CRUMBS",
+        "Little bits that fall from bread or cake"
+      ],
+      [
+        "OIL",
+        "Cooking fat that is liquid at room temperature"
+      ],
+      [
+        "CRUNCH",
+        "Noise made by biting a raw carrot"
+      ],
+      [
+        "HANDFUL",
+        "As much as one hand can hold"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHIPS",
+      "CRISP",
+      "POTATO"
+    ]
+  },
+  {
+    "id": "kitchen-sandwich-sides-3",
+    "title": "A Deli Plate of Sweet Pepper Rings",
+    "description": "Pickled rings give the lunch plate a bright color and a sharp bite.",
+    "words": [
+      [
+        "RINGS",
+        "Slices shaped like hollow circles"
+      ],
+      [
+        "PEPPER",
+        "Hollow vegetable with seeds clustered inside"
+      ],
+      [
+        "TANGY",
+        "Pleasantly sharp in taste"
+      ],
+      [
+        "BRINE",
+        "Salt dissolved in water"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "ACID",
+        "Chemical type found in vinegar and lemon juice"
+      ],
+      [
+        "VINEGAR",
+        "Sour liquid used in dressings and pickling"
+      ],
+      [
+        "SIDE",
+        "Part along an outer edge"
+      ],
+      [
+        "JAR",
+        "Glass food container often closed with a screw-on lid"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "YELLOW",
+        "Color of a ripe lemon"
+      ]
+    ],
+    "requiredAnswers": [
+      "RINGS",
+      "PEPPER",
+      "TANGY"
+    ]
+  },
+  {
+    "id": "kitchen-sandwich-sides-4",
+    "title": "A Spoonful of Olive Spread",
+    "description": "Chopped dark olives and a little oil make a salty topping for crisp bread.",
+    "words": [
+      [
+        "OLIVES",
+        "Small fruits often pickled in salty liquid"
+      ],
+      [
+        "CHOP",
+        "Cut food into small pieces"
+      ],
+      [
+        "PASTE",
+        "Thick soft mixture that can be spread"
+      ],
+      [
+        "OIL",
+        "Olive or canola, for example, when sold for cooking"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "TOPPING",
+        "Food added over a dish"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "BRINY",
+        "Salty like pickle juice"
+      ],
+      [
+        "CRISP",
+        "Firm and breaking cleanly, as a fresh celery stalk"
+      ]
+    ],
+    "requiredAnswers": [
+      "OLIVES",
+      "CHOP",
+      "PASTE"
+    ]
+  },
+  {
+    "id": "kitchen-sandwich-sides-5",
+    "title": "Roasted Peppers on a Roll",
+    "description": "Sweet strips of soft red pepper make a bright topping at the sandwich counter.",
+    "words": [
+      [
+        "PEPPERS",
+        "Vegetables that may be sweet or hot"
+      ],
+      [
+        "ROAST",
+        "Cook with dry heat in an oven"
+      ],
+      [
+        "STRIPS",
+        "Long narrow pieces"
+      ],
+      [
+        "ROLL",
+        "Small bread served with dinner"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "SWEET",
+        "Opposite of sour or bitter"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of fruit"
+      ],
+      [
+        "TONGS",
+        "Paired gripping tool used to lift food"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "OIL",
+        "Word naming a paint medium using drying oils"
+      ],
+      [
+        "TOPPING",
+        "Something added to the surface of a finished drink"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEPPERS",
+      "ROAST",
+      "STRIPS"
+    ]
+  }
+]

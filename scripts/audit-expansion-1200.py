@@ -9,8 +9,8 @@ ROOT=Path(__file__).resolve().parents[1]
 read=lambda path:json.loads((ROOT/path).read_text())
 digest=lambda obj:hashlib.sha256(json.dumps(obj,sort_keys=True,separators=(',',':')).encode()).hexdigest()
 baseline=read('docs/research/expansion-1200/preservation-baseline.json')
-puzzles=read('src/data/puzzles.json')
-manifest=read('src/data/editorial-series.json')
+puzzles=read('src/data/puzzles.json')[:1200]
+manifest=read('src/data/editorial-series.json')[:240]
 assert len(puzzles)==1200 and len(manifest)==240
 assert len(baseline['puzzles'])==baseline['count']==1000
 assert manifest[:200]==baseline['manifest']

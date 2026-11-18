@@ -1,0 +1,302 @@
+[
+  {
+    "id": "birds-using-familiar-spaces",
+    "title": "A Pigeon Cooing under the Bridge",
+    "description": "The bird finds a ledge above the traffic where its low calls echo.",
+    "words": [
+      [
+        "PIGEON",
+        "A gray city bird that coos"
+      ],
+      [
+        "COO",
+        "Soft call made by a pigeon"
+      ],
+      [
+        "LEDGE",
+        "Narrow shelf that sticks out"
+      ],
+      [
+        "BRIDGE",
+        "Structure that carries a road over water or another obstacle"
+      ],
+      [
+        "WING",
+        "Part a bird spreads to fly"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "TRAFFIC",
+        "Cars and trucks using a street"
+      ],
+      [
+        "NEST",
+        "Bird's place for eggs"
+      ],
+      [
+        "GRAY",
+        "Color between black and white"
+      ],
+      [
+        "ECHO",
+        "Repeating sound used as a comparison for an answering entry"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "PERCH",
+        "Rest on a branch"
+      ]
+    ],
+    "requiredAnswers": [
+      "PIGEON",
+      "COO",
+      "LEDGE"
+    ]
+  },
+  {
+    "id": "birds-using-familiar-spaces-2",
+    "title": "A Swallow Skimming a Field",
+    "description": "A swallow can turn fast above the grass as it catches insects in flight.",
+    "words": [
+      [
+        "SWALLOW",
+        "Quick-flying bird with a forked tail"
+      ],
+      [
+        "INSECT",
+        "Small six-legged animal"
+      ],
+      [
+        "FIELD",
+        "Open area used for crops"
+      ],
+      [
+        "WING",
+        "Part a bird spreads to fly"
+      ],
+      [
+        "FORKED",
+        "Split into two tips"
+      ],
+      [
+        "TAIL",
+        "Rear extension of an animal's body"
+      ],
+      [
+        "SWOOP",
+        "Sweep down fast"
+      ],
+      [
+        "GRASS",
+        "Green plant covering a lawn"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "FLIGHT",
+        "A journey made through the air in an aircraft"
+      ],
+      [
+        "AIR",
+        "Mixture of gases we breathe"
+      ],
+      [
+        "DIP",
+        "Put briefly into a liquid"
+      ]
+    ],
+    "requiredAnswers": [
+      "SWALLOW",
+      "INSECT",
+      "FIELD"
+    ]
+  },
+  {
+    "id": "birds-using-familiar-spaces-3",
+    "title": "A Robin Looking After a Shower",
+    "description": "Soft wet ground can make worms easier for a robin to find.",
+    "words": [
+      [
+        "ROBIN",
+        "American songbird known for its orange-red breast"
+      ],
+      [
+        "WORM",
+        "Long, legless animal often found wriggling in garden soil"
+      ],
+      [
+        "SHOWER",
+        "Brief period of falling rain"
+      ],
+      [
+        "LAWN",
+        "Area of closely cut grass"
+      ],
+      [
+        "DIG",
+        "Defensive play lifting a low attacked ball"
+      ],
+      [
+        "BEAK",
+        "Bird's hard mouthpart"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "HOP",
+        "To move with a short springing jump"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "HEAD",
+        "Body part containing the eyes and mouth"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "SEARCH",
+        "Look carefully for something"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROBIN",
+      "WORM",
+      "SHOWER"
+    ]
+  },
+  {
+    "id": "birds-using-familiar-spaces-4",
+    "title": "A Crow Carrying a Bread Crust",
+    "description": "A crow takes the crust to a quiet spot before pulling at it with its bill.",
+    "words": [
+      [
+        "CROW",
+        "Large black bird with a familiar cawing call"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "BILL",
+        "Hard mouth of a bird, also called its beak"
+      ],
+      [
+        "BLACK",
+        "Darkest color"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "THIEF",
+        "Someone who takes what is not theirs"
+      ],
+      [
+        "BRANCH",
+        "Woody limb of a tree"
+      ],
+      [
+        "FLY",
+        "Travel through the air"
+      ],
+      [
+        "TEAR",
+        "Pull something apart with your hands"
+      ]
+    ],
+    "requiredAnswers": [
+      "CROW",
+      "CRUST",
+      "BILL"
+    ]
+  },
+  {
+    "id": "birds-using-familiar-spaces-5",
+    "title": "A Woodpecker at a Telephone Pole",
+    "description": "A woodpecker braces its tail against the wood and gives several quick taps.",
+    "words": [
+      [
+        "WOODPECKER",
+        "Bird that taps on wood with its bill"
+      ],
+      [
+        "POLE",
+        "Long upright support"
+      ],
+      [
+        "TAIL",
+        "Animal part extending behind the back"
+      ],
+      [
+        "TAP",
+        "Faucet controlling the flow of water"
+      ],
+      [
+        "WOOD",
+        "Material from the trunk or branches of a tree"
+      ],
+      [
+        "CLIMB",
+        "Go upward using hands or feet"
+      ],
+      [
+        "CLAW",
+        "Crab's gripping pincer"
+      ],
+      [
+        "BILL",
+        "Written statement of money owed"
+      ],
+      [
+        "SOUND",
+        "Something you can hear"
+      ],
+      [
+        "HOLD",
+        "Keep in place"
+      ],
+      [
+        "UPRIGHT",
+        "Standing straight up"
+      ],
+      [
+        "BARK",
+        "Outer covering of a tree trunk"
+      ]
+    ],
+    "requiredAnswers": [
+      "WOODPECKER",
+      "POLE",
+      "TAIL"
+    ]
+  }
+]

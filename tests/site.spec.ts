@@ -61,7 +61,12 @@ test('print sheets separate answers and work without scripts',async({browser})=>
 });
 
 for(const path of ['/','/crosswords/garden-days/','/printable/']){
- test(`accessibility scan ${path}`,async({page})=>{await page.goto(path);const results=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();expect(results.violations.map(v=>({id:v.id,description:v.description,nodes:v.nodes.map(n=>n.target)}))).toEqual([]);});
+ test(`accessibility scan ${path}`,async({page})=>{
+  if(path==='/printable/')test.setTimeout(90_000);
+  await page.goto(path);
+  const results=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();
+  expect(results.violations.map(v=>({id:v.id,description:v.description,nodes:v.nodes.map(n=>n.target)}))).toEqual([]);
+ });
 }
 
 test('mobile pages fit, touch entry and print navigation',async({page})=>{

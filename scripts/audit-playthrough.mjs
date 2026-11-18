@@ -25,7 +25,7 @@ const report=()=>writeFileSync(output,JSON.stringify({scope:newOnly?'new-current
 const placement=entries=>entries.map(({answer,number,row,col,direction})=>({answer,number,row,col,direction})).sort((a,b)=>a.number-b.number||a.direction.localeCompare(b.direction));
 const browser=await chromium.launch({executablePath:process.env.LPC_CHROMIUM_PATH||'/usr/bin/chromium',args:['--no-sandbox']});
 async function worker(){
- const context=await browser.newContext({viewport:{width:1120,height:1000}}),page=await context.newPage();
+ const context=await browser.newContext({viewport:{width:1120,height:1000},reducedMotion:'reduce'}),page=await context.newPage();
  page.setDefaultTimeout(10000);
  try{
   while(cursor<cases.length){
@@ -40,7 +40,7 @@ async function worker(){
      const clue=correction?correction.clue:entry.clue;
      const button=page.locator(`[data-entry="${entry.number}-${entry.direction}"]`);
      assert.ok((await button.innerText()).includes(clue),`${path}: rendered clue differs`);
-     await button.click();
+     await button.press('Enter');
      // Clue selection intentionally focuses the first empty square, which may
      // follow a filled crossing. Start at the first square to type the full
      // answer as before, while avoiding an unrelated smooth page scroll.

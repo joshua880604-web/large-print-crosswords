@@ -1,0 +1,306 @@
+[
+  {
+    "id": "animals-around-the-farmyard",
+    "title": "A Donkey Listening at the Fence",
+    "description": "Tall ears turn toward footsteps before the donkey reaches the fence.",
+    "words": [
+      [
+        "DONKEY",
+        "Long-eared animal known for braying"
+      ],
+      [
+        "EARS",
+        "Parts of the head used to hear"
+      ],
+      [
+        "BRAY",
+        "Loud call of a donkey"
+      ],
+      [
+        "FENCE",
+        "Barrier built around a yard"
+      ],
+      [
+        "HOOF",
+        "Hard covering at the end of a cow's foot"
+      ],
+      [
+        "TURN",
+        "Rotate to face another direction"
+      ],
+      [
+        "HEAD",
+        "Body part containing the eyes and mouth"
+      ],
+      [
+        "SOUND",
+        "Something you can hear"
+      ],
+      [
+        "TAIL",
+        "Rear extension of an animal's body"
+      ],
+      [
+        "HAY",
+        "Dried grass for animal feed"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "GRAY",
+        "Color between black and white"
+      ]
+    ],
+    "requiredAnswers": [
+      "DONKEY",
+      "EARS",
+      "BRAY"
+    ]
+  },
+  {
+    "id": "animals-around-the-farmyard-2",
+    "title": "Ducks in a Shallow Farm Pan",
+    "description": "Water splashes over the side as the ducks dip their bills and shake their heads.",
+    "words": [
+      [
+        "DUCKS",
+        "Water birds that quack"
+      ],
+      [
+        "BILL",
+        "Flat beak on a duck"
+      ],
+      [
+        "SPLASH",
+        "To scatter water by striking or stepping into it"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "DIP",
+        "Put briefly into a liquid"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "SHALLOW",
+        "Opposite of deep when describing water"
+      ],
+      [
+        "SHAKE",
+        "Move back and forth quickly"
+      ],
+      [
+        "FEATHERS",
+        "Soft covering on a bird's body"
+      ],
+      [
+        "WEBBED",
+        "Joined by skin between the toes, as many swimming birds' feet are"
+      ],
+      [
+        "DRINK",
+        "Swallow a liquid"
+      ],
+      [
+        "FLOCK",
+        "Group of birds"
+      ]
+    ],
+    "requiredAnswers": [
+      "DUCKS",
+      "BILL",
+      "SPLASH"
+    ]
+  },
+  {
+    "id": "animals-around-the-farmyard-3",
+    "title": "A Barn Cat Hunting at Dusk",
+    "description": "The cat lowers its body near the door and waits for a little sound.",
+    "words": [
+      [
+        "CAT",
+        "Domestic feline commonly kept as a household pet"
+      ],
+      [
+        "DUSK",
+        "Evening period when daylight is fading"
+      ],
+      [
+        "STALK",
+        "Follow quietly while hunting"
+      ],
+      [
+        "BARN",
+        "Farm building for animals or hay"
+      ],
+      [
+        "PAWS",
+        "Feet of a cat or a dog"
+      ],
+      [
+        "WHISKERS",
+        "Long stiff hairs on a cat's face"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "CROUCH",
+        "Bend low toward the ground"
+      ],
+      [
+        "MOUSE",
+        "Small rodent whose plural is mice"
+      ],
+      [
+        "TAIL",
+        "Animal part extending behind the back"
+      ],
+      [
+        "QUIET",
+        "Making little noise"
+      ]
+    ],
+    "requiredAnswers": [
+      "CAT",
+      "DUSK",
+      "STALK"
+    ]
+  },
+  {
+    "id": "animals-around-the-farmyard-4",
+    "title": "A Calf Learning to Drink from a Pail",
+    "description": "The young calf lowers its mouth to the milk while the pail is held steady.",
+    "words": [
+      [
+        "CALF",
+        "Young animal born to a cow"
+      ],
+      [
+        "PAIL",
+        "Bucket with a carrying handle"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ],
+      [
+        "DRINK",
+        "Swallow a liquid"
+      ],
+      [
+        "NOSE",
+        "Face part used for smelling"
+      ],
+      [
+        "HOLD",
+        "Keep in place"
+      ],
+      [
+        "LICK",
+        "Touch with the tongue"
+      ],
+      [
+        "BARN",
+        "Large farm building with stalls"
+      ],
+      [
+        "YOUNG",
+        "Not yet grown up"
+      ],
+      [
+        "BUCKET",
+        "Handled container carrying cleaning water"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "MOUTH",
+        "Body opening used for eating"
+      ],
+      [
+        "FEED",
+        "To move fabric forward through the sewing mechanism"
+      ],
+      [
+        "TONGUE",
+        "Feeding organ a bee can extend to reach floral nectar"
+      ]
+    ],
+    "requiredAnswers": [
+      "CALF",
+      "PAIL",
+      "MILK"
+    ]
+  },
+  {
+    "id": "animals-around-the-farmyard-5",
+    "title": "A Rooster on the Top Rail",
+    "description": "A rooster can grip the rail with its toes and call across the yard.",
+    "words": [
+      [
+        "ROOSTER",
+        "Adult male chicken"
+      ],
+      [
+        "CROW",
+        "Give a loud morning call, as a rooster does"
+      ],
+      [
+        "RAIL",
+        "Long hand support beside steps"
+      ],
+      [
+        "TOES",
+        "Digits at the end of a foot"
+      ],
+      [
+        "CALL",
+        "Say a name to get attention"
+      ],
+      [
+        "COMB",
+        "Toothed grooming tool drawn through hair"
+      ],
+      [
+        "HEN",
+        "Adult female chicken"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ],
+      [
+        "FENCE",
+        "Barrier marking an outfield\u2019s outer limit"
+      ],
+      [
+        "DAWN",
+        "Early light before sunrise"
+      ],
+      [
+        "PERCH",
+        "Rest on a branch"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROOSTER",
+      "CROW",
+      "RAIL"
+    ]
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "sing-with-the-room",
+    "title": "A Round that Starts Twice",
+    "description": "One group begins the tune, and a second group sings the same tune from the beginning a little later.",
+    "words": [
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "GROUP",
+        "Several people or things together"
+      ],
+      [
+        "START",
+        "Begin"
+      ],
+      [
+        "SAME",
+        "Just alike"
+      ],
+      [
+        "SING",
+        "Make music with the voice"
+      ],
+      [
+        "TUNE",
+        "Adjust an instrument so it plays the right notes"
+      ],
+      [
+        "LEAD",
+        "Traditional name for the graphite in a pencil"
+      ],
+      [
+        "ENTER",
+        "Go inside"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time arrives"
+      ],
+      [
+        "VOICE",
+        "Sound made when speaking"
+      ],
+      [
+        "ECHO",
+        "Repeating sound used as a comparison for an answering entry"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROUND",
+      "GROUP",
+      "START"
+    ]
+  },
+  {
+    "id": "sing-with-the-room-2",
+    "title": "A Duet at the Piano Bench",
+    "description": "Two voices share the song while the piano helps them find their notes.",
+    "words": [
+      [
+        "DUET",
+        "Performance by two singers"
+      ],
+      [
+        "PIANO",
+        "Keyboard instrument with strings struck by hammers"
+      ],
+      [
+        "BENCH",
+        "Long seat for several people"
+      ],
+      [
+        "PART",
+        "Line dividing hair combed in different directions"
+      ],
+      [
+        "VOICES",
+        "Sounds people make when they speak or sing"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "NOTES",
+        "Separate musical sounds"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "SING",
+        "Make music with the voice"
+      ],
+      [
+        "BLEND",
+        "Mixture of coffees from different sources"
+      ],
+      [
+        "HEAR",
+        "Notice sound with the ears"
+      ],
+      [
+        "TUNE",
+        "Melody a listener recognizes"
+      ]
+    ],
+    "requiredAnswers": [
+      "DUET",
+      "PIANO",
+      "BENCH"
+    ]
+  },
+  {
+    "id": "sing-with-the-room-3",
+    "title": "A Song Finished without Instruments",
+    "description": "A group carries the last line with voices alone after the instruments fall silent.",
+    "words": [
+      [
+        "VOICE",
+        "Sound produced by a singer's throat"
+      ],
+      [
+        "QUIET",
+        "Making little noise"
+      ],
+      [
+        "SONG",
+        "Music with words to sing"
+      ],
+      [
+        "VERSE",
+        "Writing arranged in poetic lines"
+      ],
+      [
+        "ALONE",
+        "Without others"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "HUM",
+        "Sing a tune with closed lips and no words"
+      ],
+      [
+        "HOLD",
+        "Keep in place"
+      ],
+      [
+        "BREATH",
+        "Air taken in before singing a phrase"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "CHOIR",
+        "An organized group of singers"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to a sound"
+      ]
+    ],
+    "requiredAnswers": [
+      "VOICE",
+      "QUIET",
+      "SONG"
+    ]
+  },
+  {
+    "id": "sing-with-the-room-4",
+    "title": "A Singer Waiting for the Cue",
+    "description": "A small nod tells the singer when to come in after the opening notes.",
+    "words": [
+      [
+        "CUE",
+        "Long pushing stick used in court shuffleboard"
+      ],
+      [
+        "NOD",
+        "A small dip of the head"
+      ],
+      [
+        "SINGER",
+        "Person performing music with the voice"
+      ],
+      [
+        "WAIT",
+        "Stay in place until the gate is ready"
+      ],
+      [
+        "OPENING",
+        "Space that lets you reach through"
+      ],
+      [
+        "NOTE",
+        "Brief reminder on paper"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "START",
+        "Place or stage where a game begins"
+      ],
+      [
+        "WATCH",
+        "Small timepiece worn on the wrist"
+      ],
+      [
+        "LEAD",
+        "Role guiding the direction of a partner dance"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ]
+    ],
+    "requiredAnswers": [
+      "CUE",
+      "NOD",
+      "SINGER"
+    ]
+  },
+  {
+    "id": "sing-with-the-room-5",
+    "title": "A Chorus Everyone Knows",
+    "description": "The repeated part of the song gives listeners an easy place to join.",
+    "words": [
+      [
+        "CHORUS",
+        "Song section commonly returning with the same words"
+      ],
+      [
+        "REPEAT",
+        "To perform a musical phrase again"
+      ],
+      [
+        "WORDS",
+        "Units of speech or writing"
+      ],
+      [
+        "JOIN",
+        "To connect two crocheted pieces"
+      ],
+      [
+        "SONG",
+        "Vocal piece with a melody"
+      ],
+      [
+        "SING",
+        "To produce a sequence of musical bird sounds"
+      ],
+      [
+        "VERSE",
+        "Writing arranged in poetic lines"
+      ],
+      [
+        "TOGETHER",
+        "At the same time, as the friends begin singing"
+      ],
+      [
+        "TUNE",
+        "Melody carried by a traditional song"
+      ],
+      [
+        "AGAIN",
+        "One more time"
+      ],
+      [
+        "REMEMBER",
+        "Recall something from the past"
+      ],
+      [
+        "GROUP",
+        "Several singers performing together"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHORUS",
+      "REPEAT",
+      "WORDS"
+    ]
+  }
+]

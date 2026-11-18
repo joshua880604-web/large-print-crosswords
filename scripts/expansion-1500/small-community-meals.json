@@ -1,0 +1,298 @@
+[
+  {
+    "id": "small-community-meals",
+    "title": "A Place for Empty Plates",
+    "description": "A tray near the far door gives guests a place to set used dishes on the way out.",
+    "words": [
+      [
+        "TRAY",
+        "Flat serving container with a raised edge"
+      ],
+      [
+        "PLATES",
+        "Flat dishes that hold a meal"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "DROP",
+        "One small rounded amount of falling rain"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "USED",
+        "Already handled or eaten from"
+      ],
+      [
+        "DISHES",
+        "Plates and bowls"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ],
+      [
+        "CLEAR",
+        "Remove what is in the way"
+      ],
+      [
+        "EXIT",
+        "To leave the visible acting area"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRAY",
+      "PLATES",
+      "STACK"
+    ]
+  },
+  {
+    "id": "small-community-meals-2",
+    "title": "A Sign for the Meatless Pot",
+    "description": "A label by the serving spoon helps a guest choose the right soup without lifting lids.",
+    "words": [
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "POT",
+        "Deep cooking vessel"
+      ],
+      [
+        "SOUP",
+        "Liquid-based dish served in a bowl"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "MEATLESS",
+        "Made without meat"
+      ],
+      [
+        "LADLE",
+        "Deep spoon for serving soup"
+      ],
+      [
+        "SERVE",
+        "To offer prepared food to someone"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "CHOOSE",
+        "Pick from several options"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "READ",
+        "To follow and understand written words"
+      ]
+    ],
+    "requiredAnswers": [
+      "LABEL",
+      "POT",
+      "SOUP"
+    ]
+  },
+  {
+    "id": "small-community-meals-3",
+    "title": "Keeping Cups by the Drink Table",
+    "description": "Cups are stacked within reach and water is kept where a spill can be wiped up.",
+    "words": [
+      [
+        "CUPS",
+        "Small containers used for drinking"
+      ],
+      [
+        "STACK",
+        "Place in a neat vertical pile"
+      ],
+      [
+        "DRINK",
+        "Swallow a liquid"
+      ],
+      [
+        "REACH",
+        "Stretch out an arm to get something"
+      ],
+      [
+        "WATER",
+        "Clear liquid from a tap"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "TABLE",
+        "Raised surface for meals or work"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ],
+      [
+        "SPILL",
+        "Liquid accidentally let out of a container"
+      ],
+      [
+        "NAPKINS",
+        "Pieces of paper or fabric used to wipe at a meal"
+      ],
+      [
+        "JUG",
+        "Handled container for pouring liquids"
+      ],
+      [
+        "REFILL",
+        "Another serving poured into a cup that has been emptied"
+      ]
+    ],
+    "requiredAnswers": [
+      "CUPS",
+      "STACK",
+      "DRINK"
+    ]
+  },
+  {
+    "id": "small-community-meals-4",
+    "title": "A List for the Potluck Table",
+    "description": "A short list by the door helps the host place dishes where guests can find them.",
+    "words": [
+      [
+        "LIST",
+        "Items written one below another"
+      ],
+      [
+        "POTLUCK",
+        "Shared meal to which guests bring different dishes"
+      ],
+      [
+        "HOST",
+        "Person welcoming guests to a meal"
+      ],
+      [
+        "DISH",
+        "Container from which food is served"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "TABLE",
+        "Furniture around which diners sit"
+      ],
+      [
+        "DOOR",
+        "Hinged entrance to a house"
+      ],
+      [
+        "CHOICE",
+        "Something you can pick"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ],
+      [
+        "BRING",
+        "Carry something here"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ]
+    ],
+    "requiredAnswers": [
+      "LIST",
+      "POTLUCK",
+      "HOST"
+    ]
+  },
+  {
+    "id": "small-community-meals-5",
+    "title": "Taking a Plate to Someone at Home",
+    "description": "A secure cover stays flat while a meal is carried out to a neighbor.",
+    "words": [
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "MEAL",
+        "Food eaten together at a customary time"
+      ],
+      [
+        "NEIGHBOR",
+        "Person living nearby"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ],
+      [
+        "PORTION",
+        "Amount of leftover food packed for one serving"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible material"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "HAND",
+        "Body part with fingers and a thumb"
+      ],
+      [
+        "SHARE",
+        "Give part of something to others"
+      ]
+    ],
+    "requiredAnswers": [
+      "PLATE",
+      "COVER",
+      "MEAL"
+    ]
+  }
+]
