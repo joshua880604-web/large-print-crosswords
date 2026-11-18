@@ -25,6 +25,17 @@ test('print directory opens the sheet directly and keeps answers and play separa
   // This check exercises the catalog links and printable sheet.
   await context.route('**/previews/*.svg',route=>route.abort());
   const plain=await context.newPage();await plain.goto('/printable/',{waitUntil:'domcontentloaded'});
+  const featured=plain.getByRole('region',{name:'Featured puzzles to print'});
+  await expect(featured.getByRole('heading',{level:3})).toHaveText(['Gardening','Nostalgia','Food']);
+  const featuredIds=[
+   'garden-harvest-baskets','garden-harvest-baskets-2','street-sights-remembered-2',
+   'family-photos-and-film-4','bakers-specialties-2','eating-at-the-diner-5'
+  ];
+  const featuredLinks=await featured.getByRole('link').evaluateAll(links=>links.map(link=>link.getAttribute('href')));
+  expect(featuredLinks).toEqual(featuredIds.flatMap(id=>[
+   `/print/${id}/`,`/print/${id}-answers/`,`/crosswords/${id}/`
+  ]));
+  await expect(plain.getByRole('link',{name:'Browse all puzzles',exact:true})).toHaveAttribute('href','#all-puzzles');
   await plain.locator('a.puzzle-card[href="/print/garden-days/"]').click();
   await expect(plain.locator('.print-clues')).toBeVisible();
   await expect(plain.getByRole('link',{name:'Separate answer sheet',exact:true})).toHaveAttribute('href','/print/garden-days-answers/');

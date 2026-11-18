@@ -63,6 +63,23 @@ for(let i=0;i<queue.length;i++)for(const target of navigation.get(queue[i])||[])
  if(indexable.has(target)&&!depth.has(target)){depth.set(target,depth.get(queue[i])+1);queue.push(target);}
 }
 for(const url of indexable)assert.ok(depth.has(url),`Indexable page has no HTML navigation path from home: ${url}`);
+// Validate the two-way topic and series navigation in the generated HTML.
+const topicUrls=[...indexable].filter(url=>url.endsWith('-crosswords/'));
+const gamesBySeries=new Map();
+const gameUrl=p=>`${origin}/crosswords/${p.id}/`;
+for(const puzzle of puzzles){
+ const urls=gamesBySeries.get(puzzle.series)||[];
+ urls.push(gameUrl(puzzle));
+ gamesBySeries.set(puzzle.series,urls);
+}
+for(const puzzle of puzzles){
+ const url=gameUrl(puzzle),links=navigation.get(url);
+ assert.ok(topicUrls.some(topic=>links.has(topic)&&navigation.get(topic).has(url)),
+  `${url}: needs a reciprocal topic link`);
+ for(const peer of gamesBySeries.get(puzzle.series)){
+  if(peer!==url)assert.ok(links.has(peer),`${url}: missing link to series peer ${peer}`);
+ }
+}
 const sitemap=readFileSync(join(dist,'sitemap.xml'),'utf8');
 const listed=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>decode(m[1]));
 assert.equal(new Set(listed).size,listed.length,'Sitemap has duplicate URLs');

@@ -2,8 +2,8 @@ import {test,expect} from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
 const collections=[
- ['gardening',100],['flower',35],['nature',130],['food',140],['everyday',225],
- ['hobby',135],['nostalgia',65],['bible',70],['spring',40],['summer',35],
+ ['gardening',102],['flower',35],['nature',140],['food',182],['everyday',274],
+ ['hobby',176],['nostalgia',115],['bible',70],['spring',40],['summer',36],
  ['autumn',30],['easter',25],['halloween',15]
 ] as const;
 for(const [slug,count] of collections)test(`${slug} collection has actual games and clean navigation`,async({page,request})=>{

@@ -1,8 +1,83 @@
 ---
+import Collection from '../components/Collection.astro';
 import TopicLinks from '../components/TopicLinks.astro';
-import Layout from '../layouts/Layout.astro';import Collection from '../components/Collection.astro';
+import puzzles from '../data/puzzles.json';
+import Layout from '../layouts/Layout.astro';
+
+const featured = [
+  { theme: 'Gardening', ids: ['garden-harvest-baskets', 'garden-harvest-baskets-2'] },
+  { theme: 'Nostalgia', ids: ['street-sights-remembered-2', 'family-photos-and-film-4'] },
+  { theme: 'Food', ids: ['bakers-specialties-2', 'eating-at-the-diner-5'] },
+].map(({ theme, ids }) => ({
+  theme,
+  puzzles: ids.map((id) => {
+    const puzzle = puzzles.find((item) => item.id === id);
+    if (!puzzle) throw new Error(`Missing featured printable puzzle: ${id}`);
+    return puzzle;
+  }),
+}));
 ---
-<Layout title="Free Printable Large Print Crosswords with Answers" description="Browse free printable large print crossword puzzles for seniors and adults. Easy-to-read clues, US Letter pages, and separate answer sheets. No sign-up." active="print"><div class="container print-directory"><header class="page-heading"><h1>Free printable large print crosswords.</h1><p>Choose a puzzle to print, open its separate answers, or play online. Free for adults who prefer larger letters.</p></header><p class="notice"><strong>Large: 18pt, two pages.</strong> Compact: 13pt, one page. Use US Letter paper. Save either sheet as a PDF from your browser’s print window.</p><p class="print-pack-link"><a class="button" href="/print-pack/">Choose puzzles for a print pack</a></p><Collection print/><TopicLinks/></div></Layout>
+<Layout
+  title="Free Printable Large Print Crosswords with Answers"
+  description="Browse free printable large print crossword puzzles for seniors and adults. Easy-to-read clues, US Letter pages, and separate answer sheets. No sign-up."
+  active="print"
+>
+  <div class="container print-directory">
+    <header class="page-heading">
+      <h1>Free printable large print crosswords.</h1>
+      <p>Free for adults who prefer larger letters. No sign-up required.</p>
+    </header>
+    <p class="notice">
+      <strong>Large: 18pt, two pages.</strong> Compact: 13pt, one page. Use US Letter paper.
+      Save either sheet as a PDF from your browser’s print window.
+    </p>
+    <div class="print-directory-actions">
+      <a class="button" href="/print-pack/">Choose puzzles for a print pack</a>
+      <a href="#all-puzzles">Browse all puzzles</a>
+    </div>
+    <section class="featured-print" aria-labelledby="featured-print-heading">
+      <h2 id="featured-print-heading">Featured puzzles to print</h2>
+      <div class="featured-themes">
+        {featured.map(({ theme, puzzles: featuredPuzzles }) => (
+          <div class="featured-theme">
+            <h3>{theme}</h3>
+            <ul>
+              {featuredPuzzles.map((puzzle) => (
+                <li>
+                  <h4>{puzzle.title}</h4>
+                  <div class="featured-links">
+                    <a href={`/print/${puzzle.id}/`} aria-label={`Print puzzle: ${puzzle.title}`}>Print puzzle</a>
+                    <a href={`/print/${puzzle.id}-answers/`} aria-label={`Print answers: ${puzzle.title}`}>Print answers</a>
+                    <a href={`/crosswords/${puzzle.id}/`} aria-label={`Play online: ${puzzle.title}`}>Play online</a>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+    <section aria-labelledby="all-puzzles">
+      <h2 id="all-puzzles">Browse all puzzles</h2>
+      <Collection print/>
+    </section>
+    <TopicLinks/>
+  </div>
+</Layout>
 <style>
-.print-directory .page-heading{padding-top:32px;padding-bottom:22px}.print-pack-link{margin:18px 0 24px}
+  .print-directory .page-heading { padding-top: 32px; padding-bottom: 22px; }
+  .print-directory-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; margin: 18px 0 32px; }
+  .print-directory-actions a:not(.button), .featured-links a { text-decoration: underline; text-underline-offset: 3px; }
+  .featured-print { margin-bottom: 40px; }
+  .featured-themes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-top: 16px; }
+  .featured-theme { padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: #fffdf8; }
+  .featured-theme ul { list-style: none; margin: 12px 0 0; padding: 0; }
+  .featured-theme li + li { border-top: 1px solid var(--line); padding-top: 8px; }
+  .featured-theme h4 { margin: 0; font-size: 17px; line-height: 1.4; }
+  .featured-links { display: flex; flex-wrap: wrap; gap: 0 12px; }
+  .featured-links a { display: inline-flex; align-items: center; min-height: 44px; font-size: 16px; }
+  #all-puzzles { margin-bottom: 16px; }
+  @media (max-width: 800px) {
+    .featured-themes { grid-template-columns: minmax(0, 1fr); }
+  }
 </style>
