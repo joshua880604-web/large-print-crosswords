@@ -1,0 +1,271 @@
+ABOVE|At a higher position
+AHEAD|Farther along in the direction of travel
+AREA|Part of a larger space
+AROUND|On all sides of something
+AUTUMN|Season between summer and winter
+BELOW|In a lower position
+BIND|Fasten separate sheets together
+BIRDS|Animals with feathers and beaks
+CLAWS|Pointed nails that an animal uses to grip
+CLICK|Short sharp sound from moving a small part
+CUBES|Solid shapes with six square faces
+DAYS|Time periods counted from morning to morning
+DESERT|Very dry region with little rain
+DISTANT|A long way away
+DOTS|Small round marks
+EXTEND|Make longer by drawing part of it out
+FEEL|Notice the shape or surface of something with a hand
+FEET|Parts at the ends of the legs
+HANDLES|Parts made to hold when lifting or moving something
+INSERT|Put something into an opening
+MILL|Device that grinds material into smaller pieces
+MOLD|Form that gives a soft material a shape
+OBJECT|Physical thing that can be seen or touched
+PANEL|Flat section that holds controls or markings
+POTS|Deep containers made to hold things such as food or plants
+POURER|Spout or tool that helps guide a flowing liquid
+RACKS|Frames for holding things in rows
+RANK|Position in a group ordered by achievement
+REAR|Back part of something
+SAD|Feeling unhappy or sorry
+SCORECARD|Printed card used to record the points in a game
+STATIC|Crackling noise that can interfere with a radio broadcast
+STEMS|Plant parts that support the leaves or fruit
+TELL|Give someone information in words
+TIPS|Parts at the farthest ends of narrow things
+TOUCH|Put a hand or finger against something
+TRY|Make an attempt
+WARN|Tell someone that trouble may be ahead
+WHEELS|Round parts that turn to let something roll
+WINGS|Parts that many animals use when flying
+YEARS|Periods that each last twelve months
+SHIP|Large vessel that carries people or goods on the water
+AIR|What fills the space around us and lets us breathe
+AIR|Mixture of gases around the earth
+BASE|Bottom part that holds something up
+BASE|Part on which an object rests
+BASE|Lowest supporting surface
+BOOK|Pages fastened together inside a cover
+BOOK|Printed work with pages that turn
+BOTTLE|Container with an opening narrower than its body
+BOTTLE|Container for a liquid with a cap or stopper
+CARD|Stiff piece of paper that carries a message
+CARD|Small stiff sheet used for written information
+CHECK|Look over an item to see if it is right
+CHECK|Examine something to make sure it is ready
+CHECK|See whether something matches what is needed
+CLOSE|Shut an opening or cover
+CLOSE|Move a door or lid so it covers an opening
+CLOTH|Material made by weaving or knitting fibers
+CLOTH|Flexible fabric used for items such as towels or clothes
+CLOTH|Piece of fabric that may be folded or cut
+CORNER|Place where two edges or sides meet
+CORNER|Place where a surface changes direction at a point
+DRAW|Pull something toward a position
+DRAW|Move an object by pulling it
+DROP|Fall a short distance or let something fall
+DROP|Small bit of liquid that can fall from an edge
+DROP|Let an object go so it falls
+EARTH|Ground that can be dug or planted
+EARTH|Soil or dirt on the ground
+EDGE|Outside border of a surface
+EDGE|Part where a surface ends
+EDGE|Line forming the outside of a shape
+EDGE|Side nearest the boundary of an object
+EDGE|Outer part that someone may hold or touch
+ENTRY|Item submitted for a contest
+ENTRY|Place or act of going in
+FLOAT|Stay on top of a liquid without sinking
+FLOAT|Be supported by water rather than resting on the bottom
+FLOOR|Bottom surface of a room that people walk on
+FLOOR|Surface under the feet inside a building
+FLOOR|Part of a room beneath a chair or table
+FORM|Shape or arrangement of something
+FORM|Paper with spaces for information
+FRAME|Border around a picture or other object
+FRAME|Outside support that holds parts in place
+FRONT|Side that faces a viewer or looks forward
+FRONT|Part opposite the back
+FRONT|Side seen when approaching something head-on
+GUIDE|Thing that helps someone find a way or place an item
+GUIDE|Help someone follow a route or direction
+GUIDE|Person, book, or mark that shows the way
+HEAT|Warmth moved from one place to another
+HEAT|Energy that can make an object warmer
+HEAT|Bring something to a higher temperature
+HOLD|Keep something in place
+HOLD|Keep an object in your hand
+HOLD|Support something so it does not fall
+HOLD|Grip an object without letting it go
+HOLD|Keep an item from moving away
+HOLD|Carry the weight of something resting there
+JOSEPH|Jacob's son who lives in Egypt in the Genesis stories
+JOSEPH|Brother who sends supplies to his father in Genesis
+LEFT|Side opposite the right
+LEFT|Opposite side from the right hand
+LIFT|Raise something from where it rests
+LIFT|Move upward to a higher place
+LIFT|Pick an object up
+LINE|Long narrow mark on a surface
+LINE|Series of things set next to each other
+LINE|Row that extends in one direction
+LINE|Thin cord stretched between two points
+LINE|Written words in one row
+MARK|Small sign or line put on a surface
+MARK|Put a visible sign where it can be found later
+MARK|Visible trace left by a touch or movement
+MUSIC|Sounds arranged with rhythm or melody
+MUSIC|What people play with instruments or sing
+MUSIC|Song or other organized sound made for listening
+NEEDLE|Slender pointed rod or tool
+NEEDLE|Fine point used to sew or guide a reading
+NOTE|Short written message
+NOTE|Single musical sound or a sign for it
+NOTE|Brief words written to remember something
+OPEN|Move a cover or barrier away from an opening
+OPEN|With nothing keeping someone or something from passing through
+OPEN|Not closed or shut
+OPEN|Unfold or uncover what was closed
+PAGE|One side of a sheet in a book
+PAGE|Single printed or written face of a sheet
+PAGE|Side of a leaf that can be turned while reading
+PAPER|Thin material used for writing, printing, or wrapping
+PAPER|Material made into thin sheets
+PAPER|Sheet on which words or pictures can be printed
+PAPER|Thin material that takes a mark from a pen
+PAUSE|Stop briefly before continuing
+PAUSE|Short break in an ongoing activity
+PAUSE|Wait for a moment before going on
+PEEL|Pull a thin outer layer away
+PEEL|Remove the skin or covering from something
+PLAY|Take part in a game or make music
+PLAY|Perform music or cause a recording to sound
+PLAY|Take a turn or make a move in a game
+POINT|Sharp or narrow end of an object
+POINT|Direct a finger or an object toward a place
+POINT|Exact place indicated by a mark or tip
+POT|Deep container used for cooking or growing plants
+POT|Rounded vessel with room for food or soil
+PRESS|Push firmly against something
+PRESS|Apply force with a hand or tool
+PRESS|Push down on a surface
+PRESS|Move a button or part inward by pushing
+PRESS|Push two surfaces together
+PULL|Draw something toward you
+PULL|Move an object by drawing it closer
+PULL|Tug on something to make it move
+READ|Look at writing or markings to understand them
+READ|Find the meaning of written words
+READ|Use the displayed marks or numbers to get information
+READ|Look at a sign or scale and take in what it shows
+REST|Pause to relax or stop moving
+REST|Stay in place on a support
+REST|Remain where something else holds it
+REST|Take a short break from an activity
+RING|Round band that encloses an opening
+RING|Make the clear sound of a bell
+RING|Circular mark or shape
+ROLL|Move by turning over and over
+ROLL|Wind flat material into a rounded bundle
+ROLL|Small round loaf of bread
+ROUND|Shaped like a circle
+ROUND|Curved rather than square at the edges
+ROUND|Formed without sharp corners
+ROUND|In a circular shape like a wheel
+SERVE|Offer food or drink to the people at a table
+SERVE|Put a portion of food out for someone
+SHEET|Broad thin piece of paper, cloth, or metal
+SHEET|One flat layer of a material
+SHEET|Wide thin piece that can be laid flat
+SHOW|Let someone see or understand something
+SHOW|Performance offered to an audience
+SIDE|Part along the outside edge of an object
+SIDE|One surface other than the front or back
+SIDE|Part that faces in one direction from the center
+SIDE|Left or right part of a space
+SIZE|How large or small something is
+SIZE|Measurement used to tell one fit from another
+SIZE|Amount of space something takes up
+SLIDE|Move smoothly along a surface
+SLIDE|Move a part without lifting it
+SLIDE|Glide into or out of an opening
+SLIDE|Small picture that can be viewed by passing light through it
+SPRING|Coil or curved piece that pushes back when bent
+SPRING|Season after winter
+STAMP|Mark made by pressing an inked tool down
+STAMP|Small label showing that postage has been paid
+STAMP|Press a tool down to leave a printed mark
+START|Begin an action or trip
+START|Point at which an activity begins
+START|First part of a trip or task
+STEAM|Water vapor produced when water is heated
+STEAM|Hot water vapor rising into the air
+STOP|Come to a halt
+STOP|Place where someone pauses or a vehicle picks up people
+STOP|End a movement or an activity
+TONE|Quality or character of a sound
+TONE|Way a sound seems, such as bright or dull
+TOP|Highest part or upper surface
+TOP|Part opposite the bottom
+TOP|Surface farthest above the floor
+TOP|Cover or highest piece of a container
+TRAY|Shallow holder with a flat base
+TRAY|Flat container often used to carry several objects
+TRAY|Low open holder that keeps things together
+TURN|Change which way something faces
+TURN|Move around a center
+TURN|One person's opportunity to do something in a game
+TURN|Rotate a piece to show a different side
+WAIT|Stay until the expected time or event
+WAIT|Spend time in place before moving on
+WALK|Move from place to place on foot
+WALK|Take a trip on foot
+WALK|Go on foot along a path
+WRAP|Cover with flexible paper or fabric
+WRAP|Wind material around an object
+WRAP|Soft or thin covering around something
+BOW|Stick with hair drawn over the strings of a violin
+DISC|Flat round object such as a record
+DISC|Circular object with a flat face
+FLOWER|Part of a plant that blooms
+FLOWER|Blossom that may have petals
+FLOWER|Colorful part that opens from a bud
+FLOWER|Bloom on the end of a stem
+GROW|Become larger over time
+GROW|Increase in size as time passes
+HAND|Part at the end of an arm with fingers and a thumb
+HAND|Part of the body used for holding or touching things
+HAND|Part between the wrist and the fingertips
+LOOK|Direct the eyes toward something
+LOOK|Use your eyes to find or notice something
+REEL|Spool around which a strip or strand can be wound
+REEL|Round holder for a long thin material that can be wound up
+RIDE|Travel in or on a vehicle
+RIDE|Trip made as a passenger or on a bicycle
+RIDGE|Long narrow raised strip on a surface
+RIDGE|Raised line with lower areas on both sides
+ROOM|Space inside a building surrounded by walls
+ROOM|Indoor space that people can enter
+ROOM|Amount of free space around something
+ROW|Line of things arranged side by side
+ROW|Series of things or people along one line
+SLIP|Small piece of paper that may carry writing
+SLIP|Move smoothly out of place
+SLIP|Paper piece small enough to hold in one hand
+SLOT|Narrow opening into which an item fits
+SLOT|Thin space left for a flat item
+SOUND|Something a person can hear
+SOUND|Noise that can be noticed with the ears
+SOUND|Audible effect made when something moves or plays
+SOUND|What reaches a listener's ears
+STALK|Main upright piece that supports a plant's leaves
+STALK|Long stem that holds leaves or flowers
+STAND|Support on which an object rests
+STAND|Rest upright on a base or the feet
+STAND|Frame that holds something up
+STRIKE|Hit something with a short firm motion
+STRIKE|Make quick contact with a surface
+WATER|Clear liquid such as what flows from a tap
+WATER|Liquid found in rivers and ponds
+WATER|Liquid that falls as rain and freezes into ice
+WATER|Liquid used for drinking and washing

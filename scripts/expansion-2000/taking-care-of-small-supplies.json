@@ -1,0 +1,322 @@
+[
+  {
+    "id": "taking-care-of-small-supplies",
+    "title": "Putting a Date on a New Box of Batteries",
+    "description": "The date written on a small label helps distinguish a newly bought box from one already in the drawer.",
+    "words": [
+      [
+        "DATE",
+        "Day the new package was brought home"
+      ],
+      [
+        "BOX",
+        "Container holding several batteries"
+      ],
+      [
+        "LABEL",
+        "Written tag attached to the package"
+      ],
+      [
+        "POWER",
+        "Energy that makes an electrical device work"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "DRAWER",
+        "Pull-out compartment in a piece of furniture"
+      ],
+      [
+        "MARK",
+        "Small sign or line put on a surface"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "KEEP",
+        "Hold onto rather than discard"
+      ]
+    ],
+    "requiredAnswers": [
+      "DATE",
+      "BOX",
+      "LABEL"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-2",
+    "title": "Putting a Bright Tab across a Spare Key",
+    "description": "The bright marker identifies one small key before it is lifted out of a group.",
+    "words": [
+      [
+        "KEY",
+        "Small metal tool for working a lock"
+      ],
+      [
+        "TAB",
+        "Short marker attached to its handle"
+      ],
+      [
+        "BRIGHT",
+        "With strong color that is easy to see"
+      ],
+      [
+        "LOCK",
+        "Device secured or released with a door key"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "TAG",
+        "Small label attached to an item"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "GROUP",
+        "Several people or things together"
+      ],
+      [
+        "RING",
+        "Round band that encloses an opening"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "KEY",
+      "TAB",
+      "BRIGHT"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-3",
+    "title": "Standing Small Bottles in a Divided Tray",
+    "description": "The divider between openings keeps narrow bottles standing instead of rolling together.",
+    "words": [
+      [
+        "BOTTLES",
+        "Small containers with narrow openings"
+      ],
+      [
+        "DIVIDER",
+        "Piece that keeps two spaces separate"
+      ],
+      [
+        "UPRIGHT",
+        "Standing up with the tops above their bases"
+      ],
+      [
+        "BASE",
+        "Bottom part that holds something up"
+      ],
+      [
+        "CAP",
+        "Small cover that fits over an opening"
+      ],
+      [
+        "TRAY",
+        "Shallow holder with a flat base"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "GROUP",
+        "Several singers performing together"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of something"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOTTLES",
+      "DIVIDER",
+      "UPRIGHT"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-4",
+    "title": "Putting a Strip of Paper around Spare Rubber Bands",
+    "description": "The strip keeps the unused bands in one bundle so they do not tangle with supplies in a drawer.",
+    "words": [
+      [
+        "BANDS",
+        "Stretchable loops used to hold things together"
+      ],
+      [
+        "BUNDLE",
+        "Set of things gathered firmly together"
+      ],
+      [
+        "TANGLE",
+        "Twist into a confusing mass"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "DRAWER",
+        "Sliding storage compartment beneath a work surface"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "HOLD",
+        "Keep an object in your hand"
+      ],
+      [
+        "LOOP",
+        "Curve made by bending string"
+      ],
+      [
+        "ROLL",
+        "Move by turning over and over"
+      ],
+      [
+        "KEEP",
+        "Save as a reminder of a trip"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ]
+    ],
+    "requiredAnswers": [
+      "BANDS",
+      "BUNDLE",
+      "TANGLE"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-5",
+    "title": "Putting the Loose End of Tape through a Clip",
+    "description": "A small clip keeps the end visible instead of letting it stick flat against the rest of the roll.",
+    "words": [
+      [
+        "TAPE",
+        "Long strip made to stick to a surface"
+      ],
+      [
+        "CLIP",
+        "Small tool that holds the loose end away from the roll"
+      ],
+      [
+        "END",
+        "Part that starts when the strip is pulled out"
+      ],
+      [
+        "ROLL",
+        "Wind flat material into a rounded bundle"
+      ],
+      [
+        "STICK",
+        "Small thin piece of wood"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "HOLD",
+        "Support something so it does not fall"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "LOOP",
+        "Ringlike bend of yarn caught by a crochet hook"
+      ],
+      [
+        "EDGE",
+        "Part where a surface ends"
+      ],
+      [
+        "PAPER",
+        "Material made into thin sheets"
+      ],
+      [
+        "WRAP",
+        "Wind material around an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "TAPE",
+      "CLIP",
+      "END"
+    ]
+  }
+]

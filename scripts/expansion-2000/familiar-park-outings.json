@@ -1,0 +1,342 @@
+[
+  {
+    "id": "familiar-park-outings",
+    "title": "Picking Up a Map at a Park Visitor Center",
+    "description": "A folded map from the desk shows where to find the restrooms, trails and picnic area.",
+    "words": [
+      [
+        "MAP",
+        "Drawing that shows where places are"
+      ],
+      [
+        "FOLD",
+        "Crease a sheet to make it smaller"
+      ],
+      [
+        "TRAIL",
+        "Path for walking through a park"
+      ],
+      [
+        "DESK",
+        "Counter where a visitor asks for help"
+      ],
+      [
+        "KEY",
+        "Part of a map that explains its signs"
+      ],
+      [
+        "PICNIC",
+        "Meal eaten outdoors"
+      ],
+      [
+        "RANGER",
+        "Worker who looks after a park"
+      ],
+      [
+        "PAPER",
+        "Material many trail maps are printed on"
+      ],
+      [
+        "MARK",
+        "Put a line or dot on the map"
+      ],
+      [
+        "ROUTE",
+        "Path to follow to a destination"
+      ],
+      [
+        "RESTROOM",
+        "Public room with a toilet and sink"
+      ],
+      [
+        "SYMBOL",
+        "Small picture standing for a place or feature"
+      ],
+      [
+        "CIRCLE",
+        "Ring drawn around your destination"
+      ],
+      [
+        "GUIDE",
+        "Person or book that shows the way"
+      ]
+    ],
+    "requiredAnswers": [
+      "MAP",
+      "FOLD",
+      "TRAIL"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-2",
+    "title": "Showing a Park Pass at the Entrance",
+    "description": "At the entry booth, an attendant checks the pass before waving the car through.",
+    "words": [
+      [
+        "PASS",
+        "Card that permits entry"
+      ],
+      [
+        "BOOTH",
+        "Small shelter for an attendant"
+      ],
+      [
+        "ENTRY",
+        "Place where you go in"
+      ],
+      [
+        "DRIVER",
+        "Person at the wheel of a car"
+      ],
+      [
+        "GATE",
+        "Barrier that opens to let someone through"
+      ],
+      [
+        "CHECK",
+        "Look at a pass to see whether it is valid"
+      ],
+      [
+        "DATE",
+        "Day written on a permit"
+      ],
+      [
+        "SLOW",
+        "Move at a low speed"
+      ],
+      [
+        "WINDOW",
+        "Glass panel a driver rolls down"
+      ],
+      [
+        "WAVE",
+        "Move a hand back and forth as a signal"
+      ],
+      [
+        "OPEN",
+        "Raise or move the barrier out of the way"
+      ],
+      [
+        "LINE",
+        "Row of people or vehicles waiting"
+      ],
+      [
+        "PARK",
+        "Public land set aside for outings"
+      ],
+      [
+        "CARD",
+        "Small flat piece of stiff paper or plastic"
+      ]
+    ],
+    "requiredAnswers": [
+      "PASS",
+      "BOOTH",
+      "ENTRY"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-3",
+    "title": "Following Color Marks on a Nature Trail",
+    "description": "Marks of the same color point out the right turn where two paths meet.",
+    "words": [
+      [
+        "MARKS",
+        "Painted signs that show where a path goes"
+      ],
+      [
+        "COLOR",
+        "Shade such as red or blue"
+      ],
+      [
+        "TURN",
+        "Go in a different direction"
+      ],
+      [
+        "PATH",
+        "Way made for walking"
+      ],
+      [
+        "FORK",
+        "Place where a path branches in two"
+      ],
+      [
+        "PAINT",
+        "Colored liquid used to make the signs"
+      ],
+      [
+        "FOLLOW",
+        "Go the same way the signs show"
+      ],
+      [
+        "MATCH",
+        "Find another mark of the same shade"
+      ],
+      [
+        "TRUNK",
+        "Upright main part of a tree"
+      ],
+      [
+        "ARROW",
+        "Pointed mark that shows a direction"
+      ],
+      [
+        "BEND",
+        "Curve in a path"
+      ],
+      [
+        "POST",
+        "Short upright support for a sign"
+      ],
+      [
+        "AHEAD",
+        "In front of you"
+      ],
+      [
+        "RETURN",
+        "Go back to where you began"
+      ]
+    ],
+    "requiredAnswers": [
+      "MARKS",
+      "COLOR",
+      "TURN"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-4",
+    "title": "Watching the Steam at a Yellowstone Geyser",
+    "description": "People stand in a viewing area to watch a burst of hot water and a cloud of steam.",
+    "words": [
+      [
+        "GEYSER",
+        "Hot spring that sends water shooting into the air"
+      ],
+      [
+        "STEAM",
+        "Vapor rising from hot water"
+      ],
+      [
+        "BURST",
+        "Sudden rush of water from an opening"
+      ],
+      [
+        "CLOUD",
+        "Visible mass of tiny droplets above the spray"
+      ],
+      [
+        "SPRAY",
+        "Water scattered in fine drops"
+      ],
+      [
+        "RAIL",
+        "Barrier at the edge of the viewing area"
+      ],
+      [
+        "WATCH",
+        "Look at something as it happens"
+      ],
+      [
+        "WAIT",
+        "Stay until something happens"
+      ],
+      [
+        "ROCK",
+        "Hard piece of stone"
+      ],
+      [
+        "RISE",
+        "Move upward into the air"
+      ],
+      [
+        "SIGHT",
+        "Something worth looking at"
+      ],
+      [
+        "HOT",
+        "High in temperature"
+      ],
+      [
+        "GROUND",
+        "Surface you stand on"
+      ],
+      [
+        "SOUND",
+        "Something heard as the water shoots up"
+      ]
+    ],
+    "requiredAnswers": [
+      "GEYSER",
+      "STEAM",
+      "BURST"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-5",
+    "title": "Looking Up at Giant Trees from a Boardwalk",
+    "description": "The wooden walkway keeps feet on a firm path while visitors look up at tall trunks.",
+    "words": [
+      [
+        "TRUNK",
+        "Thick upright part of a tree"
+      ],
+      [
+        "PLANK",
+        "Long flat board you can walk on"
+      ],
+      [
+        "HEIGHT",
+        "Distance from the ground to the top"
+      ],
+      [
+        "FOREST",
+        "Area covered with many trees"
+      ],
+      [
+        "BARK",
+        "Rough cover on the outside of a tree"
+      ],
+      [
+        "SHADE",
+        "Cooler place out of direct sunlight"
+      ],
+      [
+        "WIDE",
+        "With a large distance from side to side"
+      ],
+      [
+        "WOOD",
+        "Hard material that makes up the boards"
+      ],
+      [
+        "ROOT",
+        "Part of a tree that holds it in the ground"
+      ],
+      [
+        "BRANCH",
+        "Part jutting out from the main tree"
+      ],
+      [
+        "LOOK",
+        "Turn your eyes toward something"
+      ],
+      [
+        "TALL",
+        "Reaching high above the ground"
+      ],
+      [
+        "DECK",
+        "Raised flat surface of boards"
+      ],
+      [
+        "RINGS",
+        "Circles visible in the cut end of a log"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRUNK",
+      "PLANK",
+      "HEIGHT"
+    ]
+  }
+]

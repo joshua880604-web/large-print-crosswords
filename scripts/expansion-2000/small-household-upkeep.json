@@ -1,0 +1,342 @@
+[
+  {
+    "id": "small-household-upkeep",
+    "title": "Clearing Lint from a Dryer Screen",
+    "description": "A thin layer of fuzz lifts away from the mesh screen before more clothes go into the dryer.",
+    "words": [
+      [
+        "LINT",
+        "Fuzz that comes loose from clothing"
+      ],
+      [
+        "SCREEN",
+        "Mesh panel that catches lint from dryer air"
+      ],
+      [
+        "PEEL",
+        "Pull a thin layer away from the mesh"
+      ],
+      [
+        "MESH",
+        "Material made with many small openings"
+      ],
+      [
+        "DRYER",
+        "Machine that takes moisture out of clothes"
+      ],
+      [
+        "AIR",
+        "What moves through the tiny holes"
+      ],
+      [
+        "FIBERS",
+        "Thin strands that come loose from the fabric"
+      ],
+      [
+        "TRAP",
+        "Catch fibers before they go farther"
+      ],
+      [
+        "SLIDE",
+        "Move the frame out along its guide"
+      ],
+      [
+        "HANDLE",
+        "Part of the screen you hold to remove it"
+      ],
+      [
+        "FRAME",
+        "Border that keeps the mesh flat"
+      ],
+      [
+        "CLEAR",
+        "Free the openings from what covers them"
+      ],
+      [
+        "DUST",
+        "Fine loose particles"
+      ],
+      [
+        "TRASH",
+        "Waste that gets thrown out"
+      ]
+    ],
+    "requiredAnswers": [
+      "LINT",
+      "SCREEN",
+      "PEEL"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-2",
+    "title": "Wiping a Paintbrush against a Band over the Can",
+    "description": "A tight band stretched above the open can takes extra paint off the brush so drips fall back inside.",
+    "words": [
+      [
+        "BAND",
+        "Loop stretched across the mouth of the can"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles for spreading paint"
+      ],
+      [
+        "DRIP",
+        "Fall a drop at a time"
+      ],
+      [
+        "RUBBER",
+        "Stretchy material used in the loop"
+      ],
+      [
+        "PAINT",
+        "Liquid coating used to change the color of a surface"
+      ],
+      [
+        "RIM",
+        "Edge around the top of the can"
+      ],
+      [
+        "CAN",
+        "Round metal container that holds paint"
+      ],
+      [
+        "STRETCH",
+        "Make the loop longer by pulling on it"
+      ],
+      [
+        "WIPE",
+        "Draw the brush lightly across the band"
+      ],
+      [
+        "EXTRA",
+        "More than is needed on the brush"
+      ],
+      [
+        "TIGHT",
+        "Held under a pull without sagging"
+      ],
+      [
+        "DROP",
+        "Little bit of liquid that falls into the can"
+      ],
+      [
+        "COAT",
+        "Layer of paint put onto a surface"
+      ],
+      [
+        "CLEAN",
+        "Free of stuck paint around the opening"
+      ]
+    ],
+    "requiredAnswers": [
+      "BAND",
+      "BRUSH",
+      "DRIP"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-3",
+    "title": "Lifting the Packing Corners off a New Table",
+    "description": "Padded protectors slide off before the table is put in place, revealing the four corners underneath.",
+    "words": [
+      [
+        "CORNER",
+        "Point where two sides of the table meet"
+      ],
+      [
+        "PAD",
+        "Soft piece that keeps the table from being bumped"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly away from the corner"
+      ],
+      [
+        "TABLE",
+        "Piece of furniture with a flat top supported by legs"
+      ],
+      [
+        "WRAP",
+        "Material put around the item during shipping"
+      ],
+      [
+        "FOAM",
+        "Light material with tiny pockets of air that gives when pressed"
+      ],
+      [
+        "COVER",
+        "Layer that keeps the finish from getting marked"
+      ],
+      [
+        "EDGE",
+        "Outer line along a side of the table"
+      ],
+      [
+        "LIFT",
+        "Raise the pad away from the table"
+      ],
+      [
+        "BOX",
+        "Container used to ship the piece of furniture"
+      ],
+      [
+        "PACK",
+        "Put into a container for travel"
+      ],
+      [
+        "TOP",
+        "Highest flat surface of the table"
+      ],
+      [
+        "MARK",
+        "Visible line left by a scrape"
+      ],
+      [
+        "FIRM",
+        "Hard enough to hold a shape"
+      ]
+    ],
+    "requiredAnswers": [
+      "CORNER",
+      "PAD",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-4",
+    "title": "Replacing a Battery in a Wall Clock",
+    "description": "The clock is taken down so a fresh battery can be fitted into the small holder on the back.",
+    "words": [
+      [
+        "BATTERY",
+        "Small cell that gives the clock power"
+      ],
+      [
+        "CLOCK",
+        "Device with hands that show the time"
+      ],
+      [
+        "BACK",
+        "Side of the clock that normally faces the wall"
+      ],
+      [
+        "WALL",
+        "Upright surface where the clock hangs"
+      ],
+      [
+        "HOLDER",
+        "Part that keeps a cell in the right place"
+      ],
+      [
+        "HANDS",
+        "Pointers that move around the dial"
+      ],
+      [
+        "TICK",
+        "Make a small repeated sound as the time advances"
+      ],
+      [
+        "MATCH",
+        "Set the clock to show the same time as another one"
+      ],
+      [
+        "HANG",
+        "Put the clock back on its nail or hook"
+      ],
+      [
+        "SPRING",
+        "Small coil that presses against the end of the cell"
+      ],
+      [
+        "POWER",
+        "Energy needed to move the clock hands"
+      ],
+      [
+        "ROUND",
+        "Shaped in a circle like many clock faces"
+      ],
+      [
+        "COVER",
+        "Part that closes over the holder"
+      ],
+      [
+        "RESET",
+        "Set the proper time again after a change"
+      ]
+    ],
+    "requiredAnswers": [
+      "BATTERY",
+      "CLOCK",
+      "BACK"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-5",
+    "title": "Emptying the Dust Cup of a Vacuum",
+    "description": "A clear cup detaches from a bagless vacuum, and a small door opens over the trash.",
+    "words": [
+      [
+        "DUST",
+        "Fine dry particles gathered while cleaning"
+      ],
+      [
+        "CUP",
+        "Container that holds the dirt in a bagless vacuum"
+      ],
+      [
+        "LATCH",
+        "Part that keeps the small door shut"
+      ],
+      [
+        "EMPTY",
+        "Remove everything inside the cup"
+      ],
+      [
+        "BIN",
+        "Container that catches what is thrown away"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of the cup where the door opens"
+      ],
+      [
+        "CLEAR",
+        "Made of material you can see through"
+      ],
+      [
+        "DROP",
+        "Fall into the trash after the door opens"
+      ],
+      [
+        "HOLD",
+        "Keep the cup over the bin"
+      ],
+      [
+        "PRESS",
+        "Push the release with a finger"
+      ],
+      [
+        "CLICK",
+        "Short sound made when the latch closes"
+      ],
+      [
+        "VACUUM",
+        "Machine that draws dust up as it cleans"
+      ],
+      [
+        "DIRT",
+        "Loose material picked up from the floor"
+      ],
+      [
+        "RELEASE",
+        "Let go of what holds the cup in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "DUST",
+      "CUP",
+      "LATCH"
+    ]
+  }
+]

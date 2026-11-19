@@ -1,0 +1,338 @@
+[
+  {
+    "id": "music-in-a-small-room",
+    "title": "A Washboard Keeping Time with the Band",
+    "description": "A player taps and rubs the ridges to add a light beat behind the other instruments.",
+    "words": [
+      [
+        "WASHBOARD",
+        "Ridged tool once used to scrub clothes and also played in some bands"
+      ],
+      [
+        "RUB",
+        "Move back and forth against a surface"
+      ],
+      [
+        "BEAT",
+        "Steady pulse that a player keeps"
+      ],
+      [
+        "TAP",
+        "Hit lightly"
+      ],
+      [
+        "RIDGE",
+        "Raised line across the board"
+      ],
+      [
+        "SOUND",
+        "Something heard with the ears"
+      ],
+      [
+        "METAL",
+        "Hard material that can ring"
+      ],
+      [
+        "RHYTHM",
+        "Pattern of sounds and pauses"
+      ],
+      [
+        "BOARD",
+        "Flat piece with a firm surface"
+      ],
+      [
+        "HAND",
+        "Part of the body with fingers"
+      ],
+      [
+        "SCRAPE",
+        "Drag a hard tool along a rough surface"
+      ],
+      [
+        "PLAY",
+        "Make music on an instrument"
+      ],
+      [
+        "STROKE",
+        "One movement across the ridges"
+      ],
+      [
+        "BAND",
+        "Group of people playing music together"
+      ]
+    ],
+    "requiredAnswers": [
+      "WASHBOARD",
+      "RUB",
+      "BEAT"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-2",
+    "title": "When Johnny Comes Marching Home: A Welcome Parade",
+    "description": "The old American song imagines a returning marcher welcomed with cheers and bells.",
+    "words": [
+      [
+        "MARCH",
+        "Walk with regular steps in a group"
+      ],
+      [
+        "CHEERS",
+        "Shouts of welcome"
+      ],
+      [
+        "BELLS",
+        "Metal objects that ring when struck"
+      ],
+      [
+        "JOHNNY",
+        "First name in this song's title"
+      ],
+      [
+        "PARADE",
+        "Group moving together along a street"
+      ],
+      [
+        "HOME",
+        "Place the marcher is coming back to"
+      ],
+      [
+        "WAVE",
+        "Move a hand in greeting"
+      ],
+      [
+        "STREET",
+        "Road through the town"
+      ],
+      [
+        "STEP",
+        "One movement of a foot"
+      ],
+      [
+        "WELCOME",
+        "Greet someone who has arrived"
+      ],
+      [
+        "CROWD",
+        "Gathering of many people"
+      ],
+      [
+        "FLAG",
+        "Colored cloth displayed on a pole"
+      ],
+      [
+        "RING",
+        "Make a sound like a bell"
+      ],
+      [
+        "RETURN",
+        "Come back to the starting place"
+      ]
+    ],
+    "requiredAnswers": [
+      "MARCH",
+      "CHEERS",
+      "BELLS"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-3",
+    "title": "Auld Lang Syne: A Song at Midnight",
+    "description": "The old song is often sung at the start of a new year as people think about old friends.",
+    "words": [
+      [
+        "MIDNIGHT",
+        "Time when one day ends and another starts"
+      ],
+      [
+        "FRIENDS",
+        "People you know and care about"
+      ],
+      [
+        "RECALL",
+        "Bring a memory back to mind"
+      ],
+      [
+        "YEAR",
+        "Twelve months"
+      ],
+      [
+        "CLOCK",
+        "Device that shows the time"
+      ],
+      [
+        "SING",
+        "Make music with your voice"
+      ],
+      [
+        "PAST",
+        "Time before the present"
+      ],
+      [
+        "TUNE",
+        "Melody you can hum"
+      ],
+      [
+        "JOIN",
+        "Begin to take part"
+      ],
+      [
+        "TOAST",
+        "Short good wish said before raising a glass"
+      ],
+      [
+        "OLD",
+        "From a time long ago"
+      ],
+      [
+        "MEMORY",
+        "Something you remember"
+      ],
+      [
+        "GATHER",
+        "Come together in a group"
+      ],
+      [
+        "LAST",
+        "Coming after all the others"
+      ]
+    ],
+    "requiredAnswers": [
+      "MIDNIGHT",
+      "FRIENDS",
+      "RECALL"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-4",
+    "title": "Clementine: A Miner\u2019s Daughter in a Song",
+    "description": "The traditional ballad names a miner\u2019s daughter and places her story in a canyon.",
+    "words": [
+      [
+        "GOLD",
+        "Yellow metal sought in many old mines"
+      ],
+      [
+        "MINER",
+        "Person who digs to take minerals from the ground"
+      ],
+      [
+        "CANYON",
+        "Deep valley with steep sides"
+      ],
+      [
+        "DAUGHTER",
+        "Female child of a parent"
+      ],
+      [
+        "FATHER",
+        "Male parent"
+      ],
+      [
+        "VALLEY",
+        "Low land between hills"
+      ],
+      [
+        "BALLAD",
+        "Song that tells a story"
+      ],
+      [
+        "CABIN",
+        "Small simple house"
+      ],
+      [
+        "STORY",
+        "Account of events told in the song"
+      ],
+      [
+        "NAME",
+        "Word by which a person is called"
+      ],
+      [
+        "TUNE",
+        "Music carried by the words"
+      ],
+      [
+        "GROUND",
+        "Earth beneath your feet"
+      ],
+      [
+        "HILL",
+        "Raised area of land"
+      ]
+    ],
+    "requiredAnswers": [
+      "GOLD",
+      "MINER",
+      "CANYON"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-5",
+    "title": "Oh, Shenandoah: A Farewell in a Song",
+    "description": "Many versions of this traditional song mention the Missouri River and a farewell.",
+    "words": [
+      [
+        "RIVER",
+        "Natural stream that flows in a channel"
+      ],
+      [
+        "FAREWELL",
+        "Words said when parting"
+      ],
+      [
+        "MISSOURI",
+        "River named in many versions of this song"
+      ],
+      [
+        "BANK",
+        "Land beside a river"
+      ],
+      [
+        "FLOW",
+        "Move along like water"
+      ],
+      [
+        "SONG",
+        "Piece of music with words"
+      ],
+      [
+        "TUNE",
+        "Melody heard when someone sings"
+      ],
+      [
+        "AWAY",
+        "At a distance from here"
+      ],
+      [
+        "LEAVE",
+        "Go away from a place"
+      ],
+      [
+        "ACROSS",
+        "From one side to the other"
+      ],
+      [
+        "VOICE",
+        "Sound made in speaking or singing"
+      ],
+      [
+        "TRAVEL",
+        "Go from one place to another"
+      ],
+      [
+        "WIDE",
+        "With a great distance from side to side"
+      ],
+      [
+        "HEAR",
+        "Notice a sound with your ears"
+      ]
+    ],
+    "requiredAnswers": [
+      "RIVER",
+      "FAREWELL",
+      "MISSOURI"
+    ]
+  }
+]

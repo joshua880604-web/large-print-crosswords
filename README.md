@@ -28,7 +28,7 @@ npm run test:e2e
 
 ## Current collection and group printing
 
-The current collection has **1,500 games**, including 300 first editions in the November 18 release. All 1,200 earlier puzzles, 100 original archives, 79 numbered archives, and their saved-progress keys are preserved. See [the 300-game release](docs/expansion-1500.md), [the 200-game release](docs/expansion-1200.md), and [the introduction of group printing](docs/expansion-1000.md). The optional Bible collection has 70 games.
+This checkout has **2,000 games**, including the completed 500-game expansion. The November 18 release contains 1,500 current puzzles. All published puzzles, 100 original archives, 79 numbered archives, and their saved-progress keys are preserved. See [the current validation notes](docs/research/expansion-2000/board-validation.md), [the 300-game release](docs/expansion-1500.md), and [the introduction of group printing](docs/expansion-1000.md). The optional Bible collection in this checkout has 105 games.
 
 [The print-pack page](https://largeprintcrosswords.com/print-pack/) lets a reader select up to ten games, filter by theme or title, and prepare one print job. Puzzle sheets precede optional separate answers. The default uses 18pt text and two US Letter pages per sheet; compact uses 13pt and one page. This still uses the browser's Print / Save as PDF, with no pre-generated PDF downloads. The utility page is noindex and excluded from the sitemap.
 
@@ -36,16 +36,16 @@ The printable directory opens print sheets directly, with separate answer and on
 
 Print packs save a local selection draft and print options for reload/return, show selected titles with individual removal buttons, and share the catalog's punctuation-tolerant search. A topic link changes the filter without discarding selected games; a restored draft still needs to be prepared before printing. See [the draft and wording update](docs/print-pack-draft-2026-11-16.md).
 
-Production builds generate 4,710 HTML files and 1,529 canonical sitemap URLs. All 1,500 games are reachable through ordinary HTML links. The standard checks are `npm run build`, `npm run typecheck`, and `npm run test:e2e`.
+Production builds generate 6,210 HTML files and 2,029 canonical sitemap URLs. All 2,000 games are reachable through ordinary HTML links. The standard checks are `npm run build`, `npm run typecheck`, and `npm run test:e2e`.
 
-`python3 scripts/generate-expansion-1500.py --check` verifies the release against the previous commit, checks answer-set overlap and board uniqueness, and reproduces the checked-in data. Earlier preservation checks are available as `python3 scripts/audit-expansion-1200.py` and `python3 scripts/audit-expansion-1000.py`.
+Run `python3 scripts/generate-expansion-2000.py --check` to reproduce the current additions and verify their preservation, board uniqueness, and answer-set comparisons. Earlier releases have their own preservation and validation reports.
 
-With a current production preview on port 4323, run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-1500-playthrough.json --new-only --release=1500` to exercise all 300 additions through keyboard input and saved-progress restoration. Use `--release=1200` or `--release=1000` for the earlier additions. Omitting `--new-only` checks current and archived boards. The [release report](docs/expansion-1500.md) documents mobile and print sweeps.
+With a production preview on port 4323, run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-2000-playthrough.json --new-only --release=2000` to exercise the latest 345 local additions through keyboard input and saved-progress restoration. Use `--release=1655`, `--release=1610`, `--release=1570`, `--release=1545`, `--release=1500`, `--release=1200` or `--release=1000` for the earlier additions. Omitting `--new-only` checks current and archived boards.
 
 ## Collection and content
 
-- 1,500 independently playable themed mini crosswords across 300 series.
-- 16,563 clues with direct American English definitions.
+- 2,000 independently playable themed mini crosswords across 400 series.
+- 21,868 clues with direct American English definitions.
 - Each series contains five puzzles with different boards and answer selections. Each current edition has a subtheme, an introduction, solving guidance, and three answer explanations; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected current layouts, up to 11 × 11; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
@@ -59,19 +59,19 @@ The main collection and all interest collections support shareable `q` and `them
 
 Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, opt-in synthesized sound, and a docked on-screen QWERTY keyboard. Small touch devices use on-screen mode on first interaction by default; computers start with physical/system input. Users can switch modes, hide the panel, and navigate its letter keys with arrow keys. The selected clue and entered letters remain above the keys, and the selected grid square scrolls above the panel. Browser support for suppressing native touch keyboards varies; physical keyboard input remains enabled in either mode. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
 
-`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 1,500 puzzles; it does not generate new content daily.
+`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 2,000 puzzles; it does not generate new content daily.
 
 The Christmas collection and both print layouts are described in [the November 14 upgrade](docs/christmas-print-upgrade.md).
 
-PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter at 100% scale and uses separate answer routes. The default layout has 18pt clues, a grid up to 5.4 inches, and two pages (grid first, clues or answers second). A compact option retains 13pt clues and a grid up to 3.6 inches on one page. The selector remembers `lpc:print-layout` when storage is available, and paired puzzle/answer links carry `?layout=large` or `?layout=compact`; their canonical stays clean. Without JavaScript the 18pt layout remains printable using the browser menu. Print copies are `noindex,follow`; the sitemap includes the 1,500 playable pages and primary site pages.
+PDFs are **not pre-generated downloads**: printable pages use the browser's Print / Save as PDF dialog. Print CSS targets US Letter at 100% scale and uses separate answer routes. The default layout has 18pt clues, a grid up to 5.4 inches, and two pages (grid first, clues or answers second). A compact option retains 13pt clues and a grid up to 3.6 inches on one page. The selector remembers `lpc:print-layout` when storage is available, and paired puzzle/answer links carry `?layout=large` or `?layout=compact`; their canonical stays clean. Without JavaScript the 18pt layout remains printable using the browser menu. Print copies are `noindex,follow`; the sitemap includes the 2,000 playable pages and primary site pages.
 
 Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `lpc:v1:<puzzle-id>:edition:<revision>` and do not overwrite original answers. One hundred noindex `/crosswords/<id>/previous/` pages retain the original boards in the original twenty series; users with legacy answers see a continue link. Preference keys use `lpc:sound`, `lpc:large`, and `lpc:keyboard`. New first editions use revision 1. Seventy-nine replacements preserve their numbered predecessors at `/crosswords/<id>/editions/<revision>/` and retain the same current URL. Most use revision 2; the quilt is revision 3 with its numbered revision 2 and separate original layout intact. Their continuation links check the actual prior edition key. The original twenty refreshed series retain their original legacy archive routes. No credentials or environment variables are required by the application.
 
 ## Browser tests
 
-`npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 3600 current puzzle/print/answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
+`npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 6,000 current puzzle, print, and answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
 
-For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 1,500 current, 100 original and 79 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
+For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 2,000 current, 100 original and 79 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
 
 ## Deploy to Cloudflare Pages
 
@@ -89,9 +89,9 @@ Each cloud task is already isolated: use this checkout directly; do not create a
 
 Collection cards use edition-specific static SVG board previews with intrinsic dimensions and lazy loading. Every puzzle title, description and ordinary HTML link remains server-rendered, including when JavaScript is disabled. The build checks navigation reachability from home as well as sitemap membership; see [the November 13 SEO review](docs/seo-review-2026-11-13.md).
 
-Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the actual site, and puzzle BreadcrumbList data matches the visible breadcrumb. These types do not promise special Google search features or ranking. Print copies and 404 are noindex; the sitemap lists 1029 canonical HTTPS URLs, including all 1000 playable puzzles.
+Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the site, and puzzle BreadcrumbList data matches the visible breadcrumb. The sitemap lists 2,029 canonical HTTPS URLs, including all 2,000 playable puzzles. Print copies and the 404 page use `noindex`.
 
-`/llms.txt` provides a concise Markdown guide for AI reading tools: site purpose, play/print behavior, all eight topic collections, site information and the XML sitemap. Astro prerenders it as a static UTF-8 text file; puzzle and series counts come from the current data. The production SEO audit verifies its links against the generated canonical pages. It supplements the existing navigation and sitemap, with no guarantee that an AI service will read, index or recommend the site.
+`/llms.txt` provides a Markdown guide for AI reading tools with the site purpose, play and print instructions, topic collections, site information and the XML sitemap. Astro prerenders it as a static UTF-8 text file with puzzle and series counts from the current data. The production SEO audit verifies its links against the generated canonical pages.
 
 `public/social-card.png` is a committed 1200 × 630 share image. It is served locally and referenced by Open Graph and Twitter Card metadata. To regenerate it, run `npm run social:generate` with a supported local Chromium installation; image generation is not part of the Cloudflare build.
 
@@ -99,7 +99,7 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 1,500 current puzzles have a subject introduction, solving guidance, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed current editions use separate keys; the later 400 puzzles use their own stable IDs. The current revision inventory is 1,322 first editions, 177 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) replace 79 boards while preserving every published predecessor. Fourteen additional games keep their boards with simpler clues.
+All 2,000 current puzzles have a subject introduction, solving guidance, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed editions use separate keys. The current revision inventory is 1,822 first editions, 177 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) replace 79 boards while preserving every published predecessor. Fourteen additional games keep their boards with simpler clues.
 
 | Series | Current puzzles | Clues | Edition |
 | --- | ---: | ---: | --- |

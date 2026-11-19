@@ -1,0 +1,322 @@
+[
+  {
+    "id": "trees-in-different-weather",
+    "title": "Noticing Loose Bark below a Tree in Wind",
+    "description": "Thin pieces blown from the trunk lie among leaves at the base of the tree.",
+    "words": [
+      [
+        "BARK",
+        "Outside layer of the tree trunk"
+      ],
+      [
+        "LOOSE",
+        "No longer held firmly to the trunk"
+      ],
+      [
+        "BASE",
+        "Ground area where the trunk meets the soil"
+      ],
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ],
+      [
+        "TREE",
+        "Tall plant with a woody trunk"
+      ],
+      [
+        "FALL",
+        "Season after summer"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "WOOD",
+        "Material from the trunk or branches of a tree"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "PILE",
+        "Heap of things together"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece"
+      ]
+    ],
+    "requiredAnswers": [
+      "BARK",
+      "LOOSE",
+      "BASE"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-2",
+    "title": "Seeing a Maple Branch Settle after Rain",
+    "description": "The wet branch bends lower for a while, then slowly rises as drops fall away.",
+    "words": [
+      [
+        "BEND",
+        "Move into a curve under extra weight"
+      ],
+      [
+        "DROPS",
+        "Small beads of rainwater leaving the leaves"
+      ],
+      [
+        "WEIGHT",
+        "Heaviness of the water resting on the branch"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "LEAF",
+        "Plant part growing from a stem"
+      ],
+      [
+        "BRANCH",
+        "Woody limb of a tree"
+      ],
+      [
+        "TREE",
+        "Woody plant with branches"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "RISE",
+        "Move upward"
+      ],
+      [
+        "GROUND",
+        "Land beneath your feet"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "CURVE",
+        "Line bending gradually rather than running straight"
+      ]
+    ],
+    "requiredAnswers": [
+      "BEND",
+      "DROPS",
+      "WEIGHT"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-3",
+    "title": "Watching Pine Needles Catch a Little Snow",
+    "description": "A light layer lies on the outer branches and leaves the trunk and inner needles easier to see.",
+    "words": [
+      [
+        "NEEDLES",
+        "Thin pointed leaves of the pine"
+      ],
+      [
+        "LAYER",
+        "Thin covering of snow over the outside"
+      ],
+      [
+        "PINE",
+        "Evergreen tree with long narrow leaves"
+      ],
+      [
+        "SNOW",
+        "White frozen flakes"
+      ],
+      [
+        "TREE",
+        "Plant with a trunk and limbs"
+      ],
+      [
+        "FALL",
+        "Autumn in American English"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "BRANCH",
+        "Tree part extending from the trunk"
+      ],
+      [
+        "DUST",
+        "Fine dirt settled on furniture"
+      ],
+      [
+        "TRUNK",
+        "Main woody stem of a tree"
+      ],
+      [
+        "OUTER",
+        "Farther from the center"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ]
+    ],
+    "requiredAnswers": [
+      "NEEDLES",
+      "LAYER",
+      "PINE"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-4",
+    "title": "Seeing How a Branch Sits above a Snowy Fence",
+    "description": "Snow caught on the fence leaves a narrow clear stretch beneath a branch that overhangs the yard.",
+    "words": [
+      [
+        "OVERHANG",
+        "Part of a branch sticking out above another object"
+      ],
+      [
+        "BRANCH",
+        "Part of a tree growing out from the trunk"
+      ],
+      [
+        "GAP",
+        "Open space between the branch and the fence"
+      ],
+      [
+        "FENCE",
+        "Barrier built around a yard"
+      ],
+      [
+        "SNOW",
+        "Frozen precipitation falling as ice crystals or flakes"
+      ],
+      [
+        "YARD",
+        "Outdoor area around a home"
+      ],
+      [
+        "TREE",
+        "Tall growth with roots, bark, and branches"
+      ],
+      [
+        "WHITE",
+        "Color of plain writing paper"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "SHADE",
+        "Shelter from direct sun"
+      ],
+      [
+        "GROUND",
+        "Earth on which you walk"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "RAIL",
+        "Long hand support beside steps"
+      ]
+    ],
+    "requiredAnswers": [
+      "OVERHANG",
+      "BRANCH",
+      "GAP"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-5",
+    "title": "A Pine Cone's Scales Close in Wet Weather",
+    "description": "The spaces between the scales become smaller in wet weather and can open again as the cone dries.",
+    "words": [
+      [
+        "SCALES",
+        "Overlapping parts along the outside of a pine cone"
+      ],
+      [
+        "CONE",
+        "Seed holder that grows on a pine tree"
+      ],
+      [
+        "CLOSE",
+        "Move so the gaps become smaller"
+      ],
+      [
+        "PINE",
+        "Evergreen tree with familiar narrow needle leaves"
+      ],
+      [
+        "TREE",
+        "Large plant giving leafy shade"
+      ],
+      [
+        "WET",
+        "Covered with or containing liquid water"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "WOOD",
+        "Hard material from a tree"
+      ],
+      [
+        "GAP",
+        "Open space between things"
+      ],
+      [
+        "RAIN",
+        "Water from clouds that can wet the outdoor pile"
+      ],
+      [
+        "SEED",
+        "Plant part from which a new plant grows"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCALES",
+      "CONE",
+      "CLOSE"
+    ]
+  }
+]

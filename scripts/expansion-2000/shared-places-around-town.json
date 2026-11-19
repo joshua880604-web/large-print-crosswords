@@ -1,0 +1,342 @@
+[
+  {
+    "id": "shared-places-around-town",
+    "title": "Reading a Dedication on the Bandstand Bench",
+    "description": "A small brass plate on a bench near the bandstand names the person it honors.",
+    "words": [
+      [
+        "PLAQUE",
+        "Flat marker that carries a few lines of writing"
+      ],
+      [
+        "DEDICATED",
+        "Set aside in someone's honor"
+      ],
+      [
+        "BANDSTAND",
+        "Raised shelter where musicians play outside"
+      ],
+      [
+        "BENCH",
+        "Long seat in a public place"
+      ],
+      [
+        "MEMORY",
+        "Thought of someone from the past"
+      ],
+      [
+        "SCREWS",
+        "Spiral fasteners holding the plate in place"
+      ],
+      [
+        "METAL",
+        "Hard material used for the marker"
+      ],
+      [
+        "READ",
+        "Make sense of the written words"
+      ],
+      [
+        "HONOR",
+        "Show respect to a person"
+      ],
+      [
+        "LETTERS",
+        "Written characters that make up a name"
+      ],
+      [
+        "NAME",
+        "Word used to identify a person"
+      ],
+      [
+        "GIFT",
+        "Something given without payment"
+      ],
+      [
+        "SEAT",
+        "Place for one or more people to sit"
+      ],
+      [
+        "BRASS",
+        "Yellow metal often used for a marker"
+      ]
+    ],
+    "requiredAnswers": [
+      "PLAQUE",
+      "DEDICATED",
+      "BANDSTAND"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-2",
+    "title": "Bringing the Sidewalk Sign In at Closing Time",
+    "description": "The shopkeeper folds the sign from the sidewalk and turns the door sign to show that the shop is closed.",
+    "words": [
+      [
+        "SIDEWALK",
+        "Walkway beside a street"
+      ],
+      [
+        "FOLD",
+        "Bring one half of the sign against the other"
+      ],
+      [
+        "CLOSED",
+        "Unavailable for business"
+      ],
+      [
+        "SIGN",
+        "Object displaying a short message"
+      ],
+      [
+        "LIFT",
+        "Raise the board from the ground"
+      ],
+      [
+        "FLIP",
+        "Turn to the other side"
+      ],
+      [
+        "BOARD",
+        "Flat piece used to display a shop message"
+      ],
+      [
+        "HINGE",
+        "Joint that lets two sides fold together"
+      ],
+      [
+        "WINDOW",
+        "Glass pane beside the shop door"
+      ],
+      [
+        "INSIDE",
+        "Where the sign goes for the night"
+      ],
+      [
+        "OWNER",
+        "Person the shop belongs to"
+      ],
+      [
+        "DOOR",
+        "Part of the entrance that swings open"
+      ],
+      [
+        "CARRY",
+        "Hold the board while walking"
+      ],
+      [
+        "EVENING",
+        "Part of the day when many shops finish work"
+      ]
+    ],
+    "requiredAnswers": [
+      "SIDEWALK",
+      "FOLD",
+      "CLOSED"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-3",
+    "title": "Taping Down a Cord before a Hall Meeting",
+    "description": "A volunteer puts tape over a cord along the edge of the room so people can get to their seats without stepping on it.",
+    "words": [
+      [
+        "CORD",
+        "Covered wire that carries electricity"
+      ],
+      [
+        "TAPE",
+        "Sticky strip pressed over a wire"
+      ],
+      [
+        "AISLE",
+        "Passage between rows of chairs"
+      ],
+      [
+        "OUTLET",
+        "Wall opening where you plug in a lamp"
+      ],
+      [
+        "PLUG",
+        "End of the cord with metal prongs"
+      ],
+      [
+        "TRIP",
+        "Catch a foot and nearly fall"
+      ],
+      [
+        "EDGE",
+        "Part of the room closest to the wall"
+      ],
+      [
+        "FLOOR",
+        "Surface under the chairs"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece of tape"
+      ],
+      [
+        "PRESS",
+        "Push the sticky strip down firmly"
+      ],
+      [
+        "TIGHT",
+        "Held firmly in place"
+      ],
+      [
+        "CLEAR",
+        "Free of things that block the way"
+      ],
+      [
+        "CROSS",
+        "Go from one side to the other"
+      ],
+      [
+        "MEETING",
+        "Gathering to discuss something"
+      ]
+    ],
+    "requiredAnswers": [
+      "CORD",
+      "TAPE",
+      "AISLE"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-4",
+    "title": "Waiting for a Shuttle at the Trailhead",
+    "description": "After a walk, visitors wait at the marked stop for the bus that takes people back to the parking lot.",
+    "words": [
+      [
+        "SHUTTLE",
+        "Bus that travels back and forth on a short route"
+      ],
+      [
+        "STOP",
+        "Place marked for the bus to pick up riders"
+      ],
+      [
+        "RETURN",
+        "Go back to where the outing began"
+      ],
+      [
+        "WAIT",
+        "Stay at the stop until the bus arrives"
+      ],
+      [
+        "BOARD",
+        "Step onto the bus"
+      ],
+      [
+        "ROUTE",
+        "Course the bus follows"
+      ],
+      [
+        "DRIVER",
+        "Person who steers the bus"
+      ],
+      [
+        "RIDERS",
+        "People who ride in the bus"
+      ],
+      [
+        "PARKING",
+        "Leaving cars in a lot while their drivers are away"
+      ],
+      [
+        "WALKERS",
+        "People traveling on foot"
+      ],
+      [
+        "SIGN",
+        "Marker showing where to stand"
+      ],
+      [
+        "NEXT",
+        "Coming just after this one"
+      ],
+      [
+        "TRAIL",
+        "Path through a natural area"
+      ],
+      [
+        "RIDE",
+        "Trip as a passenger"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHUTTLE",
+      "STOP",
+      "RETURN"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-5",
+    "title": "Filling a Water Bottle at the Park Fountain",
+    "description": "Water comes from a high spout at a park fountain, leaving room for a bottle under the stream.",
+    "words": [
+      [
+        "SPOUT",
+        "Short tube where water comes out"
+      ],
+      [
+        "BOTTLE",
+        "Drink container with a narrow neck"
+      ],
+      [
+        "STREAM",
+        "Narrow flow of water from a spout"
+      ],
+      [
+        "FOUNTAIN",
+        "Fixture in a park that supplies drinking water"
+      ],
+      [
+        "BUTTON",
+        "Part pressed to start the water"
+      ],
+      [
+        "BRIM",
+        "Upper edge of the bottle opening"
+      ],
+      [
+        "REFILL",
+        "Fill again after using some of the water"
+      ],
+      [
+        "NECK",
+        "Narrow part of the container near the top"
+      ],
+      [
+        "TILT",
+        "Hold at an angle"
+      ],
+      [
+        "CAP",
+        "Top that screws onto a drink container"
+      ],
+      [
+        "DRIPS",
+        "Drops that fall after the main flow stops"
+      ],
+      [
+        "FLOW",
+        "Move steadily like water from a tap"
+      ],
+      [
+        "SPLASH",
+        "Scatter drops by hitting a surface"
+      ],
+      [
+        "STOP",
+        "Come to an end"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPOUT",
+      "BOTTLE",
+      "STREAM"
+    ]
+  }
+]

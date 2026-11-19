@@ -1,0 +1,318 @@
+[
+  {
+    "id": "tending-vegetable-rows",
+    "title": "Covering Exposed Potato Stems with Soil",
+    "description": "A hoe draws loose soil toward growing plants until there is a low ridge around their stems.",
+    "words": [
+      [
+        "HOE",
+        "Garden tool that pulls loose soil toward a plant"
+      ],
+      [
+        "RIDGE",
+        "Long mound raised along the planted row"
+      ],
+      [
+        "STEMS",
+        "Upright parts at the center of the plants"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "POTATO",
+        "Starchy vegetable often boiled and mashed"
+      ],
+      [
+        "HILL",
+        "Raised area of land smaller than a mountain"
+      ],
+      [
+        "BASE",
+        "Bottom part that holds something up"
+      ],
+      [
+        "GROW",
+        "Become larger over time"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "EARTH",
+        "Ground that can be dug or planted"
+      ]
+    ],
+    "requiredAnswers": [
+      "HOE",
+      "RIDGE",
+      "STEMS"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-2",
+    "title": "Checking a Corn Ear without Peeling the Husk",
+    "description": "A gardener feels the outside of the ear to see whether its tip seems full beneath the covering.",
+    "words": [
+      [
+        "EAR",
+        "Part of a corn plant that holds rows of kernels"
+      ],
+      [
+        "HUSK",
+        "Leafy covering felt from the outside"
+      ],
+      [
+        "FULL",
+        "Filled out almost to the tip"
+      ],
+      [
+        "CORN",
+        "Vegetable with kernels growing on a cob"
+      ],
+      [
+        "YIELD",
+        "Road-sign instruction to give priority to other traffic when required"
+      ],
+      [
+        "TOUCH",
+        "Put a hand or finger against something"
+      ],
+      [
+        "SILK",
+        "Fiber produced by silkworms and used for smooth textiles"
+      ],
+      [
+        "TIPS",
+        "Parts at the farthest ends of narrow things"
+      ],
+      [
+        "KERNELS",
+        "Separate grains from an ear of corn"
+      ],
+      [
+        "TALL",
+        "High from bottom to top"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "PLOT",
+        "Sequence of events forming a movie's story"
+      ],
+      [
+        "FEEL",
+        "Notice the shape or surface of something with a hand"
+      ]
+    ],
+    "requiredAnswers": [
+      "EAR",
+      "HUSK",
+      "FULL"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-3",
+    "title": "Turning a Radish by Its Leaves to See the Shoulder",
+    "description": "A gently moved leaf reveals the upper part of the round root where it meets the soil.",
+    "words": [
+      [
+        "RADISH",
+        "Small vegetable with a crisp root"
+      ],
+      [
+        "ROOT",
+        "Part growing down from the leafy top"
+      ],
+      [
+        "SHOULDER",
+        "Upper part of the round vegetable visible at soil level"
+      ],
+      [
+        "LEAF",
+        "Plant part growing from a stem"
+      ],
+      [
+        "SOIL",
+        "Loose ground around plant roots"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "CROP",
+        "Plants grown for food, considered collectively"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "STEM",
+        "Stalk supporting a flower"
+      ],
+      [
+        "PLANT",
+        "Living greenery grown in soil"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "RADISH",
+      "ROOT",
+      "SHOULDER"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-4",
+    "title": "Tying Tall Pea Vines to a Loose Mesh",
+    "description": "Thin stems climb against the mesh while a loose tie keeps thick growth from leaning into the path.",
+    "words": [
+      [
+        "VINES",
+        "Long stems that climb on the garden support"
+      ],
+      [
+        "MESH",
+        "Net with openings for passing ties through"
+      ],
+      [
+        "TIE",
+        "Short strip that holds a stem near the net"
+      ],
+      [
+        "GROW",
+        "Increase in size as time passes"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "GUIDE",
+        "Thing that helps someone find a way or place an item"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ],
+      [
+        "CLIMB",
+        "Go upward using hands or feet"
+      ],
+      [
+        "POD",
+        "Long green case holding the peas"
+      ],
+      [
+        "HELP",
+        "To give useful assistance"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ]
+    ],
+    "requiredAnswers": [
+      "VINES",
+      "MESH",
+      "TIE"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-5",
+    "title": "Clipping Lettuce Leaves from the Outer Edge",
+    "description": "The larger outer leaves are taken first, leaving the smaller ones standing near the center.",
+    "words": [
+      [
+        "LETTUCE",
+        "Leafy vegetable commonly grown for salads"
+      ],
+      [
+        "OUTER",
+        "Farther from the middle of the plant"
+      ],
+      [
+        "CLIP",
+        "Cut off a small part with shears"
+      ],
+      [
+        "LEAF",
+        "Thin green blade on a tree"
+      ],
+      [
+        "GREEN",
+        "Color between blue and yellow"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "STEM",
+        "Stalk supporting a flower"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "LEAVE",
+        "Go away from a place"
+      ],
+      [
+        "CENTER",
+        "Middle of an object or place"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "GROW",
+        "Increase in size as time passes"
+      ]
+    ],
+    "requiredAnswers": [
+      "LETTUCE",
+      "OUTER",
+      "CLIP"
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "listening-with-old-equipment",
+    "title": "Tuning between Two Stations on an Old Radio",
+    "description": "Turning a knob moves a narrow pointer along a printed scale until one voice comes through clearly.",
+    "words": [
+      [
+        "RADIO",
+        "Device for listening to broadcasts"
+      ],
+      [
+        "POINTER",
+        "Thin marker that moves past printed station numbers"
+      ],
+      [
+        "TUNE",
+        "Adjust the radio to receive one station"
+      ],
+      [
+        "DIAL",
+        "Numbered face of a clock"
+      ],
+      [
+        "KNOB",
+        "Rounded door handle turned by hand"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "VOICE",
+        "Sound made when speaking"
+      ],
+      [
+        "STATIC",
+        "Crackling noise that can interfere with a radio broadcast"
+      ],
+      [
+        "HEAR",
+        "Notice sound with the ears"
+      ],
+      [
+        "SOUND",
+        "Something a person can hear"
+      ],
+      [
+        "SCALE",
+        "Device used for weighing"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ],
+      [
+        "BAND",
+        "Flat strip that goes around something"
+      ]
+    ],
+    "requiredAnswers": [
+      "RADIO",
+      "POINTER",
+      "TUNE"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-2",
+    "title": "Hearing a Rattle from a Loose Speaker Grille",
+    "description": "A small shake can make a loose cover rattle even after the speaker has stopped playing.",
+    "words": [
+      [
+        "GRILLE",
+        "Open cover over the front of a speaker"
+      ],
+      [
+        "RATTLE",
+        "Make several quick shaking sounds"
+      ],
+      [
+        "LOOSE",
+        "Able to move when it should remain firm"
+      ],
+      [
+        "SOUND",
+        "Noise that can be noticed with the ears"
+      ],
+      [
+        "HEAR",
+        "Notice sound with the ears"
+      ],
+      [
+        "SPEAKER",
+        "Device that produces a television's sound"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "FRONT",
+        "Side that faces a viewer or looks forward"
+      ],
+      [
+        "SHAKE",
+        "Move back and forth quickly"
+      ],
+      [
+        "MUSIC",
+        "Sounds arranged with rhythm or melody"
+      ],
+      [
+        "RADIO",
+        "Device for listening to broadcast programs"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRILLE",
+      "RATTLE",
+      "LOOSE"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-3",
+    "title": "Listening for an Old Thermostat to Click",
+    "description": "Turning a dial can make a short click just before the heat comes on.",
+    "words": [
+      [
+        "DIAL",
+        "Round control marked with settings"
+      ],
+      [
+        "CLICK",
+        "Short sound as the control switches"
+      ],
+      [
+        "HEAT",
+        "Warmth supplied after the switch closes"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "ROOM",
+        "Space inside a building surrounded by walls"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "TURN",
+        "Move around a center"
+      ],
+      [
+        "START",
+        "Begin an action or trip"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "SOUND",
+        "Audible effect made when something moves or plays"
+      ],
+      [
+        "HEAR",
+        "Notice sound with the ears"
+      ],
+      [
+        "SWITCH",
+        "Control that turns an electrical device on or off"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time or event"
+      ]
+    ],
+    "requiredAnswers": [
+      "DIAL",
+      "CLICK",
+      "HEAT"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-4",
+    "title": "Placing a Needle in the Lead-In Groove",
+    "description": "The silent outer groove guides the needle inward before the first notes from the record can be heard.",
+    "words": [
+      [
+        "GROOVE",
+        "Spiral track that guides the record needle"
+      ],
+      [
+        "NEEDLE",
+        "Fine point resting against the record"
+      ],
+      [
+        "LEAD",
+        "Guide the point toward the first music"
+      ],
+      [
+        "DISC",
+        "Flat round object such as a record"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "TURN",
+        "One person's opportunity to do something in a game"
+      ],
+      [
+        "PLAY",
+        "Take part in a game or make music"
+      ],
+      [
+        "SOUND",
+        "What reaches a listener's ears"
+      ],
+      [
+        "MUSIC",
+        "What people play with instruments or sing"
+      ],
+      [
+        "ARM",
+        "Body part from shoulder to wrist"
+      ],
+      [
+        "LOWER",
+        "Describing the sleeping place beneath another"
+      ],
+      [
+        "START",
+        "Point at which an activity begins"
+      ],
+      [
+        "RECORD",
+        "Disc used to play music"
+      ]
+    ],
+    "requiredAnswers": [
+      "GROOVE",
+      "NEEDLE",
+      "LEAD"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-5",
+    "title": "Rewinding a Cassette with a Pencil",
+    "description": "A pencil in the hub turns the reel just far enough to draw the loose tape back inside the cassette.",
+    "words": [
+      [
+        "CASSETTE",
+        "Small case containing two reels of recording tape"
+      ],
+      [
+        "HUB",
+        "Center opening that a pencil can fit into"
+      ],
+      [
+        "REWIND",
+        "Turn in the direction that brings tape back onto the reel"
+      ],
+      [
+        "PENCIL",
+        "Writing tool with a graphite core"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "TURN",
+        "Rotate a piece to show a different side"
+      ],
+      [
+        "REEL",
+        "Spool around which a strip or strand can be wound"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "WIND",
+        "Air moving across the landscape"
+      ],
+      [
+        "INSIDE",
+        "Within rather than outside"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "CASSETTE",
+      "HUB",
+      "REWIND"
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "comfortable-neighborhood-walks",
+    "title": "Finding the Open Section of a Long Park Bench",
+    "description": "A visitor leaves a little space while choosing an open part of the seat beside someone else.",
+    "words": [
+      [
+        "BENCH",
+        "Long seat shared by several visitors"
+      ],
+      [
+        "SPACE",
+        "Empty area left between two people"
+      ],
+      [
+        "OPEN",
+        "Available for someone to sit in"
+      ],
+      [
+        "PARK",
+        "Public green space where people may walk dogs"
+      ],
+      [
+        "SIT",
+        "Command asking a dog to rest on its haunches"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ],
+      [
+        "LEAVE",
+        "Go away from a place"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "REST",
+        "Pause to relax or stop moving"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "ROOM",
+        "Space inside a building surrounded by walls"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time or event"
+      ]
+    ],
+    "requiredAnswers": [
+      "BENCH",
+      "SPACE",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-2",
+    "title": "Looking for a Walkway with More Afternoon Shade",
+    "description": "The boundary between sun and shade shows which part of the path is cooler to walk on.",
+    "words": [
+      [
+        "SHADE",
+        "Place kept out of direct sunlight"
+      ],
+      [
+        "PATH",
+        "Outdoor way people walk along"
+      ],
+      [
+        "BOUNDARY",
+        "Line between places with and without sunlight"
+      ],
+      [
+        "WALK",
+        "Take a trip on foot"
+      ],
+      [
+        "TREE",
+        "Tall plant with a woody trunk"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "SUN",
+        "Star that lights our days"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "CHOOSE",
+        "Pick from several options"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHADE",
+      "PATH",
+      "BOUNDARY"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-3",
+    "title": "A Short Strap on a Foldable Walking Stick",
+    "description": "The strap wraps around the folded sections so they can be carried together for a short distance.",
+    "words": [
+      [
+        "STRAP",
+        "Thin band around the folded sections"
+      ],
+      [
+        "STICK",
+        "Long support a walker can carry"
+      ],
+      [
+        "FOLD",
+        "Bend the sections together at their joints"
+      ],
+      [
+        "WALK",
+        "Go on foot along a path"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "SECTION",
+        "Separate part of a larger whole"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ],
+      [
+        "NEAR",
+        "Close in distance to the target ball"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "SHORT",
+        "Not long from end to end"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ]
+    ],
+    "requiredAnswers": [
+      "STRAP",
+      "STICK",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-4",
+    "title": "Comparing Two Different Pavement Textures under Shoes",
+    "description": "A smooth stretch gives way to a rougher one as the path passes a turn.",
+    "words": [
+      [
+        "TEXTURE",
+        "Feel of a surface under the soles of shoes"
+      ],
+      [
+        "SMOOTH",
+        "Without rough raised places"
+      ],
+      [
+        "ROUGH",
+        "Having an uneven surface"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "GROUND",
+        "Land beneath your feet"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "SIZE",
+        "How large or small something is"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "TEXTURE",
+      "SMOOTH",
+      "ROUGH"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-5",
+    "title": "Returning a Borrowed Walking Map at the Visitor Desk",
+    "description": "A visitor folds the map to its earlier size before returning it to a stack at the desk.",
+    "words": [
+      [
+        "RETURN",
+        "Bring a borrowed object back after using it"
+      ],
+      [
+        "MAP",
+        "Drawing showing where the walking paths go"
+      ],
+      [
+        "DESK",
+        "Counter where someone lends or receives the maps"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "SIZE",
+        "Measurement used to tell one fit from another"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ]
+    ],
+    "requiredAnswers": [
+      "RETURN",
+      "MAP",
+      "DESK"
+    ]
+  }
+]

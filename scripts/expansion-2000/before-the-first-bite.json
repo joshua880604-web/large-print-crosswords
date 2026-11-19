@@ -1,0 +1,322 @@
+[
+  {
+    "id": "before-the-first-bite",
+    "title": "A Fork Holding a Baked Potato Open",
+    "description": "The soft middle opens when the ends are pressed, leaving space for a spoonful of topping.",
+    "words": [
+      [
+        "POTATO",
+        "Vegetable baked whole until the inside is soft"
+      ],
+      [
+        "SPLIT",
+        "Open along a cut down the middle"
+      ],
+      [
+        "FORK",
+        "Utensil with points for fluffing the soft middle"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of fruit"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "HOT",
+        "Having a high temperature"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "MIDDLE",
+        "Center part"
+      ],
+      [
+        "STEAM",
+        "Water vapor produced when water is heated"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ]
+    ],
+    "requiredAnswers": [
+      "POTATO",
+      "SPLIT",
+      "FORK"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-2",
+    "title": "Shredding Cooked Chicken with Two Forks",
+    "description": "One fork holds a piece still while the other pulls the cooked meat apart into loose strands.",
+    "words": [
+      [
+        "SHRED",
+        "Pull the meat into thin pieces"
+      ],
+      [
+        "FORKS",
+        "Two utensils whose points grip the cooked meat"
+      ],
+      [
+        "STRANDS",
+        "Long thin pieces pulled away from the meat"
+      ],
+      [
+        "CHICKEN",
+        "Farm bird often roasted for dinner"
+      ],
+      [
+        "MEAT",
+        "Animal flesh used as food"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "TENDER",
+        "Separate vehicle carrying a steam locomotive's fuel and water"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "PIECE",
+        "One separate part of a whole"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "KEEP",
+        "Hold onto rather than discard"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHRED",
+      "FORKS",
+      "STRANDS"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-3",
+    "title": "Cutting a Tomato with a Toothed Knife",
+    "description": "A toothed blade starts the cut without pressing the tomato flat, leaving each slice round at the edge.",
+    "words": [
+      [
+        "BLADE",
+        "Cutting part of the knife"
+      ],
+      [
+        "TEETH",
+        "Small points along the cutting edge"
+      ],
+      [
+        "TOMATO",
+        "Red garden fruit cut for the table"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "SKIN",
+        "Outside covering on a peach"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "SOFT",
+        "Not hard or stiff"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ]
+    ],
+    "requiredAnswers": [
+      "BLADE",
+      "TEETH",
+      "TOMATO"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-4",
+    "title": "Pulling Apart a Head of Garlic",
+    "description": "The dry outside peels back to reveal several separate cloves that can be lifted away from the base.",
+    "words": [
+      [
+        "GARLIC",
+        "Bulb with a strong smell and separate cloves"
+      ],
+      [
+        "CLOVES",
+        "Individual pieces inside the dry bulb"
+      ],
+      [
+        "SKIN",
+        "Thin papery layer covering what is underneath"
+      ],
+      [
+        "PEEL",
+        "Pull a thin outer layer away"
+      ],
+      [
+        "ROOT",
+        "Plant part taking up water below ground"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "PIECE",
+        "One separate unit in a mosaic"
+      ],
+      [
+        "HEAD",
+        "Body part containing the eyes and mouth"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "HOLD",
+        "Keep an object in your hand"
+      ],
+      [
+        "SPLIT",
+        "Divide into two parts"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ]
+    ],
+    "requiredAnswers": [
+      "GARLIC",
+      "CLOVES",
+      "SKIN"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-5",
+    "title": "Squeezing Juice through a Small Strainer",
+    "description": "The juice runs into a cup while the mesh above it holds the seeds from the cut lemon.",
+    "words": [
+      [
+        "STRAINER",
+        "Mesh utensil that catches solid pieces as liquid passes"
+      ],
+      [
+        "LEMON",
+        "Sour yellow fruit cut open for its juice"
+      ],
+      [
+        "SEEDS",
+        "Small firm pieces caught in the mesh"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "MESH",
+        "To engage so that one gear's teeth fit between another's"
+      ],
+      [
+        "PRESS",
+        "Apply force with a hand or tool"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "BOWL",
+        "Rounded dish for soup or cereal"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "SOUR",
+        "Tart in taste, like a lemon"
+      ],
+      [
+        "HALF",
+        "One of two equal parts of a measured amount"
+      ],
+      [
+        "HOLD",
+        "Support something so it does not fall"
+      ]
+    ],
+    "requiredAnswers": [
+      "STRAINER",
+      "LEMON",
+      "SEEDS"
+    ]
+  }
+]

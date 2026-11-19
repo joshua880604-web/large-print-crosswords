@@ -1,0 +1,342 @@
+[
+  {
+    "id": "comfort-food-from-the-oven",
+    "title": "Creamed Corn in a Serving Dish",
+    "description": "Soft kernels sit in a thick, creamy sauce that can be served with a spoon.",
+    "words": [
+      [
+        "KERNEL",
+        "One seed from an ear of corn"
+      ],
+      [
+        "SAUCE",
+        "Thick liquid served with the kernels"
+      ],
+      [
+        "MILK",
+        "Dairy liquid poured into the pan"
+      ],
+      [
+        "CORN",
+        "Vegetable with rows of kernels on a cob"
+      ],
+      [
+        "CREAM",
+        "Thick rich part of milk"
+      ],
+      [
+        "SWEET",
+        "Tasting like a little sugar"
+      ],
+      [
+        "STIR",
+        "Move a spoon around the pan"
+      ],
+      [
+        "PAN",
+        "Shallow metal container used on the stove"
+      ],
+      [
+        "THICKEN",
+        "Become less runny"
+      ],
+      [
+        "SPOON",
+        "Utensil with a rounded bowl"
+      ],
+      [
+        "SIDE",
+        "Dish served along with the main course"
+      ],
+      [
+        "SERVE",
+        "Put food out to be eaten"
+      ],
+      [
+        "CUP",
+        "Measure used for adding milk"
+      ],
+      [
+        "SIMMER",
+        "Cook gently without a full boil"
+      ]
+    ],
+    "requiredAnswers": [
+      "KERNEL",
+      "SAUCE",
+      "MILK"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-2",
+    "title": "A Cold Pea Salad for Supper",
+    "description": "Green peas and small pieces of onion are tossed in a cool dressing.",
+    "words": [
+      [
+        "PEAS",
+        "Small green vegetables in pods"
+      ],
+      [
+        "DRESSING",
+        "Sauce stirred into a salad"
+      ],
+      [
+        "CHILL",
+        "Put in the refrigerator to make cool"
+      ],
+      [
+        "TOSS",
+        "Mix lightly"
+      ],
+      [
+        "CELERY",
+        "Crisp vegetable sold in long ribs"
+      ],
+      [
+        "CRUNCH",
+        "Crisp sound from a bite"
+      ],
+      [
+        "DRAIN",
+        "Let cooking water run off"
+      ],
+      [
+        "FORK",
+        "Table utensil with prongs"
+      ],
+      [
+        "DICE",
+        "Cut an onion into small cubes"
+      ],
+      [
+        "SPOON",
+        "Tool with a rounded end for mixing"
+      ],
+      [
+        "GREEN",
+        "Color of fresh leaves"
+      ],
+      [
+        "COVER",
+        "Top placed over a dish"
+      ],
+      [
+        "MAYO",
+        "Short name for a creamy sandwich spread"
+      ],
+      [
+        "SIDE",
+        "Small dish served alongside a main dish"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEAS",
+      "DRESSING",
+      "CHILL"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-3",
+    "title": "A Pan of Apples Baked with Oats",
+    "description": "Soft fruit sits beneath a browned topping of oats and sugar.",
+    "words": [
+      [
+        "OATS",
+        "Grains commonly cooked as oatmeal"
+      ],
+      [
+        "CRUMBLE",
+        "Loose sweet topping baked over fruit"
+      ],
+      [
+        "APPLES",
+        "Fruit that can be turned into cider"
+      ],
+      [
+        "BROWN",
+        "Turn golden in the oven"
+      ],
+      [
+        "CINNAMON",
+        "Spice often sprinkled on apple pie"
+      ],
+      [
+        "CRISP",
+        "Fruit dessert with a crunchy oat topping"
+      ],
+      [
+        "SUGAR",
+        "Sweet white crystals"
+      ],
+      [
+        "BAKE",
+        "Cook by dry heat in an oven"
+      ],
+      [
+        "PEEL",
+        "Take the skin off the fruit"
+      ],
+      [
+        "SLICE",
+        "Cut into thin pieces"
+      ],
+      [
+        "MIX",
+        "Combine ingredients"
+      ],
+      [
+        "TOP",
+        "Upper surface of a dish"
+      ],
+      [
+        "JUICE",
+        "Liquid that comes from fruit"
+      ],
+      [
+        "PAN",
+        "Shallow container for baking"
+      ]
+    ],
+    "requiredAnswers": [
+      "OATS",
+      "CRUMBLE",
+      "APPLES"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-4",
+    "title": "A Warm Pan of Scalloped Potatoes",
+    "description": "Thin potato slices soften together in a creamy sauce.",
+    "words": [
+      [
+        "SLICES",
+        "Flat pieces cut from a whole potato"
+      ],
+      [
+        "SAUCE",
+        "Thick liquid poured between the layers"
+      ],
+      [
+        "LAYERS",
+        "Rows of food placed one over another"
+      ],
+      [
+        "BUTTER",
+        "Dairy spread melted for the sauce"
+      ],
+      [
+        "MILK",
+        "White liquid used in the sauce"
+      ],
+      [
+        "OVEN",
+        "Place where the casserole bakes"
+      ],
+      [
+        "THIN",
+        "With little thickness"
+      ],
+      [
+        "PEELER",
+        "Tool for removing a vegetable skin"
+      ],
+      [
+        "BUBBLE",
+        "Small pocket of air at the surface"
+      ],
+      [
+        "DISH",
+        "Container for baking or serving food"
+      ],
+      [
+        "GOLDEN",
+        "Color of a lightly browned top"
+      ],
+      [
+        "TENDER",
+        "Easy to cut or chew"
+      ],
+      [
+        "WARM",
+        "Above room temperature"
+      ],
+      [
+        "FLOUR",
+        "Ground grain that can thicken a sauce"
+      ]
+    ],
+    "requiredAnswers": [
+      "SLICES",
+      "SAUCE",
+      "LAYERS"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-5",
+    "title": "The Cherries in an Upside-Down Cake",
+    "description": "Cherries show inside pineapple rings when the cake is turned out.",
+    "words": [
+      [
+        "CHERRY",
+        "Small fruit sitting in the center of a pineapple ring"
+      ],
+      [
+        "PINEAPPLE",
+        "Fruit often sold in round slices"
+      ],
+      [
+        "FLIP",
+        "Turn all the way over"
+      ],
+      [
+        "RING",
+        "Shape of a circle with an open center"
+      ],
+      [
+        "BATTER",
+        "Soft mixture poured before baking"
+      ],
+      [
+        "CAKE",
+        "Sweet dessert often baked in a pan"
+      ],
+      [
+        "BROWN",
+        "Color of the sugar in the topping"
+      ],
+      [
+        "SYRUP",
+        "Thick, sweet liquid"
+      ],
+      [
+        "COOL",
+        "Let heat escape before serving"
+      ],
+      [
+        "PLATE",
+        "Flat dish that receives the cake"
+      ],
+      [
+        "FRUIT",
+        "Sweet part of a plant such as an apple"
+      ],
+      [
+        "GLOSSY",
+        "Shiny on the surface"
+      ],
+      [
+        "SLICE",
+        "One piece cut for a guest"
+      ],
+      [
+        "CENTER",
+        "Middle of the ring"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHERRY",
+      "PINEAPPLE",
+      "FLIP"
+    ]
+  }
+]

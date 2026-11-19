@@ -1,0 +1,322 @@
+[
+  {
+    "id": "sauces-and-table-spreads",
+    "title": "Chopping Olives for a Sandwich Spread",
+    "description": "The pieces are chopped small enough to spread across a slice without leaving large round bits.",
+    "words": [
+      [
+        "OLIVES",
+        "Small green or dark fruits often packed in brine"
+      ],
+      [
+        "CHOP",
+        "Cut across the pieces again and again"
+      ],
+      [
+        "SPREAD",
+        "Move the chopped food across the bread in a thin layer"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "PIECE",
+        "One separate part of a whole"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ]
+    ],
+    "requiredAnswers": [
+      "OLIVES",
+      "CHOP",
+      "SPREAD"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-2",
+    "title": "Pouring a Line of Honey from a Dipper",
+    "description": "The grooves hold onto the thick honey until the utensil stops turning above the plate.",
+    "words": [
+      [
+        "DIPPER",
+        "Rounded grooved utensil used for honey"
+      ],
+      [
+        "HONEY",
+        "Thick sweet food made by bees"
+      ],
+      [
+        "GROOVES",
+        "Narrow channels cut around the utensil"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "THICK",
+        "Having a dense consistency, as a concentrated soup"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "DRIP",
+        "Fall in small drops"
+      ],
+      [
+        "STICK",
+        "Small thin piece of wood"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "SPOON",
+        "Utensil with a small bowl at one end"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ]
+    ],
+    "requiredAnswers": [
+      "DIPPER",
+      "HONEY",
+      "GROOVES"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-3",
+    "title": "Taking Relish from a Jar with a Slotted Spoon",
+    "description": "The spoon lifts the chopped pieces while extra liquid runs back through its openings.",
+    "words": [
+      [
+        "RELISH",
+        "Chopped pickle mixture often served on a sandwich"
+      ],
+      [
+        "SLOTS",
+        "Openings in the spoon that let liquid run through"
+      ],
+      [
+        "DRAIN",
+        "Let the extra liquid leave through the holes"
+      ],
+      [
+        "SPOON",
+        "Tool for eating soup"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "PICKLE",
+        "Food preserved in a brine or acidic mixture"
+      ],
+      [
+        "SERVE",
+        "Offer food or drink to the people at a table"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "SCOOP",
+        "Rounded serving of ice cream"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "PIECES",
+        "Separate bits that fit together in a puzzle"
+      ],
+      [
+        "TILT",
+        "Tip to one side"
+      ]
+    ],
+    "requiredAnswers": [
+      "RELISH",
+      "SLOTS",
+      "DRAIN"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-4",
+    "title": "Pouring Salad Dressing through a Small Spout",
+    "description": "The narrow spout sends a thin line toward the greens as the bottle is tilted.",
+    "words": [
+      [
+        "SPOUT",
+        "Short opening that guides what comes out of a bottle"
+      ],
+      [
+        "DRESSING",
+        "Sauce poured over salad"
+      ],
+      [
+        "TILT",
+        "Hold the bottle at a slant so some flows out"
+      ],
+      [
+        "SALAD",
+        "Cold dish of mixed vegetables"
+      ],
+      [
+        "POUR",
+        "To transfer lemonade in a stream from a serving container"
+      ],
+      [
+        "OIL",
+        "Cooking fat that is liquid at room temperature"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "DROP",
+        "Small bit of liquid that can fall from an edge"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "BOWL",
+        "Rounded dish for soup or cereal"
+      ],
+      [
+        "CAP",
+        "Small cover that fits over an opening"
+      ],
+      [
+        "GREEN",
+        "Color between blue and yellow"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPOUT",
+      "DRESSING",
+      "TILT"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-5",
+    "title": "Warming a Spoon to Scoop a Firm Spread",
+    "description": "A little warmth on the spoon makes it easier to lift a smooth portion from a firm spread.",
+    "words": [
+      [
+        "WARM",
+        "Somewhat heated, without feeling hot"
+      ],
+      [
+        "SCOOP",
+        "Lift a portion with a curved utensil"
+      ],
+      [
+        "FIRM",
+        "Holding its shape when pressed gently"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "SPOON",
+        "Bowl-ended table utensil"
+      ],
+      [
+        "PORTION",
+        "Amount of leftover food packed for one serving"
+      ],
+      [
+        "JAR",
+        "Wide-mouthed glass container"
+      ],
+      [
+        "BOWL",
+        "Open dish with high curved sides"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "CURL",
+        "Decorative curved flourish at a letter's end"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "SERVE",
+        "Put a portion of food out for someone"
+      ],
+      [
+        "LIFT",
+        "Move upward to a higher place"
+      ]
+    ],
+    "requiredAnswers": [
+      "WARM",
+      "SCOOP",
+      "FIRM"
+    ]
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "id": "sounds-heard-together",
+    "title": "Matching the Length of an Echo in a Hall",
+    "description": "A short handclap is followed by a quieter sound returning from the far end of the empty room.",
+    "words": [
+      [
+        "ECHO",
+        "Sound heard again after it returns from a surface"
+      ],
+      [
+        "CLAP",
+        "Short sharp sound made with two hands"
+      ],
+      [
+        "RETURN",
+        "Come back after going toward a distant wall"
+      ],
+      [
+        "SOUND",
+        "Something a person can hear"
+      ],
+      [
+        "HEAR",
+        "Notice sound with the ears"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to a sound"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "BEAT",
+        "The regular pulse felt in a piece of music"
+      ],
+      [
+        "NOTE",
+        "Short written message"
+      ],
+      [
+        "FAR",
+        "At a greater distance from the target"
+      ]
+    ],
+    "requiredAnswers": [
+      "ECHO",
+      "CLAP",
+      "RETURN"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-2",
+    "title": "A Pair of Voices Takes a Breath Together",
+    "description": "Two singers pause at the same short break so their next words begin at the same time.",
+    "words": [
+      [
+        "BREATH",
+        "Air taken in at a pause before singing"
+      ],
+      [
+        "PAIR",
+        "Two singers working together"
+      ],
+      [
+        "PAUSE",
+        "Short break in the words"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "SING",
+        "Make music with the voice"
+      ],
+      [
+        "HEAR",
+        "Sense a voice or noise"
+      ],
+      [
+        "TONE",
+        "Quality or character of a sound"
+      ],
+      [
+        "NOTE",
+        "Single musical sound or a sign for it"
+      ],
+      [
+        "AIR",
+        "What fills the space around us and lets us breathe"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time or event"
+      ],
+      [
+        "START",
+        "Begin an action or trip"
+      ],
+      [
+        "BEAT",
+        "The regular pulse felt in a piece of music"
+      ],
+      [
+        "SAME",
+        "Just alike"
+      ]
+    ],
+    "requiredAnswers": [
+      "BREATH",
+      "PAIR",
+      "PAUSE"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-3",
+    "title": "Changing from a Quiet Verse to a Strong Chorus",
+    "description": "The singers make the repeated part louder once everyone reaches the familiar words.",
+    "words": [
+      [
+        "CHORUS",
+        "Part of a song that keeps coming back"
+      ],
+      [
+        "VERSE",
+        "Group of lines whose words can change from one part to another"
+      ],
+      [
+        "LOUDER",
+        "With more sound than before"
+      ],
+      [
+        "SING",
+        "To produce a sequence of musical bird sounds"
+      ],
+      [
+        "SONG",
+        "Words set to a tune"
+      ],
+      [
+        "PART",
+        "Line dividing hair combed in different directions"
+      ],
+      [
+        "VOICE",
+        "Sound made when speaking"
+      ],
+      [
+        "NOTES",
+        "Separate musical sounds"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "LISTEN",
+        "To pay attention to a musical sound"
+      ],
+      [
+        "JOIN",
+        "To connect two crocheted pieces"
+      ],
+      [
+        "ROOM",
+        "Space inside a building surrounded by walls"
+      ],
+      [
+        "START",
+        "Point at which an activity begins"
+      ]
+    ],
+    "requiredAnswers": [
+      "CHORUS",
+      "VERSE",
+      "LOUDER"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-4",
+    "title": "Recognizing a Tune by Its Last Few Notes",
+    "description": "A listener hears the end of an old melody and realizes they have heard the tune before.",
+    "words": [
+      [
+        "MELODY",
+        "Series of notes forming a tune"
+      ],
+      [
+        "END",
+        "The last part heard by the listener"
+      ],
+      [
+        "RECALL",
+        "Bring a familiar tune back to mind"
+      ],
+      [
+        "LISTEN",
+        "To pay attention to a group\u2019s singing"
+      ],
+      [
+        "SONG",
+        "Music with words to sing"
+      ],
+      [
+        "NOTE",
+        "Brief words written to remember something"
+      ],
+      [
+        "SOUND",
+        "Noise that can be noticed with the ears"
+      ],
+      [
+        "TONE",
+        "Way a sound seems, such as bright or dull"
+      ],
+      [
+        "PLAY",
+        "Take part in a game or make music"
+      ],
+      [
+        "LAST",
+        "Coming after all others"
+      ],
+      [
+        "HUM",
+        "Sing a tune with closed lips and no words"
+      ],
+      [
+        "RHYTHM",
+        "Pattern of musical timing and accents"
+      ]
+    ],
+    "requiredAnswers": [
+      "MELODY",
+      "END",
+      "RECALL"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-5",
+    "title": "Listening for the String That Keeps Ringing",
+    "description": "The plucked sound continues after the finger moves away, then slowly fades.",
+    "words": [
+      [
+        "PLUCK",
+        "Pull and release a string to make it sound"
+      ],
+      [
+        "FADE",
+        "Become quieter over time"
+      ],
+      [
+        "RING",
+        "Continue making a clear sound after a touch"
+      ],
+      [
+        "STRING",
+        "Thin tying cord"
+      ],
+      [
+        "SOUND",
+        "Noise that can be noticed with the ears"
+      ],
+      [
+        "MUSIC",
+        "Sounds arranged with rhythm or melody"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "FINGER",
+        "One of the five digits on a hand"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "AIR",
+        "Mixture of gases around the earth"
+      ],
+      [
+        "NOTE",
+        "Brief words written to remember something"
+      ]
+    ],
+    "requiredAnswers": [
+      "PLUCK",
+      "FADE",
+      "RING"
+    ]
+  }
+]

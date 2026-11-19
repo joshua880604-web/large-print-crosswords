@@ -1,0 +1,318 @@
+[
+  {
+    "id": "ordinary-visits-and-welcome",
+    "title": "Placing a House Number Where It Faces the Street",
+    "description": "A tilted plate is moved until the numbers can be seen from directly in front of the walk.",
+    "words": [
+      [
+        "NUMBER",
+        "Figures that identify the house"
+      ],
+      [
+        "PLATE",
+        "Flat piece that carries the figures"
+      ],
+      [
+        "FACE",
+        "Point toward the people reading from the street"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "FRONT",
+        "Side that faces a viewer or looks forward"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "LOOK",
+        "Direct the eyes toward something"
+      ],
+      [
+        "HOUSE",
+        "Building used as a dwelling"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ]
+    ],
+    "requiredAnswers": [
+      "NUMBER",
+      "PLATE",
+      "FACE"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-2",
+    "title": "Leaving a Room Light on for a Late Arrival",
+    "description": "A lamp near the doorway lights a clear part of the floor for someone coming in after dark.",
+    "words": [
+      [
+        "LAMP",
+        "Object that makes light near the entrance"
+      ],
+      [
+        "DARK",
+        "With little outdoor light left"
+      ],
+      [
+        "ARRIVE",
+        "Reach the place after traveling"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "ROOM",
+        "Space inside a building surrounded by walls"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room that people walk on"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "NIGHT",
+        "Dark time between sunset and dawn"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "LEAVE",
+        "Go away from a place"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "HOME",
+        "Place where someone lives"
+      ]
+    ],
+    "requiredAnswers": [
+      "LAMP",
+      "DARK",
+      "ARRIVE"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-3",
+    "title": "Making Space for a Visitor's Bag by the Door",
+    "description": "A place is cleared near the wall so the bag will be close at hand without blocking the entrance.",
+    "words": [
+      [
+        "SPACE",
+        "Open area to put the visitor's bag"
+      ],
+      [
+        "BAG",
+        "Container carried by the visitor"
+      ],
+      [
+        "CLEAR",
+        "Free the entrance from things in the way"
+      ],
+      [
+        "FLOOR",
+        "Surface under the feet inside a building"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "WALK",
+        "Take a trip on foot"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "ROOM",
+        "Indoor space that people can enter"
+      ],
+      [
+        "NEAR",
+        "Close in distance to the target ball"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPACE",
+      "BAG",
+      "CLEAR"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-4",
+    "title": "Choosing a Seat Where Conversation Is Easy to Hear",
+    "description": "Moving two chairs closer leaves less space between people speaking softly.",
+    "words": [
+      [
+        "NEAR",
+        "With little distance between the seats"
+      ],
+      [
+        "VOICE",
+        "Sound a person makes while speaking"
+      ],
+      [
+        "HEAR",
+        "Notice someone's words by listening"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "ROOM",
+        "Amount of free space around something"
+      ],
+      [
+        "SOUND",
+        "Something a person can hear"
+      ],
+      [
+        "TALK",
+        "Speak with someone"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "QUIET",
+        "Making little noise"
+      ],
+      [
+        "WARM",
+        "Comfortably heated rather than cold"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ],
+      [
+        "GROUP",
+        "Several people or things together"
+      ]
+    ],
+    "requiredAnswers": [
+      "NEAR",
+      "VOICE",
+      "HEAR"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-5",
+    "title": "Finding the Missing Fork at a Place Setting",
+    "description": "The host sees an empty spot to the left of a plate and sets another fork there before the guest sits down.",
+    "words": [
+      [
+        "FORK",
+        "Utensil with points that belongs beside the plate"
+      ],
+      [
+        "SPOT",
+        "Small empty area where the utensil was missing"
+      ],
+      [
+        "PLATE",
+        "Flat dish set out for the guest"
+      ],
+      [
+        "TABLE",
+        "Furniture with a flat top and legs"
+      ],
+      [
+        "MEAL",
+        "Food eaten together at a customary time"
+      ],
+      [
+        "CHAIR",
+        "One-person seat with a back"
+      ],
+      [
+        "LEFT",
+        "Side opposite the right"
+      ],
+      [
+        "SIDE",
+        "Part that faces in one direction from the center"
+      ],
+      [
+        "SET",
+        "Built or arranged surroundings used for filming"
+      ],
+      [
+        "PLACE",
+        "Spot where something belongs"
+      ],
+      [
+        "FOOD",
+        "Something people or animals eat"
+      ],
+      [
+        "GUEST",
+        "Person invited to a home or event"
+      ],
+      [
+        "SEAT",
+        "Sitting surface of a chair"
+      ]
+    ],
+    "requiredAnswers": [
+      "FORK",
+      "SPOT",
+      "PLATE"
+    ]
+  }
+]

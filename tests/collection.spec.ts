@@ -15,6 +15,28 @@ test('filtered collection links load directly and keep a clean canonical',async(
  await expect(page.locator('[data-title]:visible')).toHaveCount(2);
 });
 
+test('collection filters accept input after restoring the URL on a slow load',async({page})=>{
+ let releaseScripts!:()=>void;
+ const scriptsReady=new Promise<void>(resolve=>{releaseScripts=resolve;});
+ await page.route('**/_astro/*.js',async route=>{
+  await scriptsReady;
+  await route.continue();
+ });
+ const search=page.getByLabel('Find a puzzle');
+ const theme=page.getByLabel('Choose a theme');
+ try{
+  await page.goto('/crosswords/?q=Garden+Tools',{waitUntil:'commit'});
+  await expect(search).toBeDisabled();
+  await expect(theme).toBeDisabled();
+ }finally{releaseScripts();}
+ await expect(search).toBeEnabled();
+ await expect(theme).toBeEnabled();
+ await expect(search).toHaveValue('Garden Tools');
+ await search.fill('squirrel burying');
+ await expect(page.locator('.result-count')).toHaveText('Showing 1 of 1 puzzle');
+ expect(new URL(page.url()).searchParams.get('q')).toBe('squirrel burying');
+});
+
 test('returning from a puzzle preserves the theme and expanded results',async({page})=>{
  await page.goto('/crosswords/');
  await page.getByLabel('Choose a theme').selectOption('Sports');
@@ -49,11 +71,11 @@ test('topic pages restore their own valid filters and reject unavailable themes'
  await page.goto('/music-crosswords/?q=guitar&theme=Sports');
  await expect(page.getByLabel('Find a puzzle')).toHaveValue('guitar');
  await expect(page.getByLabel('Choose a theme')).toHaveValue('');
- await expect(page.locator('[data-title]:visible')).toHaveCount(9);
+ await expect(page.locator('[data-title]:visible')).toHaveCount(10);
  expect(new URL(page.url()).searchParams.has('theme')).toBeFalsy();
  await page.getByRole('button',{name:'Clear filters'}).click();
  await expect(page.locator('[data-title]:visible')).toHaveCount(12);
- await expect(page.locator('.result-count')).toHaveText('Showing 12 of 120 puzzles');
+ await expect(page.locator('.result-count')).toHaveText('Showing 12 of 155 puzzles');
  await page.goto('/');
  await expect(page.getByRole('link',{name:'Music crosswords',exact:true})).toHaveAttribute('href','/music-crosswords/');
  await expect(page.getByRole('link',{name:'Sports crosswords',exact:true})).toHaveAttribute('href','/sports-crosswords/');

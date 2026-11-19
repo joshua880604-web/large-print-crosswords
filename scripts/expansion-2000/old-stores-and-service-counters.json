@@ -1,0 +1,322 @@
+[
+  {
+    "id": "old-stores-and-service-counters",
+    "title": "Tearing a Slip from a Paper Roll at the Counter",
+    "description": "A narrow printed strip is pulled against a short edge so the clerk can hand the slip to the customer.",
+    "words": [
+      [
+        "ROLL",
+        "Long strip of paper wound around a center"
+      ],
+      [
+        "TEAR",
+        "Separate the printed slip from the long strip"
+      ],
+      [
+        "EDGE",
+        "Short rim that helps divide the paper"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "PRINT",
+        "Put words or pictures on paper"
+      ],
+      [
+        "SLIP",
+        "Small piece of paper that may carry writing"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ]
+    ],
+    "requiredAnswers": [
+      "ROLL",
+      "TEAR",
+      "EDGE"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-2",
+    "title": "Waiting Beside a Sliding Change Tray",
+    "description": "The tray moves back under the window after the clerk sets the coins inside it.",
+    "words": [
+      [
+        "TRAY",
+        "Shallow holder that passes under the counter window"
+      ],
+      [
+        "CHANGE",
+        "Coins handed back after a payment"
+      ],
+      [
+        "SLIDE",
+        "Move through the low opening without lifting"
+      ],
+      [
+        "COIN",
+        "Small metal piece of money"
+      ],
+      [
+        "RIM",
+        "Upper outer lip of a pie dish"
+      ],
+      [
+        "HOLD",
+        "Keep an object in your hand"
+      ],
+      [
+        "COUNTER",
+        "Shop work surface near a register"
+      ],
+      [
+        "WINDOW",
+        "Glass opening in a wall"
+      ],
+      [
+        "PUSH",
+        "Move something away using force"
+      ],
+      [
+        "DRAW",
+        "Pull something toward a position"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "PAY",
+        "Give money for goods or work"
+      ],
+      [
+        "MONEY",
+        "Coins and bills used to pay"
+      ]
+    ],
+    "requiredAnswers": [
+      "TRAY",
+      "CHANGE",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-3",
+    "title": "Pulling Twine down from a Counter Ball",
+    "description": "Twine comes down from a holder above the wrapping counter and is cut where the clerk can reach it.",
+    "words": [
+      [
+        "TWINE",
+        "Thin cord used to tie a paper parcel"
+      ],
+      [
+        "BALL",
+        "Round bundle around which the cord is wound"
+      ],
+      [
+        "HOLDER",
+        "Support that keeps the bundle suspended"
+      ],
+      [
+        "CORD",
+        "Thick string or thin rope"
+      ],
+      [
+        "PULL",
+        "Move an object by drawing it closer"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ],
+      [
+        "CUT",
+        "Divide with scissors or a knife"
+      ],
+      [
+        "PAPER",
+        "Material made into thin sheets"
+      ],
+      [
+        "HANG",
+        "Suspend from a support"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "CLERK",
+        "Person who helps customers in a shop"
+      ],
+      [
+        "SHOP",
+        "Place selling goods"
+      ]
+    ],
+    "requiredAnswers": [
+      "TWINE",
+      "BALL",
+      "HOLDER"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-4",
+    "title": "Reading a Tall Clock with a Swinging Weight",
+    "description": "A narrow opening below the face lets someone see the weight and pendulum through the glass.",
+    "words": [
+      [
+        "CLOCK",
+        "Device that shows time near the counter"
+      ],
+      [
+        "SWING",
+        "Move back and forth under the face"
+      ],
+      [
+        "WEIGHT",
+        "Heavy part whose downward pull powers the clock"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "TICK",
+        "Short repeated sound associated with a mechanical clock"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "DIAL",
+        "Numbered face of a clock"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "WOOD",
+        "Material from the trunk or branches of a tree"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ],
+      [
+        "LOWER",
+        "Describing the sleeping place beneath another"
+      ],
+      [
+        "HOUR",
+        "Sixty minutes"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLOCK",
+      "SWING",
+      "WEIGHT"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-5",
+    "title": "Peeling a Price Sticker from a Display Window",
+    "description": "The paper lifts at one corner and comes away from the glass with a short pull.",
+    "words": [
+      [
+        "STICKER",
+        "Piece of printed paper with a sticky back"
+      ],
+      [
+        "PRICE",
+        "Amount shown on it for an item"
+      ],
+      [
+        "PEEL",
+        "Pull the paper away from the glass gradually"
+      ],
+      [
+        "GLASS",
+        "Clear material used for windows"
+      ],
+      [
+        "CORNER",
+        "Place where two edges or sides meet"
+      ],
+      [
+        "PAPER",
+        "Sheet on which words or pictures can be printed"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "PULL",
+        "Tug on something to make it move"
+      ],
+      [
+        "SHOP",
+        "Store where customers buy things"
+      ],
+      [
+        "FRONT",
+        "Side that faces a viewer or looks forward"
+      ],
+      [
+        "ROLL",
+        "Move by turning over and over"
+      ],
+      [
+        "STICK",
+        "Small thin piece of wood"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ]
+    ],
+    "requiredAnswers": [
+      "STICKER",
+      "PRICE",
+      "PEEL"
+    ]
+  }
+]

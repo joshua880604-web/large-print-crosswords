@@ -1,0 +1,326 @@
+[
+  {
+    "id": "a-walk-through-a-local-museum",
+    "title": "Looking at an Exhibit through a Case Side",
+    "description": "A low side of the case lets a visitor see the back of an object as well as its front.",
+    "words": [
+      [
+        "CASE",
+        "Closed display with clear sides"
+      ],
+      [
+        "EXHIBIT",
+        "Object or collection set out for visitors to see"
+      ],
+      [
+        "SIDE",
+        "Part of the case through which the visitor looks"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "FRONT",
+        "Side that faces a viewer or looks forward"
+      ],
+      [
+        "BACK",
+        "Side opposite the front"
+      ],
+      [
+        "LOOK",
+        "Direct the eyes toward something"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "ROOM",
+        "Space inside a building surrounded by walls"
+      ],
+      [
+        "FRAME",
+        "Border around a picture or other object"
+      ],
+      [
+        "GUIDE",
+        "Thing that helps someone find a way or place an item"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "VIEW",
+        "Scene seen from a place"
+      ]
+    ],
+    "requiredAnswers": [
+      "CASE",
+      "EXHIBIT",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-2",
+    "title": "Finding a Name beside a Portrait",
+    "description": "A small name card gives the visitor a way to connect the picture with the person shown in it.",
+    "words": [
+      [
+        "PORTRAIT",
+        "Picture showing the face of a person"
+      ],
+      [
+        "NAME",
+        "Word printed to identify the person in the picture"
+      ],
+      [
+        "CARD",
+        "Small printed piece placed beside the frame"
+      ],
+      [
+        "FRAME",
+        "Outside support that holds parts in place"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "LIGHT",
+        "Illumination that lets us see"
+      ],
+      [
+        "FACE",
+        "Front of the head"
+      ],
+      [
+        "LABEL",
+        "Small written marker identifying something on a table"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "GUIDE",
+        "Help someone follow a route or direction"
+      ],
+      [
+        "LOOK",
+        "Use your eyes to find or notice something"
+      ]
+    ],
+    "requiredAnswers": [
+      "PORTRAIT",
+      "NAME",
+      "CARD"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-3",
+    "title": "Following Raised Lines on a Touch Map",
+    "description": "A visitor feels the raised paths from one room to another before entering the hall.",
+    "words": [
+      [
+        "RIDGE",
+        "Line that stands out from the map surface"
+      ],
+      [
+        "MAP",
+        "Drawing that shows where the rooms are"
+      ],
+      [
+        "HAND",
+        "Part used to feel the raised route"
+      ],
+      [
+        "TOUCH",
+        "Put a hand or finger against something"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "ROUTE",
+        "Planned course of a journey"
+      ],
+      [
+        "START",
+        "Begin an action or trip"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "HALL",
+        "Large room for meetings"
+      ],
+      [
+        "ROOM",
+        "Space inside a building surrounded by walls"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "GUIDE",
+        "Help someone follow a route or direction"
+      ],
+      [
+        "SIGN",
+        "Notice displayed for people to read"
+      ]
+    ],
+    "requiredAnswers": [
+      "RIDGE",
+      "MAP",
+      "HAND"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-4",
+    "title": "Putting a Loaner Magnifier Back in Its Slot",
+    "description": "A large lens goes into the slot nearest the exit after being used to read fine print.",
+    "words": [
+      [
+        "MAGNIFIER",
+        "Tool with a lens that makes small print easier to read"
+      ],
+      [
+        "SLOT",
+        "Narrow space that holds the tool upright"
+      ],
+      [
+        "LENS",
+        "Clear curved piece a reader looks through"
+      ],
+      [
+        "PRINT",
+        "Put words or pictures on paper"
+      ],
+      [
+        "READ",
+        "Find the meaning of written words"
+      ],
+      [
+        "LARGE",
+        "Big in size"
+      ],
+      [
+        "GLASS",
+        "Clear material used for windows"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "GUIDE",
+        "Person, book, or mark that shows the way"
+      ]
+    ],
+    "requiredAnswers": [
+      "MAGNIFIER",
+      "SLOT",
+      "LENS"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-5",
+    "title": "Leaving a Short Note in an Exhibit Comment Box",
+    "description": "A visitor writes one thought on a small slip and puts it through a slot for the staff.",
+    "words": [
+      [
+        "COMMENT",
+        "Short written thought about the exhibit"
+      ],
+      [
+        "SLIP",
+        "Small piece of paper left by the visitor"
+      ],
+      [
+        "SLOT",
+        "Narrow opening in the top of the box"
+      ],
+      [
+        "PAPER",
+        "Material made into thin sheets"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "PENCIL",
+        "Writing tool with a graphite core"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "READ",
+        "Use the displayed marks or numbers to get information"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "SIGN",
+        "Notice displayed for people to read"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ]
+    ],
+    "requiredAnswers": [
+      "COMMENT",
+      "SLIP",
+      "SLOT"
+    ]
+  }
+]

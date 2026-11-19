@@ -1,0 +1,342 @@
+[
+  {
+    "id": "tending-beds-and-paths",
+    "title": "Bite Marks Along a Cabbage Leaf",
+    "description": "A close look at a cabbage leaf shows little openings and ragged places where something has been eating.",
+    "words": [
+      [
+        "CABBAGE",
+        "Vegetable with a round head of overlapping leaves"
+      ],
+      [
+        "HOLES",
+        "Small openings where part of a leaf is missing"
+      ],
+      [
+        "NIBBLE",
+        "Take a little bite"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "RAGGED",
+        "With a rough uneven edge"
+      ],
+      [
+        "CHECK",
+        "Look for signs of damage"
+      ],
+      [
+        "BITE",
+        "Mark left where a piece was eaten"
+      ],
+      [
+        "EDGE",
+        "Outer border of the leaf"
+      ],
+      [
+        "TURN",
+        "Flip the leaf to see its underside"
+      ],
+      [
+        "STEM",
+        "Part that joins a leaf to the plant"
+      ],
+      [
+        "GREEN",
+        "Color of many of the outer leaves"
+      ],
+      [
+        "MISSING",
+        "No longer in its usual place"
+      ],
+      [
+        "CROP",
+        "Plants grown for food"
+      ],
+      [
+        "CHEW",
+        "Break food into small pieces in the mouth"
+      ]
+    ],
+    "requiredAnswers": [
+      "CABBAGE",
+      "HOLES",
+      "NIBBLE"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-2",
+    "title": "Clearing Fallen Twigs before Mowing",
+    "description": "Small branches go into a basket before mowing so the lawn is clear when the mower passes.",
+    "words": [
+      [
+        "TWIGS",
+        "Small branches that have fallen from a tree"
+      ],
+      [
+        "MOWER",
+        "Machine that cuts grass"
+      ],
+      [
+        "CLEAR",
+        "Remove things in the way"
+      ],
+      [
+        "BASKET",
+        "Container for carrying small sticks"
+      ],
+      [
+        "BRANCH",
+        "Part of a tree that grows out from the trunk"
+      ],
+      [
+        "LIFT",
+        "Pick a fallen stick up from the grass"
+      ],
+      [
+        "BLADE",
+        "Sharp part of the mower"
+      ],
+      [
+        "GRASS",
+        "Green plants cut to keep a lawn tidy"
+      ],
+      [
+        "LAWN",
+        "Yard area covered with short grass"
+      ],
+      [
+        "STICK",
+        "Loose piece of a woody branch"
+      ],
+      [
+        "BUNDLE",
+        "Group of small sticks gathered together"
+      ],
+      [
+        "WHEEL",
+        "Round part that rolls along the ground"
+      ],
+      [
+        "PATH",
+        "Way left open for the mower"
+      ],
+      [
+        "RAKE",
+        "Tool with teeth that can pull fallen sticks together"
+      ]
+    ],
+    "requiredAnswers": [
+      "TWIGS",
+      "MOWER",
+      "CLEAR"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-3",
+    "title": "Giving Crowded Iris Roots More Room",
+    "description": "An older clump of iris can be divided so the pieces can grow with a little space between them.",
+    "words": [
+      [
+        "IRIS",
+        "Garden flower with tall leaves shaped like swords"
+      ],
+      [
+        "CLUMP",
+        "Group of plants growing close together"
+      ],
+      [
+        "DIVIDE",
+        "Separate one group into smaller ones"
+      ],
+      [
+        "ROOTS",
+        "Parts that hold a plant in the ground"
+      ],
+      [
+        "SPACE",
+        "Room between plants"
+      ],
+      [
+        "SHOOT",
+        "New growth coming up from the roots"
+      ],
+      [
+        "DIG",
+        "Loosen the soil with a tool"
+      ],
+      [
+        "FAN",
+        "Shape made by leaves spreading outward from a narrow base"
+      ],
+      [
+        "LEAVES",
+        "Flat green parts that catch the light"
+      ],
+      [
+        "CROWD",
+        "Pack into too little space"
+      ],
+      [
+        "SOIL",
+        "Earth used to grow the flowers"
+      ],
+      [
+        "SHOVEL",
+        "Tool with a broad blade for lifting soil"
+      ],
+      [
+        "REPLANT",
+        "Put a lifted plant back in the ground"
+      ],
+      [
+        "LIFT",
+        "Raise the clump out of the soil"
+      ]
+    ],
+    "requiredAnswers": [
+      "IRIS",
+      "CLUMP",
+      "DIVIDE"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-4",
+    "title": "Scraping Dried Mud from a Garden Rake",
+    "description": "Dry mud can get stuck between a rake's teeth and must come loose before the tool is ready to hang up.",
+    "words": [
+      [
+        "RAKE",
+        "Garden tool with a row of teeth"
+      ],
+      [
+        "MUD",
+        "Soil that sticks when mixed with water"
+      ],
+      [
+        "TEETH",
+        "Points that draw leaves or soil together"
+      ],
+      [
+        "DRIED",
+        "Having lost its moisture"
+      ],
+      [
+        "SCRAPE",
+        "Rub a firm edge against something to remove it"
+      ],
+      [
+        "FLAKE",
+        "Small piece that comes off a dry surface"
+      ],
+      [
+        "HANDLE",
+        "Long part held in both hands"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles that remove loose dirt"
+      ],
+      [
+        "STUCK",
+        "Held in place and hard to remove"
+      ],
+      [
+        "TAP",
+        "Strike lightly to loosen the dirt"
+      ],
+      [
+        "HANG",
+        "Put the tool on a hook"
+      ],
+      [
+        "SHED",
+        "Small building where garden tools may be kept"
+      ],
+      [
+        "ROW",
+        "Straight line of points across the tool"
+      ],
+      [
+        "CLEAN",
+        "Remove dirt from a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "RAKE",
+      "MUD",
+      "TEETH"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-5",
+    "title": "Loosening Weeds between Patio Pavers",
+    "description": "A slender root can grow in a narrow gap between the blocks, even where there is little soil.",
+    "words": [
+      [
+        "WEEDS",
+        "Unwanted plants growing between the blocks"
+      ],
+      [
+        "PAVERS",
+        "Flat blocks used for patios and walkways"
+      ],
+      [
+        "GAP",
+        "Open space between two blocks"
+      ],
+      [
+        "ROOT",
+        "Part of a weed that reaches down into the ground"
+      ],
+      [
+        "PULL",
+        "Draw up toward yourself"
+      ],
+      [
+        "LOOSEN",
+        "Make a tight plant easier to remove"
+      ],
+      [
+        "CRACK",
+        "Narrow split where a seed may land"
+      ],
+      [
+        "SOIL",
+        "Loose earth in the space between blocks"
+      ],
+      [
+        "NARROW",
+        "Not wide from side to side"
+      ],
+      [
+        "STONE",
+        "Hard natural material used to make some patios"
+      ],
+      [
+        "EDGE",
+        "Side of a block next to the opening"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "GREEN",
+        "Color of living leaves"
+      ],
+      [
+        "PATIO",
+        "Flat outdoor area next to a house"
+      ]
+    ],
+    "requiredAnswers": [
+      "WEEDS",
+      "PAVERS",
+      "GAP"
+    ]
+  }
+]

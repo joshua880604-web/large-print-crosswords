@@ -4,9 +4,9 @@ import assert from 'node:assert/strict';
 export function releaseScope(args=process.argv){
  const option=args.find(arg=>arg.startsWith('--release='));
  const release=option?Number(option.split('=')[1]):1000;
- const ranges=new Map([[1000,[100,200]],[1200,[200,240]],[1500,[240,300]]]);
+ const ranges=new Map([[1000,[100,200]],[1200,[200,240]],[1500,[240,300]],[1545,[300,309]],[1570,[309,314]],[1610,[314,322]],[1655,[322,331]],[2000,[331,400]]]);
  const range=ranges.get(release);
- assert.ok(range,'Supported release: 1000, 1200 or 1500');
+ assert.ok(range,'Supported release: 1000, 1200, 1500, 1545, 1570, 1610, 1655 or 2000');
  const manifest=JSON.parse(readFileSync(new URL('../src/data/editorial-series.json',import.meta.url),'utf8'));
  const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
  const configs=manifest.slice(...range);

@@ -3055,5 +3055,705 @@
     "theme": "Everyday Life",
     "source": "expansion-1500/small-community-meals.json",
     "revision": 1
+  },
+  {
+    "id": "shopping-and-returning",
+    "theme": "Everyday Life",
+    "name": "At the grocery counter",
+    "source": "expansion-2000/shopping-and-returning.json",
+    "revision": 1
+  },
+  {
+    "id": "saved-messages",
+    "theme": "Nostalgia",
+    "name": "Messages on paper",
+    "source": "expansion-2000/saved-messages.json",
+    "revision": 1
+  },
+  {
+    "id": "comfort-food-from-the-oven",
+    "theme": "Food",
+    "name": "Familiar comfort food",
+    "source": "expansion-2000/comfort-food-from-the-oven.json",
+    "revision": 1
+  },
+  {
+    "id": "yard-fixes-and-care",
+    "theme": "Gardening",
+    "name": "Caring for the garden",
+    "source": "expansion-2000/yard-fixes-and-care.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-park-outings",
+    "theme": "Everyday Life",
+    "name": "A day at the park",
+    "source": "expansion-2000/familiar-park-outings.json",
+    "revision": 1
+  },
+  {
+    "id": "after-a-winter-storm",
+    "theme": "Winter",
+    "name": "After a winter storm",
+    "source": "expansion-2000/after-a-winter-storm.json",
+    "revision": 1
+  },
+  {
+    "id": "neighborhood-pet-care",
+    "theme": "Nature",
+    "name": "Small jobs for pet owners",
+    "source": "expansion-2000/neighborhood-pet-care.json",
+    "revision": 1
+  },
+  {
+    "id": "music-in-a-small-room",
+    "theme": "Music",
+    "name": "Listening and making music",
+    "source": "expansion-2000/music-in-a-small-room.json",
+    "revision": 1
+  },
+  {
+    "id": "meetings-in-bible-stories",
+    "theme": "Bible",
+    "name": "Encounters in Bible stories",
+    "source": "expansion-2000/meetings-in-bible-stories.json",
+    "revision": 1
+  },
+  {
+    "id": "shared-places-around-town",
+    "theme": "Everyday Life",
+    "name": "Shared places around town",
+    "source": "expansion-2000/shared-places-around-town.json",
+    "revision": 1
+  },
+  {
+    "id": "old-paper-and-counter-tools",
+    "theme": "Nostalgia",
+    "name": "Familiar paper keepsakes and tools",
+    "source": "expansion-2000/old-paper-and-counter-tools.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-food-at-the-table",
+    "theme": "Food",
+    "name": "Familiar food at the table",
+    "source": "expansion-2000/familiar-food-at-the-table.json",
+    "revision": 1
+  },
+  {
+    "id": "tending-beds-and-paths",
+    "theme": "Gardening",
+    "name": "Tending beds and paths",
+    "source": "expansion-2000/tending-beds-and-paths.json",
+    "revision": 1
+  },
+  {
+    "id": "pets-and-backyard-moments",
+    "theme": "Nature",
+    "name": "Pets and backyard moments",
+    "source": "expansion-2000/pets-and-backyard-moments.json",
+    "revision": 1
+  },
+  {
+    "id": "fair-and-community-tables",
+    "theme": "Everyday Life",
+    "name": "At the community event",
+    "source": "expansion-2000/fair-and-community-tables.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-kitchen-preparations",
+    "theme": "Food",
+    "name": "Familiar last steps in the kitchen",
+    "source": "expansion-2000/familiar-kitchen-preparations.json",
+    "revision": 1
+  },
+  {
+    "id": "small-fittings-at-home",
+    "theme": "Everyday Life",
+    "name": "Small fittings around the house",
+    "source": "expansion-2000/small-fittings-at-home.json",
+    "revision": 1
+  },
+  {
+    "id": "music-before-and-after-the-song",
+    "theme": "Music",
+    "name": "Music before and after the song",
+    "source": "expansion-2000/music-before-and-after-the-song.json",
+    "revision": 1
+  },
+  {
+    "id": "tending-small-plantings",
+    "theme": "Gardening",
+    "name": "Caring for young plants",
+    "source": "expansion-2000/tending-small-plantings.json",
+    "revision": 1
+  },
+  {
+    "id": "older-things-in-daily-use",
+    "theme": "Nostalgia",
+    "name": "Older things in daily use",
+    "source": "expansion-2000/older-things-in-daily-use.json",
+    "revision": 1
+  },
+  {
+    "id": "small-stops-on-park-outings",
+    "theme": "Everyday Life",
+    "name": "Small stops on a park outing",
+    "source": "expansion-2000/small-stops-on-park-outings.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-bible-decisions",
+    "theme": "Bible",
+    "name": "Acts of care and attention in Bible stories",
+    "source": "expansion-2000/familiar-bible-decisions.json",
+    "revision": 1
+  },
+  {
+    "id": "snow-and-winter-light",
+    "theme": "Winter",
+    "name": "Snow and winter light",
+    "source": "expansion-2000/snow-and-winter-light.json",
+    "revision": 1
+  },
+  {
+    "id": "practical-corners-of-the-garden",
+    "theme": "Gardening",
+    "name": "Practical corners of the garden",
+    "source": "expansion-2000/practical-corners-of-the-garden.json",
+    "revision": 1
+  },
+  {
+    "id": "simple-mending-tools",
+    "theme": "Crafts",
+    "name": "Simple mending tools",
+    "source": "expansion-2000/simple-mending-tools.json",
+    "revision": 1
+  },
+  {
+    "id": "sounds-and-instruments-up-close",
+    "theme": "Music",
+    "name": "Sounds and instruments up close",
+    "source": "expansion-2000/sounds-and-instruments-up-close.json",
+    "revision": 1
+  },
+  {
+    "id": "old-testament-moments",
+    "theme": "Bible",
+    "name": "Optional Bible stories from the Old Testament",
+    "source": "expansion-2000/old-testament-moments.json",
+    "revision": 1
+  },
+  {
+    "id": "handy-prep-in-the-kitchen",
+    "theme": "Food",
+    "name": "Handy preparation in the kitchen",
+    "source": "expansion-2000/handy-prep-in-the-kitchen.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-tools-from-earlier-years",
+    "theme": "Nostalgia",
+    "name": "Familiar tools from earlier years",
+    "source": "expansion-2000/familiar-tools-from-earlier-years.json",
+    "revision": 1
+  },
+  {
+    "id": "little-stops-by-the-shore",
+    "theme": "Everyday Life",
+    "name": "Little stops by the shore",
+    "source": "expansion-2000/little-stops-by-the-shore.json",
+    "revision": 1
+  },
+  {
+    "id": "small-household-upkeep",
+    "theme": "Everyday Life",
+    "name": "Small household upkeep",
+    "source": "expansion-2000/small-household-upkeep.json",
+    "revision": 1
+  },
+  {
+    "id": "after-the-grocery-aisles",
+    "theme": "Everyday Life",
+    "name": "At the end of a grocery trip",
+    "source": "expansion-2000/after-the-grocery-aisles.json",
+    "revision": 1
+  },
+  {
+    "id": "small-errands-on-main-street",
+    "theme": "Everyday Life",
+    "name": "Small errands on Main Street",
+    "source": "expansion-2000/small-errands-on-main-street.json",
+    "revision": 1
+  },
+  {
+    "id": "watching-small-changes",
+    "theme": "Hobbies",
+    "name": "Watching small changes at home",
+    "source": "expansion-2000/watching-small-changes.json",
+    "revision": 1
+  },
+  {
+    "id": "listening-and-looking-outdoors",
+    "theme": "Nature",
+    "name": "Listening and looking outdoors",
+    "source": "expansion-2000/listening-and-looking-outdoors.json",
+    "revision": 1
+  },
+  {
+    "id": "fittings-in-shared-places",
+    "theme": "Everyday Life",
+    "name": "Fittings in shared places",
+    "source": "expansion-2000/fittings-in-shared-places.json",
+    "revision": 1
+  },
+  {
+    "id": "neighbors-and-small-kindnesses",
+    "theme": "Everyday Life",
+    "name": "Neighbors and small kindnesses",
+    "source": "expansion-2000/neighbors-and-small-kindnesses.json",
+    "revision": 1
+  },
+  {
+    "id": "short-jobs-around-the-house",
+    "theme": "Everyday Life",
+    "name": "Short jobs around the house",
+    "source": "expansion-2000/short-jobs-around-the-house.json",
+    "revision": 1
+  },
+  {
+    "id": "opening-and-closing-fittings",
+    "theme": "Everyday Life",
+    "name": "Opening and closing small fittings",
+    "source": "expansion-2000/opening-and-closing-fittings.json",
+    "revision": 1
+  },
+  {
+    "id": "getting-out-the-door",
+    "theme": "Everyday Life",
+    "name": "Getting out the door",
+    "source": "expansion-2000/getting-out-the-door.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-first-aid-supplies",
+    "theme": "Everyday Life",
+    "name": "Familiar first-aid supplies",
+    "source": "expansion-2000/familiar-first-aid-supplies.json",
+    "revision": 1
+  },
+  {
+    "id": "before-the-first-bite",
+    "theme": "Food",
+    "name": "Before the first bite",
+    "source": "expansion-2000/before-the-first-bite.json",
+    "revision": 1
+  },
+  {
+    "id": "breakfast-on-the-griddle",
+    "theme": "Food",
+    "name": "Breakfast on the griddle",
+    "source": "expansion-2000/breakfast-on-the-griddle.json",
+    "revision": 1
+  },
+  {
+    "id": "small-baking-checks",
+    "theme": "Baking",
+    "name": "Small checks at the oven",
+    "source": "expansion-2000/small-baking-checks.json",
+    "revision": 1
+  },
+  {
+    "id": "pantry-packets-and-labels",
+    "theme": "Food",
+    "name": "Pantry packets and labels",
+    "source": "expansion-2000/pantry-packets-and-labels.json",
+    "revision": 1
+  },
+  {
+    "id": "fresh-fruit-details",
+    "theme": "Food",
+    "name": "Small steps with fresh fruit",
+    "source": "expansion-2000/fresh-fruit-details.json",
+    "revision": 1
+  },
+  {
+    "id": "supper-at-the-stove",
+    "theme": "Food",
+    "name": "Supper at the stove",
+    "source": "expansion-2000/supper-at-the-stove.json",
+    "revision": 1
+  },
+  {
+    "id": "drinks-poured-and-served",
+    "theme": "Food",
+    "name": "Drinks poured and served",
+    "source": "expansion-2000/drinks-poured-and-served.json",
+    "revision": 1
+  },
+  {
+    "id": "sauces-and-table-spreads",
+    "theme": "Food",
+    "name": "Sauces and spreads for the table",
+    "source": "expansion-2000/sauces-and-table-spreads.json",
+    "revision": 1
+  },
+  {
+    "id": "sides-with-a-simple-shape",
+    "theme": "Food",
+    "name": "Familiar sides and their shapes",
+    "source": "expansion-2000/sides-with-a-simple-shape.json",
+    "revision": 1
+  },
+  {
+    "id": "small-actions-at-the-serving-table",
+    "theme": "Food",
+    "name": "Small actions at the serving table",
+    "source": "expansion-2000/small-actions-at-the-serving-table.json",
+    "revision": 1
+  },
+  {
+    "id": "tending-vegetable-rows",
+    "theme": "Gardening",
+    "name": "Tending vegetable rows",
+    "source": "expansion-2000/tending-vegetable-rows.json",
+    "revision": 1
+  },
+  {
+    "id": "checking-garden-water",
+    "theme": "Gardening",
+    "name": "Checking water in the garden",
+    "source": "expansion-2000/checking-garden-water.json",
+    "revision": 1
+  },
+  {
+    "id": "garden-birds-and-insects",
+    "theme": "Nature",
+    "name": "Garden birds and insects",
+    "source": "expansion-2000/garden-birds-and-insects.json",
+    "revision": 1
+  },
+  {
+    "id": "watching-at-the-pond",
+    "theme": "Nature",
+    "name": "Watching at the pond",
+    "source": "expansion-2000/watching-at-the-pond.json",
+    "revision": 1
+  },
+  {
+    "id": "small-habits-of-wild-neighbors",
+    "theme": "Nature",
+    "name": "Small habits of wild neighbors",
+    "source": "expansion-2000/small-habits-of-wild-neighbors.json",
+    "revision": 1
+  },
+  {
+    "id": "tidying-a-garden-corner",
+    "theme": "Gardening",
+    "name": "Tidying a garden corner",
+    "source": "expansion-2000/tidying-a-garden-corner.json",
+    "revision": 1
+  },
+  {
+    "id": "keeping-flowers-upright",
+    "theme": "Gardening",
+    "name": "Keeping flowers upright",
+    "source": "expansion-2000/keeping-flowers-upright.json",
+    "revision": 1
+  },
+  {
+    "id": "harvest-basket-details",
+    "theme": "Gardening",
+    "name": "Details at the harvest basket",
+    "source": "expansion-2000/harvest-basket-details.json",
+    "revision": 1
+  },
+  {
+    "id": "small-changes-in-the-yard",
+    "theme": "Gardening",
+    "name": "Small changes in the yard",
+    "source": "expansion-2000/small-changes-in-the-yard.json",
+    "revision": 1
+  },
+  {
+    "id": "trees-in-different-weather",
+    "theme": "Nature",
+    "name": "Trees in different weather",
+    "source": "expansion-2000/trees-in-different-weather.json",
+    "revision": 1
+  },
+  {
+    "id": "small-tools-at-a-paper-desk",
+    "theme": "Nostalgia",
+    "name": "Small tools at a paper desk",
+    "source": "expansion-2000/small-tools-at-a-paper-desk.json",
+    "revision": 1
+  },
+  {
+    "id": "listening-with-old-equipment",
+    "theme": "Nostalgia",
+    "name": "Listening with older equipment",
+    "source": "expansion-2000/listening-with-old-equipment.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-older-kitchen-tools",
+    "theme": "Nostalgia",
+    "name": "Familiar older kitchen tools",
+    "source": "expansion-2000/familiar-older-kitchen-tools.json",
+    "revision": 1
+  },
+  {
+    "id": "older-cars-and-bicycles",
+    "theme": "Nostalgia",
+    "name": "Older cars and bicycles",
+    "source": "expansion-2000/older-cars-and-bicycles.json",
+    "revision": 1
+  },
+  {
+    "id": "old-clothing-and-accessories",
+    "theme": "Nostalgia",
+    "name": "Old clothing and accessories",
+    "source": "expansion-2000/old-clothing-and-accessories.json",
+    "revision": 1
+  },
+  {
+    "id": "cloth-mending-in-small-steps",
+    "theme": "Crafts",
+    "name": "Cloth mending in small steps",
+    "source": "expansion-2000/cloth-mending-in-small-steps.json",
+    "revision": 1
+  },
+  {
+    "id": "paper-folds-and-covers",
+    "theme": "Crafts",
+    "name": "Paper folds and covers",
+    "source": "expansion-2000/paper-folds-and-covers.json",
+    "revision": 1
+  },
+  {
+    "id": "small-woodwork-checks",
+    "theme": "Crafts",
+    "name": "Small woodwork checks",
+    "source": "expansion-2000/small-woodwork-checks.json",
+    "revision": 1
+  },
+  {
+    "id": "small-craft-display-ideas",
+    "theme": "Crafts",
+    "name": "Small craft display ideas",
+    "source": "expansion-2000/small-craft-display-ideas.json",
+    "revision": 1
+  },
+  {
+    "id": "arranging-buttons-and-beads",
+    "theme": "Crafts",
+    "name": "Arranging buttons and beads",
+    "source": "expansion-2000/arranging-buttons-and-beads.json",
+    "revision": 1
+  },
+  {
+    "id": "keeping-instruments-ready",
+    "theme": "Music",
+    "name": "Keeping instruments ready",
+    "source": "expansion-2000/keeping-instruments-ready.json",
+    "revision": 1
+  },
+  {
+    "id": "sounds-heard-together",
+    "theme": "Music",
+    "name": "Sounds heard together",
+    "source": "expansion-2000/sounds-heard-together.json",
+    "revision": 1
+  },
+  {
+    "id": "music-in-community-rooms",
+    "theme": "Music",
+    "name": "Music in community rooms",
+    "source": "expansion-2000/music-in-community-rooms.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-music-objects",
+    "theme": "Music",
+    "name": "Familiar music objects",
+    "source": "expansion-2000/familiar-music-objects.json",
+    "revision": 1
+  },
+  {
+    "id": "spring-rain-and-small-errands",
+    "theme": "Spring",
+    "name": "Spring rain and small errands",
+    "source": "expansion-2000/spring-rain-and-small-errands.json",
+    "revision": 1
+  },
+  {
+    "id": "summer-evenings-close-to-home",
+    "theme": "Summer",
+    "name": "Summer evenings close to home",
+    "source": "expansion-2000/summer-evenings-close-to-home.json",
+    "revision": 1
+  },
+  {
+    "id": "autumn-around-the-neighborhood",
+    "theme": "Autumn",
+    "name": "Autumn around the neighborhood",
+    "source": "expansion-2000/autumn-around-the-neighborhood.json",
+    "revision": 1
+  },
+  {
+    "id": "easy-games-with-a-table",
+    "theme": "Hobbies",
+    "name": "Easy games at a table",
+    "source": "expansion-2000/easy-games-with-a-table.json",
+    "revision": 1
+  },
+  {
+    "id": "quiet-sketches-and-studies",
+    "theme": "Hobbies",
+    "name": "Quiet sketches and studies",
+    "source": "expansion-2000/quiet-sketches-and-studies.json",
+    "revision": 1
+  },
+  {
+    "id": "sorting-and-keeping-finds",
+    "theme": "Hobbies",
+    "name": "Sorting and keeping small finds",
+    "source": "expansion-2000/sorting-and-keeping-finds.json",
+    "revision": 1
+  },
+  {
+    "id": "a-walk-through-a-local-museum",
+    "theme": "Everyday Life",
+    "name": "A walk through a local museum",
+    "source": "expansion-2000/a-walk-through-a-local-museum.json",
+    "revision": 1
+  },
+  {
+    "id": "details-on-a-town-walk",
+    "theme": "Everyday Life",
+    "name": "Details on a town walk",
+    "source": "expansion-2000/details-on-a-town-walk.json",
+    "revision": 1
+  },
+  {
+    "id": "a-rest-stop-on-the-road",
+    "theme": "Everyday Life",
+    "name": "A rest stop on the road",
+    "source": "expansion-2000/a-rest-stop-on-the-road.json",
+    "revision": 1
+  },
+  {
+    "id": "a-few-quiet-minutes",
+    "theme": "Everyday Life",
+    "name": "A few quiet minutes",
+    "source": "expansion-2000/a-few-quiet-minutes.json",
+    "revision": 1
+  },
+  {
+    "id": "taking-care-of-a-reading-place",
+    "theme": "Everyday Life",
+    "name": "Caring for a reading place",
+    "source": "expansion-2000/taking-care-of-a-reading-place.json",
+    "revision": 1
+  },
+  {
+    "id": "ordinary-visits-and-welcome",
+    "theme": "Everyday Life",
+    "name": "Ordinary visits and welcome",
+    "source": "expansion-2000/ordinary-visits-and-welcome.json",
+    "revision": 1
+  },
+  {
+    "id": "a-visit-through-familiar-landmarks",
+    "theme": "Nostalgia",
+    "name": "Visiting familiar landmarks",
+    "source": "expansion-2000/a-visit-through-familiar-landmarks.json",
+    "revision": 1
+  },
+  {
+    "id": "weekend-morning-in-the-yard",
+    "theme": "Gardening",
+    "name": "Weekend mornings in the yard",
+    "source": "expansion-2000/weekend-morning-in-the-yard.json",
+    "revision": 1
+  },
+  {
+    "id": "everyday-moments-with-paper",
+    "theme": "Nostalgia",
+    "name": "Everyday moments with paper",
+    "source": "expansion-2000/everyday-moments-with-paper.json",
+    "revision": 1
+  },
+  {
+    "id": "simple-summer-day-trips",
+    "theme": "Summer",
+    "name": "Simple summer day trips",
+    "source": "expansion-2000/simple-summer-day-trips.json",
+    "revision": 1
+  },
+  {
+    "id": "well-known-scenes-in-genesis",
+    "theme": "Bible",
+    "name": "Optional scenes from Genesis",
+    "source": "expansion-2000/well-known-scenes-in-genesis.json",
+    "revision": 1
+  },
+  {
+    "id": "stories-of-help-and-listening",
+    "theme": "Bible",
+    "name": "Optional stories of help and listening",
+    "source": "expansion-2000/stories-of-help-and-listening.json",
+    "revision": 1
+  },
+  {
+    "id": "new-testament-scenes-by-the-door",
+    "theme": "Bible",
+    "name": "Optional New Testament scenes near a doorway",
+    "source": "expansion-2000/new-testament-scenes-by-the-door.json",
+    "revision": 1
+  },
+  {
+    "id": "optional-scenes-in-acts-and-joshua",
+    "theme": "Bible",
+    "name": "Optional scenes from Acts and Joshua",
+    "source": "expansion-2000/optional-scenes-in-acts-and-joshua.json",
+    "revision": 1
+  },
+  {
+    "id": "familiar-county-fair-stops",
+    "theme": "Everyday Life",
+    "name": "Familiar county fair stops",
+    "source": "expansion-2000/familiar-county-fair-stops.json",
+    "revision": 1
+  },
+  {
+    "id": "old-stores-and-service-counters",
+    "theme": "Nostalgia",
+    "name": "Old stores and service counters",
+    "source": "expansion-2000/old-stores-and-service-counters.json",
+    "revision": 1
+  },
+  {
+    "id": "shelves-for-tiny-collections",
+    "theme": "Hobbies",
+    "name": "Shelves for tiny collections",
+    "source": "expansion-2000/shelves-for-tiny-collections.json",
+    "revision": 1
+  },
+  {
+    "id": "comfortable-neighborhood-walks",
+    "theme": "Everyday Life",
+    "name": "Comfortable neighborhood walks",
+    "source": "expansion-2000/comfortable-neighborhood-walks.json",
+    "revision": 1
+  },
+  {
+    "id": "taking-care-of-small-supplies",
+    "theme": "Everyday Life",
+    "name": "Taking care of small supplies",
+    "source": "expansion-2000/taking-care-of-small-supplies.json",
+    "revision": 1
   }
 ]

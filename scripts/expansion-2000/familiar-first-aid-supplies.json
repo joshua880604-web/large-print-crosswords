@@ -1,0 +1,322 @@
+[
+  {
+    "id": "familiar-first-aid-supplies",
+    "title": "A Label on the Outside of a First-Aid Tin",
+    "description": "A large label helps someone find a small tin of bandages and other supplies among similar boxes.",
+    "words": [
+      [
+        "TIN",
+        "Metal container used to keep supplies together"
+      ],
+      [
+        "LABEL",
+        "Written tag that identifies what a box holds"
+      ],
+      [
+        "BANDAGES",
+        "Strips or pads used to cover small scrapes"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "MARK",
+        "Small sign or line put on a surface"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "CLOTH",
+        "Material made by weaving or knitting fibers"
+      ],
+      [
+        "KIT",
+        "Collection of drums and cymbals played together"
+      ],
+      [
+        "PAD",
+        "Small soft cushion placed under something"
+      ],
+      [
+        "TAPE",
+        "Sticky strip used to fasten paper"
+      ],
+      [
+        "CLOSE",
+        "Shut an opening or cover"
+      ]
+    ],
+    "requiredAnswers": [
+      "TIN",
+      "LABEL",
+      "BANDAGES"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-2",
+    "title": "Opening a Packet of Clean Gauze",
+    "description": "The folded pad stays inside its wrapper until the two paper tabs are pulled apart.",
+    "words": [
+      [
+        "GAUZE",
+        "Thin loosely woven cloth used as a pad"
+      ],
+      [
+        "PACKET",
+        "Small sealed wrapper that holds the folded pad"
+      ],
+      [
+        "TABS",
+        "Short pieces that stick out at the edge to grip"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "PAD",
+        "Protective cushion worn by a hockey player"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "PEEL",
+        "Pull a thin outer layer away"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "SEAL",
+        "Close tightly to prevent leaks"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ]
+    ],
+    "requiredAnswers": [
+      "GAUZE",
+      "PACKET",
+      "TABS"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-3",
+    "title": "Keeping an Instant Cold Pack in Its Wrapper",
+    "description": "A demonstration pack has a sealed outer wrap that holds its contents even when the smaller pouch inside is pressed.",
+    "words": [
+      [
+        "POUCH",
+        "Small flexible bag contained inside the pack"
+      ],
+      [
+        "SEALED",
+        "Closed to keep the contents inside"
+      ],
+      [
+        "COLD",
+        "Feeling cool when held on the outside"
+      ],
+      [
+        "WRAP",
+        "Wind material around an object"
+      ],
+      [
+        "PACK",
+        "A small bundle of things"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "INSIDE",
+        "Within rather than outside"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "OUTER",
+        "Farther from the center"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "TIN",
+        "Metal container with a lid"
+      ],
+      [
+        "WATER",
+        "Clear liquid such as what flows from a tap"
+      ]
+    ],
+    "requiredAnswers": [
+      "POUCH",
+      "SEALED",
+      "COLD"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-4",
+    "title": "Rolling an Elastic Bandage Back Up",
+    "description": "After a demonstration, a teacher winds the long stretchable strip into a roll for the supply box.",
+    "words": [
+      [
+        "ELASTIC",
+        "Able to stretch and then return toward its earlier shape"
+      ],
+      [
+        "ROLL",
+        "Wind the strip around itself"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece of fabric"
+      ],
+      [
+        "CLOTH",
+        "Flexible fabric used for items such as towels or clothes"
+      ],
+      [
+        "EDGE",
+        "Part where a surface ends"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "STRETCH",
+        "To extend the body and limbs after resting"
+      ],
+      [
+        "WRAP",
+        "Soft or thin covering around something"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "LEVEL",
+        "Tool that checks a horizontal line"
+      ],
+      [
+        "TIGHT",
+        "Fastened firmly so it will not slip"
+      ],
+      [
+        "BAND",
+        "Flat strip that goes around something"
+      ],
+      [
+        "KIT",
+        "Collection of drums and cymbals played together"
+      ]
+    ],
+    "requiredAnswers": [
+      "ELASTIC",
+      "ROLL",
+      "STRIP"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-5",
+    "title": "Keeping Tweezers in Their Small Holder",
+    "description": "Two narrow tips sit safely inside the protective cover so the tool is easier to find in a tin.",
+    "words": [
+      [
+        "TWEEZERS",
+        "Small tool with two tips that pinch together"
+      ],
+      [
+        "TIPS",
+        "Pointed ends that meet when pressed"
+      ],
+      [
+        "HOLDER",
+        "Cover that keeps the narrow ends together"
+      ],
+      [
+        "CASE",
+        "Protective holder for an object"
+      ],
+      [
+        "TIN",
+        "Metal baking container, as in pie ___"
+      ],
+      [
+        "PRESS",
+        "Apply force with a hand or tool"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "POINT",
+        "Sharp or narrow end of an object"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly along a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "TWEEZERS",
+      "TIPS",
+      "HOLDER"
+    ]
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "id": "checking-garden-water",
+    "title": "Feeling an Inch Below the Surface of a Flowerpot",
+    "description": "The top layer may look dry while the soil just below still feels damp to a fingertip.",
+    "words": [
+      [
+        "DAMP",
+        "Slightly wet to the touch"
+      ],
+      [
+        "SOIL",
+        "Loose earth in which the plant grows"
+      ],
+      [
+        "SURFACE",
+        "Top of the soil seen from above"
+      ],
+      [
+        "POT",
+        "Deep container used for cooking or growing plants"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "FINGER",
+        "One of the five digits on a hand"
+      ],
+      [
+        "WATER",
+        "Clear liquid such as what flows from a tap"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "TEST",
+        "Trial made to observe how an aircraft design performs"
+      ],
+      [
+        "HIDE",
+        "Go where you cannot be seen"
+      ],
+      [
+        "INCH",
+        "U.S. length unit equal to one-twelfth of a foot"
+      ],
+      [
+        "TOUCH",
+        "Put a hand or finger against something"
+      ],
+      [
+        "BELOW",
+        "In a lower position"
+      ]
+    ],
+    "requiredAnswers": [
+      "DAMP",
+      "SOIL",
+      "SURFACE"
+    ]
+  },
+  {
+    "id": "checking-garden-water-2",
+    "title": "Turning a Watering Can's Spout toward the Roots",
+    "description": "The narrow end guides water to the soil beside the stem instead of over the top of the leaves.",
+    "words": [
+      [
+        "SPOUT",
+        "Narrow end of a can that guides the water"
+      ],
+      [
+        "ROOTS",
+        "Parts below the soil that take up water"
+      ],
+      [
+        "POUR",
+        "Let a little water flow from the tilted can"
+      ],
+      [
+        "STEM",
+        "Stalk supporting a flower"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "POT",
+        "Rounded vessel with room for food or soil"
+      ],
+      [
+        "CAN",
+        "Metal container with a lid"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "LOW",
+        "Close to the ground"
+      ],
+      [
+        "GUIDE",
+        "Thing that helps someone find a way or place an item"
+      ],
+      [
+        "STREAM",
+        "Small natural flowing watercourse"
+      ],
+      [
+        "TILT",
+        "Tip to one side"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPOUT",
+      "ROOTS",
+      "POUR"
+    ]
+  },
+  {
+    "id": "checking-garden-water-3",
+    "title": "Reading the Time on a Garden Watering Dial",
+    "description": "A dial shows how long water will pass before the fitting turns the hose off.",
+    "words": [
+      [
+        "DIAL",
+        "Round numbered face on the timer"
+      ],
+      [
+        "MINUTE",
+        "Sixty seconds on the watering scale"
+      ],
+      [
+        "STOP",
+        "Bring the flow to an end at a set time"
+      ],
+      [
+        "HOSE",
+        "Flexible tube carrying water"
+      ],
+      [
+        "WATER",
+        "Liquid found in rivers and ponds"
+      ],
+      [
+        "TAP",
+        "Faucet controlling the flow of water"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "CLOSE",
+        "Shut an opening or cover"
+      ],
+      [
+        "CHECK",
+        "Examine something to make sure it is ready"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "SET",
+        "Built or arranged surroundings used for filming"
+      ]
+    ],
+    "requiredAnswers": [
+      "DIAL",
+      "MINUTE",
+      "STOP"
+    ]
+  },
+  {
+    "id": "checking-garden-water-4",
+    "title": "Poking a Clear Path through a Planter's Drain Hole",
+    "description": "A stick clears a small bit of soil from the opening so extra water can run out again.",
+    "words": [
+      [
+        "DRAIN",
+        "Opening through which extra water leaves the pot"
+      ],
+      [
+        "CLEAR",
+        "Remove what is blocking the opening"
+      ],
+      [
+        "STICK",
+        "Small piece of wood that reaches into the hole"
+      ],
+      [
+        "HOLE",
+        "Opening through a surface"
+      ],
+      [
+        "WATER",
+        "Liquid found in rivers and ponds"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of something"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "SOIL",
+        "Loose ground around plant roots"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "BASE",
+        "Bottom part that holds something up"
+      ],
+      [
+        "TIP",
+        "Small pointed end of something"
+      ],
+      [
+        "PUSH",
+        "Move something away using force"
+      ]
+    ],
+    "requiredAnswers": [
+      "DRAIN",
+      "CLEAR",
+      "STICK"
+    ]
+  },
+  {
+    "id": "checking-garden-water-5",
+    "title": "Looking for Water Pooled at the End of a Row",
+    "description": "After a short watering, a low point is easier to spot because a shallow pool stays there longer.",
+    "words": [
+      [
+        "POOL",
+        "Small amount of water collected in a low place"
+      ],
+      [
+        "ROW",
+        "Line of plants along the bed"
+      ],
+      [
+        "LOW",
+        "Below the height of nearby ground"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "SOIL",
+        "Earth in which a young plant can take root"
+      ],
+      [
+        "LEVEL",
+        "Tool that checks a horizontal line"
+      ],
+      [
+        "WATER",
+        "Liquid that falls as rain and freezes into ice"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "SLOPE",
+        "Inclined side of a hill or mountain"
+      ],
+      [
+        "CHECK",
+        "See whether something matches what is needed"
+      ],
+      [
+        "SPOT",
+        "Small mark or patch of color"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "SHALLOW",
+        "Opposite of deep when describing water"
+      ]
+    ],
+    "requiredAnswers": [
+      "POOL",
+      "ROW",
+      "LOW"
+    ]
+  }
+]

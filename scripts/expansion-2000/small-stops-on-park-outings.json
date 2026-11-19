@@ -1,0 +1,342 @@
+[
+  {
+    "id": "small-stops-on-park-outings",
+    "title": "Reading a Mile Marker along the Trail",
+    "description": "A numbered post lets a walker compare the distance already covered with the distance shown on a trail map.",
+    "words": [
+      [
+        "MILE",
+        "Distance of 5,280 feet"
+      ],
+      [
+        "MARKER",
+        "Post with a number showing where you are on the trail"
+      ],
+      [
+        "DISTANCE",
+        "Length from one place to another"
+      ],
+      [
+        "POST",
+        "Upright piece that holds a trail sign"
+      ],
+      [
+        "WALK",
+        "Travel on foot along the trail"
+      ],
+      [
+        "MAP",
+        "Picture showing the path and where it leads"
+      ],
+      [
+        "TRAIL",
+        "Path for walking through a natural area"
+      ],
+      [
+        "NUMBER",
+        "Figure showing how far a point lies from the start"
+      ],
+      [
+        "READ",
+        "Look at the figure and understand it"
+      ],
+      [
+        "POINT",
+        "Particular place along the trail"
+      ],
+      [
+        "FAR",
+        "At a great distance away"
+      ],
+      [
+        "PATH",
+        "Way a walker follows"
+      ],
+      [
+        "START",
+        "Place where the trip begins"
+      ],
+      [
+        "COUNT",
+        "Keep track of how many have been passed"
+      ]
+    ],
+    "requiredAnswers": [
+      "MILE",
+      "MARKER",
+      "DISTANCE"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-2",
+    "title": "Watching Birds from Behind a Screen",
+    "description": "A screen at the edge of the pond hides a visitor's movements while leaving a narrow opening for watching birds.",
+    "words": [
+      [
+        "SCREEN",
+        "Barrier that hides the viewer from birds"
+      ],
+      [
+        "SLOT",
+        "Long narrow opening for a view of the pond"
+      ],
+      [
+        "QUIET",
+        "With little sound that might scare the birds"
+      ],
+      [
+        "WATCH",
+        "Look closely while staying in one spot"
+      ],
+      [
+        "WATER",
+        "Liquid filling the pond"
+      ],
+      [
+        "SHORE",
+        "Land along the edge of the pond"
+      ],
+      [
+        "SIT",
+        "Rest on a seat behind the screen"
+      ],
+      [
+        "SIGHT",
+        "Something a watcher sees through the opening"
+      ],
+      [
+        "WAIT",
+        "Stay in place until a bird comes into view"
+      ],
+      [
+        "HIDE",
+        "Keep out of view"
+      ],
+      [
+        "STILL",
+        "Without moving"
+      ],
+      [
+        "EDGE",
+        "Line where the pond meets the land"
+      ],
+      [
+        "DUCK",
+        "Water bird with a broad bill"
+      ],
+      [
+        "BOARD",
+        "Long flat piece of wood the barrier may be made from"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCREEN",
+      "SLOT",
+      "QUIET"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-3",
+    "title": "Using a Hand Pump at a Campground",
+    "description": "Moving a long handle up and down draws water to a spout beside the camping area.",
+    "words": [
+      [
+        "PUMP",
+        "Device that draws water when its handle is moved"
+      ],
+      [
+        "HANDLE",
+        "Long part a camper holds and moves"
+      ],
+      [
+        "SPOUT",
+        "Short tube where the water runs out"
+      ],
+      [
+        "BUCKET",
+        "Open container held below the spout"
+      ],
+      [
+        "WATER",
+        "Liquid drawn up from below ground"
+      ],
+      [
+        "STROKE",
+        "One full movement of the long handle"
+      ],
+      [
+        "LEVER",
+        "Bar that helps move the parts inside the pump"
+      ],
+      [
+        "FLOW",
+        "Come out in a steady stream"
+      ],
+      [
+        "DRIP",
+        "Fall one drop at a time"
+      ],
+      [
+        "PUSH",
+        "Press the handle away from you"
+      ],
+      [
+        "LIFT",
+        "Raise the handle for another stroke"
+      ],
+      [
+        "HOLD",
+        "Keep the bucket in one place"
+      ],
+      [
+        "WELL",
+        "Deep opening that holds or reaches water"
+      ],
+      [
+        "METAL",
+        "Hard material used to make the handle"
+      ]
+    ],
+    "requiredAnswers": [
+      "PUMP",
+      "HANDLE",
+      "SPOUT"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-4",
+    "title": "Choosing a Stop on a Park Audio Tour",
+    "description": "At a displayed number, a visitor presses the matching key and hears a short explanation of what is nearby.",
+    "words": [
+      [
+        "AUDIO",
+        "Sound recorded for the visitor to hear"
+      ],
+      [
+        "NUMBER",
+        "Figure on a sign that matches a recording"
+      ],
+      [
+        "GUIDE",
+        "Device that tells visitors about the stops"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to the recorded voice"
+      ],
+      [
+        "STOP",
+        "Place where the visitor pauses to hear an explanation"
+      ],
+      [
+        "PRESS",
+        "Push a key on the device"
+      ],
+      [
+        "SPEAKER",
+        "Part of the player that makes a voice audible"
+      ],
+      [
+        "PLAY",
+        "Start the recorded explanation"
+      ],
+      [
+        "PAUSE",
+        "Halt the voice for a short time"
+      ],
+      [
+        "VOLUME",
+        "How loud the voice sounds"
+      ],
+      [
+        "SIGN",
+        "Marker showing where to stop"
+      ],
+      [
+        "STORY",
+        "Short account explaining what happened in the area"
+      ],
+      [
+        "TOUR",
+        "Visit that follows a series of places"
+      ],
+      [
+        "KEY",
+        "Button used to enter a recording code"
+      ]
+    ],
+    "requiredAnswers": [
+      "AUDIO",
+      "NUMBER",
+      "GUIDE"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-5",
+    "title": "Writing a Line in the Trail Register",
+    "description": "At a trail shelter, a book invites hikers to leave their names and a short word about the walk.",
+    "words": [
+      [
+        "REGISTER",
+        "Book where visitors write their names"
+      ],
+      [
+        "PENCIL",
+        "Writing tool whose marks can be erased"
+      ],
+      [
+        "DATE",
+        "Day, month, and year written with a note"
+      ],
+      [
+        "NAME",
+        "Word identifying who wrote a line"
+      ],
+      [
+        "WRITE",
+        "Put letters on a page"
+      ],
+      [
+        "PAGE",
+        "One side of a leaf in a book"
+      ],
+      [
+        "SIGN",
+        "Write your name in the book"
+      ],
+      [
+        "LINE",
+        "Row with enough room for one person's note"
+      ],
+      [
+        "SHELTER",
+        "Covered place where the book is kept dry"
+      ],
+      [
+        "ENTRY",
+        "One person's written contribution to the book"
+      ],
+      [
+        "COMMENT",
+        "Short written thought about the walk"
+      ],
+      [
+        "LEAVE",
+        "Put the book back for the next walker"
+      ],
+      [
+        "COVER",
+        "Outer part that protects the pages"
+      ],
+      [
+        "TRAIL",
+        "Path the writers have been walking on"
+      ]
+    ],
+    "requiredAnswers": [
+      "REGISTER",
+      "PENCIL",
+      "DATE"
+    ]
+  }
+]

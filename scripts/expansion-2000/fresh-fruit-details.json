@@ -1,0 +1,322 @@
+[
+  {
+    "id": "fresh-fruit-details",
+    "title": "Lifting Strawberry Tops with a Small Spoon",
+    "description": "A little spoon reaches under the green cap and lifts it away before the berry is cut.",
+    "words": [
+      [
+        "CAP",
+        "Green leafy part at the top of a strawberry"
+      ],
+      [
+        "SPOON",
+        "Small utensil slid beneath the leafy top"
+      ],
+      [
+        "LIFT",
+        "Raise the cap away from the berry"
+      ],
+      [
+        "BERRY",
+        "Small juicy fruit such as a blueberry"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "STEM",
+        "Stalk supporting a flower"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "TIP",
+        "Small pointed end of something"
+      ],
+      [
+        "WASH",
+        "Clean with water"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "CAP",
+      "SPOON",
+      "LIFT"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-2",
+    "title": "Twisting a Peach Half away from Its Pit",
+    "description": "The two cut halves turn in opposite directions, and the hard center is left in one of them.",
+    "words": [
+      [
+        "PEACH",
+        "Soft round summer fruit with a large stone"
+      ],
+      [
+        "PIT",
+        "Hard object inside the fruit"
+      ],
+      [
+        "TWIST",
+        "Turn one half against the other"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "TURN",
+        "Move around a center"
+      ],
+      [
+        "HALF",
+        "One of two equal parts of a measured amount"
+      ],
+      [
+        "RIPE",
+        "Ready to eat, as fruit"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ],
+      [
+        "FLESH",
+        "Soft edible part inside a fruit's rind"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEACH",
+      "PIT",
+      "TWIST"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-3",
+    "title": "Peeling a Clementine in One Strip",
+    "description": "A thumb loosens the fragrant skin, which can come off as a curving strip from top to bottom.",
+    "words": [
+      [
+        "PEEL",
+        "Remove the fruit's outer skin"
+      ],
+      [
+        "STRIP",
+        "Long piece of skin taken off in one part"
+      ],
+      [
+        "THUMB",
+        "Short thick digit that loosens the edge"
+      ],
+      [
+        "ORANGE",
+        "Round citrus fruit"
+      ],
+      [
+        "FRUIT",
+        "Food grown on trees or vines, such as pears"
+      ],
+      [
+        "RIND",
+        "Outer skin of citrus fruit"
+      ],
+      [
+        "SCENT",
+        "Pleasant smell from a flower"
+      ],
+      [
+        "CURVE",
+        "Line bending gradually rather than running straight"
+      ],
+      [
+        "PULL",
+        "Move an object by drawing it closer"
+      ],
+      [
+        "WEDGE",
+        "Piece of fruit cut wider at one edge"
+      ],
+      [
+        "SWEET",
+        "Sugary in taste"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ]
+    ],
+    "requiredAnswers": [
+      "PEEL",
+      "STRIP",
+      "THUMB"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-4",
+    "title": "Pushing a Grape Stem away from Its Fruit",
+    "description": "A small bunch is separated into individual grapes by moving the thin stems away from the skin.",
+    "words": [
+      [
+        "GRAPE",
+        "Small fruit growing in bunches on a vine"
+      ],
+      [
+        "STEM",
+        "Thin support holding one berry to the bunch"
+      ],
+      [
+        "BUNCH",
+        "Cluster of several grapes together"
+      ],
+      [
+        "VINE",
+        "Climbing or trailing plant"
+      ],
+      [
+        "PULL",
+        "Tug on something to make it move"
+      ],
+      [
+        "FRUIT",
+        "Food grown on trees or vines, such as pears"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "RINSE",
+        "Wash with clean water"
+      ],
+      [
+        "LEAVE",
+        "Go away from a place"
+      ],
+      [
+        "SWEET",
+        "Opposite of sour or bitter"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "STEMS",
+        "Plant parts that support the leaves or fruit"
+      ],
+      [
+        "HOLD",
+        "Keep an object in your hand"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRAPE",
+      "STEM",
+      "BUNCH"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-5",
+    "title": "Making a Citrus Curl for a Pitcher",
+    "description": "A narrow strip cut from the colored rind curves around itself before it falls into a cold drink.",
+    "words": [
+      [
+        "RIND",
+        "Outer part of an orange or lemon"
+      ],
+      [
+        "CURL",
+        "Strip curved around itself"
+      ],
+      [
+        "PITCHER",
+        "Container with a spout for serving a drink"
+      ],
+      [
+        "STRIP",
+        "Long narrow piece"
+      ],
+      [
+        "ORANGE",
+        "Color made by mixing red and yellow"
+      ],
+      [
+        "LEMON",
+        "Yellow citrus fruit commonly used for a sharp juice"
+      ],
+      [
+        "CUT",
+        "Divide with scissors or a knife"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ],
+      [
+        "ICE",
+        "Water in solid form"
+      ],
+      [
+        "PEEL",
+        "Pull a thin outer layer away"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "JUICE",
+        "Fruit liquid poured into a glass"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ]
+    ],
+    "requiredAnswers": [
+      "RIND",
+      "CURL",
+      "PITCHER"
+    ]
+  }
+]

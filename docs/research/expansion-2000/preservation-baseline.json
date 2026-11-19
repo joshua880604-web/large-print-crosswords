@@ -1,0 +1,31 @@
+{
+  "commit": "3e1acc7cc3c5f1849b7c0c34c978edd7ee836523",
+  "puzzles": 1500,
+  "series": 300,
+  "sha256": {
+    "src/data/puzzles.json": "fe46e1a2e5a50cd7dde83cc98750e02429afd88cb5cefed80da38ebb3232d771",
+    "src/data/editorial-series.json": "72540782c59380750f9a35197b44d9d6d2dedd6380c77493e91e974ee3097f04",
+    "src/data/previous-editions.json": "04c32c5bdb740608f28efa0a9af3ef1e2fc77008b34b13d801fe08fb36a96c41",
+    "src/data/archive-clue-clarifications.json": "0f2174f7ea8151aa6b27657341b693955b31ac2eb4bff6c9ef66e5f8a85a0b19",
+    "src/data/archives/autumn-originals.json": "c9dc91e8ed54fcfc2d9876c35555346e277d9f9c690660e9416c5f893b0b9319",
+    "src/data/archives/baking-originals.json": "44ee192c3f6c6023037984077a9368f3be3cdcc8f94ce3ed5592f7bda7d0c92f",
+    "src/data/archives/birds-originals.json": "384e8c1ad1c12e444cceec7bae3aff49f26de00a9990a5ccc1bb6b701d78d44a",
+    "src/data/archives/crafts-originals.json": "58233917bb5971b6778c8787a56ff2726b528807efddc3a4d727b36ffcbfd10e",
+    "src/data/archives/drinks-originals.json": "002e6d5e457d0b4e537d067f4af6bcba517bf633f21e056cf8a8058d99a83e6f",
+    "src/data/archives/farm-originals.json": "16c55fa71da3f27a8de549d4204278b1a34a3bab09029018140a4e9253001f08",
+    "src/data/archives/flowers-originals.json": "d1c6a705b8fc5f77f794b8809fb9f09fd0b929d735d021d8e2137772e363c848",
+    "src/data/archives/games-originals.json": "313ce7bbbf3c3d8225efd384ed6b3665f924ac9def704ba1e9db474da0fffecd",
+    "src/data/archives/gardening-originals.json": "0eae6e5b1f040bc5a8a5cf81324950368b574c5c77da1c7590235721e860ce3c",
+    "src/data/archives/holidays-originals.json": "aba6a6f884a0172e8defed143460b02060c8fd7afc377542ed3bebfbb4e88b0e",
+    "src/data/archives/home-originals.json": "bbd55111dafa0efb0b8a7ad10164b52ae1ac629b36bdeed5dd6ea66ce53071a6",
+    "src/data/archives/market-originals.json": "51bb630fdbdb1ad8cd04d340871efd922c92fe6db2b456b47ab728dc4a049e8b",
+    "src/data/archives/movies-originals.json": "6b626fd3ff3eb2d11120e479a615721e1d2850d4e2603bc0c686f46c7c57f436",
+    "src/data/archives/music-originals.json": "3a47248f5f2350e9e04c904b6b63ef98fa8a1133bbe5b1b2ec528bcb0ed1fd10",
+    "src/data/archives/pets-originals.json": "1e26b3a0fbbfabad70daebab16dd5968338233de3d7f5bb8b62aae1d1d6080c6",
+    "src/data/archives/reading-originals.json": "e5c313791d681c480ed7845d8be3247924a000ff8a96e0ac0b4c472ad6ebf404",
+    "src/data/archives/seaside-originals.json": "4b73759d7f671511ce8f6e4f5a487623c766ef11cb7f15faf94ef35f713016fb",
+    "src/data/archives/travel-originals.json": "98fd495a6476e4035d67a836f7ee4885887f40fcccd5b81c83dfaf529d436f37",
+    "src/data/archives/weather-originals.json": "fce0cc0cd2e91a6e5e3da75a83de3e3d37d07aa620ccf332416192b899a3f019",
+    "src/data/archives/workshop-originals.json": "81d4d670c64ad052308e7d7c04e8baa56ae6295c4b24c7a45c5e738687e0855f"
+  }
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "drinks-poured-and-served",
+    "title": "Floating Thin Apple Slices on a Cold Pitcher Drink",
+    "description": "Thin slices stay near the top of the pitcher and move when the drink is stirred.",
+    "words": [
+      [
+        "FLOAT",
+        "Stay at the surface without sinking"
+      ],
+      [
+        "APPLE",
+        "Fruit sliced thin for the pitcher"
+      ],
+      [
+        "STIR",
+        "Move a spoon through the liquid in circles"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "WATER",
+        "Clear liquid such as what flows from a tap"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "DRINK",
+        "Swallow a liquid"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of fruit"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "JUICE",
+        "Liquid squeezed from fruit"
+      ]
+    ],
+    "requiredAnswers": [
+      "FLOAT",
+      "APPLE",
+      "STIR"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-2",
+    "title": "Putting Ice in a Pitcher with a Long Scoop",
+    "description": "A long handle lets someone tip a small load of ice into the pitcher without reaching into the bin.",
+    "words": [
+      [
+        "SCOOP",
+        "Rounded utensil used to lift several pieces of ice"
+      ],
+      [
+        "PITCHER",
+        "Serving container with a handle and spout"
+      ],
+      [
+        "ICE",
+        "Frozen water that cools the drink"
+      ],
+      [
+        "BIN",
+        "Open compartment holding loose goods"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ],
+      [
+        "CUBE",
+        "Three-dimensional block shape made by dicing"
+      ],
+      [
+        "TILT",
+        "Tip to one side"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "POUR",
+        "To transfer lemonade in a stream from a serving container"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "FROST",
+        "Ice crystals forming on a cold surface"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ],
+      [
+        "LOAD",
+        "Cargo or weight supported by a wheeled vehicle"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCOOP",
+      "PITCHER",
+      "ICE"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-3",
+    "title": "Reading Drink Sizes on a Takeout Cup Stack",
+    "description": "Cup sleeves have small printed sizes so a server can choose the right cup before pouring a drink.",
+    "words": [
+      [
+        "SIZE",
+        "Label showing how much the cup holds"
+      ],
+      [
+        "STACK",
+        "Pile of cups fitted one above another"
+      ],
+      [
+        "PRINT",
+        "Written mark identifying the cup"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "DRINK",
+        "Take a sip from a cup"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "POUR",
+        "Tip the measuring cup to let liquid flow out"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "LARGE",
+        "Big in size"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "SERVE",
+        "Offer food or drink to the people at a table"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "SIZE",
+      "STACK",
+      "PRINT"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-4",
+    "title": "Rinsing a Reusable Straw with a Narrow Brush",
+    "description": "A long brush follows the inside of the straw so rinse water can carry away the little bits it loosens.",
+    "words": [
+      [
+        "STRAW",
+        "Thin tube for sipping a drink"
+      ],
+      [
+        "BRUSH",
+        "Tool with bristles narrow enough to fit the tube"
+      ],
+      [
+        "RINSE",
+        "Wash lightly with clean water"
+      ],
+      [
+        "TUBE",
+        "Long, narrow cylindrical feeder shape"
+      ],
+      [
+        "CLEAN",
+        "Free from dirt"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "WATER",
+        "Liquid found in rivers and ponds"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly along a surface"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "THIN",
+        "Remove extra seedlings so the remaining ones have room"
+      ],
+      [
+        "INSIDE",
+        "Within rather than outside"
+      ]
+    ],
+    "requiredAnswers": [
+      "STRAW",
+      "BRUSH",
+      "RINSE"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-5",
+    "title": "Keeping a Jar of Lemon Slices in Reach",
+    "description": "The clear sides let the server see how many slices are left for the pitchers on the counter.",
+    "words": [
+      [
+        "JAR",
+        "Clear container with a lid that holds the slices"
+      ],
+      [
+        "LEMON",
+        "Sour yellow fruit often added to a drink"
+      ],
+      [
+        "REACH",
+        "Stretch far enough to take the jar from the counter"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "CLEAR",
+        "Easy to see through"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "SERVE",
+        "Put a portion of food out for someone"
+      ],
+      [
+        "REFILL",
+        "Another serving poured into a cup that has been emptied"
+      ],
+      [
+        "COLD",
+        "Opposite of hot"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "PITCHER",
+        "Serving jug with a handle and spout"
+      ]
+    ],
+    "requiredAnswers": [
+      "JAR",
+      "LEMON",
+      "REACH"
+    ]
+  }
+]

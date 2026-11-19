@@ -1,0 +1,322 @@
+[
+  {
+    "id": "details-on-a-town-walk",
+    "title": "Following the Raised Edge between Two Sidewalk Surfaces",
+    "description": "A narrow divide shows where the newer paving meets a much older set of bricks.",
+    "words": [
+      [
+        "EDGE",
+        "Border between the two kinds of paving"
+      ],
+      [
+        "BRICKS",
+        "Hard rectangular blocks used in the old walkway"
+      ],
+      [
+        "RAISED",
+        "Sitting a little higher than the newer paving"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "STEP",
+        "One part of a staircase"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "ROAD",
+        "Way traveled by cars"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "EDGE",
+      "BRICKS",
+      "RAISED"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-2",
+    "title": "Finding the Matching Arrow across an Intersection",
+    "description": "The arrow on one side points toward the street named again on the far corner.",
+    "words": [
+      [
+        "ARROW",
+        "Mark with a point showing which way to go"
+      ],
+      [
+        "CROSS",
+        "Go from one side of the street to the other"
+      ],
+      [
+        "SIGN",
+        "Board that carries the street name or arrow"
+      ],
+      [
+        "STREET",
+        "Address word commonly abbreviated St. in a road name"
+      ],
+      [
+        "WAY",
+        "Path word completing the song title My ___"
+      ],
+      [
+        "COUNT",
+        "To say numbers in sequence"
+      ],
+      [
+        "CORNER",
+        "Place where two edges or sides meet"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "BLOCK",
+        "Get in the way of something"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "LINE",
+        "Series of things set next to each other"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ]
+    ],
+    "requiredAnswers": [
+      "ARROW",
+      "CROSS",
+      "SIGN"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-3",
+    "title": "Reading a Plaque above an Old Shop Door",
+    "description": "A small plaque names an earlier business that once used the doorway.",
+    "words": [
+      [
+        "PLAQUE",
+        "Flat plate with words fixed to a wall"
+      ],
+      [
+        "SHOP",
+        "Business that used the building at an earlier time"
+      ],
+      [
+        "DOORWAY",
+        "Opening people pass through to enter a building"
+      ],
+      [
+        "SIGN",
+        "Public board with words or symbols"
+      ],
+      [
+        "ENTRY",
+        "Item submitted for a contest"
+      ],
+      [
+        "FRAME",
+        "Border around a picture or other object"
+      ],
+      [
+        "BRICK",
+        "Rectangular building block"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "OLD",
+        "From an earlier time, as a vintage stamp is"
+      ],
+      [
+        "FRONT",
+        "Side that faces a viewer or looks forward"
+      ],
+      [
+        "ABOVE",
+        "At a higher position"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ]
+    ],
+    "requiredAnswers": [
+      "PLAQUE",
+      "SHOP",
+      "DOORWAY"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-4",
+    "title": "Noticing a Drain Opening beside a Street Corner",
+    "description": "Water follows the low edge of the street until it reaches a dark opening near the curb.",
+    "words": [
+      [
+        "DRAIN",
+        "Opening that takes water below the street"
+      ],
+      [
+        "CURB",
+        "Raised edge between street and sidewalk"
+      ],
+      [
+        "FLOW",
+        "Move continuously in one direction"
+      ],
+      [
+        "STREET",
+        "Town road lined with homes or shops"
+      ],
+      [
+        "WATER",
+        "Clear liquid such as what flows from a tap"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "PATH",
+        "Walking route through a garden"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "CORNER",
+        "Place where a surface changes direction at a point"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "LINE",
+        "Row that extends in one direction"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "FALL",
+        "Season after summer"
+      ]
+    ],
+    "requiredAnswers": [
+      "DRAIN",
+      "CURB",
+      "FLOW"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-5",
+    "title": "Looking at a Tree Outline Cut into a Street Grate",
+    "description": "The metal around the tree has an opening in the middle and a repeated design around it.",
+    "words": [
+      [
+        "GRATE",
+        "Open metal cover around the base of a street tree"
+      ],
+      [
+        "PATTERN",
+        "Design that repeats around the metal"
+      ],
+      [
+        "TREE",
+        "Plant whose trunk passes through the middle"
+      ],
+      [
+        "ROOT",
+        "Plant part taking up water below ground"
+      ],
+      [
+        "GROUND",
+        "Land beneath your feet"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ],
+      [
+        "LINE",
+        "Thin cord stretched between two points"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "BASE",
+        "Bottom part that holds something up"
+      ],
+      [
+        "EDGE",
+        "Part where a surface ends"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRATE",
+      "PATTERN",
+      "TREE"
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "sides-with-a-simple-shape",
+    "title": "Fitting a Corn Cob into Two Small Holders",
+    "description": "Small holders at both ends give fingers a place to grip while the hot corn is turned.",
+    "words": [
+      [
+        "COB",
+        "Firm center of an ear covered with kernels"
+      ],
+      [
+        "HOLDERS",
+        "Small pieces pressed into the two ends for gripping"
+      ],
+      [
+        "TURN",
+        "Move the ear around to reach another row"
+      ],
+      [
+        "CORN",
+        "Vegetable with kernels growing on a cob"
+      ],
+      [
+        "GRIP",
+        "Hold firmly without slipping"
+      ],
+      [
+        "END",
+        "Last part of something"
+      ],
+      [
+        "HOT",
+        "Having a high temperature"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "EAT",
+        "Take food into the body"
+      ],
+      [
+        "PIECE",
+        "One separate part of a whole"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ]
+    ],
+    "requiredAnswers": [
+      "COB",
+      "HOLDERS",
+      "TURN"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-2",
+    "title": "Cutting a Baked Corn Pudding into Squares",
+    "description": "The soft baked side is divided in straight rows before the first square is lifted to a plate.",
+    "words": [
+      [
+        "SQUARES",
+        "Pieces with four even sides and square corners"
+      ],
+      [
+        "CORN",
+        "Grain with yellow kernels used in the pudding"
+      ],
+      [
+        "SIDE",
+        "Food served alongside the main dish"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "PLATE",
+        "Shallow dish used at a meal"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "SQUARES",
+      "CORN",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-3",
+    "title": "Turning a Spoonful of Rice Out of a Cup",
+    "description": "A little cup shapes warm rice into a rounded mound that stays together when the cup is lifted.",
+    "words": [
+      [
+        "RICE",
+        "Small cooked grains that can hold together when pressed"
+      ],
+      [
+        "MOUND",
+        "Small rounded heap set on the plate"
+      ],
+      [
+        "CUP",
+        "Small container that gives the cooked grains their shape"
+      ],
+      [
+        "PLATE",
+        "Flat dinner dish"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "ROUND",
+        "Curved rather than square at the edges"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "GRAIN",
+        "Edible seed such as wheat"
+      ],
+      [
+        "WARM",
+        "Comfortably heated rather than cold"
+      ],
+      [
+        "SERVE",
+        "Offer food or drink to the people at a table"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "RICE",
+      "MOUND",
+      "CUP"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-4",
+    "title": "Pressing Moisture from an Eggplant Slice",
+    "description": "A towel absorbs small beads of moisture that collect on the cut surface before the slices are cooked.",
+    "words": [
+      [
+        "EGGPLANT",
+        "Vegetable with purple skin and a soft pale middle"
+      ],
+      [
+        "MOISTURE",
+        "Small amounts of water seen on the slices"
+      ],
+      [
+        "PRESS",
+        "Push down gently with a folded towel"
+      ],
+      [
+        "CUT",
+        "Divide with scissors or a knife"
+      ],
+      [
+        "SLICE",
+        "One serving cut from a cake"
+      ],
+      [
+        "SALT",
+        "Common white seasoning"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "SKIN",
+        "Thin outer covering of fruit"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "SOFT",
+        "Not hard or stiff"
+      ],
+      [
+        "PURPLE",
+        "Color made by mixing red and blue"
+      ]
+    ],
+    "requiredAnswers": [
+      "EGGPLANT",
+      "MOISTURE",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-5",
+    "title": "Gathering Asparagus Spears into Loose Bundles",
+    "description": "Several long spears are lined up together before the cook moves them from the board to the pan.",
+    "words": [
+      [
+        "SPEARS",
+        "Long narrow shoots prepared for cooking"
+      ],
+      [
+        "BUNDLE",
+        "Group of several spears held together"
+      ],
+      [
+        "LINE",
+        "Arrange the cut ends in a row"
+      ],
+      [
+        "STALK",
+        "Main upright piece that supports a plant's leaves"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "TIPS",
+        "Parts at the farthest ends of narrow things"
+      ],
+      [
+        "BOARD",
+        "Flat length of lumber"
+      ],
+      [
+        "TURN",
+        "Move around a center"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "PAN",
+        "Flat-bottomed vessel used on a stove"
+      ],
+      [
+        "COOK",
+        "Prepare food with heat"
+      ],
+      [
+        "CUT",
+        "Separate a patch from a larger fabric piece"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPEARS",
+      "BUNDLE",
+      "LINE"
+    ]
+  }
+]

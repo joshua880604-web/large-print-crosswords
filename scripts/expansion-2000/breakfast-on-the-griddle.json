@@ -1,0 +1,318 @@
+[
+  {
+    "id": "breakfast-on-the-griddle",
+    "title": "Cutting Toast into Narrow Strips",
+    "description": "A toasted slice is cut lengthwise into pieces that can be picked up one at a time.",
+    "words": [
+      [
+        "TOAST",
+        "Bread browned until its outside is crisp"
+      ],
+      [
+        "STRIPS",
+        "Long narrow slices cut from the toast"
+      ],
+      [
+        "LENGTH",
+        "Distance from one end of a strip to the other"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "CRISP",
+        "Firm and pleasantly crunchy"
+      ],
+      [
+        "KNIFE",
+        "Cutting utensil with a blade"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "PICKUP",
+        "Device converting steel-guitar string vibration into an electrical signal"
+      ],
+      [
+        "SLICE",
+        "Thin flat piece cut from food"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOAST",
+      "STRIPS",
+      "LENGTH"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-2",
+    "title": "A Round Edge on a Griddle Egg",
+    "description": "A small metal ring holds the runny white in place until it starts to firm around the yolk.",
+    "words": [
+      [
+        "RING",
+        "Round metal band that keeps an egg in one area"
+      ],
+      [
+        "WHITE",
+        "Clear portion that turns opaque as the egg cooks"
+      ],
+      [
+        "YOLK",
+        "Yellow center of an egg"
+      ],
+      [
+        "COOK",
+        "Prepare food with heat"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "FIRM",
+        "Not easily pressed out of shape"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "HEAT",
+        "Warmth moved from one place to another"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "EGG",
+        "Oval food with a shell, white, and yolk"
+      ],
+      [
+        "CENTER",
+        "Middle of an object or place"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "RING",
+      "WHITE",
+      "YOLK"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-3",
+    "title": "Pouring Waffle Batter onto the Squares",
+    "description": "The thick mixture spreads over the small raised squares before the top of the iron is brought down.",
+    "words": [
+      [
+        "BATTER",
+        "Pourable mixture that cooks to form the waffle"
+      ],
+      [
+        "IRON",
+        "Hinged cooking tool with two patterned faces"
+      ],
+      [
+        "SQUARES",
+        "Four-sided shapes made by the waffle plates"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "LID",
+        "Removable top of a container"
+      ],
+      [
+        "HEAT",
+        "Warmth moved from one place to another"
+      ],
+      [
+        "POURER",
+        "Spout or tool that helps guide a flowing liquid"
+      ],
+      [
+        "GOLDEN",
+        "Rich yellow in color"
+      ],
+      [
+        "CLOSE",
+        "Shut an opening or cover"
+      ],
+      [
+        "MIX",
+        "Stir ingredients together"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "BATTER",
+      "IRON",
+      "SQUARES"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-4",
+    "title": "Hearing Water Hiss on a Hot Griddle",
+    "description": "A bead of water makes a brief sound before it disappears from the warm flat surface.",
+    "words": [
+      [
+        "HISS",
+        "Make the sharp sound of water meeting a hot surface"
+      ],
+      [
+        "BEAD",
+        "Little round drop that briefly holds its shape"
+      ],
+      [
+        "HEAT",
+        "Warmth given by the griddle"
+      ],
+      [
+        "WATER",
+        "Clear liquid such as what flows from a tap"
+      ],
+      [
+        "PAN",
+        "Flat-bottomed vessel used on a stove"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "STEAM",
+        "Water vapor produced when water is heated"
+      ],
+      [
+        "SOUND",
+        "Something a person can hear"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "QUICK",
+        "Moving at a fast pace"
+      ],
+      [
+        "SURFACE",
+        "Top layer of the water"
+      ]
+    ],
+    "requiredAnswers": [
+      "HISS",
+      "BEAD",
+      "HEAT"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-5",
+    "title": "Folding a Warm Breakfast Tortilla around Eggs",
+    "description": "A flexible tortilla bends around the eggs and keeps the small pieces together at the table.",
+    "words": [
+      [
+        "TORTILLA",
+        "Thin flat bread that bends around a filling"
+      ],
+      [
+        "FILLING",
+        "Food rolled up inside the flat bread"
+      ],
+      [
+        "FOLD",
+        "Bring one side over the eggs"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "SOFT",
+        "Not hard or stiff"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ],
+      [
+        "ROLL",
+        "Move by turning over and over"
+      ],
+      [
+        "EGG",
+        "Food laid by a hen"
+      ],
+      [
+        "EDGE",
+        "Part where a surface ends"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "BITE",
+        "Take a mouthful using the teeth"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "PLATE",
+        "Shallow dish used at a meal"
+      ]
+    ],
+    "requiredAnswers": [
+      "TORTILLA",
+      "FILLING",
+      "FOLD"
+    ]
+  }
+]

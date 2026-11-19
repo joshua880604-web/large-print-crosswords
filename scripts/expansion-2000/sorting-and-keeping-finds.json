@@ -1,0 +1,322 @@
+[
+  {
+    "id": "sorting-and-keeping-finds",
+    "title": "Separating Light Stones from Dark Ones",
+    "description": "A tray holds several stones so their colors can be compared before they are put in different rows.",
+    "words": [
+      [
+        "COLOR",
+        "Quality that shows how light or dark a stone looks"
+      ],
+      [
+        "SORT",
+        "Put the stones into groups by appearance"
+      ],
+      [
+        "TRAY",
+        "Flat holder with a raised edge for the stones"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ],
+      [
+        "SIZE",
+        "How large or small something is"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "COLOR",
+      "SORT",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-2",
+    "title": "Reading the Words on the Rim of an Old Coin",
+    "description": "A tilted coin catches the light and makes the tiny marks around its outer edge easier to see.",
+    "words": [
+      [
+        "RIM",
+        "Outside border of the coin's face"
+      ],
+      [
+        "COIN",
+        "Round metal piece used as money"
+      ],
+      [
+        "TILT",
+        "Hold at an angle until its small details catch the light"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "MARK",
+        "Small sign or line put on a surface"
+      ],
+      [
+        "LETTER",
+        "Written message mailed to someone"
+      ],
+      [
+        "LIGHT",
+        "Illumination that lets us see"
+      ],
+      [
+        "DATE",
+        "Day and month on a calendar"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "PRINT",
+        "Put words or pictures on paper"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ]
+    ],
+    "requiredAnswers": [
+      "RIM",
+      "COIN",
+      "TILT"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-3",
+    "title": "Setting a Flat Feather beside a Ruler",
+    "description": "A feather lies straight on paper and its narrow ends can be measured without pulling on it.",
+    "words": [
+      [
+        "FEATHER",
+        "Light flat growth that covers a bird's body"
+      ],
+      [
+        "RULER",
+        "Marked tool used to measure length"
+      ],
+      [
+        "LENGTH",
+        "Distance from the base of the feather to its tip"
+      ],
+      [
+        "BIRD",
+        "Animal with feathers and a beak"
+      ],
+      [
+        "TIP",
+        "Small pointed end of something"
+      ],
+      [
+        "BASE",
+        "Bottom part that holds something up"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ],
+      [
+        "MARK",
+        "Put a visible sign where it can be found later"
+      ],
+      [
+        "SMALL",
+        "Not large, as a tiny mushroom may be"
+      ]
+    ],
+    "requiredAnswers": [
+      "FEATHER",
+      "RULER",
+      "LENGTH"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-4",
+    "title": "Counting Teeth along a Row of Old Keys",
+    "description": "Keys are placed with their cut edges facing forward so the little peaks can be compared.",
+    "words": [
+      [
+        "TEETH",
+        "Small peaks cut along the working edge of a key"
+      ],
+      [
+        "KEYS",
+        "Metal tools grouped for comparison"
+      ],
+      [
+        "EDGE",
+        "Side with the cut pattern"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "ROW",
+        "Series of things or people along one line"
+      ],
+      [
+        "SORT",
+        "Arrange into groups"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ],
+      [
+        "METAL",
+        "Material from which ordinary coins are made"
+      ],
+      [
+        "POINT",
+        "Sharp or narrow end of an object"
+      ],
+      [
+        "LINE",
+        "Series of things set next to each other"
+      ],
+      [
+        "HOLD",
+        "Keep an object in your hand"
+      ],
+      [
+        "SIZE",
+        "Measurement used to tell one fit from another"
+      ],
+      [
+        "TINY",
+        "Very small"
+      ]
+    ],
+    "requiredAnswers": [
+      "TEETH",
+      "KEYS",
+      "EDGE"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-5",
+    "title": "A Paper Sleeve over a Flat Stone Rubbing",
+    "description": "A thin cover keeps the pencil lines from being rubbed away as the drawing is placed in a folder.",
+    "words": [
+      [
+        "SLEEVE",
+        "Paper protector that fits over a flat drawing"
+      ],
+      [
+        "RUBBING",
+        "Image made by moving a pencil over paper against a raised pattern"
+      ],
+      [
+        "FOLDER",
+        "Cover that holds sheets together for storage"
+      ],
+      [
+        "PENCIL",
+        "Writing tool with a graphite core"
+      ],
+      [
+        "MARK",
+        "Visible trace left by a touch or movement"
+      ],
+      [
+        "PAPER",
+        "Material made into thin sheets"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "EDGE",
+        "Part where a surface ends"
+      ],
+      [
+        "LINE",
+        "Row that extends in one direction"
+      ],
+      [
+        "PATTERN",
+        "Repeated design of shapes"
+      ],
+      [
+        "DRAW",
+        "Pull something toward a position"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly along a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "SLEEVE",
+      "RUBBING",
+      "FOLDER"
+    ]
+  }
+]

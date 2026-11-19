@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a-rest-stop-on-the-road",
+    "title": "Reading a Rest Stop Sign before Taking the Exit",
+    "description": "The driver reads how far away the stop is and moves toward the side where the exit begins.",
+    "words": [
+      [
+        "EXIT",
+        "Way to leave the main road"
+      ],
+      [
+        "MILES",
+        "Units used to show road distance"
+      ],
+      [
+        "SIGN",
+        "Roadside board displaying the coming stop"
+      ],
+      [
+        "ROAD",
+        "Way traveled by cars"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "DRIVE",
+        "Long opening golf stroke from a teeing area"
+      ],
+      [
+        "AHEAD",
+        "Farther along in the direction of travel"
+      ],
+      [
+        "LANE",
+        "Marked strip of pool space used by a swimmer"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "POINT",
+        "Sharp or narrow end of an object"
+      ],
+      [
+        "GOAL",
+        "Target formed by uprights and a crossbar in football"
+      ],
+      [
+        "DISTANT",
+        "A long way away"
+      ]
+    ],
+    "requiredAnswers": [
+      "EXIT",
+      "MILES",
+      "SIGN"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-2",
+    "title": "Finding the Same Parking Row after a Stop",
+    "description": "A letter on a tall marker helps a traveler walk back to where the car was left.",
+    "words": [
+      [
+        "MARKER",
+        "Upright sign identifying the parking row"
+      ],
+      [
+        "ROW",
+        "Line of cars between two markings"
+      ],
+      [
+        "LETTER",
+        "Printed character that names one group of parking spaces"
+      ],
+      [
+        "CAR",
+        "Four-wheeled road vehicle"
+      ],
+      [
+        "PARK",
+        "Public green space where people may walk dogs"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "LOOK",
+        "Direct the eyes toward something"
+      ],
+      [
+        "READ",
+        "Find the meaning of written words"
+      ],
+      [
+        "PLACE",
+        "Particular location"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ],
+      [
+        "AREA",
+        "Part of a larger space"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "FIND",
+        "Discover after searching"
+      ]
+    ],
+    "requiredAnswers": [
+      "MARKER",
+      "ROW",
+      "LETTER"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-3",
+    "title": "A Little Tray that Keeps Coins in a Car",
+    "description": "A shallow tray keeps toll or parking coins from sliding into a larger compartment.",
+    "words": [
+      [
+        "COINS",
+        "Small metal pieces of money kept for parking"
+      ],
+      [
+        "TRAY",
+        "Shallow holder that keeps loose pieces together"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly when the car turns"
+      ],
+      [
+        "CAR",
+        "Four-wheeled road vehicle"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ],
+      [
+        "CHANGE",
+        "Money returned when a payment exceeds the selling amount"
+      ],
+      [
+        "MONEY",
+        "Coins and bills used to pay"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "DASH",
+        "Short form of dashboard, the panel in front of a car seat"
+      ],
+      [
+        "PLACE",
+        "Spot where something belongs"
+      ]
+    ],
+    "requiredAnswers": [
+      "COINS",
+      "TRAY",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-4",
+    "title": "Closing a Fuel Door when It Clicks into Place",
+    "description": "A small press leaves the outer door flush with the side of the car.",
+    "words": [
+      [
+        "FUEL",
+        "Liquid put into a car to run its engine"
+      ],
+      [
+        "DOOR",
+        "Small hinged cover on the side of the car"
+      ],
+      [
+        "CLICK",
+        "Short sound as the catch closes"
+      ],
+      [
+        "CAR",
+        "Family vehicle with seats and a trunk"
+      ],
+      [
+        "CLOSE",
+        "Shut an opening or cover"
+      ],
+      [
+        "SIDE",
+        "Part that faces in one direction from the center"
+      ],
+      [
+        "HINGE",
+        "Joint allowing a door to swing"
+      ],
+      [
+        "CAP",
+        "Small cover that fits over an opening"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ],
+      [
+        "TURN",
+        "Move around a center"
+      ],
+      [
+        "LATCH",
+        "Small fastening holding a gate shut"
+      ],
+      [
+        "HAND",
+        "Part of the body used for holding or touching things"
+      ]
+    ],
+    "requiredAnswers": [
+      "FUEL",
+      "DOOR",
+      "CLICK"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-5",
+    "title": "Keeping a Rest Stop Map Open with a Clip",
+    "description": "A clip at the lower edge keeps the foldout from closing while the travelers compare two routes.",
+    "words": [
+      [
+        "CLIP",
+        "Small fastener that grips the edge of the paper"
+      ],
+      [
+        "MAP",
+        "Printed drawing of roads and places along the trip"
+      ],
+      [
+        "ROUTES",
+        "Possible paths from one place to another"
+      ],
+      [
+        "ROAD",
+        "Route represented between miniature buildings"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "PAGE",
+        "One side of a sheet in a book"
+      ],
+      [
+        "TURN",
+        "One person's opportunity to do something in a game"
+      ],
+      [
+        "READ",
+        "Use the displayed marks or numbers to get information"
+      ],
+      [
+        "PLAN",
+        "Decide ahead what to do"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "POINT",
+        "Sharp or narrow end of an object"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLIP",
+      "MAP",
+      "ROUTES"
+    ]
+  }
+]

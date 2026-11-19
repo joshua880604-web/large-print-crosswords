@@ -1,0 +1,322 @@
+[
+  {
+    "id": "small-errands-on-main-street",
+    "title": "Opening a Parcel Pickup Locker",
+    "description": "After a customer enters a collection code, one compartment opens to reveal their package.",
+    "words": [
+      [
+        "LOCKER",
+        "Cabinet with separate spaces that can be locked"
+      ],
+      [
+        "CODE",
+        "Set of characters entered to collect the parcel"
+      ],
+      [
+        "PARCEL",
+        "Package waiting inside the opened compartment"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "NUMBER",
+        "Symbol representing an amount"
+      ],
+      [
+        "LETTER",
+        "Written message mailed to someone"
+      ],
+      [
+        "PANEL",
+        "Flat section that holds controls or markings"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "TOUCH",
+        "Put a hand or finger against something"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "SLOT",
+        "Narrow opening into which an item fits"
+      ]
+    ],
+    "requiredAnswers": [
+      "LOCKER",
+      "CODE",
+      "PARCEL"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-2",
+    "title": "Matching a Bulb Base at the Hardware Store",
+    "description": "The customer holds an old bulb next to a replacement to see whether the two bases will fit the same lamp socket.",
+    "words": [
+      [
+        "BULB",
+        "Glass part that lights up when fitted into a lamp"
+      ],
+      [
+        "BASE",
+        "Part at the bottom that fits the socket"
+      ],
+      [
+        "MATCH",
+        "Find a replacement with the same size and shape"
+      ],
+      [
+        "CHECK",
+        "Examine something to make sure it is ready"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "LAMP",
+        "Light set on a table"
+      ],
+      [
+        "PACK",
+        "A small bundle of things"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ],
+      [
+        "WIDTH",
+        "Distance across an object from side to side"
+      ],
+      [
+        "SIZE",
+        "How large or small something is"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "THREAD",
+        "Fine strand used for sewing"
+      ],
+      [
+        "SOCKET",
+        "Fitting a light bulb screws into"
+      ]
+    ],
+    "requiredAnswers": [
+      "BULB",
+      "BASE",
+      "MATCH"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-3",
+    "title": "Listening to the Crunch of New Gravel outside a Shop",
+    "description": "A shallow layer of fresh stones shifts and makes a soft crunch beneath people's shoes as they enter.",
+    "words": [
+      [
+        "GRAVEL",
+        "Small loose stones spread over the ground"
+      ],
+      [
+        "CRUNCH",
+        "Short rough sound made as the stones press together"
+      ],
+      [
+        "ENTRANCE",
+        "Place where people walk into the shop"
+      ],
+      [
+        "DOOR",
+        "Movable panel at a room's entrance"
+      ],
+      [
+        "STONE",
+        "Small piece of rock"
+      ],
+      [
+        "WALK",
+        "Move from place to place on foot"
+      ],
+      [
+        "PATH",
+        "Narrow way for walking"
+      ],
+      [
+        "SOUND",
+        "Something a person can hear"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ],
+      [
+        "SOLE",
+        "Outer bottom of a shoe that contacts the ground"
+      ],
+      [
+        "GRIT",
+        "Small rough grains such as sand"
+      ],
+      [
+        "LAYER",
+        "One level in a stack"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "GRAVEL",
+      "CRUNCH",
+      "ENTRANCE"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-4",
+    "title": "Sorting Different Batteries on a Shop Counter",
+    "description": "A clerk groups the longer and shorter cells side by side so the customer can compare their size before buying.",
+    "words": [
+      [
+        "CELLS",
+        "Individual units that supply power to a device"
+      ],
+      [
+        "LENGTH",
+        "Distance from one end of a battery to the other"
+      ],
+      [
+        "GROUP",
+        "Set of batteries kept together by size"
+      ],
+      [
+        "POWER",
+        "Energy that makes an electrical device work"
+      ],
+      [
+        "SHORT",
+        "Not long from end to end"
+      ],
+      [
+        "LONG",
+        "Extending a great distance from end to end"
+      ],
+      [
+        "SIZE",
+        "Measurement used to tell one fit from another"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "PAIR",
+        "Two matching things"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "MATCH",
+        "Find two items that go together"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "TYPE",
+        "Raised letters arranged for printing a page"
+      ]
+    ],
+    "requiredAnswers": [
+      "CELLS",
+      "LENGTH",
+      "GROUP"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-5",
+    "title": "Returning a Wire Hanger at the Dry Cleaner",
+    "description": "A customer hands back an empty wire hanger and the clerk adds it to a bundle that can be used again.",
+    "words": [
+      [
+        "HANGER",
+        "Bent wire or shaped frame that supports a garment"
+      ],
+      [
+        "WIRE",
+        "Thin length of bendable metal"
+      ],
+      [
+        "BUNDLE",
+        "Group of hangers fastened together"
+      ],
+      [
+        "HOOK",
+        "Curved support for hanging things"
+      ],
+      [
+        "RETURN",
+        "Bring something back"
+      ],
+      [
+        "CLOTHES",
+        "Shirts, coats, and other things people wear"
+      ],
+      [
+        "COAT",
+        "Cold-weather outer garment"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "BACK",
+        "Side opposite the front"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "STACK",
+        "Pile things one above another"
+      ],
+      [
+        "EMPTY",
+        "Containing nothing"
+      ]
+    ],
+    "requiredAnswers": [
+      "HANGER",
+      "WIRE",
+      "BUNDLE"
+    ]
+  }
+]

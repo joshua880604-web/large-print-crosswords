@@ -1,0 +1,322 @@
+[
+  {
+    "id": "harvest-basket-details",
+    "title": "A Slatted Crate for Freshly Lifted Onions",
+    "description": "An open box leaves gaps along the bottom and sides so air can reach the onions.",
+    "words": [
+      [
+        "CRATE",
+        "Sturdy open box used to hold a harvest"
+      ],
+      [
+        "SLATS",
+        "Narrow boards separated by small gaps"
+      ],
+      [
+        "ONIONS",
+        "Bulbs with layers and thin outer skins"
+      ],
+      [
+        "AIR",
+        "What fills the space around us and lets us breathe"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "GARDEN",
+        "Area where flowers or vegetables are grown"
+      ],
+      [
+        "BASKET",
+        "Woven carrying container"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "SPACE",
+        "Gap left between things"
+      ],
+      [
+        "BOARD",
+        "Flat piece of wood"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "ROOT",
+        "Plant part taking up water below ground"
+      ]
+    ],
+    "requiredAnswers": [
+      "CRATE",
+      "SLATS",
+      "ONIONS"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-2",
+    "title": "Turning a Squash to Check the Underside",
+    "description": "A small lift reveals the part of the squash that has been resting against the ground.",
+    "words": [
+      [
+        "SQUASH",
+        "Garden fruit with firm skin and a thick stem"
+      ],
+      [
+        "LIFT",
+        "Raise one side to see below it"
+      ],
+      [
+        "SKIN",
+        "Outside layer viewed where it met the soil"
+      ],
+      [
+        "SOIL",
+        "Earth in which plants grow"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "SPOT",
+        "Small mark or patch of color"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ],
+      [
+        "GROUND",
+        "Surface of the earth"
+      ],
+      [
+        "STEM",
+        "Stalk supporting a flower"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "HARD",
+        "Firm rather than soft"
+      ],
+      [
+        "REST",
+        "Pause to relax or stop moving"
+      ]
+    ],
+    "requiredAnswers": [
+      "SQUASH",
+      "LIFT",
+      "SKIN"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-3",
+    "title": "Lining a Berry Basket with a Folded Towel",
+    "description": "A thin cloth across the bottom gives soft fruit something gentler than the rough basket to rest on.",
+    "words": [
+      [
+        "LINER",
+        "Cloth covering placed inside another container"
+      ],
+      [
+        "BERRIES",
+        "Small soft fruits carried in the basket"
+      ],
+      [
+        "FOLD",
+        "Bend the cloth to fit the bottom"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "BASKET",
+        "Container woven from flexible strips"
+      ],
+      [
+        "CLOTH",
+        "Material made by weaving or knitting fibers"
+      ],
+      [
+        "TOWEL",
+        "Absorbent cloth for drying"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly along a surface"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "CARRY",
+        "Hold and move something from place to place"
+      ],
+      [
+        "REST",
+        "Stay in place on a support"
+      ]
+    ],
+    "requiredAnswers": [
+      "LINER",
+      "BERRIES",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-4",
+    "title": "Picking a Pepper without Pulling the Plant",
+    "description": "A pair of small shears cuts through the stem while one hand holds the ripe pepper.",
+    "words": [
+      [
+        "SHEARS",
+        "Cutting tool with two blades and handles"
+      ],
+      [
+        "PEPPER",
+        "Fruit of the garden plant being gathered"
+      ],
+      [
+        "SNIP",
+        "Cut with a quick closing of blades"
+      ],
+      [
+        "STEM",
+        "Plant part connecting a leaf or bloom"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "RED",
+        "Color of a ripe tomato"
+      ],
+      [
+        "GREEN",
+        "Color of most summer leaves"
+      ],
+      [
+        "CROP",
+        "Plants grown for food, considered collectively"
+      ],
+      [
+        "BASKET",
+        "Woven container that may hold an outdoor meal"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "PICK",
+        "Choose or pluck something"
+      ],
+      [
+        "GROW",
+        "Become larger over time"
+      ],
+      [
+        "LEAF",
+        "Flat green part of a plant"
+      ]
+    ],
+    "requiredAnswers": [
+      "SHEARS",
+      "PEPPER",
+      "SNIP"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-5",
+    "title": "Brushing Clumps off a Bunch of Green Onions",
+    "description": "Loose soil falls away from the roots as a hand moves along the bottom of the bunch.",
+    "words": [
+      [
+        "BUNCH",
+        "Group held together near their stalks"
+      ],
+      [
+        "ROOTS",
+        "Fine parts of the onions that held them in the soil"
+      ],
+      [
+        "CLUMPS",
+        "Small lumps of earth stuck near the roots"
+      ],
+      [
+        "SOIL",
+        "Loose ground around plant roots"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "BRUSH",
+        "Bristled tool for applying paint"
+      ],
+      [
+        "GREEN",
+        "Color between blue and yellow"
+      ],
+      [
+        "STEM",
+        "Main stalk of a plant"
+      ],
+      [
+        "TIE",
+        "Fasten with a knot"
+      ],
+      [
+        "SOFT",
+        "Not hard or stiff"
+      ],
+      [
+        "DIRT",
+        "Loose earth or soil"
+      ],
+      [
+        "LEAF",
+        "Plant part growing from a stem"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ]
+    ],
+    "requiredAnswers": [
+      "BUNCH",
+      "ROOTS",
+      "CLUMPS"
+    ]
+  }
+]

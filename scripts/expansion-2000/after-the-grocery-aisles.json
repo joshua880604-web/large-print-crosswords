@@ -1,0 +1,318 @@
+[
+  {
+    "id": "after-the-grocery-aisles",
+    "title": "A Divider Bar between Grocery Orders",
+    "description": "A short bar on the belt marks the point where one shopper's items stop and the next person's begin.",
+    "words": [
+      [
+        "DIVIDER",
+        "Piece that separates two sets of groceries"
+      ],
+      [
+        "BELT",
+        "Moving band that brings purchases to the cashier"
+      ],
+      [
+        "ORDERS",
+        "Separate sets of items being bought"
+      ],
+      [
+        "BAR",
+        "Straight rectangular shape of a familiar classroom magnet"
+      ],
+      [
+        "SPACE",
+        "Gap left between things"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "ITEM",
+        "One thing on a shopping list"
+      ],
+      [
+        "CART",
+        "Small wheeled vehicle used to carry a load"
+      ],
+      [
+        "NEXT",
+        "Immediately following this one"
+      ],
+      [
+        "STOP",
+        "Come to a halt"
+      ],
+      [
+        "SEND",
+        "Dispatch through the mail"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "PAY",
+        "Give money for goods or work"
+      ]
+    ],
+    "requiredAnswers": [
+      "DIVIDER",
+      "BELT",
+      "ORDERS"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-2",
+    "title": "Taking a Number at the Deli Counter",
+    "description": "A shopper takes a numbered ticket and listens for that number while looking through the deli case.",
+    "words": [
+      [
+        "TICKET",
+        "Paper slip marked with the shopper's place in line"
+      ],
+      [
+        "DELI",
+        "Shop counter that sells prepared foods"
+      ],
+      [
+        "NUMBER",
+        "Figure the clerk calls when it is your turn"
+      ],
+      [
+        "WAIT",
+        "Stay until the expected time or event"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "SLIP",
+        "Small piece of paper that may carry writing"
+      ],
+      [
+        "CALL",
+        "Say a name to get attention"
+      ],
+      [
+        "LINE",
+        "Series of things set next to each other"
+      ],
+      [
+        "CHEESE",
+        "Dairy food sold in blocks or slices"
+      ],
+      [
+        "ORDER",
+        "Request for food at a cafe"
+      ]
+    ],
+    "requiredAnswers": [
+      "TICKET",
+      "DELI",
+      "NUMBER"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-3",
+    "title": "Checking a Milk Carton's Date at the Store",
+    "description": "A shopper turns two cartons around to compare the dates printed on their tops.",
+    "words": [
+      [
+        "CARTONS",
+        "Paper containers with folded tops for milk"
+      ],
+      [
+        "DATE",
+        "Day printed on the top of the milk container"
+      ],
+      [
+        "COMPARE",
+        "Look at two things to see which is later or earlier"
+      ],
+      [
+        "MILK",
+        "White dairy drink"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "TURN",
+        "Move around a center"
+      ],
+      [
+        "PRINT",
+        "Put words or pictures on paper"
+      ],
+      [
+        "LABEL",
+        "Tag identifying contents"
+      ],
+      [
+        "FRESH",
+        "Recently made or picked"
+      ],
+      [
+        "WEEK",
+        "Period of seven days"
+      ],
+      [
+        "SHELF",
+        "Flat horizontal storage surface"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "STAMP",
+        "Mark made by pressing an inked tool down"
+      ]
+    ],
+    "requiredAnswers": [
+      "CARTONS",
+      "DATE",
+      "COMPARE"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-4",
+    "title": "Choosing a Bag for Frozen Groceries",
+    "description": "An insulated grocery bag holds the cold items together during the trip home.",
+    "words": [
+      [
+        "LINING",
+        "Layer inside the bag that slows the movement of heat"
+      ],
+      [
+        "FROZEN",
+        "Still hard or solid from the cold"
+      ],
+      [
+        "CARRY",
+        "Hold the loaded bag as you walk"
+      ],
+      [
+        "COLD",
+        "Low in temperature"
+      ],
+      [
+        "BAG",
+        "Soft container for carrying things"
+      ],
+      [
+        "ICE",
+        "Water in solid form"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "HEAVY",
+        "Hard to lift because of its weight"
+      ],
+      [
+        "TRIP",
+        "Journey away from home"
+      ],
+      [
+        "PACK",
+        "A small bundle of things"
+      ],
+      [
+        "STORE",
+        "Put away for later use"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "THAW",
+        "To become unfrozen as temperature rises"
+      ]
+    ],
+    "requiredAnswers": [
+      "LINING",
+      "FROZEN",
+      "CARRY"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-5",
+    "title": "Scanning an Egg Carton for Cracks",
+    "description": "Before choosing the carton, a shopper lifts the lid and looks at the tops of the eggs in their separate cups.",
+    "words": [
+      [
+        "EGGS",
+        "The dozen fragile items in the carton"
+      ],
+      [
+        "CRACK",
+        "Thin break in one of the shells"
+      ],
+      [
+        "LID",
+        "Top of the carton that opens for a quick look"
+      ],
+      [
+        "SHELL",
+        "Hard outer covering"
+      ],
+      [
+        "DOZEN",
+        "A group of twelve, as when buying bakery rolls"
+      ],
+      [
+        "ROW",
+        "Line of things arranged side by side"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "CLOSE",
+        "Shut an opening or cover"
+      ],
+      [
+        "CARTON",
+        "Paperboard container commonly used to package milk"
+      ],
+      [
+        "TOP",
+        "Part opposite the bottom"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "FRAGILE",
+        "Easily broken; handle with care"
+      ]
+    ],
+    "requiredAnswers": [
+      "EGGS",
+      "CRACK",
+      "LID"
+    ]
+  }
+]

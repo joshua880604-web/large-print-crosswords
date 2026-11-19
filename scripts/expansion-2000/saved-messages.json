@@ -1,0 +1,342 @@
+[
+  {
+    "id": "saved-messages",
+    "title": "Looking Up a Number in a Phone Book",
+    "description": "Find a surname in the printed alphabet, then follow the line to the number.",
+    "words": [
+      [
+        "SURNAME",
+        "Family name"
+      ],
+      [
+        "ALPHABET",
+        "Letters from A through Z in order"
+      ],
+      [
+        "NUMBER",
+        "Digits you dial"
+      ],
+      [
+        "COLUMN",
+        "Vertical band of printed entries"
+      ],
+      [
+        "LISTING",
+        "One name and its details in a directory"
+      ],
+      [
+        "PRINT",
+        "Letters on paper"
+      ],
+      [
+        "PAGES",
+        "Sheets you turn in a book"
+      ],
+      [
+        "LINE",
+        "Row of writing across a page"
+      ],
+      [
+        "INITIAL",
+        "First letter of a name"
+      ],
+      [
+        "THICK",
+        "Having many pages"
+      ],
+      [
+        "ADDRESS",
+        "Place where someone lives"
+      ],
+      [
+        "DIAL",
+        "Enter the digits to place a call"
+      ],
+      [
+        "INDEX",
+        "Ordered guide to information"
+      ],
+      [
+        "ENTRY",
+        "One item in a printed list"
+      ]
+    ],
+    "requiredAnswers": [
+      "SURNAME",
+      "ALPHABET",
+      "NUMBER"
+    ]
+  },
+  {
+    "id": "saved-messages-2",
+    "title": "Keeping a Carbon Copy of an Order",
+    "description": "A dark sheet between two forms leaves a second copy where a pen presses.",
+    "words": [
+      [
+        "CARBON",
+        "Dark coating that transfers writing to a second sheet"
+      ],
+      [
+        "COPY",
+        "Second version of the same writing"
+      ],
+      [
+        "PRESS",
+        "Bear down with the pen"
+      ],
+      [
+        "FORM",
+        "Printed sheet with blanks to fill"
+      ],
+      [
+        "DUPLICATE",
+        "An extra of the same document"
+      ],
+      [
+        "SHEET",
+        "Single piece of paper"
+      ],
+      [
+        "SLIP",
+        "Small piece of paper"
+      ],
+      [
+        "INK",
+        "Colored liquid used for writing"
+      ],
+      [
+        "FILE",
+        "Folder where papers are kept"
+      ],
+      [
+        "ORDER",
+        "Request to buy something"
+      ],
+      [
+        "SIGN",
+        "Write your name to approve"
+      ],
+      [
+        "BOTTOM",
+        "Part below all the others"
+      ],
+      [
+        "RECORD",
+        "Written account kept to refer to later"
+      ],
+      [
+        "TRACE",
+        "Mark left behind"
+      ]
+    ],
+    "requiredAnswers": [
+      "CARBON",
+      "COPY",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "saved-messages-3",
+    "title": "A Note on a Hotel Message Pad",
+    "description": "Before a room had its own voicemail, a desk clerk could leave a caller's name and number on a slip.",
+    "words": [
+      [
+        "MESSAGE",
+        "Words left for someone who was out"
+      ],
+      [
+        "CALLER",
+        "Person who telephones"
+      ],
+      [
+        "PAD",
+        "Stack of paper for short notes"
+      ],
+      [
+        "DESK",
+        "Counter where guests check in"
+      ],
+      [
+        "ROOM",
+        "Space with a number where a guest stays"
+      ],
+      [
+        "SLIP",
+        "Small sheet that carries a note"
+      ],
+      [
+        "GUEST",
+        "Someone staying at a hotel"
+      ],
+      [
+        "TIME",
+        "Hour written beside the message"
+      ],
+      [
+        "FRONT",
+        "Side nearest the hotel entrance"
+      ],
+      [
+        "WAIT",
+        "Stay until someone arrives"
+      ],
+      [
+        "PENCIL",
+        "Writing tool you can erase"
+      ],
+      [
+        "TAKE",
+        "Accept a message for someone"
+      ],
+      [
+        "HOLD",
+        "Keep at the desk until collected"
+      ],
+      [
+        "RING",
+        "Sound a telephone makes"
+      ]
+    ],
+    "requiredAnswers": [
+      "MESSAGE",
+      "CALLER",
+      "PAD"
+    ]
+  },
+  {
+    "id": "saved-messages-4",
+    "title": "Marking the Next Stop on a Folded Bus Schedule",
+    "description": "A paper timetable stays open to the page with the stop and departure time marked.",
+    "words": [
+      [
+        "SCHEDULE",
+        "List of arrival and departure times"
+      ],
+      [
+        "ROUTE",
+        "Path a regular bus follows"
+      ],
+      [
+        "TIMETABLE",
+        "Printed chart of when buses leave"
+      ],
+      [
+        "FOLD",
+        "Bend the paper to fit it in a pocket"
+      ],
+      [
+        "STOP",
+        "Place where riders board"
+      ],
+      [
+        "LEAVE",
+        "Start out on the trip"
+      ],
+      [
+        "ARRIVE",
+        "Reach the stop"
+      ],
+      [
+        "HOUR",
+        "Sixty minutes"
+      ],
+      [
+        "CIRCLE",
+        "Draw a ring around the time"
+      ],
+      [
+        "MAP",
+        "Drawing of streets and places"
+      ],
+      [
+        "POCKET",
+        "Small cloth pouch in a coat"
+      ],
+      [
+        "WEEKDAY",
+        "Monday through Friday, for example"
+      ],
+      [
+        "LATE",
+        "After the time expected"
+      ],
+      [
+        "TRIP",
+        "Journey from one place to another"
+      ]
+    ],
+    "requiredAnswers": [
+      "SCHEDULE",
+      "ROUTE",
+      "TIMETABLE"
+    ]
+  },
+  {
+    "id": "saved-messages-5",
+    "title": "A Bus Token Kept in a Coin Purse",
+    "description": "The small metal token was saved for a ride and carried separately from loose change.",
+    "words": [
+      [
+        "TOKEN",
+        "Small disk once accepted instead of a cash fare"
+      ],
+      [
+        "PURSE",
+        "Small bag for coins"
+      ],
+      [
+        "FARE",
+        "Price of a bus ride"
+      ],
+      [
+        "SLOT",
+        "Narrow opening where a token goes"
+      ],
+      [
+        "METAL",
+        "Material used to make most coins"
+      ],
+      [
+        "PAID",
+        "Settled the amount owed"
+      ],
+      [
+        "RIDE",
+        "Trip as a passenger"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "COUNT",
+        "Find how many are left"
+      ],
+      [
+        "CHANGE",
+        "Loose coins in your pocket"
+      ],
+      [
+        "POUCH",
+        "Small soft bag"
+      ],
+      [
+        "DRIVER",
+        "Person operating the bus"
+      ],
+      [
+        "DROP",
+        "Let a token fall into the box"
+      ],
+      [
+        "KEEP",
+        "Hold on to something for later"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOKEN",
+      "PURSE",
+      "FARE"
+    ]
+  }
+]

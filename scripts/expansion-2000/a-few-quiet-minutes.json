@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a-few-quiet-minutes",
+    "title": "Turning a Side Table within Reach of a Chair",
+    "description": "The table is brought a little closer so a seated person can reach the book without standing up.",
+    "words": [
+      [
+        "REACH",
+        "Stretch an arm far enough to touch something"
+      ],
+      [
+        "TABLE",
+        "Small flat surface beside the chair"
+      ],
+      [
+        "CHAIR",
+        "Seat that the reader remains in"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly along a surface"
+      ],
+      [
+        "BOOK",
+        "Pages fastened together inside a cover"
+      ],
+      [
+        "SEAT",
+        "Place for one person to sit"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface of a room that people walk on"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ],
+      [
+        "HAND",
+        "Part at the end of an arm with fingers and a thumb"
+      ],
+      [
+        "MOVE",
+        "Change position"
+      ],
+      [
+        "SPACE",
+        "Gap left between things"
+      ],
+      [
+        "REST",
+        "Pause to relax or stop moving"
+      ],
+      [
+        "NEAR",
+        "Close in distance to the target ball"
+      ]
+    ],
+    "requiredAnswers": [
+      "REACH",
+      "TABLE",
+      "CHAIR"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-2",
+    "title": "Pushing a Rolled Towel behind a Cushion",
+    "description": "The towel fits into the space where the cushion meets the back of the chair.",
+    "words": [
+      [
+        "TOWEL",
+        "Absorbent cloth rolled for this use"
+      ],
+      [
+        "ROLL",
+        "Turn the cloth over itself into a rounded shape"
+      ],
+      [
+        "CUSHION",
+        "Soft pad placed on the chair"
+      ],
+      [
+        "BACK",
+        "Side opposite the front"
+      ],
+      [
+        "CHAIR",
+        "Seat for one person"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "CLOTH",
+        "Material made by weaving or knitting fibers"
+      ],
+      [
+        "FIT",
+        "Be the right size"
+      ],
+      [
+        "REST",
+        "Stay in place on a support"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "SPACE",
+        "Room available for storing something"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOWEL",
+      "ROLL",
+      "CUSHION"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-3",
+    "title": "Opening a Book with a Ribbon Marker",
+    "description": "The visible end of the ribbon shows which pages to separate after yesterday's reading.",
+    "words": [
+      [
+        "RIBBON",
+        "Narrow strip lying between two pages"
+      ],
+      [
+        "MARKER",
+        "Piece that shows where a reader left off"
+      ],
+      [
+        "PAGES",
+        "Paper leaves separated where the reader stopped"
+      ],
+      [
+        "BOOK",
+        "Pages fastened together inside a cover"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "EDGE",
+        "Part where a surface ends"
+      ],
+      [
+        "SLIDE",
+        "Move a part without lifting it"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "WORD",
+        "Group of letters with a meaning"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ]
+    ],
+    "requiredAnswers": [
+      "RIBBON",
+      "MARKER",
+      "PAGES"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-4",
+    "title": "Watching an Hourglass for a Quiet Pause",
+    "description": "Sand falls through the narrow middle until most of it has collected in the glass below.",
+    "words": [
+      [
+        "HOURGLASS",
+        "Time marker in which sand runs through a narrow opening"
+      ],
+      [
+        "SAND",
+        "Dry grains that fall from one half to the other"
+      ],
+      [
+        "PAUSE",
+        "Short quiet break while the grains run down"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "FALL",
+        "Season after summer"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "BASE",
+        "Bottom part that holds something up"
+      ],
+      [
+        "TURN",
+        "Move around a center"
+      ],
+      [
+        "TIME",
+        "What a clock tells"
+      ],
+      [
+        "SMALL",
+        "Little in size"
+      ],
+      [
+        "FLOW",
+        "To move as a liquid in a steady stream"
+      ],
+      [
+        "REST",
+        "Remain where something else holds it"
+      ],
+      [
+        "WATCH",
+        "Small timepiece worn on the wrist"
+      ]
+    ],
+    "requiredAnswers": [
+      "HOURGLASS",
+      "SAND",
+      "PAUSE"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-5",
+    "title": "Tucking a Light Blanket under One Side of a Seat",
+    "description": "A loose edge of fabric is folded underneath so it cannot catch beneath a chair leg.",
+    "words": [
+      [
+        "FABRIC",
+        "Cloth from which the blanket is made"
+      ],
+      [
+        "TUCK",
+        "Push a loose edge into a small space"
+      ],
+      [
+        "EDGE",
+        "Outer border of the cloth that hangs down"
+      ],
+      [
+        "CHAIR",
+        "One-person seat with a back"
+      ],
+      [
+        "FOLD",
+        "Bring two sides together along a crease"
+      ],
+      [
+        "SOFT",
+        "Not hard or stiff"
+      ],
+      [
+        "SEAT",
+        "Sitting surface of a chair"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ],
+      [
+        "HOLD",
+        "Keep an object in your hand"
+      ],
+      [
+        "LEG",
+        "Limb used for walking"
+      ],
+      [
+        "REST",
+        "Take a short break from an activity"
+      ],
+      [
+        "CLOTH",
+        "Flexible fabric used for items such as towels or clothes"
+      ],
+      [
+        "FLAT",
+        "Level and without bumps"
+      ]
+    ],
+    "requiredAnswers": [
+      "FABRIC",
+      "TUCK",
+      "EDGE"
+    ]
+  }
+]

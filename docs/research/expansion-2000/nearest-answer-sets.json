@@ -1,0 +1,5196 @@
+[
+  {
+    "id": "shopping-and-returning",
+    "neighbor": "garden-evening-chores-4",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "PAPER",
+      "SAVE"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-2",
+    "neighbor": "town-service-desks-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DESK",
+      "FOLD",
+      "RETURN"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-3",
+    "neighbor": "errands-on-main-street-4",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "CASH",
+      "COUNT",
+      "DEPOSIT"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-4",
+    "neighbor": "shopping-basket-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "ITEM",
+      "LABEL",
+      "PRICE"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-5",
+    "neighbor": "old-home-routines-3",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "HANDLE",
+      "LID",
+      "METAL",
+      "RIM"
+    ]
+  },
+  {
+    "id": "saved-messages",
+    "neighbor": "keeping-in-touch",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DIAL",
+      "LINE",
+      "NUMBER"
+    ]
+  },
+  {
+    "id": "saved-messages-2",
+    "neighbor": "old-shop-tools-3",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "ORDER",
+      "SLIP"
+    ]
+  },
+  {
+    "id": "saved-messages-3",
+    "neighbor": "old-shop-tools",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "DESK",
+      "RING"
+    ]
+  },
+  {
+    "id": "saved-messages-4",
+    "neighbor": "small-town-outings-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "MAP",
+      "ROUTE",
+      "STOP"
+    ]
+  },
+  {
+    "id": "saved-messages-5",
+    "neighbor": "neighborhood-counter-jobs",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "METAL",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven",
+    "neighbor": "vegetable-side-dishes-5",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "CORN",
+      "KERNEL",
+      "SIDE",
+      "SPOON",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-2",
+    "neighbor": "salads-to-share-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CHILL",
+      "DRAIN",
+      "GREEN",
+      "SPOON"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-3",
+    "neighbor": "thanksgiving-sides-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BAKE",
+      "BROWN",
+      "CINNAMON",
+      "PEEL"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-4",
+    "neighbor": "supper-in-the-oven-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DISH",
+      "GOLDEN",
+      "MILK"
+    ]
+  },
+  {
+    "id": "comfort-food-from-the-oven-5",
+    "neighbor": "breakfast-from-the-stove-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "BATTER",
+      "FLIP",
+      "PLATE"
+    ]
+  },
+  {
+    "id": "yard-fixes-and-care",
+    "neighbor": "gardens-after-cold-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "GROW",
+      "SHADE",
+      "STEM"
+    ]
+  },
+  {
+    "id": "yard-fixes-and-care-2",
+    "neighbor": "small-town-outings-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "SEED",
+      "SOIL",
+      "WATER"
+    ]
+  },
+  {
+    "id": "yard-fixes-and-care-3",
+    "neighbor": "garden-keeping-tools-3",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BARREL",
+      "DRIP",
+      "SCREEN"
+    ]
+  },
+  {
+    "id": "yard-fixes-and-care-4",
+    "neighbor": "craft-glass-and-ceramic",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CORNER",
+      "EDGE",
+      "GAP",
+      "LEVEL"
+    ]
+  },
+  {
+    "id": "yard-fixes-and-care-5",
+    "neighbor": "word-patterns",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DRY",
+      "EMPTY",
+      "WIDE"
+    ]
+  },
+  {
+    "id": "familiar-park-outings",
+    "neighbor": "saved-messages-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CIRCLE",
+      "MAP",
+      "ROUTE"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-2",
+    "neighbor": "around-a-local-bus-route-4",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CARD",
+      "CHECK",
+      "DRIVER",
+      "PASS"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-3",
+    "neighbor": "games-at-a-club-3",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "RETURN",
+      "TURN"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-4",
+    "neighbor": "water-edges-after-weather",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "GROUND",
+      "RISE"
+    ]
+  },
+  {
+    "id": "familiar-park-outings-5",
+    "neighbor": "trees-and-their-fruit-4",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "BARK",
+      "BRANCH",
+      "ROOT",
+      "SHADE"
+    ]
+  },
+  {
+    "id": "after-a-winter-storm",
+    "neighbor": "yard-fixes-and-care-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CORNER",
+      "EDGE",
+      "HANDLE"
+    ]
+  },
+  {
+    "id": "after-a-winter-storm-2",
+    "neighbor": "water-close-by-3",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "SAND",
+      "WALK"
+    ]
+  },
+  {
+    "id": "after-a-winter-storm-3",
+    "neighbor": "sounds-of-the-recording-room-5",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "READ",
+      "TAPE"
+    ]
+  },
+  {
+    "id": "after-a-winter-storm-4",
+    "neighbor": "home-little-checks",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BATTERY",
+      "HANDLE",
+      "SWITCH"
+    ]
+  },
+  {
+    "id": "after-a-winter-storm-5",
+    "neighbor": "halloween-porch-scenes-4",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "PAPER",
+      "POINT",
+      "SCISSORS",
+      "SHAPE",
+      "WINDOW"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care",
+    "neighbor": "through-the-front-door-2",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "DOOR",
+      "DRIP",
+      "RAIN"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-2",
+    "neighbor": "halloween-costume-fixes-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLIP",
+      "COLLAR",
+      "LOOP"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-3",
+    "neighbor": "pantry-choices-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CUP",
+      "DRY",
+      "SCOOP",
+      "SHELF"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-4",
+    "neighbor": "animals-around-the-farmyard-3",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CAT",
+      "QUIET",
+      "TAIL"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-5",
+    "neighbor": "home-little-checks-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "FRAME",
+      "WALL",
+      "WIDTH"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room",
+    "neighbor": "picnic-band-sounds-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "BEAT",
+      "RHYTHM",
+      "SOUND",
+      "TAP"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-2",
+    "neighbor": "thanksgiving-together",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "MARCH",
+      "PARADE",
+      "WAVE"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-3",
+    "neighbor": "calendar-celebrations",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "MIDNIGHT",
+      "TOAST",
+      "YEAR"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-4",
+    "neighbor": "american-music-4",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "BALLAD",
+      "TUNE"
+    ]
+  },
+  {
+    "id": "music-in-a-small-room-5",
+    "neighbor": "working-waterfront-2",
+    "jaccard": 0.143,
+    "sharedAnswers": [
+      "BANK",
+      "FLOW",
+      "RIVER"
+    ]
+  },
+  {
+    "id": "meetings-in-bible-stories",
+    "neighbor": "bible-family-journeys-2",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "DRAW",
+      "DRINK",
+      "WATER",
+      "WELL"
+    ]
+  },
+  {
+    "id": "meetings-in-bible-stories-2",
+    "neighbor": "welcoming-a-new-neighbor",
+    "jaccard": 0.053,
+    "sharedAnswers": [
+      "WALK"
+    ]
+  },
+  {
+    "id": "meetings-in-bible-stories-3",
+    "neighbor": "visits-and-welcome",
+    "jaccard": 0.053,
+    "sharedAnswers": [
+      "STAND"
+    ]
+  },
+  {
+    "id": "meetings-in-bible-stories-4",
+    "neighbor": "bible-by-the-lake-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "HOUSE",
+      "LOWER",
+      "ROOF"
+    ]
+  },
+  {
+    "id": "meetings-in-bible-stories-5",
+    "neighbor": "thanksgiving-table-help-4",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "BREAD",
+      "SHARE",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "shared-places-around-town",
+    "neighbor": "handwork-fixing-keepsakes-5",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "BRASS",
+      "LETTERS"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-2",
+    "neighbor": "visits-and-gatherings-3",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "DOOR",
+      "SIGN"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-3",
+    "neighbor": "handwork-fixing-keepsakes-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "STRIP",
+      "TIGHT"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-4",
+    "neighbor": "games-at-a-club-3",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "RETURN",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "shared-places-around-town-5",
+    "neighbor": "household-fasteners-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BOTTLE",
+      "CAP",
+      "NECK"
+    ]
+  },
+  {
+    "id": "old-paper-and-counter-tools",
+    "neighbor": "games-at-a-club-4",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "ROW",
+      "SQUARE"
+    ]
+  },
+  {
+    "id": "old-paper-and-counter-tools-2",
+    "neighbor": "remembered-dance-tunes-4",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "EVENING",
+      "TIME"
+    ]
+  },
+  {
+    "id": "old-paper-and-counter-tools-3",
+    "neighbor": "outdoor-hobby-bags-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "COLOR",
+      "FRAME",
+      "PAPER"
+    ]
+  },
+  {
+    "id": "old-paper-and-counter-tools-4",
+    "neighbor": "at-the-writing-desk-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DESK",
+      "PENCIL",
+      "POINT",
+      "WOOD"
+    ]
+  },
+  {
+    "id": "old-paper-and-counter-tools-5",
+    "neighbor": "sharing-books-locally-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COVER",
+      "PAPER",
+      "RIBBON"
+    ]
+  },
+  {
+    "id": "familiar-food-at-the-table",
+    "neighbor": "comfort-food-from-the-oven",
+    "jaccard": 0.263,
+    "sharedAnswers": [
+      "SAUCE",
+      "SIDE",
+      "SPOON",
+      "STIR",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "familiar-food-at-the-table-2",
+    "neighbor": "pies-and-tarts-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CRUST",
+      "MILK",
+      "SPOON"
+    ]
+  },
+  {
+    "id": "familiar-food-at-the-table-3",
+    "neighbor": "sweets-to-share-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "PUDDING",
+      "SPOON",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "familiar-food-at-the-table-4",
+    "neighbor": "dessert-bowls-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "STIR",
+      "SUGAR",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "familiar-food-at-the-table-5",
+    "neighbor": "keeping-food-fresh-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "COVER",
+      "LIFT",
+      "PLATE"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths",
+    "neighbor": "garden-flower-seasons",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "EDGE",
+      "GREEN",
+      "LEAF",
+      "STEM"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-2",
+    "neighbor": "spring-small-plans-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LAWN",
+      "MOWER",
+      "WHEEL"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-3",
+    "neighbor": "birds-using-familiar-spaces-3",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "DIG",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-4",
+    "neighbor": "community-notices-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "HANDLE",
+      "RAKE",
+      "SHED"
+    ]
+  },
+  {
+    "id": "tending-beds-and-paths-5",
+    "neighbor": "forest-observations",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "GREEN",
+      "ROOT",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "pets-and-backyard-moments",
+    "neighbor": "small-wild-visitors-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "HOLE",
+      "NUT",
+      "TAIL"
+    ]
+  },
+  {
+    "id": "pets-and-backyard-moments-2",
+    "neighbor": "saved-messages-3",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "FRONT",
+      "PAD"
+    ]
+  },
+  {
+    "id": "pets-and-backyard-moments-3",
+    "neighbor": "visits-and-welcome",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "REACH",
+      "RUBBER"
+    ]
+  },
+  {
+    "id": "pets-and-backyard-moments-4",
+    "neighbor": "shared-places-around-town-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BOTTLE",
+      "CAP",
+      "REFILL"
+    ]
+  },
+  {
+    "id": "pets-and-backyard-moments-5",
+    "neighbor": "winter-backyard-2",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "PERCH",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables",
+    "neighbor": "remembering-simple-play",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "GLASS",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-2",
+    "neighbor": "paper-and-lettering-3",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "INK",
+      "PRESS",
+      "STAMP"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-3",
+    "neighbor": "picnic-band-sounds-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DRUM",
+      "HANDLE",
+      "WIRE"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-4",
+    "neighbor": "kitchen-memories-in-use-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "PAPER",
+      "PHONE",
+      "READ"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-5",
+    "neighbor": "household-paperwork-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "ALPHABET",
+      "CLIP",
+      "NAME"
+    ]
+  },
+  {
+    "id": "familiar-kitchen-preparations",
+    "neighbor": "baking-small-batches-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BAKE",
+      "DOUGH",
+      "OVEN",
+      "PAN"
+    ]
+  },
+  {
+    "id": "familiar-kitchen-preparations-2",
+    "neighbor": "kitchen-sandwich-sides-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CRISP",
+      "SPREAD",
+      "TOPPING"
+    ]
+  },
+  {
+    "id": "familiar-kitchen-preparations-3",
+    "neighbor": "fall-harvest-work",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "FIRM",
+      "FRUIT"
+    ]
+  },
+  {
+    "id": "familiar-kitchen-preparations-4",
+    "neighbor": "small-community-meals-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOWL",
+      "LADLE",
+      "LID",
+      "SOUP"
+    ]
+  },
+  {
+    "id": "familiar-kitchen-preparations-5",
+    "neighbor": "garden-harvest-baskets-3",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "EAR",
+      "HUSK",
+      "SILK"
+    ]
+  },
+  {
+    "id": "small-fittings-at-home",
+    "neighbor": "sharing-books-locally-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "ROW",
+      "SHELF",
+      "SPINE"
+    ]
+  },
+  {
+    "id": "small-fittings-at-home-2",
+    "neighbor": "sewing-for-the-kitchen",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "KNOT",
+      "SEAM",
+      "TIE"
+    ]
+  },
+  {
+    "id": "small-fittings-at-home-3",
+    "neighbor": "old-shop-tools",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "BELL",
+      "RING",
+      "SOUND"
+    ]
+  },
+  {
+    "id": "small-fittings-at-home-4",
+    "neighbor": "fabric-on-the-table-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CORNER",
+      "FOLD",
+      "TRIM"
+    ]
+  },
+  {
+    "id": "small-fittings-at-home-5",
+    "neighbor": "after-a-winter-storm",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CATCH",
+      "EDGE",
+      "METAL"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song",
+    "neighbor": "singalong-preparations-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "FIRST",
+      "LIST",
+      "ORDER",
+      "PAGE"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-2",
+    "neighbor": "small-fittings-at-home-3",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "BUTTON",
+      "SOUND"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-3",
+    "neighbor": "strings-and-picking-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CASE",
+      "PAIR",
+      "SEAT"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-4",
+    "neighbor": "sing-with-the-room-4",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "COUNT",
+      "NOTE",
+      "START"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-5",
+    "neighbor": "local-show-opening-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "PAGE",
+      "PROGRAM",
+      "READ"
+    ]
+  },
+  {
+    "id": "tending-small-plantings",
+    "neighbor": "tending-beds-and-paths-3",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "CROWD",
+      "LEAVES",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "tending-small-plantings-2",
+    "neighbor": "garden-keeping-tools-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CLOSE",
+      "GAP",
+      "HINGE",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "tending-small-plantings-3",
+    "neighbor": "small-world-nature-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DAMP",
+      "SOFT",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "tending-small-plantings-4",
+    "neighbor": "easter-basket-details-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CUT",
+      "PAPER",
+      "RING",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "tending-small-plantings-5",
+    "neighbor": "garden-from-the-beginning-3",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "BASE",
+      "DRAIN",
+      "LIFT"
+    ]
+  },
+  {
+    "id": "older-things-in-daily-use",
+    "neighbor": "porch-and-patio",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "PORCH",
+      "SHADE",
+      "STEP"
+    ]
+  },
+  {
+    "id": "older-things-in-daily-use-2",
+    "neighbor": "guitar-to-gathering-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLAMP",
+      "KEY",
+      "NECK"
+    ]
+  },
+  {
+    "id": "older-things-in-daily-use-3",
+    "neighbor": "treasured-collections-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CAMERA",
+      "FRAME",
+      "PHOTO"
+    ]
+  },
+  {
+    "id": "older-things-in-daily-use-4",
+    "neighbor": "household-fasteners-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EYE",
+      "LOOP",
+      "SEW",
+      "THREAD"
+    ]
+  },
+  {
+    "id": "older-things-in-daily-use-5",
+    "neighbor": "garden-aftercare-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DRY",
+      "RINSE",
+      "SINK",
+      "SOAP"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings",
+    "neighbor": "welcoming-a-new-neighbor",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "MAP",
+      "WALK"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-2",
+    "neighbor": "everyday-materials-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "SCREEN",
+      "WATER"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-3",
+    "neighbor": "table-for-evening-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "DRIP",
+      "HANDLE",
+      "SPOUT"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-4",
+    "neighbor": "movie-night-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "GUIDE",
+      "PAUSE",
+      "SPEAKER",
+      "VOLUME"
+    ]
+  },
+  {
+    "id": "small-stops-on-park-outings-5",
+    "neighbor": "outdoor-hobby-bags",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LINE",
+      "PAGE",
+      "PENCIL"
+    ]
+  },
+  {
+    "id": "familiar-bible-decisions",
+    "neighbor": "bible-parables-and-choices-4",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "BREAD",
+      "LOAVES"
+    ]
+  },
+  {
+    "id": "familiar-bible-decisions-2",
+    "neighbor": "winter-in-the-neighborhood-5",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "DRY",
+      "WET",
+      "WOOL"
+    ]
+  },
+  {
+    "id": "familiar-bible-decisions-3",
+    "neighbor": "welcoming-a-new-neighbor-3",
+    "jaccard": 0.053,
+    "sharedAnswers": [
+      "GIFT"
+    ]
+  },
+  {
+    "id": "familiar-bible-decisions-4",
+    "neighbor": "welcoming-a-new-neighbor",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "NEAR",
+      "TURN"
+    ]
+  },
+  {
+    "id": "familiar-bible-decisions-5",
+    "neighbor": "music-before-and-after-the-song-5",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "READ",
+      "WORDS"
+    ]
+  },
+  {
+    "id": "snow-and-winter-light",
+    "neighbor": "winter-weather-scenes-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "PILE",
+      "PUSH",
+      "SNOW"
+    ]
+  },
+  {
+    "id": "snow-and-winter-light-2",
+    "neighbor": "shared-places-around-town-4",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "DRIVER",
+      "RETURN"
+    ]
+  },
+  {
+    "id": "snow-and-winter-light-3",
+    "neighbor": "in-the-workshop",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DEPTH",
+      "INCH",
+      "LEVEL"
+    ]
+  },
+  {
+    "id": "snow-and-winter-light-4",
+    "neighbor": "quiet-comforts-at-home-2",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "LIGHT",
+      "SUN",
+      "WINDOW"
+    ]
+  },
+  {
+    "id": "snow-and-winter-light-5",
+    "neighbor": "garden-season-decisions-3",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "FENCE",
+      "SHELTER",
+      "SIDE",
+      "WIND"
+    ]
+  },
+  {
+    "id": "practical-corners-of-the-garden",
+    "neighbor": "household-fasteners-4",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "CATCH",
+      "EDGE"
+    ]
+  },
+  {
+    "id": "practical-corners-of-the-garden-2",
+    "neighbor": "trees-and-their-fruit-4",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "BARK",
+      "BRANCH"
+    ]
+  },
+  {
+    "id": "practical-corners-of-the-garden-3",
+    "neighbor": "everyday-kitchen-repairs-5",
+    "jaccard": 0.118,
+    "sharedAnswers": [
+      "BASE",
+      "TURN"
+    ]
+  },
+  {
+    "id": "practical-corners-of-the-garden-4",
+    "neighbor": "town-events-behind-scenes-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CLOSED",
+      "OPEN",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "practical-corners-of-the-garden-5",
+    "neighbor": "garden-sharing-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLEAR",
+      "LEAF",
+      "STEM"
+    ]
+  },
+  {
+    "id": "simple-mending-tools",
+    "neighbor": "halloween-costume-fixes-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "EDGE",
+      "SEAM",
+      "STITCH",
+      "THREAD"
+    ]
+  },
+  {
+    "id": "simple-mending-tools-2",
+    "neighbor": "painting-home-projects-4",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "BRUSH",
+      "DRY",
+      "EDGE",
+      "PAINT",
+      "TAPE"
+    ]
+  },
+  {
+    "id": "simple-mending-tools-3",
+    "neighbor": "tending-beds-and-paths-5",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "GAP",
+      "NARROW"
+    ]
+  },
+  {
+    "id": "simple-mending-tools-4",
+    "neighbor": "paper-for-keepsakes-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "CORNER",
+      "GLUE",
+      "TAPE"
+    ]
+  },
+  {
+    "id": "simple-mending-tools-5",
+    "neighbor": "small-community-meals",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "CLEAR",
+      "DROP"
+    ]
+  },
+  {
+    "id": "sounds-and-instruments-up-close",
+    "neighbor": "music-memories-4",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "BEAT",
+      "FLOOR",
+      "STEP",
+      "TAP"
+    ]
+  },
+  {
+    "id": "sounds-and-instruments-up-close-2",
+    "neighbor": "welcoming-a-new-neighbor-5",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "LIFT",
+      "NOTE"
+    ]
+  },
+  {
+    "id": "sounds-and-instruments-up-close-3",
+    "neighbor": "stairs-and-hallway",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "FLOOR",
+      "GRIP",
+      "SLIP"
+    ]
+  },
+  {
+    "id": "sounds-and-instruments-up-close-4",
+    "neighbor": "tending-small-plantings-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLOSE",
+      "HINGE",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "sounds-and-instruments-up-close-5",
+    "neighbor": "trees-and-their-fruit-2",
+    "jaccard": 0.095,
+    "sharedAnswers": [
+      "HARD",
+      "WOOD"
+    ]
+  },
+  {
+    "id": "old-testament-moments",
+    "neighbor": "bible-christmas-and-childhood-4",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "GOLD",
+      "TRAVEL"
+    ]
+  },
+  {
+    "id": "old-testament-moments-2",
+    "neighbor": "small-stops-on-park-outings-2",
+    "jaccard": 0.118,
+    "sharedAnswers": [
+      "QUIET",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "old-testament-moments-3",
+    "neighbor": "gentle-daily-routines-5",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "BED",
+      "LAMP",
+      "REST",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "old-testament-moments-4",
+    "neighbor": "water-edges-after-weather-5",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "REACH",
+      "WATER"
+    ]
+  },
+  {
+    "id": "old-testament-moments-5",
+    "neighbor": "bible-seeds-and-finding-3",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "CARRY",
+      "SHOULDER"
+    ]
+  },
+  {
+    "id": "handy-prep-in-the-kitchen",
+    "neighbor": "shared-places-around-town-5",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "BOTTLE",
+      "NECK",
+      "REFILL",
+      "STREAM"
+    ]
+  },
+  {
+    "id": "handy-prep-in-the-kitchen-2",
+    "neighbor": "kitchen-jars-and-tins-2",
+    "jaccard": 0.125,
+    "sharedAnswers": [
+      "DRAIN",
+      "SALAD"
+    ]
+  },
+  {
+    "id": "handy-prep-in-the-kitchen-3",
+    "neighbor": "lunches-with-a-spoon-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BOWL",
+      "SMOOTH",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "handy-prep-in-the-kitchen-4",
+    "neighbor": "games-at-a-club-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "BALL",
+      "ROUND",
+      "TURN"
+    ]
+  },
+  {
+    "id": "handy-prep-in-the-kitchen-5",
+    "neighbor": "through-the-front-door-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DRIP",
+      "HANDLE",
+      "STAND",
+      "WET"
+    ]
+  },
+  {
+    "id": "familiar-tools-from-earlier-years",
+    "neighbor": "home-inventions",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LINE",
+      "PHONE",
+      "RECEIVER"
+    ]
+  },
+  {
+    "id": "familiar-tools-from-earlier-years-2",
+    "neighbor": "through-the-front-door-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LOCK",
+      "OPEN",
+      "TURN"
+    ]
+  },
+  {
+    "id": "familiar-tools-from-earlier-years-3",
+    "neighbor": "memories-of-home-entertainment-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "PHOTO",
+      "SCREEN",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "familiar-tools-from-earlier-years-4",
+    "neighbor": "simple-machines-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "GROOVE",
+      "PULLEY",
+      "WHEEL"
+    ]
+  },
+  {
+    "id": "familiar-tools-from-earlier-years-5",
+    "neighbor": "winter-comforts",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "FRAME",
+      "GLASS",
+      "PANE"
+    ]
+  },
+  {
+    "id": "little-stops-by-the-shore",
+    "neighbor": "town-service-desks-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DATE",
+      "TIME",
+      "WATER"
+    ]
+  },
+  {
+    "id": "little-stops-by-the-shore-2",
+    "neighbor": "warm-day-by-the-water-3",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LEVEL",
+      "RAMP",
+      "SLOPE"
+    ]
+  },
+  {
+    "id": "little-stops-by-the-shore-3",
+    "neighbor": "small-stops-on-park-outings-2",
+    "jaccard": 0.118,
+    "sharedAnswers": [
+      "SLOT",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "little-stops-by-the-shore-4",
+    "neighbor": "garden-keeping-tools-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DRAIN",
+      "DRIP",
+      "SPOUT",
+      "TAP"
+    ]
+  },
+  {
+    "id": "little-stops-by-the-shore-5",
+    "neighbor": "records-and-listening",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "JACKET",
+      "LABEL",
+      "RACK"
+    ]
+  },
+  {
+    "id": "small-household-upkeep",
+    "neighbor": "family-photos-and-film-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "CLEAR",
+      "FRAME",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-2",
+    "neighbor": "street-sights-remembered-5",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "BRUSH",
+      "PAINT"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-3",
+    "neighbor": "sounds-and-instruments-up-close-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LIFT",
+      "PAD",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-4",
+    "neighbor": "home-little-checks-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "BACK",
+      "BATTERY",
+      "COVER"
+    ]
+  },
+  {
+    "id": "small-household-upkeep-5",
+    "neighbor": "weather-and-light-tools-3",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "CUP",
+      "EMPTY"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles",
+    "neighbor": "local-show-opening-5",
+    "jaccard": 0.1,
+    "sharedAnswers": [
+      "MOVE",
+      "SPACE"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-2",
+    "neighbor": "town-events-behind-scenes",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LINE",
+      "NUMBER",
+      "TICKET"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-3",
+    "neighbor": "kitchen-memories-in-use-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DATE",
+      "PRINT",
+      "TURN"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-4",
+    "neighbor": "summer-shade-and-breaks-2",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "CARRY",
+      "COLD",
+      "COOL",
+      "PACK"
+    ]
+  },
+  {
+    "id": "after-the-grocery-aisles-5",
+    "neighbor": "everyday-kitchen-repairs-2",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "LID",
+      "TOP"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street",
+    "neighbor": "welcoming-a-new-neighbor-5",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "BOX",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-2",
+    "neighbor": "useful-home-repairs-3",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BASE",
+      "BULB",
+      "LAMP"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-3",
+    "neighbor": "garden-path-details",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "EDGE",
+      "GRAVEL",
+      "PATH",
+      "STONE"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-4",
+    "neighbor": "sorting-and-donating-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LABEL",
+      "MATCH",
+      "POWER"
+    ]
+  },
+  {
+    "id": "small-errands-on-main-street-5",
+    "neighbor": "fabric-on-the-table-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BUNDLE",
+      "STACK",
+      "TIE"
+    ]
+  },
+  {
+    "id": "watching-small-changes",
+    "neighbor": "family-photos-and-film-2",
+    "jaccard": 0.125,
+    "sharedAnswers": [
+      "HOLD",
+      "LIGHT"
+    ]
+  },
+  {
+    "id": "watching-small-changes-2",
+    "neighbor": "sweets-to-share",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "PLATE",
+      "SALT",
+      "WHITE"
+    ]
+  },
+  {
+    "id": "watching-small-changes-3",
+    "neighbor": "water-edges-after-weather-2",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "EDGE",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "watching-small-changes-4",
+    "neighbor": "a-cup-of-comfort-5",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CUP",
+      "HANDLE",
+      "SIP",
+      "SPOON",
+      "STEAM"
+    ]
+  },
+  {
+    "id": "watching-small-changes-5",
+    "neighbor": "garden-path-details-5",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "DROP",
+      "RAIN",
+      "VIEW"
+    ]
+  },
+  {
+    "id": "listening-and-looking-outdoors",
+    "neighbor": "by-the-sea-4",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "CLAM",
+      "GULL",
+      "SHELL"
+    ]
+  },
+  {
+    "id": "listening-and-looking-outdoors-2",
+    "neighbor": "trees-and-their-fruit-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BARK",
+      "BRANCH",
+      "TREE"
+    ]
+  },
+  {
+    "id": "listening-and-looking-outdoors-3",
+    "neighbor": "water-edges-after-weather-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "POND",
+      "SPREAD",
+      "SURFACE"
+    ]
+  },
+  {
+    "id": "listening-and-looking-outdoors-4",
+    "neighbor": "small-wild-visitors",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "EAR",
+      "HIDE",
+      "NOSE",
+      "RABBIT",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "listening-and-looking-outdoors-5",
+    "neighbor": "snow-and-winter-light-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "GATHER",
+      "LOOSE",
+      "PILE"
+    ]
+  },
+  {
+    "id": "fittings-in-shared-places",
+    "neighbor": "table-for-evening-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BASE",
+      "ROUND",
+      "STAND",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "fittings-in-shared-places-2",
+    "neighbor": "town-events-behind-scenes-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "AISLE",
+      "CLEAR",
+      "SPACE"
+    ]
+  },
+  {
+    "id": "fittings-in-shared-places-3",
+    "neighbor": "craft-glass-and-ceramic-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COAT",
+      "DRY",
+      "PAINT"
+    ]
+  },
+  {
+    "id": "fittings-in-shared-places-4",
+    "neighbor": "old-home-routines-4",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "FLAT",
+      "FOLD",
+      "HINGE",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "fittings-in-shared-places-5",
+    "neighbor": "winter-nearby-scenes-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DOOR",
+      "EDGE",
+      "ROLL"
+    ]
+  },
+  {
+    "id": "neighbors-and-small-kindnesses",
+    "neighbor": "community-notices-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLEAN",
+      "HANDLE",
+      "RETURN"
+    ]
+  },
+  {
+    "id": "neighbors-and-small-kindnesses-2",
+    "neighbor": "garden-repairs-and-labels-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "LABEL",
+      "NAME",
+      "READ",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "neighbors-and-small-kindnesses-3",
+    "neighbor": "spring-outdoor-get-together",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "FOLD",
+      "LEVEL",
+      "STEADY",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "neighbors-and-small-kindnesses-4",
+    "neighbor": "welcoming-a-new-neighbor",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "CORNER",
+      "NEAR",
+      "STORE",
+      "STREET",
+      "TURN"
+    ]
+  },
+  {
+    "id": "neighbors-and-small-kindnesses-5",
+    "neighbor": "garden-aftercare-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "EMPTY",
+      "POT",
+      "RIM"
+    ]
+  },
+  {
+    "id": "short-jobs-around-the-house",
+    "neighbor": "useful-home-repairs-5",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "FELT",
+      "PAD",
+      "SLIDE",
+      "STICK",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "short-jobs-around-the-house-2",
+    "neighbor": "halloween-costume-fixes",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CORD",
+      "LOOP",
+      "POINT",
+      "TIE"
+    ]
+  },
+  {
+    "id": "short-jobs-around-the-house-3",
+    "neighbor": "family-photos-and-film-2",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "short-jobs-around-the-house-4",
+    "neighbor": "useful-things-in-the-car-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COVER",
+      "FLOOR",
+      "LIFT"
+    ]
+  },
+  {
+    "id": "short-jobs-around-the-house-5",
+    "neighbor": "useful-home-repairs-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "HANG",
+      "HOOK",
+      "NAIL",
+      "WALL"
+    ]
+  },
+  {
+    "id": "opening-and-closing-fittings",
+    "neighbor": "neighborhood-pet-care-5",
+    "jaccard": 0.333,
+    "sharedAnswers": [
+      "BAR",
+      "FRAME",
+      "GATE",
+      "LATCH",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "opening-and-closing-fittings-2",
+    "neighbor": "simple-machines",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LIFT",
+      "OPEN",
+      "RIM"
+    ]
+  },
+  {
+    "id": "opening-and-closing-fittings-3",
+    "neighbor": "picnic-band-sounds-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLIP",
+      "FOLD",
+      "PAGE"
+    ]
+  },
+  {
+    "id": "opening-and-closing-fittings-4",
+    "neighbor": "household-fasteners-5",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "BOTTLE",
+      "TOP",
+      "TURN"
+    ]
+  },
+  {
+    "id": "opening-and-closing-fittings-5",
+    "neighbor": "useful-home-repairs-4",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "CLOSE",
+      "HINGE",
+      "METAL",
+      "OPEN",
+      "TURN"
+    ]
+  },
+  {
+    "id": "getting-out-the-door",
+    "neighbor": "everyday-kitchen-repairs-2",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "GRIP",
+      "HANDLE",
+      "TOP"
+    ]
+  },
+  {
+    "id": "getting-out-the-door-2",
+    "neighbor": "through-the-front-door-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CLOTH",
+      "HANDLE",
+      "RAIN"
+    ]
+  },
+  {
+    "id": "getting-out-the-door-3",
+    "neighbor": "kitchen-memories-in-use-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "LIST",
+      "PAPER",
+      "READ",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "getting-out-the-door-4",
+    "neighbor": "visits-and-welcome",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "HANDLE",
+      "REACH",
+      "STAND",
+      "UPRIGHT"
+    ]
+  },
+  {
+    "id": "getting-out-the-door-5",
+    "neighbor": "watching-small-changes-3",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "EDGE",
+      "FACE",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies",
+    "neighbor": "keeping-food-fresh-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOX",
+      "LABEL",
+      "LID",
+      "SHELF"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-2",
+    "neighbor": "opening-and-closing-fittings-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "OPEN",
+      "PAPER",
+      "PEEL",
+      "SEAL"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-3",
+    "neighbor": "summer-shade-and-breaks-2",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "COLD",
+      "WRAP"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-4",
+    "neighbor": "useful-things-in-the-car-4",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CLOTH",
+      "ROLL",
+      "STRIP",
+      "TIGHT"
+    ]
+  },
+  {
+    "id": "familiar-first-aid-supplies-5",
+    "neighbor": "small-household-upkeep-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COVER",
+      "LIFT",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "before-the-first-bite",
+    "neighbor": "lunches-with-a-spoon-2",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "OVEN",
+      "POTATO",
+      "SOFT",
+      "SPLIT",
+      "STEAM"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-2",
+    "neighbor": "kitchen-jars-and-tins-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BOWL",
+      "SHRED",
+      "SIDE",
+      "STRANDS"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-3",
+    "neighbor": "garden-harvest-baskets-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "RED",
+      "SKIN",
+      "TOMATO"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-4",
+    "neighbor": "tending-beds-and-paths-5",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "PULL",
+      "ROOT"
+    ]
+  },
+  {
+    "id": "before-the-first-bite-5",
+    "neighbor": "autumn-outings-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CUP",
+      "JUICE",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle",
+    "neighbor": "snacks-for-a-table-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CRISP",
+      "CRUST",
+      "KNIFE",
+      "TOAST"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-2",
+    "neighbor": "familiar-breakfasts-2",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "EGG",
+      "ROUND",
+      "SOFT",
+      "WHITE",
+      "YOLK"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-3",
+    "neighbor": "eating-at-the-diner-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BATTER",
+      "IRON",
+      "POUR"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-4",
+    "neighbor": "signs-of-rain-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "STEAM",
+      "SURFACE",
+      "WET"
+    ]
+  },
+  {
+    "id": "breakfast-on-the-griddle-5",
+    "neighbor": "lunches-with-a-spoon-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "PLATE",
+      "SOFT",
+      "TORTILLA",
+      "WRAP"
+    ]
+  },
+  {
+    "id": "small-baking-checks",
+    "neighbor": "texas-scenes-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CRUST",
+      "OVEN",
+      "TIN"
+    ]
+  },
+  {
+    "id": "small-baking-checks-2",
+    "neighbor": "kitchen-small-jobs-5",
+    "jaccard": 0.353,
+    "sharedAnswers": [
+      "CUT",
+      "LIFT",
+      "PAN",
+      "PAPER",
+      "SHEET",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "small-baking-checks-3",
+    "neighbor": "familiar-food-at-the-table-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CRUMBS",
+      "LIFT",
+      "STICK"
+    ]
+  },
+  {
+    "id": "small-baking-checks-4",
+    "neighbor": "gift-paper-folds-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "FOLD",
+      "PAPER",
+      "STAND"
+    ]
+  },
+  {
+    "id": "small-baking-checks-5",
+    "neighbor": "easter-at-home",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BAKE",
+      "BREAD",
+      "DOUGH",
+      "OVEN"
+    ]
+  },
+  {
+    "id": "pantry-packets-and-labels",
+    "neighbor": "garden-repairs-and-labels-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "DATE",
+      "READ",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "pantry-packets-and-labels-2",
+    "neighbor": "pantry-choices-5",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "DRY",
+      "LEVEL",
+      "POWDER",
+      "SCOOP",
+      "SHELF"
+    ]
+  },
+  {
+    "id": "pantry-packets-and-labels-3",
+    "neighbor": "getting-out-the-door",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "GRIP",
+      "HANDLE",
+      "SLIDE",
+      "TOP"
+    ]
+  },
+  {
+    "id": "pantry-packets-and-labels-4",
+    "neighbor": "sounds-of-the-recording-room-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LABEL",
+      "READ",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "pantry-packets-and-labels-5",
+    "neighbor": "sounds-and-instruments-up-close-3",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "GRIP",
+      "REST",
+      "STEADY"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details",
+    "neighbor": "garden-path-details-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "PULL",
+      "TURN"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-2",
+    "neighbor": "summer-tastes-and-traditions",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "FRUIT",
+      "PEACH",
+      "PIT",
+      "RIPE"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-3",
+    "neighbor": "salads-to-share-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "ORANGE",
+      "PEEL",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-4",
+    "neighbor": "summer-neighborly-treats-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "FRUIT",
+      "RINSE",
+      "STEM",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "fresh-fruit-details-5",
+    "neighbor": "porch-and-patio-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "GLASS",
+      "ICE",
+      "LEMON",
+      "PITCHER"
+    ]
+  },
+  {
+    "id": "supper-at-the-stove",
+    "neighbor": "short-jobs-around-the-house-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "PAN"
+    ]
+  },
+  {
+    "id": "supper-at-the-stove-2",
+    "neighbor": "bowls-of-soup-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOWL",
+      "HOT",
+      "LADLE",
+      "STEAM"
+    ]
+  },
+  {
+    "id": "supper-at-the-stove-3",
+    "neighbor": "fall-harvest-work",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COOK",
+      "CUT",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "supper-at-the-stove-4",
+    "neighbor": "tending-small-plantings-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "GAP",
+      "HEAT",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "supper-at-the-stove-5",
+    "neighbor": "food-on-the-griddle-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "GOLDEN",
+      "PAN",
+      "SIDE",
+      "SLICE"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served",
+    "neighbor": "table-for-evening-4",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "GLASS",
+      "POUR",
+      "WATER"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-2",
+    "neighbor": "winter-nearby-scenes",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "CLEAR",
+      "FROST",
+      "HANDLE",
+      "ICE"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-3",
+    "neighbor": "weather-and-light-tools-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "CUP",
+      "LINE",
+      "POUR"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-4",
+    "neighbor": "watching-small-changes-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "DRY",
+      "THIN",
+      "WATER",
+      "WET"
+    ]
+  },
+  {
+    "id": "drinks-poured-and-served-5",
+    "neighbor": "porch-and-patio-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LEMON",
+      "PITCHER",
+      "SLICE"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads",
+    "neighbor": "kitchen-sandwich-sides-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CHOP",
+      "DARK",
+      "OLIVES",
+      "SPREAD"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-2",
+    "neighbor": "eating-at-the-diner-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "HONEY",
+      "PLATE",
+      "POUR",
+      "SWEET"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-3",
+    "neighbor": "handy-prep-in-the-kitchen-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LIFT",
+      "SCOOP",
+      "SERVE"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-4",
+    "neighbor": "shared-places-around-town-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CAP",
+      "SPOUT",
+      "TILT"
+    ]
+  },
+  {
+    "id": "sauces-and-table-spreads-5",
+    "neighbor": "handy-prep-in-the-kitchen-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BOWL",
+      "LIFT",
+      "SCOOP",
+      "SERVE"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape",
+    "neighbor": "games-at-a-club-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "END",
+      "ROUND",
+      "TURN"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-2",
+    "neighbor": "vegetable-side-dishes-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CORN",
+      "CUT",
+      "SIDE",
+      "WARM"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-3",
+    "neighbor": "sewing-for-the-kitchen-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CUP",
+      "PRESS",
+      "TURN"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-4",
+    "neighbor": "sides-with-a-simple-shape-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "CUT",
+      "SLICE",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "sides-with-a-simple-shape-5",
+    "neighbor": "table-pastimes-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LINE",
+      "ROW",
+      "TURN"
+    ]
+  },
+  {
+    "id": "small-actions-at-the-serving-table",
+    "neighbor": "supper-at-the-stove-2",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "BOWL",
+      "HOLD",
+      "LADLE",
+      "RIM",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "small-actions-at-the-serving-table-2",
+    "neighbor": "easter-basket-details",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BASKET",
+      "GRIP",
+      "SIDE",
+      "WEAVE"
+    ]
+  },
+  {
+    "id": "small-actions-at-the-serving-table-3",
+    "neighbor": "thanksgiving-cleanup",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CRUST",
+      "CUT",
+      "PIE",
+      "SLICE"
+    ]
+  },
+  {
+    "id": "small-actions-at-the-serving-table-4",
+    "neighbor": "handy-prep-in-the-kitchen-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LIFT",
+      "ROUND",
+      "SERVE"
+    ]
+  },
+  {
+    "id": "small-actions-at-the-serving-table-5",
+    "neighbor": "fabric-on-the-table-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOTTOM",
+      "CLOTH",
+      "EDGE",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows",
+    "neighbor": "garden-details-3",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "GROW",
+      "LEAF",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-2",
+    "neighbor": "familiar-kitchen-preparations-5",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "EAR",
+      "HUSK",
+      "KERNELS",
+      "SILK",
+      "TIPS"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-3",
+    "neighbor": "spring-at-the-market-4",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "RADISH",
+      "RED",
+      "ROOT",
+      "ROUND",
+      "TOP"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-4",
+    "neighbor": "familiar-park-outings-3",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "PATH",
+      "POST"
+    ]
+  },
+  {
+    "id": "tending-vegetable-rows-5",
+    "neighbor": "garden-harvest-baskets-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "GREEN",
+      "LEAF",
+      "LETTUCE",
+      "ROW"
+    ]
+  },
+  {
+    "id": "checking-garden-water",
+    "neighbor": "yard-fixes-and-care-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "DAMP",
+      "SOIL",
+      "WATER"
+    ]
+  },
+  {
+    "id": "checking-garden-water-2",
+    "neighbor": "shared-places-around-town-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "SPOUT",
+      "STREAM",
+      "TILT"
+    ]
+  },
+  {
+    "id": "checking-garden-water-3",
+    "neighbor": "remembered-dance-tunes-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLOSE",
+      "TIME",
+      "TURN"
+    ]
+  },
+  {
+    "id": "checking-garden-water-4",
+    "neighbor": "garden-from-the-beginning-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "DRAIN",
+      "HOLE",
+      "SOIL",
+      "WATER"
+    ]
+  },
+  {
+    "id": "checking-garden-water-5",
+    "neighbor": "warm-day-by-the-water-3",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "EDGE",
+      "LEVEL",
+      "LOW",
+      "SLOPE",
+      "WATER"
+    ]
+  },
+  {
+    "id": "garden-birds-and-insects",
+    "neighbor": "spring-garden-wildlife",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "BIRD",
+      "GRASS",
+      "NEST"
+    ]
+  },
+  {
+    "id": "garden-birds-and-insects-2",
+    "neighbor": "tending-beds-and-paths",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BITE",
+      "EDGE",
+      "GREEN"
+    ]
+  },
+  {
+    "id": "garden-birds-and-insects-3",
+    "neighbor": "trees-and-their-fruit-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "LEAF",
+      "THIN",
+      "TREE"
+    ]
+  },
+  {
+    "id": "garden-birds-and-insects-4",
+    "neighbor": "night-outdoors-3",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "CHIRP",
+      "CRICKET",
+      "GRASS",
+      "HIDE",
+      "NIGHT"
+    ]
+  },
+  {
+    "id": "garden-birds-and-insects-5",
+    "neighbor": "garden-path-details-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "PATH",
+      "STEP"
+    ]
+  },
+  {
+    "id": "watching-at-the-pond",
+    "neighbor": "water-edges-after-weather-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "STONE",
+      "WATER"
+    ]
+  },
+  {
+    "id": "watching-at-the-pond-2",
+    "neighbor": "birds-in-motion-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DUCK",
+      "FLOAT",
+      "TAIL",
+      "WATER"
+    ]
+  },
+  {
+    "id": "watching-at-the-pond-3",
+    "neighbor": "water-close-by-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "FLOAT",
+      "LEAF",
+      "WATER"
+    ]
+  },
+  {
+    "id": "watching-at-the-pond-4",
+    "neighbor": "water-edges-after-weather-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "ROUND",
+      "WATER"
+    ]
+  },
+  {
+    "id": "watching-at-the-pond-5",
+    "neighbor": "water-edges-after-weather-4",
+    "jaccard": 0.267,
+    "sharedAnswers": [
+      "EDGE",
+      "POND",
+      "SPREAD",
+      "SURFACE"
+    ]
+  },
+  {
+    "id": "small-habits-of-wild-neighbors",
+    "neighbor": "listening-and-looking-outdoors",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "BILL",
+      "DROP",
+      "WINGS"
+    ]
+  },
+  {
+    "id": "small-habits-of-wild-neighbors-2",
+    "neighbor": "listening-and-looking-outdoors-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "PAUSE",
+      "SOUND",
+      "TURN"
+    ]
+  },
+  {
+    "id": "small-habits-of-wild-neighbors-3",
+    "neighbor": "forest-observations-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DAMP",
+      "RAIN",
+      "SMALL",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "small-habits-of-wild-neighbors-4",
+    "neighbor": "supper-at-the-stove",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "GRIP",
+      "HOLD"
+    ]
+  },
+  {
+    "id": "small-habits-of-wild-neighbors-5",
+    "neighbor": "pets-and-backyard-moments",
+    "jaccard": 0.118,
+    "sharedAnswers": [
+      "LEAF",
+      "TAIL"
+    ]
+  },
+  {
+    "id": "tidying-a-garden-corner",
+    "neighbor": "snow-and-winter-light",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "EDGE",
+      "LONG",
+      "REACH"
+    ]
+  },
+  {
+    "id": "tidying-a-garden-corner-2",
+    "neighbor": "short-jobs-around-the-house-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "HOLD",
+      "HOOK",
+      "LOOP"
+    ]
+  },
+  {
+    "id": "tidying-a-garden-corner-3",
+    "neighbor": "garden-keeping-tools-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CUFF",
+      "FINGER",
+      "GRIP",
+      "HAND"
+    ]
+  },
+  {
+    "id": "tidying-a-garden-corner-4",
+    "neighbor": "pantry-packets-and-labels-2",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DRY",
+      "EDGE",
+      "RIM"
+    ]
+  },
+  {
+    "id": "tidying-a-garden-corner-5",
+    "neighbor": "yard-fixes-and-care-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BOARD",
+      "EDGE",
+      "HANDLE"
+    ]
+  },
+  {
+    "id": "keeping-flowers-upright",
+    "neighbor": "getting-out-the-door-4",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "HOLD",
+      "LEAN",
+      "STAND"
+    ]
+  },
+  {
+    "id": "keeping-flowers-upright-2",
+    "neighbor": "garden-protection-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "ROW",
+      "STAKE",
+      "STEM",
+      "TALL"
+    ]
+  },
+  {
+    "id": "keeping-flowers-upright-3",
+    "neighbor": "flowers-through-the-year-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BLOOM",
+      "BUD",
+      "LEAF",
+      "STEM"
+    ]
+  },
+  {
+    "id": "keeping-flowers-upright-4",
+    "neighbor": "garden-repairs-and-labels-2",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "LABEL",
+      "NAME",
+      "PRESS",
+      "READ",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "keeping-flowers-upright-5",
+    "neighbor": "keeping-flowers-upright",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "FLOWER",
+      "HOLD",
+      "STEM"
+    ]
+  },
+  {
+    "id": "harvest-basket-details",
+    "neighbor": "tidying-a-garden-corner-4",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "AIR",
+      "BOARD",
+      "DRY"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-2",
+    "neighbor": "fresh-fruit-details",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LIFT",
+      "STEM",
+      "TURN"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-3",
+    "neighbor": "spring-outdoor-get-together-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BASKET",
+      "CLOTH",
+      "FOLD",
+      "HANDLE"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-4",
+    "neighbor": "gardens-after-cold-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CROP",
+      "LEAF",
+      "RED",
+      "STEM"
+    ]
+  },
+  {
+    "id": "harvest-basket-details-5",
+    "neighbor": "keeping-flowers-upright-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "HOLD",
+      "STEM",
+      "TIE"
+    ]
+  },
+  {
+    "id": "small-changes-in-the-yard",
+    "neighbor": "water-edges-after-weather-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "BED",
+      "EDGE",
+      "SMOOTH",
+      "STONE"
+    ]
+  },
+  {
+    "id": "small-changes-in-the-yard-2",
+    "neighbor": "checking-garden-water-5",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "EDGE",
+      "GROUND",
+      "LOW"
+    ]
+  },
+  {
+    "id": "small-changes-in-the-yard-3",
+    "neighbor": "garden-evening-chores-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BED",
+      "PATH",
+      "PUSH",
+      "WHEEL"
+    ]
+  },
+  {
+    "id": "small-changes-in-the-yard-4",
+    "neighbor": "garden-path-details",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "EDGE",
+      "LEVEL",
+      "PATH",
+      "STONE"
+    ]
+  },
+  {
+    "id": "small-changes-in-the-yard-5",
+    "neighbor": "gardens-after-cold",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "LINE",
+      "ROW",
+      "SEED"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather",
+    "neighbor": "trees-and-their-fruit",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "BARK",
+      "FALL",
+      "GROUND",
+      "LEAF",
+      "TREE"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-2",
+    "neighbor": "trees-and-their-fruit-5",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "BRANCH",
+      "GROUND",
+      "LEAF",
+      "TREE"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-3",
+    "neighbor": "keeping-winter-wet-out-4",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "SNOW",
+      "WHITE"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-4",
+    "neighbor": "trees-in-different-weather-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BRANCH",
+      "SNOW",
+      "TREE",
+      "WHITE"
+    ]
+  },
+  {
+    "id": "trees-in-different-weather-5",
+    "neighbor": "forest-observations-3",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "CONE",
+      "PINE",
+      "SEED",
+      "WOOD"
+    ]
+  },
+  {
+    "id": "small-tools-at-a-paper-desk",
+    "neighbor": "everyday-materials-2",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "LINE",
+      "PAGE",
+      "PEN",
+      "SHEET",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "small-tools-at-a-paper-desk-2",
+    "neighbor": "opening-and-closing-fittings-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "METAL",
+      "PAGE",
+      "PAPER",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "small-tools-at-a-paper-desk-3",
+    "neighbor": "at-the-writing-desk-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LEAD",
+      "PAPER",
+      "POINT"
+    ]
+  },
+  {
+    "id": "small-tools-at-a-paper-desk-4",
+    "neighbor": "watching-small-changes-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "MARK",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "small-tools-at-a-paper-desk-5",
+    "neighbor": "small-actions-at-the-serving-table-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "HOLD",
+      "LIFT",
+      "OPEN",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment",
+    "neighbor": "old-time-entertainment",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DIAL",
+      "RADIO",
+      "SOUND",
+      "TUNE"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-2",
+    "neighbor": "sounds-of-the-recording-room-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "LOOSE",
+      "MUSIC",
+      "SOUND",
+      "SPEAKER"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-3",
+    "neighbor": "listening-with-old-equipment",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DIAL",
+      "SOUND",
+      "TURN"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-4",
+    "neighbor": "small-habits-of-wild-neighbors-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "SOUND",
+      "TURN"
+    ]
+  },
+  {
+    "id": "listening-with-old-equipment-5",
+    "neighbor": "sounds-of-the-recording-room-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CASE",
+      "CASSETTE",
+      "TAPE"
+    ]
+  },
+  {
+    "id": "familiar-older-kitchen-tools",
+    "neighbor": "sauces-and-table-spreads-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BOWL",
+      "HOLD",
+      "LIFT",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "familiar-older-kitchen-tools-2",
+    "neighbor": "kitchen-preparation-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "DOUGH",
+      "FLOUR",
+      "PRESS",
+      "ROLL"
+    ]
+  },
+  {
+    "id": "familiar-older-kitchen-tools-3",
+    "neighbor": "everyday-kitchen-repairs-5",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "BASE",
+      "TOP",
+      "TURN"
+    ]
+  },
+  {
+    "id": "familiar-older-kitchen-tools-4",
+    "neighbor": "small-baking-checks",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CENTER",
+      "CRUST",
+      "OVEN",
+      "PIE"
+    ]
+  },
+  {
+    "id": "familiar-older-kitchen-tools-5",
+    "neighbor": "getting-out-the-door-5",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "EDGE",
+      "PRESS",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "older-cars-and-bicycles",
+    "neighbor": "garden-season-decisions-4",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "HEAT",
+      "SHADE",
+      "SUN"
+    ]
+  },
+  {
+    "id": "older-cars-and-bicycles-2",
+    "neighbor": "weather-and-light-tools",
+    "jaccard": 0.15,
+    "sharedAnswers": [
+      "MARK",
+      "READ",
+      "SCALE"
+    ]
+  },
+  {
+    "id": "older-cars-and-bicycles-3",
+    "neighbor": "useful-things-in-the-car-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "ANGLE",
+      "SIDE",
+      "TURN"
+    ]
+  },
+  {
+    "id": "older-cars-and-bicycles-4",
+    "neighbor": "garden-repairs-and-labels-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "AIR",
+      "PUMP",
+      "TIRE"
+    ]
+  },
+  {
+    "id": "older-cars-and-bicycles-5",
+    "neighbor": "small-fittings-at-home-3",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "BELL",
+      "HEAR",
+      "RING",
+      "SOUND"
+    ]
+  },
+  {
+    "id": "old-clothing-and-accessories",
+    "neighbor": "keeping-flowers-upright",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "HOLD",
+      "STAND",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": "old-clothing-and-accessories-2",
+    "neighbor": "opening-and-closing-fittings",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BAR",
+      "METAL",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "old-clothing-and-accessories-3",
+    "neighbor": "small-changes-in-the-yard-2",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "EDGE",
+      "FLAT",
+      "POINT"
+    ]
+  },
+  {
+    "id": "old-clothing-and-accessories-4",
+    "neighbor": "watching-small-changes-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "FACE",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "old-clothing-and-accessories-5",
+    "neighbor": "remembered-shop-windows-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "HEEL",
+      "SHOE",
+      "SLIDE",
+      "TOE"
+    ]
+  },
+  {
+    "id": "cloth-mending-in-small-steps",
+    "neighbor": "fabric-on-the-table-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "PATCH",
+      "THREAD",
+      "WEAR"
+    ]
+  },
+  {
+    "id": "cloth-mending-in-small-steps-2",
+    "neighbor": "sewing-for-the-kitchen",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "KNOT",
+      "LOOP",
+      "THREAD",
+      "TIE"
+    ]
+  },
+  {
+    "id": "cloth-mending-in-small-steps-3",
+    "neighbor": "halloween-costume-fixes-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "FOLD",
+      "NEEDLE",
+      "THREAD"
+    ]
+  },
+  {
+    "id": "cloth-mending-in-small-steps-4",
+    "neighbor": "halloween-costume-fixes-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CLOTH",
+      "EDGE",
+      "FOLD",
+      "SEAM"
+    ]
+  },
+  {
+    "id": "cloth-mending-in-small-steps-5",
+    "neighbor": "small-tools-at-a-paper-desk-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "ROUND",
+      "WIND"
+    ]
+  },
+  {
+    "id": "paper-folds-and-covers",
+    "neighbor": "gift-paper-folds-2",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "COVER",
+      "CREASE",
+      "EDGE",
+      "FIT",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "paper-folds-and-covers-2",
+    "neighbor": "sharing-books-locally-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CORNER",
+      "FOLD",
+      "PAGE",
+      "PAPER"
+    ]
+  },
+  {
+    "id": "paper-folds-and-covers-3",
+    "neighbor": "getting-out-the-door-5",
+    "jaccard": 0.125,
+    "sharedAnswers": [
+      "BEND",
+      "EDGE"
+    ]
+  },
+  {
+    "id": "paper-folds-and-covers-4",
+    "neighbor": "halloween-costume-fixes-4",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CURVE",
+      "HOLD",
+      "PAPER",
+      "STICK"
+    ]
+  },
+  {
+    "id": "paper-folds-and-covers-5",
+    "neighbor": "small-tools-at-a-paper-desk-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "METAL",
+      "PAGE",
+      "PRESS",
+      "SHEET"
+    ]
+  },
+  {
+    "id": "small-woodwork-checks",
+    "neighbor": "small-changes-in-the-yard-2",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "CHECK",
+      "EDGE",
+      "POINT"
+    ]
+  },
+  {
+    "id": "small-woodwork-checks-2",
+    "neighbor": "hobbies-in-daylight",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "LINE",
+      "PAPER",
+      "PENCIL",
+      "RIDGE"
+    ]
+  },
+  {
+    "id": "small-woodwork-checks-3",
+    "neighbor": "small-woodwork-checks",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "SIDE",
+      "WOOD"
+    ]
+  },
+  {
+    "id": "small-woodwork-checks-4",
+    "neighbor": "neighborhood-counter-jobs",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "MATCH",
+      "SCREW",
+      "TURN"
+    ]
+  },
+  {
+    "id": "small-woodwork-checks-5",
+    "neighbor": "short-jobs-around-the-house-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BRUSH",
+      "CLEAN",
+      "EDGE",
+      "RIM"
+    ]
+  },
+  {
+    "id": "small-craft-display-ideas",
+    "neighbor": "small-changes-in-the-yard-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "LINE",
+      "ROW"
+    ]
+  },
+  {
+    "id": "small-craft-display-ideas-2",
+    "neighbor": "winter-comforts",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "FRAME",
+      "GLASS",
+      "SHADOW"
+    ]
+  },
+  {
+    "id": "small-craft-display-ideas-3",
+    "neighbor": "older-things-in-daily-use-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "LOOP",
+      "POINT",
+      "SEW",
+      "THREAD"
+    ]
+  },
+  {
+    "id": "small-craft-display-ideas-4",
+    "neighbor": "family-photos-and-film-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CLEAR",
+      "EDGE",
+      "HOLD",
+      "SLIDE"
+    ]
+  },
+  {
+    "id": "small-craft-display-ideas-5",
+    "neighbor": "short-jobs-around-the-house-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "HOLD",
+      "LOOP",
+      "STRING",
+      "TIE"
+    ]
+  },
+  {
+    "id": "arranging-buttons-and-beads",
+    "neighbor": "beads-and-ribbons-4",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "COLOR",
+      "CORD",
+      "HOLE",
+      "ROUND",
+      "THREAD"
+    ]
+  },
+  {
+    "id": "arranging-buttons-and-beads-2",
+    "neighbor": "small-woodwork-checks-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DROP",
+      "PLACE",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "arranging-buttons-and-beads-3",
+    "neighbor": "familiar-tools-from-earlier-years-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "ROUND",
+      "SORT",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "arranging-buttons-and-beads-4",
+    "neighbor": "small-craft-display-ideas-5",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "END",
+      "HOLD",
+      "KNOT",
+      "TIE"
+    ]
+  },
+  {
+    "id": "arranging-buttons-and-beads-5",
+    "neighbor": "arranging-buttons-and-beads",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "HOLD",
+      "HOLE",
+      "ROUND",
+      "ROW",
+      "THREAD"
+    ]
+  },
+  {
+    "id": "keeping-instruments-ready",
+    "neighbor": "checking-garden-water-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CLEAR",
+      "DRAIN",
+      "DROP",
+      "WATER"
+    ]
+  },
+  {
+    "id": "keeping-instruments-ready-2",
+    "neighbor": "sounds-and-instruments-up-close-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CLOSE",
+      "HINGE",
+      "LID",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "keeping-instruments-ready-3",
+    "neighbor": "familiar-older-kitchen-tools",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "HOLD",
+      "LIFT",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "keeping-instruments-ready-4",
+    "neighbor": "sharing-books-locally-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COVER",
+      "FOLD",
+      "PLACE"
+    ]
+  },
+  {
+    "id": "keeping-instruments-ready-5",
+    "neighbor": "everyday-materials-2",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "EDGE",
+      "NOTE",
+      "PAGE",
+      "PENCIL",
+      "SHEET"
+    ]
+  },
+  {
+    "id": "sounds-heard-together",
+    "neighbor": "voices-in-company-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "ECHO",
+      "LISTEN",
+      "TIME"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-2",
+    "neighbor": "music-before-and-after-the-song-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BEAT",
+      "NOTE",
+      "PAUSE",
+      "START"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-3",
+    "neighbor": "singalong-preparations",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "LISTEN",
+      "SING",
+      "SONG",
+      "START",
+      "VOICE"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-4",
+    "neighbor": "sing-with-the-room-3",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "END",
+      "HUM",
+      "LISTEN",
+      "SONG"
+    ]
+  },
+  {
+    "id": "sounds-heard-together-5",
+    "neighbor": "porch-and-patio-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "RING",
+      "SOUND",
+      "STRING"
+    ]
+  },
+  {
+    "id": "music-in-community-rooms",
+    "neighbor": "town-events-behind-scenes-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CHAIRS",
+      "CLEAR",
+      "SPACE"
+    ]
+  },
+  {
+    "id": "music-in-community-rooms-2",
+    "neighbor": "small-fittings-at-home-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "HEAR",
+      "SOUND",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "music-in-community-rooms-3",
+    "neighbor": "christmas-tree-care-5",
+    "jaccard": 0.118,
+    "sharedAnswers": [
+      "BOX",
+      "PAPER"
+    ]
+  },
+  {
+    "id": "music-in-community-rooms-4",
+    "neighbor": "old-testament-moments-2",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "HEAR",
+      "QUIET",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "music-in-community-rooms-5",
+    "neighbor": "summer-away-from-home-5",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "MUSIC",
+      "SEAT",
+      "VIEW"
+    ]
+  },
+  {
+    "id": "familiar-music-objects",
+    "neighbor": "sounds-of-the-recording-room-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "READ",
+      "SIDE",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "familiar-music-objects-2",
+    "neighbor": "paper-folds-and-covers-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOOK",
+      "PAGE",
+      "PAPER",
+      "TURN"
+    ]
+  },
+  {
+    "id": "familiar-music-objects-3",
+    "neighbor": "keeping-instruments-ready-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CASE",
+      "FIT",
+      "HOLD",
+      "SOFT"
+    ]
+  },
+  {
+    "id": "familiar-music-objects-4",
+    "neighbor": "supper-at-the-stove",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "GRIP",
+      "HOLD"
+    ]
+  },
+  {
+    "id": "familiar-music-objects-5",
+    "neighbor": "old-clothing-and-accessories-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "HOLD",
+      "RING",
+      "ROUND"
+    ]
+  },
+  {
+    "id": "spring-rain-and-small-errands",
+    "neighbor": "spring-first-outings-2",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "RAIN",
+      "STEP",
+      "WATER",
+      "WET"
+    ]
+  },
+  {
+    "id": "spring-rain-and-small-errands-2",
+    "neighbor": "kitchen-memories-in-use-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "DRY",
+      "EDGE",
+      "PAPER"
+    ]
+  },
+  {
+    "id": "spring-rain-and-small-errands-3",
+    "neighbor": "keeping-food-fresh-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOX",
+      "LABEL",
+      "SHELF",
+      "STORE"
+    ]
+  },
+  {
+    "id": "spring-rain-and-small-errands-4",
+    "neighbor": "tidying-a-garden-corner-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "DRY",
+      "EDGE",
+      "FLOOR",
+      "RAIN"
+    ]
+  },
+  {
+    "id": "spring-rain-and-small-errands-5",
+    "neighbor": "small-fittings-at-home-2",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "CLOTH",
+      "COVER",
+      "FIT",
+      "SEAT"
+    ]
+  },
+  {
+    "id": "summer-evenings-close-to-home",
+    "neighbor": "quiet-comforts-at-home-5",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "ANGLE",
+      "CHAIR",
+      "GLARE",
+      "SHADE",
+      "TURN"
+    ]
+  },
+  {
+    "id": "summer-evenings-close-to-home-2",
+    "neighbor": "everyday-kitchen-repairs-5",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "GRIP",
+      "JAR",
+      "TURN"
+    ]
+  },
+  {
+    "id": "summer-evenings-close-to-home-3",
+    "neighbor": "fresh-fruit-details-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "COLD",
+      "GLASS",
+      "ICE",
+      "PITCHER"
+    ]
+  },
+  {
+    "id": "summer-evenings-close-to-home-4",
+    "neighbor": "garden-repairs-and-labels-4",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "AIR",
+      "PUMP",
+      "VALVE"
+    ]
+  },
+  {
+    "id": "summer-evenings-close-to-home-5",
+    "neighbor": "winter-light-and-ice-3",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "CANDLE",
+      "DRIP",
+      "FLAME",
+      "LIGHT",
+      "MELT"
+    ]
+  },
+  {
+    "id": "autumn-around-the-neighborhood",
+    "neighbor": "autumn-local-scenes-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "SEAT",
+      "WARM",
+      "WOOL"
+    ]
+  },
+  {
+    "id": "autumn-around-the-neighborhood-2",
+    "neighbor": "trees-and-their-fruit",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "LEAF",
+      "MAPLE",
+      "RED",
+      "TREE"
+    ]
+  },
+  {
+    "id": "autumn-around-the-neighborhood-3",
+    "neighbor": "practical-corners-of-the-garden-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "HEAVY",
+      "ROLL",
+      "STEADY",
+      "TURN"
+    ]
+  },
+  {
+    "id": "autumn-around-the-neighborhood-4",
+    "neighbor": "small-craft-display-ideas-5",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "BUNDLE",
+      "HOLD",
+      "LOOP",
+      "TIE"
+    ]
+  },
+  {
+    "id": "autumn-around-the-neighborhood-5",
+    "neighbor": "spring-rain-and-small-errands-4",
+    "jaccard": 0.333,
+    "sharedAnswers": [
+      "CORNER",
+      "EDGE",
+      "FLOOR",
+      "MAT",
+      "RAIN"
+    ]
+  },
+  {
+    "id": "easy-games-with-a-table",
+    "neighbor": "arranging-buttons-and-beads-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "COLOR",
+      "PLACE",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "easy-games-with-a-table-2",
+    "neighbor": "sing-with-the-room-4",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "START",
+      "TIME",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "easy-games-with-a-table-3",
+    "neighbor": "table-pastimes-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "DICE",
+      "ROLL",
+      "TABLE",
+      "TURN"
+    ]
+  },
+  {
+    "id": "easy-games-with-a-table-4",
+    "neighbor": "quiet-table-hobbies-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "DOMINO",
+      "END",
+      "PLAY",
+      "TILE"
+    ]
+  },
+  {
+    "id": "easy-games-with-a-table-5",
+    "neighbor": "gift-paper-folds-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "FOLD",
+      "MARK",
+      "PAPER",
+      "READ"
+    ]
+  },
+  {
+    "id": "quiet-sketches-and-studies",
+    "neighbor": "small-baking-checks-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "MARK",
+      "SHAPE",
+      "TOP"
+    ]
+  },
+  {
+    "id": "quiet-sketches-and-studies-2",
+    "neighbor": "local-show-opening",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CENTER",
+      "DRAW",
+      "EVEN",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "quiet-sketches-and-studies-3",
+    "neighbor": "everyday-materials-2",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "EDGE",
+      "LINE",
+      "PAGE",
+      "PENCIL",
+      "WHITE"
+    ]
+  },
+  {
+    "id": "quiet-sketches-and-studies-4",
+    "neighbor": "watching-small-changes-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "PATTERN",
+      "PRESS"
+    ]
+  },
+  {
+    "id": "quiet-sketches-and-studies-5",
+    "neighbor": "quiet-sketches-and-studies-3",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "EDGE",
+      "LINE",
+      "PAGE",
+      "PENCIL"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds",
+    "neighbor": "easy-games-with-a-table",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "COLOR",
+      "HOLD",
+      "PLACE",
+      "SORT",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-2",
+    "neighbor": "watching-small-changes-3",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "COIN",
+      "EDGE",
+      "MARK",
+      "PRINT"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-3",
+    "neighbor": "easter-basket-details-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "LONG",
+      "MARK",
+      "PAPER"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-4",
+    "neighbor": "small-woodwork-checks",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "LINE",
+      "POINT"
+    ]
+  },
+  {
+    "id": "sorting-and-keeping-finds-5",
+    "neighbor": "watching-small-changes-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "MARK",
+      "PATTERN"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum",
+    "neighbor": "small-craft-display-ideas-2",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "BACK",
+      "FRAME",
+      "FRONT",
+      "GLASS",
+      "LOOK"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-2",
+    "neighbor": "familiar-music-objects",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CARD",
+      "NAME",
+      "PAPER",
+      "READ"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-3",
+    "neighbor": "music-patterns-5",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "END",
+      "LINE",
+      "START",
+      "TURN"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-4",
+    "neighbor": "remembering-simple-play",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "GLASS",
+      "HAND",
+      "SMALL"
+    ]
+  },
+  {
+    "id": "a-walk-through-a-local-museum-5",
+    "neighbor": "garden-repairs-and-labels-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "NAME",
+      "PENCIL",
+      "READ",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk",
+    "neighbor": "small-changes-in-the-yard-5",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "EDGE",
+      "LINE",
+      "PATH",
+      "STEP"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-2",
+    "neighbor": "neighbors-and-small-kindnesses-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BLOCK",
+      "CORNER",
+      "SIGN",
+      "STREET"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-3",
+    "neighbor": "a-walk-through-a-local-museum-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "FRAME",
+      "NAME",
+      "READ",
+      "SIGN"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-4",
+    "neighbor": "signs-of-rain-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CURB",
+      "DRAIN",
+      "STREET",
+      "WATER"
+    ]
+  },
+  {
+    "id": "details-on-a-town-walk-5",
+    "neighbor": "garden-birds-and-insects-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "LEAF",
+      "LINE",
+      "TREE"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road",
+    "neighbor": "travel-small-steps-5",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "DRIVE",
+      "EXIT",
+      "ROAD",
+      "SIGN"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-2",
+    "neighbor": "garden-repairs-and-labels-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LETTER",
+      "MARKER",
+      "READ"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-3",
+    "neighbor": "easy-games-with-a-table",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "PLACE",
+      "SLIDE",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-4",
+    "neighbor": "useful-home-repairs-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CLOSE",
+      "DOOR",
+      "HINGE",
+      "TURN"
+    ]
+  },
+  {
+    "id": "a-rest-stop-on-the-road-5",
+    "neighbor": "useful-things-in-the-car-2",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "MAP",
+      "PAPER",
+      "ROAD",
+      "TURN"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes",
+    "neighbor": "quiet-comforts-at-home",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CHAIR",
+      "REST",
+      "SEAT",
+      "SPACE"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-2",
+    "neighbor": "harvest-basket-details-3",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "CLOTH",
+      "FOLD",
+      "REST",
+      "SOFT",
+      "TOWEL"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-3",
+    "neighbor": "paper-folds-and-covers-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOOK",
+      "HOLD",
+      "MARKER",
+      "TURN"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-4",
+    "neighbor": "quiet-outdoor-moments-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "FLOW",
+      "SAND",
+      "SMALL"
+    ]
+  },
+  {
+    "id": "a-few-quiet-minutes-5",
+    "neighbor": "a-few-quiet-minutes-2",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "CHAIR",
+      "CLOTH",
+      "EDGE",
+      "FOLD",
+      "REST"
+    ]
+  },
+  {
+    "id": "taking-care-of-a-reading-place",
+    "neighbor": "town-meeting-places-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "BOOK",
+      "PAGE",
+      "READ"
+    ]
+  },
+  {
+    "id": "taking-care-of-a-reading-place-2",
+    "neighbor": "thanksgiving-cleanup-5",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "CHECK",
+      "CLOTH",
+      "DRY",
+      "EDGE",
+      "FOLD"
+    ]
+  },
+  {
+    "id": "taking-care-of-a-reading-place-3",
+    "neighbor": "picnic-band-sounds-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "FOLD",
+      "OPEN",
+      "PAGE",
+      "STAND"
+    ]
+  },
+  {
+    "id": "taking-care-of-a-reading-place-4",
+    "neighbor": "keeping-instruments-ready-5",
+    "jaccard": 0.294,
+    "sharedAnswers": [
+      "ANGLE",
+      "EDGE",
+      "HOLD",
+      "PAGE",
+      "REST"
+    ]
+  },
+  {
+    "id": "taking-care-of-a-reading-place-5",
+    "neighbor": "quiet-sketches-and-studies-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "PAGE"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome",
+    "neighbor": "guests-and-table-4",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "HOUSE",
+      "NUMBER",
+      "STREET",
+      "TURN"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-2",
+    "neighbor": "winter-light-and-ice-4",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "DARK",
+      "LAMP",
+      "LIGHT"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-3",
+    "neighbor": "music-in-community-rooms",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CLEAR",
+      "FLOOR",
+      "ROOM",
+      "SPACE"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-4",
+    "neighbor": "a-few-quiet-minutes",
+    "jaccard": 0.25,
+    "sharedAnswers": [
+      "CHAIR",
+      "NEAR",
+      "SEAT",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "ordinary-visits-and-welcome-5",
+    "neighbor": "guests-and-table-2",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "CHAIR",
+      "FORK",
+      "PLACE",
+      "PLATE",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "a-visit-through-familiar-landmarks",
+    "neighbor": "garden-path-details",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "EDGE",
+      "LEVEL",
+      "PATH",
+      "STONE",
+      "WALK"
+    ]
+  },
+  {
+    "id": "a-visit-through-familiar-landmarks-2",
+    "neighbor": "town-events-behind-scenes-5",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "OPEN",
+      "SIDE",
+      "TURN",
+      "WALK"
+    ]
+  },
+  {
+    "id": "a-visit-through-familiar-landmarks-3",
+    "neighbor": "small-woodwork-checks-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "EDGE",
+      "GRIP",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "a-visit-through-familiar-landmarks-4",
+    "neighbor": "garden-season-decisions-4",
+    "jaccard": 0.118,
+    "sharedAnswers": [
+      "BRICK",
+      "STONE"
+    ]
+  },
+  {
+    "id": "a-visit-through-familiar-landmarks-5",
+    "neighbor": "small-woodwork-checks-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOARD",
+      "EDGE",
+      "GRIP",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "weekend-morning-in-the-yard",
+    "neighbor": "snow-and-winter-light-3",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "DEPTH",
+      "INCH",
+      "READ"
+    ]
+  },
+  {
+    "id": "weekend-morning-in-the-yard-2",
+    "neighbor": "after-a-winter-storm",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "BLADE",
+      "EDGE",
+      "LIFT",
+      "SHOVEL"
+    ]
+  },
+  {
+    "id": "weekend-morning-in-the-yard-3",
+    "neighbor": "small-world-nature-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DAMP",
+      "RAIN",
+      "SOIL"
+    ]
+  },
+  {
+    "id": "weekend-morning-in-the-yard-4",
+    "neighbor": "garden-protection-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "FRUIT",
+      "LAYER",
+      "SOIL",
+      "STRAW"
+    ]
+  },
+  {
+    "id": "weekend-morning-in-the-yard-5",
+    "neighbor": "small-changes-in-the-yard-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "PATH",
+      "SHIFT",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper",
+    "neighbor": "drinks-poured-and-served-3",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "LABEL",
+      "LINE",
+      "PAPER",
+      "STACK"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-2",
+    "neighbor": "gift-paper-folds-3",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "CARD",
+      "COUNTER",
+      "PAPER",
+      "READ",
+      "RECIPE"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-3",
+    "neighbor": "keepsakes-in-order",
+    "jaccard": 0.263,
+    "sharedAnswers": [
+      "ENVELOPE",
+      "INK",
+      "PAPER",
+      "READ",
+      "STAMP"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-4",
+    "neighbor": "household-paperwork-4",
+    "jaccard": 0.263,
+    "sharedAnswers": [
+      "LETTER",
+      "MAIL",
+      "OPEN",
+      "PAPER",
+      "STAMP"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-5",
+    "neighbor": "small-tools-at-a-paper-desk-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLIP",
+      "EDGE",
+      "PUNCH"
+    ]
+  },
+  {
+    "id": "simple-summer-day-trips",
+    "neighbor": "the-family-car-2",
+    "jaccard": 0.263,
+    "sharedAnswers": [
+      "FOLD",
+      "MAP",
+      "ROAD",
+      "ROUTE",
+      "TURN"
+    ]
+  },
+  {
+    "id": "simple-summer-day-trips-2",
+    "neighbor": "weather-watching-3",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "DAMP",
+      "DRY",
+      "SHADE",
+      "SUN"
+    ]
+  },
+  {
+    "id": "simple-summer-day-trips-3",
+    "neighbor": "clothing-for-weather-4",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "BRIM",
+      "HAT",
+      "SHADE"
+    ]
+  },
+  {
+    "id": "simple-summer-day-trips-4",
+    "neighbor": "a-few-quiet-minutes-5",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "CHAIR",
+      "EDGE",
+      "FLAT",
+      "FOLD",
+      "HOLD"
+    ]
+  },
+  {
+    "id": "simple-summer-day-trips-5",
+    "neighbor": "getting-out-the-door-4",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BASE",
+      "HOLD",
+      "REACH"
+    ]
+  },
+  {
+    "id": "well-known-scenes-in-genesis",
+    "neighbor": "bible-parables-and-choices-4",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "BREAD",
+      "SLEEP",
+      "THREE"
+    ]
+  },
+  {
+    "id": "well-known-scenes-in-genesis-2",
+    "neighbor": "a-rest-stop-on-the-road-2",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "FIND",
+      "LOOK"
+    ]
+  },
+  {
+    "id": "well-known-scenes-in-genesis-3",
+    "neighbor": "familiar-song-scenes",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "FIELD",
+      "LAND",
+      "PLAIN"
+    ]
+  },
+  {
+    "id": "well-known-scenes-in-genesis-4",
+    "neighbor": "bible-courage-and-care",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "BREAD",
+      "EAT",
+      "FOOD"
+    ]
+  },
+  {
+    "id": "well-known-scenes-in-genesis-5",
+    "neighbor": "keeping-in-touch-2",
+    "jaccard": 0.105,
+    "sharedAnswers": [
+      "SEND",
+      "TRIP"
+    ]
+  },
+  {
+    "id": "stories-of-help-and-listening",
+    "neighbor": "familiar-tools-from-earlier-years",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LINE",
+      "SHARE",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "stories-of-help-and-listening-2",
+    "neighbor": "ordinary-visits-and-welcome-5",
+    "jaccard": 0.211,
+    "sharedAnswers": [
+      "GUEST",
+      "MEAL",
+      "PLACE",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "stories-of-help-and-listening-3",
+    "neighbor": "old-testament-moments-2",
+    "jaccard": 0.286,
+    "sharedAnswers": [
+      "GROUND",
+      "HEAR",
+      "QUIET",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "stories-of-help-and-listening-4",
+    "neighbor": "visits-and-welcome-4",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "TABLE",
+      "WATER"
+    ]
+  },
+  {
+    "id": "stories-of-help-and-listening-5",
+    "neighbor": "spring-rain-and-small-errands-2",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "ROOM",
+      "WALL"
+    ]
+  },
+  {
+    "id": "new-testament-scenes-by-the-door",
+    "neighbor": "bible-stories-jesus-told-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CALL",
+      "GATE",
+      "HEAR",
+      "VOICE"
+    ]
+  },
+  {
+    "id": "new-testament-scenes-by-the-door-2",
+    "neighbor": "meetings-in-bible-stories-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "ASK",
+      "HELP",
+      "WALK"
+    ]
+  },
+  {
+    "id": "new-testament-scenes-by-the-door-3",
+    "neighbor": "cookie-tins-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "BOWL",
+      "DOUGH",
+      "FLOUR",
+      "SPOON"
+    ]
+  },
+  {
+    "id": "new-testament-scenes-by-the-door-4",
+    "neighbor": "stories-of-help-and-listening-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "GUEST",
+      "MEAL",
+      "TABLE"
+    ]
+  },
+  {
+    "id": "new-testament-scenes-by-the-door-5",
+    "neighbor": "music-in-community-rooms-4",
+    "jaccard": 0.188,
+    "sharedAnswers": [
+      "DOOR",
+      "LIGHT",
+      "WAIT"
+    ]
+  },
+  {
+    "id": "optional-scenes-in-acts-and-joshua",
+    "neighbor": "a-visit-through-familiar-landmarks",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "STEPS",
+      "STONE",
+      "WALK"
+    ]
+  },
+  {
+    "id": "optional-scenes-in-acts-and-joshua-2",
+    "neighbor": "winter-weather-scenes-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "COLD",
+      "RAIN",
+      "WET"
+    ]
+  },
+  {
+    "id": "optional-scenes-in-acts-and-joshua-3",
+    "neighbor": "stories-of-help-and-listening-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "READ",
+      "TELL",
+      "WORDS"
+    ]
+  },
+  {
+    "id": "optional-scenes-in-acts-and-joshua-4",
+    "neighbor": "bible-moses-and-the-journey-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "SEA",
+      "WATER",
+      "WIND"
+    ]
+  },
+  {
+    "id": "optional-scenes-in-acts-and-joshua-5",
+    "neighbor": "warm-day-by-the-water-5",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DEEP",
+      "FLOAT",
+      "WATER"
+    ]
+  },
+  {
+    "id": "familiar-county-fair-stops",
+    "neighbor": "clothesline-weather-choices-3",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "DRY",
+      "FLAT",
+      "SHAPE"
+    ]
+  },
+  {
+    "id": "familiar-county-fair-stops-2",
+    "neighbor": "family-photos-and-film-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "CLOTH",
+      "LIGHT",
+      "SHOW"
+    ]
+  },
+  {
+    "id": "familiar-county-fair-stops-3",
+    "neighbor": "small-changes-in-the-yard-5",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "LINE",
+      "POST",
+      "STEP"
+    ]
+  },
+  {
+    "id": "familiar-county-fair-stops-4",
+    "neighbor": "a-rest-stop-on-the-road-2",
+    "jaccard": 0.333,
+    "sharedAnswers": [
+      "LOOK",
+      "PLACE",
+      "READ",
+      "ROW",
+      "WALK"
+    ]
+  },
+  {
+    "id": "familiar-county-fair-stops-5",
+    "neighbor": "games-at-a-club-4",
+    "jaccard": 0.111,
+    "sharedAnswers": [
+      "COLOR",
+      "RED"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters",
+    "neighbor": "spring-rain-and-small-errands-2",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "EDGE",
+      "PAPER",
+      "ROLL"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-2",
+    "neighbor": "a-rest-stop-on-the-road-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "CHANGE",
+      "RIM",
+      "SLIDE",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-3",
+    "neighbor": "easter-basket-details-2",
+    "jaccard": 0.176,
+    "sharedAnswers": [
+      "CUT",
+      "HOLDER",
+      "PAPER"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-4",
+    "neighbor": "everyday-timekeepers",
+    "jaccard": 0.167,
+    "sharedAnswers": [
+      "CLOCK",
+      "HOUR",
+      "TIME"
+    ]
+  },
+  {
+    "id": "old-stores-and-service-counters-5",
+    "neighbor": "familiar-first-aid-supplies-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "CLEAN",
+      "EDGE",
+      "PAPER",
+      "PEEL"
+    ]
+  },
+  {
+    "id": "shelves-for-tiny-collections",
+    "neighbor": "familiar-county-fair-stops-4",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "LOOK",
+      "NUMBER",
+      "PLACE",
+      "READ",
+      "ROW"
+    ]
+  },
+  {
+    "id": "shelves-for-tiny-collections-2",
+    "neighbor": "a-visit-through-familiar-landmarks-3",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BASE",
+      "EDGE",
+      "REST",
+      "SIDE"
+    ]
+  },
+  {
+    "id": "shelves-for-tiny-collections-3",
+    "neighbor": "small-craft-display-ideas-2",
+    "jaccard": 0.222,
+    "sharedAnswers": [
+      "FRONT",
+      "LOOK",
+      "SHELF",
+      "TURN"
+    ]
+  },
+  {
+    "id": "shelves-for-tiny-collections-4",
+    "neighbor": "shelves-for-tiny-collections",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "FRONT",
+      "GROUP",
+      "LABEL",
+      "READ",
+      "SHELF"
+    ]
+  },
+  {
+    "id": "shelves-for-tiny-collections-5",
+    "neighbor": "quiet-outdoor-moments-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "PEBBLE",
+      "ROUND",
+      "SMALL",
+      "STONE"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks",
+    "neighbor": "a-visit-through-familiar-landmarks-2",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "OPEN",
+      "SIDE",
+      "WAIT",
+      "WALK"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-2",
+    "neighbor": "trees-and-their-fruit",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "GROUND",
+      "LEAF",
+      "SHADE",
+      "TREE"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-3",
+    "neighbor": "pantry-packets-and-labels-3",
+    "jaccard": 0.158,
+    "sharedAnswers": [
+      "GRIP",
+      "HANDLE",
+      "HOLD"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-4",
+    "neighbor": "details-on-a-town-walk",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "EDGE",
+      "PATH",
+      "STEP",
+      "STONE"
+    ]
+  },
+  {
+    "id": "comfortable-neighborhood-walks-5",
+    "neighbor": "simple-summer-day-trips",
+    "jaccard": 0.278,
+    "sharedAnswers": [
+      "MAP",
+      "PAPER",
+      "READ",
+      "ROUTE",
+      "TRIP"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies",
+    "neighbor": "sounds-of-the-recording-room-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "LABEL",
+      "READ",
+      "TAPE",
+      "WRITE"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-2",
+    "neighbor": "through-the-front-door-4",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "KEY",
+      "LOCK",
+      "METAL",
+      "OPEN"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-3",
+    "neighbor": "sorting-and-keeping-finds",
+    "jaccard": 0.2,
+    "sharedAnswers": [
+      "HOLD",
+      "PLACE",
+      "ROW",
+      "TRAY"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-4",
+    "neighbor": "fabric-on-the-table-5",
+    "jaccard": 0.235,
+    "sharedAnswers": [
+      "BUNDLE",
+      "PAPER",
+      "STRIP",
+      "WRAP"
+    ]
+  },
+  {
+    "id": "taking-care-of-small-supplies-5",
+    "neighbor": "paper-folds-and-covers-4",
+    "jaccard": 0.312,
+    "sharedAnswers": [
+      "EDGE",
+      "HOLD",
+      "PAPER",
+      "PRESS",
+      "STICK"
+    ]
+  }
+]

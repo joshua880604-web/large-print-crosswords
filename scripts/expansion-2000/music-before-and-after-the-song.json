@@ -1,0 +1,342 @@
+[
+  {
+    "id": "music-before-and-after-the-song",
+    "title": "Reading the Band's Set List",
+    "description": "A page beside the players gives the order of the songs and shows when to stop for a break.",
+    "words": [
+      [
+        "ORDER",
+        "Arrangement showing which song comes first and which follows"
+      ],
+      [
+        "SONGS",
+        "Pieces of music with words that can be sung"
+      ],
+      [
+        "BREAK",
+        "Pause between two parts of the show"
+      ],
+      [
+        "LIST",
+        "Names written down one below another"
+      ],
+      [
+        "TITLE",
+        "Name of a song"
+      ],
+      [
+        "PAGE",
+        "Sheet holding one group of song titles"
+      ],
+      [
+        "FIRST",
+        "Coming before all the others"
+      ],
+      [
+        "ENCORE",
+        "Extra song played after the audience asks for more"
+      ],
+      [
+        "STAGE",
+        "Raised area where the band plays"
+      ],
+      [
+        "NEXT",
+        "Coming just after the current song"
+      ],
+      [
+        "MARK",
+        "Put a dot or line by the opening song"
+      ],
+      [
+        "END",
+        "Point where the show finishes"
+      ],
+      [
+        "START",
+        "Begin playing"
+      ],
+      [
+        "BAND",
+        "Group of people who play music together"
+      ]
+    ],
+    "requiredAnswers": [
+      "ORDER",
+      "SONGS",
+      "BREAK"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-2",
+    "title": "Choosing a Record with Jukebox Buttons",
+    "description": "A letter and a number beside the song title match the buttons that start the record.",
+    "words": [
+      [
+        "JUKEBOX",
+        "Machine that plays the song selected by a customer"
+      ],
+      [
+        "BUTTON",
+        "Part you press to choose a song"
+      ],
+      [
+        "RECORD",
+        "Flat disc holding music for the machine to play"
+      ],
+      [
+        "COIN",
+        "Metal piece of money that some machines accept"
+      ],
+      [
+        "TITLE",
+        "Name printed beside the selection"
+      ],
+      [
+        "LETTER",
+        "One of the characters from A to Z"
+      ],
+      [
+        "NUMBER",
+        "Digit paired with a letter on the song list"
+      ],
+      [
+        "SLOT",
+        "Narrow opening where a coin goes"
+      ],
+      [
+        "PLAY",
+        "Start the music"
+      ],
+      [
+        "CHOOSE",
+        "Pick one song from several"
+      ],
+      [
+        "LIGHT",
+        "What makes the printed titles easy to see"
+      ],
+      [
+        "WAIT",
+        "Stay until the selected song begins"
+      ],
+      [
+        "PRESS",
+        "Push the button in"
+      ],
+      [
+        "SOUND",
+        "What comes out of the speaker"
+      ]
+    ],
+    "requiredAnswers": [
+      "JUKEBOX",
+      "BUTTON",
+      "RECORD"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-3",
+    "title": "Keeping Earplugs in a Concert Pocket",
+    "description": "A small case holds two soft earplugs until their owner settles into a seat.",
+    "words": [
+      [
+        "EARPLUGS",
+        "Small pieces worn in the ears to make sound quieter"
+      ],
+      [
+        "CASE",
+        "Small container that keeps the pair together"
+      ],
+      [
+        "PAIR",
+        "Two matching things used together"
+      ],
+      [
+        "POCKET",
+        "Small pouch sewn into a coat"
+      ],
+      [
+        "SOFT",
+        "Easy to squeeze with a finger"
+      ],
+      [
+        "CLOSE",
+        "Bring the lid down over the case"
+      ],
+      [
+        "SEAT",
+        "Place where a concertgoer sits"
+      ],
+      [
+        "FOAM",
+        "Light material with many tiny air spaces"
+      ],
+      [
+        "QUIET",
+        "With less noise"
+      ],
+      [
+        "LID",
+        "Movable top on the little case"
+      ],
+      [
+        "PACK",
+        "Put an item away to carry it"
+      ],
+      [
+        "CARRY",
+        "Take an item from one place to another"
+      ],
+      [
+        "OPEN",
+        "Lift the case lid"
+      ],
+      [
+        "SOUND",
+        "What the audience hears from the stage"
+      ]
+    ],
+    "requiredAnswers": [
+      "EARPLUGS",
+      "CASE",
+      "PAIR"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-4",
+    "title": "Following a Metronome during Piano Practice",
+    "description": "A steady click gives a player time to repeat a short passage without speeding up.",
+    "words": [
+      [
+        "METRONOME",
+        "Device that ticks at a chosen rate to guide musical practice"
+      ],
+      [
+        "BEAT",
+        "Regular pulse that a player follows"
+      ],
+      [
+        "STEADY",
+        "Continuing at the same speed"
+      ],
+      [
+        "CLICK",
+        "Short sharp sound that marks the time"
+      ],
+      [
+        "TEMPO",
+        "Speed at which music is played"
+      ],
+      [
+        "TICK",
+        "Small repeating sound like that of a clock"
+      ],
+      [
+        "PAUSE",
+        "Stop briefly before starting again"
+      ],
+      [
+        "SLOW",
+        "At a gentle speed"
+      ],
+      [
+        "PLAY",
+        "Make notes sound on the piano"
+      ],
+      [
+        "PRACTICE",
+        "Repeat a task to get better at it"
+      ],
+      [
+        "COUNT",
+        "Say the numbers that go with the beats"
+      ],
+      [
+        "RATE",
+        "Number of ticks heard in a given time"
+      ],
+      [
+        "NOTE",
+        "One sound in a tune"
+      ],
+      [
+        "START",
+        "Begin a passage on the first count"
+      ]
+    ],
+    "requiredAnswers": [
+      "METRONOME",
+      "BEAT",
+      "STEADY"
+    ]
+  },
+  {
+    "id": "music-before-and-after-the-song-5",
+    "title": "Reading a Song Translation in the Concert Program",
+    "description": "Words printed beside a song title help a listener follow the meaning during the performance.",
+    "words": [
+      [
+        "PROGRAM",
+        "Printed guide to what will be performed"
+      ],
+      [
+        "WORDS",
+        "Units of language that form a song's text"
+      ],
+      [
+        "MEANING",
+        "Idea expressed by a word or phrase"
+      ],
+      [
+        "PAGE",
+        "One side of a leaf in the program"
+      ],
+      [
+        "TITLE",
+        "Name of the song listed above its text"
+      ],
+      [
+        "READ",
+        "Look at the writing to understand it"
+      ],
+      [
+        "LISTEN",
+        "Pay attention to the singer's voice"
+      ],
+      [
+        "VERSE",
+        "Group of lines in a song"
+      ],
+      [
+        "TEXT",
+        "Writing printed for a listener to follow"
+      ],
+      [
+        "LINE",
+        "Row of words printed across the page"
+      ],
+      [
+        "VOICE",
+        "Sound a person makes when singing"
+      ],
+      [
+        "MUSIC",
+        "Sounds arranged into a tune or piece"
+      ],
+      [
+        "SINGER",
+        "Person who performs the song"
+      ],
+      [
+        "LANGUAGE",
+        "System of words a group of people uses"
+      ]
+    ],
+    "requiredAnswers": [
+      "PROGRAM",
+      "WORDS",
+      "MEANING"
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "neighborhood-pet-care",
+    "title": "Drying a Dog after a Wet Walk",
+    "description": "An old towel takes up the water on a dog's paws before it comes inside.",
+    "words": [
+      [
+        "TOWEL",
+        "Cloth used to dry a wet coat"
+      ],
+      [
+        "PAWS",
+        "Feet of a dog or cat"
+      ],
+      [
+        "MUD",
+        "Wet dirt that sticks to feet"
+      ],
+      [
+        "WIPE",
+        "Clean with a cloth"
+      ],
+      [
+        "MAT",
+        "Floor covering beside a door"
+      ],
+      [
+        "FUR",
+        "Soft hair on an animal"
+      ],
+      [
+        "DAMP",
+        "Slightly wet after the towel is used"
+      ],
+      [
+        "SHAKE",
+        "Move the body quickly from side to side"
+      ],
+      [
+        "DOOR",
+        "Panel that opens from outside into the house"
+      ],
+      [
+        "DRIP",
+        "Fall in little drops"
+      ],
+      [
+        "LEAN",
+        "Tip to one side for a moment"
+      ],
+      [
+        "HOLD",
+        "Keep the towel in your hand"
+      ],
+      [
+        "TRACK",
+        "Mark left by a muddy foot"
+      ],
+      [
+        "RAIN",
+        "Water falling from the sky"
+      ]
+    ],
+    "requiredAnswers": [
+      "TOWEL",
+      "PAWS",
+      "MUD"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-2",
+    "title": "A Collar Tag with a New Phone Number",
+    "description": "A new tag with current contact information hangs from the small ring on the collar.",
+    "words": [
+      [
+        "COLLAR",
+        "Band around a dog's neck"
+      ],
+      [
+        "NUMBER",
+        "Digits someone can call"
+      ],
+      [
+        "TAG",
+        "Small plate that carries a pet's details"
+      ],
+      [
+        "RING",
+        "Circular piece that holds a small plate"
+      ],
+      [
+        "PHONE",
+        "Device used to speak to someone far away"
+      ],
+      [
+        "NAME",
+        "Word a pet is called"
+      ],
+      [
+        "OWNER",
+        "Person who cares for the pet"
+      ],
+      [
+        "STAMP",
+        "Press letters or digits into metal"
+      ],
+      [
+        "METAL",
+        "Hard material used for some pet tags"
+      ],
+      [
+        "CLIP",
+        "Small fastener that snaps shut"
+      ],
+      [
+        "READ",
+        "Make sense of the words and digits"
+      ],
+      [
+        "LOOP",
+        "Curved shape with a hole in the middle"
+      ],
+      [
+        "NECK",
+        "Part below the head"
+      ],
+      [
+        "CLEAR",
+        "Easy to read"
+      ]
+    ],
+    "requiredAnswers": [
+      "COLLAR",
+      "NUMBER",
+      "TAG"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-3",
+    "title": "A Pet Food Bag with a Tight Clip",
+    "description": "A clip on the folded top helps keep dry food from spilling when the bag is moved.",
+    "words": [
+      [
+        "CLIP",
+        "Fastener used to hold a bag closed"
+      ],
+      [
+        "FOLD",
+        "Bend the open end of the bag over"
+      ],
+      [
+        "SPILL",
+        "Scatter the contents by accident"
+      ],
+      [
+        "DRY",
+        "Without much water in it"
+      ],
+      [
+        "BAG",
+        "Flexible container for food"
+      ],
+      [
+        "SCOOP",
+        "Small tool that lifts up dry food"
+      ],
+      [
+        "SEAL",
+        "Close an opening tightly"
+      ],
+      [
+        "TOP",
+        "Highest part of the bag"
+      ],
+      [
+        "CUP",
+        "Small container that measures a portion"
+      ],
+      [
+        "SHELF",
+        "Flat place to store a bag"
+      ],
+      [
+        "PORTION",
+        "Amount set out for one meal"
+      ],
+      [
+        "CRISP",
+        "Firm with a little crunch"
+      ],
+      [
+        "POUR",
+        "Let food flow out of an opening"
+      ],
+      [
+        "BIN",
+        "Container used for storing the bag"
+      ]
+    ],
+    "requiredAnswers": [
+      "CLIP",
+      "FOLD",
+      "SPILL"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-4",
+    "title": "A Cat Choosing the Sunny End of a Bench",
+    "description": "A cat stretches out where a bright patch falls across a bench.",
+    "words": [
+      [
+        "PATCH",
+        "Small area of sunlight"
+      ],
+      [
+        "STRETCH",
+        "Extend the legs or body out"
+      ],
+      [
+        "SLEEP",
+        "Rest with the eyes closed"
+      ],
+      [
+        "WARM",
+        "Gently heated by the sun"
+      ],
+      [
+        "BENCH",
+        "Long seat without separate places for each person"
+      ],
+      [
+        "SUN",
+        "Bright star that lights up the day"
+      ],
+      [
+        "CAT",
+        "Small furry pet that may purr"
+      ],
+      [
+        "TAIL",
+        "Animal part extending behind its body"
+      ],
+      [
+        "SHADE",
+        "Cooler area out of the direct light"
+      ],
+      [
+        "QUIET",
+        "With very little noise"
+      ],
+      [
+        "CURLED",
+        "Bent into a rounded shape"
+      ],
+      [
+        "BLINK",
+        "Close the eyes for a moment"
+      ],
+      [
+        "REST",
+        "Stop moving for a while"
+      ],
+      [
+        "SOFT",
+        "Easy to press down"
+      ]
+    ],
+    "requiredAnswers": [
+      "PATCH",
+      "STRETCH",
+      "SLEEP"
+    ]
+  },
+  {
+    "id": "neighborhood-pet-care-5",
+    "title": "A Pet Gate across the Kitchen Doorway",
+    "description": "The small gate closes the opening so the dog can stay out while dishes are carried through.",
+    "words": [
+      [
+        "GATE",
+        "Small barrier that opens and closes"
+      ],
+      [
+        "LATCH",
+        "Part that holds a barrier closed"
+      ],
+      [
+        "DOORWAY",
+        "Opening leading from one room to another"
+      ],
+      [
+        "FRAME",
+        "Parts around a door opening"
+      ],
+      [
+        "BAR",
+        "Long narrow piece across a frame"
+      ],
+      [
+        "WIDTH",
+        "Distance from side to side"
+      ],
+      [
+        "STEP",
+        "Move forward with one foot"
+      ],
+      [
+        "BLOCK",
+        "Keep something from passing through"
+      ],
+      [
+        "PUSH",
+        "Press on a part to move it away"
+      ],
+      [
+        "SLIDE",
+        "Move smoothly along a surface"
+      ],
+      [
+        "LOCK",
+        "Fasten so it stays shut"
+      ],
+      [
+        "WALL",
+        "Upright surface on either side of the opening"
+      ],
+      [
+        "FLOOR",
+        "Bottom surface people walk on"
+      ],
+      [
+        "HINGE",
+        "Joint that lets the gate swing"
+      ]
+    ],
+    "requiredAnswers": [
+      "GATE",
+      "LATCH",
+      "DOORWAY"
+    ]
+  }
+]

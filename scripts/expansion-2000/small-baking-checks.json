@@ -1,0 +1,322 @@
+[
+  {
+    "id": "small-baking-checks",
+    "title": "Covering a Pie Edge with a Foil Ring",
+    "description": "A loose ring of foil shields the pastry at the rim while the center continues to bake.",
+    "words": [
+      [
+        "FOIL",
+        "Thin metal sheet bent around the rim"
+      ],
+      [
+        "EDGE",
+        "Outer part of the pastry that can brown first"
+      ],
+      [
+        "SHIELD",
+        "Protect the outer crust from direct oven heat"
+      ],
+      [
+        "PIE",
+        "Pastry dish with a filling"
+      ],
+      [
+        "OVEN",
+        "Heated chamber for baking"
+      ],
+      [
+        "TIN",
+        "Metal container with a lid"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "CENTER",
+        "Middle of an object or place"
+      ],
+      [
+        "CRUST",
+        "Outer baked layer of bread"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "WRAP",
+        "Cover with flexible paper or fabric"
+      ],
+      [
+        "LOOSE",
+        "Not tightly attached"
+      ]
+    ],
+    "requiredAnswers": [
+      "FOIL",
+      "EDGE",
+      "SHIELD"
+    ]
+  },
+  {
+    "id": "small-baking-checks-2",
+    "title": "Lifting a Bar Cookie Batch by Its Paper Ends",
+    "description": "Paper extending above two sides gives the baker something to hold while lifting the cooled bars from the pan.",
+    "words": [
+      [
+        "ENDS",
+        "Paper edges projecting above opposite sides"
+      ],
+      [
+        "LIFT",
+        "Raise the whole sheet of cookies out of the pan"
+      ],
+      [
+        "BARS",
+        "Flat rectangular pieces cut from one baked batch"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "PAN",
+        "Shallow metal cooking vessel"
+      ],
+      [
+        "COOL",
+        "Slightly cold"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ],
+      [
+        "HANDLE",
+        "Part held when carrying or using something"
+      ],
+      [
+        "SHEET",
+        "Broad thin piece of paper, cloth, or metal"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "TRAY",
+        "Shallow holder with a flat base"
+      ],
+      [
+        "LEVEL",
+        "Tool that checks a horizontal line"
+      ],
+      [
+        "CRUMB",
+        "Tiny piece broken from bread"
+      ]
+    ],
+    "requiredAnswers": [
+      "ENDS",
+      "LIFT",
+      "BARS"
+    ]
+  },
+  {
+    "id": "small-baking-checks-3",
+    "title": "Checking a Cake with a Wooden Pick",
+    "description": "A small pick goes into the center briefly, then is pulled out to see what sticks to it.",
+    "words": [
+      [
+        "PICK",
+        "Short pointed piece of wood used to check the cake"
+      ],
+      [
+        "CENTER",
+        "Middle of the baked cake"
+      ],
+      [
+        "CRUMBS",
+        "Small pieces of cake that may stick to the wood"
+      ],
+      [
+        "CAKE",
+        "Sweet baked dessert often covered with icing"
+      ],
+      [
+        "BAKE",
+        "Cook with dry oven heat"
+      ],
+      [
+        "OVEN",
+        "Kitchen appliance used to bake bread"
+      ],
+      [
+        "STICK",
+        "Small thin piece of wood"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ],
+      [
+        "POINT",
+        "Sharp or narrow end of an object"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "PICK",
+      "CENTER",
+      "CRUMBS"
+    ]
+  },
+  {
+    "id": "small-baking-checks-4",
+    "title": "Setting Paper Liners in a Muffin Pan",
+    "description": "A folded paper liner settles into each cup, ready to hold the batter as it bakes.",
+    "words": [
+      [
+        "LINERS",
+        "Thin paper cups set into the metal pan"
+      ],
+      [
+        "MUFFIN",
+        "Small baked good cooked in its own cup"
+      ],
+      [
+        "BATTER",
+        "Soft mixture later poured inside the paper"
+      ],
+      [
+        "PAN",
+        "Flat-bottomed vessel used on a stove"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "PAPER",
+        "Material made into thin sheets"
+      ],
+      [
+        "FOLD",
+        "Bend one part over another"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "FILL",
+        "Put contents into an empty container"
+      ],
+      [
+        "BAKE",
+        "Prepare bread using oven heat"
+      ],
+      [
+        "STAND",
+        "Support on which an object rests"
+      ],
+      [
+        "POUR",
+        "Tip liquid from one container into another"
+      ],
+      [
+        "TOP",
+        "Part opposite the bottom"
+      ]
+    ],
+    "requiredAnswers": [
+      "LINERS",
+      "MUFFIN",
+      "BATTER"
+    ]
+  },
+  {
+    "id": "small-baking-checks-5",
+    "title": "Marking Two Loaves with Different Lines",
+    "description": "A light cut across the top of each loaf gives the bread two different marks to look for after baking.",
+    "words": [
+      [
+        "LOAVES",
+        "Whole portions of bread shaped for baking"
+      ],
+      [
+        "CUT",
+        "Make a short line in the top of the dough"
+      ],
+      [
+        "MARK",
+        "Line that helps identify one loaf from another"
+      ],
+      [
+        "DOUGH",
+        "Unbaked mixture of flour and liquid"
+      ],
+      [
+        "BREAD",
+        "Food baked from flour and dough"
+      ],
+      [
+        "TOP",
+        "Surface farthest above the floor"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ],
+      [
+        "BAKE",
+        "Cook a cake in an oven"
+      ],
+      [
+        "OVEN",
+        "Kitchen appliance used to bake bread"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ],
+      [
+        "SOFT",
+        "Easy to press"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "CHECK",
+        "Examine something to make sure it is ready"
+      ]
+    ],
+    "requiredAnswers": [
+      "LOAVES",
+      "CUT",
+      "MARK"
+    ]
+  }
+]

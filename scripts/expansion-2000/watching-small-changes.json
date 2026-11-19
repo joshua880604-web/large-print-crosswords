@@ -1,0 +1,322 @@
+[
+  {
+    "id": "watching-small-changes",
+    "title": "A Balloon That Sticks after Rubbing on Wool",
+    "description": "After the outside of the balloon is rubbed with wool, the balloon can cling to a wall briefly.",
+    "words": [
+      [
+        "BALLOON",
+        "Thin rubber bag filled with air"
+      ],
+      [
+        "CLING",
+        "Hold against a surface for a short time"
+      ],
+      [
+        "WOOL",
+        "Material from sheep used to rub the balloon"
+      ],
+      [
+        "WALL",
+        "Upright side of a room or building"
+      ],
+      [
+        "RUB",
+        "Move a cloth back and forth against a surface"
+      ],
+      [
+        "AIR",
+        "What fills the space around us and lets us breathe"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "FLOAT",
+        "Stay on top of a liquid without sinking"
+      ],
+      [
+        "HOLD",
+        "Keep something in place"
+      ],
+      [
+        "PULL",
+        "Draw something toward you"
+      ],
+      [
+        "LIGHT",
+        "Brightness making objects visible"
+      ],
+      [
+        "FABRIC",
+        "Material used for sewing"
+      ],
+      [
+        "SURFACE",
+        "Top layer of the water"
+      ]
+    ],
+    "requiredAnswers": [
+      "BALLOON",
+      "CLING",
+      "WOOL"
+    ]
+  },
+  {
+    "id": "watching-small-changes-2",
+    "title": "Salt Grains Left behind on a Dark Plate",
+    "description": "A thin puddle of salt water dries and leaves pale grains easy to see against a dark plate.",
+    "words": [
+      [
+        "SALT",
+        "Seasoning that remains after the water dries"
+      ],
+      [
+        "GRAINS",
+        "Tiny solid pieces left on the plate"
+      ],
+      [
+        "DRY",
+        "Lose the visible water from a surface"
+      ],
+      [
+        "WHITE",
+        "Color of fresh snow"
+      ],
+      [
+        "DARK",
+        "With little or no light"
+      ],
+      [
+        "PLATE",
+        "Flat dish for serving food"
+      ],
+      [
+        "WATER",
+        "Clear liquid such as what flows from a tap"
+      ],
+      [
+        "TRACE",
+        "Draw along an outline"
+      ],
+      [
+        "SPREAD",
+        "Apply a thin layer"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "DROP",
+        "Fall a short distance or let something fall"
+      ],
+      [
+        "THIN",
+        "Having little thickness"
+      ],
+      [
+        "WET",
+        "Covered with water"
+      ]
+    ],
+    "requiredAnswers": [
+      "SALT",
+      "GRAINS",
+      "DRY"
+    ]
+  },
+  {
+    "id": "watching-small-changes-3",
+    "title": "Pressing a Coin into Soft Clay",
+    "description": "The coin leaves a circular outline and a copy of its raised design in the soft material.",
+    "words": [
+      [
+        "PRINT",
+        "Mark made by pressing a design into a surface"
+      ],
+      [
+        "COIN",
+        "Small round piece of money with a design on each face"
+      ],
+      [
+        "CLAY",
+        "Soft earth that holds a shape when pressed"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "RIM",
+        "Upper edge of a container"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "FACE",
+        "Front of the head"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "MARK",
+        "Small sign or line put on a surface"
+      ],
+      [
+        "LIFT",
+        "Raise something from where it rests"
+      ],
+      [
+        "MOLD",
+        "Form that gives a soft material a shape"
+      ],
+      [
+        "PATTERN",
+        "Repeated design of shapes"
+      ],
+      [
+        "EVEN",
+        "Steady and equal on both sides"
+      ]
+    ],
+    "requiredAnswers": [
+      "PRINT",
+      "COIN",
+      "CLAY"
+    ]
+  },
+  {
+    "id": "watching-small-changes-4",
+    "title": "A Metal Spoon Handle Warming above a Cup",
+    "description": "Heat travels through the metal from the part of the spoon in the warm drink toward its handle.",
+    "words": [
+      [
+        "SPOON",
+        "Utensil with a bowl on the end for stirring"
+      ],
+      [
+        "HANDLE",
+        "Long part held above the liquid"
+      ],
+      [
+        "HEAT",
+        "Warmth that moves through the metal"
+      ],
+      [
+        "CUP",
+        "Small drinking vessel"
+      ],
+      [
+        "WARM",
+        "Comfortably heated"
+      ],
+      [
+        "METAL",
+        "Material such as iron or copper"
+      ],
+      [
+        "SIP",
+        "Take a small mouthful of liquid"
+      ],
+      [
+        "STIR",
+        "Move a spoon around in a mixture"
+      ],
+      [
+        "TOUCH",
+        "Put a hand or finger against something"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "STEAM",
+        "Water vapor produced when water is heated"
+      ],
+      [
+        "TOP",
+        "Highest part or upper surface"
+      ],
+      [
+        "TEA",
+        "Drink made by steeping dried leaves"
+      ]
+    ],
+    "requiredAnswers": [
+      "SPOON",
+      "HANDLE",
+      "HEAT"
+    ]
+  },
+  {
+    "id": "watching-small-changes-5",
+    "title": "A Raindrop Making a Window Look Upside Down",
+    "description": "A round drop on the glass bends the light and can show a tiny upside-down view of what is outside.",
+    "words": [
+      [
+        "DROP",
+        "Small round amount of rainwater"
+      ],
+      [
+        "BEND",
+        "Change the direction in which light travels"
+      ],
+      [
+        "VIEW",
+        "What someone can see through the rounded water"
+      ],
+      [
+        "LIGHT",
+        "Illumination that lets us see"
+      ],
+      [
+        "WET",
+        "Covered with or containing liquid water"
+      ],
+      [
+        "ROUND",
+        "Curved rather than square at the edges"
+      ],
+      [
+        "GLASS",
+        "Hard transparent material"
+      ],
+      [
+        "PANE",
+        "One flat piece of glass in a window"
+      ],
+      [
+        "CLEAR",
+        "Transparent rather than cloudy"
+      ],
+      [
+        "SHAPE",
+        "Outline or form of an object"
+      ],
+      [
+        "RAIN",
+        "Water falling from clouds"
+      ],
+      [
+        "TINY",
+        "Very small"
+      ],
+      [
+        "LENS",
+        "Curved glass that focuses light"
+      ]
+    ],
+    "requiredAnswers": [
+      "DROP",
+      "BEND",
+      "VIEW"
+    ]
+  }
+]

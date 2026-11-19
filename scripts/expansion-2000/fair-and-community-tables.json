@@ -1,0 +1,342 @@
+[
+  {
+    "id": "fair-and-community-tables",
+    "title": "Guessing the Number of Buttons in a Jar",
+    "description": "Visitors study a jar of loose buttons and write down how many they think it holds.",
+    "words": [
+      [
+        "BUTTONS",
+        "Small fasteners with holes for thread"
+      ],
+      [
+        "GUESS",
+        "Give an answer without knowing for sure"
+      ],
+      [
+        "COUNT",
+        "Find the exact number of objects"
+      ],
+      [
+        "JAR",
+        "Clear container that holds the buttons"
+      ],
+      [
+        "SLIP",
+        "Little piece of paper for an entry"
+      ],
+      [
+        "ENTRY",
+        "One player's guess turned in to the booth"
+      ],
+      [
+        "PENCIL",
+        "Writing tool whose marks can be erased"
+      ],
+      [
+        "PILE",
+        "Group of loose buttons lying on top of one another"
+      ],
+      [
+        "CLOSE",
+        "Near the correct number"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "HOLES",
+        "Openings where sewing thread passes"
+      ],
+      [
+        "PRIZE",
+        "Reward for the winner"
+      ],
+      [
+        "GLASS",
+        "Clear material the jar is made from"
+      ],
+      [
+        "TOTAL",
+        "Whole number after everything is counted"
+      ]
+    ],
+    "requiredAnswers": [
+      "BUTTONS",
+      "GUESS",
+      "COUNT"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-2",
+    "title": "A Wrist Stamp for Coming Back In",
+    "description": "An ink mark on the wrist lets visitors step outside the fair and return through its entrance.",
+    "words": [
+      [
+        "WRIST",
+        "Part of the arm next to the hand"
+      ],
+      [
+        "STAMP",
+        "Mark made by pressing an inked design down"
+      ],
+      [
+        "RETURN",
+        "Come back to the place you left"
+      ],
+      [
+        "INK",
+        "Colored liquid that leaves a mark"
+      ],
+      [
+        "GATE",
+        "Opening visitors use to enter the fair"
+      ],
+      [
+        "SHOW",
+        "Let the person at the gate see the mark"
+      ],
+      [
+        "ENTRY",
+        "Act of going into the grounds"
+      ],
+      [
+        "SKIN",
+        "Outer covering that takes the mark"
+      ],
+      [
+        "DRY",
+        "Lose enough moisture for the ink to stop smearing"
+      ],
+      [
+        "WAIT",
+        "Stay in place for a short time"
+      ],
+      [
+        "FADE",
+        "Become lighter and harder to see"
+      ],
+      [
+        "PRESS",
+        "Push the design against the wrist"
+      ],
+      [
+        "PASS",
+        "Go through the opening"
+      ],
+      [
+        "ARM",
+        "Part of the body between shoulder and hand"
+      ]
+    ],
+    "requiredAnswers": [
+      "WRIST",
+      "STAMP",
+      "RETURN"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-3",
+    "title": "Drawing a Number from a Raffle Drum",
+    "description": "A helper turns a wire drum to mix the tickets before drawing one and reading its number.",
+    "words": [
+      [
+        "RAFFLE",
+        "Drawing that awards a prize to a ticket holder"
+      ],
+      [
+        "DRUM",
+        "Round container that turns to mix the tickets"
+      ],
+      [
+        "DRAW",
+        "Pull one ticket out by chance"
+      ],
+      [
+        "TICKET",
+        "Paper with a number that might be called"
+      ],
+      [
+        "MIX",
+        "Move the tickets around together"
+      ],
+      [
+        "TURN",
+        "Move the handle in a circle"
+      ],
+      [
+        "LUCK",
+        "Chance that brings a good result"
+      ],
+      [
+        "PRIZE",
+        "Object awarded to the winning ticket holder"
+      ],
+      [
+        "WIRE",
+        "Thin metal that forms the open sides"
+      ],
+      [
+        "READ",
+        "Say the printed number out loud"
+      ],
+      [
+        "HANDLE",
+        "Part the helper holds to turn the container"
+      ],
+      [
+        "DROP",
+        "Let a ticket fall into the container"
+      ],
+      [
+        "WINNER",
+        "Person who holds the matching ticket"
+      ],
+      [
+        "OPEN",
+        "Move the little door so a hand can go in"
+      ]
+    ],
+    "requiredAnswers": [
+      "RAFFLE",
+      "DRUM",
+      "DRAW"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-4",
+    "title": "Tearing a Phone Number from a Notice",
+    "description": "Narrow strips at the bottom let a reader take the contact number and leave the message for others.",
+    "words": [
+      [
+        "STRIP",
+        "Long narrow piece of paper"
+      ],
+      [
+        "TEAR",
+        "Pull the paper apart along a cut"
+      ],
+      [
+        "NOTICE",
+        "Public message posted for people to read"
+      ],
+      [
+        "PHONE",
+        "Device used to call the contact person"
+      ],
+      [
+        "DIGITS",
+        "Numerals that make up the contact number"
+      ],
+      [
+        "BOTTOM",
+        "Lowest part of the posted sheet"
+      ],
+      [
+        "PAPER",
+        "Thin material used for the announcement"
+      ],
+      [
+        "TAB",
+        "Small piece that sticks out for a finger to grab"
+      ],
+      [
+        "TAKE",
+        "Carry one strip away"
+      ],
+      [
+        "CALL",
+        "Reach a person by telephone"
+      ],
+      [
+        "PULL",
+        "Tug on the paper to detach it"
+      ],
+      [
+        "CUTS",
+        "Short slits between the strips"
+      ],
+      [
+        "POST",
+        "Put the message where others can read it"
+      ],
+      [
+        "READ",
+        "Look at written words for their meaning"
+      ]
+    ],
+    "requiredAnswers": [
+      "STRIP",
+      "TEAR",
+      "NOTICE"
+    ]
+  },
+  {
+    "id": "fair-and-community-tables-5",
+    "title": "Finding a Name Badge at a Reunion",
+    "description": "Badges laid out by last name give returning classmates a quick way to recognize one another.",
+    "words": [
+      [
+        "BADGE",
+        "Small label worn to show who you are"
+      ],
+      [
+        "NAME",
+        "Word identifying the person on the badge"
+      ],
+      [
+        "CLIP",
+        "Fastener that grips the edge of a shirt"
+      ],
+      [
+        "TABLE",
+        "Flat surface where the badges are set out"
+      ],
+      [
+        "ALPHABET",
+        "Order from A through Z"
+      ],
+      [
+        "ROW",
+        "Line of labels arranged side by side"
+      ],
+      [
+        "SCHOOL",
+        "Place where the former classmates studied"
+      ],
+      [
+        "VISITOR",
+        "Person arriving for the event"
+      ],
+      [
+        "PRINT",
+        "Write with separate rather than joined letters"
+      ],
+      [
+        "GUEST",
+        "Person invited to the reunion"
+      ],
+      [
+        "FIND",
+        "Locate your label among the others"
+      ],
+      [
+        "WEAR",
+        "Have the badge on your clothing"
+      ],
+      [
+        "READ",
+        "Look at a badge and say what it says"
+      ],
+      [
+        "CLASS",
+        "Group that studied together"
+      ]
+    ],
+    "requiredAnswers": [
+      "BADGE",
+      "NAME",
+      "CLIP"
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "shopping-and-returning",
+    "title": "Using a Paper Grocery Coupon",
+    "description": "Look for the date and the item size before handing the clipped coupon to the cashier.",
+    "words": [
+      [
+        "COUPON",
+        "Slip that gives a discount"
+      ],
+      [
+        "CASHIER",
+        "Clerk who takes payment"
+      ],
+      [
+        "EXPIRES",
+        "Stops being valid after a certain date"
+      ],
+      [
+        "CLIP",
+        "Cut out of the printed page"
+      ],
+      [
+        "SIZE",
+        "How large a box or bag is"
+      ],
+      [
+        "SALE",
+        "Period when prices go down"
+      ],
+      [
+        "BRAND",
+        "Name a maker puts on a product"
+      ],
+      [
+        "LIMIT",
+        "Highest number you are allowed"
+      ],
+      [
+        "SCANNER",
+        "Device that reads a bar code"
+      ],
+      [
+        "PAPER",
+        "Material in a grocery flyer"
+      ],
+      [
+        "SAVE",
+        "Spend less money"
+      ],
+      [
+        "AISLE",
+        "Walkway between shelves"
+      ],
+      [
+        "CENTS",
+        "Money units that make up a dollar"
+      ],
+      [
+        "OFFER",
+        "Deal a store makes available"
+      ]
+    ],
+    "requiredAnswers": [
+      "COUPON",
+      "CASHIER",
+      "EXPIRES"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-2",
+    "title": "Returning a Shirt at the Service Desk",
+    "description": "The receipt and tag help a clerk match the shirt to the earlier purchase.",
+    "words": [
+      [
+        "RECEIPT",
+        "Slip showing what you paid"
+      ],
+      [
+        "REFUND",
+        "Money given back for an item"
+      ],
+      [
+        "SHIRT",
+        "Piece of clothing with sleeves"
+      ],
+      [
+        "DESK",
+        "Counter where the clerk helps"
+      ],
+      [
+        "CREDIT",
+        "Amount put back on a card"
+      ],
+      [
+        "RETURN",
+        "Take a purchase back to the store"
+      ],
+      [
+        "FIT",
+        "How well a garment suits your size"
+      ],
+      [
+        "TAG",
+        "Label attached to new clothing"
+      ],
+      [
+        "CLERK",
+        "Store worker who assists you"
+      ],
+      [
+        "PRICE",
+        "Amount charged for something"
+      ],
+      [
+        "DATE",
+        "Day shown on proof of purchase"
+      ],
+      [
+        "FOLD",
+        "Bend the fabric over itself"
+      ],
+      [
+        "SIZE",
+        "Clothing label such as medium"
+      ],
+      [
+        "BAG",
+        "Container with handles for carrying purchases"
+      ]
+    ],
+    "requiredAnswers": [
+      "RECEIPT",
+      "REFUND",
+      "SHIRT"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-3",
+    "title": "Returning Bottles for a Deposit",
+    "description": "At a bottle return, the marked amount is paid back on eligible empty containers.",
+    "words": [
+      [
+        "BOTTLE",
+        "Container with a narrow neck"
+      ],
+      [
+        "DEPOSIT",
+        "Small fee returned when a container is brought back"
+      ],
+      [
+        "EMPTY",
+        "With nothing left inside"
+      ],
+      [
+        "CRATE",
+        "Open box used to carry bottles"
+      ],
+      [
+        "COUNT",
+        "Find how many there are"
+      ],
+      [
+        "GLASS",
+        "Clear material that can break"
+      ],
+      [
+        "RINSE",
+        "Wash lightly with plain water"
+      ],
+      [
+        "CAP",
+        "Small lid at the top of a bottle"
+      ],
+      [
+        "CASH",
+        "Money in bills and coins"
+      ],
+      [
+        "BIN",
+        "Large container for sorting items"
+      ],
+      [
+        "STAMP",
+        "Printed mark that can show the refund amount"
+      ],
+      [
+        "STACK",
+        "Put containers one above another"
+      ],
+      [
+        "VALUE",
+        "Amount something is worth"
+      ],
+      [
+        "CANS",
+        "Metal drink containers"
+      ]
+    ],
+    "requiredAnswers": [
+      "BOTTLE",
+      "DEPOSIT",
+      "EMPTY"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-4",
+    "title": "A Bunch of Bananas on the Checkout Scale",
+    "description": "The scale gives the weight that is used to find the price of a bunch of bananas.",
+    "words": [
+      [
+        "BANANAS",
+        "Long curved fruits with yellow skins"
+      ],
+      [
+        "SCALE",
+        "Device that measures how heavy something is"
+      ],
+      [
+        "POUND",
+        "Unit of weight with sixteen ounces"
+      ],
+      [
+        "BUNCH",
+        "Group of fruits joined at the stems"
+      ],
+      [
+        "PEEL",
+        "Outer covering of the fruit"
+      ],
+      [
+        "PRICE",
+        "Amount you pay for the purchase"
+      ],
+      [
+        "NUMBER",
+        "Digits on the little sticker"
+      ],
+      [
+        "TOTAL",
+        "Full cost shown at the end"
+      ],
+      [
+        "TRAY",
+        "Flat part of the scale that holds the fruit"
+      ],
+      [
+        "ZERO",
+        "What an empty scale should read"
+      ],
+      [
+        "DISPLAY",
+        "Screen that shows the weight"
+      ],
+      [
+        "ITEM",
+        "One thing being bought"
+      ],
+      [
+        "LABEL",
+        "Small sticker on the fruit"
+      ],
+      [
+        "RING",
+        "Enter the total on a cash register"
+      ]
+    ],
+    "requiredAnswers": [
+      "BANANAS",
+      "SCALE",
+      "POUND"
+    ]
+  },
+  {
+    "id": "shopping-and-returning-5",
+    "title": "Finding a Matching Lid at the Thrift Store",
+    "description": "The new-to-you lid must sit flat on the rim of the pot when you try it at home.",
+    "words": [
+      [
+        "LID",
+        "Removable top of a pot"
+      ],
+      [
+        "MATCH",
+        "Find two things that fit together"
+      ],
+      [
+        "RIM",
+        "Round edge at the top of a pot"
+      ],
+      [
+        "DIAMETER",
+        "Distance across a circle through the center"
+      ],
+      [
+        "MEASURE",
+        "Find how wide something is"
+      ],
+      [
+        "KNOB",
+        "Round part to grip on top"
+      ],
+      [
+        "GLASS",
+        "Clear material used for some lids"
+      ],
+      [
+        "ROUND",
+        "Shaped like a circle"
+      ],
+      [
+        "HANDLE",
+        "Part you grip to lift a pot"
+      ],
+      [
+        "WIDTH",
+        "Distance from one side to the other"
+      ],
+      [
+        "METAL",
+        "Hard material such as steel"
+      ],
+      [
+        "SNUG",
+        "Fitting closely"
+      ],
+      [
+        "FLAT",
+        "Even across a surface"
+      ],
+      [
+        "THRIFT",
+        "Word in the name of a shop selling used goods"
+      ]
+    ],
+    "requiredAnswers": [
+      "LID",
+      "MATCH",
+      "RIM"
+    ]
+  }
+]

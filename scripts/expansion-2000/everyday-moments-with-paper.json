@@ -1,0 +1,318 @@
+[
+  {
+    "id": "everyday-moments-with-paper",
+    "title": "Reading a Fruit Box Label from the End of a Stack",
+    "description": "The printed end is turned outward so the person sorting the boxes can see what each one holds.",
+    "words": [
+      [
+        "LABEL",
+        "Printed piece that identifies what is in the box"
+      ],
+      [
+        "STACK",
+        "Pile with several boxes arranged on top of each other"
+      ],
+      [
+        "END",
+        "Short side of the box facing the reader"
+      ],
+      [
+        "FRUIT",
+        "Sweet produce such as an apple"
+      ],
+      [
+        "BOX",
+        "Container with a base and sides"
+      ],
+      [
+        "TURN",
+        "Change which way something faces"
+      ],
+      [
+        "CRATE",
+        "Sturdy open container used to transport harvested fruit"
+      ],
+      [
+        "COLOR",
+        "Hue, such as red or blue"
+      ],
+      [
+        "PAPER",
+        "Thin material used for writing, printing, or wrapping"
+      ],
+      [
+        "READ",
+        "Look at writing or markings to understand them"
+      ],
+      [
+        "NAME",
+        "Word identifying a person"
+      ],
+      [
+        "SIDE",
+        "Part along the outside edge of an object"
+      ],
+      [
+        "LINE",
+        "Long narrow mark on a surface"
+      ]
+    ],
+    "requiredAnswers": [
+      "LABEL",
+      "STACK",
+      "END"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-2",
+    "title": "Tucking a Printed Recipe into a Clear Pocket",
+    "description": "The paper can be read through the pocket and moved away from the mixing bowl after use.",
+    "words": [
+      [
+        "POCKET",
+        "Clear holder that keeps a paper recipe in place"
+      ],
+      [
+        "RECIPE",
+        "Printed list of ingredients and steps"
+      ],
+      [
+        "CLEAR",
+        "Made so the reader can see through it"
+      ],
+      [
+        "SPLASH",
+        "Scatter drops onto a nearby surface"
+      ],
+      [
+        "WIPE",
+        "Draw a cloth over the surface to clean it"
+      ],
+      [
+        "PAPER",
+        "Material made into thin sheets"
+      ],
+      [
+        "READ",
+        "Find the meaning of written words"
+      ],
+      [
+        "BOWL",
+        "Deep round dish for food"
+      ],
+      [
+        "CARD",
+        "Stiff piece of paper that carries a message"
+      ],
+      [
+        "COUNTER",
+        "Raised surface where customers are served"
+      ],
+      [
+        "COVER",
+        "Protective top over something"
+      ],
+      [
+        "SIDE",
+        "One surface other than the front or back"
+      ],
+      [
+        "DRY",
+        "No longer wet"
+      ]
+    ],
+    "requiredAnswers": [
+      "POCKET",
+      "RECIPE",
+      "CLEAR"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-3",
+    "title": "Copying an Old Address before Replacing an Envelope",
+    "description": "The name and street are written again where they will be easier for the mail carrier to read.",
+    "words": [
+      [
+        "ADDRESS",
+        "Words and numbers that tell where mail goes"
+      ],
+      [
+        "COPY",
+        "Make a new version of the same writing"
+      ],
+      [
+        "ENVELOPE",
+        "Paper cover for a letter being sent"
+      ],
+      [
+        "POST",
+        "Upright support in a fence"
+      ],
+      [
+        "NAME",
+        "What someone is called"
+      ],
+      [
+        "WRITE",
+        "Form words with a pen"
+      ],
+      [
+        "STREET",
+        "Public road through a town"
+      ],
+      [
+        "STAMP",
+        "Mark made by pressing an inked tool down"
+      ],
+      [
+        "PAPER",
+        "Sheet on which words or pictures can be printed"
+      ],
+      [
+        "LINE",
+        "Series of things set next to each other"
+      ],
+      [
+        "PRINT",
+        "Put words or pictures on paper"
+      ],
+      [
+        "READ",
+        "Use the displayed marks or numbers to get information"
+      ],
+      [
+        "INK",
+        "Colored liquid used by a pen"
+      ]
+    ],
+    "requiredAnswers": [
+      "ADDRESS",
+      "COPY",
+      "ENVELOPE"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-4",
+    "title": "Folding a Sheet to Fit a Long Letter Envelope",
+    "description": "Two folds divide the paper into sections that fit into the envelope without bunching.",
+    "words": [
+      [
+        "FOLDS",
+        "Lines where the sheet is bent back over itself"
+      ],
+      [
+        "FIT",
+        "Go into the envelope without sticking out"
+      ],
+      [
+        "LETTER",
+        "Written message placed inside the envelope"
+      ],
+      [
+        "PAPER",
+        "Thin material that takes a mark from a pen"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "POINT",
+        "Sharp or narrow end of an object"
+      ],
+      [
+        "LINE",
+        "Row that extends in one direction"
+      ],
+      [
+        "PRESS",
+        "Push firmly against something"
+      ],
+      [
+        "MAIL",
+        "Letters delivered by the postal service"
+      ],
+      [
+        "STAMP",
+        "Small label showing that postage has been paid"
+      ],
+      [
+        "OPEN",
+        "Move a cover or barrier away from an opening"
+      ],
+      [
+        "FLAP",
+        "Folded piece that opens and closes"
+      ],
+      [
+        "SEAL",
+        "Close tightly to prevent leaks"
+      ]
+    ],
+    "requiredAnswers": [
+      "FOLDS",
+      "FIT",
+      "LETTER"
+    ]
+  },
+  {
+    "id": "everyday-moments-with-paper-5",
+    "title": "Notching the Corner of a Used Meal Ticket",
+    "description": "A small bite taken from the paper shows a meal ticket has already been used.",
+    "words": [
+      [
+        "NOTCH",
+        "Small cutout in the corner of the ticket"
+      ],
+      [
+        "MEAL",
+        "Food served in return for one ticket"
+      ],
+      [
+        "TICKET",
+        "Printed paper that admits someone to the meal"
+      ],
+      [
+        "CUT",
+        "Separate with a sharp edge"
+      ],
+      [
+        "EDGE",
+        "Outside border of a surface"
+      ],
+      [
+        "PUNCH",
+        "Fruit drink served from a large bowl"
+      ],
+      [
+        "CARD",
+        "Small stiff sheet used for written information"
+      ],
+      [
+        "USED",
+        "Previously owned rather than new"
+      ],
+      [
+        "FOOD",
+        "Something people or animals eat"
+      ],
+      [
+        "SERVE",
+        "Offer food or drink to the people at a table"
+      ],
+      [
+        "CHECK",
+        "Look over an item to see if it is right"
+      ],
+      [
+        "CLIP",
+        "Small fastener that holds things in place"
+      ]
+    ],
+    "requiredAnswers": [
+      "NOTCH",
+      "MEAL",
+      "TICKET"
+    ]
+  }
+]
