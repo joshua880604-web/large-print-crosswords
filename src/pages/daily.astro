@@ -1,5 +1,5 @@
 ---
-import Layout from '../layouts/Layout.astro';import Game from '../components/Game.astro';import puzzles from '../data/puzzles.json';
+import Layout from '../layouts/Layout.astro';import Game from '../components/Game.astro';import puzzles from '../data/current-puzzles.mjs';
 // Daily content changes when the static site is rebuilt; use America/New_York consistently.
 const date=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 const day=Math.floor(Date.parse(date+'T12:00:00Z')/86400000);const puzzle=puzzles[day%puzzles.length];

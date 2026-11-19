@@ -1,5 +1,6 @@
 ---
 import Collection from '../components/Collection.astro';
+import FeaturedPuzzle from '../components/FeaturedPuzzle.astro';
 import TopicLinks from '../components/TopicLinks.astro';
 import puzzles from '../data/puzzles.json';
 import Layout from '../layouts/Layout.astro';
@@ -42,16 +43,7 @@ const featured = [
           <div class="featured-theme">
             <h3>{theme}</h3>
             <ul>
-              {featuredPuzzles.map((puzzle) => (
-                <li>
-                  <h4>{puzzle.title}</h4>
-                  <div class="featured-links">
-                    <a href={`/print/${puzzle.id}/`} aria-label={`Print puzzle: ${puzzle.title}`}>Print puzzle</a>
-                    <a href={`/print/${puzzle.id}-answers/`} aria-label={`Print answers: ${puzzle.title}`}>Print answers</a>
-                    <a href={`/crosswords/${puzzle.id}/`} aria-label={`Play online: ${puzzle.title}`}>Play online</a>
-                  </div>
-                </li>
-              ))}
+              {featuredPuzzles.map(puzzle => <FeaturedPuzzle puzzle={puzzle} printFirst/>)}
             </ul>
           </div>
         ))}
@@ -67,15 +59,12 @@ const featured = [
 <style>
   .print-directory .page-heading { padding-top: 32px; padding-bottom: 22px; }
   .print-directory-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; margin: 18px 0 32px; }
-  .print-directory-actions a:not(.button), .featured-links a { text-decoration: underline; text-underline-offset: 3px; }
+  .print-directory-actions a:not(.button) { text-decoration: underline; text-underline-offset: 3px; }
   .featured-print { margin-bottom: 40px; }
   .featured-themes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-top: 16px; }
   .featured-theme { padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: #fffdf8; }
   .featured-theme ul { list-style: none; margin: 12px 0 0; padding: 0; }
-  .featured-theme li + li { border-top: 1px solid var(--line); padding-top: 8px; }
-  .featured-theme h4 { margin: 0; font-size: 17px; line-height: 1.4; }
-  .featured-links { display: flex; flex-wrap: wrap; gap: 0 12px; }
-  .featured-links a { display: inline-flex; align-items: center; min-height: 44px; font-size: 16px; }
+  .featured-theme ul > :global(li + li) { border-top: 1px solid var(--line); padding-top: 8px; }
   #all-puzzles { margin-bottom: 16px; }
   @media (max-width: 800px) {
     .featured-themes { grid-template-columns: minmax(0, 1fr); }

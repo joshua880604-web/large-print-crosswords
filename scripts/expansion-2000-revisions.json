@@ -1,0 +1,83 @@
+{
+  "short-jobs-around-the-house": {
+    "revision": 2,
+    "title": "Pulling Loose Hair from a Hairbrush",
+    "description": "After brushing, a few loose strands are caught between the bristles. A small comb helps lift them out.",
+    "solvingTip": "Start with the tool with a row of teeth. Then think about the thin things it lifts out of the brush.",
+    "words": {
+      "HAIRBRUSH": "Tool with rows of bristles used to smooth hair",
+      "BRISTLE": "One short, firm fiber sticking out of a brush",
+      "STRAND": "One long, thin piece of hair",
+      "COMB": "Flat tool with a row of teeth for untangling hair",
+      "TEETH": "The points in a row along a comb",
+      "PULL": "Draw something toward yourself",
+      "HANDLE": "Part of a brush you hold in your hand",
+      "GRIP": "Hold firmly with the fingers",
+      "LIFT": "Raise the loose hair out of the brush",
+      "LOOSE": "Free to come away easily",
+      "CLEAN": "Remove dirt or unwanted bits",
+      "SNAG": "Get caught on a bristle as you pull",
+      "ROW": "Line of bristles with one beside another",
+      "TRASH": "Waste that goes into the bin"
+    },
+    "notes": {
+      "HAIRBRUSH": "A hairbrush has several rows of bristles. A comb usually has a single row of teeth.",
+      "BRISTLE": "A bristle may bend as it passes through hair. Loose hairs can catch between the bristles.",
+      "STRAND": "A strand is one hair. Several strands can collect in a small bundle at the base of a brush."
+    }
+  },
+  "getting-out-the-door-4": {
+    "revision": 2,
+    "title": "Folding a Handkerchief for a Coat Pocket",
+    "description": "A clean square of cloth folds small enough to slip into a coat before a walk.",
+    "solvingTip": "Think of getting a coat ready. Try the clue for the little pouch sewn into it, then the words about making a square of cloth smaller.",
+    "words": {
+      "COTTON": "Soft fiber often used to make handkerchiefs",
+      "FOLD": "Bend a cloth so one part lies over another",
+      "POCKET": "Small pouch sewn into a coat",
+      "CLEAN": "Freshly washed and free of dirt",
+      "CREASE": "Line left where the cloth is folded",
+      "SQUARE": "Shape with four equal sides and four right angles",
+      "TUCK": "Slip an item neatly into a small space",
+      "COAT": "Outer garment worn when going out in cool weather",
+      "CLOTH": "Fabric used to make a handkerchief",
+      "SOFT": "Gentle to the touch",
+      "CORNER": "Point where two sides of the cloth meet",
+      "FIT": "Be the right size for the pocket",
+      "FLAT": "Smooth with no raised folds or lumps",
+      "HEM": "Sewn edge that keeps the cloth from fraying"
+    },
+    "notes": {
+      "COTTON": "Cotton handkerchiefs are washable and absorb moisture.",
+      "FOLD": "Bringing one half over the other makes the cloth smaller without cutting it.",
+      "POCKET": "A folded handkerchief lies flatter inside a coat and is easy to pull out."
+    }
+  },
+  "garden-birds-and-insects-4": {
+    "revision": 2,
+    "title": "A Paper Wasp Scraping Wood from a Fence",
+    "description": "A wasp works at a weathered fence, gathering tiny wood fibers that will become nest material.",
+    "solvingTip": "Begin with the clue for the barrier around the yard. Then try the clues about what the insect does with the little bits it collects.",
+    "words": {
+      "WASP": "Flying insect that chews wood to make a papery nest",
+      "SCRAPE": "Rub away a little material from the surface of a board",
+      "PAPER": "Thin material that the wasp's dried nest resembles",
+      "WOOD": "Hard material from a tree that can be cut into boards",
+      "FENCE": "Barrier made of boards around a yard",
+      "CHEW": "Work something between the jaws to break it up",
+      "FIBER": "One thin strand in a piece of wood",
+      "NEST": "Place the insect builds to raise its young",
+      "GRAY": "Color of some weathered fence boards",
+      "BOARD": "Flat piece of wood used to build a fence",
+      "WING": "Body part the insect uses to fly",
+      "DRY": "Lose moisture as the nest material hardens",
+      "MIX": "Combine wood fibers with moisture from the mouth",
+      "GATHER": "Collect small bits from several spots"
+    },
+    "notes": {
+      "WASP": "Paper wasps gather fibers from weathered wood and chew them into a soft mixture.",
+      "SCRAPE": "A wasp can work its jaws against the surface to loosen a tiny bit of wood.",
+      "PAPER": "The chewed fibers dry into thin layers that look and feel like paper."
+    }
+  }
+}

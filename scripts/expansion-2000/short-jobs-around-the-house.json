@@ -1,67 +1,72 @@
 [
   {
     "id": "short-jobs-around-the-house",
-    "title": "Putting Fresh Felt under a Small Table Lamp",
-    "description": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
+    "title": "Pulling Loose Hair from a Hairbrush",
+    "description": "After brushing, a few loose strands are caught between the bristles. A small comb helps lift them out.",
     "words": [
       [
-        "FELT",
-        "Soft thick fabric cut to fit under the lamp"
+        "HAIRBRUSH",
+        "Tool with rows of bristles used to smooth hair"
       ],
       [
-        "BASE",
-        "Bottom part that rests on the table"
+        "BRISTLE",
+        "One short, firm fiber sticking out of a brush"
       ],
       [
-        "SCRATCH",
-        "Thin mark left by a rough edge"
+        "STRAND",
+        "One long, thin piece of hair"
       ],
       [
-        "LAMP",
-        "Light set on a table"
+        "COMB",
+        "Flat tool with a row of teeth for untangling hair"
       ],
       [
-        "CIRCLE",
-        "Round shape with no corners"
+        "TEETH",
+        "The points in a row along a comb"
       ],
       [
-        "PRESS",
-        "Push firmly against something"
+        "PULL",
+        "Draw something toward yourself"
       ],
       [
-        "STICK",
-        "Small thin piece of wood"
+        "HANDLE",
+        "Part of a brush you hold in your hand"
       ],
       [
-        "PAD",
-        "Small soft cushion placed under something"
+        "GRIP",
+        "Hold firmly with the fingers"
       ],
       [
-        "TABLE",
-        "Furniture with a flat top and legs"
+        "LIFT",
+        "Raise the loose hair out of the brush"
       ],
       [
-        "SLIDE",
-        "Move smoothly along a surface"
+        "LOOSE",
+        "Free to come away easily"
       ],
       [
-        "CUT",
-        "Separate with a sharp edge"
+        "CLEAN",
+        "Remove dirt or unwanted bits"
       ],
       [
-        "ROUND",
-        "Shaped like a circle"
+        "SNAG",
+        "Get caught on a bristle as you pull"
       ],
       [
-        "EDGE",
-        "Outside border of a surface"
+        "ROW",
+        "Line of bristles with one beside another"
+      ],
+      [
+        "TRASH",
+        "Waste that goes into the bin"
       ]
     ],
     "requiredAnswers": [
-      "FELT",
-      "BASE",
-      "SCRATCH"
-    ]
+      "HAIRBRUSH",
+      "BRISTLE",
+      "STRAND"
+    ],
+    "revision": 2
   },
   {
     "id": "short-jobs-around-the-house-2",

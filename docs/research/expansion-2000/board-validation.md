@@ -1,6 +1,6 @@
 # Board validation for the 2,000-game expansion
 
-The published baseline has 1,500 games and 300 five-puzzle series. This checkout contains the complete expansion of 500 first editions and 5,305 clues across 100 series. The resulting 2,000 games include 105 optional Bible stories. The expansion is in the local draft.
+The published baseline has 1,500 games and 300 five-puzzle series. The initial expansion added 500 first editions and 5,305 clues across 100 series. The resulting 2,000 games include 105 optional Bible stories. These are the results for the initial expansion. The [page quality review](../../puzzle-page-quality-2026-11-19.md) documents three subsequent scene replacements and their preserved first editions in the local draft.
 
 ## Editorial basis
 

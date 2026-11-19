@@ -7,7 +7,7 @@ import {chromium} from '@playwright/test';
 import {originals,previousEditions} from './editorial-data.mjs';
 import {releaseScope} from './release-scope.mjs';
 
-const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
+import puzzles from '../src/data/current-puzzles.mjs';
 const corrections=JSON.parse(readFileSync(new URL('../src/data/archive-clue-clarifications.json',import.meta.url),'utf8'));
 const base=new URL(process.argv[2]||'http://127.0.0.1:4323');
 assert.ok(['127.0.0.1','localhost','[::1]'].includes(base.hostname),'Use a local production preview');

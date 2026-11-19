@@ -9661,5 +9661,360 @@
         }
       ]
     }
+  },
+  {
+    "id": "short-jobs-around-the-house",
+    "title": "Putting Fresh Felt under a Small Table Lamp",
+    "theme": "Everyday Life",
+    "subtheme": "Putting Fresh Felt under a Small Table Lamp",
+    "series": "short-jobs-around-the-house",
+    "description": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
+    "cardDescription": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "SCRATCH",
+        "clue": "Thin mark that a hard lamp base can leave on wood",
+        "row": 6,
+        "col": 1,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "CIRCLE",
+        "clue": "Round shape with no corners",
+        "row": 3,
+        "col": 6,
+        "direction": "down",
+        "number": 5
+      },
+      {
+        "answer": "SLIDE",
+        "clue": "Move smoothly along a surface",
+        "row": 6,
+        "col": 1,
+        "direction": "down",
+        "number": 7
+      },
+      {
+        "answer": "TABLE",
+        "clue": "Furniture with a flat top and legs",
+        "row": 5,
+        "col": 4,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "STICK",
+        "clue": "Stay attached to the underside of the lamp",
+        "row": 3,
+        "col": 3,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "PRESS",
+        "clue": "Push firmly against something",
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "BASE",
+        "clue": "Bottom part that rests on the table",
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "FELT",
+        "clue": "Soft thick fabric cut to fit under the lamp",
+        "row": 10,
+        "col": 0,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "LAMP",
+        "clue": "Light set on a table",
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "EDGE",
+        "clue": "Outside border of a surface",
+        "row": 8,
+        "col": 6,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "PAD",
+        "clue": "Small soft cushion placed under something",
+        "row": 0,
+        "col": 3,
+        "direction": "across",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
+      "solvingTip": "Picture the underside of the light. Try the clues for the part that rests on the table and the shape of the piece that fits it.",
+      "answerNotes": [
+        {
+          "answer": "FELT",
+          "text": "Felt is made from pressed fibers. A soft piece can cover a hard lamp base."
+        },
+        {
+          "answer": "BASE",
+          "text": "The base is the bottom that supports the whole lamp."
+        },
+        {
+          "answer": "SCRATCH",
+          "text": "A scratch is a narrow mark made as a hard or rough object moves across a surface."
+        }
+      ]
+    }
+  },
+  {
+    "id": "getting-out-the-door-4",
+    "title": "Using a Long Umbrella Stand for Walking Sticks",
+    "theme": "Everyday Life",
+    "subtheme": "Using a Long Umbrella Stand for Walking Sticks",
+    "series": "getting-out-the-door",
+    "description": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
+    "cardDescription": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 11,
+    "entries": [
+      {
+        "answer": "UPRIGHT",
+        "clue": "Standing straight up",
+        "row": 5,
+        "col": 2,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "STICKS",
+        "clue": "Long supports some walkers carry on outings",
+        "row": 3,
+        "col": 5,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HANDLE",
+        "clue": "Top of a stick that the walker grips",
+        "row": 5,
+        "col": 7,
+        "direction": "down",
+        "number": 8
+      },
+      {
+        "answer": "REACH",
+        "clue": "Stretch out an arm to get something",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 9
+      },
+      {
+        "answer": "STAND",
+        "clue": "Floor holder for several umbrellas or walking sticks",
+        "row": 3,
+        "col": 5,
+        "direction": "across",
+        "number": 6
+      },
+      {
+        "answer": "GRIP",
+        "clue": "Hold firmly with the hand",
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "LEAN",
+        "clue": "Tilt against a support",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 2
+      },
+      {
+        "answer": "DOOR",
+        "clue": "Movable panel at a room's entrance",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "BASE",
+        "clue": "Bottom part that holds something up",
+        "row": 1,
+        "col": 5,
+        "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "HOLD",
+        "clue": "Support something so it does not fall",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      }
+    ],
+    "editorial": {
+      "focus": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
+      "solvingTip": "Try the clue for the part you hold at the top of a stick. Then use the crossings to work out what keeps the sticks standing together.",
+      "answerNotes": [
+        {
+          "answer": "STAND",
+          "text": "A tall umbrella stand can keep several walking sticks together by the door."
+        },
+        {
+          "answer": "STICKS",
+          "text": "Walking sticks can vary in length, while their handles stay easy to find when the sticks are upright."
+        },
+        {
+          "answer": "HANDLE",
+          "text": "The handle is at the top where you take hold of the stick."
+        }
+      ]
+    }
+  },
+  {
+    "id": "garden-birds-and-insects-4",
+    "title": "Catching the Sound of Crickets after Sunset",
+    "theme": "Nature",
+    "subtheme": "Catching the Sound of Crickets after Sunset",
+    "series": "garden-birds-and-insects",
+    "description": "Short calls come from the grass once the air outside the porch begins to grow dark.",
+    "cardDescription": "Short calls come from the grass once the air outside the porch begins to grow dark.",
+    "difficulty": "Easy",
+    "revision": 1,
+    "rows": 11,
+    "cols": 10,
+    "entries": [
+      {
+        "answer": "CRICKET",
+        "clue": "Small insect that can make a chirping sound",
+        "row": 4,
+        "col": 3,
+        "direction": "across",
+        "number": 5
+      },
+      {
+        "answer": "GROUND",
+        "clue": "Land beneath your feet",
+        "row": 3,
+        "col": 4,
+        "direction": "down",
+        "number": 4
+      },
+      {
+        "answer": "PORCH",
+        "clue": "Covered area at a house entrance",
+        "row": 1,
+        "col": 6,
+        "direction": "down",
+        "number": 3
+      },
+      {
+        "answer": "CHIRP",
+        "clue": "Short high sound coming from the grass",
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "number": 2
+      },
+      {
+        "answer": "NIGHT",
+        "clue": "Dark time between sunset and dawn",
+        "row": 7,
+        "col": 4,
+        "direction": "across",
+        "number": 8
+      },
+      {
+        "answer": "PAUSE",
+        "clue": "Stop briefly, as between two calls",
+        "row": 0,
+        "col": 8,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "SOUND",
+        "clue": "Something a person can hear",
+        "row": 8,
+        "col": 0,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "GRASS",
+        "clue": "Short green plants growing around the porch",
+        "row": 5,
+        "col": 0,
+        "direction": "down",
+        "number": 6
+      },
+      {
+        "answer": "HIDE",
+        "clue": "Go where you cannot be seen",
+        "row": 7,
+        "col": 7,
+        "direction": "down",
+        "number": 9
+      },
+      {
+        "answer": "HEAR",
+        "clue": "Notice sound with the ears",
+        "row": 10,
+        "col": 6,
+        "direction": "across",
+        "number": 11
+      },
+      {
+        "answer": "DUSK",
+        "clue": "Time when daylight fades into evening",
+        "row": 7,
+        "col": 2,
+        "direction": "down",
+        "number": 7
+      }
+    ],
+    "editorial": {
+      "focus": "Short calls come from the grass once the air outside the porch begins to grow dark.",
+      "solvingTip": "Start with the clue for the fading light between day and night. Then listen in your mind for the short sound coming from the grass.",
+      "answerNotes": [
+        {
+          "answer": "CRICKET",
+          "text": "Many male crickets make their familiar call by rubbing parts of their wings together."
+        },
+        {
+          "answer": "CHIRP",
+          "text": "A chirp is a brief, high sound. A cricket can repeat it with pauses in between."
+        },
+        {
+          "answer": "DUSK",
+          "text": "Dusk is the time when the daylight fades after sunset."
+        }
+      ]
+    }
   }
 ]

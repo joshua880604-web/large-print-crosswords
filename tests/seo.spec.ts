@@ -13,6 +13,7 @@ test('production metadata survives query strings and matches visible breadcrumbs
  const webPage=data['@graph'].find(item=>item['@type']==='WebPage')!;
  expect(webPage.name).toEqual(await page.title());
  expect(webPage.description).toEqual(await page.locator('meta[name=description]').getAttribute('content'));
+ expect(webPage.description).toContain(ampPuzzle.description);
  const crumbs=data['@graph'].find(item=>item['@type']==='BreadcrumbList')!.itemListElement!;
  expect(crumbs.map(crumb=>crumb.name)).toEqual(['Home','Crosswords',ampPuzzle.title]);
  expect(crumbs.at(-1)!.item).toEqual(canonical);

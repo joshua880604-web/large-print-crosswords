@@ -1,5 +1,5 @@
 import {test,expect} from '@playwright/test';
-import puzzles from '../src/data/puzzles.json' with {type:'json'};
+import puzzles from '../src/data/current-puzzles.mjs';
 import gardeningOriginals from '../src/data/archives/gardening-originals.json' with {type:'json'};
 import birdOriginals from '../src/data/archives/birds-originals.json' with {type:'json'};
 import musicOriginals from '../src/data/archives/music-originals.json' with {type:'json'};
@@ -52,13 +52,40 @@ for(const series of editorialSeries)test(`edited series ${series.id} has reader 
  for(const puzzle of subjects){
   await page.goto(`/crosswords/${puzzle.id}/`);
   await expect(page.getByRole('heading',{level:1})).toHaveText(puzzle.title);
-  await expect(page.locator('.puzzle-notes')).toContainText(puzzle.editorial!.focus);
-  await expect(page.locator('.puzzle-notes')).toContainText(puzzle.editorial!.solvingTip);
+  const focus=page.locator('.puzzle-focus');
+  const focusText=puzzle.editorial.focus.trim();
+  const onlyRestatesTitle=focusText.startsWith('The setting is ')&&focusText.endsWith('. Match each clue to a thing, action, or description in that scene.');
+  if(focusText===puzzle.description.trim()||onlyRestatesTitle)await expect(focus).toHaveCount(0);
+  else await expect(focus).toHaveText(puzzle.editorial.focus);
+  const solvingTip=page.locator('.board-panel .solving-tip p');
+  await expect(solvingTip).toHaveText(puzzle.editorial!.solvingTip);
+  await expect(solvingTip).toBeHidden();
   await expect(page.locator('.answer-explanations dt')).toHaveCount(3);
   await expect(page.locator('.answer-explanations dd').first()).toBeHidden();
   await page.getByText('A closer look at three answers (spoilers)',{exact:true}).click();
   for(const note of puzzle.editorial!.answerNotes){expect(puzzle.entries.some(e=>e.answer===note.answer)).toBeTruthy();await expect(page.locator('.answer-explanations')).toContainText(note.text);}
  }
+});
+
+test('an edited clue matches the print sheet and restores existing letters',async({page})=>{
+ const puzzle=puzzles.find(p=>p.id==='useful-home-repairs-5')!;
+ const entry=puzzle.entries.find(e=>e.answer==='SLIDE')!;
+ const saved={ [`${entry.row},${entry.col}`]: 'S' };
+ const key=`lpc:v1:${puzzle.id}:edition:${puzzle.revision}`;
+ await page.goto(`/crosswords/${puzzle.id}/`);
+ await page.evaluate(({key,saved})=>localStorage.setItem(key,JSON.stringify(saved)),{key,saved});
+ await page.reload();
+ await expect(page.locator(`[data-cell="${entry.row},${entry.col}"] input`)).toHaveValue('S');
+ await expect(page.locator(`[data-entry="${entry.number}-${entry.direction}"]`)).toContainText('Move smoothly across the floor');
+ await page.getByRole('link',{name:'Print this puzzle'}).click();
+ await expect(page.locator('.print-clues')).toContainText('Move smoothly across the floor');
+ await page.getByRole('link',{name:'Separate answer sheet'}).click();
+ await expect(page.locator('.print-clues')).toContainText('SLIDE');
+ await page.goto('/print-pack/');
+ await page.getByLabel('Find a puzzle').fill(puzzle.title);
+ await page.locator(`input[value="${puzzle.id}"]`).check();
+ await page.getByRole('button',{name:'Prepare print pack'}).click();
+ await expect(page.locator('#pack-output [data-sheet-kind="clues"] .print-clues')).toContainText('Move smoothly across the floor');
 });
 
 for(const series of editorialSeries.filter(series=>'archive' in series)){

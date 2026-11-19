@@ -1,8 +1,7 @@
 // Editorial review signals, not a prediction of Google's quality classification.
-import {readFileSync,writeFileSync} from 'node:fs';
+import {writeFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
-const read=path=>JSON.parse(readFileSync(new URL(path,import.meta.url),'utf8'));
-const puzzles=read('../src/data/puzzles.json');
+import puzzles from '../src/data/current-puzzles.mjs';
 import {originals,editorialSeries,previousEditions,sourceRevisions} from './editorial-data.mjs';
 const pairKey=e=>`${e.answer}\u0000${e.clue}`;
 const base=p=>p.series||p.id.replace(/-\d+$/,'');

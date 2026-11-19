@@ -1,4 +1,16 @@
 ---
-const {editorial}=Astro.props;
+const {editorial, introduction, title}=Astro.props;
+const focus = editorial.focus.trim();
+const repeatedTitle = title && `The setting is ${title[0].toLowerCase()}${title.slice(1)}. Match each clue to a thing, action, or description in that scene.`;
+const showFocus = focus !== introduction?.trim() && focus !== repeatedTitle;
 ---
-<section class="puzzle-notes" aria-labelledby="puzzle-notes-heading"><p class="eyebrow">A LITTLE MORE ABOUT THIS PUZZLE</p><h2 id="puzzle-notes-heading">What to expect</h2><p>{editorial.focus}</p><h3>A solving tip</h3><p>{editorial.solvingTip}</p><details class="answer-explanations"><summary>A closer look at three answers (spoilers)</summary><p class="notes-intro">These notes explain a few of the words and distinctions used in this puzzle.</p><dl>{editorial.answerNotes.map(note=><div><dt>{note.answer}</dt><dd>{note.text}</dd></div>)}</dl></details></section>
+<section class="puzzle-notes" aria-label="Puzzle notes">
+  {showFocus && <>
+    <h2>What to expect</h2>
+    <p class="puzzle-focus">{editorial.focus}</p>
+  </>}
+  <details class="answer-explanations">
+    <summary>A closer look at three answers (spoilers)</summary>
+    <dl>{editorial.answerNotes.map(note => <div><dt>{note.answer}</dt><dd>{note.text}</dd></div>)}</dl>
+  </details>
+</section>

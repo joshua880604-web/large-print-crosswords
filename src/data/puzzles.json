@@ -203934,121 +203934,121 @@
   },
   {
     "id": "short-jobs-around-the-house",
-    "title": "Putting Fresh Felt under a Small Table Lamp",
+    "title": "Pulling Loose Hair from a Hairbrush",
     "theme": "Everyday Life",
-    "subtheme": "Putting Fresh Felt under a Small Table Lamp",
+    "subtheme": "Pulling Loose Hair from a Hairbrush",
     "series": "short-jobs-around-the-house",
-    "description": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
-    "cardDescription": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
+    "description": "After brushing, a few loose strands are caught between the bristles. A small comb helps lift them out.",
+    "cardDescription": "After brushing, a few loose strands are caught between the bristles. A small comb helps lift them out.",
     "difficulty": "Easy",
-    "revision": 1,
+    "revision": 2,
     "rows": 11,
-    "cols": 10,
+    "cols": 11,
     "entries": [
       {
-        "answer": "SCRATCH",
-        "clue": "Thin mark left by a rough edge",
-        "row": 6,
+        "answer": "HAIRBRUSH",
+        "clue": "Tool with rows of bristles used to smooth hair",
+        "row": 5,
         "col": 1,
         "direction": "across",
         "number": 7
       },
       {
-        "answer": "CIRCLE",
-        "clue": "Round shape with no corners",
+        "answer": "BRISTLE",
+        "clue": "One short, firm fiber sticking out of a brush",
         "row": 3,
-        "col": 6,
+        "col": 3,
         "direction": "down",
         "number": 5
       },
       {
-        "answer": "SLIDE",
-        "clue": "Move smoothly along a surface",
-        "row": 6,
+        "answer": "HANDLE",
+        "clue": "Part of a brush you hold in your hand",
+        "row": 5,
         "col": 1,
         "direction": "down",
         "number": 7
       },
       {
-        "answer": "TABLE",
-        "clue": "Furniture with a flat top and legs",
+        "answer": "STRAND",
+        "clue": "One long, thin piece of hair",
         "row": 5,
-        "col": 4,
+        "col": 8,
         "direction": "down",
-        "number": 6
+        "number": 8
       },
       {
-        "answer": "STICK",
-        "clue": "Small thin piece of wood",
-        "row": 3,
-        "col": 3,
-        "direction": "across",
-        "number": 4
-      },
-      {
-        "answer": "PRESS",
-        "clue": "Push firmly against something",
-        "row": 0,
-        "col": 3,
-        "direction": "down",
-        "number": 1
-      },
-      {
-        "answer": "BASE",
-        "clue": "Bottom part that rests on the table",
-        "row": 2,
-        "col": 0,
-        "direction": "across",
-        "number": 3
-      },
-      {
-        "answer": "FELT",
-        "clue": "Soft thick fabric cut to fit under the lamp",
-        "row": 10,
-        "col": 0,
-        "direction": "across",
-        "number": 9
-      },
-      {
-        "answer": "LAMP",
-        "clue": "Light set on a table",
+        "answer": "TEETH",
+        "clue": "The points in a row along a comb",
         "row": 1,
-        "col": 1,
+        "col": 9,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "EDGE",
-        "clue": "Outside border of a surface",
-        "row": 8,
+        "answer": "TRASH",
+        "clue": "Waste that goes into the bin",
+        "row": 4,
         "col": 6,
-        "direction": "across",
-        "number": 8
+        "direction": "down",
+        "number": 6
       },
       {
-        "answer": "PAD",
-        "clue": "Small soft cushion placed under something",
-        "row": 0,
-        "col": 3,
+        "answer": "LOOSE",
+        "clue": "Free to come away easily",
+        "row": 2,
+        "col": 5,
         "direction": "across",
+        "number": 3
+      },
+      {
+        "answer": "COMB",
+        "clue": "Flat tool with a row of teeth for untangling hair",
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "number": 4
+      },
+      {
+        "answer": "SNAG",
+        "clue": "Get caught on a bristle as you pull",
+        "row": 9,
+        "col": 7,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "PULL",
+        "clue": "Draw something toward yourself",
+        "row": 0,
+        "col": 5,
+        "direction": "down",
         "number": 1
+      },
+      {
+        "answer": "ROW",
+        "clue": "Line of bristles with one beside another",
+        "row": 7,
+        "col": 8,
+        "direction": "across",
+        "number": 9
       }
     ],
     "editorial": {
-      "focus": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table.",
-      "solvingTip": "Look for \u201cSoft thick fabric cut to fit under the lamp\u201d and try F as its first letter.",
+      "focus": "After brushing, a few loose strands are caught between the bristles. A small comb helps lift them out.",
+      "solvingTip": "Start with the tool with a row of teeth. Then think about the thin things it lifts out of the brush.",
       "answerNotes": [
         {
-          "answer": "FELT",
-          "text": "A circular piece of felt covers the hard underside so the lamp base can slide without scratching the table."
+          "answer": "HAIRBRUSH",
+          "text": "A hairbrush has several rows of bristles. A comb usually has a single row of teeth."
         },
         {
-          "answer": "BASE",
-          "text": "Bottom part that rests on the table."
+          "answer": "BRISTLE",
+          "text": "A bristle may bend as it passes through hair. Loose hairs can catch between the bristles."
         },
         {
-          "answer": "SCRATCH",
-          "text": "Thin mark left by a rough edge."
+          "answer": "STRAND",
+          "text": "A strand is one hair. Several strands can collect in a small bundle at the base of a brush."
         }
       ]
     }
@@ -205475,113 +205475,121 @@
   },
   {
     "id": "getting-out-the-door-4",
-    "title": "Using a Long Umbrella Stand for Walking Sticks",
+    "title": "Folding a Handkerchief for a Coat Pocket",
     "theme": "Everyday Life",
-    "subtheme": "Using a Long Umbrella Stand for Walking Sticks",
+    "subtheme": "Folding a Handkerchief for a Coat Pocket",
     "series": "getting-out-the-door",
-    "description": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
-    "cardDescription": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
+    "description": "A clean square of cloth folds small enough to slip into a coat before a walk.",
+    "cardDescription": "A clean square of cloth folds small enough to slip into a coat before a walk.",
     "difficulty": "Easy",
-    "revision": 1,
-    "rows": 11,
+    "revision": 2,
+    "rows": 9,
     "cols": 11,
     "entries": [
       {
-        "answer": "UPRIGHT",
-        "clue": "Standing straight up",
-        "row": 5,
+        "answer": "POCKET",
+        "clue": "Small pouch sewn into a coat",
+        "row": 3,
         "col": 2,
         "direction": "across",
-        "number": 7
+        "number": 4
       },
       {
-        "answer": "STICKS",
-        "clue": "Long supports some walkers carry on outings",
+        "answer": "CORNER",
+        "clue": "Point where two sides of the cloth meet",
         "row": 3,
-        "col": 5,
+        "col": 4,
         "direction": "down",
-        "number": 6
+        "number": 5
       },
       {
-        "answer": "HANDLE",
-        "clue": "Top of a stick that the walker grips",
-        "row": 5,
+        "answer": "COTTON",
+        "clue": "Soft fiber often used to make handkerchiefs",
+        "row": 1,
         "col": 7,
         "direction": "down",
-        "number": 8
+        "number": 3
       },
       {
-        "answer": "REACH",
-        "clue": "Stretch out an arm to get something",
-        "row": 10,
-        "col": 6,
+        "answer": "CREASE",
+        "clue": "Line left where the cloth is folded",
+        "row": 8,
+        "col": 3,
+        "direction": "across",
+        "number": 10
+      },
+      {
+        "answer": "CLEAN",
+        "clue": "Freshly washed and free of dirt",
+        "row": 6,
+        "col": 0,
         "direction": "across",
         "number": 9
       },
       {
-        "answer": "STAND",
-        "clue": "Tall holder that supports long objects from the floor",
-        "row": 3,
-        "col": 5,
+        "answer": "SOFT",
+        "clue": "Gentle to the touch",
+        "row": 5,
+        "col": 6,
         "direction": "across",
-        "number": 6
+        "number": 8
       },
       {
-        "answer": "GRIP",
-        "clue": "Hold firmly with the hand",
-        "row": 2,
-        "col": 3,
+        "answer": "FOLD",
+        "clue": "Bend a cloth so one part lies over another",
+        "row": 4,
+        "col": 1,
         "direction": "down",
-        "number": 4
+        "number": 7
       },
       {
-        "answer": "LEAN",
-        "clue": "Tilt against a support",
+        "answer": "TUCK",
+        "clue": "Slip an item neatly into a small space",
         "row": 0,
-        "col": 8,
+        "col": 5,
         "direction": "down",
         "number": 2
       },
       {
-        "answer": "DOOR",
-        "clue": "Movable panel at a room's entrance",
-        "row": 3,
-        "col": 0,
+        "answer": "FLAT",
+        "clue": "Smooth with no raised folds or lumps",
+        "row": 0,
+        "col": 2,
         "direction": "across",
-        "number": 5
+        "number": 1
       },
       {
-        "answer": "BASE",
-        "clue": "Bottom part that holds something up",
+        "answer": "COAT",
+        "clue": "Outer garment worn when going out in cool weather",
         "row": 1,
-        "col": 5,
+        "col": 7,
         "direction": "across",
         "number": 3
       },
       {
-        "answer": "HOLD",
-        "clue": "Support something so it does not fall",
-        "row": 0,
-        "col": 0,
+        "answer": "FIT",
+        "clue": "Be the right size for the pocket",
+        "row": 3,
+        "col": 9,
         "direction": "down",
-        "number": 1
+        "number": 6
       }
     ],
     "editorial": {
-      "focus": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
-      "solvingTip": "Look for \u201cTall holder that supports long objects from the floor\u201d and try S as its first letter.",
+      "focus": "A clean square of cloth folds small enough to slip into a coat before a walk.",
+      "solvingTip": "Think of getting a coat ready. Try the clue for the little pouch sewn into it, then the words about making a square of cloth smaller.",
       "answerNotes": [
         {
-          "answer": "STAND",
-          "text": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down."
+          "answer": "COTTON",
+          "text": "Cotton handkerchiefs are washable and absorb moisture."
         },
         {
-          "answer": "STICKS",
-          "text": "Long supports some walkers carry on outings."
+          "answer": "FOLD",
+          "text": "Bringing one half over the other makes the cloth smaller without cutting it."
         },
         {
-          "answer": "HANDLE",
-          "text": "Top of a stick that the walker grips."
+          "answer": "POCKET",
+          "text": "A folded handkerchief lies flatter inside a coat and is easy to pull out."
         }
       ]
     }
@@ -213689,121 +213697,113 @@
   },
   {
     "id": "garden-birds-and-insects-4",
-    "title": "Catching the Sound of Crickets after Sunset",
+    "title": "A Paper Wasp Scraping Wood from a Fence",
     "theme": "Nature",
-    "subtheme": "Catching the Sound of Crickets after Sunset",
+    "subtheme": "A Paper Wasp Scraping Wood from a Fence",
     "series": "garden-birds-and-insects",
-    "description": "Short calls come from the grass once the air outside the porch begins to grow dark.",
-    "cardDescription": "Short calls come from the grass once the air outside the porch begins to grow dark.",
+    "description": "A wasp works at a weathered fence, gathering tiny wood fibers that will become nest material.",
+    "cardDescription": "A wasp works at a weathered fence, gathering tiny wood fibers that will become nest material.",
     "difficulty": "Easy",
-    "revision": 1,
-    "rows": 11,
+    "revision": 2,
+    "rows": 10,
     "cols": 10,
     "entries": [
       {
-        "answer": "CRICKET",
-        "clue": "Small insect that can make a chirping sound",
-        "row": 4,
-        "col": 3,
+        "answer": "GATHER",
+        "clue": "Collect small bits from several spots",
+        "row": 3,
+        "col": 0,
         "direction": "across",
         "number": 5
       },
       {
-        "answer": "GROUND",
-        "clue": "Land beneath your feet",
-        "row": 3,
-        "col": 4,
-        "direction": "down",
-        "number": 4
-      },
-      {
-        "answer": "PORCH",
-        "clue": "Covered area at a house entrance",
+        "answer": "SCRAPE",
+        "clue": "Rub away a little material from the surface of a board",
         "row": 1,
-        "col": 6,
+        "col": 5,
         "direction": "down",
         "number": 3
       },
       {
-        "answer": "CHIRP",
-        "clue": "Short high sound coming from the grass",
-        "row": 1,
-        "col": 2,
-        "direction": "across",
-        "number": 2
-      },
-      {
-        "answer": "NIGHT",
-        "clue": "Dark time between sunset and dawn",
-        "row": 7,
-        "col": 4,
+        "answer": "FENCE",
+        "clue": "Barrier made of boards around a yard",
+        "row": 6,
+        "col": 1,
         "direction": "across",
         "number": 8
       },
       {
-        "answer": "PAUSE",
-        "clue": "Stop briefly before continuing",
-        "row": 0,
+        "answer": "PAPER",
+        "clue": "Thin material that the wasp's dried nest resembles",
+        "row": 5,
+        "col": 5,
+        "direction": "across",
+        "number": 7
+      },
+      {
+        "answer": "FIBER",
+        "clue": "One thin strand in a piece of wood",
+        "row": 2,
         "col": 8,
         "direction": "down",
-        "number": 1
+        "number": 4
       },
       {
-        "answer": "SOUND",
-        "clue": "Something a person can hear",
-        "row": 8,
-        "col": 0,
-        "direction": "across",
-        "number": 10
-      },
-      {
-        "answer": "GRASS",
-        "clue": "Narrow-leaved growth in a meadow",
-        "row": 5,
-        "col": 0,
-        "direction": "down",
-        "number": 6
-      },
-      {
-        "answer": "HIDE",
-        "clue": "Go where you cannot be seen",
-        "row": 7,
-        "col": 7,
+        "answer": "CHEW",
+        "clue": "Work something between the jaws to break it up",
+        "row": 6,
+        "col": 4,
         "direction": "down",
         "number": 9
       },
       {
-        "answer": "HEAR",
-        "clue": "Notice sound with the ears",
-        "row": 10,
-        "col": 6,
+        "answer": "WASP",
+        "clue": "Flying insect that chews wood to make a papery nest",
+        "row": 9,
+        "col": 4,
         "direction": "across",
-        "number": 11
+        "number": 10
       },
       {
-        "answer": "DUSK",
-        "clue": "Time when daylight fades into evening",
-        "row": 7,
+        "answer": "NEST",
+        "clue": "Place the insect builds to raise its young",
+        "row": 0,
         "col": 2,
         "direction": "down",
-        "number": 7
+        "number": 2
+      },
+      {
+        "answer": "WING",
+        "clue": "Body part the insect uses to fly",
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "number": 1
+      },
+      {
+        "answer": "MIX",
+        "clue": "Combine wood fibers with moisture from the mouth",
+        "row": 3,
+        "col": 7,
+        "direction": "across",
+        "number": 6
       }
     ],
     "editorial": {
-      "focus": "Short calls come from the grass once the air outside the porch begins to grow dark.",
-      "solvingTip": "Look for \u201cSmall insect that can make a chirping sound\u201d and try C as its first letter.",
+      "focus": "A wasp works at a weathered fence, gathering tiny wood fibers that will become nest material.",
+      "solvingTip": "Begin with the clue for the barrier around the yard. Then try the clues about what the insect does with the little bits it collects.",
       "answerNotes": [
         {
-          "answer": "CRICKET",
-          "text": "Short calls come from the grass once the air outside the porch begins to grow dark."
+          "answer": "WASP",
+          "text": "Paper wasps gather fibers from weathered wood and chew them into a soft mixture."
         },
         {
-          "answer": "CHIRP",
-          "text": "Short high sound coming from the grass."
+          "answer": "SCRAPE",
+          "text": "A wasp can work its jaws against the surface to loosen a tiny bit of wood."
         },
         {
-          "answer": "DUSK",
-          "text": "Time when daylight fades into evening."
+          "answer": "PAPER",
+          "text": "The chewed fibers dry into thin layers that look and feel like paper."
         }
       ]
     }

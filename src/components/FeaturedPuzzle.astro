@@ -1,0 +1,29 @@
+---
+interface Props {
+  puzzle: {id: string; title: string; description: string};
+  printFirst?: boolean;
+}
+
+const {puzzle, printFirst = false} = Astro.props;
+const Heading = printFirst ? 'h4' : 'h3';
+const play = {label:'Play online', href:`/crosswords/${puzzle.id}/`};
+const print = [
+  {label:'Print puzzle', href:`/print/${puzzle.id}/`},
+  {label:'Print answers', href:`/print/${puzzle.id}-answers/`},
+];
+const links = printFirst ? [...print, play] : [play, ...print];
+---
+<li>
+  <Heading>{puzzle.title}</Heading>
+  <p>{puzzle.description}</p>
+  <div class="featured-links">
+    {links.map(link => <a href={link.href} aria-label={`${link.label}: ${puzzle.title}`}>{link.label}</a>)}
+  </div>
+</li>
+
+<style>
+h3, h4 { margin: 0; font-size: 18px; line-height: 1.4; }
+p { margin: 6px 0 0; }
+.featured-links { display: flex; flex-wrap: wrap; gap: 0 16px; }
+a { display: inline-flex; align-items: center; min-height: 44px; text-decoration: underline; }
+</style>

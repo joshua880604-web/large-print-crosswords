@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import MiniGrid from '../../components/MiniGrid.astro';
-import puzzles from '../../data/puzzles.json';
+import puzzles from '../../data/current-puzzles.mjs';
 import '../../styles/print.css';
 export function getStaticPaths(){return puzzles.flatMap(p=>[{params:{slug:p.id},props:{puzzle:p,answers:false}},{params:{slug:p.id+'-answers'},props:{puzzle:p,answers:true}}]);}
 const {puzzle,answers}=Astro.props;

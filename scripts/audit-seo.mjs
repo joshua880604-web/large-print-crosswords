@@ -14,10 +14,11 @@ function walk(dir){return readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isD
 function meta(html,name){return (html.match(/<meta\b[^>]*>/g)||[]).find(tag=>attr(tag,'name')===name||attr(tag,'property')===name)||'';}
 function canonical(html){return (html.match(/<link\b[^>]*>/g)||[]).find(tag=>attr(tag,'rel')==='canonical')||'';}
 const descriptions=new Set(),titles=new Set(),indexable=new Set(),navigation=new Map();
-let printCount=0,puzzleCount=0,htmlCount=0;
+const printPages=new Set();
+let puzzleCount=0,htmlCount=0;
 for(const file of walk(dist).filter(f=>f.endsWith('.html'))){
  const name=relative(dist,file),html=readFileSync(file,'utf8');htmlCount++;
- const noindex=attr(meta(html,'robots'),'content').includes('noindex');
+ const noindex=attr(meta(html,'robots'),'content').toLowerCase().split(/[,\s]+/).includes('noindex');
  const url=attr(canonical(html),'href');assert.ok(url.startsWith(origin+'/'),`${name}: production canonical required`);
  const title=decode(html.match(/<title>([^<]*)<\/title>/)?.[1]||'');
  const description=decode(attr(meta(html,'description'),'content'));
@@ -27,7 +28,10 @@ for(const file of walk(dist).filter(f=>f.endsWith('.html'))){
  assert.equal(attr(meta(html,'og:url'),'content'),url,`${name}: canonical and sharing URLs must agree`);
  assert.equal(attr(meta(html,'og:title'),'content'),attr(meta(html,'twitter:title'),'content'),`${name}: matching share titles`);
  assert.equal(attr(meta(html,'og:image'),'content'),origin+'/social-card.png');
- if(name.startsWith('print/')){printCount++;assert.ok(noindex,`${name}: utility copies should not compete in search`);}
+ if(name.startsWith('print/')){
+  assert.ok(noindex,`${name}: print and answer sheets must carry noindex`);
+  printPages.add(name);
+ }
  if(name==='404.html')assert.ok(noindex,'404 should be excluded from indexing');
  if(!noindex){
   const expected=origin+'/'+(name==='index.html'?'':name.replace(/index\.html$/,''));
@@ -74,6 +78,14 @@ for(const puzzle of puzzles){
 }
 for(const puzzle of puzzles){
  const url=gameUrl(puzzle),links=navigation.get(url);
+ assert.ok(indexable.has(url),`${url}: current game must be indexable`);
+ const printUrl=`${origin}/print/${puzzle.id}/`;
+ const answerUrl=`${origin}/print/${puzzle.id}-answers/`;
+ for(const slug of [puzzle.id,`${puzzle.id}-answers`]){
+  assert.ok(printPages.delete(`print/${slug}/index.html`),`Missing noindex print page: /print/${slug}/`);
+ }
+ assert.ok(links.has(printUrl),`${url}: missing link to its print sheet`);
+ assert.ok(navigation.get(printUrl)?.has(answerUrl),`${printUrl}: missing link to its answer sheet`);
  assert.ok(topicUrls.some(topic=>links.has(topic)&&navigation.get(topic).has(url)),
   `${url}: needs a reciprocal topic link`);
  for(const peer of gamesBySeries.get(puzzle.series)){
@@ -84,7 +96,9 @@ const sitemap=readFileSync(join(dist,'sitemap.xml'),'utf8');
 const listed=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>decode(m[1]));
 assert.equal(new Set(listed).size,listed.length,'Sitemap has duplicate URLs');
 assert.deepEqual([...listed].sort(),[...indexable].sort(),'Sitemap must match all indexable pages, excluding print copies and 404');
-assert.equal(puzzleCount,puzzles.length);assert.equal(printCount,puzzles.length*2);
+assert.equal(puzzleCount,puzzles.length);
+assert.equal(printPages.size,0,'Unexpected print pages outside the current collection');
+assert.ok(indexable.has(`${origin}/printable/`),'Printable directory must be indexable');
 const robots=readFileSync(join(dist,'robots.txt'),'utf8');assert.ok(robots.includes(`Sitemap: ${origin}/sitemap.xml`));assert.ok(!/Disallow:\s*\/\s*$/m.test(robots));
 // The AI-readable guide must point to real canonical pages or the sitemap.
 const llms=readFileSync(join(dist,'llms.txt'),'utf8');
@@ -101,5 +115,5 @@ for(const path of ['crosswords/index.html','printable/index.html']){
  assert.ok(!html.includes('class="mini-cell'),`${path}: decorative cards must not expand every board cell into the DOM`);
  for(const tag of previews){assert.equal(attr(tag,'alt'),'');assert.equal(attr(tag,'loading'),'lazy');assert.ok(Number(attr(tag,'width'))>0&&Number(attr(tag,'height'))>0,'Preview needs intrinsic dimensions');}
 }
-console.log(`PASS SEO: ${htmlCount} HTML pages; ${puzzleCount} indexable puzzles; ${listed.length} unique sitemap URLs; ${printCount} noindex print copies; unique titles/descriptions, canonical URLs, structured data, internal targets, and 1200 × 630 sharing image verified.`);
+console.log(`PASS SEO: ${htmlCount} HTML pages; ${puzzleCount} indexable puzzles; ${listed.length} unique sitemap URLs; ${puzzleCount*2} noindex print copies; unique titles/descriptions, canonical URLs, structured data, internal targets, and 1200 × 630 sharing image verified.`);
 console.log(`CRAWL: all ${indexable.size} indexable pages reachable through HTML links within ${Math.max(...depth.values())} clicks of home; collection previews use dimensioned, lazy-loaded images.`);

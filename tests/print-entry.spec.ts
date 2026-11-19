@@ -27,6 +27,8 @@ test('print directory opens the sheet directly and keeps answers and play separa
   const plain=await context.newPage();await plain.goto('/printable/',{waitUntil:'domcontentloaded'});
   const featured=plain.getByRole('region',{name:'Featured puzzles to print'});
   await expect(featured.getByRole('heading',{level:3})).toHaveText(['Gardening','Nostalgia','Food']);
+  await expect(featured.locator('li > p')).toHaveCount(6);
+  await expect(featured.locator('li > p').first()).toContainText('rinse the harvest');
   const featuredIds=[
    'garden-harvest-baskets','garden-harvest-baskets-2','street-sights-remembered-2',
    'family-photos-and-film-4','bakers-specialties-2','eating-at-the-diner-5'

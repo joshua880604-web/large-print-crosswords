@@ -152,7 +152,8 @@ for (const root of document.querySelectorAll<HTMLElement>('.game-root')) {
     if(a.left<b.left)scroller.scrollLeft-=b.left-a.left+10;
     else if(a.right>b.right)scroller.scrollLeft+=a.right-b.right+10;
    }
-   keepCellVisible();
+   if(keyboard.hidden)target.scrollIntoView({block:'nearest',inline:'nearest',behavior:'instant'});
+   else keepCellVisible();
   }
  }
  function persist() {

@@ -17,3 +17,9 @@ export const topics=[
 ];
 export const topicPuzzles=(topic:typeof topics[number])=>puzzles.filter(p=>topic.themes.includes(p.theme)||topic.series.includes(p.series)||topic.puzzleIds?.includes(p.id));
 export const topicsForPuzzle=(id:string)=>topics.filter(t=>topicPuzzles(t).some(p=>p.id===id));
+
+export const starterPuzzles: Partial<Record<string, readonly string[]>> = {
+  'gardening-crosswords': ['garden-from-the-beginning-3', 'garden-harvest-baskets', 'garden-evening-chores-2'],
+  'nostalgia-crosswords': ['memories-of-main-street-4', 'memories-of-home-entertainment-4', 'saved-messages'],
+  'everyday-crosswords': ['shopping-and-returning', 'errands-on-main-street-2', 'visits-and-gatherings'],
+};

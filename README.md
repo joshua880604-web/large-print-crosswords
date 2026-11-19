@@ -28,7 +28,7 @@ npm run test:e2e
 
 ## Current collection and group printing
 
-This checkout has **2,000 games**, including the completed 500-game expansion. The November 18 release contains 1,500 current puzzles. All published puzzles, 100 original archives, 79 numbered archives, and their saved-progress keys are preserved. See [the current validation notes](docs/research/expansion-2000/board-validation.md), [the 300-game release](docs/expansion-1500.md), and [the introduction of group printing](docs/expansion-1000.md). The optional Bible collection in this checkout has 105 games.
+This checkout has **2,000 games**, including the completed 500-game expansion. The November 18 release contains 1,500 current puzzles. All published puzzles, 100 original archives, 82 numbered archives, and their saved-progress keys are preserved. See [the current validation notes](docs/research/expansion-2000/board-validation.md), [the page quality review](docs/puzzle-page-quality-2026-11-19.md), and [the 300-game release](docs/expansion-1500.md). The optional Bible collection in this checkout has 105 games.
 
 [The print-pack page](https://largeprintcrosswords.com/print-pack/) lets a reader select up to ten games, filter by theme or title, and prepare one print job. Puzzle sheets precede optional separate answers. The default uses 18pt text and two US Letter pages per sheet; compact uses 13pt and one page. This still uses the browser's Print / Save as PDF, with no pre-generated PDF downloads. The utility page is noindex and excluded from the sitemap.
 
@@ -36,7 +36,7 @@ The printable directory opens print sheets directly, with separate answer and on
 
 Print packs save a local selection draft and print options for reload/return, show selected titles with individual removal buttons, and share the catalog's punctuation-tolerant search. A topic link changes the filter without discarding selected games; a restored draft still needs to be prepared before printing. See [the draft and wording update](docs/print-pack-draft-2026-11-16.md).
 
-Production builds generate 6,210 HTML files and 2,029 canonical sitemap URLs. All 2,000 games are reachable through ordinary HTML links. The standard checks are `npm run build`, `npm run typecheck`, and `npm run test:e2e`.
+Production builds generate 6,213 HTML files and 2,029 canonical sitemap URLs. All 2,000 games are reachable through ordinary HTML links. The standard checks are `npm run build`, `npm run typecheck`, and `npm run test:e2e`.
 
 Run `python3 scripts/generate-expansion-2000.py --check` to reproduce the current additions and verify their preservation, board uniqueness, and answer-set comparisons. Earlier releases have their own preservation and validation reports.
 
@@ -71,7 +71,7 @@ Original editions use `lpc:v1:<puzzle-id>` for progress. Current editions use `l
 
 `npm run test:e2e` uses system Chromium at `/usr/bin/chromium`, a production preview on port 4321, and Playwright. For another machine, change the executable path in `playwright.config.ts` or install Playwright's supported Chromium and omit the path. Tests cover full puzzle completion, hints/checks, saved state, settings, reset confirmation, mobile layout, static print content, accessibility scans, all 6,000 current puzzle, print, and answer routes, and collection filtering and history restoration. Automated accessibility scans do not establish full accessibility conformance.
 
-For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 2,000 current, 100 original and 79 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
+For an exhaustive board check, start a production preview on port 4323 and run `npm run audit:playthrough -- http://127.0.0.1:4323 /tmp/lpc-playthrough-audit.json`. This types every answer through the real keyboard flow on all 2,000 current, 100 original and 82 numbered archived boards, compares rendered clues and physical placements, and checks completion and saved-progress restoration after reload. It accepts only a local preview URL and writes its report outside the repository by default. `LPC_CHROMIUM_PATH` can select a different installed Chromium. This verifies game operation, separately from reading the clues for accuracy.
 
 ## Deploy to Cloudflare Pages
 
@@ -99,7 +99,7 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 2,000 current puzzles have a subject introduction, solving guidance, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed editions use separate keys. The current revision inventory is 1,822 first editions, 177 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) replace 79 boards while preserving every published predecessor. Fourteen additional games keep their boards with simpler clues.
+All 2,000 current puzzles have a subject introduction, solving guidance, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed editions use separate keys. The current revision inventory is 1,819 first editions, 180 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) account for 79 archived boards. The [page quality review](docs/puzzle-page-quality-2026-11-19.md) accounts for the other three.
 
 | Series | Current puzzles | Clues | Edition |
 | --- | ---: | ---: | --- |

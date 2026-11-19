@@ -193,67 +193,72 @@
   },
   {
     "id": "garden-birds-and-insects-4",
-    "title": "Catching the Sound of Crickets after Sunset",
-    "description": "Short calls come from the grass once the air outside the porch begins to grow dark.",
+    "title": "A Paper Wasp Scraping Wood from a Fence",
+    "description": "A wasp works at a weathered fence, gathering tiny wood fibers that will become nest material.",
     "words": [
       [
-        "CRICKET",
-        "Small insect that can make a chirping sound"
+        "WASP",
+        "Flying insect that chews wood to make a papery nest"
       ],
       [
-        "CHIRP",
-        "Short high sound coming from the grass"
+        "SCRAPE",
+        "Rub away a little material from the surface of a board"
       ],
       [
-        "DUSK",
-        "Time when daylight fades into evening"
+        "PAPER",
+        "Thin material that the wasp's dried nest resembles"
       ],
       [
-        "SOUND",
-        "Something a person can hear"
+        "WOOD",
+        "Hard material from a tree that can be cut into boards"
       ],
       [
-        "NIGHT",
-        "Dark time between sunset and dawn"
+        "FENCE",
+        "Barrier made of boards around a yard"
       ],
       [
-        "HEAR",
-        "Notice sound with the ears"
+        "CHEW",
+        "Work something between the jaws to break it up"
       ],
       [
-        "DARK",
-        "With little or no light"
+        "FIBER",
+        "One thin strand in a piece of wood"
       ],
       [
-        "GRASS",
-        "Narrow-leaved growth in a meadow"
+        "NEST",
+        "Place the insect builds to raise its young"
       ],
       [
-        "PORCH",
-        "Covered area at a house entrance"
+        "GRAY",
+        "Color of some weathered fence boards"
       ],
       [
-        "PAUSE",
-        "Stop briefly before continuing"
+        "BOARD",
+        "Flat piece of wood used to build a fence"
       ],
       [
-        "HIDE",
-        "Go where you cannot be seen"
+        "WING",
+        "Body part the insect uses to fly"
       ],
       [
-        "GROUND",
-        "Land beneath your feet"
+        "DRY",
+        "Lose moisture as the nest material hardens"
       ],
       [
-        "LEAF",
-        "Plant part growing from a stem"
+        "MIX",
+        "Combine wood fibers with moisture from the mouth"
+      ],
+      [
+        "GATHER",
+        "Collect small bits from several spots"
       ]
     ],
     "requiredAnswers": [
-      "CRICKET",
-      "CHIRP",
-      "DUSK"
-    ]
+      "WASP",
+      "SCRAPE",
+      "PAPER"
+    ],
+    "revision": 2
   },
   {
     "id": "garden-birds-and-insects-5",

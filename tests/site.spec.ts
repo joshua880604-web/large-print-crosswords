@@ -156,6 +156,77 @@ test('mobile on-screen keyboard keeps selected square visible and remembers nati
  await page.emulateMedia({media:'print'});await expect(keyboard).toBeHidden();await context.close();
 });
 
+test('a keyboard-selected clue brings the focused square into view on a narrow window',async({page})=>{
+ await page.setViewportSize({width:640,height:450});
+ await page.emulateMedia({reducedMotion:'reduce'});
+ await page.goto('/crosswords/errands-on-main-street-2/');
+ const clue=page.locator('.clue-button').first();
+ for(let step=0;step<35;step++){
+  await page.keyboard.press('Tab');
+  if(await clue.evaluate(button=>button===document.activeElement))break;
+ }
+ await expect(clue).toBeFocused();
+ await expect(clue).toBeInViewport();
+ await page.keyboard.press('Enter');
+ const square=page.locator('.cell.selected input');
+ await expect(square).toBeFocused();
+ await expect(square).toBeInViewport({ratio:1});
+ const cell=await square.evaluate(input=>input.parentElement!.dataset.cell);
+ await page.keyboard.type('S');
+ await page.reload();
+ await expect(page.locator(`[data-cell="${cell}"] input`)).toHaveValue('S');
+});
+
+test('larger clues enlarges the active clue in the board and touch keyboard',async({browser})=>{
+ const context=await browser.newContext({viewport:{width:320,height:568},hasTouch:true,isMobile:true});
+ try{
+  const page=await context.newPage();
+  await page.goto('/crosswords/errands-on-main-street-2/');
+  await expect(page.locator('.current-clue')).toHaveCSS('font-size','18px');
+  await page.getByRole('button',{name:'Larger clues'}).tap();
+  const tip=page.locator('.solving-tip summary');
+  await tip.tap();
+  await expect(page.locator('.solving-tip p')).toHaveCSS('font-size','22px');
+  await tip.tap();
+  await page.locator('.clue-button').first().tap();
+  const keyboard=page.locator('.puzzle-keyboard');
+  await expect(keyboard).toBeVisible();
+  await expect(page.locator('.current-clue')).toHaveCSS('font-size','22px');
+  await expect(keyboard.locator('.keyboard-clue')).toHaveCSS('font-size','22px');
+  await page.setViewportSize({width:667,height:375});
+  await expect(keyboard.locator('.keyboard-clue')).toHaveCSS('font-size','20px');
+  await expect.poll(()=>page.evaluate(()=>{
+   const square=document.querySelector('.cell.selected')!.getBoundingClientRect();
+   const dock=document.querySelector('.puzzle-keyboard')!.getBoundingClientRect();
+   return square.top>=0&&square.bottom<=dock.top&&document.documentElement.scrollWidth<=innerWidth;
+  })).toBeTruthy();
+  await page.reload();
+  await expect(page.getByRole('button',{name:'Larger clues'})).toHaveAttribute('aria-pressed','true');
+  await expect(page.locator('.current-clue')).toHaveCSS('font-size','22px');
+ }finally{await context.close();}
+});
+
+test('the optional tip before the grid opens with the keyboard without scripts or spoilers',async({browser})=>{
+ const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:320,height:568}});
+ try{
+  const page=await context.newPage();
+  await page.goto('/crosswords/garden-harvest-baskets-3/');
+  const tip=page.locator('.solving-tip');
+  const summary=tip.locator('summary');
+  await expect(summary).toHaveText('Solving tip');
+  await expect(tip.locator('p')).toBeHidden();
+  expect(await tip.evaluate(element=>Boolean(element.compareDocumentPosition(document.querySelector('.crossword-board')!)&Node.DOCUMENT_POSITION_FOLLOWING))).toBeTruthy();
+  await summary.focus();
+  await page.keyboard.press('Enter');
+  await expect(tip.locator('p')).toBeVisible();
+  await expect(summary).toBeFocused();
+  await expect(page.locator('.answer-explanations dd').first()).toBeHidden();
+  expect(await page.locator('.cell input').evaluateAll(inputs=>inputs.every(input=>(input as HTMLInputElement).value===''))).toBeTruthy();
+  await page.keyboard.press('Enter');
+  await expect(tip.locator('p')).toBeHidden();
+ }finally{await context.close();}
+});
+
 test('an entire puzzle can be completed using on-screen keys',async({page})=>{
  await page.goto('/crosswords/garden-days/');await page.getByRole('button',{name:'Use on-screen keyboard',exact:true}).click();
  const keyboard=page.getByRole('group',{name:'On-screen crossword keyboard',exact:true});

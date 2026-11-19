@@ -193,67 +193,72 @@
   },
   {
     "id": "getting-out-the-door-4",
-    "title": "Using a Long Umbrella Stand for Walking Sticks",
-    "description": "A tall holder keeps several walking sticks upright so their handles can be reached without bending down.",
+    "title": "Folding a Handkerchief for a Coat Pocket",
+    "description": "A clean square of cloth folds small enough to slip into a coat before a walk.",
     "words": [
       [
-        "STAND",
-        "Tall holder that supports long objects from the floor"
+        "COTTON",
+        "Soft fiber often used to make handkerchiefs"
       ],
       [
-        "STICKS",
-        "Long supports some walkers carry on outings"
+        "FOLD",
+        "Bend a cloth so one part lies over another"
       ],
       [
-        "HANDLE",
-        "Top of a stick that the walker grips"
+        "POCKET",
+        "Small pouch sewn into a coat"
       ],
       [
-        "REACH",
-        "Stretch out an arm to get something"
+        "CLEAN",
+        "Freshly washed and free of dirt"
       ],
       [
-        "FLOOR",
-        "Bottom surface of a room that people walk on"
+        "CREASE",
+        "Line left where the cloth is folded"
       ],
       [
-        "UPRIGHT",
-        "Standing straight up"
+        "SQUARE",
+        "Shape with four equal sides and four right angles"
       ],
       [
-        "HOLD",
-        "Support something so it does not fall"
+        "TUCK",
+        "Slip an item neatly into a small space"
       ],
       [
-        "TALL",
-        "High from bottom to top"
+        "COAT",
+        "Outer garment worn when going out in cool weather"
       ],
       [
-        "LEAN",
-        "Tilt against a support"
+        "CLOTH",
+        "Fabric used to make a handkerchief"
       ],
       [
-        "BASE",
-        "Bottom part that holds something up"
+        "SOFT",
+        "Gentle to the touch"
       ],
       [
-        "DOOR",
-        "Movable panel at a room's entrance"
+        "CORNER",
+        "Point where two sides of the cloth meet"
       ],
       [
-        "ROUND",
-        "Shaped like a circle"
+        "FIT",
+        "Be the right size for the pocket"
       ],
       [
-        "GRIP",
-        "Hold firmly with the hand"
+        "FLAT",
+        "Smooth with no raised folds or lumps"
+      ],
+      [
+        "HEM",
+        "Sewn edge that keeps the cloth from fraying"
       ]
     ],
     "requiredAnswers": [
-      "STAND",
-      "STICKS",
-      "HANDLE"
-    ]
+      "COTTON",
+      "FOLD",
+      "POCKET"
+    ],
+    "revision": 2
   },
   {
     "id": "getting-out-the-door-5",

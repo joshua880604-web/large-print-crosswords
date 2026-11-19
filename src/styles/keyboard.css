@@ -1,4 +1,5 @@
 /* A docked keyboard keeps the active clue and entered letters in view. */
+.crossword-board input{scroll-margin-block:8px}
 body.has-puzzle-keyboard{padding-bottom:var(--puzzle-keyboard-height,360px)}
 html:has(body.has-puzzle-keyboard){scroll-padding-bottom:calc(var(--puzzle-keyboard-height,360px) + 16px)}
 .puzzle-keyboard{position:fixed;inset:auto 0 0;z-index:30;background:#f6f5ec;border-top:1px solid #aab5a3;box-shadow:0 -5px 24px #213c321a;padding:5px 12px max(10px,env(safe-area-inset-bottom));max-height:80dvh;overflow-y:auto;overscroll-behavior:contain}
@@ -22,4 +23,8 @@ html:has(body.has-puzzle-keyboard){scroll-padding-bottom:calc(var(--puzzle-keybo
 .keyboard-tools button:active{transform:translateY(1px)}
 @media(max-width:420px){.puzzle-keyboard{padding-inline:8px}.keyboard-row{gap:3px}.keyboard-row .letter-key{flex-basis:calc((100% - 27px)/10);width:calc((100% - 27px)/10);font-size:21px}.keyboard-tools{gap:5px}.keyboard-tools button{font-size:14px}.keyboard-clue{font-size:17px;gap:8px}.keyboard-clue strong{font-size:15px}}
 @media(max-height:550px){.puzzle-keyboard{max-height:65dvh;padding-top:2px;padding-bottom:4px}.keyboard-heading{min-height:28px}.keyboard-heading button{min-height:28px;padding:3px 5px}.keyboard-row .letter-key{min-height:36px;font-size:20px}.keyboard-word{display:none}.keyboard-clue{font-size:16px;padding-bottom:5px}.keyboard-tools{margin-top:4px}.keyboard-tools button{min-height:36px;padding:5px}}
+.game-layout.large-clues .current-clue,
+.game-layout.large-clues ~ .puzzle-keyboard .keyboard-clue{font-size:22px}
+.game-layout.large-clues ~ .puzzle-keyboard .keyboard-clue strong{font-size:18px}
+@media(max-height:550px){.game-layout.large-clues ~ .puzzle-keyboard .keyboard-clue{font-size:20px}}
 @media print{.puzzle-keyboard{display:none!important}body.has-puzzle-keyboard{padding-bottom:0}}
