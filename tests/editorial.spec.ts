@@ -60,11 +60,35 @@ for(const series of editorialSeries)test(`edited series ${series.id} has reader 
   const solvingTip=page.locator('.board-panel .solving-tip p');
   await expect(solvingTip).toHaveText(puzzle.editorial!.solvingTip);
   await expect(solvingTip).toBeHidden();
-  await expect(page.locator('.answer-explanations dt')).toHaveCount(3);
-  await expect(page.locator('.answer-explanations dd').first()).toBeHidden();
-  await page.getByText('A closer look at three answers (spoilers)',{exact:true}).click();
-  for(const note of puzzle.editorial!.answerNotes){expect(puzzle.entries.some(e=>e.answer===note.answer)).toBeTruthy();await expect(page.locator('.answer-explanations')).toContainText(note.text);}
+  const {answerNotes}=puzzle.editorial;
+  const explanations=page.locator('.answer-explanations');
+  await expect(explanations.locator('dt')).toHaveCount(answerNotes.length);
+  if(answerNotes.length){
+   await expect(explanations.locator('dd').first()).toBeHidden();
+   await explanations.locator('summary').click();
+   for(const note of answerNotes){expect(puzzle.entries.some(e=>e.answer===note.answer)).toBeTruthy();await expect(explanations).toContainText(note.text);}
+  }else{
+   await expect(explanations).toHaveCount(0);
+  }
  }
+});
+
+test('repeated explanations are omitted while answers and useful notes remain available without scripts',async({browser})=>{
+ const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});
+ try{
+  const page=await context.newPage();
+  await page.goto('/crosswords/taking-care-of-small-supplies-2/');
+  await expect(page.locator('.answer-explanations')).toHaveCount(0);
+  await page.getByText('Show the answer list (spoilers)',{exact:true}).click();
+  await expect(page.locator('.answer-details p')).toContainText('TAB');
+  await page.goto('/crosswords/watching-at-the-pond-2/');
+  const explanations=page.locator('.answer-explanations');
+  await expect(explanations.locator('dd').first()).toBeHidden();
+  await explanations.locator('summary').click();
+  await expect(explanations.locator('dt')).toHaveText(['TILT','SHALLOW']);
+  await expect(explanations).toContainText('Even a wide pond can be shallow along its edge');
+  await expect(page.locator('.clues-panel')).toContainText('Eat, as a duck does at the edge of a pond');
+ }finally{await context.close();}
 });
 
 test('an edited clue matches the print sheet and restores existing letters',async({page})=>{

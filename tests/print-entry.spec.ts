@@ -5,6 +5,10 @@ test('print directory opens the sheet directly and keeps answers and play separa
  test.setTimeout(90_000);
  await page.setViewportSize({width:390,height:844});
  await page.goto('/printable/?q=Garden+Tools');
+ const formats=page.getByRole('region',{name:'Print or save as PDF'});
+ await expect(formats).toContainText('18pt, two pages');
+ await expect(formats).toContainText('13pt, one page');
+ await expect(formats).toContainText('Both use US Letter paper');
  const card=page.locator('a.puzzle-card:visible').first();
  await expect(card).toContainText('Print puzzle');
  await expect(card).toHaveAttribute('href','/print/garden-days/');

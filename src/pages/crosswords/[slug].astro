@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import Game from '../../components/Game.astro';
 import PuzzleCard from '../../components/PuzzleCard.astro';
 import puzzles from '../../data/current-puzzles.mjs';
+import recommendations from '../../data/puzzle-recommendations.json';
 import {topicsForPuzzle} from '../../data/topics';
 import {christmasPuzzleIds} from '../../data/christmas';
 import {musicPuzzleIds} from '../../data/music';
@@ -21,6 +22,9 @@ const topic=christmasPuzzleIds.has(puzzle.id)?{path:'/christmas-crosswords/',nam
 const additionalTopics=topicsForPuzzle(puzzle.id).filter(t=>`/${t.slug}/`!==topic?.path);
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:puzzle.title,path:`/crosswords/${puzzle.id}/`}];
 const related=puzzles.filter(p=>p.series===puzzle.series&&p.id!==puzzle.id);
+const recommendation=recommendations.find(item=>item.puzzles.includes(puzzle.id));
+const nextId=recommendation?.puzzles.find(id=>id!==puzzle.id);
+const nextPuzzle=nextId&&puzzles.find(p=>p.id===nextId);
 ---
 <Layout
   title={`${puzzle.title} — Free Large Print Crossword`}
@@ -45,6 +49,7 @@ const related=puzzles.filter(p=>p.series===puzzle.series&&p.id!==puzzle.id);
     <Game puzzle={puzzle}/>
     {topic&&<p class="notice"><a href={topic.path}>Explore more {topic.name} crosswords →</a></p>}
     {additionalTopics.length>0&&<p class="notice">Related interests: {additionalTopics.map((t,i)=><>{i>0&&' · '}<a href={`/${t.slug}/`}>{t.name} crosswords</a></>)}</p>}
+    {recommendation&&nextPuzzle&&<p class="notice puzzle-recommendation">{recommendation.connection} <a href={`/crosswords/${nextPuzzle.id}/`}>Try {nextPuzzle.title} →</a></p>}
     {puzzle.editorial&&<PuzzleNotes editorial={puzzle.editorial} introduction={puzzle.description} title={puzzle.title}/>}
     <details class="answer-details">
       <summary>Show the answer list (spoilers)</summary>

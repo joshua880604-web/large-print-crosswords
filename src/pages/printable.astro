@@ -28,10 +28,11 @@ const featured = [
       <h1>Free printable large print crosswords.</h1>
       <p>Free for adults who prefer larger letters. No sign-up required.</p>
     </header>
-    <p class="notice">
-      <strong>Large: 18pt, two pages.</strong> Compact: 13pt, one page. Use US Letter paper.
-      Save either sheet as a PDF from your browser’s print window.
-    </p>
+    <section class="notice print-format-guide" aria-labelledby="print-format-heading">
+      <h2 id="print-format-heading">Print or save as PDF</h2>
+      <p><strong>Large: 18pt, two pages.</strong> Compact: 13pt, one page. Both use US Letter paper.</p>
+      <p>Open a puzzle below and select <strong>Print puzzle</strong>. In your browser’s print window, choose a printer or <strong>Save as PDF</strong>. Open the separate answer sheet when you want to print or save the answers.</p>
+    </section>
     <div class="print-directory-actions">
       <a class="button" href="/print-pack/">Choose puzzles for a print pack</a>
       <a href="#all-puzzles">Browse all puzzles</a>
@@ -51,13 +52,15 @@ const featured = [
     </section>
     <section aria-labelledby="all-puzzles">
       <h2 id="all-puzzles">Browse all puzzles</h2>
-      <Collection print/>
+      <Collection print deferCatalog/>
     </section>
     <TopicLinks/>
   </div>
 </Layout>
 <style>
   .print-directory .page-heading { padding-top: 32px; padding-bottom: 22px; }
+  .print-format-guide h2 { margin-bottom: 8px; font-size: 22px; }
+  .print-format-guide p + p { margin-top: 8px; }
   .print-directory-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; margin: 18px 0 32px; }
   .print-directory-actions a:not(.button) { text-decoration: underline; text-underline-offset: 3px; }
   .featured-print { margin-bottom: 40px; }

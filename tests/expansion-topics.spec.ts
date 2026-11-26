@@ -10,6 +10,8 @@ const starters: Record<string, string[]> = {
  gardening: ['garden-from-the-beginning-3', 'garden-harvest-baskets', 'garden-evening-chores-2'],
  nostalgia: ['memories-of-main-street-4', 'memories-of-home-entertainment-4', 'saved-messages'],
  everyday: ['shopping-and-returning', 'errands-on-main-street-2', 'visits-and-gatherings'],
+ food: ['breakfast-on-the-griddle-3', 'cookie-tins-2', 'supper-at-the-stove-2'],
+ nature: ['birds-using-familiar-spaces-3', 'watching-at-the-pond-2', 'pets-at-home'],
 };
 for(const [slug,count] of collections)test(`${slug} collection has actual games and clean navigation`,async({page,request})=>{
  const path=`/${slug}-crosswords/`;
@@ -48,4 +50,17 @@ test('optional Bible scenes are identified and collections fit a phone',async({p
  await expect(page.locator('.game-header')).toContainText('Genesis 1');
  await page.goto('/easter-crosswords/');
  await expect(page.getByRole('link',{name:'Explore the optional Bible story collection.'})).toHaveAttribute('href','/bible-crosswords/');
+});
+
+test('cross-series suggestions offer ordinary links in both directions',async({browser})=>{
+ const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});
+ try{
+  const page=await context.newPage();
+  await page.goto('/crosswords/watching-at-the-pond-2/');
+  const recommendation=page.locator('.puzzle-recommendation');
+  await expect(recommendation).toContainText('wet sand');
+  await recommendation.getByRole('link',{name:/A Duck Footprint in Wet Sand/}).click();
+  await expect(page).toHaveURL(/\/crosswords\/water-close-by-3\/$/);
+  await expect(recommendation.getByRole('link',{name:/A Duck Tips Forward in Shallow Water/})).toHaveAttribute('href','/crosswords/watching-at-the-pond-2/');
+ }finally{await context.close();}
 });

@@ -20,6 +20,8 @@ export const topicsForPuzzle=(id:string)=>topics.filter(t=>topicPuzzles(t).some(
 
 export const starterPuzzles: Partial<Record<string, readonly string[]>> = {
   'gardening-crosswords': ['garden-from-the-beginning-3', 'garden-harvest-baskets', 'garden-evening-chores-2'],
+  'food-crosswords': ['breakfast-on-the-griddle-3', 'cookie-tins-2', 'supper-at-the-stove-2'],
+  'nature-crosswords': ['birds-using-familiar-spaces-3', 'watching-at-the-pond-2', 'pets-at-home'],
   'nostalgia-crosswords': ['memories-of-main-street-4', 'memories-of-home-entertainment-4', 'saved-messages'],
   'everyday-crosswords': ['shopping-and-returning', 'errands-on-main-street-2', 'visits-and-gatherings'],
 };

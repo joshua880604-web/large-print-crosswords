@@ -7,7 +7,7 @@ export function GET() {
 
 > An independent collection of free American English themed mini crosswords, designed with older adults and anyone who prefers larger letters in mind. Play online or print puzzles with separate answer sheets.
 
-The collection contains ${puzzles.length} independently playable puzzles across ${seriesCount} series. Each current puzzle has its own grid, clues, introduction, solving tip, and three optional answer explanations. Familiar vocabulary can recur across themes. Difficulty varies with the reader's interests and vocabulary.
+The collection contains ${puzzles.length} independently playable puzzles across ${seriesCount} series. Each current puzzle has its own grid, clues, introduction, solving tip, and a separate answer list. Some puzzles also offer optional answer explanations. Familiar vocabulary can recur across themes. Difficulty varies with the reader's interests and vocabulary.
 
 Online play includes optional hints, larger clues and squares, and an on-screen keyboard. Sound starts off. There is no timer or required account. Puzzle progress and preferences are stored in the player's browser when local storage is available.
 

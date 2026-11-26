@@ -24,7 +24,7 @@ npm run audit:content
 npm run test:e2e
 ```
 
-`dist/` is the complete deployable website. `npm run build` validates the puzzle collection before rendering and audits all generated HTML afterward. The SEO audit checks unique indexable titles/descriptions, canonical URLs, sitemap coverage, noindex utility pages, structured data, internal links, and the social preview dimensions. Astro telemetry is disabled in the scripts to avoid writing to the managed environment's protected home directory.
+`dist/` contains the static website. Cloudflare Pages also deploys the repository’s `functions/daily.js` for the live rotation. `npm run build` validates the puzzle collection before rendering and audits all generated HTML afterward. The SEO audit checks unique indexable titles/descriptions, canonical URLs, sitemap coverage, noindex utility pages, structured data, internal links, and the social preview dimensions. Astro telemetry is disabled in the scripts to avoid writing to the managed environment's protected home directory.
 
 ## Current collection and group printing
 
@@ -36,7 +36,7 @@ The printable directory opens print sheets directly, with separate answer and on
 
 Print packs save a local selection draft and print options for reload/return, show selected titles with individual removal buttons, and share the catalog's punctuation-tolerant search. A topic link changes the filter without discarding selected games; a restored draft still needs to be prepared before printing. See [the draft and wording update](docs/print-pack-draft-2026-11-16.md).
 
-Production builds generate 6,213 HTML files and 2,029 canonical sitemap URLs. All 2,000 games are reachable through ordinary HTML links. The standard checks are `npm run build`, `npm run typecheck`, and `npm run test:e2e`.
+Production builds generate 6,233 HTML files and 2,029 canonical sitemap URLs. All 2,000 games are reachable through ordinary HTML links. The standard checks are `npm run build`, `npm run typecheck`, and `npm run test:e2e`.
 
 Run `python3 scripts/generate-expansion-2000.py --check` to reproduce the current additions and verify their preservation, board uniqueness, and answer-set comparisons. Earlier releases have their own preservation and validation reports.
 
@@ -46,7 +46,7 @@ With a production preview on port 4323, run `npm run audit:playthrough -- http:/
 
 - 2,000 independently playable themed mini crosswords across 400 series.
 - 21,868 clues with direct American English definitions.
-- Each series contains five puzzles with different boards and answer selections. Each current edition has a subtheme, an introduction, solving guidance, and three answer explanations; these boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
+- Each series contains five puzzles with different boards and answer selections. Each current edition has a subtheme, an introduction, and solving guidance. These boards fit within 11 × 11. Familiar words recur across puzzles; at least three answers differ in each direction between any pair in a series, with answer-set Jaccard similarity at most 0.60.
 - Open, connected current layouts, up to 11 × 11; some letters are unchecked (belong to one word). These are not newspaper-style fully checked American grids.
 - Every puzzle has a permanent playable page, a printable clue sheet, and a separate printable answer sheet.
 - The November 16 additions have reviewable scene, definition, context-clue and answer-note files in `scripts/expansion-1200-*.txt`. Run `python3 scripts/prepare-expansion-1200.py` and `python3 scripts/generate-expansion-1200.py` to reproduce only this addition while retaining the first 1,000 objects. The original tools `scripts/generate-puzzles.py` and `scripts/refine_editorial.py` remain for historical authoring; they rebuild boards and are not a routine refresh for published progress keys. Any published answer or layout replacement needs proper edition handling and a preserved prior snapshot. The shared layout builder is `scripts/crossword_grid.py`.
@@ -59,7 +59,7 @@ The main collection and all interest collections support shareable `q` and `them
 
 Keyboard/touch entry, arrow-key movement, direction switching at crossings, word checks, letter reveals, confirmation before clearing, browser-local saving, larger clues, optional larger squares with contained scrolling, opt-in synthesized sound, and a docked on-screen QWERTY keyboard. Small touch devices use on-screen mode on first interaction by default; computers start with physical/system input. Users can switch modes, hide the panel, and navigate its letter keys with arrow keys. The selected clue and entered letters remain above the keys, and the selected grid square scrolls above the panel. Browser support for suppressing native touch keyboards varies; physical keyboard input remains enabled in either mode. Without JavaScript, users can read clues and print; interactive play requires JavaScript.
 
-`/daily/` prerenders a selection using America/New_York. With JavaScript, if the build date is stale it selects that day's prebuilt puzzle and redirects to its permanent URL. With JavaScript disabled it clearly labels the build-date selection. This rotates through the existing 2,000 puzzles; it does not generate new content daily.
+`/daily/` rotates through existing puzzles at midnight in America/New_York. The Cloudflare Pages Function returns the current board and clues in HTML at the same URL. The selected puzzle keeps its permanent link, print pages and browser progress. Astro preview and static hosts show the dated build-time selection.
 
 The Christmas collection and both print layouts are described in [the November 14 upgrade](docs/christmas-print-upgrade.md).
 
@@ -87,7 +87,7 @@ Each cloud task is already isolated: use this checkout directly; do not create a
 
 ## Search metadata and sharing
 
-Collection cards use edition-specific static SVG board previews with intrinsic dimensions and lazy loading. Every puzzle title, description and ordinary HTML link remains server-rendered, including when JavaScript is disabled. The build checks navigation reachability from home as well as sitemap membership; see [the November 13 SEO review](docs/seo-review-2026-11-13.md).
+Collection cards use edition-specific static SVG board previews with intrinsic dimensions and lazy loading. The two main directories initially render 12 cards and fetch a shared catalog when a reader searches, filters, or requests more. The themed collections and paginated text index link to every game in ordinary HTML, and the text index links directly to puzzle and answer sheets. The build checks navigation reachability from home as well as sitemap membership; see [the November 13 SEO review](docs/seo-review-2026-11-13.md).
 
 Every playable puzzle has its own title and description. WebSite/WebPage JSON-LD describes the site, and puzzle BreadcrumbList data matches the visible breadcrumb. The sitemap lists 2,029 canonical HTTPS URLs, including all 2,000 playable puzzles. Print copies and the 404 page use `noindex`.
 
@@ -99,7 +99,7 @@ See `docs/search-console.md` for the user's verified-property sitemap submission
 
 ## Content review
 
-All 2,000 current puzzles have a subject introduction, solving guidance, and three explanations tied to actual answers. The original 100 layouts remain archived with their legacy progress keys. Their refreshed editions use separate keys. The current revision inventory is 1,819 first editions, 180 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) account for 79 archived boards. The [page quality review](docs/puzzle-page-quality-2026-11-19.md) accounts for the other three.
+All 2,000 current puzzles have a subject introduction, solving guidance, and a separate answer list. Explanations that simply repeat a clue or the introduction are omitted. The original 100 layouts remain archived with their legacy progress keys. Their refreshed editions use separate keys. The current revision inventory is 1,819 first editions, 180 second editions and one third edition. The [everyday-vocabulary rewrite](docs/easy-rewrite-2026-11-14.md) and [context review](docs/context-review-2026-11-14.md) account for 79 archived boards. The [page quality review](docs/puzzle-page-quality-2026-11-19.md) accounts for the other three.
 
 | Series | Current puzzles | Clues | Edition |
 | --- | ---: | ---: | --- |

@@ -1,0 +1,49 @@
+---
+import type {GetStaticPaths} from 'astro';
+import Layout from '../../layouts/Layout.astro';
+import puzzles from '../../data/puzzles.json';
+import {textIndexPageSize} from '../../data/catalog';
+
+export const getStaticPaths = (({paginate}) => paginate(puzzles, {pageSize: textIndexPageSize})) satisfies GetStaticPaths;
+const {page} = Astro.props;
+const pages = Array.from({length: page.lastPage}, (_, index) => index + 1);
+---
+<Layout noindex title={`Puzzle Index — Page ${page.currentPage} — Large Print Crosswords`} description="Browse the text index and open any crossword, printable puzzle, or separate answer sheet.">
+ <div class="container puzzle-index">
+  <header class="page-heading">
+   <h1>Puzzle index</h1>
+   <p>Puzzles {page.start + 1}–{page.end + 1} of {page.total}.</p>
+  </header>
+  <nav aria-label="Puzzle index pages">
+   <ul class="index-pages">
+    {pages.map(number => <li><a href={`/puzzle-index/${number}/`} aria-label={`Page ${number}`} aria-current={number === page.currentPage ? 'page' : undefined}>{number}</a></li>)}
+   </ul>
+  </nav>
+  <ol class="index-puzzles" start={page.start + 1}>
+   {page.data.map(puzzle => <li>
+    <a href={`/crosswords/${puzzle.id}/`}>{puzzle.title}</a>
+    <div class="index-actions">
+     <a href={`/print/${puzzle.id}/`} aria-label={`Print puzzle: ${puzzle.title}`}>Print puzzle</a>
+     <a href={`/print/${puzzle.id}-answers/`} aria-label={`Print answers: ${puzzle.title}`}>Print answers</a>
+    </div>
+   </li>)}
+  </ol>
+  <nav class="index-actions" aria-label="Previous and next puzzle index pages">
+   {page.url.prev && <a href={page.url.prev}>Previous page</a>}
+   {page.url.next && <a href={page.url.next}>Next page</a>}
+  </nav>
+ </div>
+</Layout>
+
+<style>
+.puzzle-index { max-width: 880px; padding-bottom: 48px; }
+.index-pages, .index-actions { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.index-pages { list-style: none; padding: 0; gap: 4px; }
+.index-pages a, .index-actions a { display: inline-flex; align-items: center; min-height: 44px; }
+.index-pages a { justify-content: center; min-width: 44px; border: 1px solid var(--line); border-radius: 6px; }
+.index-pages a[aria-current="page"] { font-weight: bold; border-color: currentColor; }
+.index-puzzles { margin-block: 22px; padding-left: 32px; }
+.index-puzzles li { padding: 12px 0 4px; border-bottom: 1px solid var(--line); }
+.index-puzzles li > a { font-size: 20px; }
+.index-puzzles a, .index-actions a { text-decoration: underline; text-underline-offset: 3px; }
+</style>

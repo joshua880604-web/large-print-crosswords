@@ -22,7 +22,8 @@ function reviseText(items, edits, id, field) {
   return items.map(item => Object.hasOwn(edits, item.answer) ? {...item, [field]: edits[item.answer]} : item);
 }
 
-const puzzles = boards.map(board => {
+/** @param {typeof boards[number]} board */
+function applyCopyEdits(board) {
   const edit = pending.get(board.id);
   if (!edit) return board;
 
@@ -39,6 +40,25 @@ const puzzles = boards.map(board => {
       answerNotes: reviseText(board.editorial.answerNotes, edit.notes ?? {}, board.id, 'text'),
     },
   };
+}
+
+const normalize = text => text.trim().toLowerCase().replace(/[.?!]+$/, '').replace(/\s+/g, ' ');
+
+// Drop restatements of the same clue or introduction from the current edition.
+// Keep the original notes in the source and preserved editions.
+const puzzles = boards.map(applyCopyEdits).map(puzzle => {
+  const {editorial} = puzzle;
+  const introduction = normalize(puzzle.description);
+  const focus = normalize(editorial.focus);
+  const clues = new Map(puzzle.entries.map(entry => [entry.answer, normalize(entry.clue)]));
+  const answerNotes = editorial.answerNotes.filter(({answer, text}) => {
+    const quotedClue = text.match(/^Here, “(.+)” describes this answer\.$/)?.[1];
+    const explanation = normalize(quotedClue ?? text);
+    return explanation !== introduction && explanation !== focus && explanation !== clues.get(answer);
+  });
+  return answerNotes.length === editorial.answerNotes.length
+    ? puzzle
+    : {...puzzle, editorial: {...editorial, answerNotes}};
 });
 
 assert.equal(pending.size, 0, `Unknown puzzle copy edits: ${[...pending.keys()].join(', ')}`);

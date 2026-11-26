@@ -5,6 +5,7 @@ import assert from 'node:assert/strict';
 const dist=new URL('../dist/',import.meta.url).pathname;
 const origin='https://largeprintcrosswords.com';
 const puzzles=JSON.parse(readFileSync(new URL('../src/data/puzzles.json',import.meta.url),'utf8'));
+const recommendations=JSON.parse(readFileSync(new URL('../src/data/puzzle-recommendations.json',import.meta.url),'utf8'));
 const decode=s=>s.replace(/&(#x[0-9a-f]+|#[0-9]+|quot|apos|amp|lt|gt);/gi,(_,entity)=>{
  if(entity[0]==='#')return String.fromCodePoint(entity[1].toLowerCase()==='x'?parseInt(entity.slice(2),16):Number(entity.slice(1)));
  return {quot:'"',apos:"'",amp:'&',lt:'<',gt:'>'}[entity.toLowerCase()];
@@ -92,6 +93,14 @@ for(const puzzle of puzzles){
   if(peer!==url)assert.ok(links.has(peer),`${url}: missing link to series peer ${peer}`);
  }
 }
+const puzzlesById=new Map(puzzles.map(puzzle=>[puzzle.id,puzzle]));
+for(const {puzzles: ids} of recommendations){
+ assert.equal(ids.length,2,'A recommendation connects two games');
+ const [first,second]=ids.map(id=>puzzlesById.get(id));
+ assert.ok(first&&second&&first.series!==second.series,`Recommendation must link two current games from different series: ${ids.join(', ')}`);
+ const a=gameUrl(first),b=gameUrl(second);
+ assert.ok(navigation.get(a).has(b)&&navigation.get(b).has(a),`Recommendation must appear in both games: ${ids.join(', ')}`);
+}
 const sitemap=readFileSync(join(dist,'sitemap.xml'),'utf8');
 const listed=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>decode(m[1]));
 assert.equal(new Set(listed).size,listed.length,'Sitemap has duplicate URLs');
@@ -100,6 +109,11 @@ assert.equal(puzzleCount,puzzles.length);
 assert.equal(printPages.size,0,'Unexpected print pages outside the current collection');
 assert.ok(indexable.has(`${origin}/printable/`),'Printable directory must be indexable');
 const robots=readFileSync(join(dist,'robots.txt'),'utf8');assert.ok(robots.includes(`Sitemap: ${origin}/sitemap.xml`));assert.ok(!/Disallow:\s*\/\s*$/m.test(robots));
+const dailyOrder=JSON.parse(readFileSync(join(dist,'daily-order.json'),'utf8'));
+assert.deepEqual(dailyOrder,puzzles.map(puzzle=>puzzle.id),'Daily rotation must use current puzzle URLs in catalog order');
+const dailyRoutes=JSON.parse(readFileSync(join(dist,'_routes.json'),'utf8'));
+assert.deepEqual(dailyRoutes.include,['/daily','/daily/'],'Only the daily page should invoke its Pages Function');
+assert.ok(indexable.has(`${origin}/daily/`),'Daily crossword must keep its indexable canonical URL');
 // The AI-readable guide must point to real canonical pages or the sitemap.
 const llms=readFileSync(join(dist,'llms.txt'),'utf8');
 assert.match(llms,/^# Large Print Crosswords\n/,'LLM guide needs its site heading');
@@ -108,12 +122,27 @@ for(const [,url] of llms.matchAll(/\[[^\]]+\]\((https:\/\/[^)]+)\)/g)){
  assert.ok(indexable.has(url)||url===`${origin}/sitemap.xml`,`LLM guide links to a missing or noncanonical page: ${url}`);
 }
 const image=readFileSync(join(dist,'social-card.png'));assert.equal(image.subarray(1,4).toString(),'PNG');assert.equal(image.readUInt32BE(16),1200);assert.equal(image.readUInt32BE(20),630);
+const catalog=JSON.parse(readFileSync(join(dist,'puzzle-catalog.json'),'utf8'));
+assert.deepEqual(catalog.map(({id,title,theme,subtheme,series,rows,cols,revision})=>({id,title,theme,subtheme,series,rows,cols,revision})),puzzles.map(({id,title,theme,subtheme,series,rows,cols,revision})=>({id,title,theme,subtheme,series,rows,cols,revision})),'Search catalog must contain all current games in order');
+const firstIndex=`${origin}/puzzle-index/1/`;
+const textIndex=new Set();
+for(const [url,links] of navigation){
+ if(!url.startsWith(`${origin}/puzzle-index/`))continue;
+ assert.ok(!indexable.has(url),`${url}: navigation-only index pages must be noindex`);
+ assert.ok(navigation.get(firstIndex)?.has(url),`${url}: text index page needs a direct HTML link`);
+ for(const link of links)textIndex.add(link);
+}
+for(const puzzle of puzzles){
+ assert.ok(textIndex.has(gameUrl(puzzle)),`${puzzle.id}: missing from text index`);
+ assert.ok(textIndex.has(`${origin}/print/${puzzle.id}/`)&&textIndex.has(`${origin}/print/${puzzle.id}-answers/`),`${puzzle.id}: text index must link to both sheets`);
+}
 for(const path of ['crosswords/index.html','printable/index.html']){
  const html=readFileSync(join(dist,path),'utf8');
  const previews=(html.match(/<img\b[^>]*>/g)||[]).filter(tag=>attr(tag,'src').startsWith('/previews/'));
- assert.equal(previews.length,puzzles.length,`${path}: each puzzle keeps its preview and HTML link`);
+ assert.equal(previews.length,Math.min(12,puzzles.length),`${path}: only the initial cards should be present`);
+ assert.ok(navigation.get(origin+'/'+path.replace('index.html',''))?.has(firstIndex),`${path}: text index must be available without scripts`);
  assert.ok(!html.includes('class="mini-cell'),`${path}: decorative cards must not expand every board cell into the DOM`);
  for(const tag of previews){assert.equal(attr(tag,'alt'),'');assert.equal(attr(tag,'loading'),'lazy');assert.ok(Number(attr(tag,'width'))>0&&Number(attr(tag,'height'))>0,'Preview needs intrinsic dimensions');}
 }
 console.log(`PASS SEO: ${htmlCount} HTML pages; ${puzzleCount} indexable puzzles; ${listed.length} unique sitemap URLs; ${puzzleCount*2} noindex print copies; unique titles/descriptions, canonical URLs, structured data, internal targets, and 1200 × 630 sharing image verified.`);
-console.log(`CRAWL: all ${indexable.size} indexable pages reachable through HTML links within ${Math.max(...depth.values())} clicks of home; collection previews use dimensioned, lazy-loaded images.`);
+console.log(`CRAWL: all ${indexable.size} indexable pages reachable through HTML links within ${Math.max(...depth.values())} clicks of home; the text index links to all games and both print sheets without scripts.`);

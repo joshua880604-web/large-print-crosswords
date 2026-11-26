@@ -3,14 +3,15 @@ const {editorial, introduction, title}=Astro.props;
 const focus = editorial.focus.trim();
 const repeatedTitle = title && `The setting is ${title[0].toLowerCase()}${title.slice(1)}. Match each clue to a thing, action, or description in that scene.`;
 const showFocus = focus !== introduction?.trim() && focus !== repeatedTitle;
+const hasExplanations = editorial.answerNotes.length > 0;
 ---
-<section class="puzzle-notes" aria-label="Puzzle notes">
+{(showFocus || hasExplanations) && <section class="puzzle-notes" aria-label="Puzzle notes">
   {showFocus && <>
     <h2>What to expect</h2>
     <p class="puzzle-focus">{editorial.focus}</p>
   </>}
-  <details class="answer-explanations">
-    <summary>A closer look at three answers (spoilers)</summary>
+  {hasExplanations && <details class="answer-explanations">
+    <summary>Answer explanations (spoilers)</summary>
     <dl>{editorial.answerNotes.map(note => <div><dt>{note.answer}</dt><dd>{note.text}</dd></div>)}</dl>
-  </details>
-</section>
+  </details>}
+</section>}

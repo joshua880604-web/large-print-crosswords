@@ -25,6 +25,7 @@ for(const old of previousEditions){
  const current=puzzles.find(p=>p.id===old.id);assert.ok(current&&current.revision>old.revision,`${old.id}: preserved edition must precede current`);
 }
 for(const p of [...puzzles,...originals,...previousEditions]){
+ const isCurrent=puzzles.includes(p);
  const map=new Map(),members=new Map(),starts=new Map(),entrySignatures=new Set();
  assert.ok(p.entries.length>=8,`${p.id}: at least eight clues`);
  assert.ok(p.rows<=13&&p.cols<=13,`${p.id}: maximum board size`);
@@ -40,13 +41,16 @@ for(const p of [...puzzles,...originals,...previousEditions]){
  const seen=new Set([p.entries[0]]),queue=[p.entries[0]];
  while(queue.length){const e=queue.shift();for(const group of members.values()){if(group.includes(e))for(const other of group)if(!seen.has(other)){seen.add(other);queue.push(other);}}}
  assert.equal(seen.size,p.entries.length,`${p.id}: disconnected grid`);
- const fingerprint=JSON.stringify([...map].sort());assert.ok(!grids.has(fingerprint),`${p.id}: duplicate board`);grids.add(fingerprint);if(puzzles.includes(p))clueCount+=p.entries.length;
+ const fingerprint=JSON.stringify([...map].sort());assert.ok(!grids.has(fingerprint),`${p.id}: duplicate board`);grids.add(fingerprint);if(isCurrent)clueCount+=p.entries.length;
  if(p.editorial){
   assert.ok(p.revision>=1&&p.subtheme&&p.cardDescription,'Editorial puzzles need an edition and subject');
   assert.ok(p.rows<=11&&p.cols<=11&&p.entries.length<=12,'Edited themed puzzles keep a compact, readable board');
   assert.ok(p.editorial.focus&&p.editorial.solvingTip);
-  assert.equal(p.editorial.answerNotes.length,3);
-  assert.equal(new Set(p.editorial.answerNotes.map(n=>n.answer)).size,3);
+  for(const [label,number,direction] of p.editorial.solvingTip.matchAll(/\b(\d+) (Across|Down)\b/g)){
+   assert.ok(p.entries.some(e=>e.number===Number(number)&&e.direction===direction.toLowerCase()),`${p.id}: solving tip points to missing clue ${label}`);
+  }
+  if(!isCurrent)assert.equal(p.editorial.answerNotes.length,3);
+  assert.equal(new Set(p.editorial.answerNotes.map(n=>n.answer)).size,p.editorial.answerNotes.length);
   for(const note of p.editorial.answerNotes){assert.ok(p.entries.some(e=>e.answer===note.answer),'Notes must describe actual answers');assert.ok(note.text.trim().length>20);}
  }
 }

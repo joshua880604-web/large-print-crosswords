@@ -1,4 +1,6 @@
 import {test,expect} from '@playwright/test';
+import puzzles from '../src/data/puzzles.json' with {type:'json'};
+import {catalogPageSize} from '../src/data/catalog';
 
 test('filtered collection links load directly and keep a clean canonical',async({page})=>{
  await page.goto('/crosswords/?q=golf&theme=Sports&utm_source=shared');
@@ -89,4 +91,35 @@ test('familiar punctuation differences do not hide a matching puzzle',async({pag
  await expect(page.locator('[data-title]:visible')).toHaveCount(1);
  await page.reload();
  await expect(page.locator('[data-title]:visible')).toHaveCount(1);
+});
+
+test('the print directory loads the full search catalog on demand and retries a network failure',async({page})=>{
+ let requests=0;
+ await page.route('**/puzzle-catalog.json',route=>{
+  requests++;
+  return requests===1 ? route.fulfill({status:503}) : route.continue();
+ });
+ await page.setViewportSize({width:390,height:844});
+ await page.goto('/printable/');
+ await expect(page.getByRole('button',{name:'Show more puzzles'})).toBeVisible();
+ await expect(page.locator('.puzzle-card')).toHaveCount(catalogPageSize);
+ expect(requests).toBe(0);
+
+ const puzzle=puzzles.at(-1)!;
+ await page.getByLabel('Find a puzzle').fill(puzzle.title);
+ await expect(page.getByRole('status')).toHaveText('Puzzle matches unavailable.');
+ await expect(page.getByRole('link',{name:'Browse the text index'})).toBeVisible();
+ await page.getByRole('button',{name:'Try again'}).click();
+ await expect(page.getByRole('status')).toHaveText('Showing 1 of 1 puzzle');
+ const row=page.locator(`[data-id="${puzzle.id}"]`);
+ await expect(row.locator('a.puzzle-card')).toHaveAttribute('href',`/print/${puzzle.id}/`);
+ await expect(row.getByRole('link',{name:`Answer sheet for ${puzzle.title}`})).toHaveAttribute('href',`/print/${puzzle.id}-answers/`);
+ await expect(row.getByRole('link',{name:`Play ${puzzle.title} online`})).toHaveAttribute('href',`/crosswords/${puzzle.id}/`);
+ await expect(row.locator('img')).toHaveAttribute('width',String(puzzle.cols*24));
+ expect(requests).toBe(2);
+ await page.getByRole('button',{name:'Clear filters'}).click();
+ await page.getByRole('button',{name:'Show more puzzles'}).click();
+ await expect(page.locator('.puzzle-card')).toHaveCount(catalogPageSize*2);
+ await expect(page.locator('.puzzle-card').nth(catalogPageSize)).toBeFocused();
+ expect(requests).toBe(2);
 });

@@ -1,5 +1,6 @@
 import {test,expect} from '@playwright/test';
 import puzzles from '../src/data/puzzles.json' with {type:'json'};
+import {catalogPageSize,textIndexPageSize} from '../src/data/catalog';
 
 test('production metadata survives query strings and matches visible breadcrumbs',async({page,request})=>{
  const ampPuzzle=puzzles.find(p=>p.title.includes('&'))!;
@@ -29,9 +30,10 @@ test('print copies and missing pages are excluded from indexing',async({page,req
  const response=await request.get('/robots.txt');expect(await response.text()).toContain('Sitemap: https://largeprintcrosswords.com/sitemap.xml');
 });
 
-test('collections keep every puzzle crawlable without scripts and load compact previews',async({browser,request})=>{
+test('compact directories and the text index work without scripts',async({browser,request})=>{
  test.setTimeout(90_000);
- const puzzle=puzzles.find(p=>p.rows!==p.cols)!;
+ const initial=puzzles.slice(0,catalogPageSize);
+ const puzzle=initial.find(p=>p.rows!==p.cols)!;
  const preview=`/previews/${puzzle.id}-v${puzzle.revision||1}.svg`;
  const context=await browser.newContext({javaScriptEnabled:false}),page=await context.newPage();
  try{
@@ -40,18 +42,17 @@ test('collections keep every puzzle crawlable without scripts and load compact p
   await context.route('**/previews/*.svg',route=>
    new URL(route.request().url()).pathname===preview?route.continue():route.abort());
   for(const path of ['/crosswords/','/printable/']){
-   // Crawlability requires the complete DOM; individual previews are checked below.
    await page.goto(path,{waitUntil:'domcontentloaded'});
-   await expect(page.locator('a.puzzle-card')).toHaveCount(puzzles.length);
+   await expect(page.locator('a.puzzle-card')).toHaveCount(initial.length);
    const links=await page.locator('a.puzzle-card').evaluateAll(anchors=>anchors.map(a=>a.getAttribute('href')));
-   expect(links.sort()).toEqual(puzzles.map(p=>`${path==='/printable/'?'/print/':'/crosswords/'}${p.id}/`).sort());
+   expect(links.sort()).toEqual(initial.map(p=>`${path==='/printable/'?'/print/':'/crosswords/'}${p.id}/`).sort());
    if(path==='/printable/'){
     const online=await page.locator('.print-card-links a[href^="/crosswords/"]').evaluateAll(anchors=>anchors.map(a=>a.getAttribute('href')));
-    expect(online.sort()).toEqual(puzzles.map(p=>`/crosswords/${p.id}/`).sort());
-    await expect(page.locator('.print-card-links a[href$="-answers/"]')).toHaveCount(puzzles.length);
+    expect(online.sort()).toEqual(initial.map(p=>`/crosswords/${p.id}/`).sort());
+    await expect(page.locator('.print-card-links a[href$="-answers/"]')).toHaveCount(initial.length);
    }
    await expect(page.locator('.puzzle-card .mini-cell')).toHaveCount(0);
-   await expect(page.locator('.puzzle-card img[loading="lazy"][alt=""]')).toHaveCount(puzzles.length);
+   await expect(page.locator('.puzzle-card img[loading="lazy"][alt=""]')).toHaveCount(initial.length);
   }
   // A rectangular preview must keep its real board geometry and clue numbers.
   const response=await request.get(preview);
@@ -64,5 +65,15 @@ test('collections keep every puzzle crawlable without scripts and load compact p
   await image.scrollIntoViewIfNeeded();
   await expect(image).toHaveJSProperty('complete',true);
   expect(await image.evaluate(el=>(el as HTMLImageElement).naturalWidth)).toBe(puzzle.cols*24);
+  await page.getByRole('link',{name:'Browse the text index'}).click();
+  await expect(page.locator('meta[name=robots]')).toHaveAttribute('content','noindex,follow');
+  const lastPage=Math.ceil(puzzles.length/textIndexPageSize);
+  await page.getByRole('link',{name:`Page ${lastPage}`,exact:true}).click();
+  const puzzleAtEnd=puzzles.at(-1)!;
+  await expect(page.getByRole('link',{name:puzzleAtEnd.title,exact:true})).toHaveAttribute('href',`/crosswords/${puzzleAtEnd.id}/`);
+  await expect(page.getByRole('link',{name:`Print puzzle: ${puzzleAtEnd.title}`,exact:true})).toHaveAttribute('href',`/print/${puzzleAtEnd.id}/`);
+  await page.getByRole('link',{name:`Print answers: ${puzzleAtEnd.title}`,exact:true}).click();
+  await expect(page.locator('.print-clues')).toContainText(puzzleAtEnd.entries[0].answer);
+
  }finally{await context.close();}
 });

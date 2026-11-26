@@ -1,11 +1,13 @@
 import {test,expect} from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import puzzles from '../src/data/puzzles.json' with {type:'json'};
+import {catalogPageSize} from '../src/data/catalog';
+import {dailySelection} from '../src/data/daily.mjs';
 
 test('home navigation, filtering, and static content',async({page})=>{
  await page.goto('/');await expect(page.getByRole('heading',{level:1})).toContainText('Big letters');
  await page.getByRole('link',{name:'Explore all puzzles'}).click();
- await expect(page.locator('.puzzle-card')).toHaveCount(puzzles.length);
+ await expect(page.locator('.puzzle-card')).toHaveCount(catalogPageSize);
  await page.getByLabel('Find a puzzle').fill('Garden Tools');
  await expect(page.locator('[data-title]:visible')).toHaveCount(1);
  await page.getByLabel('Find a puzzle').fill('backyard birds');await expect(page.locator('[data-title]:visible')).toHaveCount(5);
@@ -100,8 +102,37 @@ test('blocked storage still permits play',async({page})=>{
  await page.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('Blocked storage')}});});await page.goto('/crosswords/garden-days/');await page.locator('.clue-button').first().click();await page.keyboard.type('A');await expect(page.getByRole('status')).toContainText('cannot save progress');
 });
 
-test('daily selection rotates to a prebuilt puzzle after the build date',async({page})=>{
- const future=new Date('2027-03-15T16:00:00Z');await page.clock.install({time:future});await page.goto('/daily/');const day=Math.floor(Date.parse('2027-03-15T12:00:00Z')/86400000);await expect(page).toHaveURL(new RegExp(`/crosswords/${puzzles[day%puzzles.length].id}/$`));await expect(page.locator('.game-root')).toBeVisible();
+test('daily selection changes at New York midnight in winter and summer',()=>{
+ for(const [before,after,oldDay,newDay] of [
+  ['2027-01-15T04:59:59Z','2027-01-15T05:00:00Z','2027-01-14','2027-01-15'],
+  ['2027-07-15T03:59:59Z','2027-07-15T04:00:00Z','2027-07-14','2027-07-15'],
+ ]){
+  const old=dailySelection(puzzles,new Date(before));
+  const next=dailySelection(puzzles,new Date(after));
+  expect(old.date).toBe(oldDay);
+  expect(next.date).toBe(newDay);
+  const day=Math.floor(Date.parse(newDay+'T00:00:00Z')/86_400_000);
+  expect(next.puzzle.id).toBe(puzzles[day%puzzles.length].id);
+  expect(next.puzzle.id).not.toBe(old.puzzle.id);
+ }
+});
+
+test('daily fallback has a playable board and stable canonical without a browser redirect',async({page,browser})=>{
+ const path='/daily/';
+ await page.clock.install({time:new Date('2027-03-15T16:00:00Z')});
+ await page.goto(path);
+ await expect(page).toHaveURL(/\/daily\/$/);
+ await expect(page.locator('link[rel="canonical"]')).toHaveAttribute('href','https://largeprintcrosswords.com/daily/');
+ const selected=await page.locator('.game-root').evaluate(element=>JSON.parse((element as HTMLElement).dataset.puzzle!).id);
+ await expect(page.getByRole('link',{name:'Open this puzzle’s permanent link'})).toHaveAttribute('href',`/crosswords/${selected}/`);
+ await expect(page.getByRole('link',{name:'Print answers',exact:true})).toHaveAttribute('href',`/print/${selected}-answers/`);
+ const context=await browser.newContext({javaScriptEnabled:false});
+ try{
+  const plain=await context.newPage();
+  await plain.goto(new URL(path,page.url()).href);
+  await expect(plain.locator('.game-root')).toBeVisible();
+  await expect(plain.getByRole('heading',{level:1})).toHaveText(puzzles.find(puzzle=>puzzle.id===selected)!.title);
+ }finally{await context.close();}
 });
 
 test('on-screen keyboard shares input, deletion, hints and saved progress',async({page})=>{
