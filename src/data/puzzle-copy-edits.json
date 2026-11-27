@@ -505,7 +505,8 @@
     "solvingTip": "Start with the small piece of money that opens the rack. Then picture the narrow opening where you put it.",
     "clues": {
       "SLOT": "Narrow opening that takes a coin",
-      "LIFT": "Raise the rack's front panel to reach the paper"
+      "LIFT": "Raise the rack's front panel to reach the paper",
+      "PAGE": "One printed side of a newspaper sheet"
     },
     "notes": {
       "NEWSPAPER": "A sidewalk rack could hold a stack of the same day's edition for people passing by.",
@@ -567,7 +568,10 @@
     "revision": 1,
     "solvingTip": "Try the three-letter clue for what holds the dessert in the oven. Then think of the fruits used for cider and the grains in the topping.",
     "clues": {
-      "APPLES": "Fruits often pressed to make cider"
+      "APPLES": "Fruit baked under the crumble topping"
+    },
+    "notes": {
+      "APPLES": "Slices cut to roughly the same thickness soften at about the same rate. The oat topping can brown while the fruit below it becomes tender."
     }
   },
   "keeping-food-fresh-4": {
@@ -653,7 +657,8 @@
     "revision": 1,
     "solvingTip": "Start with the clue for the part that folds over the opening. Then think of how the bookmark moves into the envelope.",
     "clues": {
-      "SLIDE": "Move smoothly into an envelope"
+      "SLIDE": "Move smoothly into an envelope",
+      "EDGE": "Outer boundary of the envelope"
     }
   },
   "handwork-fixing-keepsakes-3": {
@@ -662,7 +667,8 @@
     "clues": {
       "SLIP": "Move out of a pocket through a tear",
       "POCKET": "Small clear holder for a photo in an album",
-      "PRINT": "Photograph on paper that slips into an album"
+      "PRINT": "Photograph on paper that slips into an album",
+      "SPLIT": "Tear or gap in the sleeve that holds a photo"
     }
   },
   "handwork-fixing-keepsakes-4": {
@@ -719,7 +725,8 @@
     "clues": {
       "STRING": "Thin strand that vibrates when plucked on a guitar",
       "WIRE": "Thin metal strand that can wrap around a guitar string's core",
-      "PACKET": "Small paper sleeve that holds a spare guitar string"
+      "PACKET": "Small paper sleeve that holds a spare guitar string",
+      "BREAK": "Snap apart, as a worn guitar string can do"
     },
     "notes": {
       "STRING": "A spare guitar string can be loosely coiled so it fits into a small flat packet.",
@@ -730,7 +737,8 @@
     "revision": 1,
     "solvingTip": "Start with the metal family this instrument belongs to. Then look for what the player moves to change the pitch.",
     "clues": {
-      "SLIDE": "Moving part a trombone player pushes in and out"
+      "SLIDE": "Moving part a trombone player pushes in and out",
+      "NOTE": "One musical sound a trombone plays"
     },
     "notes": {
       "SLIDE": "Moving the slide farther out makes the air travel through more tubing and helps produce lower notes."
@@ -860,7 +868,8 @@
     "revision": 1,
     "solvingTip": "Picture a place ready for a guest. Start with what holds the food and then look for the utensil that belongs on its left.",
     "clues": {
-      "SET": "Lay out plates and silverware for a meal"
+      "SET": "Lay out plates and silverware for a meal",
+      "SEAT": "Place at the table where one person sits"
     }
   },
   "stories-of-help-and-listening-3": {
@@ -1101,10 +1110,12 @@
       "TRACK": "Path that guides the ball back to the bowlers",
       "TURN": "One player's chance to bowl",
       "LANE": "Long strip of smooth floor the ball rolls down toward the pins",
-      "ROLL": "Send the ball moving along the floor so it turns over"
+      "ROLL": "Send the ball moving along the floor so it turns over",
+      "RETURN": "Come back to the player after a roll"
     },
     "notes": {
-      "BALL": "A bowling ball rolls down the lane toward the pins. A separate track guides it back."
+      "BALL": "A bowling ball rolls down the lane toward the pins. A separate track guides it back.",
+      "RETURN": "After each roll, the ball comes back along a channel beside the lane. The player can wait until the ball settles in the rack before picking it up again."
     }
   },
   "errands-on-main-street-3": {
@@ -1243,7 +1254,9 @@
       "ERASER": "Felt tool used to wipe chalk marks off a classroom board",
       "LETTER": "Single mark of the alphabet, such as A or B",
       "DUST": "Fine powder left when chalk marks are wiped away",
-      "TEACHER": "School worker who may write a lesson on the board"
+      "TEACHER": "School worker who may write a lesson on the board",
+      "BOARD": "Surface a teacher writes on with chalk",
+      "WRITE": "Form letters on the board with chalk"
     },
     "notes": {
       "ERASER": "A felt blackboard eraser picks up loose chalk powder when you rub it across the board.",
@@ -1285,7 +1298,8 @@
     "solvingTip": "Start with what people form while waiting their turn. Then look for the clues for the worker, the work surface and the paper you get after paying.",
     "clues": {
       "LINE": "Row of people waiting to be helped at the counter",
-      "RECEIPT": "Proof of the amount paid at the pharmacy counter"
+      "RECEIPT": "Proof of the amount paid at the pharmacy counter",
+      "SIGN": "Write your name to confirm you picked up the medicine"
     },
     "notes": {
       "SHELF": "At this pharmacy, a shelf can hold prepared orders behind the counter. The clerk brings the labeled bag to the counter for pickup.",
@@ -2268,7 +2282,8 @@
       "LEVEL": "Flat and even in height along the top",
       "TRIM": "Make the whole hedge neat by cutting along its top",
       "CLIP": "Snip off a single leaf or twig with one quick motion",
-      "BRANCH": "Woody part of a hedge that can be trimmed back"
+      "BRANCH": "Woody part of a hedge that can be trimmed back",
+      "LINE": "Straight row formed by the tops of the shrubs"
     },
     "notes": {
       "LEVEL": "Level describes the result along the top. You can compare the height at both ends to see whether one side is higher.",
@@ -2433,7 +2448,8 @@
     "revision": 1,
     "solvingTip": "Find the face part you use to notice a smell at 8 Down. Then look across at 7 Across for the striped animal crossing the yard.",
     "clues": {
-      "TAIL": "Part behind the skunk's body that it can lift"
+      "TAIL": "Part behind the skunk's body that it can lift",
+      "WALK": "Move across the yard on foot, as a skunk does"
     },
     "notes": {
       "WHITE": "A striped skunk's white markings stand out against its black fur. The stripes can vary in width and may extend onto the tail.",
@@ -3048,7 +3064,8 @@
     },
     "clues": {
       "WHITE": "Color of rice with the outer bran removed",
-      "RICE": "Grain that can be steamed and served as a side"
+      "RICE": "Grain that can be steamed and served as a side",
+      "POT": "Deep cooking vessel that can hold rice and water"
     }
   },
   "supper-on-the-stove-3": {
@@ -3170,7 +3187,8 @@
     "solvingTip": "Try the word for the long green case that holds the seeds at 3 Down. It crosses the nut that is toasted and scattered over the beans at 4 Across.",
     "clues": {
       "TOAST": "Heat the almonds in a dry pan until lightly browned",
-      "POD": "Long green case that holds the bean seeds"
+      "POD": "Long green case that holds the bean seeds",
+      "SNAP": "Break off the end of a bean with your fingers"
     },
     "notes": {
       "SPOON": "A serving spoon can lift green beans together with the loose pieces of almond. The toasted nuts are the smaller, crisp pieces mixed in with the beans.",
@@ -3240,7 +3258,8 @@
     "clues": {
       "SPOON": "Bowl-ended utensil whose back can mash soft apples",
       "CINNAMON": "Sweet-smelling brown spice often stirred into applesauce",
-      "APPLE": "Fruit cooked until soft for a smooth sauce"
+      "APPLE": "Fruit cooked until soft for a smooth sauce",
+      "POT": "Deep cooking vessel the apples can soften in"
     }
   },
   "dessert-bowls-4": {
@@ -3254,7 +3273,8 @@
     "clues": {
       "SPOON": "Utensil for eating ice cream with syrup",
       "CHERRY": "Small red fruit often placed on top of a banana split",
-      "CREAM": "Dairy topping often whipped for a banana split"
+      "CREAM": "Dairy topping often whipped for a banana split",
+      "SPLIT": "Dessert served between two halves of a banana, as in banana ___"
     }
   },
   "dessert-bowls-5": {
@@ -3698,7 +3718,8 @@
     },
     "clues": {
       "NUT": "Crunchy trail mix piece such as an almond",
-      "BAG": "Small container that can hold trail mix to take along"
+      "BAG": "Small container that can hold trail mix to take along",
+      "MIX": "Blend of nuts, raisins, and other small snack foods"
     }
   },
   "snacks-for-a-table-5": {
@@ -3976,7 +3997,7 @@
   },
   "household-paperwork-3": {
     "revision": 1,
-    "solvingTip": "Try the short word for a single square on the calendar at 3 Across. It crosses the span of all twelve months at 4 Down.",
+    "solvingTip": "Start with what shows the whole month at 6 Across. Its crossing at 1 Down asks for the round shape you can draw to make one square stand out.",
     "notes": {
       "NUMBER": "The number in a calendar square tells which date it is within that month. The column heading tells which day of the week it is.",
       "CALENDAR": "A wall calendar lets you see dates for a whole month at once. A note in a square can put the time of an appointment next to its date.",
@@ -3985,7 +4006,8 @@
     "clues": {
       "NUMBER": "Mark in a calendar square showing the date within the month",
       "CALENDAR": "Chart on the wall with a square for each date",
-      "CIRCLE": "Round line drawn around a date"
+      "CIRCLE": "Round line drawn around a date",
+      "PAGE": "One sheet in a hanging calendar"
     }
   },
   "household-paperwork-4": {
@@ -4009,7 +4031,8 @@
     },
     "clues": {
       "PAPER": "Sheet material you put into a file folder",
-      "LABEL": "Tag showing what kind of papers are in a folder"
+      "LABEL": "Tag showing what kind of papers are in a folder",
+      "ORDER": "Arrangement the papers are filed in"
     }
   },
   "fresh-laundry": {
@@ -4206,7 +4229,8 @@
     "solvingTip": "Find what you hold to make ink marks at 10 Across. Its crossing at 7 Down names the action of putting words on the page.",
     "clues": {
       "WRITE": "Put the words of a message on paper",
-      "LETTER": "Written message that can share news with a grandchild"
+      "LETTER": "Written message that can share news with a grandchild",
+      "SIGN": "Put your name at the end of a letter"
     },
     "notes": {
       "PAPER": "Your note goes on the paper, and the address goes on the envelope. Leave room at the end of the last page for the closing and your name.",
@@ -4458,7 +4482,8 @@
     "solvingTip": "Try the action that bends the program in half at 1 Across. It crosses the detail printed to tell people when the concert is held at 2 Down.",
     "clues": {
       "COVER": "Outside sheet of a printed concert program",
-      "PRINT": "Put the concert program's words on paper"
+      "PRINT": "Put the concert program's words on paper",
+      "PAGE": "One side of the folded concert program"
     },
     "notes": {
       "PAPER": "The printed sheet becomes a program when it is folded so the pages read in order. The title and date can go on the outside.",
@@ -4674,7 +4699,8 @@
     },
     "clues": {
       "BENCH": "Long seat for people waiting under a bus shelter",
-      "SHELTER": "Covered place to wait for the bus"
+      "SHELTER": "Covered place to wait for the bus",
+      "STOP": "Place where passengers wait for the bus"
     }
   },
   "home-storage-spaces": {
@@ -4952,7 +4978,8 @@
       "TEACHER": "A teacher may add a comment beside a grade to explain a strength or a point to work on. The report travels home so the family can see that progress."
     },
     "clues": {
-      "TEACHER": "Person who may write comments on a report card"
+      "TEACHER": "Person who may write comments on a report card",
+      "SIGN": "Write your name on the report card"
     }
   },
   "memories-of-main-street": {
@@ -5154,7 +5181,8 @@
       "SPOOL": "Holder that takes up the strip after it runs through the projector",
       "FILM": "Flexible strip of pictures that runs through a movie projector",
       "REEL": "Round holder the rolled-up movie is stored on between showings",
-      "CAMERA": "Device that recorded home movies on film"
+      "CAMERA": "Device that recorded home movies on film",
+      "FRAME": "One still image on a strip of movie film"
     },
     "notes": {
       "FAMILY": "A reel of home movies can show milestones in a family's life, from an ordinary outing to a birthday. The pictures appear to move when the reel runs through a projector.",
@@ -5292,7 +5320,8 @@
       "FOOT": "Each boot covers a foot. The mark it leaves in the snow is usually the pattern of the sole, which can show which way the walker went."
     },
     "clues": {
-      "WALK": "Path where boots leave marks in the snow"
+      "WALK": "Path where boots leave marks in the snow",
+      "STEP": "One foot movement that can leave a mark in snow"
     }
   },
   "winter-in-the-neighborhood-2": {
@@ -6116,7 +6145,8 @@
       "SHADE": "A lighter or darker form of a color",
       "WASH": "Thin coat of watercolor spread with a wet brush",
       "RIM": "Top edge around a teacup",
-      "PAINT": "Coloring material you apply to paper with a wet brush"
+      "PAINT": "Coloring material you apply to paper with a wet brush",
+      "LIGHT": "Brightness that can make one side of a painted cup look paler"
     },
     "notes": {
       "SHADE": "Compare the shaded side of the cup with the side facing the light. On paper, painting the darker side can make the cup look round.",
@@ -6569,7 +6599,8 @@
       "BASKET": "Moses' mother coats the woven basket to seal the gaps between the reeds. Pharaoh's daughter opens it and sees the baby inside."
     },
     "clues": {
-      "WATER": "What the coated basket was meant to keep out"
+      "WATER": "What the coated basket was meant to keep out",
+      "HIDE": "Keep the baby where others cannot see him"
     }
   },
   "bible-moses-and-the-journey-2": {
@@ -7752,11 +7783,13 @@
       "ORANGE": "Color of the skin on a classic carving pumpkin",
       "SCOOP": "Lift out the seeds and stringy pulp with a spoon",
       "LIGHT": "What shines through a carved pumpkin's face",
-      "PORCH": "Platform by the front door where a jack-o'-lantern can sit"
+      "PORCH": "Platform by the front door where a jack-o'-lantern can sit",
+      "FACE": "Eyes and mouth carved into the pumpkin"
     },
     "notes": {
       "LIGHT": "The light sits inside the hollow pumpkin. The parts you cut away for the eyes and mouth let that glow show outside.",
-      "PORCH": "The porch gives the carved pumpkin a place where it can be seen from the walk. Turn the cut face toward the path so its glow is visible from outside."
+      "PORCH": "The porch gives the carved pumpkin a place where it can be seen from the walk. Turn the cut face toward the path so its glow is visible from outside.",
+      "FACE": "The pumpkin's face is made by cutting openings for eyes and a mouth. The light inside makes those features stand out from the uncut shell."
     }
   },
   "halloween-porch-scenes-3": {
@@ -7835,7 +7868,8 @@
     "clues": {
       "DECK": "Full set of playing cards",
       "SHUFFLE": "Mix up playing cards before dealing",
-      "PLAY": "Take part in a card game"
+      "PLAY": "Take part in a card game",
+      "ROUND": "One run of play before the cards are dealt again"
     },
     "notes": {
       "DECK": "A standard deck has 52 cards divided into four suits. Before dealing, tap the edges of the stack together so a loose card is less likely to slip out.",
@@ -7972,7 +8006,9 @@
     "solvingTip": "At 8 Across, start with the part of the dish you grab to lift it. Then look for the short word describing the strip of cloth that goes around it.",
     "clues": {
       "TIE": "Cloth strip knotted around a serving dish's handle",
-      "MARK": "Put a name on something to show who owns it"
+      "MARK": "Put a name on something to show who owns it",
+      "LOOP": "Fabric ring or bend that can go around a dish handle",
+      "DISH": "Container used to bring food to a shared meal"
     },
     "notes": {
       "TIE": "The cloth tie goes around the dish's handle where it can be seen before the food is served. A name on the strip helps the borrowed dish find its way home."
@@ -8223,14 +8259,20 @@
     "revision": 1,
     "solvingTip": "At 2 Down, name what you put on to see small print. At 1 Across, look for the joint that opens the hard case holding it.",
     "clues": {
-      "HINGE": "Joint that lets a glasses case open and close"
+      "HINGE": "Joint that lets a glasses case open and close",
+      "FRAME": "Part that holds the lenses of a pair of glasses"
     }
   },
   "useful-things-in-the-car-3": {
     "revision": 1,
     "solvingTip": "Start with the flap at 4 Down. Then look for the part that lets it move when you want to shade the side window.",
     "clues": {
-      "HINGE": "Joint that lets the visor swing to the side"
+      "HINGE": "Joint that lets the visor swing to the side",
+      "FRONT": "Part of a car where the windshield is",
+      "WINDOW": "Side opening with glass that a visor can turn toward"
+    },
+    "notes": {
+      "WINDOW": "The opening beside the front seat is the side window. On many cars the visor can swing toward that opening when sunlight comes from the side."
     }
   },
   "fittings-in-shared-places-4": {
@@ -8293,7 +8335,8 @@
     "revision": 1,
     "solvingTip": "Think of the money the clerk hands back at 5 Across. The same square starts 5 Down and names one piece of it.",
     "clues": {
-      "RIM": "Raised edge that keeps coins inside the tray"
+      "RIM": "Raised edge that keeps coins inside the tray",
+      "WINDOW": "Opening above the tray where the clerk and customer speak"
     }
   },
   "food-on-the-griddle-4": {
@@ -8388,7 +8431,8 @@
     "revision": 1,
     "solvingTip": "At 3 Down, start with the drawing tool. At 6 Down, think of the broad motion it can make after you turn the book to a better angle.",
     "clues": {
-      "SWEEP": "Broad curving movement of the pencil"
+      "SWEEP": "Broad curving movement of the pencil",
+      "LINE": "Long narrow mark drawn with a pencil"
     }
   },
   "everyday-kitchen-repairs-5": {
@@ -8464,7 +8508,8 @@
     "solvingTip": "At 6 Down, picture the bound side of a volume that faces you in the library. Then look for the short word for the letters and numbers that identify it.",
     "clues": {
       "CODE": "Set of letters or numbers that identifies a library book",
-      "LETTER": "Alphabet character in a book's call number"
+      "LETTER": "Alphabet character in a book's call number",
+      "ORDER": "Arrangement that puts library books in sequence"
     }
   },
   "visits-and-welcome-5": {
@@ -8485,7 +8530,8 @@
     "revision": 1,
     "solvingTip": "Begin at 1 Down with what you put by the door. At 7 Down, think of the condition you want it to be in after the wet weather has passed.",
     "clues": {
-      "RAIN": "Falling water that left the outdoor mat wet"
+      "RAIN": "Falling water that left the outdoor mat wet",
+      "FLOOR": "Surface the mat lies on by the door"
     }
   },
   "sorting-and-donating": {
@@ -8592,7 +8638,8 @@
     "clues": {
       "BRUSH": "Remove loose snow with a light movement of the hand",
       "PRINT": "Impression a hand can leave in a dusting of snow",
-      "RAIL": "Long bar along the path that a walker can hold"
+      "RAIL": "Long bar along the path that a walker can hold",
+      "WALK": "Path people go along on foot in the park"
     }
   },
   "harvest-basket-details-5": {
@@ -8608,7 +8655,8 @@
     "clues": {
       "LAMP": "Light that is kept burning while the household waits",
       "LISTEN": "Pay attention to whether you hear someone at the door",
-      "OPEN": "Move the door so someone can come in"
+      "OPEN": "Move the door so someone can come in",
+      "RETURN": "Come back to the house after being away"
     }
   },
   "around-a-local-bus-route-4": {
@@ -8690,7 +8738,8 @@
     "solvingTip": "Think of the garment at 7 Down. At 9 Across, find the folded bottom edge you can fasten with a clothes peg.",
     "clues": {
       "PIN": "Fasten a shirt to the clothesline",
-      "LINE": "Cord that holds the shirt up while it dries"
+      "LINE": "Cord that holds the shirt up while it dries",
+      "SNAP": "Close suddenly with a short clicking sound"
     },
     "notes": {
       "PIN": "To pin the shirt to the line, press the handles of a clothespin to open its jaws. Let them close over both the line and the folded bottom edge to hold the shirt up."
@@ -8715,7 +8764,8 @@
     "solvingTip": "Try the animal at 5 Across. At 3 Down, picture the shape one of its feet could leave, like the pattern on the greeting.",
     "clues": {
       "PRINT": "Mark left by a rabbit's foot",
-      "TRACK": "Foot-shaped mark a rabbit can leave behind"
+      "TRACK": "Foot-shaped mark a rabbit can leave behind",
+      "MARK": "Trace of a foot stamped onto the card"
     },
     "notes": {
       "PRINT": "On a rabbit trail the larger prints come from its hind feet. Smaller marks from the front feet help give the trail its familiar hopping pattern."
@@ -8762,7 +8812,8 @@
     "revision": 1,
     "solvingTip": "At 7 Down, start with the bread you use as a base. At 2 Down, find the seasoning that gives the sauce a little bite.",
     "clues": {
-      "PEPPER": "Dark ground seasoning that gives gravy a little bite"
+      "PEPPER": "Dark ground seasoning that gives gravy a little bite",
+      "SPLIT": "Open the biscuit into two halves"
     }
   },
   "keeping-instruments-ready-3": {
@@ -8778,7 +8829,8 @@
     "revision": 1,
     "solvingTip": "Start with the tool part at 8 Across. At 5 Down, picture the wide thin form the mixture takes after it passes through.",
     "clues": {
-      "SHEET": "Wide thin layer of dough coming out of the roller"
+      "SHEET": "Wide thin layer of dough coming out of the roller",
+      "ROLL": "Flatten the dough as it goes through the machine"
     }
   },
   "local-show-opening-5": {
@@ -8787,14 +8839,16 @@
     "clues": {
       "PLAYER": "Person who sits at the piano and makes music",
       "MOVE": "Shift the bench to a different spot",
-      "SIT": "Take a seat at the piano"
+      "SIT": "Take a seat at the piano",
+      "BACK": "Away from the keys, as when you slide a bench backward"
     }
   },
   "local-show-opening-3": {
     "revision": 1,
     "solvingTip": "Try the lamp itself at 5 Across. At 7 Down, look for the narrow bundle of rays that it sends toward the performer.",
     "clues": {
-      "STAGE": "Area the performer steps onto under the lights"
+      "STAGE": "Area the performer steps onto under the lights",
+      "FRONT": "Part of the performance area nearest the audience"
     }
   },
   "familiar-first-aid-supplies-4": {
@@ -8852,7 +8906,8 @@
     "revision": 1,
     "solvingTip": "Begin with what has hardened at 7 Down. At 2 Across, find what it does when the air warms enough for the panel to lift again.",
     "clues": {
-      "RUBBER": "Flexible material along the lower edge of some garage doors"
+      "RUBBER": "Flexible material along the lower edge of some garage doors",
+      "STICK": "Become held in place by ice"
     }
   },
   "flower-display-details-2": {
@@ -8895,7 +8950,8 @@
     "revision": 1,
     "solvingTip": "Start with what goes into the little vessel at 3 Down. At 1 Down, name the part it flows out of to reach the plate.",
     "clues": {
-      "BOAT": "Long narrow serving dish with a pouring lip for gravy"
+      "BOAT": "Long narrow serving dish with a pouring lip for gravy",
+      "DISH": "Serving container, such as one with a spout for gravy"
     }
   },
   "small-tools-at-a-paper-desk-4": {
@@ -8911,7 +8967,8 @@
     "solvingTip": "At 5 Across, start with the small piece of paper that shows who has paid. At 4 Down, look for the word for the small mark left in a corner after use.",
     "clues": {
       "PUNCH": "Tool used to make a small hole in a ticket",
-      "CHECK": "Look at the ticket to see if it has already been used"
+      "CHECK": "Look at the ticket to see if it has already been used",
+      "USED": "Already accepted in exchange for a meal"
     }
   },
   "summer-shade-and-breaks-3": {
@@ -8920,10 +8977,12 @@
     "clues": {
       "RING": "Round mark left by the bottom of a wet glass",
       "OUTSIDE": "Outer surface where drops form on a cold glass",
-      "PUDDLE": "Small pool of water that can form under a glass"
+      "PUDDLE": "Small pool of water that can form under a glass",
+      "GLASS": "Drinking vessel that can leave a wet mark"
     },
     "notes": {
-      "RING": "The wet ring follows the glass's round base. A coaster catches the drops before the base leaves that shape on the table."
+      "RING": "The wet ring follows the glass's round base. A coaster catches the drops before the base leaves that shape on the table.",
+      "GLASS": "A cold drinking glass can collect moisture on its outside. That water can run to the bottom and leave a circle when the glass is lifted."
     }
   },
   "around-a-local-bus-route-3": {
@@ -8956,10 +9015,14 @@
     "revision": 1,
     "solvingTip": "At 10 Down, find what the furniture does when it sits unevenly. At 11 Across, find the word that describes its top after a thin support goes underneath.",
     "clues": {
-      "LEVEL": "Even across the top after a table leg is propped up"
+      "LEVEL": "Even across the top after a table leg is propped up",
+      "ROCK": "Move back and forth when one side is pushed down",
+      "LEG": "Support that holds up a corner of the folding table",
+      "STEADY": "Firm enough to stay still while in use"
     },
     "notes": {
-      "LEVEL": "A table is level when its top stays at the same height from one side to the other. A thin scrap under the low leg may bring it even with the others."
+      "LEVEL": "A table is level when its top stays at the same height from one side to the other. A thin scrap under the low leg may bring it even with the others.",
+      "LEG": "If one table leg has a gap under it, the top may rock when you lean on it. Slide a thin scrap under that leg to give it support."
     }
   },
   "neighbors-and-small-kindnesses-3": {
@@ -9028,7 +9091,8 @@
     "revision": 1,
     "solvingTip": "At 9 Across, start with what a player tosses. At 8 Down, find the raised border that stops them from falling off.",
     "clues": {
-      "PLAY": "Take part in a game with dice"
+      "PLAY": "Take part in a game with dice",
+      "STOP": "Keep a rolling die from getting past the rim"
     }
   },
   "spring-outdoor-get-together-4": {
@@ -9216,7 +9280,8 @@
     "revision": 1,
     "solvingTip": "Think of what goes into each small baking space first at 1 Down. At 4 Across, look for the mixture that goes into those holders.",
     "clues": {
-      "BAKE": "Cook the muffin batter in the oven"
+      "BAKE": "Cook the muffin batter in the oven",
+      "STAND": "Stay upright in one of the pan's cups"
     }
   },
   "around-a-local-bus-route": {
@@ -9315,7 +9380,8 @@
     "revision": 1,
     "solvingTip": "Try the action of pushing down at 5 Across. At 8 Across, think of how the object should sit once it stops rocking.",
     "clues": {
-      "LEVEL": "Even from side to side so the stone sits without rocking"
+      "LEVEL": "Even from side to side so the stone sits without rocking",
+      "SHIFT": "Move a little when one side is pressed"
     }
   },
   "water-edges-after-weather-5": {
@@ -9362,7 +9428,8 @@
     "solvingTip": "Start with the bouncy object at 4 Down. At 8 Across, look for the word for what it does when it stays against something upright.",
     "clues": {
       "SURFACE": "Outer layer of the balloon that is rubbed with wool",
-      "FLOAT": "Stay up in the air for a while"
+      "FLOAT": "Stay up in the air for a while",
+      "LIGHT": "Having little weight, like an inflated balloon"
     }
   },
   "breakfast-on-the-griddle-4": {
@@ -9613,7 +9680,8 @@
     "revision": 1,
     "solvingTip": "At 2 Across, start with the baked outside of the dessert. At 9 Across, find the action of putting the soft center inside it.",
     "clues": {
-      "SHELL": "Baked outer part of a cream puff"
+      "SHELL": "Baked outer part of a cream puff",
+      "LIGHT": "Airy in texture, like the pastry around a cream puff"
     },
     "notes": {
       "SHELL": "The baked shell is hollow inside. Once it has cooled, a cook can split it to put a spoonful of cream in the middle."
@@ -9674,7 +9742,8 @@
     "revision": 1,
     "solvingTip": "Start with what tells you where to stop at 8 Down. At 5 Down, look for the short pause this lets you take during a long journey.",
     "clues": {
-      "BREAK": "Short pause in a long drive"
+      "BREAK": "Short pause in a long drive",
+      "RETURN": "Come back to the car after the stop"
     },
     "notes": {
       "BREAK": "A break in a long drive can include a short walk from the car to the building. Signs by the road may show where you can get back on the route afterward."
@@ -9745,7 +9814,8 @@
     "revision": 1,
     "solvingTip": "Start with what holds the packet at 8 Across. At 3 Across, find the name for one of the parts you pinch to make it open.",
     "clues": {
-      "ARM": "Part of a clip you squeeze to open its jaws"
+      "ARM": "Part of a clip you squeeze to open its jaws",
+      "PAGE": "One sheet in the clipped packet"
     }
   },
   "listening-with-old-equipment-4": {
@@ -9794,7 +9864,8 @@
     "solvingTip": "At 4 Across, start with what points you in the right direction. Then think of the distance between intersections at 1 Across.",
     "clues": {
       "BLOCK": "Stretch of a street between two intersections",
-      "WAY": "Direction to go, as in which ___ the arrow points"
+      "WAY": "Direction to go, as in which ___ the arrow points",
+      "LINE": "Painted marking along the road"
     }
   },
   "kitchen-memories-in-use-3": {
@@ -9824,5 +9895,2891 @@
     "clues": {
       "SPRING": "Season when warmer days make wool hats less useful"
     }
+  },
+  "paper-folds-and-covers-5": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Opening through a surface.” Its fourth letter starts 2 Down.",
+    "clues": {
+      "STICK": "Stay attached, as a reinforcing ring does after you press it down"
+    }
+  },
+  "signs-of-rain-5": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Raised area of land smaller than a mountain.” Its fourth letter starts 5 Down.",
+    "clues": {
+      "LOW": "Near the ground, as a cloud that hides part of a hill",
+      "HIDE": "Cover the hill so it disappears from view",
+      "CLEAR": "Become visible again when the clouds move away",
+      "MIST": "Fine drops in the air that make distant objects harder to see"
+    }
+  },
+  "useful-things-in-the-car-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Raise to a higher position.” Its third letter starts 7 Across.",
+    "clues": {
+      "FLOOR": "Surface inside a car where a mat goes"
+    }
+  },
+  "fabric-on-the-table-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Small sewn pouch in clothing.” Its first letter goes in the third square of 1 Across.",
+    "clues": {
+      "CORNER": "Spot where two edges of the pocket meet",
+      "TEAR": "Rip in the fabric that the patch covers"
+    }
+  },
+  "town-events-behind-scenes-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Places for people to sit.” Its second letter starts 9 Down.",
+    "clues": {
+      "FRONT": "Part of the hall nearest the performers",
+      "END": "Far side of a row, next to an aisle",
+      "CLEAR": "Free of anything blocking the aisle"
+    }
+  },
+  "keeping-winter-wet-out": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Down, “Footwear reaching above the ankles.” Its fourth letter starts 11 Across.",
+    "clues": {
+      "LIP": "Raised edge that keeps melted snow inside the tray"
+    }
+  },
+  "crafts-from-paper-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Container used for growing a plant.” Its third letter starts 2 Down.",
+    "clues": {
+      "SLEEVE": "Cover that slips around the outside of a flowerpot"
+    }
+  },
+  "before-the-first-bite-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Small drinking vessel.” Its third letter starts 2 Down.",
+    "clues": {
+      "MESH": "Net of small openings that catches pulp and seeds",
+      "DROP": "Small bead of juice that falls through the strainer"
+    }
+  },
+  "household-fasteners-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Two-part fastener pushed shut with a click.” Its fourth letter starts 2 Down.",
+    "clues": {
+      "CLOSE": "Bring the two parts of the cuff fastener together"
+    }
+  },
+  "summer-neighborly-treats": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Solid because of cold.” That same square starts 6 Down.",
+    "clues": {
+      "STICK": "Short handle that holds a frozen fruit treat"
+    }
+  },
+  "sauces-and-table-spreads-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Utensil with a small bowl at one end.” Its second letter starts 5 Down.",
+    "clues": {
+      "STICK": "Stay on the dipper, as thick honey can do",
+      "DROP": "Small amount of honey that can fall from the dipper"
+    }
+  },
+  "paper-folds-and-covers-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Container with a base and sides.” That same square starts 6 Across.",
+    "clues": {
+      "STICK": "Stay attached to the curved box"
+    }
+  },
+  "old-stores-and-service-counters-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Sheet on which words or pictures can be printed.” Its third letter starts 3 Down.",
+    "clues": {
+      "STICK": "Stay attached, as a price label can do to glass",
+      "ROLL": "Curl up as the sticker peels away"
+    }
+  },
+  "taking-care-of-small-supplies-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Part that starts when the strip is pulled out.” That same square starts 1 Down.",
+    "clues": {
+      "STICK": "Adhere to a surface, as loose tape can do"
+    }
+  },
+  "summer-evenings-close-to-home-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Small plug pressed back over the opening.” Its third letter starts 3 Down.",
+    "clues": {
+      "FILL": "Put air into a beach ball"
+    }
+  },
+  "autumn-local-scenes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Material used for writing or wrapping.” Its second letter goes in the second square of 3 Across.",
+    "clues": {
+      "WING": "Side part cut from paper to look like part of the turkey"
+    }
+  },
+  "garden-path-details": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Small piece of rock.” That same square starts 2 Down.",
+    "clues": {
+      "WALK": "Path through the garden"
+    }
+  },
+  "water-close-by-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Body part below the ankle.” Its fourth letter starts 6 Across.",
+    "clues": {
+      "WALK": "Move along the damp sand on foot",
+      "MARK": "Trace a duck's foot can leave in wet sand"
+    }
+  },
+  "gentle-daily-routines": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Place where someone lives.” Its third letter starts 8 Down.",
+    "clues": {
+      "WALK": "Short outing on foot",
+      "STEP": "One movement of the foot as you walk",
+      "RETURN": "Come back after the walk"
+    }
+  },
+  "table-pastimes-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Flat round playing piece.” That same square starts 5 Down.",
+    "clues": {
+      "RACK": "Upright holder with slots for the playing discs",
+      "FOUR": "Number of discs a player tries to line up"
+    }
+  },
+  "town-events-behind-scenes": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Long strip wound into a coil.” Its fourth letter starts 5 Across.",
+    "clues": {
+      "LINE": "Row of tiny holes where the tickets separate"
+    }
+  },
+  "guitar-to-gathering-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Tool that holds parts tightly together.” That same square starts 3 Down.",
+    "clues": {
+      "NECK": "Long part of a guitar that the strings run along",
+      "KEY": "Set of notes a song is played in, which can change when you move a capo",
+      "CLIP": "Fasten onto the neck of the guitar",
+      "CHANGE": "Make the song sound higher or lower"
+    },
+    "notes": {
+      "CLIP": "To clip a capo on, fasten it across the strings just behind a fret. It shortens the part of each string that can vibrate."
+    }
+  },
+  "kitchen-windowsill-greens-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “High from bottom to top.” Its third letter starts 3 Down.",
+    "clues": {
+      "POT": "Container with soil for growing an herb"
+    }
+  },
+  "getting-out-the-door-2": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Narrow band wrapped around the closed umbrella.” That same square starts 5 Across.",
+    "clues": {
+      "SNAP": "Small fastener that clicks shut on an umbrella strap"
+    }
+  },
+  "older-cars-and-bicycles-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Main structure that connects the bicycle's parts.” Its fourth letter starts 8 Across.",
+    "clues": {
+      "SNAP": "Click into place, as a holder can when it grips the pump"
+    }
+  },
+  "winter-nearby-scenes": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “White frozen flakes.” That same square starts 2 Down.",
+    "clues": {
+      "WINDOW": "Glass opening you look through from inside a car"
+    }
+  },
+  "around-a-local-bus-route-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Hard transparent material.” Its fourth letter starts 3 Down.",
+    "clues": {
+      "WINDOW": "Glass opening beside a passenger seat",
+      "STOP": "Place where the bus pauses to let people off"
+    },
+    "notes": {
+      "WINDOW": "The bus window makes it possible to watch the street while staying seated. A familiar shop or corner can help a passenger tell when their stop is coming up."
+    }
+  },
+  "visits-and-welcome-4": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “Dark time between sunset and dawn.” Its fourth letter starts 10 Across.",
+    "clues": {
+      "GLASS": "Drinking vessel kept beside the pitcher"
+    },
+    "notes": {
+      "GLASS": "A drinking glass fits beside the pitcher on a small tray. A coaster underneath it can keep a damp ring from forming on the bedside table."
+    }
+  },
+  "sing-with-the-room-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Sound produced by a singer's throat.” Its fourth letter starts 4 Across.",
+    "clues": {
+      "NOTE": "One pitched sound a singer makes"
+    }
+  },
+  "keeping-instruments-ready-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Writing tool kept nearby for making small marks.” That same square starts 7 Down.",
+    "clues": {
+      "NOTE": "Single musical sound shown by a sign on the page",
+      "PAGE": "One side of the sheet a musician reads"
+    }
+  },
+  "table-for-evening": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Something that keeps an object in place.” Its sixth letter starts 9 Across.",
+    "clues": {
+      "MATCH": "Small stick you strike to light a candle"
+    }
+  },
+  "weekend-morning-in-the-yard-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Across, “Space inside a building surrounded by walls.” Its fourth letter starts 4 Down.",
+    "clues": {
+      "FOOT": "Base of a bench leg where it meets the floor"
+    }
+  },
+  "family-photos-and-film-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Photograph shown through a projector.” Its second letter starts 4 Across.",
+    "clues": {
+      "FRAME": "Small border that holds the piece of film"
+    },
+    "notes": {
+      "FRAME": "The frame of a slide holds the film flat and leaves the small picture open to the light. Hold the slide by that border to avoid touching the film."
+    }
+  },
+  "summer-shade-and-breaks-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Draw something toward you.” Its third letter starts 6 Down.",
+    "clues": {
+      "FRAME": "Border that holds the mesh in place"
+    }
+  },
+  "garden-birds-and-insects": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Green plant covering a lawn.” Its fourth letter starts 3 Across.",
+    "clues": {
+      "LIGHT": "Having little weight, as an empty piece of eggshell does"
+    }
+  },
+  "keeping-flowers-upright-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Fabric laid over plants for a cool night.” Its fourth letter starts 5 Across.",
+    "clues": {
+      "LIGHT": "Having little weight, like cloth laid gently over plants"
+    }
+  },
+  "sorting-and-keeping-finds": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Put the stones into groups by appearance.” That same square starts 2 Down.",
+    "clues": {
+      "LIGHT": "Pale in color"
+    }
+  },
+  "music-in-community-rooms": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Line of things arranged side by side.” Its third letter starts 4 Across.",
+    "clues": {
+      "STEP": "One movement of a dancer's foot",
+      "CLEAR": "Move things out of the center of the room"
+    }
+  },
+  "a-visit-through-familiar-landmarks-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Low platform a passenger can put a foot on when boarding.” Its second letter starts 5 Across.",
+    "clues": {
+      "STEP": "Low platform a passenger can put a foot on when boarding"
+    }
+  },
+  "games-at-a-club-4": {
+    "revision": 1,
+    "solvingTip": "Start at 4 Across with the name of the whole object. Its crossing at 1 Down asks for just one flat surface of that object.",
+    "clues": {
+      "CORNER": "Point where three edges of a cube meet",
+      "FACE": "One flat side of the cube",
+      "SQUARE": "Shape with four equal sides and four right angles",
+      "CUBE": "Solid block with six square faces",
+      "MATCH": "Make two colors agree",
+      "SIDE": "One of the four straight edges of a small colored square"
+    },
+    "notes": {
+      "FACE": "One face is the group of small squares you can see on one side. When it is solved, the squares on that face are all one color.",
+      "CUBE": "A cube has six square sides. On a twisting puzzle, turning one layer moves small pieces into new positions on several sides at once."
+    }
+  },
+  "a-rest-stop-on-the-road-5": {
+    "revision": 1,
+    "solvingTip": "Start at 10 Across with one panel of the foldout. Its crossing at 8 Down asks for one thing drawn on that panel.",
+    "clues": {
+      "STOP": "Place to pull off a road for a break, as in a rest ___",
+      "PAGE": "One panel of the folded map",
+      "TURN": "Bend in the road where you change direction",
+      "ROAD": "Paved route shown on the foldout"
+    }
+  },
+  "pets-at-home-2": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Flat green part of a plant.” Its first letter goes in the third square of 1 Across.",
+    "clues": {
+      "WATCH": "Look through the window for a while"
+    }
+  },
+  "bible-river-and-road-3": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Burning fuel that gives heat and light.” Its third letter starts 8 Across.",
+    "clues": {
+      "WATCH": "Keep looking at what is happening"
+    }
+  },
+  "autumn-around-the-neighborhood": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Parts of the body the wearer wants to cover.” Its fourth letter starts 3 Down.",
+    "clues": {
+      "WATCH": "Look at the game from the stands"
+    }
+  },
+  "table-pastimes": {
+    "revision": 1,
+    "solvingTip": "Try 9 Across for a small piece that goes on the grid. At 1 Down, think of the total that grows when you make a new entry on it.",
+    "clues": {
+      "BOARD": "Flat surface with a grid for the letter tiles",
+      "SCRABBLE": "Board game where players make words from letter tiles"
+    }
+  },
+  "street-sights-remembered-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “The amount of money asked for one item.” Its fourth letter starts 5 Across.",
+    "clues": {
+      "BOARD": "Flat surface for a price written in chalk",
+      "WRITE": "Put the prices on a surface in chalk"
+    },
+    "notes": {
+      "BOARD": "A small chalkboard by a shop window lets the shopkeeper update a price. The old figures can be wiped away before the new ones are written."
+    }
+  },
+  "easy-games-with-a-table": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Particular location.” Its fourth letter starts 8 Down.",
+    "clues": {
+      "BOARD": "Flat playing surface for the pieces"
+    }
+  },
+  "watching-small-changes-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Soft earth that holds a shape when pressed.” That same square starts 6 Across.",
+    "clues": {
+      "FACE": "Flat side of the coin pressed against the clay"
+    }
+  },
+  "summer-evenings-close-to-home-5": {
+    "revision": 1,
+    "solvingTip": "Try 10 Across, “Covered area at a house entrance.” Its third letter goes in the sixth square of 5 Down.",
+    "clues": {
+      "SHADE": "Cover that can keep a direct light out of your eyes"
+    }
+  },
+  "old-home-routines": {
+    "revision": 1,
+    "solvingTip": "Try 10 Across, “Flat serving container with a raised edge.” Its second letter starts 11 Down.",
+    "clues": {
+      "BRUSH": "Bristled part that sweeps the carpet"
+    }
+  },
+  "family-photos-and-film-3": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Long narrow piece.” That same square starts 4 Across.",
+    "clues": {
+      "TEAR": "Rip or split in the strip of film"
+    }
+  },
+  "cloth-mending-in-small-steps-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Cloth turned back over itself.” Its third letter starts 3 Down.",
+    "clues": {
+      "LINE": "Row of stitches along the folded edge"
+    }
+  },
+  "small-woodwork-checks-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Writing tool with a graphite core.” That same square starts 3 Across.",
+    "clues": {
+      "LINE": "Long narrow mark that follows the grain of the wood"
+    }
+  },
+  "quiet-sketches-and-studies-3": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Side of a sheet used for the drawing.” That same square starts 4 Down.",
+    "clues": {
+      "LINE": "Stroke left by a pencil",
+      "PENCIL": "Pointed tool for drawing lines that can be erased",
+      "PAGE": "Side of a sheet used for the drawing"
+    }
+  },
+  "sorting-and-keeping-finds-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Arrange into groups.” That same square starts 5 Across.",
+    "clues": {
+      "LINE": "Straight row of keys laid beside one another"
+    }
+  },
+  "fittings-in-shared-places-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Passage along the end of the theater row.” That same square starts 7 Across.",
+    "clues": {
+      "SWING": "Move up and back down on a hinge",
+      "CLEAR": "Move out of the way to leave more space in the aisle",
+      "LOWER": "Move the armrest down again"
+    }
+  },
+  "opening-and-closing-fittings-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Container that holds a set of tools.” Its fourth letter goes in the second square of 1 Down.",
+    "clues": {
+      "SWING": "Pivot back and forth around a pin"
+    }
+  },
+  "taking-care-of-small-supplies-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Set of things gathered firmly together.” That same square starts 1 Across.",
+    "clues": {
+      "ROLL": "Wind the strip around a bundle"
+    }
+  },
+  "pantry-packets-and-labels-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Tag identifying contents.” That same square starts 2 Down.",
+    "clues": {
+      "DROP": "Tiny amount of oil that can fall from the bottle"
+    }
+  },
+  "keeping-instruments-ready": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Soft fabric that catches the drops.” That same square starts 6 Down.",
+    "clues": {
+      "DROP": "Small amount of water that comes out of the instrument",
+      "CLEAR": "Let the trapped moisture out of the tubing"
+    }
+  },
+  "sorting-and-keeping-finds-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Level and without bumps.” That same square starts 1 Across.",
+    "clues": {
+      "LINE": "Long narrow mark visible in the rubbing"
+    }
+  },
+  "everyday-moments-with-paper-4": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Thin material that takes a mark from a pen.” That same square starts 3 Across.",
+    "clues": {
+      "LINE": "Long narrow fold mark on the sheet"
+    }
+  },
+  "arranging-buttons-and-beads-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Keep an object in your hand.” That same square starts 5 Across.",
+    "clues": {
+      "STOP": "Keep the end from slipping all the way through"
+    }
+  },
+  "familiar-county-fair-stops-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Particular location.” Its second letter starts 8 Down.",
+    "clues": {
+      "WALK": "Go on foot from one stall to the next"
+    }
+  },
+  "comfortable-neighborhood-walks-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Place kept out of direct sunlight.” That same square starts 7 Across.",
+    "clues": {
+      "WALK": "Outing on foot to look for a cooler route"
+    }
+  },
+  "kitchen-memories-in-use-4": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Image made with a camera or pencil.” Its third letter starts 6 Across.",
+    "clues": {
+      "PAGE": "Sheet of the calendar showing one month"
+    }
+  },
+  "garden-season-decisions-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Compass direction opposite north.” That same square starts 4 Down.",
+    "clues": {
+      "CLEAR": "Free of clouds, as a sunny sky can be",
+      "HEAT": "Warmth the bricks give off after the sun has moved away"
+    }
+  },
+  "shelves-for-tiny-collections-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Brightness making objects visible.” That same square starts 7 Down.",
+    "clues": {
+      "CLEAR": "Easy to see in good light",
+      "DARK": "Hard to see because little light reaches it"
+    }
+  },
+  "crafts-from-paper-4": {
+    "revision": 1,
+    "solvingTip": "Begin with the thin cord at 7 Across. At 10 Across, think of the long decoration that the large paper shapes make together.",
+    "clues": {
+      "FLAG": "Small piece of paper hung from the birthday string"
+    }
+  },
+  "bible-parables-and-choices-2": {
+    "revision": 1,
+    "solvingTip": "At 6 Down, think of what a project will require you to pay. At 8 Across, find the name of the tall structure being planned.",
+    "clues": {
+      "FINISH": "Complete the tower after beginning to build it"
+    }
+  },
+  "bible-parables-and-choices-3": {
+    "revision": 1,
+    "solvingTip": "At 8 Across, think of where grapes grow. Then find the word for saying no when asked to help at 2 Down.",
+    "clues": {
+      "CHANGE": "Decide to do something different, as the son does"
+    }
+  },
+  "gardens-after-cold": {
+    "revision": 1,
+    "solvingTip": "At 3 Across, name the earth you put the seeds into. At 7 Across, think of the word for how the markings should run without a curve.",
+    "clues": {
+      "STRETCH": "Pull something taut from one end to the other",
+      "CHALK": "Material that leaves a pale mark on the path"
+    },
+    "notes": {
+      "CHALK": "A chalk mark along the garden path can show where the first row begins. It gives you a straight guide before you put any seeds into the soil."
+    }
+  },
+  "sounds-heard-together-2": {
+    "revision": 1,
+    "solvingTip": "Begin at 8 Across with what you call two people working together. Then look at 5 Across for what they both take in during a gap in the music.",
+    "clues": {
+      "START": "Begin singing after a pause"
+    }
+  },
+  "easy-games-with-a-table-2": {
+    "revision": 1,
+    "solvingTip": "At 8 Across, look for the part a player taps after a move. At 6 Down, find the whole device that tracks how long each person has left.",
+    "clues": {
+      "START": "Begin counting time for the other player"
+    }
+  },
+  "birds-in-motion-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “No longer wet.” That same square starts 1 Across.",
+    "clues": {
+      "DUST": "Fine dry dirt that the sparrow moves through its feathers",
+      "BATH": "Time spent getting clean, here by shaking dry dirt through feathers",
+      "FLUTTER": "Move the wings with quick light motions"
+    }
+  },
+  "water-close-by-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Little in size.” That same square starts 8 Across.",
+    "clues": {
+      "SAND": "Fine loose grains that may cover the bottom of a stream"
+    }
+  },
+  "old-home-routines-3": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Round part that turns on an axle.” Its fourth letter starts 10 Down.",
+    "clues": {
+      "TURN": "Rotate the opener's handle to make the wheel move"
+    }
+  },
+  "spring-small-plans-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Friendly greeting to a visitor.” Its fifth letter starts 8 Across.",
+    "clues": {
+      "DUST": "Fine dry dirt shaken loose from the mat"
+    }
+  },
+  "birds-using-familiar-spaces-2": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Change direction in the air.” That same square starts 2 Down.",
+    "clues": {
+      "FLIGHT": "Movement of a bird through the air",
+      "FIELD": "Open ground above which the swallow flies",
+      "TURN": "Change direction in the air",
+      "DIP": "Go down briefly before lifting up again"
+    },
+    "notes": {
+      "FIELD": "Open ground gives a swallow room to dip and turn as it catches insects. It can skim just above the grass before climbing higher again."
+    }
+  },
+  "clothesline-weather-choices-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Straight bar that holds a shower curtain.” Its third letter starts 3 Down.",
+    "clues": {
+      "DROP": "Small amount of water that falls from the soaking sheet"
+    }
+  },
+  "household-fasteners-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Outside boundary of something.” That same square starts 8 Down.",
+    "clues": {
+      "HOOK": "Curved part that fits through the matching loop on clothing",
+      "CATCH": "Grab and hold the other part of a fastener"
+    }
+  },
+  "before-the-first-bite-3": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Outside border of a surface.” Its second letter goes in the third square of 4 Down.",
+    "clues": {
+      "BOARD": "Flat surface used when slicing a tomato"
+    }
+  },
+  "small-tools-at-a-paper-desk-5": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “With the covers apart so you can see the pages.” Its third letter starts 4 Across.",
+    "clues": {
+      "OPEN": "With the covers apart so you can see the pages"
+    }
+  },
+  "sounds-heard-together-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Noise that can be noticed with the ears.” That same square starts 5 Across.",
+    "clues": {
+      "STRING": "Thin length that vibrates on an instrument when you pluck it"
+    }
+  },
+  "summer-evenings-close-to-home-2": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Furniture with a flat top and legs.” That same square starts 3 Across.",
+    "clues": {
+      "TURN": "One player's chance to use the game pieces"
+    }
+  },
+  "autumn-around-the-neighborhood-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “No longer wet.” Its second letter starts 3 Down.",
+    "clues": {
+      "LEAF": "Flat part of a plant that can dry at the edges in the fall"
+    }
+  },
+  "a-few-quiet-minutes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Sit and take a short break under the blanket.” Its second letter starts 8 Down.",
+    "clues": {
+      "LEG": "Part that supports a corner of the chair",
+      "HOLD": "Keep the tucked fabric in place",
+      "REST": "Sit and take a short break under the blanket"
+    }
+  },
+  "a-visit-through-familiar-landmarks-3": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Surface under the feet inside a building.” Its fifth letter starts 8 Across.",
+    "clues": {
+      "REST": "Let your hand sit on the rail for support"
+    }
+  },
+  "optional-scenes-in-acts-and-joshua-2": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Pause to relax or stop moving.” Its third letter starts 3 Down.",
+    "clues": {
+      "SHORE": "Land at the edge of the sea where the travelers arrive",
+      "FIRE": "Flames the islanders start to warm the travelers"
+    }
+  },
+  "garden-sharing": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Plant part from which a new plant grows.” That same square starts 7 Down."
+  },
+  "garden-sharing-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Earth in which plants grow.” That same square starts 2 Down."
+  },
+  "garden-sharing-3": {
+    "revision": 1,
+    "solvingTip": "Try 10 Down, “Container with a base and sides.” That same square starts 10 Across."
+  },
+  "garden-sharing-4": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Across, “Place for one person to sit.” Its fourth letter starts 11 Down."
+  },
+  "garden-sharing-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Transparent rather than cloudy.” That same square starts 5 Across."
+  },
+  "garden-protection": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Low woody plant.” Its third letter starts 6 Down."
+  },
+  "garden-protection-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “High from bottom to top.” That same square starts 4 Down."
+  },
+  "garden-protection-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Earth in which plants grow.” That same square starts 6 Across."
+  },
+  "garden-protection-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Slightly cold.” That same square starts 1 Down."
+  },
+  "garden-aftercare": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Footwear rising above the ankle.” That same square starts 4 Across."
+  },
+  "garden-aftercare-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Look over to make sure something is right.” Its second letter starts 3 Across."
+  },
+  "garden-aftercare-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Vegetable with kernels growing on a cob.” Its fourth letter starts 7 Down."
+  },
+  "garden-path-details-3": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Slightly wet, rather than soaked.” Its fourth letter starts 9 Down."
+  },
+  "garden-path-details-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Public board with words or symbols.” That same square starts 5 Across."
+  },
+  "garden-path-details-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Water falling from clouds.” Its first letter goes in the second square of 1 Across."
+  },
+  "flowers-at-home": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Plant part from which a new plant grows.” That same square starts 4 Across."
+  },
+  "flowers-at-home-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Color of a ripe tomato.” That same square starts 1 Down."
+  },
+  "flowers-at-home-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Flowering shrub with many fragrant varieties.” That same square starts 1 Down."
+  },
+  "flowers-at-home-4": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Deep round dish for food.” Its second letter goes in the third square of 4 Down."
+  },
+  "flowers-at-home-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Middle of an object or place.” Its sixth letter starts 9 Down."
+  },
+  "pets-at-home-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Absorbent cloth for drying.” That same square starts 2 Across."
+  },
+  "pets-at-home-5": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Flakes offered at feeding time.” Its second letter starts 2 Down."
+  },
+  "birds-in-motion": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Animal with feathers and a beak.” Its third letter starts 4 Down."
+  },
+  "birds-in-motion-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Body part containing the eyes and mouth.” Its fourth letter starts 9 Down."
+  },
+  "birds-in-motion-3": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Group of birds traveling together.” That same square starts 6 Across."
+  },
+  "birds-in-motion-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Small thin branch.” That same square starts 2 Across."
+  },
+  "water-close-by": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Small piece of rock.” That same square starts 2 Across."
+  },
+  "water-close-by-4": {
+    "revision": 1,
+    "solvingTip": "Try 8 Down, “Flat green part of a plant.” Its fourth letter starts 11 Across."
+  },
+  "lunches-with-a-spoon": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Deep round dish for food.” That same square starts 2 Down."
+  },
+  "lunches-with-a-spoon-2": {
+    "revision": 1,
+    "solvingTip": "Try 4 Across, “Starchy vegetable often boiled and mashed.” That same square starts 4 Down."
+  },
+  "lunches-with-a-spoon-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Thin flat piece cut from food.” That same square starts 1 Down."
+  },
+  "lunches-with-a-spoon-5": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Meal between breakfast and dinner.” Its fourth letter starts 9 Across."
+  },
+  "familiar-breakfasts-2": {
+    "revision": 1,
+    "solvingTip": "Start with 11 Down, “Easy to press.” Its second letter goes in the second square of 12 Across."
+  },
+  "familiar-breakfasts-3": {
+    "revision": 1,
+    "solvingTip": "Try 8 Down, “Crackling sound when biting crisp food.” Its fifth letter starts 12 Across."
+  },
+  "familiar-breakfasts-5": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Separate with a sharp edge.” Its third letter starts 11 Across."
+  },
+  "simple-suppers-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Orange root vegetable.” That same square starts 2 Across."
+  },
+  "simple-suppers-3": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Water animal with fins and gills.” Its third letter starts 10 Across."
+  },
+  "simple-suppers-4": {
+    "revision": 1,
+    "solvingTip": "Try 9 Across, “Comfortably heated.” Its fourth letter starts 10 Down."
+  },
+  "simple-suppers-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Low in temperature.” Its third letter starts 9 Across."
+  },
+  "sweets-to-share": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Flat dish for serving food.” That same square starts 6 Across."
+  },
+  "sweets-to-share-2": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Deep round dish for food.” Its third letter starts 9 Across."
+  },
+  "sweets-to-share-3": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Down, “Eating tool with prongs.” That same square starts 10 Across."
+  },
+  "sweets-to-share-5": {
+    "revision": 1,
+    "solvingTip": "Try 10 Across, “Container from which food is served.” Its first letter goes in the seventh square of 5 Down."
+  },
+  "kitchen-small-jobs": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Color of most summer leaves.” Its second letter starts 3 Across."
+  },
+  "kitchen-small-jobs-2": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Across, “Basin for washing dishes.” That same square starts 10 Down."
+  },
+  "kitchen-small-jobs-3": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Divide into two parts.” That same square starts 6 Across."
+  },
+  "kitchen-small-jobs-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Eating tool with prongs.” Its third letter starts 2 Down."
+  },
+  "pantry-choices-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Container with a base and sides.” That same square starts 1 Down."
+  },
+  "pantry-choices-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Thin flat piece cut from food.” That same square starts 2 Across."
+  },
+  "pantry-choices-4": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Narrow-necked liquid container.” Its first letter goes in the third square of 2 Across."
+  },
+  "town-service-desks": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Shaped like a circle.” That same square starts 1 Down."
+  },
+  "town-service-desks-2": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Device showing the time.” That same square starts 6 Down."
+  },
+  "town-service-desks-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Clear liquid from a tap.” Its third letter starts 9 Down."
+  },
+  "town-service-desks-5": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Long band of color.” Its third letter starts 4 Across."
+  },
+  "community-notices": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Items written one below another.” That same square starts 4 Down."
+  },
+  "community-notices-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Furniture with a flat top and legs.” Its second letter starts 5 Down."
+  },
+  "community-notices-4": {
+    "revision": 1,
+    "solvingTip": "At 9 Down, think how long sixty minutes is. At 8 Down, find the word for one block of time a person can take at the event."
+  },
+  "community-notices-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Implement used to do a task.” Its first letter goes in the third square of 7 Across."
+  },
+  "guests-and-table": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Absorbent cloth for drying.” Its third letter starts 7 Down."
+  },
+  "guests-and-table-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “First meal of the day.” That same square starts 7 Down."
+  },
+  "guests-and-table-4": {
+    "revision": 1,
+    "solvingTip": "Try 4 Across, “Discover after searching.” That same square starts 4 Down."
+  },
+  "guests-and-table-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Drink made by steeping dried leaves.” That same square starts 8 Down."
+  },
+  "home-little-checks": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Brightness making objects visible.” Its fourth letter starts 5 Across."
+  },
+  "home-little-checks-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Printed proof of purchase.” Its third letter starts 8 Down."
+  },
+  "home-little-checks-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Free from dirt.” Its third letter starts 11 Across."
+  },
+  "clothes-ready": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Shaped support on which a garment is hung.” That same square starts 1 Across."
+  },
+  "clothes-ready-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Two matching things.” That same square starts 1 Down."
+  },
+  "clothes-ready-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Band worn around the waist.” That same square starts 1 Down."
+  },
+  "clothes-ready-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Clear liquid from a tap.” That same square starts 1 Across."
+  },
+  "clothes-ready-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Line where fabric pieces are joined.” Its second letter goes in the second square of 3 Across."
+  },
+  "gentle-daily-routines-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Hard transparent material.” Its fifth letter starts 11 Across."
+  },
+  "gentle-daily-routines-3": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Place for one person to sit.” That same square starts 5 Down."
+  },
+  "gentle-daily-routines-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Furniture used for sleeping.” That same square starts 2 Down."
+  },
+  "travel-small-steps": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Across, “Free from dirt.” That same square starts 10 Down."
+  },
+  "travel-small-steps-2": {
+    "revision": 1,
+    "solvingTip": "Try 12 Across, “Word identifying a person.” Its second letter goes in the fourth square of 10 Down."
+  },
+  "travel-small-steps-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Stop sleeping.” Its second letter starts 8 Down."
+  },
+  "town-meeting-places": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Woven carrying container.” Its third letter starts 8 Down."
+  },
+  "town-meeting-places-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “First meal of the day.” Its third letter starts 8 Down."
+  },
+  "town-meeting-places-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Applaud by striking the hands together.” That same square starts 1 Down."
+  },
+  "town-meeting-places-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Water-filled place for swimming.” Its second letter starts 2 Down."
+  },
+  "town-meeting-places-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Soft container for carrying things.” That same square starts 2 Down."
+  },
+  "useful-sewing": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Thick string or thin rope.” Its fourth letter starts 8 Across."
+  },
+  "useful-sewing-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Movable panel at a room's entrance.” Its second letter starts 8 Down."
+  },
+  "useful-sewing-3": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Small sewn pouch in clothing.” Its sixth letter starts 10 Across."
+  },
+  "useful-sewing-4": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Woven carrying container.” Its sixth letter starts 7 Down."
+  },
+  "useful-sewing-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Pair of lenses worn to help with seeing.” Its fifth letter starts 7 Down."
+  },
+  "crafts-from-paper": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Place where two edges meet.” That same square starts 2 Across."
+  },
+  "crafts-from-paper-2": {
+    "revision": 1,
+    "solvingTip": "Try 12 Across, “Hard-shelled food such as an almond.” Its first letter goes in the third square of 11 Down."
+  },
+  "crafts-from-paper-5": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Part held when carrying or using something.” Its third letter goes in the third square of 5 Across."
+  },
+  "table-pastimes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Furniture with a flat top and legs.” Its third letter starts 10 Down."
+  },
+  "table-pastimes-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Body part with fingers and a thumb.” Its second letter starts 4 Across."
+  },
+  "table-pastimes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Playing surface with marked spaces.” Its fifth letter starts 8 Across."
+  },
+  "keepsakes-in-order": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Arrange into groups.” That same square starts 7 Down."
+  },
+  "keepsakes-in-order-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Place for one person to sit.” That same square starts 2 Down."
+  },
+  "keepsakes-in-order-3": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “One part of a meal, such as dessert.” That same square starts 5 Across."
+  },
+  "keepsakes-in-order-4": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Give off or reflect bright light.” That same square starts 3 Across."
+  },
+  "keepsakes-in-order-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Fine strand used for sewing.” That same square starts 5 Across."
+  },
+  "singalong-preparations-2": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Big in size.” That same square starts 6 Across."
+  },
+  "singalong-preparations-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Sound produced by one singer.” Its fourth letter starts 3 Down."
+  },
+  "singalong-preparations-5": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Tune whose pages are being organized.” Its third letter starts 2 Down."
+  },
+  "familiar-song-scenes": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Words set to a tune.” That same square starts 2 Across."
+  },
+  "familiar-song-scenes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Move a hand or fan from side to side.” That same square starts 8 Across."
+  },
+  "familiar-song-scenes-3": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Around, in the wording of the song title.” Its first letter goes in the second square of 4 Down."
+  },
+  "familiar-song-scenes-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Address someone by a loving name.” Its fourth letter starts 10 Across."
+  },
+  "familiar-song-scenes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Small vessel traveling on water.” That same square starts 9 Across."
+  },
+  "old-home-routines-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Material such as iron or copper.” Its fifth letter goes in the third square of 2 Down."
+  },
+  "old-home-routines-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Folded without much thickness.” That same square starts 3 Down."
+  },
+  "remembered-shop-windows": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Amount a shopper pays.” That same square starts 3 Across."
+  },
+  "remembered-shop-windows-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Number used when choosing shoes.” That same square starts 1 Down."
+  },
+  "remembered-shop-windows-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Place where the baked goods are sold.” Its fourth letter starts 6 Across."
+  },
+  "remembered-shop-windows-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Open compartment holding loose goods.” Its second letter goes in the third square of 7 Across."
+  },
+  "remembered-shop-windows-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Framework for holding things.” That same square starts 3 Across."
+  },
+  "games-remembered": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Strong thick cord.” Its second letter goes in the second square of 5 Across."
+  },
+  "games-remembered-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Place where two edges meet.” Its second letter starts 3 Across."
+  },
+  "games-remembered-3": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “Rotate around the player's middle.” Its third letter starts 10 Across."
+  },
+  "games-remembered-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Fair activity with pegs as targets.” Its second letter starts 3 Across."
+  },
+  "spring-small-plans": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Season after winter.” That same square starts 1 Across."
+  },
+  "spring-small-plans-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Sweet crystals used in baking.” That same square starts 6 Across."
+  },
+  "spring-small-plans-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Round part that turns on an axle.” Its second letter starts 4 Down."
+  },
+  "summer-neighborly-treats-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Two matching things.” That same square starts 1 Down."
+  },
+  "summer-neighborly-treats-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Utensil with a small bowl at one end.” Its fourth letter starts 3 Down."
+  },
+  "summer-neighborly-treats-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Comfortably heated.” That same square starts 3 Across."
+  },
+  "autumn-local-scenes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Color of chocolate.” Its second letter starts 2 Down."
+  },
+  "autumn-local-scenes-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Comfortably heated.” That same square starts 1 Down."
+  },
+  "autumn-local-scenes-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Powder ground from grain for baking.” Its fifth letter starts 8 Down."
+  },
+  "winter-nearby-scenes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Down, “Comfortably heated.” That same square starts 10 Across."
+  },
+  "winter-nearby-scenes-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Footwear rising above the ankle.” Its fourth letter starts 3 Down."
+  },
+  "winter-nearby-scenes-4": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Woven material.” That same square starts 5 Across."
+  },
+  "winter-nearby-scenes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Movable panel at a room's entrance.” Its fourth letter starts 11 Across."
+  },
+  "thanksgiving-table-help": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Part along an outer edge.” Its third letter starts 3 Down."
+  },
+  "thanksgiving-table-help-2": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Bound pages inside a cover.” Its first letter goes in the third square of 3 Down."
+  },
+  "thanksgiving-table-help-3": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Sharp and sour in taste.” Its fourth letter starts 9 Down."
+  },
+  "thanksgiving-table-help-5": {
+    "revision": 1,
+    "solvingTip": "Try 9 Down, “Shallow metal cooking vessel.” Its second letter goes in the second square of 10 Across."
+  },
+  "christmas-small-touches-3": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Winter holiday for this fragrant craft.” That same square starts 7 Down."
+  },
+  "christmas-small-touches-4": {
+    "revision": 1,
+    "solvingTip": "Try the season's holiday at 9 Across. At 7 Down, find the word for the little object the relatives will decorate and put on an evergreen."
+  },
+  "christmas-small-touches-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Container with a base and sides.” That same square starts 8 Across."
+  },
+  "easter-small-preparations": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Color of most summer leaves.” That same square starts 2 Across."
+  },
+  "easter-small-preparations-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Cook with dry oven heat.” That same square starts 1 Across."
+  },
+  "easter-small-preparations-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Season after winter.” Its second letter starts 7 Down."
+  },
+  "easter-small-preparations-4": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Container from which food is served.” Its third letter starts 6 Across."
+  },
+  "easter-small-preparations-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Containing nothing.” Its third letter starts 6 Across."
+  },
+  "bible-helping-hands": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Color made by mixing red and blue.” That same square starts 7 Down."
+  },
+  "bible-helping-hands-2": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Place for one person to sit.” Its fourth letter starts 6 Across."
+  },
+  "bible-helping-hands-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Cold-weather outer garment.” Its second letter goes in the second square of 3 Across."
+  },
+  "bible-helping-hands-5": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Material sewn into the garments.” That same square starts 5 Down."
+  },
+  "bible-familiar-objects": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Small metal piece of money.” Its second letter goes in the second square of 10 Across."
+  },
+  "bible-familiar-objects-2": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Place where someone lives.” That same square starts 5 Across."
+  },
+  "bible-familiar-objects-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Food from the catch served with bread.” That same square starts 1 Down."
+  },
+  "bible-familiar-objects-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Teacher serving his disciples in the John 13 scene.” Its fifth letter starts 7 Down."
+  },
+  "bible-familiar-objects-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Dark time between sunset and dawn.” Its third letter starts 11 Across."
+  },
+  "garden-repairs-and-labels-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Rubber covering fitted around a vehicle's wheel.” Its second letter goes in the second square of 2 Across."
+  },
+  "kitchen-windowsill-greens": {
+    "revision": 1,
+    "solvingTip": "Begin at 3 Across with the small seeds being grown. At 9 Down, think of what you do with scissors to take a little of the new growth."
+  },
+  "garden-season-decisions-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “No longer wet.” That same square starts 7 Across."
+  },
+  "garden-fruit-variety": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Easy to press.” That same square starts 1 Down."
+  },
+  "garden-fruit-variety-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Shelter from direct sun.” Its third letter starts 5 Across."
+  },
+  "garden-fruit-variety-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Mixture of gases we breathe.” That same square starts 5 Across."
+  },
+  "flower-display-details-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Hard transparent material.” Its second letter starts 3 Across."
+  },
+  "kitchen-sandwich-sides": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Flat dish for serving food.” That same square starts 4 Down."
+  },
+  "kitchen-sandwich-sides-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Material used for writing or wrapping.” Its third letter starts 5 Down."
+  },
+  "kitchen-sandwich-sides-3": {
+    "revision": 1,
+    "solvingTip": "Try 9 Across, “Sugary in taste.” That same square starts 9 Down."
+  },
+  "bakery-slice-and-serve-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Small pieces of bread baked separately.” Its second letter starts 8 Across."
+  },
+  "meals-with-rice": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Dried kidney or pinto seeds used as food.” That same square starts 7 Down."
+  },
+  "kitchen-jars-and-tins-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Metal container with a lid.” Its third letter starts 5 Across."
+  },
+  "food-on-the-griddle": {
+    "revision": 1,
+    "solvingTip": "Try 8 Down, “Color of chocolate.” That same square starts 8 Across."
+  },
+  "food-on-the-griddle-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Eating tool with prongs.” That same square starts 8 Down."
+  },
+  "neighborhood-counter-jobs-2": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Image made with a camera or pencil.” Its third letter starts 4 Across."
+  },
+  "neighborhood-counter-jobs-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Small drinking vessel.” That same square starts 1 Down."
+  },
+  "town-events-behind-scenes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Cold-weather outer garment.” Its fourth letter goes in the third square of 11 Across."
+  },
+  "town-events-behind-scenes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Shut, like a locked store.” Its third letter starts 7 Across."
+  },
+  "sharing-books-locally": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Movable panel at a room's entrance.” That same square starts 2 Down."
+  },
+  "sharing-books-locally-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Arrange into groups.” Its fourth letter starts 2 Down."
+  },
+  "sharing-books-locally-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Pick from several options.” That same square starts 2 Across."
+  },
+  "stairs-and-hallway-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Upright side of a small built shelter.” Its second letter starts 5 Down."
+  },
+  "stairs-and-hallway-5": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Woven carrying container.” That same square starts 7 Down."
+  },
+  "table-for-evening-3": {
+    "revision": 1,
+    "solvingTip": "Try 9 Down, “Having a high temperature.” Its third letter starts 11 Across."
+  },
+  "table-for-evening-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Flat dish for serving food.” That same square starts 6 Down."
+  },
+  "visits-and-welcome-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Location written on a mailed envelope.” Its third letter starts 8 Across."
+  },
+  "visits-and-welcome-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Furniture used for sleeping.” That same square starts 1 Down."
+  },
+  "clothing-for-weather": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Protective top over something.” That same square starts 5 Across."
+  },
+  "clothing-for-weather-5": {
+    "revision": 1,
+    "solvingTip": "Try 10 Down, “Outer garment worn over other clothes.” Its second letter goes in the fourth square of 11 Across."
+  },
+  "quiet-comforts-at-home": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Low support without a back or arms.” That same square starts 8 Down."
+  },
+  "quiet-comforts-at-home-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Easy to press.” That same square starts 1 Across."
+  },
+  "sorting-and-donating-2": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “To say numbers in sequence.” That same square starts 6 Across."
+  },
+  "sorting-and-donating-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Container with a base and sides.” That same square starts 1 Across."
+  },
+  "fabric-on-the-table-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Bring two sides together along a crease.” That same square starts 1 Across."
+  },
+  "craft-glass-and-ceramic": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Small flat unit used in many mosaics.” That same square starts 5 Down."
+  },
+  "craft-glass-and-ceramic-4": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Earth in which plants grow.” That same square starts 3 Across."
+  },
+  "craft-glass-and-ceramic-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Easy to press.” Its fourth letter starts 5 Across."
+  },
+  "gift-paper-folds-2": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Line left where a sheet has been sharply folded.” Its third letter starts 6 Down."
+  },
+  "handwork-fixing-keepsakes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Long narrow piece.” That same square starts 8 Down."
+  },
+  "hobbies-in-daylight": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Material used for writing or wrapping.” That same square starts 2 Down."
+  },
+  "hobbies-in-daylight-2": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Put a sign or line on something.” That same square starts 9 Down."
+  },
+  "hobbies-in-daylight-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Just alike.” Its third letter starts 2 Down."
+  },
+  "hobbies-in-daylight-5": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Containing nothing.” Its third letter starts 5 Down."
+  },
+  "old-shop-tools-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Vessel with a spout used to brew and serve tea.” That same square starts 7 Down."
+  },
+  "street-sights-remembered": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Free from dirt.” That same square starts 4 Down."
+  },
+  "street-sights-remembered-5": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Hard transparent material.” That same square starts 7 Down."
+  },
+  "kitchen-memories-in-use-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Everyday short name for a telephone.” That same square starts 8 Across."
+  },
+  "sing-with-the-room-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Long seat for several people.” That same square starts 4 Down."
+  },
+  "sing-with-the-room-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Vocal piece with a melody.” That same square starts 1 Across."
+  },
+  "sounds-of-the-recording-room-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Give part of something to others.” Its fifth letter starts 10 Across."
+  },
+  "remembered-dance-tunes": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Number following two.” Its third letter starts 4 Across."
+  },
+  "bible-river-and-road": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Percussion instrument with a stretched vibrating surface.” That same square starts 6 Across."
+  },
+  "bible-river-and-road-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Edible seed such as wheat.” Its first letter goes in the fifth square of 1 Across."
+  },
+  "bible-river-and-road-4": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Thin outer covering of fruit.” That same square starts 9 Across."
+  },
+  "bible-parables-and-choices-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Put a question to someone.” Its second letter starts 3 Across."
+  },
+  "birds-using-familiar-spaces": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Small piece of rock.” That same square starts 1 Across."
+  },
+  "birds-using-familiar-spaces-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Food baked from flour and dough.” That same square starts 4 Down."
+  },
+  "animals-around-the-farmyard": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Barrier built around a yard.” Its fifth letter starts 9 Across."
+  },
+  "animals-around-the-farmyard-3": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Domestic feline commonly kept as a household pet.” Its second letter goes in the second square of 2 Down."
+  },
+  "animals-around-the-farmyard-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Body opening used for eating.” That same square starts 4 Across."
+  },
+  "animals-around-the-farmyard-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Long hand support beside steps.” Its first letter goes in the seventh square of 5 Across."
+  },
+  "gardens-after-cold-3": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Shelter from direct sun.” That same square starts 4 Across."
+  },
+  "gardens-after-cold-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Bloom with petals.” Its fourth letter starts 4 Across."
+  },
+  "gardens-after-cold-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Slightly wet, rather than soaked.” Its fourth letter starts 10 Across."
+  },
+  "spring-outdoor-get-together-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Deep round dish for food.” Its fourth letter starts 8 Across."
+  },
+  "spring-outdoor-get-together-3": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Woven material.” Its second letter goes in the third square of 1 Down."
+  },
+  "warm-day-by-the-water": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Barrier built around a yard.” Its fourth letter starts 6 Across."
+  },
+  "warm-day-by-the-water-2": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Narrow-necked liquid container.” That same square starts 2 Down."
+  },
+  "warm-day-by-the-water-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Fine loose grains on a beach.” Its fourth letter starts 2 Down."
+  },
+  "summer-shade-and-breaks": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Shelter from direct sun.” That same square starts 4 Down."
+  },
+  "summer-shade-and-breaks-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “A small bundle of things.” Its third letter starts 2 Down."
+  },
+  "fall-harvest-work-3": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Stalk supporting a flower.” Its second letter starts 10 Down."
+  },
+  "fall-harvest-work-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Flat serving container with a raised edge.” That same square starts 1 Down."
+  },
+  "christmas-tree-care-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “With nothing covering it.” That same square starts 4 Across."
+  },
+  "christmas-tree-care-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Easy to press.” Its fourth letter starts 3 Down."
+  },
+  "thanksgiving-cleanup-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Clean with water.” Its third letter starts 9 Across."
+  },
+  "easter-basket-details": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Woven carrying container.” Its sixth letter starts 6 Across."
+  },
+  "easter-basket-details-2": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “Material used for writing or wrapping.” That same square starts 7 Across."
+  },
+  "halloween-costume-fixes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Sleeveless outer garment hanging from the shoulders.” That same square starts 2 Down."
+  },
+  "halloween-costume-fixes-3": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Outer part where a surface ends.” That same square starts 4 Across."
+  },
+  "welcoming-a-new-neighbor-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Stairway units leading upward in a large structure.” That same square starts 7 Down."
+  },
+  "welcoming-a-new-neighbor-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Body part with fingers and a thumb.” Its third letter starts 9 Across."
+  },
+  "welcoming-a-new-neighbor-5": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “Rigid container with a lid.” Its second letter starts 8 Across."
+  },
+  "clothesline-weather-choices-3": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Knitted upper-body garment with sleeves.” That same square starts 4 Across."
+  },
+  "clothesline-weather-choices-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Little in size.” Its second letter starts 3 Across."
+  },
+  "eating-at-the-diner": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Food baked from flour and dough.” That same square starts 6 Across."
+  },
+  "sewing-for-the-kitchen": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Line where fabric pieces are joined.” That same square starts 4 Down."
+  },
+  "sewing-for-the-kitchen-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Material used for sewing.” Its sixth letter starts 8 Across."
+  },
+  "useful-things-in-the-car-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Drawing showing roads and places.” Its third letter starts 3 Down."
+  },
+  "useful-things-in-the-car-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Large soft covering used for warmth.” Its fifth letter starts 6 Down."
+  },
+  "local-show-opening-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Long cloth worn around the neck.” Its third letter starts 2 Down."
+  },
+  "small-community-meals-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Public board with words or symbols.” That same square starts 8 Down."
+  },
+  "small-community-meals-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Items written one below another.” Its second letter goes in the second square of 7 Down."
+  },
+  "small-community-meals-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Flat dish for serving food.” That same square starts 1 Down."
+  },
+  "shopping-and-returning-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Piece of clothing with sleeves.” Its third letter goes in the second square of 7 Across."
+  },
+  "shopping-and-returning-3": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Money in bills and coins.” That same square starts 3 Across."
+  },
+  "shopping-and-returning-4": {
+    "revision": 1,
+    "solvingTip": "Try 8 Down, “Device that measures how heavy something is.” Its first letter goes in the seventh square of 7 Across."
+  },
+  "shopping-and-returning-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Removable top of a pot.” Its first letter goes in the fifth square of 2 Down."
+  },
+  "saved-messages-2": {
+    "revision": 1,
+    "solvingTip": "Try 4 Across, “Second version of the same writing.” Its second letter starts 5 Down."
+  },
+  "saved-messages-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Stack of paper for short notes.” That same square starts 6 Across."
+  },
+  "saved-messages-4": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Down, “Place where riders board.” Its third letter goes in the second square of 11 Across."
+  },
+  "comfort-food-from-the-oven-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Small dish served alongside a main dish.” Its third letter starts 10 Across."
+  },
+  "comfort-food-from-the-oven-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “With little thickness.” That same square starts 1 Down."
+  },
+  "comfort-food-from-the-oven-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Sweet dessert often baked in a pan.” Its fourth letter goes in the fifth square of 5 Across."
+  },
+  "yard-fixes-and-care": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Part that supports a leaf.” That same square starts 5 Across."
+  },
+  "yard-fixes-and-care-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Loose earth where a plant grows.” That same square starts 1 Down."
+  },
+  "yard-fixes-and-care-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Top that protects an opening.” That same square starts 7 Across."
+  },
+  "yard-fixes-and-care-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Place where two boards meet.” Its second letter goes in the second square of 3 Across."
+  },
+  "yard-fixes-and-care-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Large from one side to the other.” Its third letter starts 9 Across."
+  },
+  "familiar-park-outings": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Crease a sheet to make it smaller.” Its fourth letter starts 6 Across."
+  },
+  "familiar-park-outings-2": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Public land set aside for outings.” That same square starts 2 Across."
+  },
+  "familiar-park-outings-3": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Shade such as red or blue.” Its fifth letter starts 7 Across."
+  },
+  "familiar-park-outings-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Vapor rising from hot water.” That same square starts 1 Across."
+  },
+  "familiar-park-outings-5": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Part jutting out from the main tree.” Its second letter starts 2 Down."
+  },
+  "after-a-winter-storm": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Curved out of its usual shape.” That same square starts 6 Across."
+  },
+  "after-a-winter-storm-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Path to the front door.” Its second letter goes in the fifth square of 8 Across."
+  },
+  "after-a-winter-storm-3": {
+    "revision": 1,
+    "solvingTip": "Try 9 Across, “Hour or minute shown on a clock.” Its fourth letter goes in the second square of 6 Down."
+  },
+  "after-a-winter-storm-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Space inside a building.” That same square starts 8 Across."
+  },
+  "after-a-winter-storm-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Thin sheet that can be folded and cut.” Its third letter starts 2 Down."
+  },
+  "neighborhood-pet-care-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Device used to speak to someone far away.” Its third letter starts 7 Down."
+  },
+  "neighborhood-pet-care-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Fastener used to hold a bag closed.” That same square starts 7 Down."
+  },
+  "neighborhood-pet-care-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Small area of sunlight.” Its fourth letter starts 5 Across."
+  },
+  "neighborhood-pet-care-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Small barrier that opens and closes.” Its second letter goes in the second square of 3 Across."
+  },
+  "music-in-a-small-room": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Pattern of sounds and pauses.” Its fourth letter starts 9 Across."
+  },
+  "music-in-a-small-room-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “One movement of a foot.” Its fourth letter starts 2 Down."
+  },
+  "music-in-a-small-room-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Time when one day ends and another starts.” That same square starts 7 Down."
+  },
+  "music-in-a-small-room-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Female child of a parent.” Its fourth letter starts 8 Down."
+  },
+  "music-in-a-small-room-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across for the waterway mentioned in the song. Then try 5 Across for the land beside it."
+  },
+  "meetings-in-bible-stories": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Go away from a place.” That same square starts 4 Down."
+  },
+  "meetings-in-bible-stories-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Leaves for another place.” Its fourth letter starts 2 Down."
+  },
+  "meetings-in-bible-stories-3": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Be on your feet.” That same square starts 4 Across."
+  },
+  "meetings-in-bible-stories-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Talk to God.” That same square starts 8 Across."
+  },
+  "meetings-in-bible-stories-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Give part of something to others.” That same square starts 3 Across."
+  },
+  "shared-places-around-town": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Raised shelter where musicians play outside.” That same square starts 6 Down."
+  },
+  "shared-places-around-town-2": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Object displaying a short message.” Its second letter goes in the second square of 7 Down."
+  },
+  "shared-places-around-town-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Covered wire that carries electricity.” That same square starts 1 Across."
+  },
+  "shared-places-around-town-4": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Go back to where the outing began.” Its third letter starts 7 Down."
+  },
+  "shared-places-around-town-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Narrow part of the container near the top.” Its third letter starts 9 Across."
+  },
+  "old-paper-and-counter-tools": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Small slips saved from purchases and traded for goods.” Its sixth letter starts 4 Down."
+  },
+  "old-paper-and-counter-tools-2": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Program you can watch on TV.” That same square starts 4 Across."
+  },
+  "old-paper-and-counter-tools-3": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Surface the picture is shown on.” Its second letter starts 7 Across."
+  },
+  "old-paper-and-counter-tools-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Part you grasp to turn the sharpener.” That same square starts 4 Across."
+  },
+  "old-paper-and-counter-tools-5": {
+    "revision": 1,
+    "solvingTip": "At 1 Down, think of the little buttons a typist taps. At 9 Across, look for the strip of inked fabric that lets those taps leave a mark."
+  },
+  "familiar-food-at-the-table": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Meal made or served outdoors.” Its third letter starts 8 Down."
+  },
+  "familiar-food-at-the-table-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Drinking container that you can see through.” Its fifth letter starts 7 Across."
+  },
+  "familiar-food-at-the-table-3": {
+    "revision": 1,
+    "solvingTip": "Try 3 Across, “Having a sugary taste.” That same square starts 3 Down."
+  },
+  "familiar-food-at-the-table-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Move a spoon in circles through a liquid.” Its second letter starts 2 Across."
+  },
+  "familiar-food-at-the-table-5": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Turn from solid to liquid with warmth.” Its fourth letter starts 11 Across."
+  },
+  "tending-beds-and-paths": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Vegetable with a round head of overlapping leaves.” Its seventh letter starts 10 Across."
+  },
+  "tending-beds-and-paths-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Yard area covered with short grass.” Its third letter starts 2 Down."
+  },
+  "tending-beds-and-paths-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Room between plants.” Its fourth letter starts 2 Down."
+  },
+  "tending-beds-and-paths-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Tool with bristles that remove loose dirt.” Its second letter starts 2 Down."
+  },
+  "tending-beds-and-paths-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Hold firmly without slipping.” That same square starts 2 Down."
+  },
+  "pets-and-backyard-moments": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Keep food to use at another time.” That same square starts 6 Across."
+  },
+  "pets-and-backyard-moments-2": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Nearer to the head than the tail.” That same square starts 6 Across."
+  },
+  "pets-and-backyard-moments-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Long padded seat with room for more than one person.” Its third letter starts 2 Down."
+  },
+  "pets-and-backyard-moments-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Small pet with long ears and a short tail.” That same square starts 2 Across."
+  },
+  "pets-and-backyard-moments-5": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Thin material spread across the bottom.” That same square starts 2 Down."
+  },
+  "fair-and-community-tables": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Writing tool whose marks can be erased.” That same square starts 6 Across."
+  },
+  "fair-and-community-tables-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Mark made by pressing an inked design down.” Its fifth letter starts 8 Across."
+  },
+  "fair-and-community-tables-3": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Round container that turns to mix the tickets.” Its first letter goes in the fourth square of 4 Across."
+  },
+  "fair-and-community-tables-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Look at written words for their meaning.” Its fourth letter starts 3 Down."
+  },
+  "fair-and-community-tables-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Place where the former classmates studied.” Its second letter starts 3 Across."
+  },
+  "familiar-kitchen-preparations": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Dried seeds used here to hold pastry down.” That same square starts 6 Across."
+  },
+  "familiar-kitchen-preparations-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Firm and crunchy to the bite.” Its second letter goes in the third square of 5 Across."
+  },
+  "familiar-kitchen-preparations-3": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Stiff enough to hold a shape.” That same square starts 4 Down."
+  },
+  "familiar-kitchen-preparations-4": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Liquid dish that can be eaten with a spoon.” That same square starts 6 Across."
+  },
+  "familiar-kitchen-preparations-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Pull back the outer leaves.” Its third letter starts 10 Across."
+  },
+  "small-fittings-at-home": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Flat board where the books stand.” That same square starts 7 Across."
+  },
+  "small-fittings-at-home-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Part of a chair that a person sits on.” Its fourth letter starts 8 Across."
+  },
+  "small-fittings-at-home-3": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Part a visitor presses to signal an arrival.” That same square starts 8 Down."
+  },
+  "small-fittings-at-home-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Box that slides out of a cabinet.” Its sixth letter starts 8 Down."
+  },
+  "small-fittings-at-home-5": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Put pieces in position so they meet.” That same square starts 6 Across."
+  },
+  "music-before-and-after-the-song": {
+    "revision": 1,
+    "solvingTip": "At 1 Across, guess what you call several titles written one below another. At 8 Across, look for the extra number people ask to listen to before they go home."
+  },
+  "music-before-and-after-the-song-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Start the music.” Its second letter starts 3 Across."
+  },
+  "music-before-and-after-the-song-3": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Place where a concertgoer sits.” That same square starts 5 Down."
+  },
+  "music-before-and-after-the-song-4": {
+    "revision": 1,
+    "solvingTip": "Try the short sound at 8 Across first. At 6 Across, name the device that makes the sound again and again at a chosen speed."
+  },
+  "music-before-and-after-the-song-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Sounds arranged into a tune or piece.” That same square starts 6 Down."
+  },
+  "tending-small-plantings": {
+    "revision": 1,
+    "solvingTip": "Try 11 Across, “Become larger over time.” Its third letter goes in the second square of 10 Down."
+  },
+  "tending-small-plantings-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Warmth that builds up inside.” That same square starts 2 Down."
+  },
+  "tending-small-plantings-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Easy to press down or squeeze.” Its fourth letter starts 3 Down."
+  },
+  "tending-small-plantings-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Upright part that carries the plant's leaves.” That same square starts 1 Down."
+  },
+  "tending-small-plantings-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Fall a drop at a time.” That same square starts 2 Down."
+  },
+  "older-things-in-daily-use": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Insulated container that holds the delivery.” That same square starts 7 Across."
+  },
+  "older-things-in-daily-use-2": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Foot covering that fits above the skate.” That same square starts 5 Across."
+  },
+  "older-things-in-daily-use-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Block with six square faces.” Its fourth letter goes in the fifth square of 5 Across."
+  },
+  "older-things-in-daily-use-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Small sewing tool with a pointed end.” Its second letter goes in the fourth square of 7 Across."
+  },
+  "older-things-in-daily-use-5": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Pull the string to close the top.” That same square starts 5 Down."
+  },
+  "small-stops-on-park-outings": {
+    "revision": 1,
+    "solvingTip": "At 10 Across, find the familiar unit that road signs use for 5,280 feet. At 11 Across, look for what tells you how many of those units you have covered."
+  },
+  "small-stops-on-park-outings-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Barrier that hides the viewer from birds.” That same square starts 6 Down."
+  },
+  "small-stops-on-park-outings-3": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Fall one drop at a time.” Its fourth letter starts 6 Down."
+  },
+  "small-stops-on-park-outings-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Start the recorded explanation.” That same square starts 8 Across."
+  },
+  "small-stops-on-park-outings-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Write your name in the book.” That same square starts 5 Down."
+  },
+  "familiar-bible-decisions": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Take things to the person waiting for them.” That same square starts 2 Down."
+  },
+  "familiar-bible-decisions-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Soft hair that grows on a sheep.” Its first letter goes in the third square of 1 Across."
+  },
+  "familiar-bible-decisions-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Woman whose husband has died.” Its fifth letter starts 10 Across."
+  },
+  "familiar-bible-decisions-4": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Come together in one place.” Its fourth letter starts 8 Across."
+  },
+  "familiar-bible-decisions-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Fix parts of a building that need work.” Its third letter starts 2 Down."
+  },
+  "snow-and-winter-light": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Top outside surface of a car.” Its first letter goes in the second square of 1 Down."
+  },
+  "snow-and-winter-light-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Appear bright when a lamp points toward it.” That same square starts 1 Down."
+  },
+  "snow-and-winter-light-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Look at the mark and say what it shows.” That same square starts 2 Down."
+  },
+  "snow-and-winter-light-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Bright body that lights the yard by day.” That same square starts 2 Down."
+  },
+  "snow-and-winter-light-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Extending well down from the surface.” That same square starts 3 Across."
+  },
+  "practical-corners-of-the-garden": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Water that falls from clouds.” That same square starts 6 Across."
+  },
+  "practical-corners-of-the-garden-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Outer covering of a tree.” That same square starts 6 Across."
+  },
+  "practical-corners-of-the-garden-3": {
+    "revision": 1,
+    "solvingTip": "Try 9 Across, “Hard to lift because of its weight.” Its first letter goes in the fourth square of 4 Down."
+  },
+  "practical-corners-of-the-garden-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Place where one piece connects to another.” Its second letter starts 9 Down."
+  },
+  "practical-corners-of-the-garden-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Easy to see through.” That same square starts 2 Down."
+  },
+  "simple-mending-tools": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Line where two pieces of cloth are sewn together.” That same square starts 1 Down."
+  },
+  "simple-mending-tools-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Long narrow piece of material.” Its fifth letter starts 7 Down."
+  },
+  "simple-mending-tools-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Thin pointed fastener used for holding cloth.” That same square starts 1 Down."
+  },
+  "simple-mending-tools-4": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Split in the side of the box.” That same square starts 8 Down."
+  },
+  "simple-mending-tools-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Without the moisture it used to contain.” Its fifth letter starts 8 Down."
+  },
+  "sounds-and-instruments-up-close": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Short sharp sound when a shoe touches down.” That same square starts 1 Across."
+  },
+  "sounds-and-instruments-up-close-2": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Deep in sound.” That same square starts 1 Down."
+  },
+  "sounds-and-instruments-up-close-3": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Part at the very end of a support.” Its third letter starts 11 Across."
+  },
+  "sounds-and-instruments-up-close-4": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Indoor space where the audience is seated.” That same square starts 3 Across."
+  },
+  "sounds-and-instruments-up-close-5": {
+    "revision": 1,
+    "solvingTip": "Look at 9 Down for the material that the instrument's pieces are made from. At 6 Across, look for the little padded sticks used to tap them."
+  },
+  "old-testament-moments": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Woman who rules a country in her own right.” That same square starts 8 Across."
+  },
+  "old-testament-moments-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Notice a sound with your ears.” Its second letter goes in the fourth square of 3 Across."
+  },
+  "old-testament-moments-3": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Seat with a back for one person.” Its fifth letter starts 10 Across."
+  },
+  "old-testament-moments-4": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Move downward after coming loose.” That same square starts 8 Across."
+  },
+  "old-testament-moments-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Number of pieces carried in the account.” That same square starts 1 Down."
+  },
+  "handy-prep-in-the-kitchen": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Sour liquid used to make salad dressings.” Its seventh letter starts 6 Down."
+  },
+  "handy-prep-in-the-kitchen-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Small amounts of water that collect in the bowl.” Its second letter starts 3 Down."
+  },
+  "handy-prep-in-the-kitchen-3": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Liquid heated in the lower container.” Its first letter goes in the third square of 7 Down."
+  },
+  "handy-prep-in-the-kitchen-4": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Raise the piece out of the rind.” Its fourth letter starts 7 Across."
+  },
+  "handy-prep-in-the-kitchen-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Deep container used for the meal on the stove.” Its first letter goes in the fourth square of 6 Across."
+  },
+  "familiar-tools-from-earlier-years": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Connection used to carry calls between homes.” Its second letter goes in the third square of 1 Down."
+  },
+  "familiar-tools-from-earlier-years-2": {
+    "revision": 1,
+    "solvingTip": "Try 8 Down, “Device that keeps the bicycle from being moved easily.” Its second letter starts 11 Across."
+  },
+  "familiar-tools-from-earlier-years-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Put photographs in the positions where they belong.” That same square starts 2 Down."
+  },
+  "familiar-tools-from-earlier-years-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Covered platform at the entrance to a home.” That same square starts 4 Down."
+  },
+  "familiar-tools-from-earlier-years-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Across, “Bent handle turned to move something.” Its second letter starts 4 Down."
+  },
+  "little-stops-by-the-shore": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Look through the printed figures to understand them.” That same square starts 6 Down."
+  },
+  "little-stops-by-the-shore-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Raised strip next to a groove.” Its fourth letter starts 3 Down."
+  },
+  "little-stops-by-the-shore-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Platform extending out from the shore.” That same square starts 1 Across."
+  },
+  "little-stops-by-the-shore-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Parts of the body that carry a walker.” Its fourth letter starts 2 Down."
+  },
+  "little-stops-by-the-shore-5": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Foam-filled garment made to help a person float.” Its third letter starts 6 Across."
+  },
+  "small-household-upkeep": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Fuzz that comes loose from clothing.” Its fourth letter starts 6 Down."
+  },
+  "small-household-upkeep-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Loop stretched across the mouth of the can.” Its second letter goes in the fifth square of 2 Across."
+  },
+  "small-household-upkeep-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Layer that keeps the finish from getting marked.” That same square starts 6 Across."
+  },
+  "small-household-upkeep-4": {
+    "revision": 1,
+    "solvingTip": "Try 4 Across, “Part that closes over the holder.” Its first letter goes in the fourth square of 1 Down."
+  },
+  "small-household-upkeep-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Fine dry particles gathered while cleaning.” Its second letter goes in the second square of 2 Across."
+  },
+  "after-the-grocery-aisles-2": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Raised surface where customers are served.” Its fourth letter starts 6 Down."
+  },
+  "after-the-grocery-aisles-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Part held when carrying or using something.” That same square starts 7 Down."
+  },
+  "small-errands-on-main-street": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Package waiting inside the opened compartment.” That same square starts 6 Across."
+  },
+  "small-errands-on-main-street-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Outside border of a surface.” Its third letter starts 2 Down."
+  },
+  "small-errands-on-main-street-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Side opposite the front.” That same square starts 2 Down."
+  },
+  "watching-small-changes-4": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Utensil with a bowl on the end for stirring.” That same square starts 2 Across."
+  },
+  "watching-small-changes-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Curved rather than square at the edges.” Its fifth letter starts 6 Down."
+  },
+  "listening-and-looking-outdoors": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Hard piece of natural stone.” Its third letter starts 8 Down."
+  },
+  "listening-and-looking-outdoors-2": {
+    "revision": 1,
+    "solvingTip": "Try 10 Across, “Far above the ground.” That same square starts 10 Down."
+  },
+  "listening-and-looking-outdoors-4": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Down, “Change which way something faces.” Its first letter goes in the fourth square of 8 Across."
+  },
+  "listening-and-looking-outdoors-5": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Flat green parts of a plant.” Its first letter goes in the fourth square of 1 Across."
+  },
+  "fittings-in-shared-places": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Bottom part that holds something up.” Its third letter starts 9 Across."
+  },
+  "fittings-in-shared-places-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Seat for one person.” Its first letter goes in the fourth square of 5 Across."
+  },
+  "neighbors-and-small-kindnesses": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “Container from which food is served.” Its first letter goes in the fourth square of 6 Across."
+  },
+  "neighbors-and-small-kindnesses-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Word that identifies the resident.” Its third letter starts 4 Across."
+  },
+  "neighbors-and-small-kindnesses-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Holding no soil or plant.” Its third letter starts 7 Across."
+  },
+  "getting-out-the-door-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Written set of things to bring back from the store.” Its first letter goes in the third square of 5 Down."
+  },
+  "getting-out-the-door-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Body part containing the eyes and mouth.” Its second letter starts 3 Down."
+  },
+  "familiar-first-aid-supplies": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Material made by weaving or knitting fibers.” Its fourth letter starts 10 Down."
+  },
+  "familiar-first-aid-supplies-2": {
+    "revision": 1,
+    "solvingTip": "Try 6 Across, “Small sealed wrapper that holds the folded pad.” Its third letter starts 7 Down."
+  },
+  "familiar-first-aid-supplies-5": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Sharp or narrow end of an object.” That same square starts 1 Across."
+  },
+  "before-the-first-bite": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Push firmly against something.” That same square starts 4 Across."
+  },
+  "breakfast-on-the-griddle-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Prepare food with heat.” That same square starts 7 Across."
+  },
+  "small-baking-checks-3": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Sweet baked dessert often covered with icing.” Its first letter goes in the third square of 7 Down."
+  },
+  "pantry-packets-and-labels": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Before using the unopened package.” Its third letter starts 7 Down."
+  },
+  "pantry-packets-and-labels-3": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Part at the front held for pulling.” Its fourth letter goes in the third square of 9 Across."
+  },
+  "fresh-fruit-details": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Small utensil slid beneath the leafy top.” That same square starts 5 Down."
+  },
+  "fresh-fruit-details-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Move around a center.” That same square starts 7 Across."
+  },
+  "fresh-fruit-details-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Food grown on trees or vines, such as pears.” Its second letter starts 2 Down."
+  },
+  "fresh-fruit-details-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Low in temperature.” That same square starts 5 Across."
+  },
+  "supper-at-the-stove-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Move a spoon around in a mixture.” That same square starts 1 Across."
+  },
+  "supper-at-the-stove-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Move smoothly along a surface.” That same square starts 7 Across."
+  },
+  "supper-at-the-stove-5": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Part along the outside edge of an object.” That same square starts 1 Across."
+  },
+  "sauces-and-table-spreads": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Little in size.” That same square starts 5 Across."
+  },
+  "sauces-and-table-spreads-4": {
+    "revision": 1,
+    "solvingTip": "Try 2 Down, “Cold dish of mixed vegetables.” Its fifth letter starts 7 Across."
+  },
+  "sides-with-a-simple-shape": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Having a high temperature.” That same square starts 8 Across."
+  },
+  "sides-with-a-simple-shape-2": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Easy to press.” That same square starts 4 Across."
+  },
+  "sides-with-a-simple-shape-3": {
+    "revision": 1,
+    "solvingTip": "Start with 10 Across, “Small cooked grains that can hold together when pressed.” Its third letter starts 11 Down."
+  },
+  "small-actions-at-the-serving-table-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Comfortably heated.” That same square starts 3 Down."
+  },
+  "small-actions-at-the-serving-table-4": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Shaped like a circle.” That same square starts 7 Across."
+  },
+  "small-actions-at-the-serving-table-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Serving jug with a handle and spout.” Its fourth letter starts 8 Across."
+  },
+  "tending-vegetable-rows": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Upright parts at the center of the plants.” That same square starts 8 Down."
+  },
+  "tending-vegetable-rows-2": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Filled out almost to the tip.” That same square starts 5 Down."
+  },
+  "checking-garden-water-4": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Loose ground around plant roots.” That same square starts 5 Down."
+  },
+  "garden-birds-and-insects-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Flying insect that carries a small piece of leaf.” That same square starts 4 Down."
+  },
+  "garden-birds-and-insects-5": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Short break in an ongoing activity.” That same square starts 2 Across."
+  },
+  "watching-at-the-pond": {
+    "revision": 1,
+    "solvingTip": "Try 10 Across, “Small piece of rock.” Its first letter goes in the fifth square of 6 Down."
+  },
+  "watching-at-the-pond-3": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Plant part growing from a stem.” Its second letter starts 4 Down."
+  },
+  "small-habits-of-wild-neighbors": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “To throw a ball with a gentle upward motion.” That same square starts 8 Down."
+  },
+  "small-habits-of-wild-neighbors-2": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Outside border of a surface.” Its third letter starts 6 Across."
+  },
+  "tidying-a-garden-corner-2": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Curve made by bending string.” That same square starts 7 Across."
+  },
+  "tidying-a-garden-corner-3": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “Area where flowers or vegetables are grown.” Its fifth letter starts 10 Across."
+  },
+  "tidying-a-garden-corner-5": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Loose earth caught in the gaps.” Its fourth letter starts 5 Across."
+  },
+  "keeping-flowers-upright": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Keep something in place.” Its third letter starts 7 Across."
+  },
+  "keeping-flowers-upright-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Separate with a sharp edge.” That same square starts 7 Across."
+  },
+  "harvest-basket-details": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Flat piece of wood.” That same square starts 6 Down."
+  },
+  "harvest-basket-details-3": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Down, “Container woven from flexible strips.” That same square starts 7 Across."
+  },
+  "small-changes-in-the-yard-2": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Level and without bumps.” Its second letter starts 9 Down."
+  },
+  "small-changes-in-the-yard-5": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “One part of a staircase.” That same square starts 7 Down."
+  },
+  "trees-in-different-weather-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Covered with water.” That same square starts 2 Down."
+  },
+  "trees-in-different-weather-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Plant with a trunk and limbs.” Its third letter goes in the fourth square of 5 Across."
+  },
+  "trees-in-different-weather-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Outdoor area around a home.” Its fourth letter starts 5 Across."
+  },
+  "trees-in-different-weather-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Covered with or containing liquid water.” That same square starts 8 Across."
+  },
+  "small-tools-at-a-paper-desk-2": {
+    "revision": 1,
+    "solvingTip": "Try 9 Down, “Move a cover or barrier away from an opening.” Its second letter starts 10 Across."
+  },
+  "small-tools-at-a-paper-desk-3": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Move something away using force.” That same square starts 2 Across."
+  },
+  "listening-with-old-equipment-3": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Come to a halt.” That same square starts 2 Down."
+  },
+  "familiar-older-kitchen-tools": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Keep something in place.” Its third letter starts 9 Down."
+  },
+  "older-cars-and-bicycles": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Warmth moved from one place to another.” Its second letter starts 9 Across."
+  },
+  "older-cars-and-bicycles-3": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Part along the outside edge of an object.” Its first letter goes in the fifth square of 3 Down."
+  },
+  "older-cars-and-bicycles-5": {
+    "revision": 1,
+    "solvingTip": "Try 4 Across, “Round device that rings on the handlebars.” That same square starts 4 Down."
+  },
+  "old-clothing-and-accessories": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Keep something in place.” That same square starts 1 Across."
+  },
+  "old-clothing-and-accessories-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Move smoothly along a surface.” That same square starts 6 Across."
+  },
+  "old-clothing-and-accessories-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Push firmly against something.” Its fifth letter starts 2 Down."
+  },
+  "old-clothing-and-accessories-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Long piece of cloth worn around the neck.” Its fourth letter starts 7 Down."
+  },
+  "cloth-mending-in-small-steps": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Support the cloth from the side that does not show.” Its fourth letter starts 10 Across."
+  },
+  "cloth-mending-in-small-steps-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “Slender pointed rod or tool.” Its fifth letter starts 4 Down."
+  },
+  "cloth-mending-in-small-steps-4": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Move a part without lifting it.” Its second letter starts 7 Across."
+  },
+  "cloth-mending-in-small-steps-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Thin strand evenly laid in the layers.” Its third letter goes in the third square of 5 Across."
+  },
+  "paper-folds-and-covers": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Side that faces a viewer or looks forward.” That same square starts 3 Across."
+  },
+  "paper-folds-and-covers-2": {
+    "revision": 1,
+    "solvingTip": "Try 3 Across, “Material made into thin sheets.” That same square starts 3 Down."
+  },
+  "paper-folds-and-covers-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Side opposite the front.” That same square starts 1 Across."
+  },
+  "small-woodwork-checks": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Compare the frame with the tool.” Its second letter starts 8 Down."
+  },
+  "small-woodwork-checks-3": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Tool that holds separate pieces firmly together.” Its fifth letter starts 8 Across."
+  },
+  "small-woodwork-checks-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “The central supporting stem of a feather.” That same square starts 6 Across."
+  },
+  "small-craft-display-ideas": {
+    "revision": 1,
+    "solvingTip": "Try 8 Down, “Stiff piece of paper that carries a message.” Its third letter starts 10 Across."
+  },
+  "small-craft-display-ideas-2": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Down, “Dark shape cast beside the keepsake.” Its fifth letter starts 7 Across."
+  },
+  "small-craft-display-ideas-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Highest part or upper surface.” Its third letter starts 5 Across."
+  },
+  "small-craft-display-ideas-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Made so someone can see the photograph through it.” That same square starts 1 Across."
+  },
+  "small-craft-display-ideas-5": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Across, “Group of craft pieces held together.” Its fifth letter starts 7 Down."
+  },
+  "arranging-buttons-and-beads": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Down, “Little in size.” Its first letter goes in the seventh square of 6 Across."
+  },
+  "arranging-buttons-and-beads-2": {
+    "revision": 1,
+    "solvingTip": "Try 4 Across, “Writing tool with a graphite core.” That same square starts 4 Down."
+  },
+  "arranging-buttons-and-beads-3": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Flat container often used to carry several objects.” Its second letter starts 7 Across."
+  },
+  "arranging-buttons-and-beads-5": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Find a fastener that looks like the others.” Its fifth letter starts 10 Across."
+  },
+  "keeping-instruments-ready-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Particular location.” Its fourth letter starts 3 Down."
+  },
+  "music-in-community-rooms-2": {
+    "revision": 1,
+    "solvingTip": "Try 5 Across, “Begin an action or trip.” That same square starts 5 Down."
+  },
+  "music-in-community-rooms-5": {
+    "revision": 1,
+    "solvingTip": "Try 2 Across, “Notice with the eyes.” That same square starts 2 Down."
+  },
+  "familiar-music-objects": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Move smoothly along a surface.” That same square starts 5 Across."
+  },
+  "familiar-music-objects-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Small round fitting that the opening slips onto.” That same square starts 4 Down."
+  },
+  "spring-rain-and-small-errands": {
+    "revision": 1,
+    "solvingTip": "Try 1 Across, “Low surface where the foot landed.” Its second letter starts 2 Down."
+  },
+  "spring-rain-and-small-errands-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Slightly wet from a shower.” Its fourth letter starts 4 Across."
+  },
+  "spring-rain-and-small-errands-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Season after winter.” That same square starts 5 Across."
+  },
+  "summer-evenings-close-to-home": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Place for one person to sit.” That same square starts 1 Down."
+  },
+  "autumn-around-the-neighborhood-3": {
+    "revision": 1,
+    "solvingTip": "Try 7 Down, “One part of a staircase.” That same square starts 7 Across."
+  },
+  "autumn-around-the-neighborhood-4": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Upright support at the edge of a porch.” Its fourth letter starts 5 Down."
+  },
+  "sorting-and-keeping-finds-3": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Bottom part that holds something up.” That same square starts 8 Down."
+  },
+  "a-walk-through-a-local-museum": {
+    "revision": 1,
+    "solvingTip": "Try 4 Down, “Border around a picture or other object.” That same square starts 4 Across."
+  },
+  "a-walk-through-a-local-museum-3": {
+    "revision": 1,
+    "solvingTip": "At 1 Down, find the drawing of the building's rooms. At 6 Across, look for the raised part you can find with your fingers."
+  },
+  "a-walk-through-a-local-museum-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Form words with a pen.” That same square starts 8 Down."
+  },
+  "details-on-a-town-walk": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “One part of a staircase.” That same square starts 6 Across."
+  },
+  "details-on-a-town-walk-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Business that used the building at an earlier time.” That same square starts 6 Across."
+  },
+  "details-on-a-town-walk-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Down, “Town road lined with homes or shops.” Its third letter starts 7 Across."
+  },
+  "details-on-a-town-walk-5": {
+    "revision": 1,
+    "solvingTip": "Try 5 Down, “Plant whose trunk passes through the middle.” Its first letter goes in the fourth square of 4 Across."
+  },
+  "a-rest-stop-on-the-road-2": {
+    "revision": 1,
+    "solvingTip": "At 9 Across, picture a group of cars parked abreast. At 5 Down, think of what you remember from the sign so you can get back to the right group."
+  },
+  "a-rest-stop-on-the-road-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Shallow holder that keeps loose pieces together.” Its third letter goes in the second square of 3 Across."
+  },
+  "a-few-quiet-minutes-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Seat for one person.” That same square starts 1 Down."
+  },
+  "a-few-quiet-minutes-3": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Piece that shows where a reader left off.” Its sixth letter starts 6 Down."
+  },
+  "taking-care-of-a-reading-place": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Pages fastened together inside a cover.” That same square starts 4 Across."
+  },
+  "taking-care-of-a-reading-place-2": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Direct the eyes toward something.” That same square starts 8 Down."
+  },
+  "taking-care-of-a-reading-place-3": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Support on which an object rests.” That same square starts 4 Down."
+  },
+  "taking-care-of-a-reading-place-5": {
+    "revision": 1,
+    "solvingTip": "Try 3 Down, “Account of events told to a listener.” That same square starts 3 Across."
+  },
+  "ordinary-visits-and-welcome-2": {
+    "revision": 1,
+    "solvingTip": "Start with 9 Across, “Brightness making objects visible.” That same square starts 9 Down."
+  },
+  "ordinary-visits-and-welcome-4": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Place for one person to sit.” That same square starts 6 Across."
+  },
+  "a-visit-through-familiar-landmarks-2": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Part along the outside edge of an object.” That same square starts 5 Across."
+  },
+  "a-visit-through-familiar-landmarks-4": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Line forming the outside of a shape.” Its second letter starts 4 Across."
+  },
+  "weekend-morning-in-the-yard-3": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “Water falling from clouds.” Its second letter goes in the second square of 7 Down."
+  },
+  "everyday-moments-with-paper": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Pile with several boxes arranged on top of each other.” That same square starts 3 Across."
+  },
+  "simple-summer-day-trips-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Short green plants covering the picnic spot.” That same square starts 1 Down."
+  },
+  "simple-summer-day-trips-3": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Soft container for carrying things.” That same square starts 4 Across."
+  },
+  "simple-summer-day-trips-4": {
+    "revision": 1,
+    "solvingTip": "Try 7 Across, “Level and without bumps.” That same square starts 7 Down."
+  },
+  "simple-summer-day-trips-5": {
+    "revision": 1,
+    "solvingTip": "Start with 8 Across, “One-person seat with a back.” Its second letter starts 9 Down."
+  },
+  "well-known-scenes-in-genesis": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Food baked from flour and dough.” Its fifth letter starts 5 Down."
+  },
+  "well-known-scenes-in-genesis-2": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Put water in an emptied container again.” Its third letter starts 8 Across."
+  },
+  "well-known-scenes-in-genesis-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Color of a ripe tomato.” Its second letter starts 2 Down."
+  },
+  "stories-of-help-and-listening": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Notice sound with the ears.” That same square starts 1 Down."
+  },
+  "stories-of-help-and-listening-2": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Male ruler of a kingdom.” Its fourth letter starts 5 Down."
+  },
+  "stories-of-help-and-listening-5": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Down, “Large meal that is interrupted in the story.” That same square starts 5 Across."
+  },
+  "new-testament-scenes-by-the-door": {
+    "revision": 1,
+    "solvingTip": "Try 9 Down, “Notice sound with the ears.” Its fourth letter starts 11 Across."
+  },
+  "new-testament-scenes-by-the-door-2": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Move upward.” That same square starts 1 Down."
+  },
+  "new-testament-scenes-by-the-door-3": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Deep round dish for food.” That same square starts 6 Across."
+  },
+  "optional-scenes-in-acts-and-joshua-3": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Come together in one place.” That same square starts 3 Across."
+  },
+  "optional-scenes-in-acts-and-joshua-4": {
+    "revision": 1,
+    "solvingTip": "Start with 2 Across, “Clear liquid such as what flows from a tap.” That same square starts 2 Down."
+  },
+  "familiar-county-fair-stops": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Down, “Part along the outside edge of an object.” That same square starts 4 Across."
+  },
+  "familiar-county-fair-stops-2": {
+    "revision": 1,
+    "solvingTip": "Start with 6 Down, “Let someone see or understand something.” That same square starts 6 Across."
+  },
+  "familiar-county-fair-stops-3": {
+    "revision": 1,
+    "solvingTip": "Try 1 Down, “Thick cord that marks the display boundary.” Its third letter starts 4 Across."
+  },
+  "familiar-county-fair-stops-5": {
+    "revision": 1,
+    "solvingTip": "Start with 4 Across, “Strip of fabric attached to a winning entry.” Its fourth letter starts 5 Down."
+  },
+  "old-stores-and-service-counters-3": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Divide with scissors or a knife.” Its third letter starts 2 Down."
+  },
+  "old-stores-and-service-counters-4": {
+    "revision": 1,
+    "solvingTip": "Try 6 Down, “Hard transparent material.” Its fifth letter starts 10 Across."
+  },
+  "shelves-for-tiny-collections": {
+    "revision": 1,
+    "solvingTip": "Start with 5 Across, “Figure that identifies one item in the display.” Its third letter starts 6 Down."
+  },
+  "shelves-for-tiny-collections-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “Long narrow mark on a surface.” That same square starts 1 Down."
+  },
+  "comfortable-neighborhood-walks": {
+    "revision": 1,
+    "solvingTip": "Start with 7 Across, “Empty area left between two people.” That same square starts 7 Down."
+  },
+  "comfortable-neighborhood-walks-4": {
+    "revision": 1,
+    "solvingTip": "Start with 1 Across, “How large or small something is.” That same square starts 1 Down."
+  },
+  "comfortable-neighborhood-walks-5": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Down, “Counter where someone lends or receives the maps.” Its third letter starts 6 Across."
+  },
+  "taking-care-of-small-supplies": {
+    "revision": 1,
+    "solvingTip": "Try 8 Across, “Day the new package was brought home.” Its fourth letter starts 9 Down."
+  },
+  "taking-care-of-small-supplies-2": {
+    "revision": 1,
+    "solvingTip": "Start with 3 Across, “With strong color that is easy to see.” Its second letter starts 4 Down."
   }
 }
