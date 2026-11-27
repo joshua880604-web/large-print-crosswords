@@ -7,7 +7,7 @@ const selected=puzzles.filter(p=>['geography-journeys','state-capital-stops'].in
 const capitals=selected.filter(p=>p.series==='state-capital-stops');
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Geography',path:'/geography-crosswords/'}];
 ---
-<Layout title="Geography & State Capital Crossword Puzzles in Large Print" description="Explore free large print geography and US state capital crosswords. Follow maps, rivers and coasts, or try regional capital-city puzzles online and in print." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Geography & State Capital Crossword Puzzles in Large Print" description="Explore free large print geography and US state capital crosswords. Follow maps, rivers and coasts, or try regional capital-city puzzles online and in print." breadcrumbs={breadcrumbs} active="puzzles" puzzleList={selected}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Geography</span></nav>
 <header class="page-heading"><p class="eyebrow">PLACES TO EXPLORE · LETTERS TO ENJOY</p><h1>Geography crosswords in large print.</h1><p>Explore {selected.length} mini crosswords about maps, landscapes, and US state capitals. Choose a topic, play with hints, or print a puzzle and separate answers.</p></header>
 <Collection items={selected}/>

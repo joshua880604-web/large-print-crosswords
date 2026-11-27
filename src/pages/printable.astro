@@ -22,6 +22,7 @@ const featured = [
   title="Free Printable Large Print Crosswords with Answers"
   description="Browse free printable large print crossword puzzles for seniors and adults. Easy-to-read clues, US Letter pages, and separate answer sheets. No sign-up."
   active="print"
+  puzzleList={featured.flatMap(group => group.puzzles)}
 >
   <div class="container print-directory">
     <header class="page-heading">

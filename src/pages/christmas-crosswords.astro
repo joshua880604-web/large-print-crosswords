@@ -13,7 +13,7 @@ const groups=[
 ];
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Christmas',path:'/christmas-crosswords/'}];
 ---
-<Layout title="Free Christmas Crossword Puzzles in Large Print" description="Enjoy free Christmas crosswords in large print. Play online or print 18pt clues with separate answers. Familiar festive themes for adults, with no sign-up." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Free Christmas Crossword Puzzles in Large Print" description="Enjoy free Christmas crosswords in large print. Play online or print 18pt clues with separate answers. Familiar festive themes for adults, with no sign-up." breadcrumbs={breadcrumbs} active="puzzles" puzzleList={christmasPuzzles}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Christmas</span></nav>
 <header class="page-heading"><p class="eyebrow">FAMILIAR TRADITIONS · YOUR OWN PACE</p><h1>Christmas crossword puzzles in large print.</h1><p>Choose from {christmasPuzzles.length} original themed mini crosswords for adults who enjoy clear clues and larger letters. Play online with hints, or print a puzzle and its separate answer sheet. No account or timer is required.</p></header>
 <p class="notice">Print pages start with 18pt clues and a larger grid on two US Letter pages. A compact 13pt single-page option is also available.</p>

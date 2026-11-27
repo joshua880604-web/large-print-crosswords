@@ -10,7 +10,7 @@ const groups=[
 ];
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Thanksgiving',path:'/thanksgiving-crosswords/'}];
 ---
-<Layout title="Free Thanksgiving Crossword Puzzles for Adults in Large Print" description="Enjoy Thanksgiving crosswords about familiar food, gatherings and sharing. Play online or print 18pt clues with a separate answer sheet, free without sign-up." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Free Thanksgiving Crossword Puzzles for Adults in Large Print" description="Enjoy Thanksgiving crosswords about familiar food, gatherings and sharing. Play online or print 18pt clues with a separate answer sheet, free without sign-up." breadcrumbs={breadcrumbs} active="puzzles" puzzleList={thanksgivingPuzzles}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Thanksgiving</span></nav>
 <header class="page-heading"><p class="eyebrow">FOOD · FAMILY · SHARING</p><h1>Thanksgiving crossword puzzles in large print.</h1><p>Choose from {thanksgivingPuzzles.length} original mini crosswords for adults, with direct clues about a familiar meal and the small moments around it. Play online at your own pace or print a puzzle and its separate answers. No account or timer is required.</p></header>
 <p class="notice">The default print layout uses 18pt clues on two US Letter pages. For a shorter handout, choose the compact 13pt single-page option.</p>

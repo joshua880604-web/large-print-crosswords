@@ -5,7 +5,7 @@ import puzzles from '../data/puzzles.json';
 const selected=puzzles.filter(p=>p.theme==='Sports');
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Sports',path:'/sports-crosswords/'}];
 ---
-<Layout title="Free Sports Crossword Puzzles in Large Print" description="Enjoy easy sports crosswords with large letters and direct clues. Explore baseball, golf, bowling, tennis and familiar team sports, online or in print." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Free Sports Crossword Puzzles in Large Print" description="Enjoy easy sports crosswords with large letters and direct clues. Explore baseball, golf, bowling, tennis and familiar team sports, online or in print." breadcrumbs={breadcrumbs} active="puzzles" puzzleList={selected}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Sports</span></nav>
 <header class="page-heading"><p class="eyebrow">FAMILIAR GAMES · YOUR OWN PACE</p><h1>Sports crosswords in large print.</h1><p>Enjoy {selected.length} easy mini crosswords about baseball, bowling, golf, and familiar team games. Solve online or print a puzzle with separate answers.</p></header>
 

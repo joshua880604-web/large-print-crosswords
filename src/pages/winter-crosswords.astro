@@ -11,7 +11,7 @@ const groups=[
 ];
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Winter',path:'/winter-crosswords/'}];
 ---
-<Layout title="Free Winter Crossword Puzzles for Adults in Large Print" description="Explore winter crosswords about backyard wildlife, weather, cozy scenes and snowy pastimes. Play online or print large 18pt clues and a separate answer sheet." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Free Winter Crossword Puzzles for Adults in Large Print" description="Explore winter crosswords about backyard wildlife, weather, cozy scenes and snowy pastimes. Play online or print large 18pt clues and a separate answer sheet." breadcrumbs={breadcrumbs} active="puzzles" puzzleList={winterPuzzles}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Winter</span></nav>
 <header class="page-heading"><p class="eyebrow">WINTER SCENES · YOUR OWN PACE</p><h1>Winter crossword puzzles in large print.</h1><p>Explore {winterPuzzles.length} original mini crosswords about familiar comforts, winter nature, weather, and snowy pastimes. Choose a scene, play with hints, or print a puzzle and its separate answers. No account or timer is required.</p></header>
 <p class="notice">Print with 18pt clues and a larger board on two US Letter pages, or choose the compact 13pt single-page layout.</p>

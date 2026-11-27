@@ -1,15 +1,42 @@
 ---
 import '../styles/global.css';
-interface Props { title?: string; description?: string; active?: string; noindex?: boolean; breadcrumbs?: {name:string;path:string}[]; }
-const {title='Free Large Print Crossword Puzzles — Play & Print', description='Enjoy free, easy large print crosswords. Play online at your own pace or print clear, easy-to-read puzzles with separate answer sheets.', active='', noindex=false, breadcrumbs=[]}=Astro.props;
+interface Props {
+ title?: string;
+ description?: string;
+ active?: string;
+ noindex?: boolean;
+ breadcrumbs?: {name:string;path:string}[];
+ puzzleList?: readonly {id:string;title:string}[];
+ puzzleGame?: {title:string;description:string};
+}
+const {title='Free Large Print Crossword Puzzles — Play & Print', description='Enjoy free, easy large print crosswords. Play online at your own pace or print clear, easy-to-read puzzles with separate answer sheets.', active='', noindex=false, breadcrumbs=[], puzzleList, puzzleGame}=Astro.props;
 const canonical=new URL(Astro.url.pathname,Astro.site);
 const site=new URL('/',Astro.site).href;
 const image=new URL('/social-card.png',Astro.site).href;
+const listId=`${canonical}#puzzle-list`;
+const gameId=`${canonical}#puzzle`;
+const mainEntityId=puzzleList ? listId : puzzleGame ? gameId : undefined;
 const graph:Record<string,unknown>[]=[
  {'@type':'WebSite','@id':`${site}#website`,url:site,name:'Large Print Crosswords',inLanguage:'en-US'},
- {'@type':'WebPage','@id':`${canonical}#webpage`,url:canonical.href,name:title,description,inLanguage:'en-US',isPartOf:{'@id':`${site}#website`},...(breadcrumbs.length?{breadcrumb:{'@id':`${canonical}#breadcrumb`}}:{})}
+ {
+  '@type':puzzleList?'CollectionPage':'WebPage','@id':`${canonical}#webpage`,url:canonical.href,
+  name:title,description,inLanguage:'en-US',isPartOf:{'@id':`${site}#website`},
+  ...(breadcrumbs.length?{breadcrumb:{'@id':`${canonical}#breadcrumb`}}:{}),
+  ...(mainEntityId?{mainEntity:{'@id':mainEntityId}}:{}),
+ }
 ];
 if(breadcrumbs.length)graph.push({'@type':'BreadcrumbList','@id':`${canonical}#breadcrumb`,itemListElement:breadcrumbs.map((crumb,index)=>({'@type':'ListItem',position:index+1,name:crumb.name,item:new URL(crumb.path,Astro.site).href}))});
+if(puzzleList)graph.push({
+ '@type':'ItemList','@id':listId,numberOfItems:puzzleList.length,
+ itemListElement:puzzleList.map((puzzle,index)=>({
+  '@type':'ListItem',position:index+1,name:puzzle.title,
+  url:new URL(`/crosswords/${puzzle.id}/`,Astro.site).href,
+ })),
+});
+if(puzzleGame)graph.push({
+ '@type':'Game','@id':gameId,url:canonical.href,name:puzzleGame.title,
+ description:puzzleGame.description,inLanguage:'en-US',genre:'Crossword puzzle',isAccessibleForFree:true,
+});
 const structuredData=JSON.stringify({'@context':'https://schema.org','@graph':graph}).replace(/</g,'\\u003c');
 ---
 <!doctype html>

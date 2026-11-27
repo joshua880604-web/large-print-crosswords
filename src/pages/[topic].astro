@@ -14,7 +14,7 @@ const starters=(starterPuzzles[topic.slug] ?? []).map(id => {
 });
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:topic.name,path:`/${topic.slug}/`}];
 ---
-<Layout title={`${topic.name} Crosswords — Play and Print in Large Type`} description={topic.description} breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title={`${topic.name} Crosswords — Play and Print in Large Type`} description={topic.description} breadcrumbs={breadcrumbs} active="puzzles" puzzleList={items}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">{topic.name}</span></nav>
 <header class="page-heading"><p class="eyebrow">CHOOSE AN INTEREST · YOUR OWN PACE</p><h1>{topic.name} crossword puzzles.</h1><p>{topic.description}</p><p>{items.length} games to choose from. Play online with optional hints and browser saving, or print puzzles and separate answers.</p></header>
 <p class="notice">Default print sheets use 18pt clues on two US Letter pages. The compact 13pt layout uses one page. <a href={`/print-pack/?theme=${encodeURIComponent(topic.printTheme)}`}>Choose a group of puzzles to print together →</a></p>

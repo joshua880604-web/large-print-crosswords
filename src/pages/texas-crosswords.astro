@@ -6,7 +6,7 @@ import puzzles from '../data/puzzles.json';
 const selected=puzzles.filter(p=>p.series==='texas-scenes');
 const breadcrumbs=[{name:'Home',path:'/'},{name:'Crosswords',path:'/crosswords/'},{name:'Texas',path:'/texas-crosswords/'}];
 ---
-<Layout title="Texas Crossword Puzzles in Large Print — Play or Print Free" description="Enjoy original Texas-themed crosswords in large print: ranch words, spring wildflowers, pecans, dance halls and a Texas road trip. Play online or print with answers." breadcrumbs={breadcrumbs} active="puzzles">
+<Layout title="Texas Crossword Puzzles in Large Print — Play or Print Free" description="Enjoy original Texas-themed crosswords in large print: ranch words, spring wildflowers, pecans, dance halls and a Texas road trip. Play online or print with answers." breadcrumbs={breadcrumbs} active="puzzles" puzzleList={selected}>
 <div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/crosswords/">Crosswords</a><span aria-hidden="true">/</span><span aria-current="page">Texas</span></nav>
 <header class="page-heading"><p class="eyebrow">A LITTLE TEXAS · ONE WORD AT A TIME</p><h1>Texas crosswords in large print.</h1><p>Try {selected.length} original Texas-themed mini crosswords, from ranches and wildflowers to dance halls and a road trip. Play with hints or print a puzzle and separate answers.</p></header>
 <Collection items={selected}/>

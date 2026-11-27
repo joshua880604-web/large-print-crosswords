@@ -14,9 +14,19 @@ const attr=(tag,name)=>tag.match(new RegExp(`\\b${name}="([^"]*)"`))?.[1]||'';
 function walk(dir){return readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(join(dir,e.name)):[join(dir,e.name)]);}
 function meta(html,name){return (html.match(/<meta\b[^>]*>/g)||[]).find(tag=>attr(tag,'name')===name||attr(tag,'property')===name)||'';}
 function canonical(html){return (html.match(/<link\b[^>]*>/g)||[]).find(tag=>attr(tag,'rel')==='canonical')||'';}
+function renderedPuzzleList(html,isPrintable){
+ const featured=isPrintable ? html.match(/<section\b[^>]*class="featured-print"[^>]*>([\s\S]*?)<\/section>/)?.[1]||'' : '';
+ const items=isPrintable ? featured.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g) : html.matchAll(/(<a\b[^>]*class="puzzle-card [^"]*"[^>]*>[\s\S]*?)<\/a>/g);
+ return Array.from(items,([,markup],index)=>({
+  '@type':'ListItem',position:index+1,
+  name:decode(markup.match(/<h[34]\b[^>]*>([^<]+)<\/h[34]>/)?.[1]||''),
+  url:origin+(markup.match(/<a\b[^>]*href="(\/crosswords\/[^"/]+\/)"/)?.[1]||''),
+ }));
+}
 const descriptions=new Set(),titles=new Set(),indexable=new Set(),navigation=new Map();
 const printPages=new Set();
-let puzzleCount=0,htmlCount=0;
+const collectionItemUrls=new Set();
+let puzzleCount=0,htmlCount=0,collectionCount=0;
 for(const file of walk(dist).filter(f=>f.endsWith('.html'))){
  const name=relative(dist,file),html=readFileSync(file,'utf8');htmlCount++;
  const noindex=attr(meta(html,'robots'),'content').toLowerCase().split(/[,\s]+/).includes('noindex');
@@ -29,6 +39,8 @@ for(const file of walk(dist).filter(f=>f.endsWith('.html'))){
  assert.equal(attr(meta(html,'og:url'),'content'),url,`${name}: canonical and sharing URLs must agree`);
  assert.equal(attr(meta(html,'og:title'),'content'),attr(meta(html,'twitter:title'),'content'),`${name}: matching share titles`);
  assert.equal(attr(meta(html,'og:image'),'content'),origin+'/social-card.png');
+ const source=html.match(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/)?.[1];
+ if(noindex)assert.equal(source,undefined,`${name}: noindex pages omit structured data`);
  if(name.startsWith('print/')){
   assert.ok(noindex,`${name}: print and answer sheets must carry noindex`);
   printPages.add(name);
@@ -40,12 +52,45 @@ for(const file of walk(dist).filter(f=>f.endsWith('.html'))){
   assert.ok(!titles.has(title),`${name}: duplicate indexable title`);titles.add(title);
   assert.ok(!descriptions.has(description),`${name}: duplicate indexable description`);descriptions.add(description);
   assert.ok(!indexable.has(url),`${name}: duplicate canonical`);indexable.add(url);
-  const source=html.match(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/)?.[1];assert.ok(source,`${name}: structured data missing`);
+  assert.ok(source,`${name}: structured data missing`);
   const data=JSON.parse(source);assert.equal(data['@context'],'https://schema.org');
-  const page=data['@graph'].find(item=>item['@type']==='WebPage');assert.equal(page.url,url);assert.equal(page.name,title);assert.equal(page.description,description);
-  if(/^crosswords\/[^/]+\/index\.html$/.test(name)){
+  const isTopic=/^[^/]+-crosswords\/index\.html$/.test(name);
+  const isPrintable=name==='printable/index.html';
+  const isCollection=isTopic||isPrintable||name==='crosswords/index.html';
+  const page=data['@graph'].find(item=>item['@id']===`${url}#webpage`);
+  assert.equal(page?.['@type'],isCollection?'CollectionPage':'WebPage',`${name}: structured page type`);
+  assert.equal(page.url,url);assert.equal(page.name,title);assert.equal(page.description,description);
+  const lists=data['@graph'].filter(item=>item['@type']==='ItemList');
+  assert.equal(lists.length,isCollection?1:0,`${name}: puzzle lists in structured data`);
+  if(isCollection){
+   collectionCount++;
+   const list=lists[0],items=renderedPuzzleList(html,isPrintable);
+   assert.ok(items.length&&items.every(item=>item.name&&item.url.startsWith(`${origin}/crosswords/`)),`${name}: expected visible puzzle names and links`);
+   assert.equal(new Set(items.map(item=>item.url)).size,items.length,`${name}: duplicate puzzle links in marked list`);
+   assert.equal(list['@id'],`${url}#puzzle-list`);
+   assert.deepEqual(page.mainEntity,{'@id':list['@id']});
+   assert.equal(list.numberOfItems,items.length);
+   assert.deepEqual(list.itemListElement,items,`${name}: structured list must match visible names, links and order`);
+   for(const item of items)collectionItemUrls.add(item.url);
+  }
+  const isGame=/^crosswords\/[^/]+\/index\.html$/.test(name);
+  const games=data['@graph'].filter(item=>item['@type']==='Game');
+  assert.equal(games.length,isGame?1:0,`${name}: Game schema belongs on permanent puzzle pages`);
+  if(isGame){
    puzzleCount++;
-   const breadcrumb=data['@graph'].find(item=>item['@type']==='BreadcrumbList');assert.equal(breadcrumb.itemListElement.length,3);assert.equal(breadcrumb.itemListElement.at(-1).item,url);
+   const game=games[0];
+   const heading=html.match(/<h1\b[^>]*>([^<]+)<\/h1>\s*<p\b[^>]*>([^<]+)<\/p>/);
+   assert.ok(heading,`${name}: a visible puzzle title and introduction are required`);
+   assert.deepEqual(game,{
+    '@type':'Game','@id':`${url}#puzzle`,url,name:decode(heading[1]),description:decode(heading[2]),
+    inLanguage:'en-US',genre:'Crossword puzzle',isAccessibleForFree:true,
+   },`${name}: Game schema must describe the visible crossword`);
+   assert.deepEqual(page.mainEntity,{'@id':game['@id']});
+  }
+  if(isGame||isTopic){
+   const breadcrumb=data['@graph'].find(item=>item['@type']==='BreadcrumbList');
+   assert.equal(breadcrumb?.itemListElement.length,3);assert.equal(breadcrumb.itemListElement.at(-1).item,url);
+   assert.deepEqual(page.breadcrumb,{'@id':breadcrumb['@id']});
    assert.ok(html.includes('aria-label="Breadcrumb"'),`${name}: breadcrumb data needs a visible counterpart`);
   }
  }
@@ -70,6 +115,8 @@ for(let i=0;i<queue.length;i++)for(const target of navigation.get(queue[i])||[])
 for(const url of indexable)assert.ok(depth.has(url),`Indexable page has no HTML navigation path from home: ${url}`);
 // Validate the two-way topic and series navigation in the generated HTML.
 const topicUrls=[...indexable].filter(url=>url.endsWith('-crosswords/'));
+assert.equal(collectionCount,topicUrls.length+2,'Both directories and all topic pages need structured puzzle lists');
+for(const url of collectionItemUrls)assert.ok(indexable.has(url),`Structured puzzle list links to a non-indexable game: ${url}`);
 const gamesBySeries=new Map();
 const gameUrl=p=>`${origin}/crosswords/${p.id}/`;
 for(const puzzle of puzzles){
@@ -145,4 +192,5 @@ for(const path of ['crosswords/index.html','printable/index.html']){
  for(const tag of previews){assert.equal(attr(tag,'alt'),'');assert.equal(attr(tag,'loading'),'lazy');assert.ok(Number(attr(tag,'width'))>0&&Number(attr(tag,'height'))>0,'Preview needs intrinsic dimensions');}
 }
 console.log(`PASS SEO: ${htmlCount} HTML pages; ${puzzleCount} indexable puzzles; ${listed.length} unique sitemap URLs; ${puzzleCount*2} noindex print copies; unique titles/descriptions, canonical URLs, structured data, internal targets, and 1200 × 630 sharing image verified.`);
+console.log(`SCHEMA: ${puzzleCount} Game nodes match their visible titles and introductions; ${collectionCount} collection lists match their visible game titles, links and order.`);
 console.log(`CRAWL: all ${indexable.size} indexable pages reachable through HTML links within ${Math.max(...depth.values())} clicks of home; the text index links to all games and both print sheets without scripts.`);
