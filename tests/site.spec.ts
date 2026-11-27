@@ -77,6 +77,19 @@ test('mobile pages fit, touch entry and print navigation',async({page})=>{
  await page.goto('/crosswords/garden-days/');await page.locator('.clue-button').first().click();await page.keyboard.type('A');await page.getByRole('link',{name:'Print this puzzle'}).click();await expect(page.getByRole('button',{name:'Print puzzle'})).toBeVisible();
 });
 
+test('long clues fit a 320-pixel screen at both text sizes', async ({ page }) => {
+ await page.setViewportSize({ width: 320, height: 568 });
+ await page.goto('/crosswords/bible-moses-and-the-journey-5/');
+ const gameFits = () => page.locator('.game-root').evaluate(game =>
+  game.scrollWidth <= game.clientWidth && document.documentElement.scrollWidth <= innerWidth
+ );
+ expect(await gameFits()).toBeTruthy();
+ const largerClues = page.getByRole('button', { name: 'Larger clues' });
+ await largerClues.click();
+ await expect(largerClues).toHaveAttribute('aria-pressed', 'true');
+ expect(await gameFits()).toBeTruthy();
+});
+
 // Bound each request context and test budget as the catalog grows. All games
 // and both print variants remain covered; release bodies after inspecting them.
 for(let start=0;start<puzzles.length;start+=25){

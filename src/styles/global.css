@@ -8,6 +8,11 @@
 .board-scroll{width:100%;overflow-x:auto;overscroll-behavior-x:contain;padding-bottom:3px}.large-board .crossword-board{min-width:640px}.large-board .cell input{font-size:30px}.large-board .cell-number{font-size:11px}.board-panel{min-width:0}
 
 @media(max-width:700px){.hero-art{overflow:hidden}}
+@media (max-width: 700px) {
+  .clue-button > span {
+    overflow-wrap: anywhere;
+  }
+}
 nav.breadcrumb{display:block;line-height:1.8}nav.breadcrumb a{padding:0}nav.breadcrumb>span[aria-hidden]{padding-inline:5px}
 .previous-progress{margin-bottom:24px}.previous-progress a,.notice a{text-decoration:underline;text-underline-offset:3px}.puzzle-notes{margin-top:35px;border-top:1px solid var(--line);padding-top:30px;max-width:850px}.puzzle-notes h2{font-size:32px;margin-bottom:18px}.puzzle-notes>p{font-size:19px;margin-bottom:22px;line-height:1.8}.answer-explanations{padding:20px 0;border-block:1px solid var(--line)}.answer-explanations summary{cursor:pointer;font-size:19px}.answer-explanations dl{margin:0}.answer-explanations dl>div{padding:16px 0}.answer-explanations dt{font-size:17px;font-weight:600;letter-spacing:1.5px}.answer-explanations dd{margin:7px 0 0;font-size:19px;line-height:1.8;color:var(--muted)}
 @media print{.print-board{width:var(--print-board-width,3.6in);max-height:none}.print-page .eyebrow{margin-bottom:12px}.print-footer{margin-top:8px;padding-top:6px;line-height:1.3}}
